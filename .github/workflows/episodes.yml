@@ -10,6 +10,10 @@ on:
         description: "Upload to YouTube (as private)?"
         type: boolean
         default: false
+      thumbnail_only:
+        description: "Only redraw and replace the thumbnail of already uploaded episode(s)"
+        type: boolean
+        default: false
   schedule:
     # Every day at 09:00 Japan time. Runs only when the repository variable AUTO_UPLOAD is "true".
     - cron: "0 0 * * *"
@@ -49,8 +53,18 @@ jobs:
             echo "upload=${{ inputs.upload }}" >> "$GITHUB_OUTPUT"
           fi
 
+      - name: Replace thumbnails only
+        if: inputs.thumbnail_only
+        env:
+          CLIENT_ID: ${{ secrets.CLIENT_ID }}
+          CLIENT_SECRET: ${{ secrets.CLIENT_SECRET }}
+          REFRESH_TOKEN: ${{ secrets.REFRESH_TOKEN }}
+        run: |
+          python src/make_thumbnail.py ${{ steps.pick.outputs.list }}
+          python src/upload.py thumb ${{ steps.pick.outputs.list }}
+
       - name: Make videos
-        if: steps.pick.outputs.list != ''
+        if: steps.pick.outputs.list != '' && !inputs.thumbnail_only
         env:
           SENA_VOICE: ${{ vars.SENA_VOICE }}
           DANIEL_VOICE: ${{ vars.DANIEL_VOICE }}
@@ -60,7 +74,7 @@ jobs:
           done
 
       - name: Save videos for download
-        if: steps.pick.outputs.list != ''
+        if: steps.pick.outputs.list != '' && !inputs.thumbnail_only
         uses: actions/upload-artifact@v4
         with:
           name: episodes-${{ github.run_number }}
@@ -71,7 +85,7 @@ jobs:
           retention-days: 30
 
       - name: Upload to YouTube
-        if: steps.pick.outputs.list != '' && steps.pick.outputs.upload == 'true'
+        if: steps.pick.outputs.list != '' && steps.pick.outputs.upload == 'true' && !inputs.thumbnail_only
         env:
           CLIENT_ID: ${{ secrets.CLIENT_ID }}
           CLIENT_SECRET: ${{ secrets.CLIENT_SECRET }}

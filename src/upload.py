@@ -106,7 +106,21 @@ def upload(num, video, thumbnail, privacy="private"):
     return vid
 
 
+def update_thumbnail(num):
+    """Replace the thumbnail of an already uploaded episode."""
+    pub = json.load(open(os.path.join(ROOT, "published.json")))
+    vid = pub[str(num)]["video_id"]
+    thumb = os.path.join(ROOT, "output", f"ep{num:02d}", f"ep{num:02d}_thumbnail.jpg")
+    youtube().thumbnails().set(videoId=vid, media_body=MediaFileUpload(thumb, mimetype="image/jpeg")).execute()
+    print(f"  thumbnail updated for EP {num:02d} ({vid})", flush=True)
+    return vid
+
+
 if __name__ == "__main__":
+    if sys.argv[1] == "thumb":
+        for n in sys.argv[2:]:
+            update_thumbnail(int(n))
+        sys.exit(0)
     n = int(sys.argv[1])
     d = os.path.join(ROOT, "output", f"ep{n:02d}")
     print(upload(n, os.path.join(d, f"ep{n:02d}.mp4"), os.path.join(d, f"ep{n:02d}_thumbnail.jpg")))

@@ -41,6 +41,8 @@ def description(meta, ep):
         "Sena, an Associate in Tokyo, learns from her mentor Daniel, a People Manager in Seattle.",
         "",
         "Sena and Daniel are fictional characters. Their voices are AI-generated.",
+        "",
+        "#EQ #EmotionalIntelligence #Leadership #CareerGrowth #HumanCurriculum",
     ]
     return "\n".join(lines)[:4900]
 

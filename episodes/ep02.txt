@@ -1,0 +1,89 @@
+DANIEL: Welcome back to Human Curriculum. I'm Daniel Reed, a People Manager in Seattle.
+SENA: And I'm Sena Sato, an Associate in Tokyo. Last time, we talked about what AI can't do for you. Judgment, trust, and growth. And the thread that runs through all three: EQ.
+DANIEL: Today we start the EQ part properly. And we're starting somewhere a little unexpected. Not with other people. Not even with your thoughts. With your body.
+SENA: My body?
+DANIEL: Your body. But first, I promised you'd bring a situation from your week. Did you try the listening practice?
+SENA: I did. I asked the partner team for a quick call instead of sending another document. And I just listened. It turned out they weren't against the proposal at all. They were worried about the timeline. Nobody had asked them.
+DANIEL: That's great. One question changed the whole picture.
+SENA: It did. But something else happened this week, and I think it fits today's topic.
+DANIEL: Go ahead.
+SENA: On Wednesday night, around eleven o'clock Tokyo time, I got a message from a senior manager in the US. It said, "Can we talk about the numbers in your deck? Something looks off."
+DANIEL: Oh no. At eleven at night.
+SENA: Right. And I read it in bed. My heart started pounding. My face got hot. I sat up and started typing a long reply, explaining every number, apologizing, offering to redo the whole deck.
+DANIEL: Did you send it?
+SENA: I almost did. My finger was on the button. But I was so tired that I put the phone down for a moment. And when I picked it up again, I read the message one more time. It didn't say I was wrong. It just said, "Something looks off." Maybe it was a formatting issue. Maybe it was their mistake.
+DANIEL: So what did you do?
+SENA: I wrote two lines. "Thanks for flagging. Happy to walk through it tomorrow morning my time. Which slide are you looking at?" And I went to sleep. Well, I tried to.
+DANIEL: And?
+SENA: It was a typo in one chart label. That's it. My long, panicked reply would have made it look like a much bigger problem.
+DANIEL: Sena, that moment, when you put the phone down, is exactly what we're talking about today. I call it the thirty-second window.
+SENA: The thirty-second window.
+DANIEL: It's not a scientific term. It's my name for the short gap between when your body reacts and when you act. Your heart pounds, your face gets hot, your chest gets tight. That's your body sending a signal. If you notice the signal, you get a choice. If you don't, the signal makes the choice for you.
+SENA: In my case, the signal almost wrote the email.
+DANIEL: Exactly. And there's a name for the skill of noticing those signals. Interoception.
+SENA: Interoception. That sounds very scientific.
+DANIEL: It is, but the idea is simple. You probably know about the five senses that look outward. Sight, hearing, and so on. Interoception is the sense that looks inward. It's how your brain picks up signals from inside your body. Your heartbeat. Your breathing. Tension in your stomach or your shoulders.
+SENA: So it's like a sixth sense, but pointed at myself.
+DANIEL: That's a nice way to put it. Researchers Hugo Critchley and Sarah Garfinkel wrote a well-known review in 2017 about interoception and emotion. One of their points is that these body signals are deeply connected to how we experience emotions. A part of the brain called the insula seems to act like a hub, bringing those signals together.
+SENA: So my pounding heart wasn't just a side effect of feeling anxious. It was part of the feeling.
+DANIEL: That's how many researchers see it. And they also make a useful distinction. There's interoceptive accuracy, which is how well you can actually detect a signal, like your heartbeat. There's interoceptive sensibility, which is how good you think you are at it. And there's awareness, which is whether those two match.
+SENA: Wait, they don't always match?
+DANIEL: Often they don't. Some people believe they're very in tune with their body, but when you test them, they're not. And the review points out that a big gap between the two has been linked with anxiety.
+SENA: That's a little uncomfortable. I think I'm pretty sensitive. But maybe I'm sensitive to the wrong things.
+DANIEL: That's an honest thought. And it's why we practice instead of just assuming. Can I tell you about my favorite study on this?
+SENA: Of course.
+DANIEL: In 2016, a group of researchers including Narayanan Kandasamy, Sarah Garfinkel, and John Coates studied traders on a London trading floor. High-frequency traders. People who make fast decisions with a lot of money, all day long.
+SENA: Very high pressure.
+DANIEL: Very. They tested eighteen traders and compared them with forty-eight people who weren't traders. The test was simple. Sit quietly and count your own heartbeats, without touching your pulse. Then they compared your count with the real number.
+SENA: That sounds hard. I'm not sure I could feel my heartbeat right now.
+DANIEL: Most people can't, at least not accurately. But the traders were better at it than the comparison group. And here's the interesting part. Among the traders, the ones who were better at counting their heartbeats tended to make more money. And they had also lasted more years in the job.
+SENA: Wow. So the people who could feel their heartbeat were better traders?
+DANIEL: That's the headline, but I want to be careful, because the researchers were careful too. It was a small group, and they said clearly that they could not prove cause and effect. Maybe noticing your body helps you make better decisions. Maybe something else, like stress or fitness, affects both. But it fits a bigger idea, sometimes called somatic markers, from the neuroscientist Antonio Damasio. The idea is that body signals help guide our decisions, often before we can explain them in words.
+SENA: Like a gut feeling.
+DANIEL: Exactly like a gut feeling. The goal isn't to obey every gut feeling. It's to notice it, and then decide what it's telling you.
+SENA: Okay. But why is this a skill AI can't do for me? AI could track my heart rate with a smartwatch.
+DANIEL: Great question. A watch can measure your heart rate. But it can't tell whether your heart is pounding because you're scared, excited, or you just climbed the stairs. Only you can connect the signal to the meaning. And only you can decide what to do in that window. That's the human part.
+SENA: So the data is not the same as the meaning.
+DANIEL: Exactly. And this matters even more when you lead people. Let me tell you about a mistake I made.
+SENA: I like these stories.
+DANIEL: In my second year as a manager, we had a production issue on a Friday afternoon. A customer was affected. One of my engineers posted in the team channel, "I told everyone this would happen." I felt my jaw tighten and my shoulders go up. And I replied in the channel, in front of everyone, "This isn't the time for I told you so."
+SENA: Oh.
+DANIEL: Yes. The engineer stopped talking for the rest of the incident. And later I found out that he had raised the risk twice, and I had pushed back both times. He was frustrated, and honestly, he had a point.
+SENA: What would you do differently?
+DANIEL: If I had noticed my jaw and my shoulders, I would have had my thirty-second window. I might have sent him a private message instead. Something like, "You flagged this before. Let's fix it now, and then I want to hear what we missed." Same situation, completely different team afterwards.
+SENA: So the body signal was there. You just didn't notice it in time.
+DANIEL: Exactly. Now I treat a tight jaw as an alarm. When I feel it, I don't type anything for a moment.
+SENA: Okay, I have a cultural question.
+DANIEL: Go ahead.
+SENA: In Japan, I learned to hide my reactions at work. Keep a calm face, don't show frustration. Isn't that already a kind of emotional control? Why do I need to notice my body if I'm already good at hiding things?
+DANIEL: That's a really important question. Hiding a reaction and noticing it are different skills. You can keep a calm face while your heart is pounding and your judgment is still being pulled by the panic. Like your long email.
+SENA: Right. My face was calm. My fingers were not.
+DANIEL: Exactly. And there's research suggesting that hiding feelings, sometimes called suppression, can be tiring and doesn't always reduce the feeling inside. Noticing is different. You're not pushing the feeling away. You're looking at it.
+SENA: So noticing first, and then choosing.
+DANIEL: Yes. And here's a small tool that helps with the choosing. Name the feeling. In 2007, Matthew Lieberman and his colleagues at UCLA did a brain imaging study. When people put their feelings into words while looking at emotional images, activity in the amygdala, a part of the brain linked to threat, went down. And a part of the prefrontal cortex became more active.
+SENA: Just by naming the feeling?
+DANIEL: Just by naming it. They called it affect labeling. It's not magic, but it's a quick way to take a little power back from the reaction.
+SENA: So on Wednesday night, I could have said to myself, "This is anxiety. My heart is pounding because I'm worried I made a mistake."
+DANIEL: Exactly. And once you've named it, you can ask a better question. Not "How do I fix everything right now?" but "What do I actually know?"
+SENA: And what I actually knew was: someone thinks something looks off. That's all.
+DANIEL: That's all. Which leads to a two-line reply instead of a two-page apology.
+SENA: I want to make sure I can actually do this. Can you give me the steps?
+DANIEL: Sure. Four steps, and they fit inside thirty seconds. First, pause. Take your hands off the keyboard or put the phone down. Second, scan. Where do you feel it? Heart, face, stomach, shoulders, jaw. Third, name it. One or two words. Anxious, angry, embarrassed, excited. Fourth, choose. Ask yourself, "What do I actually know, and what's the smallest helpful next step?"
+SENA: Pause, scan, name, choose.
+DANIEL: That's it.
+SENA: Can I ask something a little personal?
+DANIEL: Of course.
+SENA: Sometimes the feeling is not just one moment. Sometimes it's weeks of stress, and my body feels tense all the time. Does this practice still help?
+DANIEL: It can help you notice it earlier, which is valuable. But I want to be clear. If stress or anxiety feels like it's taking over your life, that's a moment to talk to a doctor or a counselor, not just to try harder with a technique. Good managers say that out loud to their teams. Noticing your body is a skill. Getting support is also a skill.
+SENA: Thank you. I think a lot of people need to hear that.
+DANIEL: Me included, at times.
+SENA: So, this week's practice?
+DANIEL: This week, use the thirty-second window once a day. Choose one moment that makes you react. A tough message, a surprising comment in a meeting, a deadline change. Before you reply, do the four steps. Pause, scan, name, choose. And at the end of the day, write down one sentence. Where did you feel it in your body, and what did you choose to do?
+SENA: Just one sentence a day.
+DANIEL: Just one. After a week, you'll have seven sentences. I think you'll start to see your own patterns. Maybe your stomach tightens before meetings with a certain person. Maybe your face gets hot when you feel judged.
+SENA: That's a little scary, but also interesting. It's like getting to know myself as a data set.
+DANIEL: A data set that only you can read. That's the point.
+SENA: Okay. I'll try it, and I'll bring my seven sentences next time.
+DANIEL: Next time, we'll talk about ownership. What it really means to act like the work is yours, even when nobody is watching. And how it connects to managing yourself.
+SENA: Thanks for listening to Human Curriculum. I'm Sena.
+DANIEL: And I'm Daniel. Take thirty seconds today. See you next time.

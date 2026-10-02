@@ -29,6 +29,33 @@
         "EQ",
         "emotional intelligence"
       ]
+    },
+    {
+      "number": 2,
+      "script": "ep02.txt",
+      "title": "Interoceptive Awareness: The 30-Second Window",
+      "short_title": "Interoceptive Awareness",
+      "summary": "A late-night message from a senior manager makes Sena's heart pound, and she almost sends a two-page apology. Daniel explains interoception, the sense that reads signals from inside your body, and why noticing them is the first EQ skill. They look at research on interoception and emotion, a study of traders on a London trading floor, and how naming a feeling can calm the brain's threat response. Then they turn it into a four-step habit: pause, scan, name, choose.",
+      "practice": "Once a day, before replying to something that makes you react: pause, scan your body, name the feeling, then choose your next step. Write one sentence about it at night.",
+      "sources": [
+        "Critchley & Garfinkel (2017), Interoception and emotion, Current Opinion in Psychology",
+        "Kandasamy et al. (2016), Interoceptive Ability Predicts Survival on a London Trading Floor, Scientific Reports",
+        "Lieberman et al. (2007), Putting Feelings Into Words: Affect Labeling Disrupts Amygdala Activity in Response to Affective Stimuli, Psychological Science",
+        "Gross (1998), Antecedent- and response-focused emotion regulation, Journal of Personality and Social Psychology",
+        "Damasio, the somatic marker hypothesis"
+      ],
+      "tags": [
+        "EQ",
+        "emotional intelligence",
+        "interoception",
+        "self-awareness",
+        "emotion regulation",
+        "career",
+        "leadership",
+        "people manager",
+        "audiobook",
+        "English learning"
+      ]
     }
   ]
 }

@@ -66,7 +66,8 @@ git checkout -B claude/vigilant-gates-tewzrg origin/claude/vigilant-gates-tewzrg
 ## 7. 保存とコミット
 
 フォルダ名：`drafts/YYYY-MM-DD-am` または `drafts/YYYY-MM-DD-pm`（日本時間）。中身：
-- `article.md`：タイトル、記事ドラフト本文、末尾に「仕上げに必要な質問」（要記入の一覧）
+- `article.md`：タイトル、記事ドラフト本文、「公開用メモ（案）」、末尾に「仕上げに必要な質問」（要記入の一覧）
+  - 公開用メモ（案）：ハッシュタグ5個（記事の種類・テーマ・シリーズ名を混ぜる）、検索を意識したタイトル案2つ（読者が実際に検索しそうな言葉を、タイトルか副題に入れる）、入れるマガジン（シリーズ名）。
 - `brief.md`：選定理由（現在の記事数・反応データ、重複度と根拠、シリーズ上の位置づけ、研究との接点、タイトル案1つと型・強み）
 
 `note-pipeline/history.md` に1行追記してからコミットし、pushする。

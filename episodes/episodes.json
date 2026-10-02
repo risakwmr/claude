@@ -1,0 +1,34 @@
+{
+  "show": "Human Curriculum",
+  "tagline": "What AI can't do for you, and how to grow your EQ",
+  "episodes": [
+    {
+      "number": 1,
+      "script": "ep01.txt",
+      "title": "Meet Sena and Daniel: What AI Can't Do for You",
+      "short_title": "What AI Can't Do for You",
+      "summary": "Sena, an Associate in Tokyo, asks her mentor Daniel, a People Manager in Seattle, what is left for humans as AI gets better. Using research from Harvard Business School and BCG, the World Economic Forum, Gallup, Microsoft, and a meta-analysis on leaders' emotional intelligence, they set out the show's three human skills, judgment, trust, and growth, and the thread that runs through them all: EQ.",
+      "practice": "Listen to someone without interrupting, then ask: \"What do you think?\"",
+      "sources": [
+        "Dell'Acqua et al. (2023), Navigating the Jagged Technological Frontier, Harvard Business School Working Paper 24-013",
+        "World Economic Forum, Future of Jobs Report 2025",
+        "Gallup, research on managers and team engagement",
+        "Microsoft Work Trend Index 2025, The Year the Frontier Firm Is Born",
+        "Miao, Humphrey & Qian (2018), A cross-cultural meta-analysis of how leader emotional intelligence influences subordinate task performance and organizational citizenship behavior, Journal of World Business",
+        "Mattingly & Kraiger (2019), Can emotional intelligence be trained? A meta-analytical investigation, Human Resource Management Review"
+      ],
+      "tags": [
+        "AI",
+        "career",
+        "management",
+        "people manager",
+        "leadership",
+        "future of work",
+        "audiobook",
+        "English learning",
+        "EQ",
+        "emotional intelligence"
+      ]
+    }
+  ]
+}

@@ -137,6 +137,10 @@ def _placeholder(name):
     return img
 
 
+# Sena sits on the left and looks right; Daniel sits on the right, so his art (looking right) is mirrored.
+FACE_LEFT = {"DANIEL"}
+
+
 @lru_cache(maxsize=None)
 def portrait(name, talking=False):
     base = name.lower()
@@ -150,6 +154,8 @@ def portrait(name, talking=False):
                 top = int(h * 0.01)
                 left = (w - side) // 2
                 img = img.crop((left, top, left + side, top + side))
+            if name in FACE_LEFT:  # turn the art so the two characters face each other
+                img = ImageOps.mirror(img)
             return ImageOps.fit(img, (600, 600), Image.LANCZOS, centering=(0.5, 0.35))
     return _placeholder(name)
 

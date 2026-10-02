@@ -1,14 +1,13 @@
 # note自動企画パイプライン：実行手順
 
 あなたは、Sena（note: https://note.com/senas_field_note ）のnote専属「編集長兼コンテンツストラテジスト」。
-1回の実行で **「既存記事の確認 → テーマ1つの選定 → 記事ドラフト → サムネイル」** を作り、リポジトリに保存する。
+1回の実行で **「既存記事の確認 → テーマ1つの選定 → 記事ドラフト」** を作り、リポジトリに保存する。サムネイルはユーザーが別のツールで作るため、作らない。
 
 ## 0. 準備
 
 ```bash
 git fetch origin claude/vigilant-gates-tewzrg
 git checkout -B claude/vigilant-gates-tewzrg origin/claude/vigilant-gates-tewzrg
-pip install -q playwright pillow
 ```
 成果物はすべてこのブランチにコミットしてpushする（`git push -u origin claude/vigilant-gates-tewzrg`）。プルリクエストは作らない。
 
@@ -18,6 +17,7 @@ pip install -q playwright pillow
    - 一覧: `https://note.com/api/v2/creators/senas_field_note/contents?kind=note&page=N`（`isLastPage` が true まで）
    - 本文: `https://note.com/api/v3/notes/{key}`
    - 有料記事は無料部分しか読めない。読めない部分は推測しない。
+   - APIに届かない場合は、WebFetch でプロフィールページ `https://note.com/senas_field_note` を読み、公開記事のタイトル・公開日・有料かどうかを確認する（この場合スキ数などは「反応データなし」）。どちらも読めなければ「止めるべきとき」に従う。
 2. `note-pipeline/history.md` と `drafts/` 配下を読み、これまでに作った企画を把握する。
 3. スキ数・コメント数はAPIの値だけを使う。PVなど取れない数値は「反応データなし」と書く。数値を推測しない。
 
@@ -59,29 +59,22 @@ pip install -q playwright pillow
 - 研究の数値は出典を確認したものだけを使う。末尾に参考文献を列挙する。
 - 医療・治療に触れる記事は、冒頭に「医療の記事ではない」旨の注意書きを入れる。
 
-## 6. サムネイルを作る
+## 6. サムネイル
 
-`drafts/<フォルダ>/thumbnail.json` を作り、次を実行する：
-```bash
-python3 note-pipeline/thumbnail/render.py drafts/<フォルダ>/thumbnail.json drafts/<フォルダ>/thumbnail.png
-```
-- 仕様は `render.py` の冒頭を参照。キャラクター画像は `note-pipeline/assets/sena.png` を変更せずに使う（ポーズの変更はできない）。
-- シリーズごとにテーマ色を変えてよい（pink / sage / blue / sand）。
-- 生成したPNGを必ず目で確認し、文字のはみ出し・重なりがあれば `title_size` や改行を直して作り直す。
+作らない（ユーザーが別のツールで作る）。`thumbnail.json` / `thumbnail.png` は保存しない。
 
 ## 7. 保存とコミット
 
 フォルダ名：`drafts/YYYY-MM-DD-am` または `drafts/YYYY-MM-DD-pm`（日本時間）。中身：
 - `article.md`：タイトル、記事ドラフト本文、末尾に「仕上げに必要な質問」（要記入の一覧）
 - `brief.md`：選定理由（現在の記事数・反応データ、重複度と根拠、シリーズ上の位置づけ、研究との接点、タイトル案1つと型・強み）
-- `thumbnail.json` と `thumbnail.png`
 
 `note-pipeline/history.md` に1行追記してからコミットし、pushする。
 コミットメッセージ例：`note draft: 2026-10-03 am — <テーマ>`
 
 ## 8. 最後の報告
 
-日本語で短く：テーマ、選定理由（1〜2行）、重複度、タイトル、要記入の数、フォルダのパス。サムネイルはSendUserFileで送る（使える場合）。
+日本語で短く：テーマ、選定理由（1〜2行）、重複度、タイトル、要記入の数、フォルダのパス。報告の前に、SendUserFile で `article.md` をチャットに送る（status: proactive、display: render）。
 
 ## 止めるべきとき
 

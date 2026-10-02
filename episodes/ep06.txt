@@ -1,0 +1,78 @@
+DANIEL: Welcome back to Human Curriculum. I'm Daniel Reed, a People Manager in Seattle.
+SENA: And I'm Sena Sato, an Associate in Tokyo. Last time, we talked about asking for feedback, and what to do with it once you get it.
+DANIEL: And today we're talking about a meeting that almost everyone has, and almost everyone wastes a little. The one-on-one. But first, the practice. Last week, you were going to ask someone, "What's one thing I could do better?" And then reply with only two words. "Thank you."
+SENA: Yes. And I have to say, the second part was much harder than the first.
+DANIEL: Tell me what happened.
+SENA: I asked Kenta, a teammate who reviews my analysis. We were walking back from a meeting, so it felt natural. I said, "What's one thing I could do better?" He thought for a moment and said, "Your summaries are good, but sometimes the main point is on the last slide. I have to wait for it."
+DANIEL: That's useful feedback.
+SENA: It is. But in my head, I immediately had three explanations ready. The audience was senior. The data was complicated. My manager likes background first.
+DANIEL: Did you say them?
+SENA: I started to. I said, "Ah, that's because" and then I stopped. I actually stopped in the middle of the word. And I said, "Thank you." It felt very strange.
+DANIEL: That's a real win. Most people don't catch themselves at all.
+SENA: And then something nice happened. Because I didn't defend myself, Kenta kept talking. He gave me an example from last month. If I had explained, I think the conversation would have ended there.
+DANIEL: That's the hidden benefit of "thank you." It keeps the door open. So, what's your situation this week?
+SENA: It's about my one-on-one with my manager, Kato-san. We have a thirty-minute one-on-one every two weeks. And I realized something this week. I don't think I have ever brought anything to it.
+DANIEL: What happens in it?
+SENA: Kato-san opens our task list and goes down it. "How's this one? How's that one?" I report the status. Sometimes we finish in fifteen minutes and he says, "Okay, good, thanks." And this week, he canceled it because he was busy. And honestly, I felt a little relieved.
+DANIEL: Relieved. That's an important word.
+SENA: Then I felt guilty for feeling relieved. Because I want to be a manager someday. And this is the one meeting that's supposed to be about me. And I'm happy when it disappears.
+DANIEL: I think a lot of listeners will recognize that. If a meeting is only a status report, then yes, losing it doesn't feel like losing much. The status could be in a chat message.
+SENA: Exactly. So I started wondering. What is a one-on-one actually for?
+DANIEL: Good question. And there's real research on it now. Steven Rogelberg, an organizational psychologist at the University of North Carolina at Charlotte, has spent years studying meetings. In a paper that first came out in 2022, he and his colleagues Jonathan Flinchum, Liana Kreamer, and Janaki Gooty wrote in the journal Organizational Psychology Review. Their main point was simple. One-on-one meetings between managers and their direct reports are extremely common, and they had been studied very little.
+SENA: So everyone does them, but nobody had really studied them?
+DANIEL: Not much, at least compared to group meetings. And they argued that a two-person meeting works differently from a group. In a group, you can stay quiet and still be in the meeting. In a one-on-one, there's nowhere to hide. The quality depends almost completely on two people.
+SENA: That makes sense. And in my case, one of those two people is not saying very much.
+DANIEL: Well, here's the part I think you'll like. Rogelberg wrote an article for Harvard Business Review in 2022 called "Make the Most of Your One-on-One Meetings." And later, in 2024, he wrote a book called "Glad We Met." One of his key messages is that one-on-ones work best when the meeting is mostly about topics that matter to the direct report. Not the things that are on the manager's mind.
+SENA: So the one-on-one is supposed to be my meeting.
+DANIEL: In that view, yes. And he points out that a lot of one-on-ones don't work well. In his book, he describes how people rate about half of their one-on-one meetings as falling short of what they could be. And managers tend to think their one-on-ones are going better than their employees do. Which should worry every manager, including me. Now, let me add a second piece of research, from Gallup. Gallup surveys huge numbers of employees about engagement. One finding they repeat often is that the manager or team leader alone accounts for seventy percent of the variance in team engagement.
+SENA: Seventy percent. What does "variance" mean here?
+DANIEL: Good catch. It means that when you look at why some teams are engaged and others aren't, the manager explains a very big share of those differences. It doesn't mean the manager controls seventy percent of how you feel. And it's survey data, so it shows a strong relationship, not proof of cause and effect.
+SENA: Okay. So managers matter a lot, but it's not a magic number.
+DANIEL: Right. And there's a related Gallup finding that connects directly to one-on-ones. Gallup reports that eighty percent of employees who say they received meaningful feedback in the past week are fully engaged. But when Gallup asked people about their last conversation with their manager, only sixteen percent said it was extremely meaningful.
+SENA: Sixteen percent. So most conversations with managers are just okay.
+DANIEL: Just okay, or worse. Again, this is correlation. Maybe engaged people notice feedback more. But Gallup also says something practical. A conversation of fifteen to thirty minutes can be enough, if it happens regularly. Short and frequent can beat long and rare.
+SENA: Our one-on-one is thirty minutes every two weeks. So the time is there. It's the content that's missing.
+DANIEL: Exactly. You need a different conversation, not more time.
+SENA: Can I ask the question we always ask? Why is this something AI can't do for me? AI could write a great one-on-one agenda in five seconds.
+DANIEL: It could. And it might be a good list. But a list of questions isn't a relationship. Think about what a one-on-one really does. Over many small conversations, two people learn how the other one thinks. What worries them. What they're proud of. When they're tired. That builds trust, and trust is what lets you say hard things later.
+SENA: So the agenda is easy. The trust is the hard part.
+DANIEL: Yes. And AI can't sit in the room and notice that your manager's voice changed when you mentioned a project. It can't decide, in the moment, to put the list away because something more important just came up. And it can't share your weekend. That small, human part is what makes the next serious conversation possible.
+SENA: The weekend part sounds small, but I think it matters in Japan. We call it kinkyou. How you've been lately.
+DANIEL: Kinkyou. I like that. Hold that thought, because I want to tell you about a mistake first.
+SENA: I was hoping you would.
+DANIEL: When I became a manager, I was very proud of my one-on-ones. Every week, thirty minutes, never canceled. I had a shared document for each person. And every meeting, I went through my list. Project updates, deadlines, risks.
+SENA: That sounds like Kato-san.
+DANIEL: It was exactly like that. One of my engineers, Priya, was quiet but excellent. Every week she said, "Everything's on track." And it was. Then one Monday, she resigned.
+SENA: Oh no.
+DANIEL: In the exit conversation, she told me she had wanted to move toward design work for almost a year. She said she never found the right moment to bring it up, because our one-on-ones always felt like my meeting. My list. My questions. And there was an opening on a partner team three months earlier. If I had asked her even once, "What do you want to talk about today?" I think she would have stayed.
+SENA: That's hard to hear.
+DANIEL: It was hard to learn. After that, I changed two things. First, the employee's topics go first. My list goes at the end, and if we run out of time, my list moves to chat. Second, I start every one-on-one with one question that isn't about work. Just, "How's your week been, really?"
+SENA: And did it change anything?
+DANIEL: The meetings got a little messier. And much more useful. People started telling me about problems while they were still small. That's the real value.
+SENA: That connects to a culture difference. In many Japanese companies, one-on-ones are fairly new. And because of the hierarchy, people often treat it as a chance to report to the boss. The boss asks, you answer. It would feel a bit rude to walk in with your own agenda.
+DANIEL: That's really helpful. In many US companies, especially in tech, people say, "The one-on-one is the employee's meeting." Managers are often trained to let the employee drive. Of course, not every US manager does this well. My Priya story is proof.
+SENA: So the idea is the same, but the habit is different.
+DANIEL: I think so. And there's a risk on both sides. In Japan, the risk is that the employee waits politely, and the manager thinks silence means everything is fine. In the US, the risk is that people think, "It's your meeting," and the manager shows up with no questions and no interest at all. A good one-on-one needs both people to bring something. And Sena, if you work in the US someday, your American manager may actually expect you to bring topics. If you don't, they might think you have nothing to say, or that you're not very ambitious.
+SENA: That would be a terrible misunderstanding. In Japan, waiting is a sign of respect.
+DANIEL: And that's exactly where EQ comes in. Today's skill belongs to the fourth EQ domain, relationship management. It's the skill of building and maintaining a working relationship on purpose, instead of leaving it to chance.
+SENA: Relationship management. So this is about the relationship itself, not only about me.
+DANIEL: Right. And in a one-on-one, relationship management means three things. First, you show up with something. Not just status. Second, you share a little of yourself, so the other person can understand you. Third, you pay attention to how the other person responds, and adjust.
+SENA: How do I do that without seeming rude to Kato-san? I can't suddenly walk in and say, "This is my meeting now."
+DANIEL: Please don't do that. Start small. At the beginning of the one-on-one, before the task list, say something like, "Before we go through the list, may I share a quick update and ask one question?" Most managers will say yes. Many will be relieved, because a lot of managers don't know what to do in one-on-ones either. Maybe Kato-san goes through the task list because nobody ever brought anything else.
+SENA: Okay. What kind of question should I bring?
+DANIEL: Something you actually want to know, that's hard to get from a document. For example, "What's one thing you think I should focus on to grow this year?" Or, "How does our team's work look from your manager's point of view?" Or, "Is there anything about how I work that makes your job harder?" And the update, the kinkyou, can be personal or about work. "My sister just had a baby, so I may be a little tired." "I've been enjoying the data work more than I expected." It's not about sharing secrets. It's about giving your manager a small window into you.
+SENA: That last example is important for me. If I don't say what I enjoy, how would Kato-san know?
+DANIEL: He wouldn't. Like Priya and me.
+SENA: And if Kato-san just says, "Okay," and moves on to the task list?
+DANIEL: Then you did your part. Relationships move slowly. Do it again next time. And watch his reaction. That's also data.
+SENA: What if the one-on-one keeps getting canceled?
+DANIEL: You can say, "I know you're busy. Could we keep even fifteen minutes? I have one thing I'd like your advice on." Remember the Gallup point. Short and regular can be enough.
+SENA: So, this week's practice?
+DANIEL: This week, bring two things to your next one-on-one. One question you really want answered, and one kinkyou, a short update about yourself, either personal or about work. Write them down before the meeting. Share them near the start, before the task list takes over. And afterward, write one sentence about how the other person reacted.
+SENA: One question, one kinkyou, one sentence afterward.
+DANIEL: That's it. And if you're the manager listening to this, try the reverse. Start your next one-on-one with, "What would you like to talk about today?" And then wait. Really wait.
+SENA: Waiting is my specialty. Maybe this time I'll be the one talking. I'll report back.
+DANIEL: Next time, we're moving to social awareness and a topic that's very close to your situation. Episode seven, "Say It Clearly: Low-Context Communication." How to say what you mean directly, without losing your kindness, especially when you work across cultures.
+SENA: That one will be useful for my emails to Seattle.
+DANIEL: For mine to Tokyo, too. Thanks for listening to Human Curriculum. I'm Daniel.
+SENA: And I'm Sena. Bring one question and one kinkyou. See you next time.

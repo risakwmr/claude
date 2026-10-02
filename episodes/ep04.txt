@@ -1,0 +1,95 @@
+DANIEL: Welcome back to Human Curriculum. I'm Daniel Reed, a People Manager in Seattle.
+SENA: And I'm Sena Sato, an Associate in Tokyo. Last time, we talked about ownership. Acting like the work is yours, even when nobody is watching.
+DANIEL: And today we go back inside. We're going to talk about one small word that most of us say every day. Fine.
+SENA: Fine. As in, "How are you?" "Fine."
+DANIEL: Exactly that. But first, your practice. Last week, I asked you to close one loose end that nobody asked you to close. Did you find one?
+SENA: I did. Our team has an onboarding document for new joiners. Someone started it about eight months ago, and it stopped halfway. The last section just said, "To be continued." And it never was.
+DANIEL: I think every team in the world has that document.
+SENA: Probably. Two new people join next month, so on Thursday I spent two hours finishing it. Current tools, who to ask for what, and the questions I had in my first month. Then I shared it in the team channel.
+DANIEL: How did people react?
+SENA: One teammate wrote, "I wish I had this when I joined." That felt good. But before I clicked share, I hesitated for a long time. I worried it looked like I was criticizing the person who started it.
+DANIEL: That's a very real worry. What did you do with it?
+SENA: I added one line at the top. "Building on the great start from last year." It took ten seconds, and the worry went away.
+DANIEL: I love that. You closed the loop and protected the relationship.
+SENA: Thank you. But that worry is actually connected to what I want to talk about today.
+DANIEL: Go ahead.
+SENA: On Tuesday, in my one on one, my manager told me that a project I had been preparing for will go to another team member. There was a good reason. Her experience fits better. And my manager asked, "Are you okay with that?" And I said, "Yes, I'm fine."
+DANIEL: And were you fine?
+SENA: That's the thing. I don't know. I felt something heavy all afternoon. When my friend asked me about it in the evening, I said, "I'm just stressed." But that didn't feel right either.
+DANIEL: Let's try something. If "fine" and "stressed" are the first words, what's underneath them? Take your time.
+SENA: Hmm. Disappointed, maybe. I wanted that project.
+DANIEL: Okay. Anything else?
+SENA: A little embarrassed, because I had told some people I might lead it. And, this is strange, but also a bit relieved. My schedule was already very full.
+DANIEL: Not strange at all. Disappointed, embarrassed, and relieved, all at once. How does that feel compared to "stressed"?
+SENA: Clearer. "Stressed" feels like a big gray cloud. These three words feel like three separate things I can actually look at.
+DANIEL: That's today's whole idea. We touched on naming feelings in episode two. Today we go one step further. Not just naming it, but naming it precisely. Researchers call this emotional granularity, or emotion differentiation.
+SENA: Granularity. Like how fine the grains are.
+DANIEL: Exactly. Some people describe feelings with wide words. Good, bad, fine, stressed. Others use narrow words. Disappointed, embarrassed, relieved, nervous. Much of this research comes from the psychologist Lisa Feldman Barrett and her colleagues.
+SENA: Is there evidence that the narrow words actually help?
+DANIEL: There is, with some careful notes. Let me start with a classic study from 2001, by Barrett, James Gross, Tamlin Conner Christensen, and Michael Benvenuto. Fifty-three people kept a diary for fourteen days. Each day, they rated their most intense emotional experience on a list of emotion words.
+SENA: So the researchers could see whether people used the words in different ways.
+DANIEL: Right. If someone always rated angry, sad, nervous, and guilty at about the same level, that suggests they experience it all as one big "bad." If the ratings moved separately, that person is making finer distinctions. Then, in the lab, the researchers measured how much people worked to manage their emotions.
+SENA: And what did they find?
+DANIEL: People who made finer distinctions between their negative emotions did more to regulate those emotions. And the link was strongest when the feelings were most intense.
+SENA: So when things get really bad, the people with precise words do more to handle it.
+DANIEL: That's the pattern. But it was a small study, fifty-three people, and it shows a relationship, not cause and effect. So here's a newer and bigger one. In 2019, a team led by Elise Kalokerinos ran two studies, with two hundred people and then one hundred and one people. Participants answered short questions on their phones several times a day. In the first study alone, that added up to more than thirty-four thousand check-ins.
+SENA: That's a lot of data.
+DANIEL: It is. And here is the interesting part. People with low granularity didn't choose different coping strategies. They tried the same things everyone else did. But for them, those strategies seemed to work less well. In some cases, using a strategy went together with more negative feeling, not less.
+SENA: So it's not that they picked the wrong tool. The tool didn't fit the problem.
+DANIEL: That's how I think about it. If all you know is "I'm stressed," you grab any tool. If you're disappointed, you might need a little time to let go of what you wanted. If you're embarrassed, you might update a few people. Different feeling, different fix.
+SENA: That's very practical.
+DANIEL: And again, this is correlation. It doesn't prove that precise words cause better coping. But it fits a 2015 review by Todd Kashdan, Lisa Feldman Barrett, and Patrick McKnight. They reviewed research showing that, under intense stress, people with higher granularity were less likely to fall back on unhealthy ways of coping, like heavy drinking or lashing out at others.
+SENA: Is there any experiment, where they actually changed what people did?
+DANIEL: Yes, and it's one of my favorites. In 2012, Katharina Kircanski, Matthew Lieberman, and Michelle Craske worked with eighty-eight university students who were very afraid of spiders.
+SENA: Oh no. I would leave the room.
+DANIEL: Many of them wanted to. Each student faced a live tarantula, in one of four groups. One group described their feelings and the spider out loud, in negative words. Another described the spider in a calmer way. A third talked about something unrelated, like furniture at home. The last group just faced the spider in silence.
+SENA: And one week later?
+DANIEL: One week later, they met a different spider in a different place. The naming group showed a smaller body reaction, measured by sweat on the skin, which rises when you're anxious. And here's a detail I love. The more fear and anxiety words a person had used, the bigger the drop in their body reaction.
+SENA: So more precise naming, more calm in the body.
+DANIEL: In that study, yes. But two careful notes. First, the students in the naming group didn't actually say they felt less afraid. The change showed up in their bodies, not in what they reported. Second, these were students and spiders, not managers and project decisions. So we shouldn't stretch it too far.
+SENA: Okay. But I have to ask the question we always ask. Why can't AI do this for me? I could type my situation into a chatbot, and it would give me ten emotion words in two seconds.
+DANIEL: It would, and that can be useful, like a dictionary. But a few minutes ago, when you said "relieved," you laughed a little. You were checking each word against something inside you. Only you can feel whether a word fits. AI can offer the menu. It can't taste the food.
+SENA: That's a good line.
+DANIEL: And there's a second reason. Barrett's work suggests we build emotion concepts through our own experience. Each time you search for the right word, you train that skill. If a tool always picks the word, you skip the training.
+SENA: So the effort is the point.
+DANIEL: The effort is the point. Can I share a mistake of mine?
+SENA: Please.
+DANIEL: A few years ago, my own manager left, and our team moved under a new director. For about three months, if anyone asked, I said, "I'm fine, just stressed." To my wife, my team, myself.
+SENA: The same words as me.
+DANIEL: The same. And because I called it "stress," I treated it like a workload problem. I worked later. I took more tasks myself. I even cancelled a few one on ones to get more done.
+SENA: Did it help?
+DANIEL: No. One evening, a friend asked me a better question. "What exactly are you missing right now?" And I realized it wasn't workload. I felt lonely. My old manager was the person I used to talk hard decisions through with, and now I had nobody. And I felt anxious about whether the new director trusted me.
+SENA: Lonely and anxious. Not stressed.
+DANIEL: Right. And the fix for lonely is not working late. It's building support. So I asked the new director for a regular one on one, and set up a monthly coffee with two other managers. Within weeks, I felt much better. But I lost three months because I used the wrong word.
+SENA: That's a strong example. The word chose the solution.
+DANIEL: Exactly. A wrong word can send you to the wrong fix.
+SENA: Can I bring in a cultural point?
+DANIEL: Always.
+SENA: In Japanese, we have a word, daijoubu. It means "okay" or "fine," but we use it for everything. "Do you need help?" Daijoubu, meaning "No, thank you." "Can you finish this by Friday?" Daijoubu, even when maybe it isn't.
+DANIEL: So it's "fine," "no thanks," and "I'll manage," all in one.
+SENA: Yes. And at work, daijoubu is often a kindness. You don't want others to worry. So when my manager asked, I said fine automatically. In English, but with a daijoubu heart.
+DANIEL: I like that. A daijoubu heart. And to be fair, Americans do this too. "How are you?" "Good, you?" is mostly a greeting. Nobody expects the real answer at the coffee machine.
+SENA: So what's the difference?
+DANIEL: In many US teams, a one on one is where a manager expects a more specific answer. If someone says "Fine" about a big change, I'll often ask again, because "fine" gives me nothing to work with. "I'm a bit disappointed, but I understand the reason" is something I can actually help with.
+SENA: That's useful for me to know. If I want to work with US managers, "fine" might sound like I'm closing the door.
+DANIEL: Sometimes it can. But here's the key. Precision is for you first. You don't have to share every word with everyone. You can name "disappointed and embarrassed" inside your own head, and then choose to say, "I was looking forward to that project. Could we talk about what I could lead next?"
+SENA: So the private word is precise, and the public sentence is my choice.
+DANIEL: Exactly. That's the skill. In EQ language, this is self-awareness, the first domain of emotional intelligence. Knowing what you feel, as clearly as you can, before you decide what to show or do. Self-management, social awareness, and relationship skills all sit on top of it.
+SENA: It's like the foundation of the building.
+DANIEL: Right. If the foundation just says "fine," everything above it is a bit shaky.
+SENA: So how do I practice? I don't have a big vocabulary of feeling words, especially in English.
+DANIEL: You're learning the words anyway, so that's an advantage. Here's a trick. When your first word is wide, like fine, bad, or stressed, find two narrower words and pick the one that fits best. For "bad," it could be tired, frustrated, worried, or let down. For "good," proud, relieved, calm, or grateful.
+SENA: And if more than one fits?
+DANIEL: Use both. "Relieved but a little guilty" is a perfectly good answer.
+SENA: What about stronger feelings? Some weeks are really hard.
+DANIEL: Naming helps, but it's not a treatment. If you notice the same heavy feeling day after day, and it starts to take over, that's a good time to talk to a doctor or a counselor. Finding the word can help you explain it to them, too.
+SENA: Thank you. So, this week's practice?
+DANIEL: Three times a day, name your current emotion as precisely as you can. For example, in the morning before you open email, after lunch, and at the end of the workday. If the first word is fine, good, bad, or stressed, find two more specific options and choose the closest one. Write it down in a few words. That's all.
+SENA: Three times a day, for seven days. That's twenty-one words.
+DANIEL: Twenty-one words that nobody else could write. At the end of the week, look for patterns. Do certain meetings come with certain feelings?
+SENA: So right now, how do you feel, Daniel?
+DANIEL: Not just "good." Proud of you, and a little hungry. It's almost lunch in Seattle.
+SENA: Very precise.
+DANIEL: Next time, we move to self-management. Asking for feedback, and actually using it, even when it stings.
+SENA: That will need a lot of feeling words, I think. Thanks for listening to Human Curriculum. I'm Sena.
+DANIEL: And I'm Daniel. Look past "fine" this week. See you next time.

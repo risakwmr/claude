@@ -1,0 +1,107 @@
+DANIEL: Welcome back to Human Curriculum. I'm Daniel Reed, a People Manager in Seattle.
+SENA: And I'm Sena Sato, an Associate in Tokyo. Last time, we talked about naming emotions. Finding a better word than "fine."
+DANIEL: And today's topic makes a lot of people feel far from fine. Asking for feedback, and then actually using it.
+SENA: Just hearing the word "feedback" makes my shoulders go up a little.
+DANIEL: Good. You noticed that. But first, how did the practice go? Three times a day, name your emotion as precisely as you can.
+SENA: It was harder than I expected. I had to set three alarms on my phone.
+DANIEL: Smart. What did you find?
+SENA: The biggest thing was that "fine" was hiding a lot. When I stopped and looked, "fine" was often "uneasy." Especially in the morning, before I checked my messages from the US.
+DANIEL: Uneasy before you even read anything.
+SENA: Right. Nothing had happened yet. And one more word came up a few times. "Left out."
+DANIEL: When did that one show up?
+SENA: In our big weekly meeting. The US team was talking fast, and decisions were made in about thirty seconds. I said I was fine afterwards. But the real word was left out.
+DANIEL: That's a precise word. With "fine," there's nothing to do. With "left out," you can ask, "What would help me feel part of this?"
+SENA: And that connects to what happened this week.
+DANIEL: Tell me.
+SENA: After that same weekly meeting, a senior colleague in New York sent me a chat message. She said, "Hey Sena, one thing. You could push back more in meetings. You had a good point about the timeline and you didn't say it."
+DANIEL: That's useful feedback. Specific, too.
+SENA: It was. But I didn't take it well. I immediately wrote back a long message. I explained that in Japan we wait for a pause before speaking. That the meeting was very fast. That I was going to send my point in writing later.
+DANIEL: And what did she say?
+SENA: She said, "Totally understand, never mind!" With a smiley face.
+DANIEL: Ah. The smiley face of closing the door.
+SENA: Exactly. Then I felt uneasy for the rest of the day. I named it, like you taught me. Uneasy, and a little embarrassed. She was trying to help me, and I made her feel she shouldn't have.
+DANIEL: Sena, this is a perfect example for today. Everything you explained was true. But your explanation sent a message you didn't intend.
+SENA: That I didn't want to hear it.
+DANIEL: That it was expensive to tell you things. And when feedback becomes expensive, people stop giving it. Not because they're mean. They're busy.
+SENA: So what should I have done?
+DANIEL: We'll get there. Let's start with some research. In 1983, Susan Ashford and Larry Cummings published a paper with a nice title. Feedback as an individual resource. Their big idea was that feedback isn't just something that happens to you. People go out and look for it, like a resource you can collect.
+SENA: How do people look for it?
+DANIEL: Researchers describe two main ways. One is inquiry. You ask directly. "How did that go?" The other is monitoring. You watch other people's reactions and try to guess.
+SENA: I'm very good at monitoring. Reading the room is basically my hobby.
+DANIEL: I know. And it's a real skill. But you're guessing. And when you're uneasy, your guesses tend to get darker.
+SENA: That's true. My guesses are rarely kind.
+DANIEL: So here's the study I want you to remember. In 1991, Susan Ashford worked with Anne Tsui on a field study of 387 managers. They also collected ratings from the managers' bosses, peers, and direct reports. Over two thousand people in total.
+SENA: That's a big study.
+DANIEL: It is. They looked at what kind of feedback the managers asked for. Some mostly asked for negative feedback. "What could I do better?" Others mostly asked for positive feedback. Fishing for reassurance, basically.
+SENA: I think I know where this is going.
+DANIEL: Managers who sought negative feedback understood more accurately how others saw their work. And their bosses, peers, and direct reports all rated them as more effective overall. The managers who mostly sought positive feedback were rated as less effective.
+SENA: So asking "What could I do better?" made people think better of them.
+DANIEL: That's the pattern. But I want to be careful. This was a correlation study. It doesn't prove that asking for criticism causes people to see you as better. Maybe managers who are already strong feel safer asking.
+SENA: Okay. So asking is good. But my colleague gave me feedback and it didn't help, because I didn't take it well.
+DANIEL: Which brings us to the second piece of research. In 1996, Avraham Kluger and Angelo DeNisi published a big meta-analysis in Psychological Bulletin. A meta-analysis combines many studies. They looked at 607 effect sizes, with over twenty-three thousand observations.
+SENA: And did feedback help?
+DANIEL: On average, yes. Feedback improved performance. But here's the surprise. In over a third of the cases, feedback made performance worse.
+SENA: Worse? A third?
+DANIEL: Over a third. Their explanation is interesting. When feedback keeps your attention on the task, it tends to help. When it pulls your attention onto yourself, like "Am I good enough?", it tends to help less.
+SENA: That's exactly what happened to me. She talked about the meeting. And I immediately made it about me and my culture and my reasons.
+DANIEL: That's my reading of it too. Your mind moved from the task to defending yourself. Very human.
+SENA: Is there research on why it's so hard to ask in the first place?
+DANIEL: There is. In 2003, Ashford, together with Ruth Blatt and Don VandeWalle, reviewed two decades of research on feedback seeking. They described three motives. One is useful. You want information to reach your goal. The other two are about protection. Protecting your ego, so you don't feel bad. And protecting your image, so others don't think less of you.
+SENA: So when I don't ask, I'm protecting my ego and my image.
+DANIEL: Often, yes. One more finding keeps me humble. In 2015, Frederik Anseel and his colleagues did a meta-analysis on feedback seeking at work. They found that the link between simply seeking feedback and performance was small.
+SENA: Wait. So asking doesn't really help?
+DANIEL: Asking alone doesn't seem to do much. That's why today's title has two parts. Asking for feedback, and using it. This research is mostly correlation too. They also found that people with longer tenure, and older people, tend to ask less. People with a strong relationship with their manager tend to ask more.
+SENA: So as I get more senior, I'll naturally ask less.
+DANIEL: If you're not careful, yes. Which is the opposite of what a manager needs.
+SENA: Here's my usual question. Why can't AI do this for me? I can paste my email into an AI and ask what I could do better. It will give me ten things.
+DANIEL: It will. And for writing, some of them will be good. But AI wasn't in your meeting. It didn't see that you had a strong point and stayed quiet. The only people who have that data are the people around you.
+SENA: So the information lives inside other people.
+DANIEL: Yes. And when you ask a person and receive it well, you build trust. Next time, they tell you earlier. An AI tool can't build that relationship for you.
+SENA: Okay. Do you have a story for me?
+DANIEL: I do. It's your mistake, just bigger. In my first year as a manager, I got very excited about feedback. In a team retrospective, I said, "I want feedback on me. What's one thing I could do better?"
+SENA: That sounds good.
+DANIEL: One of my engineers, a quiet guy, raised his hand. He said, "When we send you a design doc, you rewrite big parts of it instead of leaving comments. It makes us feel like it's not our doc anymore."
+SENA: That's brave.
+DANIEL: Very brave. And I spent the next five minutes explaining why. Tight deadlines. A difficult customer. All true.
+SENA: Oh no.
+DANIEL: Oh yes. Nobody else raised a hand. For about four months, nobody on that team gave me any feedback at all. I found out later, from my own manager, that people thought my request had been fake. "He asks, but he doesn't want to hear it."
+SENA: That must have been hard to hear.
+DANIEL: It was. But it taught me the rule I'm going to give you today. When someone gives you feedback, your first job is not to decide if it's right. Your first job is to make it safe that they told you.
+SENA: So the explaining can wait.
+DANIEL: The explaining can wait. Sometimes forever. In that case, he was right. I started leaving comments instead. It took a while, but people started telling me things again.
+SENA: Can I bring in the culture question? In Japan, asking your boss for feedback can feel a little strange. Feedback usually comes down from senior people, not up. And when it comes, it's often indirect. Someone says, "Maybe you could think about this a little more," and you have to understand that means "This is wrong."
+DANIEL: In the US, everyone says "we have a feedback culture." But if you ask, "Any feedback?", you'll often hear "Looks great!" People are busy and don't want to be the bad guy.
+SENA: So in Japan, the feedback is hidden. And in the US, sometimes it's hidden behind a smile.
+DANIEL: Exactly. That's why the wording of the question matters. "Any feedback?" is easy to answer with "Nope, all good." "What's one thing I could do better?" is harder to avoid. It assumes there is one thing. And it's only one, so it feels small and safe.
+SENA: Much less scary than "Please tell me everything that's wrong with me." So what is the EQ skill here?
+DANIEL: This one belongs to the EQ domain called self-management. In episode two, you learned to notice your body. Last week, you learned to name the emotion. Self-management is what you do next. You feel the urge to defend, to explain, to fix your image, and you don't act on it. Not yet.
+SENA: That sounds like the thirty-second window again.
+DANIEL: Same window, new purpose. When someone gives you feedback, your heart may speed up, your face may get hot. You notice it. You name it. "This is embarrassment." And then you choose the smallest helpful response.
+SENA: Which is?
+DANIEL: Two words. Thank you.
+SENA: Only "thank you"? Not even "Thank you, but"?
+DANIEL: Especially not "but." Everything after "but" erases the "thank you." A book I like, Thanks for the Feedback by Douglas Stone and Sheila Heen, makes the case that the receiver, not the giver, is in charge of what gets learned. And the first step is just letting it land.
+SENA: What if the feedback is unfair? Or just wrong?
+DANIEL: Saying thank you doesn't mean you agree. It means you received it. Later, when your body has calmed down, you decide. Maybe it's wrong. Maybe it's twenty percent right.
+SENA: And when do I use it?
+DANIEL: That's the second half. After a day or two, pick one small thing from what you heard and try it. Then, if it makes sense, go back to the person and say, "You told me this. I tried that. Did you notice a difference?"
+SENA: That shows I was really listening.
+DANIEL: Exactly. People remember the person who came back.
+SENA: Can I say something a bit personal?
+DANIEL: Of course.
+SENA: Sometimes feedback doesn't feel small to me. It stays in my head for days. I replay it at night.
+DANIEL: That happens to a lot of people, me included. But if criticism keeps you awake for days on end, or work stress starts to feel heavy all the time, talking to a counselor or a doctor is a smart step, not a weak one.
+SENA: Thank you.
+DANIEL: See? You're already practicing. So, this week, ask one person, "What's one thing I could do better?" Your manager, a colleague, anyone. And whatever they say, you respond with only "Thank you." No defending. No explaining.
+SENA: No explaining at all. That will be hard for me.
+DANIEL: I know. Here's a tip. Before you ask, decide which body signal you'll watch for. Your face, maybe your shoulders. When you feel it, breathe out, and say thank you.
+SENA: And then?
+DANIEL: That night, write down what they said and name the emotion you felt. Later in the week, pick one small thing to try.
+SENA: I think I'll start with my colleague in New York. I'll tell her, "I thought about what you said. What's one thing I could do better in the next meeting?"
+DANIEL: That's a great choice. You're reopening the door she thought was closed.
+SENA: And this time, no long reply. Just "Thank you."
+DANIEL: Maybe with a smiley face.
+SENA: Maybe. I'll report back next time.
+DANIEL: Next time, we're moving into relationship management. The episode is called Making Your One-on-One Count. How to make that regular meeting with your manager, or your team, more than a status update.
+SENA: Thanks for listening to Human Curriculum. I'm Sena.
+DANIEL: And I'm Daniel. Ask for one thing this week, and just say thank you. See you next time.

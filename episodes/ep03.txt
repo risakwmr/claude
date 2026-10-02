@@ -1,0 +1,89 @@
+DANIEL: Welcome back to Human Curriculum. I'm Daniel Reed, a People Manager in Seattle.
+SENA: And I'm Sena Sato, an Associate in Tokyo. Last time, we talked about the thirty-second window. Pause, scan, name, choose.
+DANIEL: And today we're talking about ownership. What it means to act like the work is yours, even when nobody is watching. But first, you promised me seven sentences.
+SENA: I did. And I have to start with a confession. I have six, not seven. On Thursday I forgot.
+DANIEL: Six is great. That's a real data set. What did you find?
+SENA: Two patterns. First, my stomach gets tight before one weekly meeting. It's the meeting where I present to the US team in English. Four of my six sentences were about that meeting.
+DANIEL: Four out of six. That's a strong signal.
+SENA: And second, my face gets hot when someone asks me a question I can't answer right away. Not when they disagree with me. Only when I feel slow.
+DANIEL: That's a very precise thing to know about yourself. Did the four steps help?
+SENA: The pause helped the most. Twice I wanted to answer too fast, and I didn't. The naming part was harder. I kept writing "nervous," but I'm not sure that was the right word every time.
+DANIEL: Hold on to that. Finding better words for feelings is exactly what we'll do next episode. So, what happened this week?
+SENA: Something a little embarrassing. Two months ago, I started writing an FAQ for the partner team. A short document with answers to the questions they ask us again and again. Nobody asked me to do it. I just thought it would help.
+DANIEL: That sounds like a good idea.
+SENA: It was. But I got busy, and it stayed about half done. Then on Tuesday, in a team meeting, someone from the partner team asked one of those questions again. And my manager said, "Didn't someone start a document about this?" And everyone looked around.
+DANIEL: And your face got hot.
+SENA: Very hot. I said, "Yes, that was me. It's not finished yet." And the meeting just moved on. Nobody was angry. But I felt terrible all afternoon.
+DANIEL: Why terrible, if nobody was angry?
+SENA: Because it was mine. I started it. And it was just sitting there. Actually, I have a lot of things like that. In Japanese we call them "yarikake." Things you started and didn't finish.
+DANIEL: Yarikake. I love that there's one word for it. In English we might say loose ends, or open loops.
+SENA: And they never really go away. I think about the FAQ on the train.
+DANIEL: That's a familiar feeling, and researchers have studied it.
+SENA: Really? The feeling of unfinished tasks following you around?
+DANIEL: Yes. The idea is that unfinished goals keep pulling at your attention, even when you're trying to do something else.
+SENA: So my FAQ is living in my head without paying rent.
+DANIEL: Exactly. And here's the study I really wanted to share with you. In 2011, E. J. Masicampo and Roy Baumeister published a paper in the Journal of Personality and Social Psychology. The title is "Consider It Done! Plan Making Can Eliminate the Cognitive Effects of Unfulfilled Goals."
+SENA: Consider it done. I like that already.
+DANIEL: They ran six studies. In the first one, there were sixty-nine university students. They were split into three groups. One group wrote about two important tasks they still needed to finish in the next few days. The second group wrote about the same kind of unfinished tasks, but then they also made a specific plan. How, when, and where they would do each one. The third group wrote about tasks they had already finished.
+SENA: And then what?
+DANIEL: Then everyone read about thirty-two hundred words from a detective novel. And a few times during the reading, the computer asked, "Was your attention on the text, or somewhere else?"
+SENA: Let me guess. The unfinished task group was thinking about their tasks.
+DANIEL: Right. Their minds wandered more, and they understood the reading less well. But the group that made a plan looked much more like the group that had already finished. Their minds stopped wandering back to the tasks.
+SENA: Even though they hadn't done any of the work yet?
+DANIEL: That's the surprising part. The researchers point out that nobody in the plan group had done any actual work on the tasks. Just making a clear plan seemed to let the mind let go.
+SENA: So I don't have to finish everything today. I just have to decide when and how.
+DANIEL: Yes, with some caution. These were lab experiments with university students, and the groups were not large. So I wouldn't promise the same effect in every office. Also, in another study in that paper, making a plan reduced those wandering thoughts, but people's anxiety didn't really go down. So a plan quiets the noise. It doesn't magically make you feel calm.
+SENA: That's fair. So what does this have to do with ownership?
+DANIEL: Good question. Let's talk about what ownership actually is. Researchers have a name for it. Psychological ownership. In 2001, Jon Pierce, Tatiana Kostova, and Kurt Dirks wrote a theory paper in the Academy of Management Review. The idea is simple. You can feel that something is "mine," even when you don't legally own it. My project. My team. My document.
+SENA: Like my FAQ.
+DANIEL: Exactly like your FAQ. And they described three routes to that feeling. The first is control. You have some power to shape the thing. The second is knowing it deeply. You understand it better than almost anyone. The third is investing yourself in it. Your time, your energy, your ideas.
+SENA: I have all three for the FAQ. I chose the questions. I know the partner team well. And I already spent hours on it.
+DANIEL: Which is why it hurts when it sits there unfinished. Then in 2004, Linn Van Dyne and Jon Pierce tested this idea at work. They ran three field studies with more than eight hundred employees, and they also used ratings from managers and coworkers.
+SENA: What did they find?
+DANIEL: People who felt more ownership for their organization also tended to be more committed and more satisfied with their jobs. And they did more of what researchers call citizenship behavior. That's helping beyond your job description. Things nobody officially asked you to do.
+SENA: Like writing an FAQ.
+DANIEL: Like writing an FAQ. Two careful notes, though. First, this is correlation. It shows that ownership and those good behaviors go together. It doesn't prove one causes the other. And second, ownership did not predict overall job performance ratings in their data. So feeling ownership is not a magic button for a better review.
+DANIEL: Now, why is this a skill AI can't do for you?
+SENA: I was thinking about that. AI could probably finish my FAQ in ten minutes. I could give it my notes, and it would write something pretty good.
+DANIEL: It probably could. And you should use it for that. But look at what happened. The FAQ didn't get stuck because writing is hard. It got stuck because nobody, including you, decided it was important enough to finish. AI can draft the document. It can even remind you that it exists. But it can't feel that it's yours. And it can't decide to care.
+SENA: So the tool can do the typing, but not the owning.
+DANIEL: Exactly. And there's one more thing. People notice who closes loops. When you finish what you start, people learn they can rely on you. That trust is built by a person, over time. Nobody can generate it for you.
+SENA: Can I ask for one of your stories?
+DANIEL: You always do. Okay. A few years ago, before I was a manager, our team had an on call guide. A document for whoever gets paged at night. One of the links in it was broken. I noticed it. I even thought, "Someone should fix that."
+SENA: Someone.
+DANIEL: Someone. Not me. It wasn't my document. I was busy. And I assumed the person who wrote it would see it. Three weeks later, a new engineer on our team was paged at two in the morning. She followed the guide, hit the broken link, and was stuck for almost an hour. She thought it was her fault.
+SENA: Oh no.
+DANIEL: The fix would have taken me two minutes. That's what I still think about.
+SENA: What did you learn?
+DANIEL: That "someone should" usually means nobody will. Now, when I catch myself thinking "someone should," I ask a different question. "Is it reasonable for that someone to be me?" Very often, it is.
+SENA: Okay, I have a cultural question. I think it's a big one.
+DANIEL: Go ahead.
+SENA: In Japan, we have a phrase, "tojisha ishiki." It means feeling that you are directly involved, that it's your problem too. Companies talk about it a lot. So ownership is not a new idea for me. But at the same time, there's a strong feeling that you shouldn't step outside your role. If I fix something in another person's area, it can look pushy. Like I'm saying they did a bad job.
+DANIEL: That's a real tension. And I think in the US, you'll see the opposite risk. "Ownership" is a very common word in performance reviews here. People are often expected to act without being asked. But sometimes they act loudly, without checking with anyone.
+SENA: So in Japan the risk is waiting too long, and in the US the risk is rushing in?
+DANIEL: That's a bit simplified, but it's a useful way to think about it. And there's one more difference. In many US teams, quiet work can be invisible. If you fix something and say nothing, people may never know. It's not showing off. It's letting the team know the loop is closed.
+SENA: So in my case, I could finish the FAQ and then send a short note. "The partner FAQ is done. Here's the link."
+DANIEL: Perfect. And when it's someone else's area, you can ask a simple question first. "I noticed this link is broken. Do you mind if I fix it?" That respects their role, and it still closes the loop.
+SENA: That works in both cultures, I think.
+DANIEL: I think so too. Okay, let's connect this to EQ. Ownership belongs to the EQ domain called self-management. In the common model of emotional intelligence, there are four domains. Self-awareness, self-management, social awareness, and relationship management.
+SENA: And last week was more about self-awareness. Noticing my body.
+DANIEL: Right. Self-management is what you do next. It includes controlling your reactions, like the thirty-second window. But it also includes things like keeping your commitments, adapting, and taking initiative. Acting like it's yours is self-management, because nobody is managing you into it. You manage yourself.
+SENA: So the hot face in the meeting was self-awareness. And deciding what to do about the FAQ is self-management.
+DANIEL: Beautifully put. And here's a warning that matters. Ownership is not doing everything. If you try to close every loop in your company, you'll burn out. A good owner has three choices for any loose end. Finish it. Hand it off clearly. Or drop it, out loud.
+SENA: Drop it out loud?
+DANIEL: Yes. Saying, "I started this, but I'm not going to finish it, and here's where my notes are," is also ownership. The worst option is the silent middle. Half done, nobody knows, and it lives in your head.
+SENA: That's my FAQ. Silent middle.
+DANIEL: For now. So, this week's practice.
+SENA: I'm ready.
+DANIEL: Close one yarikake that nobody asked you to close. Step one. Take two minutes and write down your loose ends. Don't judge them, just list them. Step two. Pick one small one that affects other people. Not the biggest. Something you could close in under an hour. Step three. Choose. Finish it, hand it off, or drop it out loud. And if you can't do it right away, use the study. Write a plan. When, where, and how.
+SENA: When, where, and how. Like, "Wednesday morning, at my desk, before email, I'll finish the last five questions."
+DANIEL: Exactly like that. And step four. When the loop is closed, tell the people it affects. One short message.
+SENA: And should I still write a sentence at night?
+DANIEL: Yes, just one. How did it feel after you closed it? Notice your body, like last week. Some people feel lighter. Some people feel nothing at all. Both are fine. Just notice.
+SENA: Okay. I'm going to finish the FAQ. And I'll send the link to the partner team.
+DANIEL: I'd like to see it too.
+SENA: Now I have to finish it.
+DANIEL: That's how ownership works. Next time, we'll go back to something you said at the start. You kept writing "nervous." Next episode is called "Naming Emotions: Beyond Fine." We'll talk about self-awareness, and why naming your feelings more precisely can change how you handle them.
+SENA: I'm looking forward to it.
+DANIEL: Thanks for listening to Human Curriculum. I'm Daniel.
+SENA: And I'm Sena. Close one loop this week. See you next time.

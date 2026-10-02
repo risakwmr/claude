@@ -80,7 +80,14 @@
         "people manager",
         "audiobook",
         "English learning"
-      ]
+      ],
+      "thumb_accent": "Yours",
+      "thumb_notes": [
+        "Close the loop",
+        "Ownership",
+        "When, where, how"
+      ],
+      "thumb_cup": "Close one loop."
     },
     {
       "number": 4,
@@ -107,7 +114,15 @@
         "people manager",
         "audiobook",
         "English learning"
-      ]
+      ],
+      "thumb_accent": "Fine",
+      "thumb_notes": [
+        "Disappointed?",
+        "Embarrassed?",
+        "Relieved?",
+        "Granularity"
+      ],
+      "thumb_cup": "More than fine."
     },
     {
       "number": 5,
@@ -135,7 +150,14 @@
         "people manager",
         "audiobook",
         "English learning"
-      ]
+      ],
+      "thumb_accent": "Using",
+      "thumb_notes": [
+        "One thing to improve?",
+        "Just say thank you",
+        "Feedback seeking"
+      ],
+      "thumb_cup": "Just say thank you."
     },
     {
       "number": 6,
@@ -163,7 +185,15 @@
         "Japan US work culture",
         "audiobook",
         "English learning"
-      ]
+      ],
+      "thumb_sub": "Their Meeting, Not Yours",
+      "thumb_accent": "Their",
+      "thumb_notes": [
+        "One question",
+        "One update",
+        "Their agenda first"
+      ],
+      "thumb_cup": "Bring one question."
     }
   ]
 }

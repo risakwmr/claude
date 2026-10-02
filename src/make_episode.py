@@ -245,7 +245,7 @@ def build(num, fake=False, limit=None, out_dir=None):
          "-vf", f"fps={FPS * 2},format=yuv420p", "-c:v", "libx264", "-preset", "medium", "-tune", "stillimage",
          "-crf", "21", "-c:a", "aac", "-b:a", "160k", "-ar", "48000", "-shortest", "-movflags", "+faststart", mp4])
 
-    thumb = draw_thumbnail(num, ep.get("short_title", title), os.path.join(out_dir, f"ep{num:02d}_thumbnail.jpg"))
+    thumb = draw_thumbnail(num, ep, os.path.join(out_dir, f"ep{num:02d}_thumbnail.jpg"))
     shutil.rmtree(work, ignore_errors=True)
     print(f"  done: {mp4}", flush=True)
     return {"video": mp4, "thumbnail": thumb, "srt": srt, "duration": total}

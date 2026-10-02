@@ -263,6 +263,9 @@ def draw_thumbnail(ep_num, short_title, path):
             im = ImageOps.fit(Image.open(custom).convert("RGB"), (1280, 720), Image.LANCZOS)
             im.save(path, quality=90)
             return path
+    if isinstance(short_title, dict):  # full episode entry: use the editorial collage layout
+        import thumbnail
+        return thumbnail.draw(ep_num, short_title, path)
     TW, TH = 1280, 720
     img = paper(TW, TH, seed=12).convert("RGBA")
     s = brush((620, 520), BLUE, seed=31, alpha=90)

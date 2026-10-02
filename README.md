@@ -36,6 +36,7 @@ Every day at 09:00 Japan time, the next two unpublished episodes are made and up
 
 1. Add `episodes/ep02.txt`
 2. Add its entry to `episodes/episodes.json` (title, short_title, summary, practice, sources, tags)
+3. Optional thumbnail fields: `thumb_title`, `thumb_sub`, `thumb_accent` (coral italic word), `thumb_notes` (3–4 handwritten keywords), `thumb_cup`, `thumb_note`, `thumb_character`. The book spines show the first three `sources`.
 
 ## Secrets (Settings → Secrets and variables → Actions)
 

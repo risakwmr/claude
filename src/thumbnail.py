@@ -13,6 +13,8 @@ Optional fields in episodes.json (all fall back to sensible defaults):
   thumb_cup      short handwritten line on the cup (default: "Learn what AI can't.")
   thumb_note     line on the torn pink note (default: "Grow your EQ")
   thumb_character  "SENA" or "DANIEL" (default: SENA)
+Per-episode pose: put an illustration at episodes/epNN_art.png (light background) to use it
+instead of the default character art.
 """
 import math
 import os
@@ -73,11 +75,11 @@ def _notes(ep):
     return [t[:1].upper() + t[1:] for t in ep.get("tags", []) if t.lower() not in generic][:4]
 
 
-def _cutout(name):
+def _cutout(name, path=None):
     """Character art with its light background made transparent (flood fill from the edges)."""
     base = name.lower()
-    path = next((os.path.join(R.CHAR_DIR, f) for f in (f"{base}.png", f"{base}.jpg")
-                 if os.path.exists(os.path.join(R.CHAR_DIR, f))), None)
+    path = path or next((os.path.join(R.CHAR_DIR, f) for f in (f"{base}.png", f"{base}.jpg")
+                         if os.path.exists(os.path.join(R.CHAR_DIR, f))), None)
     if not path:
         return None
     img = Image.open(path).convert("RGB")
@@ -239,7 +241,10 @@ def draw(ep_num, ep, path):
 
     # character
     who = ep.get("thumb_character", "SENA").upper()
-    fig = _cutout(who)
+    # a new pose for this episode: episodes/epNN_art.png (or .jpg), any illustration on a light background
+    art = next((os.path.join(R.ROOT, "episodes", f"ep{ep_num:02d}_art.{x}") for x in ("png", "jpg", "jpeg")
+                if os.path.exists(os.path.join(R.ROOT, "episodes", f"ep{ep_num:02d}_art.{x}"))), None)
+    fig = _cutout(who, art)
     if fig is not None:
         fh = 1030
         fig = fig.resize((int(fig.width * fh / fig.height), fh), Image.LANCZOS)

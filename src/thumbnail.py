@@ -13,8 +13,9 @@ Optional fields in episodes.json (all fall back to sensible defaults):
   thumb_cup      short handwritten line on the cup (default: "Learn what AI can't.")
   thumb_note     line on the torn pink note (default: "Grow your EQ")
   thumb_character  "SENA" or "DANIEL" (default: SENA)
-Per-episode pose: put an illustration at episodes/epNN_art.png (light background) to use it
-instead of the default character art.
+  thumb_pose     a drawing from assets/characters/poses/ (e.g. "sena_think", "daniel_talk");
+                 see tools/draw_poses.py for the list
+Per-episode art: an illustration at episodes/epNN_art.png (light background) overrides both.
 """
 import math
 import os
@@ -82,7 +83,11 @@ def _cutout(name, path=None):
                          if os.path.exists(os.path.join(R.CHAR_DIR, f))), None)
     if not path:
         return None
-    img = Image.open(path).convert("RGB")
+    src = Image.open(path)
+    if src.mode in ("RGBA", "LA") and src.getchannel("A").getextrema()[0] < 255:
+        src = src.convert("RGBA")  # already transparent (e.g. the pose library)
+        return src.crop(src.getbbox())
+    img = src.convert("RGB")
     w, h = img.size
     gray = img.convert("L")
     light = gray.point(lambda v: 255 if v > 232 else 0)
@@ -244,8 +249,19 @@ def draw(ep_num, ep, path):
     # a new pose for this episode: episodes/epNN_art.png (or .jpg), any illustration on a light background
     art = next((os.path.join(R.ROOT, "episodes", f"ep{ep_num:02d}_art.{x}") for x in ("png", "jpg", "jpeg")
                 if os.path.exists(os.path.join(R.ROOT, "episodes", f"ep{ep_num:02d}_art.{x}"))), None)
+    pose = ep.get("thumb_pose")
+    pose_path = os.path.join(R.CHAR_DIR, "poses", f"{pose}.png") if pose else None
+    if not art and pose_path and os.path.exists(pose_path):
+        art = pose_path
     fig = _cutout(who, art)
-    if fig is not None:
+    if fig is not None and art and art == pose_path:
+        # pose drawing: fit inside the window area, standing on the bottom edge, left of the notes
+        box_w, box_h = 640, 1000
+        k = min(box_w / fig.width, box_h / fig.height)
+        fig = fig.resize((int(fig.width * k), int(fig.height * k)), Image.LANCZOS)
+        cx = 1290
+        _paste(img, fig, (cx - fig.width // 2, H - fig.height + 30), shadow=True)
+    elif fig is not None:
         fh = 1030
         fig = fig.resize((int(fig.width * fh / fig.height), fh), Image.LANCZOS)
         _paste(img, fig, (1180, 120), shadow=True)

@@ -28,7 +28,8 @@
         "English learning",
         "EQ",
         "emotional intelligence"
-      ]
+      ],
+      "thumb_pose": "sena_idea"
     },
     {
       "number": 2,
@@ -55,7 +56,8 @@
         "people manager",
         "audiobook",
         "English learning"
-      ]
+      ],
+      "thumb_pose": "sena_think"
     },
     {
       "number": 3,
@@ -87,7 +89,8 @@
         "Ownership",
         "When, where, how"
       ],
-      "thumb_cup": "Close one loop."
+      "thumb_cup": "Close one loop.",
+      "thumb_pose": "sena_cheer"
     },
     {
       "number": 4,
@@ -122,7 +125,8 @@
         "Relieved?",
         "Granularity"
       ],
-      "thumb_cup": "More than fine."
+      "thumb_cup": "More than fine.",
+      "thumb_pose": "sena_phone"
     },
     {
       "number": 5,
@@ -157,7 +161,8 @@
         "Just say thank you",
         "Feedback seeking"
       ],
-      "thumb_cup": "Just say thank you."
+      "thumb_cup": "Just say thank you.",
+      "thumb_pose": "sena_write"
     },
     {
       "number": 6,
@@ -193,7 +198,8 @@
         "One update",
         "Their agenda first"
       ],
-      "thumb_cup": "Bring one question."
+      "thumb_cup": "Bring one question.",
+      "thumb_pose": "daniel_talk"
     }
   ]
 }

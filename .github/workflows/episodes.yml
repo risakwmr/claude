@@ -27,7 +27,7 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 180
     steps:
-            - uses: actions/checkout@v4
+      - uses: actions/checkout@v4
         with:
           # Scheduled runs always start on main; episode scripts live on the episodes branch.
           ref: ${{ github.event_name == 'schedule' && 'episodes' || github.ref }}

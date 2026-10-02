@@ -1,0 +1,88 @@
+name: Make and upload episodes
+
+on:
+  workflow_dispatch:
+    inputs:
+      episode:
+        description: "Episode number(s), e.g. 1 or 1,2. Use next for the next unpublished ones."
+        default: "1"
+      upload:
+        description: "Upload to YouTube (as private)?"
+        type: boolean
+        default: false
+  schedule:
+    # Every day at 09:00 Japan time. Runs only when the repository variable AUTO_UPLOAD is "true".
+    - cron: "0 0 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: episodes
+  cancel-in-progress: false
+
+jobs:
+  episodes:
+    if: github.event_name == 'workflow_dispatch' || vars.AUTO_UPLOAD == 'true'
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install tools
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg > /dev/null
+          pip install -q -r requirements.txt
+
+      - name: Choose episodes
+        id: pick
+        run: |
+          if [ "${{ github.event_name }}" = "schedule" ]; then
+            echo "list=$(python src/pick.py next 2)" >> "$GITHUB_OUTPUT"
+            echo "upload=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "list=$(python src/pick.py '${{ inputs.episode }}')" >> "$GITHUB_OUTPUT"
+            echo "upload=${{ inputs.upload }}" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Make videos
+        if: steps.pick.outputs.list != ''
+        env:
+          SENA_VOICE: ${{ vars.SENA_VOICE }}
+          DANIEL_VOICE: ${{ vars.DANIEL_VOICE }}
+        run: |
+          for n in ${{ steps.pick.outputs.list }}; do
+            python src/make_episode.py "$n"
+          done
+
+      - name: Save videos for download
+        if: steps.pick.outputs.list != ''
+        uses: actions/upload-artifact@v4
+        with:
+          name: episodes-${{ github.run_number }}
+          path: |
+            output/*/*.mp4
+            output/*/*.jpg
+            output/*/*.srt
+          retention-days: 30
+
+      - name: Upload to YouTube
+        if: steps.pick.outputs.list != '' && steps.pick.outputs.upload == 'true'
+        env:
+          CLIENT_ID: ${{ secrets.CLIENT_ID }}
+          CLIENT_SECRET: ${{ secrets.CLIENT_SECRET }}
+          REFRESH_TOKEN: ${{ secrets.REFRESH_TOKEN }}
+        run: |
+          for n in ${{ steps.pick.outputs.list }}; do
+            vid=$(python src/upload.py "$n" | tail -n 1)
+            echo "EP $n -> https://youtu.be/$vid" | tee -a "$GITHUB_STEP_SUMMARY"
+            python src/mark_published.py "$n" "$vid"
+          done
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          git add published.json
+          git commit -m "Record published episodes" && git push || true

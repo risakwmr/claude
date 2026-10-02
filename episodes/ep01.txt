@@ -1,0 +1,101 @@
+DANIEL: Welcome to Human Curriculum, the show about the skills AI can't do for you. I'm Daniel Reed. I manage a team of eight people in Seattle.
+SENA: And I'm Sena Sato. I'm an Associate at the Tokyo office of the same company. I'm an individual contributor, which means I'm responsible for my own work. Nobody reports to me.
+DANIEL: Yet.
+SENA: Yet. My goal is to become a People Manager in the US within five years. And Daniel is my mentor.
+DANIEL: We were matched in our company's mentoring program a few months ago. And after our third session, Sena said something that turned into this show.
+SENA: I said, "I feel like I'm learning things in these calls that nobody teaches in training."
+DANIEL: So we decided to record our sessions. Every episode, Sena brings a real situation from her week. I bring a story, and some research. And we end with one small practice.
+SENA: Today is our first episode. So I want to start with the question that's been on my mind for a while.
+DANIEL: Go for it.
+SENA: I use AI every single day. It drafts my emails, summarizes my meetings, helps me analyze data. And sometimes I wonder: if AI keeps getting better, what's left for me to do? Why should I even work toward becoming a manager?
+DANIEL: That's a fair question. And honestly, I asked myself the same thing a couple of years ago. So let me start with some research, because I think it gives a more interesting answer than either "AI will take everything" or "don't worry about it."
+SENA: Okay.
+DANIEL: In 2023, researchers from Harvard Business School and several other universities ran a large experiment with the Boston Consulting Group. They worked with 758 consultants. Some of them got access to GPT-4. Others didn't.
+SENA: And the ones with AI did better?
+DANIEL: On most tasks, yes, a lot better. On a set of realistic consulting tasks, the AI group finished about 12 percent more tasks, worked about 25 percent faster, and their work was rated more than 40 percent higher in quality.
+SENA: That's kind of scary.
+DANIEL: Wait, here's the part I love. The researchers also included one task that was designed to sit outside what the AI could do well. It looked similar in difficulty. But on that task, the consultants using AI were 19 percentage points less likely to get the right answer than the ones working without it.
+SENA: Wait, so AI made them worse?
+DANIEL: On that task, yes. Because the AI sounded confident, and people trusted it when they shouldn't have. The researchers called this the "jagged technological frontier." AI is amazing at some tasks and surprisingly weak at others, and the line between them isn't obvious.
+SENA: So the skill isn't just using AI. It's knowing when not to trust it.
+DANIEL: Exactly. That's judgment. And judgment is the first thing on my list of what AI can't do for you.
+SENA: There's a list?
+DANIEL: Of course there's a list. I'm a manager. We love lists.
+SENA: Okay, let me write this down.
+DANIEL: Here's the second piece of research. Every few years, the World Economic Forum surveys employers around the world about which skills matter. In their 2025 report, AI and big data was the fastest-growing skill. No surprise there.
+SENA: Right.
+DANIEL: But compared with their previous report, the skill that jumped the most as a core skill was leadership and social influence. More employers now see it as essential. Resilience, flexibility, and curiosity also became more important.
+SENA: That's interesting. So as AI grows, the human skills grow too.
+DANIEL: That's how I read it. When machines handle more of the routine work, what's left is more about people. Persuading. Coordinating. Supporting. Deciding together.
+SENA: Can I tell you about something that happened this week?
+DANIEL: Please.
+SENA: I had a project with a partner team. I used AI to write a really clear summary of our proposal. It was well organized, the data was right. I sent it, and nothing happened. No reply for three days.
+DANIEL: Ouch. What did you do?
+SENA: Honestly, I waited. I didn't want to push. In Japan, I learned that you don't chase people too hard. I thought maybe they were busy.
+DANIEL: And then?
+SENA: My manager asked me about it. And I realized I didn't actually know why they hadn't replied. Maybe they disagreed. Maybe it wasn't a priority for them. Maybe they didn't trust our team yet.
+DANIEL: This is a perfect example. The AI helped you write a great document. But the document wasn't the problem. The problem was the relationship. Did they trust you? Did they understand why it mattered to them? Did they feel heard?
+SENA: AI can't answer that for me.
+DANIEL: No. That needs a conversation. A real one.
+SENA: So what's the third research piece? I can tell you have one.
+DANIEL: You know me too well. This one is about managers. Gallup has studied employee engagement for decades. One of their best-known findings is that managers account for at least 70 percent of the variance in team engagement.
+SENA: What does that mean, exactly?
+DANIEL: It means that when you compare teams, a huge part of the difference between engaged teams and disengaged teams comes down to the manager. Not the office, not the snacks, not even the company. The person you work for every day.
+SENA: That's a lot of responsibility.
+DANIEL: It is. And that's why I take this seriously. When I became a manager, I thought my job was to be the best expert on the team. I was wrong. My job was to help other people do their best work.
+SENA: What happened?
+DANIEL: In my first year, I kept jumping in and fixing things myself. I was fast. But my team stopped bringing me problems early. They waited until things were finished, because they thought I would just redo them. One of my engineers told me that in a one-on-one. It was hard to hear.
+SENA: What did you do?
+DANIEL: I said thank you. Then I changed how I worked. I started asking more questions and giving fewer answers. It took months, but the team started coming to me earlier. That's something no AI could have done for me. It had to come from trust.
+SENA: Okay, so far I have judgment, and trust. What else is on the list?
+DANIEL: Let me give you all three. This is the framework for our whole show.
+SENA: Ready.
+DANIEL: One. Judgment. Knowing which problems matter, when to trust a tool, and when to stop and think. AI gives you options. You still decide.
+SENA: Judgment.
+DANIEL: Two. Trust. Trust grows from small actions over time. Keeping promises. Being honest when you don't know. Caring about what the other person needs. A perfectly written message can't replace that.
+SENA: Trust.
+DANIEL: Three. Growth. Helping people grow, including yourself. Understanding what someone wants, what's holding them back, and what words will actually reach them. That takes attention and care.
+SENA: Judgment, trust, and growth.
+DANIEL: That's our curriculum.
+SENA: Can I add one thing to my notes? Everything you just described sounds like emotional intelligence. EQ.
+DANIEL: Great catch. EQ is the thread that runs through all three. Noticing what you feel, managing it, reading what other people feel, and using all of that to build relationships. Judgment needs it. Trust needs it. Growth needs it.
+SENA: Is there research on that too?
+DANIEL: There is. In 2018, Chao Miao, Ronald Humphrey, and Shanshan Qian combined many earlier studies in a meta-analysis. They found that a leader's emotional intelligence helps predict how well team members perform, even after accounting for personality and general intelligence.
+SENA: So EQ isn't just a nice-to-have.
+DANIEL: Not at all. And here's the part I think you'll like. The effect wasn't the same everywhere. It changed across cultures. In more collectivistic cultures, for example, a leader's EQ mattered even more for performance.
+SENA: So working between Tokyo and Seattle means learning to read emotions in two different ways.
+DANIEL: Exactly. That's why EQ will run through every episode of this show. And the good news is that studies of EQ training suggest it can grow with practice. It's a skill, not a fixed trait.
+SENA: There's something I want to say, though. It's a little personal.
+DANIEL: Go ahead.
+SENA: Working with American teams sometimes feels hard for me. People expect you to say things directly, to speak up in meetings. I grew up learning to read the room, to wait, to not push. Sometimes I feel like that's a weakness.
+DANIEL: Can I push back on that?
+SENA: Please.
+DANIEL: Reading the room is a real strength. Many of the best managers I know are great at noticing what isn't being said. Don't throw that away. You just need to add one more skill on top of it.
+SENA: Which is?
+DANIEL: Saying what you noticed, out loud, clearly and kindly. In a lot of US teams, if you don't say something, people assume you don't think it. So your observations are valuable, but only if they reach the room.
+SENA: That's a little scary.
+DANIEL: It was scary for me too. And I grew up here. That's why we'll practice in small steps.
+SENA: So how will this show work, going forward?
+DANIEL: For the first half of the series, we'll focus on you, as an IC. Taking ownership. Getting more out of your one-on-ones with your manager. Asking for feedback. Communicating clearly. Making your work visible. Earning trust with peers. Influencing people you don't manage.
+SENA: Those all sound like things I need right now.
+DANIEL: That's the idea. The skills you need as a manager don't start the day you get the title. They start where you are today. Then, in the second half, we'll move toward leading people. Giving feedback. Building a team where people feel safe to speak up. Having the hard conversations.
+SENA: And every episode ends with a practice.
+DANIEL: Every episode. One idea, one small practice.
+SENA: Before we get to today's practice, one more question. Microsoft's research says everyone will become an "agent boss." Is that true?
+DANIEL: Ah, you read the Work Trend Index.
+SENA: I did my homework.
+DANIEL: In their 2025 report, Microsoft surveyed about 31,000 workers in 31 countries. Their idea is that every employee, even entry level, will manage AI agents: giving them tasks, checking their work, and improving how they're used.
+SENA: So I'm already a manager. Of AI.
+DANIEL: In a way, yes. And that's useful practice. Clear instructions, checking quality, giving feedback. But here's the difference. An agent doesn't get discouraged. It doesn't have a bad week at home. It doesn't need to feel that its work matters. People do.
+SENA: So managing agents teaches some of the mechanics, but not the human part.
+DANIEL: Exactly. And the human part is what this show is about.
+SENA: Okay. What's today's practice?
+DANIEL: Today's practice is about listening, because listening is where trust starts. This week, in at least one conversation, let the other person finish without interrupting. Even if you want to jump in with advice, hold it. Then ask one question back: "What do you think?" or "What's on your mind about this?"
+SENA: That's it?
+DANIEL: That's it. It sounds simple. Most people find it surprisingly hard.
+SENA: I think I could try it with the partner team. Instead of sending another document, I could ask for a quick call and just listen to their concerns.
+DANIEL: That's a perfect place to start. And tell me what happens next time.
+SENA: I will. And I'll bring a new situation.
+DANIEL: Next episode, we'll start with the first EQ skill: noticing what your body is telling you before you react. I call it the thirty-second window.
+SENA: Thanks for listening to Human Curriculum. I'm Sena.
+DANIEL: And I'm Daniel. See you next time.

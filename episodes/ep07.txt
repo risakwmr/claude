@@ -1,0 +1,83 @@
+DANIEL: Welcome back to Human Curriculum. I'm Daniel Reed, a People Manager in Seattle.
+SENA: And I'm Sena Sato, an Associate in Tokyo. Last time, we talked about one-on-ones, and how to make that meeting more than a status report.
+DANIEL: And today we're talking about something you do maybe fifty times a day. Writing a message. How to say what you mean clearly, without losing your kindness. But first, the practice. You were going to bring one question and one kinkyou to your next one-on-one with Kato-san.
+SENA: I did. I wrote both in my notebook the night before. My question was, "What's one thing you think I should focus on to grow this year?" And my kinkyou was that I've been enjoying the data work more than I expected.
+DANIEL: And did you share them before the task list took over?
+SENA: Yes. I said, "Before we go through the list, may I share a quick update and ask one question?" He looked a little surprised. Then he closed his laptop.
+DANIEL: He closed his laptop. That's a good sign.
+SENA: I thought so too. He said he wasn't sure if I liked the data work or was just being polite. Then he answered my question. He talked for almost ten minutes.
+DANIEL: What did he say?
+SENA: He said my analysis is strong, but my communication with the Seattle team needs work. He said, "Your emails are very polite, but sometimes I don't know what you want them to do." And my one sentence afterward was, "He was surprised, then relieved, and he gave me something real."
+DANIEL: That's a beautiful sentence. And it's the perfect bridge to today.
+SENA: It really is. Because this week, I had a problem with exactly that.
+DANIEL: Tell me what happened.
+SENA: I work with a product manager in Seattle named Mark. On Monday, I found a problem in the data for a report he needs. I needed two more days to fix it. And I needed him to choose. Either we send the report on time with a warning about the data, or we send it two days late, but correct.
+DANIEL: A clear decision. So what did you write?
+SENA: I wrote a long email. First, I apologized. Then I explained how I found the problem. Then I explained the cause, in detail, with three bullet points. Then I apologized again. And in the very last paragraph, I wrote, "If possible, I would appreciate it if you could let me know which option you might prefer."
+DANIEL: And what did Mark write back?
+SENA: "Thanks for the update, Sena! Appreciate the detail." That's all. No decision. On Wednesday, he asked me where the report was. He thought it was coming on time.
+DANIEL: Ouch.
+SENA: I was so frustrated. The question was right there.
+DANIEL: It was there. But it was in the last paragraph, wrapped in four soft words. "If possible." "Might." From your side, the message was obvious. From his side, it looked like an update, not a question.
+SENA: That's what Kato-san meant, isn't it?
+DANIEL: I think so. And you're in very good company. There's research showing that almost everyone overestimates how clearly they communicate. Let me tell you about two studies.
+SENA: Please. I'm taking notes.
+DANIEL: The first is by Boaz Keysar and Anne Henly at the University of Chicago, published in Psychological Science in 2002. They gave speakers sentences that could mean two different things. For example, "Angela shot the man with the gun." Did Angela have the gun, or did the man?
+SENA: Oh, I see. It could be either.
+DANIEL: Right. The speaker knew which meaning was intended, and read the sentence to a listener, trying to make the meaning clear. Then the speaker guessed whether the listener understood. In the cases where speakers thought they had been understood, they were actually misunderstood about forty-six percent of the time.
+SENA: Almost half.
+DANIEL: Almost half. And the mistake mostly went in one direction. Speakers rarely thought they were misunderstood when they were actually understood. They were overconfident. It was a small study, about forty pairs of people, but the idea is powerful. When you know what you mean, it's very hard to imagine not knowing it.
+SENA: That's exactly how I felt about my email. Of course the question was clear. I knew what it was.
+DANIEL: That's the trap. The second study is about writing. Justin Kruger, Nicholas Epley, Jason Parker, and Zhi-Wen Ng published it in 2005 in the Journal of Personality and Social Psychology. The title is a great question. "Egocentrism over e-mail: Can we communicate as well as we think?"
+SENA: And the answer is no, I'm guessing.
+DANIEL: Mostly no. In one experiment, people wrote statements that were either serious or sarcastic, and sent them either by email or by voice recording. Then they predicted whether the other person would get the tone right. People were just as confident with email as with voice. But by voice, listeners got the tone right about three quarters of the time. By email, it was about half. Basically a coin flip.
+SENA: A coin flip. So when I write a message, my tone in my head doesn't travel with it.
+DANIEL: Exactly. When you reread your own email, you hear your own voice. You hear the urgency, the worry, the question. The reader only gets the words on the screen. These were mostly student studies, so I wouldn't treat the exact numbers as a rule for every office. But the direction has held up. We think we're clearer than we are.
+SENA: Okay, here's our usual question. Why can't AI do this for me? I could paste my email into an AI tool and say, "Make this clearer." It would probably put the question at the top.
+DANIEL: It probably would, and that can help. But think about what was really missing from your email. It wasn't grammar. It was a decision about what you were asking for. AI can move sentences around. It can't decide what you actually need, or by when, or what you're willing to accept. That's your judgment.
+SENA: So the hard part happens before the writing.
+DANIEL: Yes. And the second part is knowing your reader. AI doesn't know that Mark reads email on his phone between meetings, or that he's stressed about this launch. Clear communication isn't one perfect version. It's the right message for this person, today. That takes paying attention to a real human being.
+SENA: The words can be borrowed. The understanding can't.
+DANIEL: Nicely put. Now, a confession, and it goes in the opposite direction.
+SENA: The opposite?
+DANIEL: Yes. When I first started working with a team in Tokyo, years ago, I was proud of being direct. Short messages, no extra words. One engineer there, Yuki, sent me a design document. I read it, and I replied with one line. "This approach won't scale. Please redo section three."
+SENA: Oh. I can feel that one.
+DANIEL: In my mind, that was efficient and respectful. I was respecting her time. But Yuki didn't reply for two days. Later, her manager told me she thought I was angry, and that she might be taken off the project.
+SENA: That would be my first thought too. In Japan, a one-line message from a senior person can feel very cold.
+DANIEL: And I wasn't angry at all. I actually liked most of the document. I just didn't write that part, because to me it was obvious. Remember the email study. My tone in my head didn't travel either.
+SENA: So you were clear about the problem, but not clear about the relationship.
+DANIEL: That's a great way to say it. Since then, I think of clarity as two things. Clear about the point, and clear about how I feel about the person. Today, I'd write, "Thanks, Yuki. Most of this is strong. One concern, section three may not scale, because of this reason. Could you take another look by Friday? Happy to talk it through." Still direct. But nothing important is left for her to guess.
+SENA: That's longer, but every sentence has a job.
+DANIEL: Exactly. Short is not the same as clear.
+SENA: This connects to a big culture difference. In Japan, we have the expression "kuuki wo yomu." Reading the air. A good communicator understands what's not said. If you explain everything, it can even feel a little childish, or like you don't trust the other person.
+DANIEL: That's a perfect example of what researchers call high-context communication. The term goes back to the anthropologist Edward T. Hall. And the business writer Erin Meyer, a professor at INSEAD, made it popular in her 2014 book, "The Culture Map." She describes low-context cultures, where good communication is simple, explicit, and clear, and high-context cultures, where messages are often implicit and you read between the lines.
+SENA: And let me guess where Japan and the US are.
+DANIEL: You probably can. In her framework, the United States is about as low-context as it gets, and Japan is one of the highest-context cultures. So when you and Mark write to each other, you're at opposite ends.
+SENA: That explains a lot. My email was polite in a high-context way. I gave all the background so he could understand the situation, and I made the request soft so it wouldn't feel like pressure.
+DANIEL: And in a low-context culture, that softness can make the request disappear. Meyer's advice for teams that mix cultures is that the default should be low-context. Say things explicitly, and put important things in writing. Not because one style is better, but because explicit is easier for everyone when people don't share the same background.
+SENA: That's a relief, actually. It's not that my style is wrong. It's that it doesn't travel well.
+DANIEL: Right. And these are broad patterns, not rules about individuals. Here's a funny twist. Meyer also points out that low-context doesn't always mean direct with criticism. Many Americans are very explicit about facts, but they soften negative feedback a lot. So "That's an interesting idea" in an American meeting might mean "I don't like it."
+SENA: So Americans read the air too, sometimes.
+DANIEL: More than they think. Which is why this is a skill, not a nationality.
+SENA: So which EQ skill is this?
+DANIEL: This one belongs to social awareness. That's the domain about understanding other people. What they know, what they need, and how they're likely to read your words. In writing, social awareness means imagining your message landing on the other person's screen. Not how it sounds in your head, but how it reads in theirs.
+SENA: So the skill is to read my own message as Mark would.
+DANIEL: Exactly. Imagine he has thirty other messages and he's walking to a meeting. What does he need to know in the first two lines? What does he need to do? By when?
+SENA: In my case, "I need you to decide by Tuesday. Option A, on time with a warning. Option B, two days late, but correct."
+DANIEL: That's it. That's the whole email. Everything else, the cause, the three bullet points, can go below. People who want the details can read them. People who don't still know what to do.
+SENA: But I worry it will sound rude. No apology at the start.
+DANIEL: You can be warm in one short line. "Hi Mark, quick decision needed on the report." Then the options. Then, "Sorry for the late notice." Warmth and clarity aren't enemies. The problem is only when warmth hides the point.
+SENA: And the soft words? "If possible." "Might."
+DANIEL: Use one, not four. "Could you let me know by Tuesday?" is polite and clear. "If possible, I would appreciate it if you could let me know which option you might prefer" makes the reader do extra work to find the request.
+SENA: I'll have to fight my habits on that one.
+DANIEL: Everyone does. Some people call this "bottom line up front." Conclusion first, then the request, then details.
+SENA: Okay, this week's practice?
+DANIEL: This week, pick one message you need to send. An email, a chat message, anything that matters a little. Before you send it, rewrite it in this order. First line, the conclusion or the decision. Second, what you need from the reader, and by when. Then the details. And before you press send, read it once as the other person. Ask yourself, "If I only read the first two lines, would I know what to do?"
+SENA: Conclusion, request with a date, details. Then read it as the reader.
+DANIEL: And one more thing. Add one short line of warmth that's actually true. Not ten apologies. One real sentence.
+SENA: I'll try it with Mark. I owe him a better email anyway. And maybe I'll try it in Japanese, with Kato-san, and see what happens.
+DANIEL: I'd love to hear both results. Just remember, in a Japanese context, you may need a little more cushion. Social awareness means adjusting to the reader, not using one rule everywhere.
+DANIEL: Next time, we're moving to relationship management again. Episode eight, "Making Your Work Visible." Why good work doesn't always speak for itself, and how to share what you're doing without feeling like you're bragging.
+SENA: Oh, that one will be hard for me. In Japan, we say the nail that sticks out gets hammered down.
+DANIEL: Then it's exactly the right next episode. Thanks for listening to Human Curriculum. I'm Daniel.
+SENA: And I'm Sena. Put your conclusion first this week. See you next time.

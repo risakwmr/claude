@@ -1,0 +1,78 @@
+DANIEL: Welcome back to Human Curriculum. I'm Daniel Reed, a People Manager in Seattle.
+SENA: And I'm Sena Sato, an Associate in Tokyo. Last time, we talked about low-context communication. Putting the conclusion first.
+DANIEL: And today we're talking about something that makes a lot of people uncomfortable. Making your work visible. But first, the practice. You were going to rewrite one message. Conclusion first, then the request with a date, then the details. And then read it as the reader.
+SENA: I did it with Mark, the product manager in Seattle. There was another small data issue this week, so I had a real chance to try again.
+DANIEL: Lucky timing, in a way. What did you write?
+SENA: My first line was, "Hi Mark, one decision needed by Thursday." Then two options, each one sentence. Then, "Details below, if helpful." And at the very end, one line of warmth. "Thanks for your patience with this dataset. It's been a tricky one."
+DANIEL: And?
+SENA: He replied in eleven minutes. "Option B. Thanks for making this so easy." I actually laughed at my desk.
+DANIEL: That's a great result. How did it feel to write it?
+SENA: Uncomfortable. When I read it as myself, it felt almost rude. When I read it as Mark, on his phone, it felt kind. That was the surprise.
+DANIEL: That's social awareness in action. Reading it from his screen, not from inside your head. Did you try it in Japanese too?
+SENA: A little. With Kato-san I added more cushion at the start, like you said. But I put the request in the second sentence, not the last paragraph. He answered the same day, which is unusual.
+DANIEL: Two experiments, two good results. So, what's your situation this week?
+SENA: This one is harder. It's about being invisible.
+DANIEL: Tell me.
+SENA: Our team has mid-year reviews coming. And there's a director in Seattle, Laura, who oversees several teams, including mine. Last week, she asked Kato-san what each of us has been working on. And Kato-san told me later that when he got to my name, he said, "Sena is very reliable," and then he couldn't think of specific examples.
+DANIEL: Oh. That stings.
+SENA: And it got worse. This spring, I rebuilt the data pipeline for our monthly report. It used to take two days by hand. Now it runs in about an hour. But in the team meeting, my teammate Ryo presents the report every month. And Laura said to Kato-san, "Ryo did a great job on the reporting automation."
+DANIEL: So someone else got the credit for your work.
+SENA: Not on purpose. Ryo is a nice person. He just presents the results, and nobody asked who built it. And I never said anything. I thought good work would be noticed. And in Japan, talking about your own achievements can feel like bragging. "Deru kui wa utareru." The nail that sticks out gets hammered down.
+DANIEL: I understand that completely. And I want to say clearly, your instinct to not brag is a good instinct. But "good work speaks for itself" is a belief that doesn't always match how people's attention works. Let me share some research.
+SENA: Please. My notebook is open.
+DANIEL: The first one isn't about work directly, but I think it explains a lot. In 1998, Thomas Gilovich, Kenneth Savitsky, and Victoria Husted Medvec published a paper in the Journal of Personality and Social Psychology about something they called "the illusion of transparency." The idea is that we overestimate how much other people can see what's going on inside us.
+SENA: Inside us, like our feelings?
+DANIEL: Yes. In one experiment, students at Cornell answered questions in front of a small group. Some were secretly told to lie. Afterward, the liars guessed how many people in the group had caught them. Roughly speaking, they expected about half the audience to see through them. In reality, only about a quarter did.
+SENA: So they thought they were much more obvious than they were.
+DANIEL: Exactly. Their nervousness felt huge from the inside, so they assumed everyone could see it. Now, that study was about emotions, not about work. So I'm stretching it a little. But I see the same pattern all the time at work. You know how hard you worked on that pipeline. You remember every late evening. It feels obvious. So you assume Kato-san and Laura can see it too.
+SENA: But they only see the report that Ryo presents.
+DANIEL: Right. Your effort is visible to you, and almost invisible to everyone else, unless you make it visible. And here's the second piece of research. Teresa Amabile, a professor at Harvard Business School, and Steven Kramer wrote a book in 2011 called "The Progress Principle." They collected about twelve thousand daily diary entries from two hundred thirty-eight people, on twenty-six project teams, in seven companies.
+SENA: Twelve thousand diary entries. That's a lot of reading.
+DANIEL: It is. And they found that of all the things that made people's workdays feel good, the most powerful was making progress in meaningful work. Even small progress. They call it the progress principle. And here's the twist. They also surveyed six hundred sixty-nine managers around the world and asked them to rank what motivates employees. Progress came in last. Only about five percent ranked it first.
+SENA: So managers don't realize how much progress matters to people.
+DANIEL: That's what the survey suggested. And I think it connects to visibility in two ways. First, if you write down your progress each week, you notice it yourself. Many people forget their small wins by Friday. Second, when your manager sees your progress, they can recognize it and support it. If they never see it, they can't.
+SENA: That makes me think. Maybe I don't feel proud of the pipeline anymore, because I never looked back at it.
+DANIEL: That's very possible. And one more study on that point. Giada Di Stefano, Francesca Gino, Gary Pisano, and Bradley Staats wrote a working paper at Harvard Business School in 2014 called "Learning by Thinking." In a field experiment at a call center company in India, new employees in training spent the last fifteen minutes of each day writing about the key lessons they had learned. On the final test, that group scored about twenty-three percent higher than average. Another group wrote and then also explained their lessons to a coworker, and they did about the same.
+SENA: So writing down what you did helps you learn, not only show off.
+DANIEL: That's the idea. But I want to be careful. It's a working paper, so treat it as interesting evidence, not a final answer. Still, I like the message. A weekly update is fifteen minutes of reflection that happens to help other people too.
+SENA: Okay, here's our question. Why can't AI do this for me? AI could read my calendar and my files and write a perfect weekly summary.
+DANIEL: It could write a summary of activity. But visibility isn't a list of everything you touched. It's choosing what matters. AI doesn't know which of your ten tasks Laura actually cares about this quarter. It doesn't know that the pipeline is the thing you're proud of, or that you want more data work. Choosing what to highlight is a judgment about your goals and your audience.
+SENA: And maybe about what I want my career to be.
+DANIEL: Exactly. And there's a second part. An update isn't only information. It's a small signal, every week, that you're reliable and thoughtful. It's part of a relationship. If your manager can tell it was written by a tool, it loses that. People trust your voice, not a generic summary.
+SENA: So the update is less like a report and more like a habit of trust.
+DANIEL: I like that. Now, my failure story.
+SENA: I was waiting for it.
+DANIEL: Before I became a manager, I was an individual contributor for about six years. I was the person who quietly fixed things. One year, I led a big data migration. Three months of work. It went smoothly. No outages, no drama.
+SENA: That sounds like a success.
+DANIEL: It was. And that was the problem. Because it went smoothly, nobody noticed. That year, I was hoping for a promotion. I didn't get it. In my review, my manager said, "I'd like to see you take on a bigger project next year." And I said, "I led the migration." And he said, honestly surprised, "Wait, you led that? I thought the infrastructure team did."
+SENA: Oh no. That's exactly my situation.
+DANIEL: It's exactly your situation. And I was angry at first. Then I realized he managed twelve people and two other projects. He wasn't ignoring me. He just didn't have the information. I had never told him. I thought telling him would be bragging.
+SENA: What did you change?
+DANIEL: I started sending him three lines every Friday. What I finished, what's next, and anything I needed. That's it. And the next year, he knew exactly what I was doing. He even started forwarding parts of my updates to his manager. That's how I got the promotion the following year. Not because I worked harder. Because my work became visible.
+SENA: That's both encouraging and a little sad.
+DANIEL: It is. Ideally, managers would notice everything. As a manager now, I try. But I have eight people, and I know I miss things. A good update helps me be a better manager.
+SENA: That's a different way to see it. Not "look at me," but "here's information to help you."
+DANIEL: Exactly. Now, tell me about Japan. I know there's a reporting culture there.
+SENA: Yes. In Japanese companies, new employees learn "hou-ren-sou." It means report, contact, consult. We report constantly. So it's interesting. Japanese workers are very good at reporting status. Especially problems and delays. But we rarely report impact. We say, "The report is finished." We don't say, "The report now takes one hour instead of two days."
+DANIEL: That's a really useful distinction. Status versus impact.
+SENA: And talking about impact feels like praising yourself. We also have the value of kenson, modesty. A good team member says, "It was thanks to everyone."
+DANIEL: In many US workplaces, people expect you to describe your own impact. If you don't, people may assume there wasn't much. And performance reviews often ask you to write your own accomplishments. But Americans don't love bragging either. The best updates sound factual, not boastful. "The new pipeline cut the monthly report from two days to about an hour." That's not bragging. That's a fact.
+SENA: And I can still say "thanks to everyone" if it's true. Like, "Ryo helped test it."
+DANIEL: Yes, and that's important. Naming other people's contributions is part of making work visible. It's generous, and it shows you see the whole team. Future managers do that.
+SENA: So which EQ skill is this?
+DANIEL: This is relationship management. Making your work visible is about managing the relationship with your manager and other leaders, so they have accurate information, and so trust grows. But there's also a little self-awareness in it. Notice the feeling that comes up when you write about your own success. For many people, it's embarrassment, or fear of seeming arrogant. Name it, and then decide whether that feeling should stop you.
+SENA: For me, the feeling is "hazukashii." Embarrassed. A little exposed.
+DANIEL: That's honest. And you can feel embarrassed and still send it. It usually gets easier after three or four weeks.
+SENA: What about Ryo and the pipeline? Should I correct Laura?
+DANIEL: I wouldn't make it a correction. In your next one-on-one with Kato-san, you could say, "I'd like to make sure my work on the pipeline is visible for my review. Could you help me share it with Laura?" That's clear, it's not blaming Ryo, and it gives Kato-san a chance to help you.
+SENA: That feels possible. Conclusion first, but kind.
+DANIEL: You're putting the episodes together. So, this week's practice?
+SENA: Yes, please.
+DANIEL: This week, send your manager a three-line weekly update. Line one, what you finished, with its impact if you can. Line two, what you'll work on next. Line three, anything you need, or a risk they should know about. Keep it short enough to read on a phone. And if someone helped you, name them.
+SENA: Done, next, need. Three lines.
+DANIEL: And before you send it, notice the feeling. If it's embarrassment, that's okay. Send it anyway. And if your work is stressful and you're feeling truly overwhelmed, that's worth talking about with your manager or a professional, not only in three lines.
+SENA: I'll send my first one to Kato-san on Friday. And I'll include the pipeline numbers.
+DANIEL: I'd love to hear how he responds. Next time, we're staying in relationship management. Episode nine, "Earning Trust with Peers." Not your manager this time, but the people next to you. How trust is built in small, everyday moments.
+SENA: That will be good for me and Ryo.
+DANIEL: Maybe. Thanks for listening to Human Curriculum. I'm Daniel.
+SENA: And I'm Sena. Send your three lines this Friday. See you next time.

@@ -2,10 +2,10 @@
 
 Needs the GitHub secrets CLIENT_ID, CLIENT_SECRET, REFRESH_TOKEN as environment variables.
 
-VISIBILITY decides how the video goes up:
-  private  (default) only you can see it
-  public   public right away
-  schedule private now, goes public by itself at the next 00:00 or 12:00 Japan time
+PUBLISH_AT decides how the video goes up:
+  empty                   private, only you can see it
+  now                     public right away
+  2026-10-08T03:00:00Z    private now, goes public by itself at that time (UTC)
 """
 import json
 import os
@@ -53,24 +53,6 @@ def description(meta, ep):
     return "\n".join(lines)[:4900]
 
 
-JST = timezone(timedelta(hours=9))
-SLOTS_JST = (0, 12)  # publish times, hour of day in Japan time
-
-
-def next_slot(now=None):
-    """Next 00:00 / 12:00 JST at least 15 minutes from now, or None if the run is late."""
-    now = now or datetime.now(timezone.utc)
-    earliest = (now + timedelta(minutes=15)).astimezone(JST)
-    for day in range(2):
-        for hour in SLOTS_JST:
-            slot = (earliest + timedelta(days=day)).replace(hour=hour, minute=0, second=0, microsecond=0)
-            if slot >= earliest:
-                # Scheduled runs start about 3 hours before a slot. A gap of more than
-                # 6 hours means this run missed its slot, so publish right away instead.
-                return slot if slot - now <= timedelta(hours=6) else None
-    return None
-
-
 def _send(yt, body, video):
     media = MediaFileUpload(video, mimetype="video/mp4", chunksize=8 * 1024 * 1024, resumable=True)
     req = yt.videos().insert(part="snippet,status", body=body, media_body=media)
@@ -89,8 +71,8 @@ def _send(yt, body, video):
     return resp
 
 
-def upload(num, video, thumbnail, visibility=None):
-    visibility = visibility or os.environ.get("VISIBILITY") or "private"
+def upload(num, video, thumbnail, publish_at=None):
+    publish_at = (publish_at if publish_at is not None else os.environ.get("PUBLISH_AT", "")).strip()
     meta = json.load(open(os.path.join(ROOT, "episodes", "episodes.json"), encoding="utf-8"))
     ep = next(e for e in meta["episodes"] if e["number"] == num)
     title = f"EP {num:02d} | {ep['title']} | {meta['show']}"
@@ -107,19 +89,14 @@ def upload(num, video, thumbnail, visibility=None):
             "defaultAudioLanguage": "en",
         },
         "status": {
-            "privacyStatus": "public" if visibility == "public" else "private",
+            "privacyStatus": "public" if publish_at == "now" else "private",
             "selfDeclaredMadeForKids": False,
             "containsSyntheticMedia": True,
         },
     }
-    if visibility == "schedule":
-        slot = next_slot()
-        if slot:
-            body["status"]["publishAt"] = slot.astimezone(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
-            print(f"  goes public at {slot:%Y-%m-%d %H:%M} JST", flush=True)
-        else:
-            body["status"]["privacyStatus"] = "public"
-            print("  run is late for its slot, publishing now", flush=True)
+    if publish_at and publish_at != "now":
+        body["status"]["publishAt"] = publish_at
+        print(f"  goes public at {publish_at} (UTC)", flush=True)
     try:
         resp = _send(yt, body, video)
     except HttpError as e:
@@ -144,6 +121,30 @@ def upload(num, video, thumbnail, visibility=None):
     return vid
 
 
+def reschedule(nums):
+    """Give already uploaded private episodes publish times, one per free slot, in this order."""
+    from slot import fmt, next_free
+
+    pub = json.load(open(os.path.join(ROOT, "published.json")))
+    keys = [str(n) for n in nums]
+    slot, _ = next_free(datetime.now(timezone.utc), pub, skip=keys)
+    yt = youtube()
+    for k in keys:
+        vid = pub[k]["video_id"]
+        status = yt.videos().list(part="status", id=vid).execute()["items"][0]["status"]
+        if status.get("privacyStatus") == "public":
+            print(f"  EP {int(k):02d} is already public, skipped", flush=True)
+            continue
+        new = {key: status[key] for key in ("embeddable", "license", "publicStatsViewable",
+                                            "selfDeclaredMadeForKids", "containsSyntheticMedia") if key in status}
+        new.update(privacyStatus="private", publishAt=fmt(slot))
+        yt.videos().update(part="status", body={"id": vid, "status": new}).execute()
+        pub[k]["publish_at"] = fmt(slot)
+        print(f"  EP {int(k):02d} goes public at {slot:%m/%d %H:%M} JST", flush=True)
+        slot += timedelta(hours=12)
+    json.dump(pub, open(os.path.join(ROOT, "published.json"), "w"), indent=2)
+
+
 def update_thumbnail(num):
     """Replace the thumbnail of an already uploaded episode."""
     pub = json.load(open(os.path.join(ROOT, "published.json")))
@@ -155,6 +156,10 @@ def update_thumbnail(num):
 
 
 if __name__ == "__main__":
+    sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+    if sys.argv[1] == "reschedule":
+        reschedule([int(n) for n in sys.argv[2:]])
+        sys.exit(0)
     if sys.argv[1] == "thumb":
         for n in sys.argv[2:]:
             update_thumbnail(int(n))

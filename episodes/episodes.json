@@ -423,6 +423,83 @@
       ],
       "thumb_cup": "Same day, three parts.",
       "thumb_pose": "sena_breathe"
+    },
+    {
+      "number": 13,
+      "script": "ep13.txt",
+      "title": "Saying No Without Burning Bridges",
+      "short_title": "Saying No Without Burning Bridges",
+      "summary": "Sena said yes to an extra analysis for Mark and a weekly study group for Ryo, and by Wednesday she is working until eleven at night. Daniel shares Gal Zauberman and John Lynch's experiments showing that people expect to have more spare time in the future than now, and Julian Givi and Colleen Kirk's research showing that people who decline invitations overestimate how upset the other person will be. He tells the story of the year he said yes to everyone, until someone on his team noticed the quiet no behind every yes. They compare Japan's soft kentou shimasu with the clearer no that global teams often need, and practice saying no as self-management: pause, the tomorrow test, and a kind, clear no.",
+      "practice": "When someone asks you to take on something new, don't answer on the spot: say, \"Let me check and get back to you by,\" and give a specific time. Ask yourself, \"Would I say yes if this were tomorrow?\" If not, decline in three parts: thank them, give a clear no with a short reason, and offer one thing you can do instead. Afterward, write down what you expected them to feel, and what they actually seemed to feel.",
+      "sources": [
+        "Zauberman & Lynch (2005), Resource Slack and Propensity to Discount Delayed Investments of Time Versus Money, Journal of Experimental Psychology: General",
+        "Givi & Kirk (2024), Saying No: The Negative Ramifications From Invitation Declines Are Less Severe Than We Think, Journal of Personality and Social Psychology"
+      ],
+      "tags": [
+        "EQ",
+        "emotional intelligence",
+        "self-management",
+        "saying no",
+        "boundaries",
+        "prioritization",
+        "overcommitment",
+        "kentou shimasu",
+        "Japan US work culture",
+        "career",
+        "leadership",
+        "people manager",
+        "audiobook",
+        "English learning"
+      ],
+      "thumb_sub": "Pause, Then a Kind, Clear No",
+      "thumb_accent": "No",
+      "thumb_notes": [
+        "Future you is busy too",
+        "The tomorrow test",
+        "Thank, no, offer",
+        "Bridges hold"
+      ],
+      "thumb_cup": "Would I say yes tomorrow?",
+      "thumb_pose": "sena_think"
+    },
+    {
+      "number": 14,
+      "script": "ep14.txt",
+      "title": "Switching Off After Work",
+      "short_title": "Switching Off After Work",
+      "summary": "Working in Tokyo with colleagues in Seattle, Sena reads Slack in bed at midnight, sleeps badly, and snaps at Ryo the next day. Daniel explains Sabine Sonnentag and Charlotte Fritz's four recovery experiences, psychological detachment, relaxation, mastery, and control, and a meta-analysis by Johannes Wendsche and Andrea Lohmann-Haislah of 91 samples and more than 38,000 employees linking detachment with less exhaustion, better well-being, and better sleep. He tells the story of the soccer goal he missed while reading an email. They compare Japan's tsukiai zangyou with the always-on phone, and treat recovery as self-management: managing your energy, not only your time. The practice: a small shutdown ritual.",
+      "practice": "Create a small shutdown ritual at the end of your workday: write down the top three things for tomorrow, then say, \"Done for today.\" After that, no work messages until the next morning, for at least three evenings this week. Once this week, spend twenty minutes on something that isn't work and gives you calm or a small challenge, and notice how you sleep.",
+      "sources": [
+        "Sonnentag & Fritz (2007), The Recovery Experience Questionnaire: Development and Validation of a Measure for Assessing Recuperation and Unwinding From Work, Journal of Occupational Health Psychology",
+        "Wendsche & Lohmann-Haislah (2017), A Meta-Analysis on Antecedents and Outcomes of Detachment from Work, Frontiers in Psychology"
+      ],
+      "tags": [
+        "EQ",
+        "emotional intelligence",
+        "self-management",
+        "recovery",
+        "psychological detachment",
+        "work-life balance",
+        "time zones",
+        "global teams",
+        "tsukiai zangyou",
+        "Japan US work culture",
+        "career",
+        "leadership",
+        "people manager",
+        "audiobook",
+        "English learning"
+      ],
+      "thumb_sub": "Close the Door at Night",
+      "thumb_accent": "Off",
+      "thumb_notes": [
+        "Detach, don't drift",
+        "Relax or master",
+        "Phone in the kitchen",
+        "Done for today"
+      ],
+      "thumb_cup": "Done for today.",
+      "thumb_pose": "sena_walk"
     }
   ]
 }

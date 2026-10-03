@@ -7,12 +7,19 @@ on:
         description: "Episode number(s), e.g. 1 or 1,2. Use next for the next unpublished ones."
         default: "1"
       upload:
-        description: "Upload to YouTube (as private)?"
+        description: "Upload to YouTube?"
         type: boolean
         default: false
+      visibility:
+        description: "How to upload: private, public, or schedule (goes public at the next 00:00 / 12:00 JST)"
+        type: choice
+        options: [private, public, schedule]
+        default: private
   schedule:
-    # Twice a day at 00:00 and 12:00 Japan time (15:00 and 03:00 UTC). Runs only when the repository variable AUTO_UPLOAD is "true".
-    - cron: "0 3,15 * * *"
+    # Twice a day at 21:00 and 09:00 Japan time (12:00 and 00:00 UTC), about 3 hours ahead.
+    # Each video is uploaded as scheduled and goes public by itself at the next 00:00 / 12:00 JST.
+    # Runs only when the repository variable AUTO_UPLOAD is "true".
+    - cron: "0 0,12 * * *"
 
 permissions:
   contents: write
@@ -80,6 +87,7 @@ jobs:
           CLIENT_ID: ${{ secrets.CLIENT_ID }}
           CLIENT_SECRET: ${{ secrets.CLIENT_SECRET }}
           REFRESH_TOKEN: ${{ secrets.REFRESH_TOKEN }}
+          VISIBILITY: ${{ github.event_name == 'schedule' && 'schedule' || inputs.visibility }}
         run: |
           for n in ${{ steps.pick.outputs.list }}; do
             vid=$(python src/upload.py "$n" | tail -n 1)

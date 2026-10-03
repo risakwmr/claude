@@ -9,7 +9,7 @@ Sena (Associate, Tokyo) learns from her mentor Daniel (People Manager, Seattle).
 2. Each line is voiced (Sena: female US English voice, Daniel: male US English voice)
 3. A 1080p video is drawn in the show's paper-and-brush style: both character cards, the speaker's card lifts and shows sound bars, subtitles at the bottom
 4. A thumbnail is drawn (or your own `episodes/epNN_thumbnail.png` is used as-is)
-5. The video is uploaded to YouTube as **private** with its thumbnail
+5. The video is uploaded to YouTube as **scheduled** (goes public by itself at 00:00 or 12:00 JST) with its thumbnail
 
 ## Character art
 
@@ -29,7 +29,7 @@ Rendering a 15-minute episode takes about 10 minutes.
 ## Daily automatic posting
 
 Settings → Secrets and variables → Actions → **Variables** → New variable: `AUTO_UPLOAD` = `true`.
-Twice a day, at 00:00 and 12:00 Japan time, the next unpublished episode is made and uploaded (two a day). GitHub may start scheduled runs late.
+Twice a day (starting at 21:00 and 09:00 Japan time) the next unpublished episode is made and uploaded as scheduled, so it goes public right at 00:00 or 12:00. If GitHub starts a run too late for its slot, that episode goes public as soon as it is uploaded.
 `published.json` keeps track of what has been uploaded.
 
 ## Add an episode
@@ -47,6 +47,6 @@ Add repository variables `SENA_VOICE` / `DANIEL_VOICE` with any Microsoft Edge n
 
 ## Notes
 
-- Videos from unverified Google Cloud apps stay private until Google's audit; switch them to public in YouTube Studio.
+- Videos from unverified Google Cloud apps can be locked to private until Google's audit (this channel is not affected as of Oct 2026).
 - Custom thumbnails need a phone-verified channel (youtube.com/verify).
 - Fonts: Inter and Lora (SIL Open Font License), TeX Gyre Chorus (GUST Font License). See `assets/fonts/`.

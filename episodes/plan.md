@@ -1,18 +1,22 @@
 # Human Curriculum — Episode plan (180 episodes)
 
-Whole-show theme: the human skills AI can't do for you, and growing EQ.
+Whole-show theme: the human skills AI can't do for you, and growing EQ, with cross-functional (xFN) collaboration, work efficiency, behavioral economics, and English speaking.
 Posting pace: 2 episodes a day (00:00 and 12:00 JST), 180 episodes ≈ 90 days.
-Format of each line: `NN Title | EQ domain | this week's practice (Japanese note for the writer)`.
-Each episode's teaser points to the next line in this file. Episode 15, 30, 45 … close a season: wrap up the season, then tease the next season's first episode (only episode 180 ends the show).
+Format of each line: `NN Title | EQ domain | today's challenge (Japanese note for the writer)`.
+From episode 12 on, each episode ends with a **one-day challenge**: something the listener can do at work TODAY (not "this week"). The next episode opens by asking how the challenge went.
+Every episode also has a short **Speaking Lab** before the challenge (see the routine prompt). Research ideas with verified sources are in `episodes/ideas.md`.
+Each episode's teaser points to the next line in this file. Episodes 15, 30, 45 … close a season: wrap up the season, then tease the next season's first episode (only episode 180 ends the show).
 
 ## Story arc (keep continuity)
-- The whole show follows Sena from Associate to Program Manager. She stays an Associate (IC) in Tokyo until the promotion decision in episode 176; she starts as a Program Manager only at the very end (177–180). She never gets direct reports in this show.
-- Her long-term dream (a people manager in the US within 5 years) stays in the background as a future goal.
-- Season 1–4: everyday IC work in Tokyo. Manager Kato-san, teammate Ryo, PM Mark and director Laura in Seattle.
-- Season 5–6 (61–90): as an Associate, Sena leads her first small cross-team project, without a title or authority.
-- Season 7–10 (91–150): bigger projects, change, stakeholders, helping newer colleagues (as a peer, not a manager), sustainable work.
-- Season 11 (151–165): she starts thinking like a Program Manager and makes a one-week business trip to Seattle (she still lives and works in Tokyo).
-- Season 12 (166–180): the road to the Program Manager role: promotion case, interviews, the decision, the transition, and the show's finale at episode 180.
+- The 180 episodes cover about one year of Sena's life: from Associate in Tokyo to Program Manager in Seattle. People manager is her next goal after that, teased in the finale.
+- She stays an Associate (IC) in Tokyo until she gets the offer for a Program Manager role on a Seattle team (episode 176). She hands off her Tokyo work (177), moves to Seattle (178) and starts as a Program Manager (179–180). She never has direct reports in this show.
+- Season 1–4: everyday IC work in Tokyo. Manager Kato-san, teammate Ryo, PM Mark and director Laura in Seattle. Season 3 focuses on speaking English at work (Sena's speaking is weaker than her listening).
+- Season 5–6 (61–90): as an Associate, Sena leads her first small cross-team project, without a title or authority, and works closely with engineering, product, data and design.
+- Season 7–8 (91–120): change, ambiguity, stakeholders and influence.
+- Season 9 (121–135): behavioral economics for work and marketing (Sena helps a marketing launch).
+- Season 10 (136–150): focus, efficiency and energy.
+- Season 11 (151–165): thinking like a Program Manager; a one-week business trip to Seattle (she still lives and works in Tokyo).
+- Season 12 (166–180): the road to the Seattle Program Manager role: her case, sponsor, interviews, the offer, the move, the first days, and the finale.
 - New side characters get new names; never reuse earlier side characters' names for new people.
 Daniel stays a senior People Manager in Seattle (team of 8) and Sena's mentor. Daniel's failure stories must not repeat earlier ones.
 
@@ -50,22 +54,22 @@ Daniel stays a senior People Manager in Seattle (team of 8) and Sena's mentor. D
 29 Gratitude That Isn't Generic | Relationship management | 具体的な感謝のメッセージを1通送る
 30 Your Emotional Baseline | All four | 1週間の気分を1日1語で記録して振り返る(シーズン2のしめくくり)
 
-## Season 3 — Communicating in English at Work (31–45)
-31 Small Talk Is Not Small | Relationship management | 会議の最初の2分で相手に質問を1つする
-32 Asking Clarifying Questions | Social awareness | 「Just to make sure I understand…」で1回確認する
-33 Interrupting Politely | Self-management | 会議で一度「Can I add something?」と入る
-34 Active Listening | Social awareness | 相手の話を要約してから自分の意見を言う
-35 Thinking Out Loud in Meetings | Self-management | 完成していない考えを一度声に出す
-36 Presenting with a Story | Relationship management | 発表の冒頭を具体的な場面1つで始める
-37 Writing Messages People Act On | Social awareness | 依頼メッセージに「何を・いつまでに」を必ず入れる
-38 Tone in Chat | Social awareness | 短い返信に一言の温かさを足す
-39 Pushing Back on Deadlines | Relationship management | 期限について代案を添えて交渉する
-40 Humor Across Cultures | Social awareness | 同僚の冗談を1つメモし、何がおかしいのか考える
+## Season 3 — Speaking Up in English at Work (31–45)
+31 Small Talk Is Not Small | Relationship management | 会議の最初の2分で相手に質問を1つ、続けてフォローアップの質問も1つする
+32 Thinking in English, Not Translating | Self-management | 今日の予定を英語で声に出して3回説明する(2分→1分半→1分)
+33 Chunks That Buy You Time | Self-management | 会議で使う決まり文句を5つ選び、今日1つ使う
+34 Asking Clarifying Questions | Social awareness | 「Just to make sure I understand…」で1回確認する
+35 Interrupting Politely | Self-management | 会議で一度「Can I add something?」と入る
+36 Listen, Summarize, Then Speak | Social awareness | 相手の話を一言で要約してから自分の意見を言う
+37 Retell in 30 Seconds | Self-awareness | 今日の会議の要点を30秒で声に出して要約し、録音する
+38 Speaking Before You Feel Ready | Self-management | 英語の会議で最初の1分以内に一言話す(前後の緊張を1〜10で記録)
+39 Presenting with a Story | Relationship management | 発表の冒頭を具体的な場面1つで始める
+40 Pushing Back on Deadlines | Relationship management | 期限について代案を添えて交渉する
 41 Saying "I Don't Know" | Self-awareness | 「I don't know yet, I'll find out by…」と1回言う
-42 Running a Short Meeting | Relationship management | 目的・決めたいこと・時間を最初に言って会議を始める
-43 Summarizing Decisions | Social awareness | 会議の最後に決まったことを1行で送る
-44 Speaking with Senior Leaders | Self-management | 上の立場の人に話す前に結論を1文で用意する
-45 Finding Your Voice in English | All four | 自分の英語で一番伸びた点を1つ人に話す(シーズン3のしめくくり)
+42 Running a Short Meeting in English | Relationship management | 目的・決めたいこと・時間を最初に言って会議を始める
+43 Learning from Your Own Recording | Self-awareness | 2分の発言を録音して書き起こし、直して録り直す
+44 Speaking with Senior Leaders | Self-management | 上の立場の人に話す前に結論を1文で用意して声に出す
+45 Finding Your Voice in English | All four | 1か月前の録音と今日の録音を聞き比べる(シーズン3のしめくくり)
 
 ## Season 4 — Growing Your Career (46–60)
 46 The Career Conversation | Self-awareness | マネージャーに「1年後どうなっていたいか」を話す
@@ -115,7 +119,7 @@ Daniel stays a senior People Manager in Seattle (team of 8) and Sena's mentor. D
 86 Including Quiet Voices | Social awareness | 会議で話していない人に意見を聞く
 87 Credit and Ownership Across Teams | Relationship management | 他チームの貢献を報告の中で名前付きで伝える
 88 Repairing a Cross-Team Misunderstanding | Relationship management | こじれた相手に短く連絡して話す時間をもらう
-89 Remote and Hybrid Fairness | Social awareness | オンライン参加の人が不利にならない工夫を1つする
+89 Show, Don't Describe | Social awareness | 次の他部署との話し合いに画面・サンプルなど実物を持っていく
 90 The Connector | All four | 自分がつないだ人と人を3組書き出す(シーズン6のしめくくり)
 
 ## Season 7 — Change and Ambiguity (91–105)
@@ -152,37 +156,37 @@ Daniel stays a senior People Manager in Seattle (team of 8) and Sena's mentor. D
 119 Influence Through Listening | Social awareness | 説得したい相手の話を10分だけ聞く
 120 Your Influence Map | All four | 半年で信頼を築いた相手を振り返る(シーズン8のしめくくり)
 
-## Season 9 — Growing Yourself, Helping Others Grow (121–135)
-121 Growth Mindset, Carefully | Self-awareness | 「まだできない」と言い換える場面を1つ見つける
-122 Deliberate Practice | Self-management | 苦手なスキルを15分だけ集中して練習する
-123 Learning from Every Project | Self-awareness | 終わった仕事から次に使える教訓を1つ書く
-124 Asking for Coaching | Relationship management | 尊敬する人に1つのスキルについて助言を頼む
-125 Onboarding a New Teammate | Relationship management | 新しく来た人の最初の1週間を手伝う
-126 Mentoring an Intern | Social awareness | インターンに質問だけで考えを引き出す
-127 Sharing Your Mistakes to Help Others | Relationship management | 後輩に自分の失敗談を1つ話す
-128 Teaching What You Know | Self-management | 自分のノウハウを1ページにまとめる
-129 Giving Peer Feedback | Relationship management | 同僚に改善点を1つSBIで伝える
-130 Receiving Hard Feedback | Self-management | 耳の痛いフィードバックに「ありがとう、考えてみる」と返す
-131 Letting Others Struggle (a Little) | Self-management | すぐ答えず、相手が考える時間を待つ
-132 Different People Learn Differently | Social awareness | 相手に合う教え方を1つ選ぶ
-133 Building a Learning Plan | Self-management | 3か月の学習計画を1枚にする
-134 Celebrating Others' Growth | Relationship management | 同僚の成長を本人に具体的に伝える
-135 Who You're Becoming | All four | 1年前の自分と比べて変わったことを3つ書く(シーズン9のしめくくり)
+## Season 9 — Behavioral Economics at Work and in Marketing (121–135)
+121 Why People Don't Decide Like Spreadsheets | Social awareness | 今日の自分の選択で「理屈どおりでなかった」ものを1つ書く
+122 Anchors in Every Meeting | Self-awareness | 見積もりの話し合いの前に自分の数字を先に書いておく
+123 Framing: Same Facts, Different Story | Social awareness | 提案の1文を「得る」言い方と「失う」言い方で書き比べて選ぶ
+124 Loss Aversion and Resistance to Change | Social awareness | 変化に反対する人に「何を失うと感じるか」を聞く
+125 The Power of Defaults | Relationship management | 自分のテンプレートや招待で、望ましい行動を初期設定にする
+126 Too Many Options? | Self-management | 選択肢を3つに絞って1つを推す(本当に絞るべき場面か先に確かめる)
+127 Decoys and Honest Pricing | Self-awareness | 3段階の案を作り、真ん中の案が相手の役に立っているか確かめる
+128 Mental Accounting and Reference Points | Social awareness | 予算や価格の説明に、比べてほしい基準を1つ書く
+129 Ownership and the Endowment Effect | Relationship management | 関係者に試してもらえる小さなパイロットを提案する
+130 Sunk Costs | Self-management | 「今日ゼロから始めるならやるか?」を1つの仕事に問う
+131 The IKEA Effect: Build It Together | Relationship management | 計画の一部(成功の指標など)を関係者と一緒に決める
+132 Social Proof, Used Honestly | Social awareness | 依頼に本当の数字で「多くの人がもうやっている」を1つ添える
+133 Peak-End: How People Remember | Relationship management | 会議やデモを一番いい瞬間で終える
+134 Test, Don't Guess | Self-management | 2〜3案を小さく試して比べる計画を立てる
+135 The Limits and Ethics of Nudges | All four | 使う前に「再現研究での効果」と「相手のためになるか」を確かめる(シーズン9のしめくくり)
 
-## Season 10 — Sustainable Performance (136–150)
-136 Energy, Not Just Time | Self-awareness | 1日のエネルギーの波を記録する
+## Season 10 — Focus, Efficiency and Energy (136–150)
+136 Attention Residue | Self-management | 作業を切り替える前に「どこまでやって次は何か」を1行書く
 137 Deep Work in a Shallow Day | Self-management | 通知を切って60分集中する
-138 Rest Is Part of the Work | Self-management | 休む時間を予定に先に入れる
-139 Boundaries Across Time Zones | Relationship management | 返信できる時間帯を相手に伝える
-140 Attention and Multitasking | Self-awareness | 1つの作業中にタブを1つだけ開く
-141 Values at Work | Self-awareness | 大事にしたい価値観を3つ選ぶ
-142 Meaning and Purpose | Self-awareness | 自分の仕事が誰の役に立つかを1文で書く
-143 Asking for Help Early | Relationship management | 困っていることを1つ早めに相談する
-144 Recovering from a Hard Week | Self-management | 週末に回復のための行動を1つする
-145 Habits That Stick | Self-management | 既存の習慣に新しい小さな習慣を1つつなげる
-146 The Inner Critic | Self-awareness | 頭の中の厳しい声を1つ書き出して言い換える
-147 Joy at Work | Self-awareness | 仕事で楽しかった瞬間を1日1つ書く
-148 Modeling Balance for Your Team | Relationship management | 自分が休むことを周りに見せる
+138 Interruptions and Breakpoints | Social awareness | 急ぎでない質問をまとめて、相手の区切りのいい時間に送る
+139 Quiet Time for the Team | Relationship management | チームに90分の「声をかけない時間」を提案する
+140 Email and Chat, Three Times a Day | Self-management | メールを決めた3回だけ確認する
+141 If-Then Plans | Self-management | 今日の「もし〇〇なら△△する」を1つ書く
+142 Beating the Planning Fallacy | Self-awareness | 作業を5つ以上に分けて見積もり、前回の実績と比べる
+143 Urgent vs. Important | Self-awareness | 上位3つを「重要」か「急ぎなだけ」かに分け、重要なものから始める
+144 Meetings That Earn Their Time | Relationship management | 次の定例を立って15分で終える
+145 Collaboration Overload | Relationship management | よく来る依頼を1つ、ドキュメントやFAQで済む形にする
+146 Breaks That Restore | Self-management | 90分ごとに5分画面から離れる
+147 Rest Is Part of the Work | Self-management | 休む時間を予定に先に入れる
+148 Values and Meaning at Work | Self-awareness | 自分の仕事が誰の役に立つかを1文で書く
 149 When to Get Professional Support | Self-awareness | 相談できる窓口を1つ調べておく
 150 A Sustainable Pace | All four | 3か月続けられる働き方を1枚にまとめる(シーズン10のしめくくり)
 
@@ -193,7 +197,7 @@ Daniel stays a senior People Manager in Seattle (team of 8) and Sena's mentor. D
 154 Prioritizing When Everything Matters | Self-management | 優先順位の基準を3つ決めて共有する
 155 Metrics That Matter | Social awareness | 成功を測る指標を1つ選び、関係者と合意する
 156 Program-Level Risk | Self-management | 複数のプロジェクトにまたがるリスクを1つ見つける
-157 A Week in Seattle | Self-awareness | 出張先で驚いたことを3つ書く
+157 A Week in Seattle | Self-awareness | 出張先で会った人に「このチームで成功するには?」と聞く
 158 Trust Across Cultures, Face to Face | Relationship management | シアトルの相手と仕事以外の話を1つする
 159 Being the Bridge Between Tokyo and Seattle | Relationship management | 2つの拠点の間で誤解を1つ解く
 160 Trade-Offs Out Loud | Relationship management | 「これを選ぶと何をあきらめるか」を言葉にして伝える
@@ -203,19 +207,19 @@ Daniel stays a senior People Manager in Seattle (team of 8) and Sena's mentor. D
 164 Your Accent, Your Voice | Self-awareness | 自分の英語で話すことに誇りを持てる点を1つ書く
 165 Seeing the Whole Board | All four | 全体を見て判断できたことを1つ振り返る(シーズン11のしめくくり)
 
-## Season 12 — The Road to Program Manager (166–180)
+## Season 12 — The Road to Seattle (166–180)
 166 Judgment Is a Human Skill | Self-awareness | AIの答えを使う前に自分の判断を1行書く
 167 Deciding Under Uncertainty | Self-management | 決める前に「何が分かれば決められるか」を書く
 168 Ethics in Everyday Work | Self-awareness | 迷った場面で「誰に見られても平気か」を考える
-169 Building Your Promotion Case | Relationship management | 成果と影響を5つの具体例でまとめる
-170 Asking for the Role | Self-management | マネージャーに「Program Managerを目指したい」とはっきり伝える
-171 Preparing for the Interview Loop | Self-management | 過去の経験をSTARで5つ準備する
-172 Courage | Self-management | 言いにくいことを1つ伝える
+169 Building Your Case for a US Role | Relationship management | 成果と影響を数字つきで5つまとめる
+170 Telling Your Sponsor What You Want | Self-management | マネージャーとスポンサーに「シアトルでProgram Managerを目指したい」と伝える
+171 Preparing for the Interview Loop | Self-management | STARの話を数字つきで1つ書いて声に出す
+172 Interview Day Nerves | Self-management | 面接や発表の前に自分を名前で呼んで励まし、最初の一文を声に出す
 173 Humility | Self-awareness | 自分が間違っていたことを1つ認める
 174 Curiosity | Social awareness | 意見の違う人に「どうしてそう思うの?」と聞く
 175 Waiting for the Answer | Self-management | 結果を待つ間の不安を名前にして、今できることを1つする
-176 The Decision | All four | うれしさも不安もそのまま言葉にして、支えてくれた人に伝える
-177 Handing Off Your Old Work | Relationship management | 引き継ぎ資料を作り、後任と一緒に確認する
-178 Your First 90 Days as a Program Manager | Self-management | 最初の90日でやることを3つ書く
-179 Looking Back with Daniel | All four | これまでで一番変わった習慣を1つ書く
-180 The Human Curriculum | All four | 自分だけの「次のカリキュラム」を3つ書く(番組の最終回)
+176 The Offer | All four | うれしさも不安も言葉にして、支えてくれた人に伝える
+177 Handing Off Tokyo | Relationship management | 引き継ぎ資料を作り、後任と一緒に確認する
+178 First Week in Seattle | Self-awareness | 新しい場所で驚いたことを3つ書く
+179 Your First 90 Days as a Program Manager | Self-management | 最初の90日でやること(関係づくり3つ・小さな成果1つ・学ぶこと1つ)を書く
+180 The Human Curriculum: Next, People Manager | All four | 次の目標(ピープルマネージャー)への最初の一歩を1つ決める(番組の最終回)

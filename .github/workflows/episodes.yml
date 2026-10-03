@@ -46,7 +46,7 @@ jobs:
         id: pick
         run: |
           if [ "${{ github.event_name }}" = "schedule" ]; then
-            echo "list=$(python src/pick.py next 2)" >> "$GITHUB_OUTPUT"
+            echo "list=$(python src/pick.py next 1)" >> "$GITHUB_OUTPUT"
             echo "upload=true" >> "$GITHUB_OUTPUT"
           else
             echo "list=$(python src/pick.py '${{ inputs.episode }}')" >> "$GITHUB_OUTPUT"

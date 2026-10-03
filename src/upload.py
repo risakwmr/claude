@@ -1,11 +1,17 @@
-"""Upload a finished episode to YouTube (private) and set its thumbnail.
+"""Upload a finished episode to YouTube and set its thumbnail.
 
 Needs the GitHub secrets CLIENT_ID, CLIENT_SECRET, REFRESH_TOKEN as environment variables.
+
+VISIBILITY decides how the video goes up:
+  private  (default) only you can see it
+  public   public right away
+  schedule private now, goes public by itself at the next 00:00 or 12:00 Japan time
 """
 import json
 import os
 import sys
 import time
+from datetime import datetime, timedelta, timezone
 
 from google.oauth2.credentials import Credentials
 from google.auth.transport.requests import Request
@@ -47,6 +53,24 @@ def description(meta, ep):
     return "\n".join(lines)[:4900]
 
 
+JST = timezone(timedelta(hours=9))
+SLOTS_JST = (0, 12)  # publish times, hour of day in Japan time
+
+
+def next_slot(now=None):
+    """Next 00:00 / 12:00 JST at least 15 minutes from now, or None if the run is late."""
+    now = now or datetime.now(timezone.utc)
+    earliest = (now + timedelta(minutes=15)).astimezone(JST)
+    for day in range(2):
+        for hour in SLOTS_JST:
+            slot = (earliest + timedelta(days=day)).replace(hour=hour, minute=0, second=0, microsecond=0)
+            if slot >= earliest:
+                # Scheduled runs start about 3 hours before a slot. A gap of more than
+                # 6 hours means this run missed its slot, so publish right away instead.
+                return slot if slot - now <= timedelta(hours=6) else None
+    return None
+
+
 def _send(yt, body, video):
     media = MediaFileUpload(video, mimetype="video/mp4", chunksize=8 * 1024 * 1024, resumable=True)
     req = yt.videos().insert(part="snippet,status", body=body, media_body=media)
@@ -65,7 +89,8 @@ def _send(yt, body, video):
     return resp
 
 
-def upload(num, video, thumbnail, privacy="private"):
+def upload(num, video, thumbnail, visibility=None):
+    visibility = visibility or os.environ.get("VISIBILITY") or "private"
     meta = json.load(open(os.path.join(ROOT, "episodes", "episodes.json"), encoding="utf-8"))
     ep = next(e for e in meta["episodes"] if e["number"] == num)
     title = f"EP {num:02d} | {ep['title']} | {meta['show']}"
@@ -82,16 +107,29 @@ def upload(num, video, thumbnail, privacy="private"):
             "defaultAudioLanguage": "en",
         },
         "status": {
-            "privacyStatus": privacy,
+            "privacyStatus": "public" if visibility == "public" else "private",
             "selfDeclaredMadeForKids": False,
             "containsSyntheticMedia": True,
         },
     }
+    if visibility == "schedule":
+        slot = next_slot()
+        if slot:
+            body["status"]["publishAt"] = slot.astimezone(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+            print(f"  goes public at {slot:%Y-%m-%d %H:%M} JST", flush=True)
+        else:
+            body["status"]["privacyStatus"] = "public"
+            print("  run is late for its slot, publishing now", flush=True)
     try:
         resp = _send(yt, body, video)
     except HttpError as e:
         if e.resp.status == 400 and "containsSyntheticMedia" in str(e):
             body["status"].pop("containsSyntheticMedia")
+            resp = _send(yt, body, video)
+        elif e.resp.status == 400 and "invalidPublishAt" in str(e):
+            body["status"].pop("publishAt")
+            body["status"]["privacyStatus"] = "public"
+            print("  schedule time rejected, publishing now", flush=True)
             resp = _send(yt, body, video)
         else:
             raise

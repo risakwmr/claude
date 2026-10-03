@@ -1,0 +1,84 @@
+DANIEL: Welcome back to Human Curriculum. I'm Daniel Reed, a People Manager in Seattle.
+SENA: And I'm Sena Sato, an Associate in Tokyo. Last time, we talked about influence without authority. How to get help from a team you don't manage.
+DANIEL: And today, we're turning inward again. Speaking up when you disagree. But first, the practice. Before asking another team for something, you were going to ask what they need first. So, did you message Hannah?
+SENA: I did. I asked for fifteen minutes, and she said yes the same day. And I didn't start with my ticket. I asked, "What is your team working toward this quarter?"
+DANIEL: And?
+SENA: It turns out they're moving every table to a new system. Two people are on leave, and every team in the company is sending them requests. She said my ticket wasn't ignored. It was just one of forty.
+DANIEL: One of forty. That changes the story, doesn't it?
+SENA: Completely. I stopped feeling insulted. And then I told her about the three missing values I found last month. She was surprised. She said, "Nobody tells us that. Can you send me a list every time you find one?"
+DANIEL: There it is. Your currency.
+SENA: And at the end, she said the new field could go into their next sprint. Two weeks. No escalation, no reminders.
+DANIEL: That's wonderful, Sena. What did you learn about their world?
+SENA: Three things. They're short on people. They get blamed when data is wrong, but they rarely hear about it early. And a fifteen-minute call was faster than three weeks of tickets.
+DANIEL: Great notes. So, what's happening this week?
+SENA: This week, I did something I'm not proud of. Or, I didn't do something.
+DANIEL: Tell me.
+SENA: On Tuesday, we had a team meeting about the new dashboard. Kato-san proposed launching it to all regions at the same time, next month. Everyone nodded. And I had a concern.
+DANIEL: What was the concern?
+SENA: The data. Remember the missing values I found? Some regions have gaps. If we launch everywhere at once, a few regions might see wrong numbers on day one. I thought we should start with one region, check the data, and then expand.
+DANIEL: That sounds like a real concern.
+SENA: It was. But I didn't say it. I had the sentence in my head. My heart was beating fast. And then Kato-san said, "Okay, sounds like we all agree," and the meeting moved on.
+DANIEL: How did you feel after?
+SENA: Bad. And a little angry at myself. Later, Ryo told me he had the same worry. He didn't say anything either.
+DANIEL: Two people with the same concern, and the room heard silence. Let me share some research, because this is very, very common.
+SENA: My notebook is open.
+DANIEL: The first study is by Frances Milliken, Elizabeth Morrison, and Patricia Hewlin, published in 2003 in the Journal of Management Studies. They interviewed forty full-time employees from different industries. And eighty-five percent of them said that at least once, they had felt unable to raise an issue with their boss, even though they thought it was important.
+SENA: Eighty-five percent. So almost everyone.
+DANIEL: Almost everyone. It was a small interview study, so the exact number isn't a rule. But the pattern is strong. And the most common reason people gave for staying quiet wasn't that the issue didn't matter. It was the fear of being seen negatively. Being labeled as a complainer, or not a team player, and damaging relationships they cared about.
+SENA: That's exactly it. I didn't want to be the person who slows everything down. Especially when everyone was nodding.
+DANIEL: And here's the tricky part. When everyone nods, it feels like proof that you're wrong. But maybe everyone is nodding for the same reason you are.
+SENA: Like Ryo.
+DANIEL: Like Ryo. Now, the second study is about why your disagreement might be valuable, even if you turn out to be wrong. Charlan Nemeth and her colleagues at UC Berkeley published it in 2001 in the European Journal of Social Psychology. The title is "Devil's advocate versus authentic dissent."
+SENA: Devil's advocate. That's when someone argues the other side on purpose.
+DANIEL: Right. Some teams assign one person to do it, to avoid groupthink. The researchers compared groups where someone played devil's advocate, and groups where someone really disagreed. Authentic dissent. And the groups with real dissent came up with more and better solutions than any of the devil's advocate versions.
+SENA: So a real opinion works better than a role.
+DANIEL: That was their conclusion. When someone really believes something different, the group thinks harder. Nemeth's broader argument is that dissent is useful even when the person disagreeing is wrong, because it makes everyone look at more information. It's a lab study, so the setting is simpler than a real company. But I find the idea powerful.
+SENA: So my concern wasn't only about being right. Saying it would help the team think.
+DANIEL: Exactly. Silence doesn't just hide your idea. It removes a reason for everyone else to think again.
+SENA: Okay. Our usual question. Why can't AI do this for me? Honestly, I could ask AI to find every risk in the launch plan. It's good at that.
+DANIEL: It is. And you should use it to check your thinking. But look at the Nemeth study again. The devil's advocate was a role. Someone asked to disagree. In a way, an AI asked to list risks is playing that role too. Nobody in the room has to take it seriously, because nobody believes it. I don't know of research that tests this with AI. That's just my guess. But real dissent comes from a person who has something at stake.
+SENA: Like my reputation.
+DANIEL: Your reputation, your relationship with Kato-san, and your knowledge of those missing values. The AI didn't find those gaps. You did, by doing the work every month. And the hard part isn't finding the risk. It's the fifteen seconds when your heart is beating fast, and you decide to open your mouth anyway. No tool can do those fifteen seconds for you.
+SENA: So AI can help me prepare what to say. But I have to say it.
+DANIEL: Exactly. Now, my failure story. A few years ago, I was in a launch review for a new internal tool. The plan was to replace an old system for everyone on the same weekend. I thought it was risky. I even wrote a note about it on my laptop.
+SENA: But you didn't say it.
+DANIEL: The director was very excited, and the room was full of senior people. I told myself, "They must have thought about this." The launch went badly. Three teams couldn't work for two days.
+SENA: Oh no.
+DANIEL: And later, one of the engineers, a woman named Priya, told me something I still remember. She said, "I had the same worry. But when you didn't say anything, I assumed it was fine. You knew the system better than me."
+SENA: So your silence made her silent too.
+DANIEL: That's what hurt. I thought staying quiet was neutral. It wasn't. It was a signal.
+SENA: That's what happened with Ryo and me. We were both waiting for the other one.
+DANIEL: Silence spreads. And so does voice, by the way. Once one person says, "I see it a little differently," it often becomes easier for the next person.
+SENA: This is a big topic in Japan. We have a phrase, "kuuki wo yomu." It means "read the air."
+DANIEL: Read the air. I like that.
+SENA: It means you understand the mood of the room without anyone saying it. It's seen as a good skill. And there's another saying, "deru kugi wa utareru." The nail that sticks out gets hammered down.
+DANIEL: That's a strong image.
+SENA: So in a meeting, if everyone seems to agree, reading the air usually tells you to stay quiet. And often, the real discussion happens later, one by one. Like the nemawashi we talked about last time.
+DANIEL: That's interesting, because many US tech companies say the opposite out loud. Some even have it in their leadership principles. Something like, "Have backbone. Disagree, and then commit." Disagree openly before the decision. Then, once it's decided, support it fully.
+SENA: Do people really do that?
+DANIEL: Not as much as the posters say. Remember, eighty-five percent of the people in that interview study had stayed quiet at least once. The fear of being labeled isn't only a Japanese thing. But I think "read the air" is actually useful here. It's a skill. You can read the air, and then choose to change it a little.
+SENA: Read the air, then change it a little. I like that.
+DANIEL: So which EQ skill is this?
+SENA: Let me guess. Self-management?
+DANIEL: Self-management. The disagreement starts in your head. That's your thinking. But what stopped you was the feeling. Fast heartbeat, the fear of being labeled. Self-management means you notice that feeling, you don't let it decide for you, and you choose how to speak.
+SENA: Like the thirty-second window from episode two.
+DANIEL: Exactly like that. Notice, name it, then choose. "I'm nervous, and that's normal. I'll say it in one sentence."
+SENA: But how do I say it without sounding like I'm attacking Kato-san's idea in front of everyone?
+DANIEL: Good question. A few simple things. Start with what you agree with. Then disagree with the plan, not the person. And say your concern as information, not a verdict. For example?
+SENA: Maybe, "I like the dashboard, and I think it will help a lot. I see one risk with the timing. Some regions have missing data. Could we start with one region first?"
+DANIEL: That's excellent. It's specific, it's short, and it ends with a question. Kato-san can say no, and you've still done your part.
+SENA: And if I can't say it in the meeting?
+DANIEL: Then the next best thing is to say it soon after, to the person who decides. Within a day, not a week. Speaking up late is better than never. But it's best when the group can still think together.
+SENA: Okay. So what should I do now? The decision is already made.
+DANIEL: What do you think?
+SENA: I think I talk to Kato-san tomorrow. I'll bring the list of missing values, so it's not just my feeling. And I'll ask Ryo if I can mention that he had the same worry.
+DANIEL: Good. Ask him first, yes. And remember the second half of "disagree and commit." If Kato-san listens and still decides to launch everywhere, then you help make it work.
+SENA: That's fair. So, this week's practice?
+DANIEL: This week, when you disagree with something in a meeting, say it once, in one sentence. Start with what you agree with, then say your concern as information, and end with a question. Something like, "I see it a little differently. Here's one concern. What do you think?" If you can't say it in the room, tell the person who decides within twenty-four hours. Afterward, write down what you were afraid would happen, and what actually happened.
+SENA: Agree, concern, question. And write down the fear and the result.
+DANIEL: I think you'll find the second one is usually smaller than the first.
+SENA: I hope so. I'm already a little nervous about tomorrow.
+DANIEL: That's normal. Nervous and brave can happen at the same time. Next time, we stay with self-management. Episode twelve, "When You Make a Mistake." What to do in the first hour after you realize something went wrong.
+SENA: I have a feeling I'll have a story for that one too.
+DANIEL: Everyone does. Thanks for listening to Human Curriculum. I'm Daniel.
+SENA: And I'm Sena. Read the air, then change it a little. See you next time.

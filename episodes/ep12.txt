@@ -1,0 +1,90 @@
+DANIEL: Welcome back to Human Curriculum. I'm Daniel Reed, a People Manager in Seattle.
+SENA: And I'm Sena Sato, an Associate in Tokyo. Last time, we talked about speaking up when you disagree. Agree, concern, question.
+DANIEL: And today, we're talking about something that happens to everyone, at every level. Making a mistake at work. But first, the practice. You were going to talk to Kato-san about the dashboard launch.
+SENA: I did, the next morning. I started with, "I like the dashboard, and I think it will help a lot." Then I showed her the list of missing values, region by region. And I asked, "Could we start with one region first?"
+DANIEL: How did she react?
+SENA: She was quiet for a moment. I thought, okay, here it comes. And then she said, "Why didn't you say this in the meeting?"
+DANIEL: Ah. That's a fair question.
+SENA: It was. I told her the truth. Everyone was nodding, and I was nervous. And she laughed a little. She said, "I was nodding because everyone else was nodding."
+DANIEL: Of course she was.
+SENA: In the end, we're launching in two regions first, the two with clean data. The others come a month later. And I mentioned that Ryo had the same worry. He said I could. Kato-san asked both of us to check the data before each launch.
+DANIEL: So what did you write down? The fear, and what actually happened?
+SENA: The fear was, "She will think I'm slowing the team down." What happened was, she gave me more responsibility.
+DANIEL: The second one was smaller than the first. Well, in this case, it was better. So, what's happening this week?
+SENA: This week, I made a mistake. A real one.
+DANIEL: Tell me.
+SENA: On Wednesday, I sent the monthly report to Mark and his team. On Thursday morning, I was checking something else, and I saw it. The total for one region was too big. Almost double.
+DANIEL: What happened?
+SENA: When I added the new region data, I joined two tables in the wrong way, so some customers were counted twice. It was my mistake. Nobody else touched it.
+DANIEL: And had anyone noticed?
+SENA: Not yet. And that was the worst part. For about an hour, I just sat there. My face was hot. My first thought was, maybe I can fix it quietly and send a new version, and nobody will notice.
+DANIEL: That's a very human first thought.
+SENA: My second thought was worse. "I'm so careless. I always do this. Kato-san just gave me more responsibility, and I'm already failing."
+DANIEL: So, two voices. One that wants to hide it, and one that attacks you.
+SENA: Yes. And they were both loud.
+DANIEL: Let's talk about both of them. Let me share some research first.
+SENA: My notebook is open.
+DANIEL: The first study is by Amy Edmondson, at Harvard Business School. She's the researcher who later made the term "psychological safety" famous. This was one of her early studies, published in 1996 in the Journal of Applied Behavioral Science.
+SENA: What did she study?
+DANIEL: Medication errors in hospitals. She studied patient care teams in two hospitals. And she expected something simple. Teams with better leadership and better relationships would make fewer mistakes.
+SENA: That makes sense.
+DANIEL: But the data showed the opposite. The better teams had higher numbers of reported errors.
+SENA: Wait. The good teams made more mistakes?
+DANIEL: That was the puzzle. And her explanation was this. Maybe the good teams didn't make more mistakes. Maybe they reported more of them. In those teams, people felt safe enough to say, "I made an error." In other teams, people were afraid, so mistakes stayed hidden.
+SENA: So the number of mistakes you can see depends on how safe it is to talk about them.
+DANIEL: Exactly. It was a small study of a few teams, so we can't say it proves anything about every workplace. But it changed how many people think about mistakes. A team that never reports errors isn't always a team with no errors.
+SENA: That's a little scary. And a little comforting.
+DANIEL: Both. Now, the second study is about the other voice. The one that attacks you. It's by Juliana Breines and Serena Chen, published in 2012 in Personality and Social Psychology Bulletin. The title is "Self-compassion increases self-improvement motivation."
+SENA: Self-compassion. Like being kind to yourself?
+DANIEL: Right. Treating yourself the way you would treat a good friend who made a mistake. They ran four experiments. In one, students took a difficult vocabulary test and did poorly. Then some were guided to think about their failure with self-compassion. Others were guided to boost their self-esteem, like, "You must be smart if you got into this university." And then everyone got a chance to study for a second test.
+SENA: And who studied more?
+DANIEL: The self-compassion group spent more time studying. In another experiment, people remembered something they had done wrong, and the self-compassion group felt more motivated to make amends and not repeat it.
+SENA: So being kind to yourself didn't make people lazy.
+DANIEL: In these studies, it did the opposite. These were mostly university students in lab settings, not real offices, so let's be careful. But many people believe that if they're not hard on themselves, they won't improve. This research suggests that the harsh voice might actually get in the way.
+SENA: Because if every mistake means "I'm a bad person," then looking at the mistake hurts too much.
+DANIEL: Exactly. And then hiding it starts to look attractive.
+SENA: So the two voices are connected. The attacking voice makes the hiding voice stronger.
+DANIEL: That's a beautiful way to put it.
+SENA: Okay. Our usual question. Why can't AI do this for me? Honestly, AI found the bug in about ten seconds once I asked. And it could write a very nice apology email.
+DANIEL: It could. And using it to check your work is smart. But think about what actually matters here. The fix took ten seconds. The hard part was the hour before, when you decided whether to tell anyone. That's a choice about honesty, and about trust. An AI can draft "I made a mistake." But only you can decide to send it before anyone notices.
+SENA: And people need to hear it from me.
+DANIEL: Yes. Trust doesn't come from never making mistakes. It comes from people knowing that if something goes wrong, you'll tell them. That's something you build as a person, over time.
+SENA: Okay. Can I guess? You have a story.
+DANIEL: I have a story. In my second year as an engineer, before I was a manager, I changed a setting on a server on a Friday afternoon. Late Friday night, part of our service slowed down. Nobody knew why.
+SENA: Oh no.
+DANIEL: I saw the alerts on my phone, and I had a terrible feeling it was my change. But I wasn't sure. So I told myself, "I'll check on Monday."
+SENA: Daniel.
+DANIEL: I know. On Saturday morning, two people from another team spent four hours looking for the problem. They finally found my change. On Monday, my manager, a man named Greg, called me into a room.
+SENA: Was he angry?
+DANIEL: Not about the mistake. He said, "Everyone breaks something. That's normal. What I need is to know about it in ten minutes, not ten hours." Two people lost their Saturday morning. Not because of my mistake. Because of my silence.
+SENA: That's the same lesson as the hospital study.
+DANIEL: The same lesson. And I remember the feeling that stopped me. It wasn't laziness. It was shame. I didn't want to be the person who broke it.
+SENA: This is interesting to compare with Japan. In Japan, apologies are very important. There are many levels of apology. "Sumimasen," "moushiwake arimasen," "moushiwake gozaimasen deshita." For a big mistake at work, the apology can be very long, and very serious.
+DANIEL: In the US, you sometimes hear the opposite advice. "Own it, fix it, move on." Short apology, then the plan.
+SENA: Sometimes when I apologize in English, my American colleagues look uncomfortable. Like I'm apologizing too much.
+DANIEL: That happens. A very long apology can make the other person feel they have to comfort you. Then the conversation becomes about your feelings, not the fix.
+SENA: But Japan also has a word I like. "Hansei." It's reflection. After a mistake, or even after a success, you think carefully about what to do better next time.
+DANIEL: I love that. So maybe the best version takes something from both. A clear, sincere apology. A practical fix. And then real reflection, without beating yourself up.
+SENA: Hansei, but with self-compassion.
+DANIEL: That would be a great title for an episode. So, which EQ skill is this?
+SENA: Self-management, again.
+DANIEL: Self-management again. Two feelings show up after a mistake. Shame, which says "hide it." And fear, which says "you're a failure." Self-management doesn't mean you don't feel them. It means you notice them, and you don't let them choose what you do in the first hour.
+SENA: So what do I do in that first hour?
+DANIEL: Here's a simple order. First, tell the people affected, quickly. Then, in three parts. What happened. What the impact is. And what you're doing about it. Short and clear.
+SENA: Low-context, like episode seven.
+DANIEL: Exactly. Conclusion first. And then, separately, talk to yourself the way you would talk to Ryo if he made the same mistake.
+SENA: Okay. So what should I do now? I still haven't told Mark.
+DANIEL: What do you think?
+SENA: I think I write to Mark today. Not tomorrow. Something like, "I found an error in Wednesday's report. The total for one region was counted twice. Here is the corrected version. I've added a check so this can't happen again." And I'll tell Kato-san before I send it, so she isn't surprised.
+DANIEL: That's excellent. And what would you say to Ryo, if he were you?
+SENA: I'd say, "You found it yourself, and you fixed it in a day. That's what matters."
+DANIEL: Then say that to yourself too.
+SENA: That's harder than writing the email. So, this week's practice?
+DANIEL: This week, the next time you notice a mistake, even a small one, tell the person affected within the same day. Use three parts: what happened, the impact, and what you're doing about it. Then write one sentence to yourself, the sentence you would say to a good friend who made the same mistake.
+SENA: Tell them the same day. Three parts. And one kind sentence for me.
+DANIEL: And notice which voice shows up first. The one that wants to hide it, or the one that attacks you. Just notice it.
+SENA: Mine was both. But I think I can hear them more clearly now.
+DANIEL: That's the first step. Next time, we stay with self-management. Episode thirteen, "Saying No Without Burning Bridges." What to do when your plate is full and someone asks for one more thing.
+SENA: Oh, I need that one.
+DANIEL: I thought you might. Thanks for listening to Human Curriculum. I'm Daniel.
+SENA: And I'm Sena. Hansei, with self-compassion. See you next time.

@@ -6,12 +6,15 @@ Format of each line: `NN Title | EQ domain | this week's practice (Japanese note
 Each episode's teaser points to the next line in this file. Episode 15, 30, 45 … close a season: wrap up the season, then tease the next season's first episode (only episode 180 ends the show).
 
 ## Story arc (keep continuity)
-- Season 1–4: Sena is an Associate (IC) in Tokyo. Manager Kato-san, teammate Ryo, PM Mark and director Laura in Seattle.
-- Season 5 (ep 61–): Sena becomes a team lead in Tokyo with 3 direct reports (new characters; never reuse earlier side characters' names for new people).
-- Season 7–8: Sena's team grows and she starts working closely with Seattle leadership.
-- Season 11 (ep 151–): Sena moves to Seattle as a People Manager. Daniel becomes a peer as well as a mentor.
-- Season 12: looking back, and the show's finale at episode 180.
-Daniel stays a senior People Manager in Seattle (team of 8). Daniel's failure stories must not repeat earlier ones.
+- The whole show follows Sena from Associate to Program Manager. She stays an Associate (IC) in Tokyo until the promotion decision in episode 176; she starts as a Program Manager only at the very end (177–180). She never gets direct reports in this show.
+- Her long-term dream (a people manager in the US within 5 years) stays in the background as a future goal.
+- Season 1–4: everyday IC work in Tokyo. Manager Kato-san, teammate Ryo, PM Mark and director Laura in Seattle.
+- Season 5–6 (61–90): as an Associate, Sena leads her first small cross-team project, without a title or authority.
+- Season 7–10 (91–150): bigger projects, change, stakeholders, helping newer colleagues (as a peer, not a manager), sustainable work.
+- Season 11 (151–165): she starts thinking like a Program Manager and makes a one-week business trip to Seattle (she still lives and works in Tokyo).
+- Season 12 (166–180): the road to the Program Manager role: promotion case, interviews, the decision, the transition, and the show's finale at episode 180.
+- New side characters get new names; never reuse earlier side characters' names for new people.
+Daniel stays a senior People Manager in Seattle (team of 8) and Sena's mentor. Daniel's failure stories must not repeat earlier ones.
 
 ## Season 1 — Foundations (1–15)
 1 Meet Sena and Daniel: What AI Can't Do for You | All four | (published)
@@ -81,55 +84,55 @@ Daniel stays a senior People Manager in Seattle (team of 8). Daniel's failure st
 59 Taking a Stretch Assignment | Self-management | 少し背伸びする仕事に1つ手を挙げる
 60 Your Five-Year Story | All four | 5年後の自分を1段落で書き、1人に話す(シーズン4のしめくくり)
 
-## Season 5 — Your First Team (61–75)
-61 Day One as a Lead | Self-awareness | チーム全員に「何を期待しているか」を聞く
-62 Managing Former Peers | Relationship management | 元同僚と役割の変化について率直に話す
-63 Setting Clear Expectations | Relationship management | 1人に「良い仕事とは何か」を具体的に伝える
-64 Your First One-on-Ones as a Manager | Relationship management | 部下の1on1で最初の10分を相手に任せる
-65 Delegation Without Dumping | Self-management | 背景と目的を添えて仕事を1つ任せる
-66 Coaching Questions | Social awareness | 答えを言う前に「What do you think?」と聞く
-67 Motivation Is Not One-Size | Social awareness | 部下1人に「何があるとやる気が出るか」を聞く
-68 Your Calendar as a Manager | Self-management | 1週間の予定を見直し、考える時間を1枠取る
-69 When Someone Is Struggling | Relationship management | 調子が悪そうな人に「How are you, really?」と聞く
-70 Giving Corrective Feedback | Relationship management | 改善点を1つSBIで伝える
-71 Recognition That Lands | Relationship management | 具体的な行動を1つ人前で認める
-72 Decisions as a Lead | Self-management | 決めたことと理由を1行で共有する
-73 Hiring Your First Teammate | Social awareness | 面接で行動を聞く質問を3つ用意する
-74 Onboarding Someone New | Relationship management | 新メンバーの最初の1週間の予定を一緒に作る
-75 What I Wish I Knew as a New Lead | All four | 最初の数か月の学びを3つ書き出す(シーズン5のしめくくり)
+## Season 5 — Leading a Project Without the Title (61–75)
+61 Your First Project to Lead | Self-awareness | 任されたプロジェクトで不安なことと楽しみなことを1つずつ書く
+62 Defining the Problem Before the Plan | Social awareness | 関係者3人に「このプロジェクトで何が変われば成功か」を聞く
+63 The Kickoff Meeting | Relationship management | キックオフで目的・範囲・決め方を最初の5分で伝える
+64 Scope: What's In and What's Out | Self-management | 「今回やらないこと」を3つ書いて共有する
+65 Roles and Who Decides | Relationship management | 誰が決めて誰に相談するかを1枚の表にする
+66 Estimating Honestly | Self-awareness | 見積もりに「自信の度合い」を添えて出す
+67 A Plan People Can Read | Social awareness | 計画を相手が1分で読める形にまとめ直す
+68 Status Updates Without Spin | Relationship management | 赤・黄・緑の状況を理由付きで正直に報告する
+69 Spotting Risk Early | Self-management | 心配なことを毎週1つリスクとして書き出す
+70 Dependencies on Other Teams | Relationship management | 依存先のチームと期限を一緒に確認する
+71 Scope Creep and the Kind No | Relationship management | 追加の依頼に「やるなら何を後ろにするか」を聞く
+72 When the Project Slips | Self-management | 遅れを分かった日のうちに代案と一緒に伝える
+73 Keeping the Team Motivated Without Authority | Social awareness | プロジェクトのメンバーに貢献を1つずつ伝える
+74 Launch Day | All four | リリースの日に関わった人全員に一言お礼を送る
+75 The Retrospective | All four | うまくいったこと・変えること・続けることを1つずつ書く(シーズン5のしめくくり)
 
-## Season 6 — Building a Healthy Team (76–90)
-76 Team Norms | Relationship management | チームで「大事にしたい約束」を1つ決める
-77 Conflict Between Teammates | Relationship management | 2人の話を別々に聞いてから同席で話す
-78 Making Decisions Together | Social awareness | 決め方(誰が・どう決めるか)を先に伝える
-79 Meetings Worth Having | Self-management | 定例会議を1つ短くするか、やめる
-80 Retrospectives That Change Things | Relationship management | 振り返りで「次に変えること」を1つだけ決める
-81 Inclusion in Everyday Moments | Social awareness | 会議で話していない人に意見を聞く
-82 Remote and Hybrid Teams | Social awareness | オンラインの人が不利にならない工夫を1つする
-83 Workload and Burnout | Social awareness | チームの負荷を一覧にして1つ減らす
-84 Celebrating Progress | Relationship management | 週の小さな進歩をチームで1つ祝う
-85 Trust Across Time Zones | Relationship management | 時差のある相手のために作業を1つ前倒しする
-86 When the Team Disagrees with You | Self-management | 反対意見に「Tell me more」と返す
-87 Underperformance, Early | Relationship management | 気になることを早めに1つ話題にする
-88 Team Identity | Social awareness | チームの目的を1文で書き、メンバーに確認する
-89 Handing Off and Covering | Relationship management | 休みの前に引き継ぎメモを作る
-90 A Team That Runs Without You | All four | 自分がいなくても回る仕組みを1つ作る(シーズン6のしめくくり)
+## Season 6 — Working Across Teams (76–90)
+76 Shared Goals, Different Priorities | Social awareness | 相手チームの今期の目標を調べて自分の依頼とつなげる
+77 Meetings That Decide Something | Self-management | 会議の招待に「この会議で決めること」を1行書く
+78 Writing It Down: Decision Logs | Relationship management | 決まったことと理由を1か所に記録する
+79 Translating Between Business and Engineering | Social awareness | 技術の話をビジネスの言葉で1文に言い換える
+80 Earning Trust with Engineers | Relationship management | エンジニアに「今いちばん困っていること」を聞く
+81 Escalating Well | Self-management | エスカレーションの前に相手と事実をそろえる
+82 Conflicting Requests | Relationship management | 2つの依頼がぶつかったら両方の依頼者を同じ場に呼ぶ
+83 Consensus vs. Consent | Social awareness | 「全員賛成」ではなく「反対はないか」で決めてみる
+84 Async Collaboration Across Time Zones | Self-management | 返事を待たなくても進める書き方で依頼を1つ送る
+85 When a Partner Team Misses a Date | Self-management | 責める前に何が起きたかを質問で確かめる
+86 Including Quiet Voices | Social awareness | 会議で話していない人に意見を聞く
+87 Credit and Ownership Across Teams | Relationship management | 他チームの貢献を報告の中で名前付きで伝える
+88 Repairing a Cross-Team Misunderstanding | Relationship management | こじれた相手に短く連絡して話す時間をもらう
+89 Remote and Hybrid Fairness | Social awareness | オンライン参加の人が不利にならない工夫を1つする
+90 The Connector | All four | 自分がつないだ人と人を3組書き出す(シーズン6のしめくくり)
 
-## Season 7 — Leading Through Change (91–105)
+## Season 7 — Change and Ambiguity (91–105)
 91 Why Change Feels Like Loss | Social awareness | 変化で失うものを相手の立場で1つ書く
-92 Announcing a Change | Relationship management | 変化の理由・変わること・変わらないことを伝える
-93 Ambiguity | Self-management | 分からないことを「分かっていること・いないこと」に分ける
-94 Delivering Bad News | Relationship management | 悪い知らせを最初の一文で伝える練習をする
-95 Reorganizations | Social awareness | 組織変更で不安そうな人に個別に声をかける
+92 Explaining a Change You Didn't Choose | Relationship management | 理由・変わること・変わらないことを3行で伝える
+93 Working in Ambiguity | Self-management | 分からないことを「分かっていること・いないこと」に分ける
+94 Delivering Bad News on a Project | Relationship management | 悪い知らせを最初の一文で伝える練習をする
+95 Reorganizations | Social awareness | 組織変更で不安そうな同僚に声をかける
 96 When Priorities Change Mid-Way | Self-management | 中断した仕事の区切りを1行で残す
-97 Saying No to Leadership | Relationship management | 優先順位を見せて上に相談する
-98 Keeping Morale in Hard Times | Relationship management | 大変な時期にチームの小さな成功を1つ伝える
+97 Pushing Back on Leadership | Relationship management | 優先順位を見せて上に相談する
+98 Keeping Spirits Up in Hard Times | Relationship management | 大変な時期にチームの小さな成功を1つ伝える
 99 Your Own Resistance to Change | Self-awareness | 自分が抵抗している変化を1つ認める
-100 Crisis Mode | Self-management | 緊急時の最初の3つの行動を決めておく
+100 Incidents and Crisis Mode | Self-management | 緊急時の最初の3つの行動を決めておく
 101 Communicating Uncertainty | Relationship management | 「まだ決まっていない」ことを正直に伝える
-102 Layoffs and Loss | Social awareness | 去る人と残る人の両方に声をかける
-103 Rebuilding After a Setback | Self-management | 振り返りを責めずに事実で行う
-104 Leading When You Disagree with the Decision | Self-management | 意見を伝えたあと、決まったことを支える言い方を考える
+102 When Colleagues Leave | Social awareness | 去る人と残る人の両方に声をかける
+103 Blameless Reviews | Self-management | 振り返りを責めずに事実で書く
+104 Disagree and Commit | Self-management | 意見を伝えたあと、決まったことを支える言い方を考える
 105 Steady in the Storm | All four | 変化の中で自分を保つ習慣を1つ決める(シーズン7のしめくくり)
 
 ## Season 8 — Influence and Stakeholders (106–120)
@@ -142,29 +145,29 @@ Daniel stays a senior People Manager in Seattle (team of 8). Daniel's failure st
 112 Building a Coalition | Relationship management | 同じ課題を持つ人を2人見つける
 113 Persuasion with Integrity | Self-awareness | 説得の前に自分に不利な事実も1つ書く
 114 Handling a Difficult Stakeholder | Self-management | 苦手な相手との会話の前に目的を1文で決める
-115 Cross-Functional Projects | Relationship management | 役割分担を1枚にまとめて共有する
+115 Running a Steering Meeting | Relationship management | 判断してほしいことを会議の最初に示す
 116 Asking for Resources | Relationship management | 必要なものと理由と効果を3行で頼む
 117 When You Lose the Argument | Self-management | 負けた議論から学びを1つ書く
-118 Repairing a Damaged Relationship | Relationship management | こじれた相手に一言連絡する
+118 Saying the Uncomfortable Thing to a Senior Person | Self-management | 上の立場の人に懸念を1つ事実で伝える
 119 Influence Through Listening | Social awareness | 説得したい相手の話を10分だけ聞く
 120 Your Influence Map | All four | 半年で信頼を築いた相手を振り返る(シーズン8のしめくくり)
 
-## Season 9 — Developing Others (121–135)
+## Season 9 — Growing Yourself, Helping Others Grow (121–135)
 121 Growth Mindset, Carefully | Self-awareness | 「まだできない」と言い換える場面を1つ見つける
 122 Deliberate Practice | Self-management | 苦手なスキルを15分だけ集中して練習する
-123 The Coaching Habit | Social awareness | 1on1で質問だけで10分進める
-124 Career Development for Your Team | Relationship management | 部下に「次に学びたいこと」を聞く
-125 Stretch Without Breaking | Social awareness | 部下に少し難しい仕事を支えと一緒に渡す
-126 Feedback Culture | Relationship management | チームでお互いに1つずつフィードバックし合う
-127 Mentoring Someone Junior | Relationship management | 後輩に自分の失敗談を1つ話す
-128 Sponsoring Talent | Relationship management | 部下の成果を上の人に1つ伝える
-129 Teaching What You Know | Self-management | 自分のノウハウを1ページにまとめる
-130 Letting People Struggle (a Little) | Self-management | すぐ助けず、相手が考える時間を待つ
-131 Performance Reviews That Help | Relationship management | 評価面談で「次の一歩」を一緒に決める
-132 Different People, Different Support | Social awareness | 部下ごとに合う支え方を1行ずつ書く
-133 When Someone Outgrows the Role | Relationship management | 部下の次の機会について率直に話す
-134 Learning from Your Team | Self-awareness | 部下から1つ教えてもらう
-135 Growing People Who Grow People | All four | 人を育てて一番うれしかったことを書く(シーズン9のしめくくり)
+123 Learning from Every Project | Self-awareness | 終わった仕事から次に使える教訓を1つ書く
+124 Asking for Coaching | Relationship management | 尊敬する人に1つのスキルについて助言を頼む
+125 Onboarding a New Teammate | Relationship management | 新しく来た人の最初の1週間を手伝う
+126 Mentoring an Intern | Social awareness | インターンに質問だけで考えを引き出す
+127 Sharing Your Mistakes to Help Others | Relationship management | 後輩に自分の失敗談を1つ話す
+128 Teaching What You Know | Self-management | 自分のノウハウを1ページにまとめる
+129 Giving Peer Feedback | Relationship management | 同僚に改善点を1つSBIで伝える
+130 Receiving Hard Feedback | Self-management | 耳の痛いフィードバックに「ありがとう、考えてみる」と返す
+131 Letting Others Struggle (a Little) | Self-management | すぐ答えず、相手が考える時間を待つ
+132 Different People Learn Differently | Social awareness | 相手に合う教え方を1つ選ぶ
+133 Building a Learning Plan | Self-management | 3か月の学習計画を1枚にする
+134 Celebrating Others' Growth | Relationship management | 同僚の成長を本人に具体的に伝える
+135 Who You're Becoming | All four | 1年前の自分と比べて変わったことを3つ書く(シーズン9のしめくくり)
 
 ## Season 10 — Sustainable Performance (136–150)
 136 Energy, Not Just Time | Self-awareness | 1日のエネルギーの波を記録する
@@ -179,40 +182,40 @@ Daniel stays a senior People Manager in Seattle (team of 8). Daniel's failure st
 145 Habits That Stick | Self-management | 既存の習慣に新しい小さな習慣を1つつなげる
 146 The Inner Critic | Self-awareness | 頭の中の厳しい声を1つ書き出して言い換える
 147 Joy at Work | Self-awareness | 仕事で楽しかった瞬間を1日1つ書く
-148 Modeling Balance as a Leader | Relationship management | 自分が休むことをチームに見せる
+148 Modeling Balance for Your Team | Relationship management | 自分が休むことを周りに見せる
 149 When to Get Professional Support | Self-awareness | 相談できる窓口を1つ調べておく
 150 A Sustainable Pace | All four | 3か月続けられる働き方を1枚にまとめる(シーズン10のしめくくり)
 
-## Season 11 — Leading Across Cultures (151–165)
-151 Moving to Seattle | Self-awareness | 新しい環境で驚いたことを3つ書く
-152 Culture Shock at Work | Self-management | 戸惑った場面を1つ、相手の文化から考え直す
-153 Building Trust in a New Team | Relationship management | 新しいチームの全員と1対1で話す
-154 Feedback Across Cultures | Social awareness | 相手の文化に合わせてフィードバックの伝え方を1つ変える
-155 Disagreement Across Cultures | Social awareness | 意見の違いを「文化の違いか、内容の違いか」で分ける
-156 Leading a Japan–US Team | Relationship management | 両方のメンバーに合う会議のルールを1つ作る
-157 Accent, Confidence, and Voice | Self-awareness | 自分の英語で話すことに誇りを持てる点を1つ書く
-158 Inclusion for Non-Native Speakers | Social awareness | 会議で話すスピードと確認の仕方を1つ変える
-159 Being the Bridge | Relationship management | 2つの文化の間で誤解を1つ解く
-160 Time Zones and Fairness | Social awareness | 会議の時間を交代制にする
-161 Your Identity as a Leader Abroad | Self-awareness | 日本で育った自分の強みを3つ書く
-162 Homesickness and Belonging | Self-management | 居場所を感じられる場所を1つ見つける
-163 Decision Styles Around the World | Social awareness | 相手のチームの決め方を質問して知る
-164 Representing Your Team Globally | Relationship management | 自分のチームの成果を他国のチームに伝える
-165 A Global Leader | All four | 文化を越えて学んだことを1人に話す(シーズン11のしめくくり)
+## Season 11 — Thinking Like a Program Manager (151–165)
+151 From Projects to Programs | Self-awareness | 自分の仕事を「プロジェクト」と「プログラム」の視点で書き分ける
+152 Systems Thinking | Social awareness | 1つの問題に関わるチームと流れを図にする
+153 A Roadmap People Believe | Relationship management | ロードマップに「なぜこの順番か」を1行ずつ添える
+154 Prioritizing When Everything Matters | Self-management | 優先順位の基準を3つ決めて共有する
+155 Metrics That Matter | Social awareness | 成功を測る指標を1つ選び、関係者と合意する
+156 Program-Level Risk | Self-management | 複数のプロジェクトにまたがるリスクを1つ見つける
+157 A Week in Seattle | Self-awareness | 出張先で驚いたことを3つ書く
+158 Trust Across Cultures, Face to Face | Relationship management | シアトルの相手と仕事以外の話を1つする
+159 Being the Bridge Between Tokyo and Seattle | Relationship management | 2つの拠点の間で誤解を1つ解く
+160 Trade-Offs Out Loud | Relationship management | 「これを選ぶと何をあきらめるか」を言葉にして伝える
+161 Writing a Program Charter | Self-management | 目的・範囲・成功の基準を1ページにまとめる
+162 Communicating Strategy | Social awareness | 戦略を同僚が自分の言葉で言い直せるか確かめる
+163 Running a Program Review | Relationship management | 定例レビューで判断が必要な点だけを先に出す
+164 Your Accent, Your Voice | Self-awareness | 自分の英語で話すことに誇りを持てる点を1つ書く
+165 Seeing the Whole Board | All four | 全体を見て判断できたことを1つ振り返る(シーズン11のしめくくり)
 
-## Season 12 — Judgment in the Age of AI (166–180)
+## Season 12 — The Road to Program Manager (166–180)
 166 Judgment Is a Human Skill | Self-awareness | AIの答えを使う前に自分の判断を1行書く
 167 Deciding Under Uncertainty | Self-management | 決める前に「何が分かれば決められるか」を書く
 168 Ethics in Everyday Work | Self-awareness | 迷った場面で「誰に見られても平気か」を考える
-169 Leading a Team That Uses AI | Relationship management | AIの使い方についてチームで1つルールを決める
-170 Accountability | Self-management | 自分の判断の責任を1つ言葉にして引き受ける
-171 Trust When Things Go Wrong | Relationship management | 失敗のあとで最初に誰に何を伝えるか決める
+169 Building Your Promotion Case | Relationship management | 成果と影響を5つの具体例でまとめる
+170 Asking for the Role | Self-management | マネージャーに「Program Managerを目指したい」とはっきり伝える
+171 Preparing for the Interview Loop | Self-management | 過去の経験をSTARで5つ準備する
 172 Courage | Self-management | 言いにくいことを1つ伝える
 173 Humility | Self-awareness | 自分が間違っていたことを1つ認める
 174 Curiosity | Social awareness | 意見の違う人に「どうしてそう思うの?」と聞く
-175 Fairness | Social awareness | 決定が誰にどう影響するかを書き出す
-176 Building Leaders Around You | Relationship management | 次のリーダー候補に機会を1つ渡す
-177 Your Leadership Philosophy | Self-awareness | 自分のリーダー像を3文で書く
-178 Looking Back with Daniel | All four | これまでで一番変わった習慣を1つ書く
-179 What Sena Teaches Next | Relationship management | 自分も誰かのメンターになる一歩を踏み出す
+175 Waiting for the Answer | Self-management | 結果を待つ間の不安を名前にして、今できることを1つする
+176 The Decision | All four | うれしさも不安もそのまま言葉にして、支えてくれた人に伝える
+177 Handing Off Your Old Work | Relationship management | 引き継ぎ資料を作り、後任と一緒に確認する
+178 Your First 90 Days as a Program Manager | Self-management | 最初の90日でやることを3つ書く
+179 Looking Back with Daniel | All four | これまでで一番変わった習慣を1つ書く
 180 The Human Curriculum | All four | 自分だけの「次のカリキュラム」を3つ書く(番組の最終回)

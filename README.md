@@ -29,7 +29,7 @@ Rendering a 15-minute episode takes about 10 minutes.
 ## Daily automatic posting
 
 Settings → Secrets and variables → Actions → **Variables** → New variable: `AUTO_UPLOAD` = `true`.
-Every day at 09:00 Japan time, the next two unpublished episodes are made and uploaded.
+Twice a day, at 00:00 and 12:00 Japan time, the next two unpublished episodes are made and uploaded (up to four a day). GitHub may start scheduled runs late.
 `published.json` keeps track of what has been uploaded.
 
 ## Add an episode

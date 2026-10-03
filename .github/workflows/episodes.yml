@@ -5,19 +5,21 @@ on:
     inputs:
       episode:
         description: "Episode number(s), e.g. 1 or 1,2. Use next for the next unpublished ones."
-        default: "1"
-      upload:
-        description: "Upload to YouTube?"
-        type: boolean
-        default: false
-      visibility:
-        description: "How to upload: private, public, or schedule (goes public at the next 00:00 / 12:00 JST)"
+        default: "next"
+      action:
+        description: "make = build only; upload = build and upload; reschedule = give uploaded private episodes publish times (in the order listed); thumbnail = replace thumbnails of uploaded episodes"
         type: choice
-        options: [private, public, schedule]
-        default: private
+        options: [make, upload, reschedule, thumbnail]
+        default: make
+      visibility:
+        description: "For upload: schedule (next free 00:00 / 12:00 JST slot), public, or private"
+        type: choice
+        options: [schedule, public, private]
+        default: schedule
   schedule:
-    # Twice a day at 21:00 and 09:00 Japan time (12:00 and 00:00 UTC), about 3 hours ahead.
-    # Each video is uploaded as scheduled and goes public by itself at the next 00:00 / 12:00 JST.
+    # Twice a day at 21:00 and 09:00 Japan time (12:00 and 00:00 UTC), about 3 hours before a slot.
+    # Episodes go public one at a time, in order, at 00:00 / 12:00 JST (see src/slot.py).
+    # A run uploads the next episode only when its slot is the coming one, otherwise it waits.
     # Runs only when the repository variable AUTO_UPLOAD is "true".
     - cron: "0 0,12 * * *"
 
@@ -28,6 +30,15 @@ concurrency:
   group: episodes
   cancel-in-progress: false
 
+defaults:
+  run:
+    shell: bash
+
+env:
+  CLIENT_ID: ${{ secrets.CLIENT_ID }}
+  CLIENT_SECRET: ${{ secrets.CLIENT_SECRET }}
+  REFRESH_TOKEN: ${{ secrets.REFRESH_TOKEN }}
+
 jobs:
   episodes:
     if: github.event_name == 'workflow_dispatch' || vars.AUTO_UPLOAD == 'true'
@@ -36,9 +47,8 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          # Scheduled runs always start on main; episode scripts live on the episodes branch.
-          ref: ${{ github.event_name == 'schedule' && 'episodes' || github.ref }}
-
+          # Episode scripts, code and published.json live on the episodes branch.
+          ref: episodes
 
       - uses: actions/setup-python@v5
         with:
@@ -51,17 +61,42 @@ jobs:
 
       - name: Choose episodes
         id: pick
+        env:
+          EVENT: ${{ github.event_name }}
+          EPISODE: ${{ inputs.episode }}
+          ACTION: ${{ inputs.action }}
+          VISIBILITY: ${{ inputs.visibility }}
         run: |
-          if [ "${{ github.event_name }}" = "schedule" ]; then
-            echo "list=$(python src/pick.py next 1)" >> "$GITHUB_OUTPUT"
-            echo "upload=true" >> "$GITHUB_OUTPUT"
+          if [ "$EVENT" = "schedule" ]; then
+            when=$(python src/slot.py)
+            echo "Publish slot: $when" | tee -a "$GITHUB_STEP_SUMMARY"
+            if [ "$when" = "wait" ]; then list=""; else list=$(python src/pick.py next 1); fi
+            action=upload
           else
-            echo "list=$(python src/pick.py '${{ inputs.episode }}')" >> "$GITHUB_OUTPUT"
-            echo "upload=${{ inputs.upload }}" >> "$GITHUB_OUTPUT"
+            list=$(python src/pick.py "$EPISODE")
+            action=$ACTION
+            case "$VISIBILITY" in
+              schedule) when=$(python src/slot.py --force) ;;
+              public) when=now ;;
+              *) when="" ;;
+            esac
           fi
+          echo "list=$list" >> "$GITHUB_OUTPUT"
+          echo "action=$action" >> "$GITHUB_OUTPUT"
+          echo "publish_at=$when" >> "$GITHUB_OUTPUT"
+
+      - name: Give uploaded episodes publish times
+        if: steps.pick.outputs.action == 'reschedule' && steps.pick.outputs.list != ''
+        run: python src/upload.py reschedule ${{ steps.pick.outputs.list }} | tee -a "$GITHUB_STEP_SUMMARY"
+
+      - name: Replace thumbnails
+        if: steps.pick.outputs.action == 'thumbnail' && steps.pick.outputs.list != ''
+        run: |
+          python src/make_thumbnail.py ${{ steps.pick.outputs.list }}
+          python src/upload.py thumb ${{ steps.pick.outputs.list }}
 
       - name: Make videos
-        if: steps.pick.outputs.list != ''
+        if: (steps.pick.outputs.action == 'make' || steps.pick.outputs.action == 'upload') && steps.pick.outputs.list != ''
         env:
           SENA_VOICE: ${{ vars.SENA_VOICE }}
           DANIEL_VOICE: ${{ vars.DANIEL_VOICE }}
@@ -71,7 +106,7 @@ jobs:
           done
 
       - name: Save videos for download
-        if: steps.pick.outputs.list != ''
+        if: (steps.pick.outputs.action == 'make' || steps.pick.outputs.action == 'upload') && steps.pick.outputs.list != ''
         uses: actions/upload-artifact@v4
         with:
           name: episodes-${{ github.run_number }}
@@ -82,18 +117,19 @@ jobs:
           retention-days: 30
 
       - name: Upload to YouTube
-        if: steps.pick.outputs.list != '' && steps.pick.outputs.upload == 'true'
+        if: steps.pick.outputs.action == 'upload' && steps.pick.outputs.list != ''
         env:
-          CLIENT_ID: ${{ secrets.CLIENT_ID }}
-          CLIENT_SECRET: ${{ secrets.CLIENT_SECRET }}
-          REFRESH_TOKEN: ${{ secrets.REFRESH_TOKEN }}
-          VISIBILITY: ${{ github.event_name == 'schedule' && 'schedule' || inputs.visibility }}
+          PUBLISH_AT: ${{ steps.pick.outputs.publish_at }}
         run: |
           for n in ${{ steps.pick.outputs.list }}; do
             vid=$(python src/upload.py "$n" | tail -n 1)
-            echo "EP $n -> https://youtu.be/$vid" | tee -a "$GITHUB_STEP_SUMMARY"
-            python src/mark_published.py "$n" "$vid"
+            echo "EP $n -> https://youtu.be/$vid (publish: ${PUBLISH_AT:-private})" | tee -a "$GITHUB_STEP_SUMMARY"
+            python src/mark_published.py "$n" "$vid" "$PUBLISH_AT"
           done
+
+      - name: Save published.json
+        if: (steps.pick.outputs.action == 'upload' || steps.pick.outputs.action == 'reschedule') && steps.pick.outputs.list != ''
+        run: |
           git config user.name "github-actions"
           git config user.email "github-actions@users.noreply.github.com"
           git add published.json

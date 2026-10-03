@@ -22,14 +22,15 @@ Put your illustrations in `assets/characters/`:
 GitHub (browser) → this repository → **Actions** → **Make and upload episodes** → **Run workflow**
 
 - `episode`: `1`, `1,2`, or `next`
-- `upload`: off = make the video only (download it from the run page under **Artifacts**); on = also upload to YouTube
+- `action`: `make` = make the video only (download it from the run page under **Artifacts**); `upload` = also upload to YouTube; `reschedule` = give already uploaded private episodes publish times, one per slot in the order listed (e.g. `1,2,3`); `thumbnail` = replace the thumbnails of uploaded episodes
+- `visibility` (for upload): `schedule` = next free 00:00 / 12:00 JST slot, `public` = right away, `private`
 
 Rendering a 15-minute episode takes about 10 minutes.
 
 ## Daily automatic posting
 
 Settings → Secrets and variables → Actions → **Variables** → New variable: `AUTO_UPLOAD` = `true`.
-Twice a day (starting at 21:00 and 09:00 Japan time) the next unpublished episode is made and uploaded as scheduled, so it goes public right at 00:00 or 12:00. If GitHub starts a run too late for its slot, that episode goes public as soon as it is uploaded.
+Twice a day (at 21:00 and 09:00 Japan time) a run checks the queue. Episodes go public one at a time, in order, at 00:00 and 12:00 JST; when the next free slot is the coming one, the next unpublished episode is made and uploaded with that publish time, otherwise the run waits. If GitHub starts a run too late for its slot, that episode goes public as soon as it is uploaded.
 `published.json` keeps track of what has been uploaded.
 
 ## Add an episode

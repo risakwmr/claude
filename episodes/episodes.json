@@ -273,6 +273,80 @@
       ],
       "thumb_cup": "Send three lines.",
       "thumb_pose": "sena_phone"
+    },
+    {
+      "number": 9,
+      "script": "ep09.txt",
+      "title": "Earning Trust with Peers",
+      "short_title": "Earning Trust with Peers",
+      "summary": "After Kato-san tells the team that Sena built the new pipeline, her teammate Ryo goes quiet, and Sena admits she never wrote the pipeline notes she casually promised him, which left him fixing it by hand until nine at night. Daniel shares Ayelet Gneezy and Nicholas Epley's research showing that keeping a promise matters but going beyond it adds little, along with Schweitzer, Hershey and Bradlow's study of how consistent actions rebuild trust while deception leaves lasting damage, and the Mayer, Davis and Schoorman model of ability, benevolence and integrity. He also tells the story of the vague 'let me look into it' that made a peer stop counting on him, and they compare relationship-based trust in Japan with the fast, delivery-tested trust common in US teams. The practice: make one small, specific promise to a peer and keep it on time.",
+      "practice": "Make one small, specific promise to a peer: what you will do and by when. Write it down where you will see it, and keep it on time. If you can't, tell them before the deadline, not after. Don't try to exceed it; just keep it.",
+      "sources": [
+        "Gneezy & Epley (2014), Worth Keeping but Not Exceeding: Asymmetric Consequences of Breaking Versus Exceeding Promises, Social Psychological and Personality Science",
+        "Schweitzer, Hershey & Bradlow (2006), Promises and Lies: Restoring Violated Trust, Organizational Behavior and Human Decision Processes",
+        "Mayer, Davis & Schoorman (1995), An Integrative Model of Organizational Trust, Academy of Management Review"
+      ],
+      "tags": [
+        "EQ",
+        "emotional intelligence",
+        "relationship management",
+        "trust",
+        "keeping promises",
+        "working with peers",
+        "Japan US work culture",
+        "career",
+        "leadership",
+        "people manager",
+        "audiobook",
+        "English learning"
+      ],
+      "thumb_sub": "Small Promises, Kept on Time",
+      "thumb_accent": "Kept",
+      "thumb_notes": [
+        "What + by when",
+        "Write it down",
+        "Tell them early",
+        "Keep, don't exceed"
+      ],
+      "thumb_cup": "Keep one promise.",
+      "thumb_pose": "sena_write"
+    },
+    {
+      "number": 10,
+      "script": "ep10.txt",
+      "title": "Influence Without Authority",
+      "short_title": "Influence Without Authority",
+      "summary": "Sena needs one small change from a data team in Seattle, but her ticket and polite reminders keep getting pushed to 'later,' and she is tempted to escalate. Daniel shares Francis Flynn and Vanessa Lake's research showing people underestimate how often others will say yes to a direct request, Gary Yukl and Bruce Tracey's field study on which influence tactics build real commitment with peers, and Allan Cohen and David Bradford's idea of 'currencies,' plus the story of the escalation that cost him a year of goodwill. They compare Japan's nemawashi and ringi with the faster US style of direct asks, and explore influence as social awareness: understanding another team's world. The practice: before asking another team for something, first ask them what they need.",
+      "practice": "Before you ask another team for something, have one short conversation and ask what they need first: \"What are you working toward this quarter, and is there anything that would make this easier for you?\" Listen without jumping to your request, then write down two or three things you learned about their world.",
+      "sources": [
+        "Flynn & Lake (2008), If You Need Help, Just Ask: Underestimating Compliance With Direct Requests for Help, Journal of Personality and Social Psychology",
+        "Yukl & Tracey (1992), Consequences of Influence Tactics Used With Subordinates, Peers, and the Boss, Journal of Applied Psychology",
+        "Cohen & Bradford (2005), Influence Without Authority (2nd ed.; 3rd ed. 2017), John Wiley & Sons"
+      ],
+      "tags": [
+        "EQ",
+        "emotional intelligence",
+        "social awareness",
+        "influence without authority",
+        "cross-team collaboration",
+        "nemawashi",
+        "Japan US work culture",
+        "career",
+        "leadership",
+        "people manager",
+        "audiobook",
+        "English learning"
+      ],
+      "thumb_sub": "Ask What They Need First",
+      "thumb_accent": "Need",
+      "thumb_notes": [
+        "Ask, then listen",
+        "Find their currency",
+        "Skip the pressure",
+        "Talk, not tickets"
+      ],
+      "thumb_cup": "Ask their needs first.",
+      "thumb_pose": "sena_talk"
     }
   ]
 }

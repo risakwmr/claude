@@ -1,0 +1,92 @@
+DANIEL: Welcome back to Human Curriculum. I'm Daniel Reed, a People Manager in Seattle.
+SENA: And I'm Sena Sato, an Associate in Tokyo. Last time, we talked about earning trust with peers. How trust grows in small, everyday moments, and why small promises matter.
+DANIEL: And today we're talking about something every career runs into sooner or later. Getting things done with people you don't manage. Influence without authority. But first, the practice. You were going to make one small, specific promise to a peer, write it down, and keep it on time.
+SENA: My promise was to Ryo. A short checklist for running the monthly report pipeline, step by step, by Wednesday at noon.
+DANIEL: And did you make it?
+SENA: I sent it on Tuesday evening. Eight steps, one page. I wrote the promise on a sticky note on my monitor, so I couldn't pretend I forgot. But there was one small wrinkle. Ryo got stuck at step four. He didn't have access to one folder. I set that up for myself months ago and forgot.
+DANIEL: The step you don't see is the one you already did.
+SENA: So I fixed the access and added a step zero. "Check that you can open this folder." And then, in the team meeting on Friday, Ryo said, "Sena's checklist saved me half a day." In front of Kato-san.
+DANIEL: Lovely. And notice, he made your work visible for you. So, what's happening this week?
+SENA: This week, I'm stuck. And it's not a person on my team. It's another team.
+DANIEL: Tell me.
+SENA: Mark, the product manager, asked for a new number in the monthly report. Customer activity by region. To do that, I need one new field added to a data table. But that table belongs to the data platform team in Seattle. Their lead is a woman named Hannah. I've never met her.
+DANIEL: So you need something from a team you have no authority over.
+SENA: Yes. Three weeks ago, I filed a ticket. Clear request, clear deadline, conclusion first. Nothing happened. After one week, I sent a reminder. Then another reminder. Last week, the ticket moved to their "later" column.
+DANIEL: Ouch. How did that feel?
+SENA: Honestly? A little insulting. It's maybe one hour of work for them. And my next thought was, maybe I should ask Kato-san to email Hannah's manager.
+DANIEL: Escalate.
+SENA: Escalate. But something felt wrong about it. So I wanted to talk to you first.
+DANIEL: I'm glad you did. Let me share some research first.
+SENA: My notebook is open.
+DANIEL: The first study is actually good news. It's by Francis Flynn and Vanessa Lake, published in 2008 in the Journal of Personality and Social Psychology. The title is a piece of advice. "If you need help, just ask." In one experiment, students had to ask strangers on campus to fill out a short questionnaire. Before they started, they guessed how many people they would need to ask before enough of them agreed. On average, they guessed about twenty. In reality, they needed about ten.
+SENA: So half.
+DANIEL: About half. It repeated in other situations. Borrowing a stranger's phone. Even real charity fundraisers. Across the studies, people underestimated how often others would say yes by about fifty percent.
+SENA: Why do we guess so wrong?
+DANIEL: The authors suggest that we think about the cost of saying yes. The time, the effort. But we forget how uncomfortable it is to say no to a real person who is asking you directly. Saying no face to face is hard. And here's the detail I love. When the request was a flyer instead of a person, the effect reversed. People overestimated. So the power isn't in the request. It's in the human contact.
+SENA: And a ticket is basically a flyer.
+DANIEL: That's exactly what I was thinking. A ticket in a queue is easy to move to "later." A person on a video call is much harder to move to "later." These were mostly student studies with strangers, not coworkers. So the numbers aren't a rule. But the direction is useful. People are more willing to help than we expect, when we actually talk to them.
+SENA: That's encouraging. What's the second study?
+DANIEL: The second one is about how you ask. Gary Yukl and Bruce Tracey published it in 1992 in the Journal of Applied Psychology. They studied one hundred twenty-eight managers in five large companies. And they asked over a thousand of their direct reports, peers, and bosses about how the manager tried to influence them, and how often it led to real commitment.
+SENA: Real commitment, meaning not only saying yes.
+DANIEL: Right. Real enthusiasm and extra effort. They looked at nine influence tactics. With peers, the three that were most connected to commitment were rational persuasion, inspirational appeals, and consultation.
+SENA: What's consultation, exactly?
+DANIEL: In their definition, it's when you invite the other person to help plan the thing you want their support for. Or you're willing to change your request to deal with their concerns. You treat them as a partner in the plan, not a service desk.
+SENA: And which tactics didn't work?
+DANIEL: Pressure and legitimating. Legitimating means saying, "This is policy," or "My boss wants this." And here's the part you'll like. The researchers' definition of pressure included demands, threats, and persistent reminders.
+SENA: Persistent reminders. Oh no. That's me.
+DANIEL: Two polite reminders aren't a crime. But from Hannah's side, they might feel like pressure from a stranger. One caution. This study is correlational. People reported what they remembered, so it doesn't prove that consultation causes commitment. But the pattern is useful.
+SENA: So my plan to escalate is basically legitimating. "My manager wants this."
+DANIEL: It might get you the field. It might also cost you Hannah. And you'll need her team again. And one more idea, from a classic business book. Allan Cohen and David Bradford wrote "Influence Without Authority," now in its third edition. They describe what people value as "currencies." Influence becomes possible when you understand what the other person values, and you can offer something they care about.
+SENA: Currencies. Like money?
+DANIEL: Not money. Things like help with a hard task, recognition, a sense of purpose, a better relationship, or simply being understood. And the point is that every team has a different currency. You can't offer the right one if you don't know what it is.
+SENA: And I don't know anything about Hannah's team. I only know what I want from them. Okay, our usual question. Why can't AI do this for me? An AI tool could write a beautiful request.
+DANIEL: It could write the words. But influence without authority isn't mainly a writing problem. Your ticket was already well written. The problem was that Hannah's team had no reason to care. To find that reason, someone has to sit with a real person, ask what they're dealing with, and listen. Maybe they're short two engineers. Maybe your field breaks something you can't see.
+SENA: And they might only tell that to a person they trust.
+DANIEL: People don't share their real problems with a form. And the second part is the relationship over time. If Hannah helps you, and you later help her, that becomes trust between two teams. AI can't be the one who remembers, shows up, and returns the favor. That has to be you.
+SENA: So AI can help me write the message. But the reason to say yes comes from the relationship.
+DANIEL: Beautifully put. Now, my failure story. In my first year as a manager, my team needed the security team to approve a new tool. Their review was slow. I sent a ticket, then reminders, then more reminders. Sound familiar?
+SENA: Painfully.
+DANIEL: After a month, I asked my director to talk to the security director. The approval came in two days.
+SENA: So it worked.
+DANIEL: That's what I thought. But the security lead, a man named Tom, became very formal with me after that. Every request from my team got the slowest, most careful review possible. Nothing unfair, just nothing extra. For almost a year.
+SENA: Oh. He felt you went over his head.
+DANIEL: He did. And much later, over lunch, he told me what had been happening that month. His team was in the middle of an external audit, three people were covering for five, and they were working weekends. My little tool was the last thing they had time for. And I never once asked. I only told him what I needed.
+SENA: If you had known, what would you have done?
+DANIEL: Probably waited two weeks. Or offered to fill out their review documents myself. Small things. Instead, I spent a year repairing one relationship. Now, before I ask another team for anything big, I have one conversation first. Not about my request. About their world.
+SENA: That's a hard story. Thank you for sharing it.
+DANIEL: I was efficient for one month and slow for a year.
+SENA: This connects to Japan in an interesting way. We have a word, "nemawashi."
+DANIEL: Tell me more.
+SENA: It comes from gardening. Before you move a big tree, you dig carefully around the roots. In a company, nemawashi means talking to each person, one by one, before the official meeting. You explain your idea, you listen to their concerns, and you adjust. So when the meeting comes, people already agree.
+DANIEL: That sounds a lot like consultation.
+SENA: It does. And we also have "ringi." A proposal document that goes around to each department, and each manager puts their stamp on it. It's slow, but when it's finished, everyone feels it's their decision too.
+DANIEL: In many US companies, the style is much faster. You file a ticket, send a direct message, or bring it up in a meeting. But the best influencers I know in Seattle do something very similar to nemawashi. They just call it "pre-wiring," or "socializing an idea." They talk to key people before the big meeting.
+SENA: So Americans do nemawashi too. They just don't have a word for it.
+DANIEL: The good ones do. And here's what I think is funny. You grew up with nemawashi. But when you worked with Seattle, you switched to a pure American style. A ticket and reminders.
+SENA: You're right. I thought the American way was just to ask directly. So I skipped the part I'm actually good at.
+DANIEL: Nobody wants ten meetings for a one-hour change. But one short conversation about their priorities fits in any culture.
+SENA: So which EQ skill is this?
+DANIEL: This is social awareness. The domain about understanding other people. Before, it was about one person, like how Mark reads your email. Today, it's one level wider. Some models of emotional intelligence call it organizational awareness. Understanding what another team is dealing with. Their pressures, their priorities, why their "later" column exists.
+SENA: So the question isn't "How do I make them do it?" It's "What does their world look like right now?"
+DANIEL: Exactly. And once you see their world, influence usually gets much easier. Sometimes you find an exchange. Sometimes you learn your request should wait, and that's useful too.
+SENA: Okay. So what should I do with Hannah?
+DANIEL: What do you think?
+SENA: Not a third reminder. And not Kato-san, at least not yet. Maybe I ask Hannah for fifteen minutes. And I don't start with my ticket. I start by asking about her team.
+DANIEL: What would you ask?
+SENA: Something like, "What is your team working toward this quarter? And is there anything that would make requests like mine easier for you?"
+DANIEL: That's excellent. And then?
+SENA: Then I listen. And take notes, of course.
+DANIEL: Of course. And one idea. Your pipeline uses their tables every month. You probably notice data problems before anyone else. That might be a currency. Something she values that you can actually offer.
+SENA: Last month, I found three missing values in one of their tables. I fixed them on my side and never told them.
+DANIEL: That might be exactly the thing she needs to hear.
+SENA: So, this week's practice?
+DANIEL: This week, before you ask another team for something, first ask them what they need. Have one short conversation, a call, a coffee, or a direct message. Ask something like, "What are you working toward this quarter, and is there anything that would make this easier for you?" Then listen, and don't jump to your request. Afterward, write down two or three things you learned about their world.
+SENA: Ask, listen, and note. Before I make my request.
+DANIEL: And notice the urge to rush back to your own request in the middle of their answer. Let it pass. Their answer is the most valuable part.
+SENA: I'll message Hannah tomorrow morning, Seattle time. And if she helps me, I'll make sure her team gets the credit in the report.
+DANIEL: Now that's a currency. I'd love to hear what she says.
+SENA: Me too. I'm a little nervous.
+DANIEL: Remember, people are more willing to help than we expect. Next time, we're moving to self-management. Episode eleven, "Speaking Up When You Disagree." What to do when you see something differently in a meeting, and your instinct is to stay quiet.
+SENA: That's me in almost every meeting.
+DANIEL: Then it's the right next episode. Thanks for listening to Human Curriculum. I'm Daniel.
+SENA: And I'm Sena. Ask what they need first. See you next time.

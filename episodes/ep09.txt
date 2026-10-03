@@ -1,0 +1,92 @@
+DANIEL: Welcome back to Human Curriculum. I'm Daniel Reed, a People Manager in Seattle.
+SENA: And I'm Sena Sato, an Associate in Tokyo. Last time, we talked about making your work visible. Why good work doesn't always speak for itself.
+DANIEL: And today we're talking about the people next to you. Your peers. How trust is built, and lost, in small everyday moments. But first, the practice. You were going to send Kato-san a three-line weekly update on Friday.
+SENA: I did. Line one, "Finished the monthly report. The new pipeline ran in about an hour, instead of two days by hand. Ryo helped test it." Line two, what's next. Line three, one small risk about a data source.
+DANIEL: You named Ryo. Nice. How did it feel?
+SENA: Hazukashii, like I expected. But I sent it.
+DANIEL: And how did Kato-san respond?
+SENA: Just one line. "Thank you. Very easy to read." I was a little disappointed, honestly. But then in our one-on-one on Tuesday, I asked him if he could help make the pipeline work visible to Laura.
+DANIEL: Conclusion first, but kind.
+SENA: Exactly. He said, "Of course. I should have done that already." He added two sentences about the pipeline to his monthly summary for Laura. Laura hasn't said anything yet. But Kato-san also mentioned it in our team meeting.
+DANIEL: That's a modest result, but a real one. The information is now in the right place.
+SENA: Yes. But the team meeting is where my problem this week started.
+DANIEL: Uh oh. Tell me.
+SENA: When Kato-san said, "Sena built the new pipeline," Ryo smiled and said, "Yes, Sena did all the hard work." But after the meeting, he was quieter with me. Not rude. Just a little distant.
+DANIEL: He might have felt embarrassed about the credit.
+SENA: I think so. And I have to be honest about my part. About three weeks ago, Ryo asked me how to run the pipeline himself, in case I'm on vacation. I said, "Sure, I'll write some notes for you." And then I forgot. Last week I was out sick for one day, the pipeline needed a rerun, and Ryo didn't know how. He stayed until nine at night fixing it by hand.
+DANIEL: Oh. That's a painful combination.
+SENA: When I came back, he said, "No worries." But I don't think it was no worries.
+DANIEL: Probably not. And here's what I notice. In your mind, "I'll write some notes" was a casual comment. In his mind, it was a promise.
+SENA: There was no date, so I didn't treat it like one.
+DANIEL: That's how most broken promises between peers happen. Not big betrayals. Small, vague commitments that quietly disappear. Let me share some research.
+SENA: My notebook is ready.
+DANIEL: The first one is by Ayelet Gneezy at UC San Diego and Nicholas Epley at the University of Chicago. It was published in 2014 in the journal Social Psychological and Personality Science. The title says it all. "Worth keeping but not exceeding: Asymmetric consequences of breaking versus exceeding promises."
+SENA: Worth keeping, but not exceeding. Hmm.
+DANIEL: They asked a simple question. We know breaking a promise makes people think less of us. But if we work extra hard to go beyond a promise, do people think more of us?
+SENA: I would guess yes.
+DANIEL: Most people would. In one experiment, people imagined buying concert tickets for row ten. Then they got worse seats, the exact seats, or better seats. Worse seats made people unhappy. But better seats didn't make people any happier than the exact seats they were promised.
+SENA: Really?
+DANIEL: Really. And they didn't only use imagined situations. In another experiment, people worked in pairs. One person had puzzles to solve and got paid for each one. The partner promised to help with ten. Then the partner actually solved five, ten, or fifteen.
+SENA: Five is breaking the promise. Fifteen is going above and beyond.
+DANIEL: Right. And the people who received fifteen didn't appreciate it any more than the people who received exactly ten. Only five made a real difference, in the negative direction. They found a similar pattern when people remembered real promises from their own lives.
+SENA: So when I want to rebuild trust with Ryo, I don't need to do something huge.
+DANIEL: You don't. I'd add a caution. These are short experiments, with small tasks and imagined situations, so they don't capture everything about a long work relationship. But I find the message freeing. Trust doesn't need heroic effort. It needs reliability.
+SENA: What's the second study?
+DANIEL: This one is about repairing trust after it's damaged. Maurice Schweitzer, John Hershey, and Eric Bradlow, at the Wharton School. Published in 2006 in Organizational Behavior and Human Decision Processes. The title is "Promises and lies: Restoring violated trust."
+SENA: How did they test that?
+DANIEL: The setup is a game. About two hundred sixty people played several rounds of a trust game with a partner. In each round, they could keep some money, or pass it to the partner, where it grew. The partner could then send some back, or keep it all. The partner was actually part of the experiment, so everyone saw the same behavior. In the first two rounds, the partner sent nothing back. Then, for the next rounds, the partner behaved fairly.
+SENA: So, a bad start and then good behavior.
+DANIEL: Exactly. After the bad start, some people got a promise to change, some got an apology. And in some cases, the partner had lied earlier, promising to send money back and then not doing it.
+SENA: What happened?
+DANIEL: Three things I find useful. First, when the partner had only behaved badly, without lying, trust recovered fairly well once the partner started behaving consistently. Second, a promise to change helped trust recover faster at first. But over time, consistent actions did most of the work. And third, when the partner had lied, trust never fully recovered, even with a promise, an apology, and several rounds of good behavior.
+SENA: So actions repair trust. And dishonesty is the thing that really breaks it.
+DANIEL: That's how I read it. It's a lab game with money, not an office, so I wouldn't take it too literally. But it matches what I've seen. People forgive mistakes. They have a much harder time forgiving being misled.
+SENA: Then with Ryo, the worst thing would be to pretend I didn't forget.
+DANIEL: Exactly. Saying "I forgot, and I'm sorry you stayed late" is honest. Saying "I was planning to send it this week" when you weren't, that's the kind of thing that leaves a lasting mark.
+SENA: Is there a way to think about what trust is made of?
+DANIEL: Yes. A classic paper by Roger Mayer, James Davis, and David Schoorman, in the Academy of Management Review in 1995. It's a theory paper, not an experiment, but it's been very influential. They describe trust as a willingness to be vulnerable to another person. And they say we judge whether someone is trustworthy on three things. Ability, can they do it. Benevolence, do they care about my interests. And integrity, do they keep to principles I find acceptable, like keeping their word.
+SENA: Ability, benevolence, integrity. Ryo trusts my ability. That's not the problem.
+DANIEL: Right. Your forgotten notes touched the other two. Did she care that I stayed late? Does she do what she says? Small promises speak directly to those questions.
+SENA: Okay, here's our usual question. Why can't AI do this for me? An AI assistant could track all my commitments and remind me. It probably would have reminded me about Ryo's notes.
+DANIEL: It might, and I'd use a tool like that. But Ryo isn't trusting a reminder system. He's trusting you. When you keep a promise, you're choosing him over the hundred other things in your day. That choice is what he feels.
+SENA: So the reminder is a tool, but the keeping is mine.
+DANIEL: Yes. And AI doesn't notice that Ryo got quieter after the meeting, or know that he might feel embarrassed about the credit. Noticing that, and deciding what to say and when, is human judgment.
+SENA: Okay. Your failure story.
+DANIEL: This one still makes me wince. A few years ago, a peer manager named Elena asked me to share one of my engineers part-time for her project. I said, "Let me look into it." A week later she asked again. I said, "Yes, I'm looking into it." This happened three times.
+SENA: In Japanese, we have a similar phrase. "Zensho shimasu." It sounds like yes, but often it means no.
+DANIEL: That's exactly what it was. I didn't want to say no, so I said something that sounded like yes. And after the third time, Elena stopped asking. I thought the problem had gone away.
+SENA: But it hadn't.
+DANIEL: No. Months later, I needed help from her team on a deadline. And she said, very politely, "I'll see what I can do." And nothing happened. Later, a friend told me Elena had said, "Daniel is nice, but don't count on him."
+SENA: Ouch. That's a hard sentence to hear.
+DANIEL: It was. With my own team, I was reliable. But with peers, I'd been making soft promises I didn't take seriously. To her, they were real.
+SENA: What did you do?
+DANIEL: I went to her and said, "I'm sorry. I kept saying I'd look into it, and the honest answer was no. I should have told you the first week." It was awkward, but she thanked me. And I made a rule for myself. I don't say "I'll look into it" without a date. Either "I'll tell you by Thursday," or an honest "No, I can't."
+SENA: An honest no is better than a vague yes.
+DANIEL: Much better. A clear no is something people can plan around. A vague yes slowly becomes a broken promise.
+SENA: This connects to culture, I think. In Japan, we take punctuality very seriously. Trains, meetings, deadlines. But with peers, a lot of trust is built over time. Years in the same team, drinking together after work, helping each other quietly. Once trust exists, it's very stable.
+DANIEL: In many US workplaces, it can feel different. People often start with a fairly open trust, because there's no time to wait years. Teams change quickly. So trust is tested early, by what you deliver. If you do what you said by when you said, people relax. If you don't, they notice fast.
+SENA: So in the US, small promises might matter even more at the beginning.
+DANIEL: I think so. And American English has its own trap. "Let's grab coffee sometime," or "I'll circle back." Often nobody means it as a promise.
+SENA: So both cultures have vague yeses.
+DANIEL: Exactly. And these are broad patterns, not rules about individuals. Ryo is one person, not a culture. The skill is the same everywhere. Make your commitments clear, and keep them.
+SENA: So which EQ skill is this?
+DANIEL: This is relationship management. That's the domain about how you build and maintain your relationships, and how you handle them when something goes wrong. Last week it was your manager. This week it's peers. And with peers, you don't have authority. You only have trust. Relationship management with peers is mostly about being someone people can count on.
+SENA: And a little self-awareness, too. Noticing when I'm about to make a vague promise just to be polite.
+DANIEL: Yes. That moment when you feel the urge to say "Sure, I'll do that" without thinking. Notice it. Then either make it specific, or don't make it.
+SENA: So what should I say to Ryo?
+DANIEL: Keep it short and honest. Something like, "I'm sorry about the pipeline notes. I said I would write them, and I didn't, and you stayed late because of it." And then, instead of a big promise, one small, specific one.
+SENA: Not, "I'll always help you from now on."
+DANIEL: Right. A small promise you actually keep is worth more than a big one you can't.
+SENA: Okay, this week's practice?
+DANIEL: This week, make one small, specific promise to a peer. What you'll do, and by when. Write it down where you'll see it. Then keep it, on time. And if something happens and you can't, tell them before the deadline, not after.
+SENA: What, by when, written down, kept on time. And if I can't, tell them before.
+DANIEL: That last part matters. "I'll be one day late" on Tuesday morning builds trust. Silence on Wednesday afternoon breaks it.
+SENA: Then I know my promise. A short step-by-step checklist for Ryo on how to run the pipeline. One page. I'll send it to him by Wednesday noon.
+DANIEL: That's specific. Where will you write it down?
+SENA: In my notebook, and in my calendar for Tuesday afternoon, so I have time to finish.
+DANIEL: Perfect. And maybe ask him to try it once and tell you what's unclear. That makes it something you build together.
+SENA: Then he becomes the pipeline expert too. That might help with the credit awkwardness.
+DANIEL: It might. Sharing knowledge is a generous way to share credit. Next time, we're moving to social awareness. Episode ten, "Influence Without Authority." How to get things done with other teams when you're not their boss.
+SENA: That's my daily life with Seattle. And first, you'll ask about Wednesday noon.
+DANIEL: I definitely will. Thanks for listening to Human Curriculum. I'm Daniel.
+SENA: And I'm Sena. Make one small promise this week, and keep it. See you next time.

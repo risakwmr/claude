@@ -1,23 +1,21 @@
-# Human Curriculum — Episode plan (365 episodes, one year)
+# Human Curriculum — Episode plan (730 episodes, one year)
 
 Whole-show theme: the human skills AI can't do for you, and growing EQ, with cross-functional (xFN) collaboration, work efficiency, behavioral economics, marketing, data, writing, and English speaking.
-Posting pace: 1 episode a day, 365 episodes = one year. The listener grows together with Sena, day by day.
+Posting pace: 2 episodes a day (00:00 and 12:00 JST), 730 episodes = one year. The listener grows together with Sena, day by day.
 Format of each line: `NN Title | EQ domain | today's challenge (Japanese note for the writer)`.
 From episode 12 on, each episode ends with a **one-day challenge**: something the listener can do at work TODAY (not "this week"). The next episode opens by asking how the challenge went.
 Every episode also has a short **Speaking Lab** before the challenge (see the routine prompt). Research ideas with verified sources are in `episodes/ideas.md`.
-Each episode's teaser points to the next line in this file. The last episode of each season (15, 30, 45 … 345) closes the season and teases the next season's first episode. Only episode 365 ends the show.
+Each episode's teaser points to the next line in this file. The last episode of each season closes the season and teases the next season's first episode. Only episode 730 ends the show.
 
 ## Story arc (keep continuity)
-- The 365 episodes are one year of Sena's life, about one episode per day: from Associate in Tokyo to Program Manager in Seattle. People manager is her next goal after that, teased in the finale.
-- She stays an Associate (IC) in Tokyo until she gets the offer for a Program Manager role on a Seattle team (episode 356). She says goodbye and hands off her Tokyo work (357–358), moves to Seattle (360) and starts as a Program Manager (360–365). She never has direct reports in this show.
+- The 730 episodes are one year of Sena's life (two sessions with Daniel a day in show time is fine; keep time passing naturally, about half a day per episode): from Associate in Tokyo to Program Manager in Seattle. People manager is her next goal after that, teased in the finale.
+- She stays an Associate (IC) in Tokyo until she gets the offer for a Program Manager role on a Seattle team (episode 721). She says goodbye and hands off her Tokyo work (722–723), moves to Seattle (725) and starts as a Program Manager (725–730). She never has direct reports in this show.
 - Season 1–4 (1–60): everyday IC work in Tokyo. Manager Kato-san, teammate Ryo, PM Mark and director Laura in Seattle. Season 3 focuses on speaking English at work (Sena's speaking is weaker than her listening; it slowly improves over the year).
 - Season 5–6 (61–90): as an Associate, Sena leads her first small cross-team project, without a title or authority, and works closely with engineering, product, data and design.
-- Season 7–8 (91–120): change, ambiguity, stakeholders and influence.
-- Season 9 (121–135): behavioral economics for work and marketing (Sena helps a marketing launch).
-- Season 10 (136–150): focus, efficiency and energy.
-- Season 11–22 (151–330): data, marketing, writing, presenting, negotiation, clear thinking, product thinking, execution, global teams, networking, AI, resilience. Sena takes on bigger cross-team work in Tokyo and builds relationships in Seattle.
-- Season 23 (331–345): thinking like a Program Manager; a one-week business trip to Seattle (she still lives and works in Tokyo).
-- Season 24 (346–365): the road to the Seattle Program Manager role: her case, sponsor, interviews, the offer, goodbye to Tokyo, the move, the first weeks, and the finale.
+- Season 7–10 (91–150): change and influence; behavioral economics for work and marketing (Sena helps a marketing launch); focus and efficiency.
+- Season 11–46 (151–695): data, marketing, writing, presenting, negotiation, thinking, product, execution, global teams, networking, AI, resilience, listening, coaching, customer research, growth, finance, strategy, executive communication, process, motivation, learning, ethics, creativity, facilitation, advanced speaking, remote work, US career strategy, program management, and preparing for people management. Sena takes on bigger cross-team work in Tokyo and builds relationships in Seattle.
+- Season 47 (696–710): thinking like a Program Manager; a one-week business trip to Seattle (she still lives and works in Tokyo).
+- Season 48 (711–730): the road to the Seattle Program Manager role: her case, sponsor, interviews, the offer, goodbye to Tokyo, the move, the first weeks, and the finale.
 - Time passes naturally (seasons change, holidays come). New side characters get new names; never reuse earlier side characters' names for new people.
 Daniel stays a senior People Manager in Seattle (team of 8) and Sena's mentor. Daniel's failure stories must not repeat earlier ones.
 
@@ -395,41 +393,454 @@ Daniel stays a senior People Manager in Seattle (team of 8) and Sena's mentor. D
 329 Asking for Help Early | Relationship management | 困っていることを1つ早めに相談する
 330 Sustainable Ambition | All four | 続けられる目標とペースを1枚にまとめる(シーズン22のしめくくり)
 
-## Season 23 — Thinking Like a Program Manager (331–345)
-331 From Projects to Programs | Self-awareness | 自分の仕事を「プロジェクト」と「プログラム」の視点で書き分ける
-332 Systems Thinking | Social awareness | 1つの問題に関わるチームと流れを図にする
-333 A Roadmap People Believe | Relationship management | ロードマップに「なぜこの順番か」を1行ずつ添える
-334 Prioritizing When Everything Matters | Self-management | 優先順位の基準を3つ決めて共有する
-335 Metrics That Matter | Social awareness | 成功を測る指標を1つ選び、関係者と合意する
-336 Program-Level Risk | Self-management | 複数のプロジェクトにまたがるリスクを1つ見つける
-337 A Week in Seattle | Self-awareness | 出張先で会った人に「このチームで成功するには?」と聞く
-338 Trust Across Cultures, Face to Face | Relationship management | シアトルの相手と仕事以外の話を1つする
-339 Change Management for Programs | Relationship management | 変化を受け入れてもらうために関係者ごとの伝え方を書く
-340 Trade-Offs Out Loud | Relationship management | 「これを選ぶと何をあきらめるか」を言葉にして伝える
-341 Writing a Program Charter | Self-management | 目的・範囲・成功の基準を1ページにまとめる
-342 Communicating Strategy | Social awareness | 戦略を同僚が自分の言葉で言い直せるか確かめる
-343 Running a Program Review | Relationship management | 定例レビューで判断が必要な点だけを先に出す
-344 A Program Communication Plan | Self-management | 誰に何をいつ伝えるかを1枚の表にする
-345 Seeing the Whole Board | All four | 全体を見て判断できたことを1つ振り返る(シーズン23のしめくくり)
+## Season 23 — Deep Listening and Empathy (331–345)
+331 Listening to Understand, Not to Reply | Social awareness | 今日の会話で1回、自分の意見を言う前に相手の話を最後まで聞き切る
+332 The Three Levels of Listening | Self-awareness | 会議中に、自分の注意が「自分・相手・場」のどこに向いているかを3回チェックする
+333 Silence as an Invitation | Self-management | 相手が話し終えたあと、3秒待ってから口を開く
+334 Questions That Open People Up | Social awareness | 「What」や「How」で始まる開かれた質問を、会議で2つする
+335 Hearing the Feeling Behind the Words | Social awareness | 同僚の発言から、言葉の裏にある気持ちを1つ推測してメモする
+336 Empathy Is Not Agreement | Relationship management | 意見が違う相手に「That makes sense from your side」と一度言ってから、自分の考えを話す
+337 Cognitive and Emotional Empathy | Self-awareness | 今日話した人の「考え」と「気持ち」を、それぞれ1行ずつ書き分ける
+338 Empathy Fatigue | Self-management | 人の相談に乗ったあと、5分だけ一人の時間をとって気持ちを切り替える
+339 Listening on a Bad Connection | Social awareness | オンライン会議で聞き取れなかった部分を、推測せずに英語で確認する
+340 Reflecting Back Without Parroting | Relationship management | 相手の話を自分の言葉で1文にまとめて「Is that right?」と確かめる
+341 Listening to Someone Who Is Upset | Relationship management | 困っている同僚の話を、解決策を出さずに5分聞く
+342 Your Listening Blind Spots | Self-awareness | 自分がつい話をさえぎってしまう相手や話題を1つ見つけて書き出す
+343 Curious About the Other Side | Social awareness | 他チームの人に「今一番大変なことは何?」と聞いてみる
+344 Listening in a Group | Social awareness | 会議でまだ発言していない人の意見を拾い、名前を出して返す
+345 A Listener People Seek Out | All four | 今日いちばんよく聞けた会話を1つ選び、何が良かったかを書く(シーズン23のしめくくり)
 
-## Season 24 — The Road to Seattle (346–365)
-346 Judgment Is a Human Skill | Self-awareness | AIの答えを使う前に自分の判断を1行書く
-347 Deciding Under Uncertainty | Self-management | 決める前に「何が分かれば決められるか」を書く
-348 Ethics in Everyday Work | Self-awareness | 迷った場面で「誰に見られても平気か」を考える
-349 Building Your Case for a US Role | Relationship management | 成果と影響を数字つきで5つまとめる
-350 Telling Your Sponsor What You Want | Self-management | マネージャーとスポンサーに「シアトルでProgram Managerを目指したい」と伝える
-351 Preparing for the Interview Loop | Self-management | STARの話を数字つきで1つ書いて声に出す
-352 Interview Day Nerves | Self-management | 面接や発表の前に自分を名前で呼んで励まし、最初の一文を声に出す
-353 Humility | Self-awareness | 自分が間違っていたことを1つ認める
-354 Curiosity | Social awareness | 意見の違う人に「どうしてそう思うの?」と聞く
-355 Waiting for the Answer | Self-management | 結果を待つ間の不安を名前にして、今できることを1つする
-356 The Offer | All four | うれしさも不安も言葉にして、支えてくれた人に伝える
-357 Saying Goodbye to Your Tokyo Team | Relationship management | お世話になった人に具体的な感謝を伝える
-358 Handing Off Tokyo | Relationship management | 引き継ぎ資料を作り、後任と一緒に確認する
-359 Building Relationships Before You Arrive | Relationship management | 新しいチームの人に自己紹介のメッセージを送る
-360 First Week in Seattle | Self-awareness | 新しい場所で驚いたことを3つ書く
-361 Culture Shock in the First Month | Self-management | 戸惑ったことを1つ、相手の文化から考え直す
-362 Your First Program Review in Seattle | Self-management | 最初のレビューで伝える結論を1文で用意して声に出す
-363 Your First 90 Days as a Program Manager | Self-management | 最初の90日でやること(関係づくり3つ・小さな成果1つ・学ぶこと1つ)を書く
-364 Looking Back with Daniel | All four | 1年で一番変わった習慣を1つ書く
-365 The Human Curriculum: Next, People Manager | All four | 次の目標(ピープルマネージャー)への最初の一歩を1つ決める(番組の最終回)
+## Season 24 — Peer Coaching Conversations (346–360)
+346 Coaching Is Not Advising | Self-awareness | 相談されたら、アドバイスの前に質問を1つする
+347 And What Else? | Relationship management | 同僚との会話で「And what else?」を一度使ってみる
+348 Helping a Peer Find the Real Problem | Social awareness | 相談に来た人に「本当の課題は何だと思う?」と聞く
+349 Goals, Reality, Options, Way Forward | Self-management | 自分の悩みを1つ、GROWの4つの質問で整理する
+350 Holding Back Your Answer | Self-management | 答えを言いたくなったら、口に出す前に「What have you tried?」と聞く
+351 Coaching Up and Sideways | Relationship management | 先輩か同じ立場の同僚に、考えを深める質問を1つ投げる
+352 Powerful Questions in English | Self-management | コーチングの質問を英語で5つ、声に出して練習する
+353 Asking Permission to Coach | Relationship management | 「Can I ask you a few questions about that?」と一言断ってから質問する
+354 Spotting Strengths in Others | Social awareness | 同僚の強みを1つ見つけて、具体的に本人に伝える
+355 Peer Feedback Circles | Relationship management | 同僚2人と、お互いの仕事に一言ずつフィードバックし合う15分をつくる
+356 When Coaching Isn't Enough | Self-awareness | 自分の手に負えない相談のとき、つなぐべき人を1人思い浮かべてメモする
+357 Coaching Yourself | Self-management | 今日の迷いごとに自分で3つ質問し、答えを書く
+358 Commitments That Stick | Relationship management | 会話の最後に「What's your next step?」と聞き、相手の言葉で決めてもらう
+359 Being Coached Well | Self-awareness | メンターとの会話で、答えではなく質問をもらうようにお願いしてみる
+360 A Peer Who Helps Others Think | All four | 今日だれかの考えを助けた場面を1つ振り返り、効いた質問を書き残す(シーズン24のしめくくり)
+
+## Season 25 — Customer Research and UX (361–375)
+361 Research Before Opinions | Self-awareness | 「お客さんはこう思っているはず」と思い込んでいることを1つ書き出す
+362 Writing a Research Question | Self-management | 調べたいことを「誰が・何を・なぜ」が入った1文の問いにする
+363 Recruiting the Right Participants | Social awareness | 話を聞くべきユーザー像を、3つの条件で書く
+364 Asking About the Past, Not the Future | Social awareness | ユーザーへの質問を「最後に〜したときは?」の形に3つ書き直す
+365 Observing Real Behavior | Social awareness | 誰かが社内ツールを使う様子を、5分だけ黙って観察する
+366 Usability Testing on a Budget | Relationship management | 同僚1人に画面や資料を使ってもらい、迷った箇所をメモする
+367 Note-Taking Without Bias | Self-management | 会議メモで「事実」と「自分の解釈」を分けて書く
+368 Finding Patterns in Feedback | Self-awareness | 集まった意見をグループ分けして、3つのテーマに名前をつける
+369 Support Tickets as Research | Social awareness | 問い合わせの記録を10件読み、繰り返し出てくる不満を1つ見つける
+370 Journey Maps That Reveal Pain | Social awareness | ユーザーの1日の流れを書き、一番つらい瞬間に印をつける
+371 Accessibility Is UX | Social awareness | 自分の資料を色や文字の大きさの点で見直し、1か所直す
+372 Friction Hunting | Self-management | チームの手続きで、ユーザーが何回クリックするか実際に数えてみる
+373 Sharing Insights People Remember | Relationship management | ユーザーの声を1つそのまま引用して、チームのチャットで共有する
+374 Research with Engineers in the Room | Relationship management | エンジニアを次のユーザーインタビューに誘う
+375 The User's Advocate | All four | ユーザーの立場から、今の企画に質問を1つ投げる(シーズン25のしめくくり)
+
+## Season 26 — Growth Marketing and Experiments (376–390)
+376 What Growth Really Means | Self-awareness | 自分のチームの「成長」が何を指すのかを1文で書く
+377 Loops, Not Just Funnels | Social awareness | 使った人が次の利用者を連れてくる流れが自社にあるか、図にして考える
+378 Writing a Testable Hypothesis | Self-management | アイデアを1つ「もし〜なら、〜が増える。なぜなら〜」の形で書く
+379 Picking Experiments with ICE | Self-management | 試したいアイデアを3つ、効果・自信・手軽さで点数をつけて比べる
+380 Activation: The First Win | Social awareness | 新しいユーザーが最初に「便利だ」と感じる瞬間を1つ言葉にする
+381 Retention Beats Acquisition | Social awareness | 一度使ってやめた人の理由を1つ調べるか、同僚に聞く
+382 Onboarding That Helps | Relationship management | 新しく来た人向けの案内を、1か所わかりやすく直す
+383 Copy Tests and Small Words | Self-management | メールの件名を2案書いて、同僚にどちらを開きたいか聞く
+384 Sample Size and Patience | Self-management | 実験結果を見る前に「何日・何人分待つか」を先に決めて書く
+385 When the Test Fails | Self-awareness | うまくいかなかった試みから分かったことを1つ、チームに共有する
+386 Cohorts Over Totals | Social awareness | 数字を1つ、始めた時期ごとのグループに分けて見てみる
+387 Growth with Product and Engineering | Relationship management | 実験のアイデアをエンジニアに見せて、手間を一緒に見積もる
+388 Referral and Word of Mouth | Social awareness | 自分が人にすすめたサービスを1つ思い出し、すすめた理由を書く
+389 Growth Without Dark Patterns | Self-awareness | 自社の画面に、ユーザーをだますように見える箇所がないか1つ確認する
+390 An Experiment Culture | All four | 小さな実験を1つ決めて、仮説と測り方をチームに共有する(シーズン26のしめくくり)
+
+## Season 27 — Consumer Psychology (391–405)
+391 Scarcity and Urgency, Honestly | Social awareness | 「残りわずか」などの表現を1つ見つけ、本当かどうか考える
+392 The Reciprocity Effect in Marketing | Social awareness | 無料サンプルやお試しを1つ見つけ、なぜ人が動くのかを書く
+393 Commitment and Consistency | Self-management | 会議の決定事項を、担当者自身の言葉でチャットに書いてもらう
+394 The Fresh Start Effect | Self-management | 来週の月曜を区切りにして始めることを1つ決める
+395 The Goal-Gradient Effect | Social awareness | 進行中のタスクに「あと何%」を見える形で書き足す
+396 Present Bias and Procrastination | Self-awareness | 後回しにしている仕事を1つ、最初の5分だけ今やる
+397 The Pain of Paying | Social awareness | お金を払うときに「痛い」と感じた場面を1つ思い出し、理由を書く
+398 The Power of Free | Social awareness | 「無料」と書かれた広告を1つ見て、隠れたコストを書き出す
+399 Charm Prices and Round Numbers | Social awareness | 「980円」と「1,000円」で受ける印象の違いを同僚と話してみる
+400 Processing Fluency: Easy Feels True | Self-management | 資料の一番大事な一文を、もっと短く読みやすく書き直す
+401 Mere Exposure and Familiarity | Relationship management | 来週出す提案の要点を、今日のチャットで一言だけ先に触れておく
+402 Habits and Cues in Products | Social awareness | 毎日開くアプリを1つ選び、きっかけ・行動・ごほうびを書き出す
+403 Identity: "People Like Us" | Social awareness | 自社のメッセージを、誰のためのものかが伝わる一文に直す
+404 Hedonic Adaptation and Delight | Relationship management | いつも手伝ってくれる人に、いつもと違う形でお礼を伝える
+405 Persuasion You Can Be Proud Of | All four | 今日の説得で使った心理の仕組みを1つ書き、相手のためになっていたか見直す(シーズン27のしめくくり)
+
+## Season 28 — Business and Finance Basics for Program Managers (406–420)
+406 How Your Company Makes Money | Self-awareness | 自社の売上の柱を3つ、人に説明できるように書く
+407 Reading a P&L Without Fear | Self-management | 損益計算書(P&L)の上から3行を、自分の言葉で説明してみる
+408 Revenue, Cost and Margin | Social awareness | 自分のチームの仕事が売上・コスト・利益のどれに効くかを1行で書く
+409 Fixed and Variable Costs | Social awareness | 担当している仕事のコストを「固定」と「変動」に分けてみる
+410 Budgets Are Promises | Self-management | 自分のプロジェクトの予算(お金と時間)の残りを確認する
+411 The Cost of People's Time | Self-awareness | 今日の会議1つのコストを「人数×時間」で計算してみる
+412 Writing a Business Case | Self-management | 提案したいことを「課題・案・費用・効果」の4行で書く
+413 ROI and Payback Period | Social awareness | 小さな改善案を1つ選び、何か月で元が取れるかざっくり計算する
+414 Opportunity Cost | Self-awareness | 今の仕事を選んだことで、あきらめているものを1つ書き出す
+415 Headcount Requests and Trade-Offs | Relationship management | 人を増やす以外の解決策を3つ書き出す
+416 Unit Economics in Plain Words | Social awareness | ユーザー1人あたりの売上とコストを、詳しい同僚に聞いて確かめる
+417 Forecasts and Ranges | Self-management | 次の見積もりを1つの数字ではなく「最低〜最高」の幅で出す
+418 Talking Money with Finance Partners | Relationship management | 財務の担当者に、自分の仕事に関係する数字を1つ質問する
+419 When the Budget Gets Cut | Self-management | 予算が半分になったら何を残すかを3行で書く
+420 Thinking Like an Owner of the Numbers | All four | 自分の仕事を1つ、お金の言葉で説明して声に出す(シーズン28のしめくくり)
+
+## Season 29 — Strategy Basics (421–435)
+421 What Strategy Is and Isn't | Self-awareness | チームの「戦略」「目標」「計画」を1行ずつ書き分ける
+422 Diagnosis, Policy, Action | Self-management | 今の課題を「診断・方針・行動」の3行でまとめる
+423 Strategy Is Choosing | Self-management | チームでやめてもよいことを1つ、理由と一緒に提案する
+424 Where to Play, How to Win | Social awareness | 自社が勝てる場所を1つと、その理由を書く
+425 Knowing Your Competitors | Social awareness | 競合のサービスを10分さわって、違いを3つメモする
+426 Moats and Advantages | Social awareness | 自社がまねされにくい強みを1つ、同僚と話してみる
+427 Trends You Can't Ignore | Self-awareness | 業界ニュースを1本読み、自分の仕事への影響を1行書く
+428 Scenarios, Not Predictions | Self-management | 来年の状況を「よい・ふつう・悪い」の3パターンで書く
+429 From Company Strategy to Team Goals | Social awareness | 会社の目標と今日の自分のタスクを、1本の線でつなげて書く
+430 OKRs That Actually Guide | Self-management | 自分の目標を1つ、測れる成果の形に書き直す
+431 Strategy in One Page | Self-management | チームの方針を1ページにまとめ、同僚に読んでもらう
+432 Asking Strategic Questions | Relationship management | 次の会議で「これは会社の何に効きますか?」と一度聞く
+433 When Strategy Changes | Self-management | 方針が変わったとき、自分の仕事で変えることと変えないことを書く
+434 Strategy and Culture | Social awareness | チームでよく言われる言葉を1つ選び、それが行動にどう出ているか考える
+435 A Strategic Teammate | All four | 今日の仕事で「なぜ」を一段上までさかのぼって考えた場面を書く(シーズン29のしめくくり)
+
+## Season 30 — Executive Communication (436–450)
+436 How Executives Read | Social awareness | 上の人に送るメッセージを、最初の2行で結論が分かる形にする
+437 Bottom Line Up Front | Self-management | 今日のメール1通を、結論→理由→お願いの順に書き直す
+438 The Ask in One Sentence | Self-management | 上司に頼みたいことを1文にして、声に出して練習する
+439 Three Levels of Detail | Social awareness | 同じ報告を10秒版・1分版・5分版で用意する
+440 The Elevator Update | Self-management | エレベーターで聞かれた想定で、今の仕事の状況を英語で30秒話す
+441 Options with a Recommendation | Relationship management | 判断をお願いするとき、選択肢2つと自分のおすすめを添える
+442 Status Reports Leaders Read | Self-management | 週次報告を「赤・黄・緑」と一言の理由で書き直す
+443 Handling Executive Pushback | Self-management | 鋭い質問を1つ想定して、英語の答えを声に出して準備する
+444 When a Leader Goes Off Track | Relationship management | 会議が脱線したら「To make sure we decide this today…」と一度言ってみる
+445 Skip-Level Conversations | Relationship management | 上司の上司に聞いてみたい質問を1つ用意する
+446 Writing an Executive Summary | Self-management | 長い資料の冒頭に、5行の要約をつける
+447 Asking for a Decision | Relationship management | 「What I need from you is…」で始まるお願いを1つ送る
+448 Admitting Risk to Leadership | Self-awareness | 上司にまだ伝えていない心配ごとを1つ、早めに伝える
+449 Short Answers to Hard Questions | Self-management | よく聞かれる質問に20語以内の英語の答えを作り、声に出す
+450 Trusted by Leaders | All four | 上の人とのやりとりを1つ振り返り、次に変えることを1つ決める(シーズン30のしめくくり)
+
+## Season 31 — Process Improvement and Root Causes (451–465)
+451 Seeing Work as a Process | Social awareness | 自分の仕事を1つ、始まりから終わりまで5ステップで書く
+452 Mapping the Value Stream | Social awareness | 依頼から完了までの各ステップにかかる時間を、ざっくり書き込む
+453 Waiting Is the Hidden Waste | Self-awareness | 今日、だれかの返事を待っていた時間を合計してみる
+454 The Five Whys | Self-management | 最近起きた小さな問題に「なぜ」を5回くり返す
+455 Fishbone Diagrams | Social awareness | 1つの問題の原因を「人・方法・道具・情報」に分けて書く
+456 Fix the System, Not the Person | Relationship management | 誰かのミスを、仕組みの問題として言い直してみる
+457 Small Improvements Every Day | Self-management | 毎日やっている作業を1つ、1分でも短くする工夫をする
+458 Standard Work and Checklists | Self-management | よくやる手順を1つ、チェックリストにする
+459 Bottlenecks | Social awareness | チームの仕事が一番たまっている場所を1つ見つける
+460 Handoffs That Don't Drop | Relationship management | 次の人に仕事を渡すとき、必要な情報を3行で添える
+461 Measuring Before and After | Self-management | 改善したい作業の今の所要時間を測って記録する
+462 Error-Proofing | Self-management | 自分がよくするミスを1つ選び、起きにくくする仕組みを入れる
+463 Process Change People Accept | Relationship management | 手順を変える前に、それを使う人に一言意見を聞く
+464 When Process Becomes Bureaucracy | Self-awareness | 目的が分からなくなった手順を1つ見つけ、なぜあるのかを確かめる
+465 A Continuous Improver | All four | 今日改善したことを1つ、前後の違いとともにチームに共有する(シーズン31のしめくくり)
+
+## Season 32 — Organizations and Change (466–480)
+466 How Organizations Really Work | Social awareness | 組織図に書かれていない「実際の相談ルート」を1つ書き出す
+467 Formal and Informal Power | Social awareness | 肩書きはなくても周りが頼りにしている人を1人見つける
+468 Why Org Charts Change | Self-awareness | 今の組織がなぜこの形なのか、上司に1つ質問する
+469 Teams Shape What They Build | Social awareness | チームの分かれ方が成果物にどう表れているか、例を1つ見つける
+470 Silos and Bridges | Relationship management | ふだん話さない部署の人に、質問のメッセージを1つ送る
+471 The Change Curve | Self-awareness | 今起きている変化への自分の気持ちが、どの段階にあるかを書く
+472 Early Adopters and Skeptics | Social awareness | 新しいやり方への反応で、関係者を「賛成・様子見・反対」に分ける
+473 Listening to Resistance | Relationship management | 変化に反対している人に何が心配かを聞き、最後まで聞く
+474 Making Change Small | Self-management | 大きな変更を、来週試せる小さな一歩に分ける
+475 Change Champions | Relationship management | 新しいやり方を一緒に広めてくれそうな人に声をかける
+476 Communicating Change Again and Again | Relationship management | 同じ変更のお知らせを、別の言い方でもう一度伝える
+477 New Leader, New Direction | Self-management | 新しいリーダーの方針を、自分の言葉で1文にまとめる
+478 Culture Eats Plans | Social awareness | チームで「本当に評価される行動」を1つ書き出す
+479 Making Change Stick | Self-management | 最近始めた新しいやり方が続いているか、1つ確認する
+480 Steady Through Change | All four | この1か月の変化の中で、自分が保てたものを1つ書く(シーズン32のしめくくり)
+
+## Season 33 — Motivation Science (481–495)
+481 What Really Motivates People | Self-awareness | 仕事で一番やる気が出た瞬間を1つ思い出し、理由を書く
+482 Autonomy, Competence, Relatedness | Self-awareness | 今日の仕事で、自分で選べること・うまくなれること・人とつながれることを1つずつ書く
+483 Intrinsic and Extrinsic Rewards | Social awareness | 同僚に「この仕事のどこが好き?」と聞いてみる
+484 The Progress Principle | Self-management | 帰る前に、今日進んだことを1つ書き出す
+485 Small Wins for the Team | Relationship management | チームの小さな前進を1つ見つけて、チャットでたたえる
+486 Seeing Who Your Work Helps | Self-awareness | 自分の仕事が誰の役に立っているかを1文で書く
+487 Goal Setting That Energizes | Self-management | 今日の目標を「少し難しいけど届く」レベルで1つ決める
+488 Linking Tasks to What Others Care About | Relationship management | 協力をお願いするとき、相手にとっての意味を1つ添える
+489 Interest Grows When You Dig In | Self-management | 今の仕事で気になる「なぜ?」を1つ、15分だけ調べてみる
+490 The Overjustification Trap | Self-awareness | ごほうびのためだけにやっている作業を1つ見つけ、その中の面白さを探す
+491 Motivation Dips | Self-management | やる気が出ない仕事に、終わったあとの小さなごほうびを1つ決める
+492 Recognition That Motivates | Relationship management | 同僚の結果ではなく努力の過程を、具体的にほめる
+493 Mastery and Deliberate Practice | Self-management | 苦手なスキルを1つ選び、15分だけ集中して練習する
+494 Motivation Across Cultures | Social awareness | 東京とシアトルの同僚に、何が仕事の励みになるかを1人ずつ聞く
+495 Your Own Motivation Map | All four | やる気が上がることと下がることを3つずつ書いて見比べる(シーズン33のしめくくり)
+
+## Season 34 — Learning How to Learn and Habits (496–510)
+496 How Memory Really Works | Self-awareness | 今日学んだことを、夜に何も見ずに3つ思い出して書く
+497 Retrieval Practice | Self-management | 昨日の会議の要点をメモを見ずに書き出し、あとで見比べる
+498 Spacing Your Learning | Self-management | 覚えたい英語フレーズ3つを、明日・3日後・1週間後に見直す予定に入れる
+499 Mixing Up Practice | Self-management | 英語の練習で、聞く・話す・書くを10分ずつ混ぜてやってみる
+500 Explain It Simply to Learn It | Self-management | 最近学んだ言葉を1つ、新人に話すつもりで声に出して説明する
+501 Learning from Experts on Your Team | Relationship management | 詳しい同僚に「どうやって覚えたの?」と聞く
+502 Tiny Habits | Self-management | 毎日している行動の後に、30秒でできる新しい習慣を1つつなげる
+503 Designing Your Environment | Self-management | 気が散るタブやアプリを1つ閉じて、作業の場を整える
+504 Breaking a Bad Habit | Self-awareness | やめたい習慣のきっかけを1つ見つけてメモする
+505 Identity-Based Habits | Self-awareness | 「私は〜する人だ」という一文を書き、それに合う行動を1つする
+506 Learning Plateaus | Self-management | 伸び悩んでいるスキルを1つ選び、練習方法を1つ変えてみる
+507 Notes You'll Actually Use | Self-management | 今日のメモに、明日の自分への一言を書き足す
+508 Asking the Question Everyone Has | Relationship management | 会議で分からなかった言葉を1つ、その場で質問する
+509 Sleep and Learning | Self-management | 今夜はいつもより30分早く画面を閉じる
+510 A Lifelong Learner | All four | この数か月で一番伸びたスキルと、その理由を3行で書く(シーズン34のしめくくり)
+
+## Season 35 — Emotion Regulation, Advanced (511–525)
+511 The Process Model of Emotion | Self-awareness | 気持ちが動いた場面を1つ、「状況・注目・解釈・反応」に分けて書く
+512 Choosing the Situation | Self-management | 苦手な場面に入る前に、自分で変えられる条件を1つ変える
+513 Shifting Attention | Self-management | イライラしたとき、目の前の具体的な作業1つに注意を移す
+514 Cognitive Reappraisal | Self-management | 嫌だった出来事を、別の見方で1文書き直す
+515 Suppression Has a Cost | Self-awareness | 今日がまんした気持ちを1つ、ノートか信頼できる人に出す
+516 Emotional Granularity | Self-awareness | 「ストレス」を、もっと細かい2つの言葉に言い換える
+517 Self-Distancing | Self-management | 迷ったとき、自分を名前で呼んで「友だちなら何と言う?」と問いかける
+518 Co-Regulation: Steadying Others | Relationship management | 緊張している同僚の前で、自分がゆっくり話すことを意識する
+519 Triggers and Old Stories | Self-awareness | 強く反応してしまう言葉を1つ見つけ、その背景を考える
+520 Recovering After You Snap | Relationship management | きつく言ってしまった相手に、短いおわびと次の一歩を伝える
+521 Emotions in Writing | Social awareness | 送る前のメッセージを、相手の気持ちになって一度読み直す
+522 Holding Two Feelings at Once | Self-awareness | 今の仕事について「うれしい」と「不安」を両方書く
+523 Regulating in Real Time on Calls | Self-management | オンライン会議でカッとなったら、ミュートのまま深く3回息をする
+524 Mood and Decisions | Self-awareness | 大事な判断の前に、今の気分を1語で書いてから決める
+525 Calm Is a Skill | All four | 今日感情をうまく扱えた場面を1つ選び、使った方法を書く(シーズン35のしめくくり)
+
+## Season 36 — Trust and Ethics at Work (526–540)
+526 The Trust Equation | Self-awareness | 信頼の4要素(信頼性・確実さ・親しみ・自分本位でないこと)で自分を採点する
+527 Competence Trust and Character Trust | Social awareness | 信頼している同僚を1人選び、何を信頼しているのかを書く
+528 Keeping Confidences | Self-management | 聞いた話を人に伝える前に「話していい内容か」を確かめる
+529 Rebuilding Broken Trust | Relationship management | 約束を守れなかった相手に、事実を認めて次の約束を1つする
+530 Speaking Up About Something Wrong | Self-management | 気になっていることを1つ、「I'm concerned about…」で上司に伝える
+531 Gray Areas | Self-awareness | 判断に迷う場面で「1年後に説明できるか」を考えてメモする
+532 Conflicts of Interest | Self-awareness | 自分の判断に影響しそうな関係や利害を1つ書き出す
+533 Honest Numbers | Self-management | 報告する数字が都合よく見せすぎていないか、1つ確認する
+534 Fairness in Small Decisions | Social awareness | 仕事の割り振りが特定の人に偏っていないか見てみる
+535 Giving Credit Generously | Relationship management | 自分の成果に関わった人の名前を出して、感謝を伝える
+536 Transparency vs. Oversharing | Self-management | 共有しようとしている情報を「必要な人・必要な量」に絞る
+537 Consistency Builds Trust | Self-management | 進み具合を毎日同じ時間・同じ形で伝えると決めて、今日から始める
+538 Saying No to Shortcuts | Self-management | 期限のために省こうとしている確認を1つ、省かずにやる
+539 Psychological Contracts | Social awareness | チームで「言わなくても守っている約束」を1つ書き出す
+540 Someone People Can Count On | All four | 今日の行動で信頼を積んだ瞬間を1つ書く(シーズン36のしめくくり)
+
+## Season 37 — Creativity and Innovation (541–555)
+541 Creativity Is a Work Skill | Self-awareness | 今日の仕事で「いつもと違うやり方」を1つ試す
+542 Divergent and Convergent Thinking | Self-management | 課題に対して案を10個出してから、1つに絞る
+543 Better Brainstorming | Relationship management | ブレストの前に、各自が一人で案を書く時間を5分とる
+544 Constraints Spark Ideas | Self-management | 「予算ゼロならどうする?」と考えて、案を1つ出す
+545 Borrowing Ideas from Other Fields | Social awareness | 別の業界のやり方を1つ見つけ、自分の仕事に当てはめてみる
+546 Incubation: Step Away | Self-management | 行き詰まった問題から10分離れ、散歩のあとにもう一度見る
+547 Reframing the Question | Self-management | 課題を「How might we…?」の形で3通りに言い換える
+548 Prototypes Over Plans | Self-management | アイデアを1つ、紙か簡単な画面で形にして見せる
+549 Building on Others' Ideas | Relationship management | 会議で人のアイデアに「Yes, and…」で一つ足す
+550 Killing Ideas Kindly | Relationship management | 採用しないアイデアに、良かった点を1つ伝えてから理由を話す
+551 Innovation Inside Big Companies | Social awareness | 社内で新しいことを始めた人に、どう進めたかを聞く
+552 Room for Wild Ideas | Social awareness | 会議で「変なアイデアでも歓迎です」と一言そえて意見を募る
+553 Creative Confidence | Self-awareness | 「自分は創造的ではない」と思った場面を1つ思い出し、言い換える
+554 From Idea to Pilot | Self-management | 温めているアイデアを、2週間で試せる小さな計画にする
+555 A Creative Program Manager | All four | 今日出したアイデアを1つ誰かに話して、反応を聞く(シーズン37のしめくくり)
+
+## Season 38 — Facilitation and Better Meetings (556–570)
+556 The Facilitator's Job | Self-awareness | 次の会議では、話す人ではなく場を進める人になると決めて臨む
+557 Purpose, Outcome, Agenda | Self-management | 会議の招待に「目的・ほしい結果・議題」を3行で書く
+558 Opening a Meeting Well | Relationship management | 会議の最初の1分で、ゴールと時間配分を英語で伝える
+559 Timeboxing Out Loud | Self-management | 議題ごとに時間を決め、「We have five minutes left on this」と声に出す
+560 Parking Lot for Side Topics | Relationship management | 脱線した話題を「パーキングロット」に書き、後で扱うと伝える
+561 Making Space for Everyone | Social awareness | 話し合いの前に、全員が書き込める共有ドキュメントで意見を集める
+562 Handling Dominant Voices | Relationship management | 話し続ける人がいたら「Let's hear from others too」と一度言ってみる
+563 Reading the Room Online | Social awareness | オンライン会議で反応の少ない人に、チャットで一言聞く
+564 Decision Methods in Meetings | Self-management | 会議の前に「誰が・どの方法で決めるか」を書いておく
+565 Workshops That Produce Something | Self-management | 30分のミニワークショップの流れを3ステップで設計する
+566 Visual Facilitation | Social awareness | 会議中、話の流れをオンラインのホワイトボードに書いて見せる
+567 Closing with Clear Actions | Relationship management | 会議の最後に「誰が・何を・いつまでに」を読み上げて確認する
+568 Fewer, Shorter Meetings | Self-management | 定例会議を1つ選び、短くするかなくせないか提案する
+569 Facilitating When You're Junior | Self-awareness | 先輩が多い会議の進行役として、最初の一言を声に出して練習する
+570 A Meeting People Thank You For | All four | 今日の会議を1つ振り返り、参加者に良かった点と改善点を一言ずつ聞く(シーズン38のしめくくり)
+
+## Season 39 — Advanced Speaking: Discussion and Debate in English (571–585)
+571 Joining a Fast Discussion | Self-management | 会議で最初の5分以内に、英語で一言発言する
+572 Agreeing and Building | Relationship management | 「Building on that…」で、人の意見に自分の考えを足して話す
+573 Disagreeing Without Sounding Rude | Relationship management | 「I see your point, but…」以外の反対の言い方を3つ声に出して練習する
+574 Holding the Floor | Self-management | 話の途中でさえぎられたら「Let me just finish this point」と言う
+575 Making a Point in Three Parts | Self-management | 意見を「結論・理由・例」の順に、英語で30秒で声に出して言う
+576 Asking Follow-Up Questions in Real Time | Social awareness | 会議で人の発言に、英語で追加の質問を1つする
+577 Signposting Your Ideas | Self-management | 「There are two things…」と最初に数を言ってから話す
+578 Hedging and Being Direct | Social awareness | 同じ意見を、やわらかい言い方とはっきりした言い方の両方で声に出す
+579 Steelmanning the Other Side | Social awareness | 反対意見を、相手が納得するくらい強い形で英語で言い直す
+580 Thinking on Your Feet | Self-management | ランダムなお題で1分間、英語で話す練習を1回する
+581 Conceding Gracefully | Relationship management | 相手が正しいと思ったら「Fair point, I agree」とはっきり言う
+582 Summarizing a Debate | Relationship management | 議論の最後に、双方の意見を英語で2文にまとめて伝える
+583 Numbers in Live Discussion | Self-management | 自分の仕事の数字を3つ、英語で声に出して言う練習をする
+584 Shadowing Real Discussions | Self-management | 英語の会議録画やポッドキャストを1分選び、少し遅れて声に出してついていく
+585 Holding Your Own in Debate | All four | 今日英語で意見を言えた場面を1つ書き、次に使いたい表現を1つ選ぶ(シーズン39のしめくくり)
+
+## Season 40 — Speaking on Calls: Accents, Speed and Repair Strategies (586–600)
+586 Why Calls Are Harder | Self-awareness | 通話や会議で聞き取りにくいと感じる場面を3つ書く
+587 Understanding Different Accents | Social awareness | ふだん聞かない英語のアクセントの音声を5分聞く
+588 When People Speak Too Fast | Relationship management | 「Could you slow down a little?」を一度実際に使う
+589 Repair Phrases That Save You | Self-management | 聞き返しの表現を3つ声に出して練習し、今日の会議で1つ使う
+590 Confirming Before You Act | Self-management | 会議で「Just to confirm, you mean…?」と1回確認する
+591 Fixing Your Own Mistakes Mid-Sentence | Self-management | 言い間違えたときの「Sorry, let me rephrase」を声に出して練習し、実際に使う
+592 Slowing Down Your Own Speech | Self-management | 自分の英語を録音し、少しゆっくり話した版と聞き比べる
+593 Word Stress and Clarity | Self-management | 仕事でよく使う英単語5つの強く読む位置を調べ、声に出す
+594 Phone Calls Without Video | Social awareness | 顔が見えない通話で、相づちを声ではっきり返すことを意識する
+595 Audio Setup and Background Noise | Self-management | 次の会議の前にマイクと音声を確認し、聞きやすい環境を整える
+596 Talking Over Each Other | Relationship management | 発言がかぶったら「Go ahead」とゆずり、そのあと自分の番をとる
+597 Spelling and Numbers on Calls | Self-management | 自分の名前とメールアドレスを、英語でゆっくりつづって声に出す
+598 Ending a Call Clearly | Relationship management | 通話の最後に、決まったことを英語で1文にまとめて言う
+599 Helping Others Understand You | Social awareness | 通話中の大事な言葉や数字を、チャットにも書いて補う
+600 Calm and Clear on Any Call | All four | 今日の通話を1つ振り返り、うまくいった聞き返しと次の課題を1つずつ書く(シーズン40のしめくくり)
+
+## Season 41 — Remote and Async Excellence (601–615)
+601 Async by Default | Self-management | 会議を開く代わりに、文書とコメントで決められないか1つ試す
+602 Writing for the Reader Who Wasn't There | Self-management | 会議に出られなかった人向けに、3行の要約を送る
+603 Messages That Need No Follow-Up | Self-management | 依頼メッセージに、背景・期限・判断基準をすべて入れて送る
+604 Short Videos Instead of Meetings | Relationship management | 説明が必要なことを、3分の画面録画で送ってみる
+605 Handing Work Across Time Zones | Relationship management | 終業前に、シアトルの同僚あての引き継ぎメモを書く
+606 Response-Time Agreements | Relationship management | チャットとメールの返信の目安を、チームに提案する
+607 Status Without Asking | Self-management | 進み具合を、聞かれる前に決まった場所に書いておく
+608 Remote Relationships | Relationship management | オンラインの同僚と、仕事以外の話をする5分のチャットをする
+609 Focus Time in a Distributed Team | Self-management | カレンダーに集中時間をブロックし、チームに見えるようにする
+610 Documentation Others Can Find | Self-management | よく聞かれることを1つ、探しやすい場所に書いて残す
+611 Emoji, Reactions and Tone | Social awareness | チャットのリアクションや絵文字の受け取り方が、人によってどう違うか同僚に聞く
+612 Hybrid Meetings That Are Fair | Social awareness | 会議室とオンラインが混ざる会議で、オンライン側に先に発言をふる
+613 Avoiding Always-On | Self-awareness | 通知を切る時間を今日1時間決めて、守る
+614 Onboarding Someone Remotely | Relationship management | 新しく来た人に、聞きやすい人と資料のリストを送る
+615 A Great Remote Teammate | All four | 今日の非同期のやりとりを1つ見直し、もっと伝わる形に書き直す(シーズン41のしめくくり)
+
+## Season 42 — Career Strategy in a US Company (616–630)
+616 How US Companies Evaluate Performance | Social awareness | 自社の評価基準を読み、自分に一番関係する項目を1つ選ぶ
+617 Levels and Leveling Guides | Self-awareness | 1つ上のレベルに期待されることを読み、今の自分との差を1つ書く
+618 Writing Your Self-Review | Self-management | 今期の成果を1つ、「何をして・どんな影響があったか」の形で書く
+619 Impact, Not Activity | Self-awareness | 今週やったことを1つ、作業ではなく成果の言葉で書き直す
+620 Brag Documents | Self-management | 自分の成果を記録するドキュメントを作り、今日の分を1行書く
+621 Peer Feedback in Review Season | Relationship management | 一緒に働いた人に、具体的で役に立つフィードバックを1つ書く
+622 Calibration Explained | Social awareness | 評価がどう決まるのか、上司に1つ質問する
+623 Self-Promotion Without Embarrassment | Self-management | 自分の成果を「I led…」で始まる英語の1文にして声に出す
+624 Direct Feedback, American Style | Social awareness | もらったフィードバックから遠回しな表現を1つ見つけ、意味を確かめる
+625 Owning Your Career Plan | Self-management | 1年後になりたい姿と、そのために必要な経験を3つ書く
+626 Lateral Moves and Internal Transfers | Self-awareness | 社内で興味のある仕事を1つ調べ、求められるスキルを書き出す
+627 Getting Promoted Is a Team Sport | Relationship management | 自分の成長を見てくれている人を3人書き出し、1人に近況を伝える
+628 When the Review Disappoints | Self-management | 期待より低い評価を想定して、聞きたい質問を3つ準備する
+629 Unwritten Rules of US Offices | Social awareness | シアトルの同僚に「最初に知っておきたかったこと」を1つ聞く
+630 Steering Your Own Career | All four | 次の評価までにやることを3つ決め、上司に共有する(シーズン42のしめくくり)
+
+## Season 43 — Influence at Scale for Programs (631–645)
+631 From Persuading One to Moving Many | Self-awareness | 動かしたい人を「1人」ではなく「グループ」で書き出す
+632 Narratives That Travel | Social awareness | プログラムの目的を、他の人がそのまま転送できる1段落にする
+633 Influence Through Rhythm | Self-management | 関係者が予想できる決まったリズムで情報を出す計画を立てる
+634 Finding the Key Influencers | Social awareness | 周りが意見を聞きにいく人を3人見つけて書き出す
+635 Bringing Skeptics Inside | Relationship management | 一番慎重な人に、計画の一部をレビューしてほしいと頼む
+636 Shared Language Across Teams | Social awareness | チームによって意味が違う言葉を1つ見つけ、定義を書く
+637 Making It Easy to Say Yes | Relationship management | 相手がすぐ判断できるよう、選択肢と期限をそえてお願いを送る
+638 Using Data to Move Groups | Self-management | 関係者全員が見る指標を1つ選び、毎週同じ形で見せると決める
+639 Influencing Through Other Leaders | Relationship management | 話を広めてくれる人に、そのまま使える要点を3つ渡す
+640 Town Halls and Big Audiences | Self-management | 大人数に向けて伝えたい一言を決め、英語で声に出す
+641 Handling Organized Resistance | Relationship management | 反対しているグループの共通の心配ごとを1つ見つけ、答えを用意する
+642 Favors Across Teams | Relationship management | 最近助けてもらったチームに、こちらから役立つ情報を1つ送る
+643 Influence Without Overreach | Self-awareness | 自分が強く押しすぎていないか、信頼できる同僚に聞く
+644 Measuring Your Influence | Self-awareness | この1か月の自分の提案が、どれだけ採用されたかを振り返る
+645 Moving a Whole Organization | All four | 今のプログラムで多くの人の行動を変えるための次の一手を1つ書く(シーズン43のしめくくり)
+
+## Season 44 — The Program Manager's Toolkit (646–660)
+646 Program Governance Made Simple | Self-management | 自分の仕事で「誰が何を決めるか」を1枚の表にする
+647 RACI Without the Bureaucracy | Relationship management | 1つの作業について、実行・責任・相談・報告の担当を関係者と確かめる
+648 Dependency Maps | Social awareness | 自分の仕事が待っている他チームの作業を、矢印で図にする
+649 Critical Path Thinking | Self-management | 計画の中で、遅れると全体が遅れる作業を1つ見つける
+650 Integrated Program Plans | Self-management | 複数チームの予定を1つのタイムラインに並べてみる
+651 Workstreams and Leads | Relationship management | 大きな仕事を3つの流れに分け、それぞれの担当候補を書く
+652 Program Dashboards | Self-management | 進み具合が一目で分かる指標を3つ選んで並べる
+653 Change Requests and Control | Self-management | 途中で来た変更依頼に、時間・人・品質への影響を書いてから返事をする
+654 Capacity Planning | Social awareness | チームの来月の空き時間を、ざっくり「人数×日」で数える
+655 Program Cadence | Self-management | 毎日・毎週・毎月の確認の場を、1枚に整理する
+656 Escalation Paths | Relationship management | 困ったときに誰にどの順で相談するかを書き、上司と確認する
+657 Running a Planning Session | Relationship management | 次の計画会議で、各チームに「一番の心配ごと」を一つずつ聞く
+658 Program Closure and Handover | Self-management | 終わった仕事を1つ選び、学びと引き継ぎ先を書いて正式に閉じる
+659 Tools Serve People | Self-awareness | 管理ツールで誰も見ていない項目を1つ見つけ、減らす
+660 A Program Manager's Toolbox | All four | このシーズンで学んだ道具から、明日も使うものを3つ選ぶ(シーズン44のしめくくり)
+
+## Season 45 — Preparing for People Management as an IC (661–675)
+661 Studying Great Managers | Social awareness | 尊敬する上司の行動を1つ選び、なぜ効いているのかを書く
+662 What Managers Actually Do All Day | Social awareness | 上司に「一番時間を使っていることは何ですか?」と聞く
+663 Managing Yourself First | Self-management | 自分の1週間の時間の使い方を見直し、1つ改善する
+664 Onboarding a New Teammate | Relationship management | 新しく入った人に、最初の1週間で役立つことを1つ教える
+665 Mentoring Someone Junior | Relationship management | 後輩に15分の時間をとり、困っていることを聞く
+666 Delegation Practice as an IC | Self-management | 誰かに任せられる仕事を1つ選び、目的と期待を伝えて頼む
+667 Feedback That Helps Peers Grow | Relationship management | 同僚に伝えにくいことを1つ準備し、声に出して練習してから伝える
+668 A 1:1 from the Other Side | Social awareness | 後輩との会話で、相手が話す時間を7割にしてみる
+669 Noticing Team Health | Social awareness | チームの雰囲気を1〜5で点数をつけ、その理由を1つ書く
+670 Fairness and Favoritism | Self-awareness | 自分がつい頼みがちな人と、声をかけていない人を書き出す
+671 Leading a Team Ritual | Relationship management | チームのふり返りや朝会の進行を、一度自分から引き受ける
+672 Interviewing Candidates | Social awareness | 面接官として聞きたい質問を、過去の行動を聞く形で3つ書く
+673 The Manager's Emotional Load | Self-awareness | 上司が抱えている重さを想像し、一言ねぎらいを伝える
+674 Lessons from a Manager's First Year | Relationship management | 上司かメンターに「マネージャー1年目で一番大変だったこと」を聞く
+675 Ready to Lead People | All four | 将来マネージャーになったら大切にしたいことを3つ書く(シーズン45のしめくくり)
+
+## Season 46 — Personal Brand and Sharing What You Learn (676–695)
+676 What a Personal Brand Really Is | Self-awareness | 同僚3人に、自分を一言で表すと何かを聞く
+677 Knowing What You Stand For | Self-awareness | 仕事で大切にしている価値を3つ書き、一番大事な1つを選ぶ
+678 Your Expertise in One Line | Self-management | 「I help teams…」で始まる1文を作って声に出す
+679 Writing Short Posts at Work | Self-management | 学んだことを1つ、5行の社内投稿にまとめて出す
+680 Turning Lessons into Stories | Self-management | 最近の失敗か成功を、始まり・山場・学びの3文で書く
+681 Starting a Simple Newsletter | Self-management | 書いてみたいテーマを5つ書き、最初の1本のタイトルを決める
+682 Writing in English for a Wider Audience | Self-management | 日本語で書いたメモを1つ、短い英語の投稿に書き直す
+683 Lightning Talks | Self-management | 5分で話せるテーマを1つ選び、話の骨組みを3つの点で書く
+684 Speaking at a Meetup | Self-awareness | 社外の勉強会やミートアップを1つ調べ、登壇の条件を確認する
+685 Rehearsing a Talk Out Loud | Self-management | 5分の話を一度通しで声に出し、時間を測る
+686 Teaching a Lunch-and-Learn | Relationship management | 自分が教えられることを1つ選び、社内勉強会の案をチームに出す
+687 Teaching Makes You Learn | Self-awareness | 人に説明してうまく言えなかった部分を1つ書き出し、調べ直す
+688 Making Simple Visuals | Self-management | 説明したい考えを、箱と矢印だけの図1枚にかく
+689 Handling Public Feedback | Self-management | 投稿や発表へのコメントを1つ選び、感謝と一言の返事を書く
+690 Sharing Without Oversharing | Self-awareness | 発信する前に、社外秘や個人の情報が入っていないか確認する
+691 Consistency Over Virality | Self-management | 発信の頻度を決めて、次の予定をカレンダーに入れる
+692 Lifting Others Up | Relationship management | 同僚の良い発信を1つ見つけ、具体的な感想と一緒に紹介する
+693 Starting a Learning Circle | Relationship management | 同じテーマに興味のある人に声をかけ、小さな集まりを提案する
+694 Your Brand Across Tokyo and Seattle | Social awareness | シアトルの人が自分の名前を聞いて思い浮かべてほしいことを1文で書く
+695 A Voice Worth Following | All four | この1か月で発信したことを振り返り、次に届けたいテーマを1つ決める(シーズン46のしめくくり)
+
+## Season 47 — Thinking Like a Program Manager (696–710)
+696 From Projects to Programs | Self-awareness | 自分の仕事を「プロジェクト」と「プログラム」の視点で書き分ける
+697 Systems Thinking | Social awareness | 1つの問題に関わるチームと流れを図にする
+698 A Roadmap People Believe | Relationship management | ロードマップに「なぜこの順番か」を1行ずつ添える
+699 Prioritizing When Everything Matters | Self-management | 優先順位の基準を3つ決めて共有する
+700 Metrics That Matter | Social awareness | 成功を測る指標を1つ選び、関係者と合意する
+701 Program-Level Risk | Self-management | 複数のプロジェクトにまたがるリスクを1つ見つける
+702 A Week in Seattle | Self-awareness | 出張先で会った人に「このチームで成功するには?」と聞く
+703 Trust Across Cultures, Face to Face | Relationship management | シアトルの相手と仕事以外の話を1つする
+704 Change Management for Programs | Relationship management | 変化を受け入れてもらうために関係者ごとの伝え方を書く
+705 Trade-Offs Out Loud | Relationship management | 「これを選ぶと何をあきらめるか」を言葉にして伝える
+706 Writing a Program Charter | Self-management | 目的・範囲・成功の基準を1ページにまとめる
+707 Communicating Strategy | Social awareness | 戦略を同僚が自分の言葉で言い直せるか確かめる
+708 Running a Program Review | Relationship management | 定例レビューで判断が必要な点だけを先に出す
+709 A Program Communication Plan | Self-management | 誰に何をいつ伝えるかを1枚の表にする
+710 Seeing the Whole Board | All four | 全体を見て判断できたことを1つ振り返る(シーズン47のしめくくり)
+
+## Season 48 — The Road to Seattle (711–730)
+711 Judgment Is a Human Skill | Self-awareness | AIの答えを使う前に自分の判断を1行書く
+712 Deciding Under Uncertainty | Self-management | 決める前に「何が分かれば決められるか」を書く
+713 Ethics in Everyday Work | Self-awareness | 迷った場面で「誰に見られても平気か」を考える
+714 Building Your Case for a US Role | Relationship management | 成果と影響を数字つきで5つまとめる
+715 Telling Your Sponsor What You Want | Self-management | マネージャーとスポンサーに「シアトルでProgram Managerを目指したい」と伝える
+716 Preparing for the Interview Loop | Self-management | STARの話を数字つきで1つ書いて声に出す
+717 Interview Day Nerves | Self-management | 面接や発表の前に自分を名前で呼んで励まし、最初の一文を声に出す
+718 Humility | Self-awareness | 自分が間違っていたことを1つ認める
+719 Curiosity | Social awareness | 意見の違う人に「どうしてそう思うの?」と聞く
+720 Waiting for the Answer | Self-management | 結果を待つ間の不安を名前にして、今できることを1つする
+721 The Offer | All four | うれしさも不安も言葉にして、支えてくれた人に伝える
+722 Saying Goodbye to Your Tokyo Team | Relationship management | お世話になった人に具体的な感謝を伝える
+723 Handing Off Tokyo | Relationship management | 引き継ぎ資料を作り、後任と一緒に確認する
+724 Building Relationships Before You Arrive | Relationship management | 新しいチームの人に自己紹介のメッセージを送る
+725 First Week in Seattle | Self-awareness | 新しい場所で驚いたことを3つ書く
+726 Culture Shock in the First Month | Self-management | 戸惑ったことを1つ、相手の文化から考え直す
+727 Your First Program Review in Seattle | Self-management | 最初のレビューで伝える結論を1文で用意して声に出す
+728 Your First 90 Days as a Program Manager | Self-management | 最初の90日でやること(関係づくり3つ・小さな成果1つ・学ぶこと1つ)を書く
+729 Looking Back with Daniel | All four | 1年で一番変わった習慣を1つ書く
+730 The Human Curriculum: Next, People Manager | All four | 次の目標(ピープルマネージャー)への最初の一歩を1つ決める(番組の最終回)

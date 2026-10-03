@@ -347,6 +347,44 @@
       ],
       "thumb_cup": "Ask their needs first.",
       "thumb_pose": "sena_talk"
+    },
+    {
+      "number": 11,
+      "script": "ep11.txt",
+      "title": "Speaking Up When You Disagree",
+      "short_title": "Speaking Up When You Disagree",
+      "summary": "In a team meeting, everyone nods at a plan to launch a new dashboard to all regions at once, and Sena stays quiet even though she knows some regions have missing data. Daniel shares Frances Milliken, Elizabeth Morrison, and Patricia Hewlin's interview study, in which 85 percent of employees said they had felt unable to raise an important issue with their boss, and Charlan Nemeth's research showing that authentic dissent helps groups find more and better solutions than a role-played devil's advocate. He tells the story of the launch review where his silence made a colleague silent too. They compare Japan's kuuki wo yomu, reading the air, with the US idea of disagree and commit, and treat speaking up as self-management: noticing the fear, and choosing to say it anyway. The practice: agree, concern, question.",
+      "practice": "When you disagree with something in a meeting, say it once, in one sentence: start with what you agree with, share your concern as information, and end with a question, like \"I see it a little differently. Here's one concern. What do you think?\" If you can't say it in the room, tell the person who decides within 24 hours. Afterward, write down what you were afraid would happen, and what actually happened.",
+      "sources": [
+        "Milliken, Morrison & Hewlin (2003), An Exploratory Study of Employee Silence: Issues that Employees Don't Communicate Upward and Why, Journal of Management Studies",
+        "Nemeth, Brown & Rogers (2001), Devil's advocate versus authentic dissent: stimulating quantity and quality, European Journal of Social Psychology"
+      ],
+      "tags": [
+        "EQ",
+        "emotional intelligence",
+        "self-management",
+        "speaking up",
+        "employee voice",
+        "disagreement",
+        "meetings",
+        "kuuki wo yomu",
+        "Japan US work culture",
+        "career",
+        "leadership",
+        "people manager",
+        "audiobook",
+        "English learning"
+      ],
+      "thumb_sub": "Agree, Concern, Question",
+      "thumb_accent": "Disagree",
+      "thumb_notes": [
+        "Silence spreads",
+        "Real dissent helps",
+        "Plan, not person",
+        "End with a question"
+      ],
+      "thumb_cup": "Say it in one sentence.",
+      "thumb_pose": "sena_idea"
     }
   ]
 }

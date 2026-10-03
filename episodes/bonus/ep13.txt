@@ -1,0 +1,80 @@
+DANIEL: Welcome back to Human Curriculum. I'm Daniel Reed, a People Manager in Seattle.
+SENA: And I'm Sena Sato, an Associate in Tokyo. Last time, we talked about what to do when you make a mistake. Tell them the same day, in three parts.
+DANIEL: And today, we're talking about something that sounds small, but shapes your whole career. Saying no without burning bridges. But first, the practice. You were going to tell Mark about the error in the report.
+SENA: I wrote to him that same afternoon. I told Kato-san first, like we said. Then three parts. What happened, the impact, and the fix. "One region was counted twice. Here is the corrected report. I added a check so it can't happen again."
+DANIEL: And what did Mark say?
+SENA: He said, "Thanks for catching it before my presentation." That's all. One line.
+DANIEL: One line. After an hour of panic.
+SENA: I know. The fear was huge, and the reply was tiny. And Kato-san asked me to add the same check to two other reports.
+DANIEL: And the kind sentence to yourself?
+SENA: I wrote, "You found it yourself, and you fixed it in a day." It felt strange to write. But I read it again that night, and it helped.
+DANIEL: I'm really glad. So, what's happening this week?
+SENA: This week, I said yes too many times.
+DANIEL: Tell me.
+SENA: On Monday, Mark asked if I could build one more analysis for him. Customer activity by product, by Friday. I said, "Sure!" Then on Tuesday, Ryo asked if I could lead a study group for new team members. Every Thursday evening. And I said, "Of course."
+DANIEL: And what else is on your plate?
+SENA: The two-region launch. The monthly report. The data checks for Kato-san. And sending Hannah's team the list of missing values every week.
+DANIEL: So, how is it going?
+SENA: It's Wednesday, and I haven't started Mark's analysis. I worked until eleven last night. And this morning I thought, "Why did I say yes? On Monday, Friday felt so far away."
+DANIEL: On Monday, Friday always feels far away. There's research on exactly that. Let me share it.
+SENA: My notebook is open.
+DANIEL: The first study is by Gal Zauberman and John Lynch. It was published in 2005 in the Journal of Experimental Psychology. They looked at something they called "slack." Slack means how much extra of a resource you think you'll have. Extra time, or extra money.
+SENA: Okay.
+DANIEL: Across seven experiments, they found that people expect to have more spare time in the future than they have right now. And this effect was stronger for time than for money.
+SENA: So I think future me is less busy than present me.
+DANIEL: Exactly. And future me is always less busy. Until future me becomes present me. That's why it's so easy to say yes to something next week or next month. In your head, next week has empty space. But when it arrives, it's just as full as this week.
+SENA: That's exactly what happened. On Monday, Friday had space. Today, Friday has no space.
+DANIEL: Some people use a simple test because of this. Before you say yes to something in the future, ask, "Would I say yes if this were tomorrow?" If the answer is no, the future version probably isn't really yes either.
+SENA: Would I say yes if it were tomorrow. That's a good question.
+DANIEL: The second study is about the fear behind yes. It's by Julian Givi and Colleen Kirk, published in 2024 in the Journal of Personality and Social Psychology. The title is, "Saying no: The negative ramifications from invitation declines are less severe than we think."
+SENA: Long title. Good message.
+DANIEL: In a pilot survey, more than three quarters of people said they had accepted an invitation they didn't want, because they were worried about what would happen if they said no. Then the researchers ran five experiments with more than two thousand participants.
+SENA: And what did they find?
+DANIEL: The people who declined expected the other person to be more upset, and less likely to invite them again, than the inviters actually were. We overestimate the damage of a polite no. One reason, the authors suggest, is that the person saying no focuses on the no itself. But the person asking thinks more about the whole situation.
+SENA: So they think, "She's busy," not, "She doesn't like me."
+DANIEL: Something like that. Now, these were invitations to social activities, like going to a museum or a dinner. Not work requests from a manager. So we shouldn't assume work is exactly the same. But the direction is useful. The bridge is usually stronger than we think.
+SENA: Okay. Our usual question. Why can't AI do this for me? An AI tool could write a perfect, polite "no" email in two seconds.
+DANIEL: It could write the email. And honestly, that part is useful. But saying no well isn't mainly about the words. First, you have to know what you're saying no for. What matters most to you this week. AI can list your tasks, but it can't decide what's important in your career. That's your values.
+SENA: And second?
+DANIEL: Second, the hardest moment isn't the email. It's the moment when Mark is on the call, smiling, and asks, "Can you do one more thing?" And you feel the pull to say "sure" before you even think. That's a feeling. AI isn't on that call with you.
+SENA: So AI can help with the words, but not with the "sure."
+DANIEL: Exactly. The "sure" happens in half a second. Only you can catch it.
+SENA: Okay. Do you have a story?
+DANIEL: I have a story. In my first year as a manager, I wanted everyone to like me. So I said yes to everything. Three hiring panels. A new project. Mentoring two people from other teams. And of course, my own team.
+SENA: That sounds like me.
+DANIEL: For about two months, it worked. Then it didn't. I was late with interview feedback. My one-on-ones got shorter. And one day, someone on my team, a man named Luis, said, "Daniel, you always say yes to other teams. But you cancelled our last two one-on-ones."
+SENA: Oh. That must have hurt.
+DANIEL: It did. Because he was right. Every yes to someone else was a quiet no to someone on my team. I just didn't say that no out loud. I said it by being late and tired.
+SENA: So saying yes to everyone isn't actually being nice.
+DANIEL: Not when you can't keep the promises. Remember episode nine? Trust comes from keeping small promises. If you say yes to everything, you can't keep all of them. A clear no is more trustworthy than a yes you can't keep.
+SENA: That connects to Japan in an interesting way. In Japanese business, we often don't say "no" directly. We say things like "kentou shimasu." It means, "We'll consider it."
+DANIEL: And what does it really mean?
+SENA: Often, it means no. Everyone in the room understands. It's polite, and nobody loses face.
+DANIEL: That's fascinating. In the US, that would cause a lot of confusion. If you say, "We'll consider it," an American colleague will probably email you next week asking for your decision.
+SENA: Yes. That happened to me. I said, "Let me think about it," to someone in Seattle. I meant no. And he scheduled a meeting to discuss the details.
+DANIEL: In a low-context culture, like we talked about in episode seven, a soft no can sound like a maybe. So in global teams, it often helps to be a little clearer than feels natural.
+SENA: But I don't want to sound cold.
+DANIEL: You don't have to. Clear and kind can go together. Here's a simple shape. First, thanks for thinking of me. Then, a clear no, with a short reason. Then, what you can do instead. For example?
+SENA: Let me try. "Thank you for thinking of me, Ryo. I can't lead the study group every week right now, because the launch is taking most of my time. But I could lead the first session, and share my notes so someone else can continue."
+DANIEL: That's excellent. He hears the no. But he also hears that you care about the group. That's what keeps the bridge.
+SENA: So which EQ skill is this?
+DANIEL: Self-management, again. Saying no is mostly about managing two things. The urge to please, in that half second. And the guilt afterwards. Self-management means you notice the urge, you give yourself a pause, and you decide based on your priorities, not your discomfort.
+SENA: A pause. Like the thirty-second window.
+DANIEL: Exactly. And a pause can be a sentence. "Let me check my calendar and get back to you by three o'clock." That's not a no. It's not a yes. It's space to think.
+SENA: Okay. So what should I do about this week?
+DANIEL: What do you think?
+SENA: I think I talk to Mark today. Not on Friday. I'll tell him I can do the analysis, but not by Friday. Maybe next Wednesday. Or I can do a smaller version by Friday, just the top five products.
+DANIEL: That's a great offer. Two options, and he chooses. And Ryo?
+SENA: The message I just practiced. One session, and my notes.
+DANIEL: Perfect. And notice something. You're not saying no to Mark or Ryo as people. You're saying no to a timeline, and a format.
+SENA: So, this week's practice?
+DANIEL: This week, when someone asks you to take on something new, don't answer on the spot. Say, "Let me check and get back to you by," and give a specific time. Then ask yourself, "Would I say yes if this were tomorrow?" If the answer is no, decline in three parts. Thank them, give a clear no with a short reason, and offer one thing you can do instead.
+SENA: Pause, the tomorrow test, and a kind, clear no.
+DANIEL: And afterwards, write down what you expected the other person to feel, and what they actually seemed to feel.
+SENA: Like the research. Expected damage, and real damage.
+DANIEL: Exactly. I think you'll find the bridge is still standing.
+SENA: I hope so. Honestly, I'm a little nervous about Mark.
+DANIEL: That's normal. And remember, he replied to your mistake with one line. He might be easier than you think. Next time, we stay with self-management. Episode fourteen, "Switching Off After Work." Because working with Seattle from Tokyo, I have a feeling your evenings aren't really yours.
+SENA: You're right. I checked Slack at midnight last night.
+DANIEL: Then it's the right next episode. Thanks for listening to Human Curriculum. I'm Daniel.
+SENA: And I'm Sena. A clear no can be kind. See you next time.

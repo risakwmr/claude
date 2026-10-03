@@ -1,0 +1,78 @@
+DANIEL: Welcome back to Human Curriculum. I'm Daniel Reed, a People Manager in Seattle.
+SENA: And I'm Sena Sato, an Associate in Tokyo. Last time, we talked about saying no without burning bridges. Pause, the tomorrow test, and a kind, clear no.
+DANIEL: And today, we're talking about the hours after work. Switching off. But first, the practice. You were going to talk to Mark and Ryo.
+SENA: I did. I gave Mark two options. The full analysis next Wednesday, or a smaller version by Friday, just the top five products. He picked the smaller one. He said, "Honestly, the top five is all I need for this meeting."
+DANIEL: So the big version wasn't even necessary.
+SENA: Not for Friday. If I had stayed quiet, I would have worked all week on something he didn't need yet.
+DANIEL: And Ryo?
+SENA: I'm leading the first session of the study group, and I'll share my notes. And then something nice happened. Another person on the team said she wanted to lead the second one.
+DANIEL: So your no made space for someone else's yes. And what did you write down? Expected feeling, and actual feeling?
+SENA: I expected Ryo to be disappointed. He said, "That's actually perfect. I was worried about asking you for every week."
+DANIEL: The bridge is still standing.
+SENA: It is. So, this week's topic. You know I checked Slack at midnight.
+DANIEL: I remember. Tell me what a normal evening looks like for you.
+SENA: Tokyo is sixteen or seventeen hours ahead of Seattle, depending on the season. So when I finish work at seven in the evening, Seattle is still asleep. Their workday starts around one or two in the morning, my time. Kato-san is in Tokyo, but Mark and Hannah are in Seattle. So from about midnight, the messages start. Some people start early.
+DANIEL: And you read them.
+SENA: I read them in bed. Usually nothing urgent. But then I start thinking about them. Sometimes I reply. And then I can't sleep, because my head is back at work.
+DANIEL: How do you feel the next morning?
+SENA: Tired. And a little irritable. Last Thursday, I snapped at Ryo over something small. I apologized later. But I think I was just exhausted.
+DANIEL: That's a very honest story. And it's very common in global teams. Let me share some research.
+SENA: My notebook is open. Not my phone.
+DANIEL: Good start. The first piece is by Sabine Sonnentag and Charlotte Fritz. In 2007, they published a questionnaire to measure how people recover from work, in the Journal of Occupational Health Psychology. It's now one of the most widely used measures in this area.
+SENA: What does it measure?
+DANIEL: Four recovery experiences. The first is psychological detachment. That means mentally switching off. Not only being away from work, but not thinking about it.
+SENA: So reading Slack in bed fails that one.
+DANIEL: Completely. The second is relaxation. Low effort, calm activities. The third is mastery. Doing something challenging outside work, like learning a language or a new skill. And the fourth is control. Choosing for yourself how you spend your free time.
+SENA: Mastery is interesting. So doing something hard can also help you recover?
+DANIEL: Yes, if it's not work. Their idea is that what matters isn't the activity itself. It's the experience it gives you. A hard climbing class can be recovery for one person. Lying on the sofa can be recovery for another.
+SENA: Okay. And the second study?
+DANIEL: The second is a meta-analysis by Johannes Wendsche and Andrea Lohmann-Haislah, published in 2017 in Frontiers in Psychology. They combined ninety-one samples, with more than thirty-eight thousand employees in total. And they looked at what psychological detachment is connected to.
+SENA: What did they find?
+DANIEL: People who detached more from work in their free time reported less exhaustion, higher life satisfaction, better well-being, and better sleep. Those links were moderate in size. Not tiny.
+SENA: That's a lot of people.
+DANIEL: It is. One important caution. Most of these studies are correlational. They show that detachment and well-being go together. They can't fully prove which one causes which. Maybe people who are less exhausted find it easier to switch off. Probably it goes both ways.
+SENA: But it makes sense. When I don't switch off, I sleep badly, and the next day is harder.
+DANIEL: And the meta-analysis also found that higher job demands, like workload and time pressure, were linked to less detachment. Those links were smaller, but they were there. So the busier you are, the harder it is to switch off. Exactly when you need it most.
+SENA: That's a little unfair.
+DANIEL: It is. That's why it needs a plan, not just willpower.
+SENA: Okay. Our usual question. Why can't AI do this for me? Actually, AI could help a lot here. It could summarize my messages in the morning. Then I wouldn't need to read them at night.
+DANIEL: That's a great use of AI. Let it hold the messages until morning. But notice what it can't do. It can't decide where your boundary is. Only you know when you're tired, and what you need to recover. And it can't tell Mark and Hannah what your working hours are. That's a conversation between people.
+SENA: And it can't put my phone in another room.
+DANIEL: It definitely can't do that. The habit is yours. AI can make the boundary easier to keep. But you have to draw it.
+SENA: Okay. Do you have a story?
+DANIEL: I do. A few years ago, my son had a soccer game every Saturday. And I was always on my phone on the side of the field. Checking email. Just in case.
+SENA: Was anything urgent?
+DANIEL: Almost never. One Saturday, he scored his first goal. And I missed it. I was reading an email about a meeting schedule.
+SENA: Oh, Daniel.
+DANIEL: After the game, he asked, "Did you see it?" And I said, "Yes!" But I hadn't. I still remember that moment. Not because of the goal. Because of the lie.
+SENA: That's painful.
+DANIEL: It changed something for me. I made a rule. Saturdays, my phone stays in the car. And here's the funny part. Nothing broke. In two years, there was one real emergency, and someone called me. Everything else could wait until Monday.
+SENA: That's a lot like the research on saying no. We expect a bigger cost than there really is.
+DANIEL: Exactly. We overestimate how much others need us to be always on.
+SENA: This is a big topic in Japan. There's a word, "tsukiai zangyou." It means staying late at the office, not because you have work, but because your boss or your team is still there.
+DANIEL: Staying late to keep people company.
+SENA: Something like that. It's less common now, especially with remote work. But the feeling is still there. Leaving first can feel uncomfortable.
+DANIEL: In the US, the pressure is different. Fewer people stay at the office late. But many people never really leave, because work follows them home on their phones. Some countries have even made laws about it. France gave many workers a "right to disconnect" in 2017. Australia introduced one in 2024.
+SENA: So in Japan, the problem was staying at the office. And now, everywhere, the problem is that the office stays with us.
+DANIEL: That's a perfect way to say it.
+SENA: So which EQ skill is this?
+DANIEL: Self-management, one more time. Managing your energy, not only your time. Noticing when you're running low, like the morning you snapped at Ryo, and planning for recovery before you need it.
+SENA: So switching off is a skill. Not laziness.
+DANIEL: It's a skill. And it's part of how you become a good manager one day. Your team will copy your habits. If you send messages at midnight, they'll think they should answer at midnight.
+SENA: I never thought about that. Okay. So what should I do?
+DANIEL: What do you think?
+SENA: First, I'll tell Mark and Hannah my working hours. Something like, "I'm in Tokyo, so I usually reply to messages from Seattle the next morning, Japan time. If something is truly urgent, please call me."
+DANIEL: That's clear and kind. Low-context.
+SENA: Second, I'll stop reading Slack in bed. My phone charges in the kitchen.
+DANIEL: And third? What helps you recover? Relaxation, or mastery?
+SENA: Maybe both. I used to practice the piano. I stopped when I started this job. Maybe twenty minutes, two evenings a week.
+DANIEL: That sounds like mastery to me. And probably a little joy too.
+SENA: So, this week's practice?
+DANIEL: This week, create a small shutdown ritual at the end of your workday. Write down the top three things for tomorrow, so your brain can let go. Then say, "Done for today," even just to yourself. After that, no work messages until the next morning, for at least three evenings. And once this week, spend twenty minutes on something that isn't work and gives you either calm or a small challenge.
+SENA: Three things for tomorrow. "Done for today." No messages. And twenty minutes of piano.
+DANIEL: And notice how you sleep, and how you feel the next morning. Just notice.
+SENA: I'm a little worried that something urgent will happen.
+DANIEL: That's normal. That's why you tell people how to reach you if it's truly urgent. Then you can let the rest wait. Next time, we're moving to the last domain. Relationship management. Episode fifteen, "Giving Feedback That Helps." Because you're about to lead your first study group session.
+SENA: Oh no. I'll have to give feedback to new team members.
+DANIEL: You'll be great. Thanks for listening to Human Curriculum. I'm Daniel.
+SENA: And I'm Sena. The office stays with us, unless we close the door. See you next time.

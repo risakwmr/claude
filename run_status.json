@@ -68,7 +68,7 @@
     "result": "ok"
   },
   "channel": {
-    "at": "2026-10-04T15:19:32Z",
+    "at": "2026-10-04T15:22:00Z",
     "result": "Human Curriculum- Learn what AI can’t do (UCSaZaQp7Ao--E-UrkQ4RnXg)"
   },
   "captions:hj8EgYR2ORo": {
@@ -154,5 +154,17 @@
   "trailer": {
     "at": "2026-10-04T15:21:00Z",
     "result": "ERROR ResumableUploadError: <HttpError 400 when requesting None returned \"The user has exceeded the number of videos they may upload.\". Details: \"[{'message': 'The user has exceeded the number of videos they may upload.', 'domain': 'youtube.video', 'reason': 'uploadLimitExceeded'}]\">"
+  },
+  "channel-description": {
+    "at": "2026-10-04T15:22:01Z",
+    "result": "ok"
+  },
+  "channel-ja": {
+    "at": "2026-10-04T15:22:02Z",
+    "result": "ok"
+  },
+  "podcast": {
+    "at": "2026-10-04T15:22:06Z",
+    "result": "ok"
   }
 }

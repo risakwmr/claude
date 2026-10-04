@@ -54,9 +54,16 @@ Add repository variables `SENA_VOICE` / `DANIEL_VOICE` with any Microsoft Edge n
 
 ## Shorts
 
-Every episode also becomes a vertical YouTube Short (1080×1920, under a minute): a big hook line at the top, the center board, Sena and Daniel, and large captions, ending on a "Full episode on the channel" card.
+Every episode also becomes up to four vertical YouTube Shorts (1080×1920): a big hook line at the top, the center board, Sena and Daniel, and large captions, ending on a "Full episode on the channel" card.
 
-- What goes in: `episodes/epNN.short.json` (line range, hook, title, optional board; the format is at the top of `src/make_short.py`). Without that file, the Short is cut automatically from the episode's "Why can't AI do this?" part, so new episodes get a Short with no extra work.
-- When: the same twice-daily runs queue one Short at a time. Shorts go public in episode order at **08:00 and 18:00 JST** (US evening / India and Southeast Asia afternoon), and only for episodes that are already public, so the link works. Change the times with the repository variable `SHORT_SLOTS_JST` (e.g. `8` for one a day), or stop automatic Shorts with `AUTO_SHORTS` = `false`.
+| Kind | What it is |
+| --- | --- |
+| `ai` | "Why can't AI do this?" (every episode) |
+| `story` | Daniel's failure story |
+| `culture` | Japan vs the US |
+| `lab` | Speaking Lab: the phrases, with a silent "your turn" countdown (episode 12 on) |
+
+- What goes in: `episodes/epNN.short.json` (per kind: line range, hook, title, optional board; the format is at the top of `src/make_short.py`). A kind missing from that file is cut automatically when the episode has that part, so new episodes get their Shorts with no extra work.
+- When: the twice-daily runs queue one Short per slot. Shorts go public at **08:00, 18:00 and 22:00 JST** (US evening / India and Southeast Asia afternoon / US morning and Europe afternoon). The order mixes kinds and episodes, and a Short only goes up once its episode is public, so the link works. Change the times with the repository variable `SHORT_SLOTS_JST` (e.g. `8,18`), or stop automatic Shorts with `AUTO_SHORTS` = `false`.
 - The description starts with the full-episode link, and once a Short is public a comment with the same link is added (you can pin it in YouTube Studio). `shorts.json` keeps track of uploaded Shorts.
-- By hand: **Run workflow** → `action`: `short_make` (build only, download it from **Artifacts**) or `short` (build and upload); `episode`: a number like `14`, or `next`.
+- By hand: **Run workflow** → `action`: `short_make` (build only, download from **Artifacts**) or `short` (build and upload); `episode`: a number like `14`, or `next`; `short_kind`: one kind or `all`.

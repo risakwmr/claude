@@ -7,12 +7,17 @@ on:
         description: "Episode number(s), e.g. 1 or 1,2. Use next for the next unpublished ones."
         default: "next"
       action:
-        description: "make = build only; upload = build and upload; reschedule = give uploaded private episodes publish times (in the order listed); publish = make uploaded episodes public now; captions = add Japanese captions to uploaded episodes; organize = update titles and descriptions and add to the playlist in order; thumbnail = replace thumbnails of uploaded episodes; short_make = build the vertical Short only; short = build and upload the Short (episode: number(s), or next)"
+        description: "make = build only; upload = build and upload; reschedule = give uploaded private episodes publish times (in the order listed); publish = make uploaded episodes public now; captions = add Japanese captions to uploaded episodes; organize = update titles and descriptions and add to the playlist in order; thumbnail = replace thumbnails of uploaded episodes; short_make = build the vertical Shorts only; short = build and upload Shorts (episode: number(s), or next; see short_kind)"
         type: choice
         options: [make, upload, reschedule, publish, captions, organize, thumbnail, short_make, short]
         default: make
+      short_kind:
+        description: "For short / short_make: which Short (ai = Why can't AI do this?, story = Daniel's story, culture = Japan vs the US, lab = Speaking Lab), or all"
+        type: choice
+        options: [all, ai, story, culture, lab]
+        default: all
       visibility:
-        description: "For upload / short: schedule (next free slot: episodes 00:00 / 12:00 JST, Shorts 08:00 / 18:00 JST), public, or private"
+        description: "For upload / short: schedule (next free slot: episodes 00:00 / 12:00 JST, Shorts 08:00 / 18:00 / 22:00 JST), public, or private"
         type: choice
         options: [schedule, public, private]
         default: schedule
@@ -21,7 +26,7 @@ on:
     # Episodes go public one at a time, in order, at 00:00 / 12:00 JST (see src/slot.py).
     # A run uploads the next episode only when its slot is the coming one, otherwise it waits.
     # Runs only when the repository variable AUTO_UPLOAD is "true".
-    # The same runs also queue one Short at a time (08:00 / 18:00 JST, see src/shorts.py);
+    # The same runs also queue Shorts, one per slot (08:00 / 18:00 / 22:00 JST, see src/shorts.py);
     # set the repository variable AUTO_SHORTS to "false" to stop that.
     - cron: "0 0,12 * * *"
 
@@ -166,7 +171,7 @@ jobs:
 
       # ---------- Shorts ----------
 
-      - name: Choose Short
+      - name: Choose Shorts
         id: short
         if: >-
           !cancelled() &&
@@ -176,67 +181,55 @@ jobs:
           EVENT: ${{ github.event_name }}
           EPISODE: ${{ inputs.episode }}
           ACTION: ${{ inputs.action }}
+          KIND: ${{ inputs.short_kind }}
           VISIBILITY: ${{ inputs.visibility }}
           SHORT_SLOTS_JST: ${{ vars.SHORT_SLOTS_JST }}
         run: |
           python src/upload.py short-comments || echo "link comments skipped"
+          mkdir -p output
           if [ "$EVENT" = "schedule" ]; then
-            when=$(python src/shorts.py slot)
-            echo "Short slot: $when" | tee -a "$GITHUB_STEP_SUMMARY"
-            if [ "$when" = "wait" ]; then list=""; else list=$(python src/shorts.py pick next "$when"); fi
-            [ -z "$list" ] && [ "$when" != "wait" ] && echo "No episode is public yet for the next Short" | tee -a "$GITHUB_STEP_SUMMARY"
+            python src/shorts.py plan > output/short_plan.txt
             action=short
           else
-            when=""
-            if [ "$ACTION" = "short" ]; then
-              case "$VISIBILITY" in
-                schedule) when=$(python src/shorts.py slot --force) ;;
-                public) when=now ;;
-              esac
-            fi
-            list=$(python src/shorts.py pick "$EPISODE" "${when:-now}")
+            vis=$VISIBILITY
+            [ "$ACTION" = "short_make" ] && vis=private
+            python src/shorts.py manual "$EPISODE" "${KIND:-all}" "$vis" > output/short_plan.txt
             action=$ACTION
           fi
-          echo "list=$list" >> "$GITHUB_OUTPUT"
+          echo "Shorts (episode, kind, publish time UTC):" >> "$GITHUB_STEP_SUMMARY"
+          cat output/short_plan.txt | tee -a "$GITHUB_STEP_SUMMARY"
+          [ -s output/short_plan.txt ] && echo "ready=true" >> "$GITHUB_OUTPUT"
           echo "action=$action" >> "$GITHUB_OUTPUT"
-          echo "publish_at=$when" >> "$GITHUB_OUTPUT"
 
       - name: Make Shorts
-        if: "!cancelled() && steps.short.outputs.list != ''"
+        if: "!cancelled() && steps.short.outputs.ready == 'true'"
         env:
           SENA_VOICE: ${{ vars.SENA_VOICE }}
           DANIEL_VOICE: ${{ vars.DANIEL_VOICE }}
         run: |
-          for n in ${{ steps.short.outputs.list }}; do
-            python src/make_short.py "$n"
-          done
+          while read -r n kind when; do
+            python src/make_short.py "$n" --kind "$kind" < /dev/null || echo "::warning::Short EP $n $kind could not be made"
+          done < output/short_plan.txt
 
       - name: Save Shorts for download
-        if: "!cancelled() && steps.short.outputs.list != ''"
+        if: "!cancelled() && steps.short.outputs.ready == 'true'"
         uses: actions/upload-artifact@v4
         with:
           name: shorts-${{ github.run_number }}
-          path: output/*/*_short.mp4
+          path: output/*/*_short_*.mp4
           retention-days: 30
 
       - name: Upload Shorts to YouTube
-        if: "!cancelled() && steps.short.outputs.list != '' && steps.short.outputs.action == 'short'"
-        env:
-          PUBLISH_AT: ${{ steps.short.outputs.publish_at }}
-          EVENT: ${{ github.event_name }}
-          VISIBILITY: ${{ inputs.visibility }}
-          SHORT_SLOTS_JST: ${{ vars.SHORT_SLOTS_JST }}
+        if: "!cancelled() && steps.short.outputs.ready == 'true' && steps.short.outputs.action == 'short'"
         run: |
-          first=1
-          for n in ${{ steps.short.outputs.list }}; do
-            if [ "$EVENT" != "schedule" ] && [ "$VISIBILITY" = "schedule" ] && [ "$first" = 0 ]; then
-              PUBLISH_AT=$(python src/shorts.py slot --force)
+          while read -r n kind when; do
+            if [ ! -f "output/ep$(printf %02d "$n")/ep$(printf %02d "$n")_short_$kind.json" ]; then
+              echo "Short EP $n $kind was not made, skipped" | tee -a "$GITHUB_STEP_SUMMARY"
+              continue
             fi
-            first=0
-            export PUBLISH_AT
-            vid=$(python src/upload.py short "$n" | tail -n 1)
-            echo "Short for EP $n -> https://youtube.com/shorts/$vid (publish: ${PUBLISH_AT:-private})" | tee -a "$GITHUB_STEP_SUMMARY"
-          done
+            vid=$(PUBLISH_AT="$when" python src/upload.py short "$n" "$kind" < /dev/null | tail -n 1)
+            echo "Short EP $n $kind -> https://youtube.com/shorts/$vid (publish: ${when:-private})" | tee -a "$GITHUB_STEP_SUMMARY"
+          done < output/short_plan.txt
 
       - name: Save published.json
         if: always()

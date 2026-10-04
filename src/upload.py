@@ -199,25 +199,79 @@ def localizations(meta, ep, num, chapters=None):
     title = f"{ep['title_ja']} | {meta['show']} EP{num:02d}"
     if len(title) > 100:
         title = f"{ep['title_ja'][:90]} | EP{num:02d}"
-    lines = [
-        ep.get("summary_ja", ""),
-        "",
-        *([chapters.strip(), ""] if chapters else []),
-        f"今日のチャレンジ：{ep.get('practice_ja', '')}",
-        "",
-        "この回で紹介した研究：",
+    # The first two lines are all most viewers see before "more": a relatable question, then the promise.
+    hook = ep.get("hook_ja") or ep.get("summary_ja", "")
+    points = ep.get("points_ja") or []
+    phrases = speaking_phrases(ep)
+    nxt = next_title_ja(meta, num)
+    pid = json.load(open(PLAYLIST_FILE))["id"] if os.path.exists(PLAYLIST_FILE) else None
+    lines = [hook, ""]
+    if points:
+        lines += ["📌 この回でわかること", *[f"・{p}" for p in points], ""]
+    if phrases:
+        lines += ["🗣 今日の英語フレーズ（声に出してみよう）"]
+        for en, ja in phrases:
+            lines += [en, f"→ {ja}" if ja else ""]
+        lines += [""]
+    lines += ["✅ 今日のチャレンジ", ep.get("practice_ja", ""), ""]
+    if chapters:
+        lines += ["⏱ 目次", chapters.strip(), ""]
+    if nxt:
+        lines += [f"▶ 次回 EP{num + 1:02d}「{nxt}」"]
+    if pid:
+        lines += [f"📚 全話を順番に聴く → https://www.youtube.com/playlist?list={pid}"]
+    if nxt or pid:
+        lines += [""]
+    lines += [
+        "📖 紹介した研究",
         *[f"- {x}" for x in ep["sources"]],
         "",
-        f"{meta['show']} は、AIにはできない人間の力とEQを、英語で学ぶオーディオブックです。"
-        "東京のアソシエイト・セナが、シアトルのピープルマネージャー・ダニエルから学びます。"
-        "字幕（CC）で日本語訳を表示できます。英語のリスニングとスピーキングの練習にもどうぞ。",
-        "",
-        "セナとダニエルは架空の人物で、声はAIで作っています。",
+        "――",
+        f"{meta['show']}｜AIにできない人間の力（EQ）を、英語で。",
+        "東京で働くセナが、シアトルのメンター・ダニエルと一緒に、毎日少しずつ成長していく英語オーディオブックです。"
+        "字幕（CC）で日本語訳を表示できます。",
+        "※セナとダニエルは架空の人物で、声はAIです。",
         "イラスト：Fluent Emoji by Microsoft（MIT License）",
         "",
-        "#英語学習 #英語リスニング #EQ #キャリア #HumanCurriculum",
+        "#英語学習 #EQ #キャリア",
     ]
     return {"ja": {"title": title, "description": "\n".join(lines)[:4900]}}
+
+
+def speaking_phrases(ep):
+    """Speaking Lab repeat sentences (a DANIEL line that is only a quote, then SENA saying it) with their Japanese."""
+    import re
+    if ep.get("phrases"):  # chosen by hand (episodes before the Speaking Lab)
+        return [tuple(p) for p in ep["phrases"]][:3]
+    path = os.path.join(ROOT, "episodes", ep["script"])
+    ja_path = path[:-4] + ".ja.txt"
+    if not os.path.exists(path):
+        return []
+    split = lambda f: [l.split(": ", 1) for l in open(f, encoding="utf-8").read().splitlines() if ": " in l]
+    en = split(path)
+    ja = split(ja_path) if os.path.exists(ja_path) else []
+    norm = lambda s: re.sub(r"[^a-z0-9 ]", "", s.lower()).split()
+    out = []
+    for i, (spk, text) in enumerate(en[:-1]):
+        t = text.strip()
+        if spk == "DANIEL" and len(t) > 2 and t[0] in "\"“" and t[-1] in "\"”" \
+                and en[i + 1][0] == "SENA" and norm(en[i + 1][1]) == norm(t[1:-1]):
+            j = ja[i][1].strip().strip("「」『』\"") if len(ja) == len(en) else ""
+            out.append((t[1:-1].strip(), j))
+    return out[:3]
+
+
+def next_title_ja(meta, num):
+    nxt = next((e for e in meta["episodes"] if e["number"] == num + 1), None)
+    if nxt:
+        return nxt.get("title_ja") or nxt["title"]
+    import re
+    plan = os.path.join(ROOT, "episodes", "plan.md")
+    for line in open(plan, encoding="utf-8") if os.path.exists(plan) else []:
+        m = re.match(rf"^{num + 1} (.+?) \|", line)
+        if m:
+            return m.group(1).strip()
+    return None
 
 
 def existing_chapters(text):

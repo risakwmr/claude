@@ -1,5 +1,5 @@
 {
-  "at": "2026-10-04T11:23:25Z",
+  "at": "2026-10-04T14:34:09Z",
   "previous_report_at": null,
   "channel": {
     "title": "Human Curriculum- Learn what AI can’t do",
@@ -20,6 +20,19 @@
       "published": "2026-10-02T04:33:31Z",
       "duration": "PT12M44S",
       "views": 5,
+      "likes": 0,
+      "comments": 0
+    },
+    {
+      "kind": "short",
+      "key": "2-story",
+      "video_id": "OZoq4IaDgOg",
+      "title": "The reply I still regret as a manager #shorts",
+      "episode_title": "Interoceptive Awareness: The 30-Second Window",
+      "public": true,
+      "published": "2026-10-04T10:55:43Z",
+      "duration": "PT1M5S",
+      "views": 4,
       "likes": 0,
       "comments": 0
     },
@@ -45,6 +58,19 @@
       "public": true,
       "published": "2026-10-04T03:00:17Z",
       "duration": "PT14M13S",
+      "views": 3,
+      "likes": 0,
+      "comments": 0
+    },
+    {
+      "kind": "short",
+      "key": "2-ai",
+      "video_id": "BRSoSEG4fhc",
+      "title": "Your smartwatch can't tell you this #shorts",
+      "episode_title": "Interoceptive Awareness: The 30-Second Window",
+      "public": true,
+      "published": "2026-10-04T10:55:43Z",
+      "duration": "PT28S",
       "views": 3,
       "likes": 0,
       "comments": 0
@@ -84,32 +110,6 @@
       "public": true,
       "published": "2026-10-04T03:09:46Z",
       "duration": "PT14M",
-      "views": 1,
-      "likes": 0,
-      "comments": 0
-    },
-    {
-      "kind": "short",
-      "key": "2-ai",
-      "video_id": "BRSoSEG4fhc",
-      "title": "Your smartwatch can't tell you this #shorts",
-      "episode_title": "Interoceptive Awareness: The 30-Second Window",
-      "public": true,
-      "published": "2026-10-04T10:55:43Z",
-      "duration": "PT28S",
-      "views": 1,
-      "likes": 0,
-      "comments": 0
-    },
-    {
-      "kind": "short",
-      "key": "2-story",
-      "video_id": "OZoq4IaDgOg",
-      "title": "The reply I still regret as a manager #shorts",
-      "episode_title": "Interoceptive Awareness: The 30-Second Window",
-      "public": true,
-      "published": "2026-10-04T10:55:43Z",
-      "duration": "PT1M5S",
       "views": 1,
       "likes": 0,
       "comments": 0

@@ -71,7 +71,7 @@ Every episode also becomes up to four vertical YouTube Shorts (1080×1920): a bi
 | `ai` | "Why can't AI do this?" (every episode) |
 | `story` | Daniel's failure story |
 | `culture` | Japan vs the US |
-| `scene` | A funny or relatable moment the script writer marks in `epNN.short.json` (episode 16 on) |
+| `highlight` | The most striking moment of the episode (a surprising number, a line that hits), marked in `epNN.short.json` |
 | `lab` | Speaking Lab: the phrases, with a silent "your turn" countdown (episode 12 on) |
 
 - What goes in: `episodes/epNN.short.json` (per kind: line range, hook, title, optional board; the format is at the top of `src/make_short.py`). A kind missing from that file is cut automatically when the episode has that part, so new episodes get their Shorts with no extra work.

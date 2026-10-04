@@ -11,7 +11,7 @@ Kinds of Short (one episode gives up to four):
   ai       "Why can't AI do this?"  (every episode)
   story    Daniel's failure story
   culture  Japan vs the US
-  scene    a funny or relatable moment the writer marked in epNN.short.json (episode 16 on; no automatic cut)
+  highlight the most striking moment of the episode, marked by the writer in epNN.short.json (no automatic cut)
   lab      Speaking Lab: say the phrases out loud, with a short silent "your turn" countdown (episode 12 on)
 
 What goes into each Short comes from episodes/epNN.short.json (epNNN for 100+):
@@ -56,10 +56,10 @@ RATE = "+0%"          # natural native speed
 GAP = 0.22
 LEAD, TAIL = 0.35, 1.4
 
-KINDS = ["ai", "scene", "story", "culture", "lab"]
-TAGS = {"ai": "WHY CAN'T AI DO THIS?", "scene": "HUMAN CURRICULUM", "story": "DANIEL'S STORY", "culture": "JAPAN VS THE US",
+KINDS = ["ai", "highlight", "story", "culture", "lab"]
+TAGS = {"ai": "WHY CAN'T AI DO THIS?", "highlight": "HUMAN CURRICULUM", "story": "DANIEL'S STORY", "culture": "JAPAN VS THE US",
         "lab": "SPEAKING LAB · SAY IT OUT LOUD"}
-MAX_SECONDS = {"ai": 58.0, "scene": 50.0, "story": 115.0, "culture": 95.0, "lab": 70.0}
+MAX_SECONDS = {"ai": 58.0, "highlight": 50.0, "story": 115.0, "culture": 95.0, "lab": 70.0}
 TARGET_WORDS = {"ai": 140, "story": 230, "culture": 190}   # rough size of an automatic clip before voicing
 
 HOOK_TOP, HOOK_SPACE = 280, 330     # hook text block (centered vertically in this space)
@@ -125,7 +125,7 @@ def auto_range(lines, kind="ai"):
         if start is None:
             return None
         return start, grow(lines, start, TARGET_WORDS["culture"])
-    if kind == "scene":  # a funny or relatable moment chosen by the script writer in epNN.short.json
+    if kind == "highlight":  # the most striking moment, chosen by the script writer in epNN.short.json
         return None
     if kind == "lab":
         states, repeats = scenes.line_states(0, lines)
@@ -181,7 +181,7 @@ def specs(num, ep, lines):
         topic = ep["short_title"]
         defaults = {
             "ai": f"Why can't AI do this? {topic}",
-            "scene": topic,
+            "highlight": topic,
             "story": f"A manager's mistake: {topic}",
             "culture": f"Japan vs the US: {topic}",
             "lab": f"Say it out loud: 3 English phrases for {lab_topic(lines, start) or topic.lower()}",

@@ -1,0 +1,15 @@
+{
+  "lines": [
+    38,
+    40
+  ],
+  "hook": "AI can summarize your week. It can't choose what matters.",
+  "title": "Why AI can't make your work visible",
+  "tag": "WHY CAN'T AI DO THIS?",
+  "board": {
+    "type": "keyword",
+    "text": "Choosing what matters",
+    "sub": "a judgment about your goals and your reader",
+    "icon": "Flashlight"
+  }
+}

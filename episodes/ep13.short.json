@@ -1,0 +1,15 @@
+{
+  "lines": [
+    46,
+    50
+  ],
+  "hook": "AI writes better thank-you notes than me. So why don't they land?",
+  "title": "Why AI-written praise falls flat",
+  "tag": "WHY CAN'T AI DO THIS?",
+  "board": {
+    "type": "keyword",
+    "text": "The hardest part is the noticing",
+    "sub": "details prove a real person saw you",
+    "icon": "Eyes"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "lines": [
+    44,
+    46
+  ],
+  "hook": "Your smartwatch knows your heart rate. Not why.",
+  "title": "Your smartwatch can't tell you this",
+  "tag": "WHY CAN'T AI DO THIS?",
+  "board": {
+    "type": "keyword",
+    "text": "Data ≠ meaning",
+    "sub": "only you can connect the signal",
+    "icon": "Watch"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "lines": [
+    36,
+    38
+  ],
+  "hook": "AI can write your 1:1 agenda in 5 seconds. So what?",
+  "title": "The agenda is easy. The trust is the hard part.",
+  "tag": "WHY CAN'T AI DO THIS?",
+  "board": {
+    "type": "keyword",
+    "text": "The agenda is easy",
+    "sub": "the trust is the hard part",
+    "icon": "Handshake"
+  }
+}

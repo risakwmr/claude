@@ -60,3 +60,12 @@ Japan/US comparisons, lists and today's challenge, free illustrations (Fluent Em
 names in `assets/icons/INDEX.txt`, downloaded by `src/fetch_icons.py`), section names that also become YouTube
 chapters, and a short silent "your turn" countdown after each Speaking Lab repeat. The cue format is described at the
 top of `src/scenes.py`.
+
+## Shorts
+
+Every episode also becomes a vertical YouTube Short (1080×1920, under a minute): a big hook line at the top, the center board, Sena and Daniel, and large captions, ending on a "Full episode on the channel" card.
+
+- What goes in: `episodes/epNN.short.json` (line range, hook, title, optional board; the format is at the top of `src/make_short.py`). Without that file, the Short is cut automatically from the episode's "Why can't AI do this?" part, so new episodes get a Short with no extra work.
+- When: the same twice-daily runs queue one Short at a time. Shorts go public in episode order at **08:00 and 18:00 JST** (US evening / India and Southeast Asia afternoon), and only for episodes that are already public, so the link works. Change the times with the repository variable `SHORT_SLOTS_JST` (e.g. `8` for one a day), or stop automatic Shorts with `AUTO_SHORTS` = `false`.
+- The description starts with the full-episode link, and once a Short is public a comment with the same link is added (you can pin it in YouTube Studio). `shorts.json` keeps track of uploaded Shorts.
+- By hand: **Run workflow** → `action`: `short_make` (build only, download it from **Artifacts**) or `short` (build and upload); `episode`: a number like `14`, or `next`.

@@ -1,0 +1,15 @@
+{
+  "lines": [
+    42,
+    44
+  ],
+  "hook": "AI can write a beautiful request. So why does no one say yes?",
+  "title": "Influence without authority: what AI can't do",
+  "tag": "WHY CAN'T AI DO THIS?",
+  "board": {
+    "type": "keyword",
+    "text": "People don't share real problems with a form",
+    "sub": "sit with a real person and listen",
+    "icon": "Speech balloon"
+  }
+}

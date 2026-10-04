@@ -1,0 +1,15 @@
+{
+  "lines": [
+    56,
+    59
+  ],
+  "hook": "AI wasn't in your meeting.",
+  "title": "Why AI can't give you real feedback",
+  "tag": "WHY CAN'T AI DO THIS?",
+  "board": {
+    "type": "keyword",
+    "text": "The data lives in other people",
+    "sub": "ask them, and receive it well",
+    "icon": "Busts in silhouette"
+  }
+}

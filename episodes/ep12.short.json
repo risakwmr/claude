@@ -1,0 +1,15 @@
+{
+  "lines": [
+    48,
+    52
+  ],
+  "hook": "AI can describe a manager's job. It can't do this.",
+  "title": "AI can describe the job. It can't do the change.",
+  "tag": "WHY CAN'T AI DO THIS?",
+  "board": {
+    "type": "keyword",
+    "text": "It's an identity change",
+    "sub": "not a list to learn",
+    "icon": "Butterfly"
+  }
+}

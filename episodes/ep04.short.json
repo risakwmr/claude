@@ -1,0 +1,15 @@
+{
+  "lines": [
+    50,
+    54
+  ],
+  "hook": "AI can offer the menu. It can't taste the food.",
+  "title": "AI can offer the menu. It can't taste the food.",
+  "tag": "WHY CAN'T AI DO THIS?",
+  "board": {
+    "type": "keyword",
+    "text": "Only you can feel if a word fits",
+    "sub": "the effort is the point",
+    "icon": "Fork and knife with plate"
+  }
+}

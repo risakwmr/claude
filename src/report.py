@@ -153,5 +153,18 @@ def main():
     print(f"\nSaved {os.path.relpath(path, ROOT)}")
 
 
+def note_error(e):
+    """Run logs can't be read from outside, so the error goes to run_status.json (saved by the workflow)."""
+    path = os.path.join(ROOT, "run_status.json")
+    data = load(path)
+    data["report"] = {"at": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
+                      "result": f"ERROR {type(e).__name__}: {str(e)[:400]}"}
+    json.dump(data, open(path, "w"), indent=2, ensure_ascii=False)
+
+
 if __name__ == "__main__":
-    main()
+    try:
+        main()
+    except Exception as e:
+        note_error(e)
+        raise

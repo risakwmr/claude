@@ -19,6 +19,18 @@ Each episode's teaser points to the next line in this file. The last episode of 
 - Time passes naturally (seasons change, holidays come). New side characters get new names; never reuse earlier side characters' names for new people.
 Daniel stays a senior People Manager in Seattle (team of 8) and Sena's mentor. Daniel's failure stories must not repeat earlier ones.
 
+## Characters (fixed settings; use details lightly and keep them consistent)
+Character map image: `episodes/character_map.png`.
+- Sena Sato: Associate (IC), Tokyo. Data analysis; built the monthly report pipeline (2 days by hand → about 1 hour), now launching the regional dashboard. Careful, reads the room, always takes notes; strong analysis, emails sometimes too polite. Denies praise ("no, no"). Speaking weaker than listening. Goal: Program Manager in Seattle, then people manager. Hobby: city walks and photography (gets off at unfamiliar stations, shoots alleys and signs). Quirk: has used the same notebook model for 20 notebooks.
+- Daniel Reed: Senior People Manager, Seattle, team of 8. Sena's mentor. Warm, direct, loves research, tells his own failures honestly. Promoted from inside his own team. Grew up in the US, married. Hobby: weekend hiking; walks with his golden retriever Maple (navy bandana). Quirk: navy mug was a gift from an old team; bad cook, hooked on Japanese curry roux.
+- Kato-san: Sena's manager (40s). Former analyst; calendar packed with budget, hiring, Seattle calls, escalations. Never asks for help; sometimes nods plans through; knows he struggles to name people's work specifically. Hobby: running around the Imperial Palace (track team in college). Quirk: canned-coffee person; helps his elementary-school daughter with homework.
+- Ryo: teammate (late 20s). Presents the monthly report; kind and meticulous; wrote the automatic data-check script; lately overworking and tired. Hobby: board games, building small handy tools. Quirk: morning person; very careful commit messages.
+- Kenta: teammate who reviews Sena's analysis (early 30s). Quiet and detailed; notices problems first but often starts to speak and stops. Hobby: shogi (one online game at lunch).
+- Mark: product manager, Seattle. Requests Sena's reports; urgent asks arrive in Sena's evening because of the time difference. Hobby: home coffee roasting, watching soccer on weekends. Quirk: replies on Slack instantly, lots of emoji.
+- Laura: director, Seattle, over several teams including Sena's; Kato-san's boss. Will matter later for Sena's career (sponsor arc). Hobby: gardening, classical music (played cello when young). Quirk: always ends meetings with "What did we decide?"
+- Hannah: data platform team lead, Seattle. Sena asks her team for data changes. Hobby: rock climbing. Quirk: always busy, but can't resist a well-made request.
+- Daniel's past (stories already told; don't reuse the names for new people): Priya (ep6), Yuki (ep7), Elena (ep9), Tom (ep10), Mei (ep11), Owen (ep12), Rafael (ep13), Grace (ep14), Theo (ep15).
+
 ## Season 1 — Foundations (1–15)
 1 Meet Sena and Daniel: What AI Can't Do for You | All four | (published)
 2 Interoceptive Awareness: The 30-Second Window | Self-awareness | (published)

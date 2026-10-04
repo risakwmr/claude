@@ -408,6 +408,50 @@ def comment_links():
     shorts.save_shorts(data)
 
 
+def short_stats():
+    """Views, likes and comments of every uploaded Short, saved to shorts_stats.json and summed up by kind.
+
+    Retention ("viewed vs swiped away", average % viewed) is only in YouTube Studio's analytics."""
+    import shorts
+    data = shorts.load_shorts()
+    if not data:
+        print("  no Shorts yet", flush=True)
+        return
+    meta = json.load(open(os.path.join(ROOT, "episodes", "episodes.json"), encoding="utf-8"))
+    yt = youtube()
+    ids = {v["video_id"]: k for k, v in data.items()}
+    rows = {}
+    keys = list(ids)
+    for i in range(0, len(keys), 50):
+        r = yt.videos().list(part="statistics,snippet,status", id=",".join(keys[i:i + 50])).execute()
+        for item in r.get("items", []):
+            k = ids[item["id"]]
+            st = item.get("statistics", {})
+            rows[k] = {"video_id": item["id"], "title": item["snippet"]["title"],
+                       "public": item["status"].get("privacyStatus") == "public",
+                       "publish_at": data[k].get("publish_at"),
+                       "views": int(st.get("viewCount", 0)), "likes": int(st.get("likeCount", 0)),
+                       "comments": int(st.get("commentCount", 0))}
+    now = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+    json.dump({"at": now, "shorts": rows}, open(os.path.join(ROOT, "shorts_stats.json"), "w"), indent=2,
+              ensure_ascii=False)
+    by_kind = {}
+    for k, row in rows.items():
+        if row["public"]:
+            kind = k.split("-", 1)[1]
+            b = by_kind.setdefault(kind, [0, 0, 0])
+            b[0] += 1
+            b[1] += row["views"]
+            b[2] += row["likes"]
+    print(f"Shorts stats at {now}", flush=True)
+    print("| Kind | Shorts | Views | Views per Short | Likes |\n| --- | --- | --- | --- | --- |")
+    for kind, (n, v, l) in sorted(by_kind.items(), key=lambda kv: -kv[1][1] / kv[1][0]):
+        print(f"| {kind} | {n} | {v} | {v / n:.1f} | {l} |")
+    print("\n| Short | Views | Likes | Title |\n| --- | --- | --- | --- |")
+    for k, row in sorted(rows.items(), key=lambda kv: -kv[1]["views"]):
+        print(f"| {k} | {row['views']} | {row['likes']} | {row['title']} |")
+
+
 STATUS_FILE = os.path.join(ROOT, "run_status.json")
 
 
@@ -529,6 +573,9 @@ if __name__ == "__main__":
         sys.exit(0)
     if sys.argv[1] == "publish":
         publish_now([int(n) for n in sys.argv[2:]])
+        sys.exit(0)
+    if sys.argv[1] == "short-stats":
+        short_stats()
         sys.exit(0)
     if sys.argv[1] == "short-comments":
         comment_links()

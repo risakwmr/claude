@@ -53,13 +53,13 @@ ROOT = me.ROOT
 W, H = 1080, 1920
 FPS = 12
 RATE = "+0%"          # natural native speed
-GAP = 0.22
-LEAD, TAIL = 0.35, 1.4
+GAP = 0.1   # native back-and-forth: almost no pause between turns
+LEAD, TAIL = 0.2, 0.5   # short tail and no end card, so the Short loops straight back to the hook
 
 KINDS = ["ai", "highlight", "story", "culture", "lab"]
 TAGS = {"ai": "WHY CAN'T AI DO THIS?", "highlight": "HUMAN CURRICULUM", "story": "DANIEL'S STORY", "culture": "JAPAN VS THE US",
         "lab": "SPEAKING LAB · SAY IT OUT LOUD"}
-MAX_SECONDS = {"ai": 58.0, "highlight": 50.0, "story": 115.0, "culture": 95.0, "lab": 70.0}
+MAX_SECONDS = {"ai": 45.0, "highlight": 40.0, "story": 58.0, "culture": 50.0, "lab": 58.0}  # popular Shorts run ~30-45 s
 TARGET_WORDS = {"ai": 140, "story": 230, "culture": 190}   # rough size of an automatic clip before voicing
 
 HOOK_TOP, HOOK_SPACE = 280, 330     # hook text block (centered vertically in this space)
@@ -307,7 +307,7 @@ def draw(num, spec, ep_title, speaker, level, subtitle, sena, daniel, board_key,
     d.rounded_rectangle((bx0 + 36, by0 - 26, bx0 + 216, by0 + 22), radius=8, fill=p["accent"])
     d.text((bx0 + 126, by0 - 2), p["first"], font=r.serif(32, "SemiBold", italic=True), fill=(255, 255, 255), anchor="mm")
     if subtitle:
-        f, lines, size = r._fit_font(d, subtitle, lambda s: r.sans(s, "ExtraBold"), bx1 - bx0 - 70, 3, 64, 42)
+        f, lines, size = r._fit_font(d, subtitle, lambda s: r.sans(s, "ExtraBold"), bx1 - bx0 - 70, 2, 84, 52)
         cy = (by0 + by1) / 2 + 6
         step = int(size * 1.22)
         for i, line in enumerate(lines):
@@ -364,7 +364,7 @@ def build(num, kind="ai", fake=False, out_dir=None, frame=None):
     if frame is not None:
         i = max(0, min(frame - 1, len(clip) - 1))
         st = states[i]
-        sub = me.chunk_text(scenes._strip_quotes(clip[i][1]) or clip[i][1], max_words=7, max_chars=42)[0]
+        sub = me.chunk_text(scenes._strip_quotes(clip[i][1]) or clip[i][1], max_words=4, max_chars=26)[0]
         path = os.path.join(out_dir, f"{stem}_frame{i + 1}.png")
         draw(num, spec, ep["title"], clip[i][0], 2, sub, st["sena"], st["daniel"],
              json.dumps(st["board"], sort_keys=True)).save(path)
@@ -405,7 +405,7 @@ def build(num, kind="ai", fake=False, out_dir=None, frame=None):
         dur = len(a) / me.SR
         segments.append((t, t + dur, spk))
         shown = scenes._strip_quotes(text) or text  # Speaking Lab sentences are quoted in the script
-        for s0, e0, c in me.time_chunks(me.chunk_text(shown, max_words=7, max_chars=42), words, dur):
+        for s0, e0, c in me.time_chunks(me.chunk_text(shown, max_words=4, max_chars=26), words, dur):
             subs.append((t + s0, t + e0, spk, c))
         audio += [a, np.zeros(int(GAP * me.SR), np.float32)]
         t += dur + GAP
@@ -432,9 +432,8 @@ def build(num, kind="ai", fake=False, out_dir=None, frame=None):
     keys, seg_i, sub_i, last = [], 0, 0, voiced[0][0]
     for fi in range(n_frames):
         tt = fi / FPS
-        if tt >= speech_end + 0.2:
-            keys.append(("END",))
-            continue
+        if tt >= speech_end:  # hold the last picture; the loop restarts at the hook
+            tt = speech_end - 0.01
         while seg_i < len(segments) - 1 and tt >= segments[seg_i][1] + GAP / 2 and \
                 not any(w0 - GAP <= tt < w1 and wi == seg_i for w0, w1, wi in waits):
             seg_i += 1

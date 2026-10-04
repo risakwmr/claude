@@ -31,7 +31,7 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SR = 24000
 FPS = 12
 RATE = "+0%"      # speaking rate for new episodes (natural native speed)
-GAP = 0.25        # silence between turns (s) for new episodes
+GAP = 0.12        # silence between turns (s) for new episodes: native conversation pace
 LEAD, TAIL = 0.8, 1.6
 
 VOICES = {  # change here to swap voices

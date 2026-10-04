@@ -7,14 +7,14 @@ on:
         description: "Episode number(s), e.g. 1 or 1,2. Use next for the next unpublished ones."
         default: "next"
       action:
-        description: "make = build only; upload = build and upload; reschedule = give uploaded private episodes publish times (in the order listed); publish = make uploaded episodes public now; captions = add Japanese captions to uploaded episodes; organize = update titles and descriptions and add to the playlist in order; thumbnail = replace thumbnails of uploaded episodes; short_make = build the vertical Shorts only; short = build and upload Shorts (episode: number(s), or next; see short_kind); stats = views and likes of every Short, by kind; report = channel numbers for the weekly report (saved to reports/)"
+        description: "make = build only; upload = build and upload; reschedule = give uploaded private episodes publish times (in the order listed); publish = make uploaded episodes public now; captions = add Japanese captions to uploaded episodes; organize = update titles and descriptions and add to the playlist in order; thumbnail = replace thumbnails of uploaded episodes; short_make = build the vertical Shorts only; short = build and upload Shorts (episode: number(s), or next; see short_kind); stats = views and likes of every Short, by kind; report = channel numbers for the weekly report (saved to reports/); trailer = make the Start here trailer and upload it as private"
         type: choice
-        options: [make, upload, reschedule, publish, captions, organize, thumbnail, short_make, short, stats, report]
+        options: [make, upload, reschedule, publish, captions, organize, thumbnail, short_make, short, stats, report, trailer]
         default: make
       short_kind:
-        description: "For short / short_make: which Short (ai = Why can't AI do this?, story = Daniel's story, culture = Japan vs the US, lab = Speaking Lab), or all"
+        description: "For short / short_make: which Short (ai = Why can't AI do this?, highlight = the most striking moment, story = Daniel's story, culture = Japan vs the US, lab = Speaking Lab), or all"
         type: choice
-        options: [all, ai, story, culture, lab]
+        options: [all, ai, highlight, story, culture, lab]
         default: all
       visibility:
         description: "For upload / short: schedule (next free slot: episodes 00:00 / 12:00 JST, Shorts 08:00 / 18:00 / 22:00 JST), public, or private"
@@ -169,6 +169,21 @@ jobs:
             python src/mark_published.py "$n" "$vid" "$PUBLISH_AT"
           done
 
+      - name: Make the Start here trailer
+        if: inputs.action == 'trailer'
+        env:
+          SENA_VOICE: ${{ vars.SENA_VOICE }}
+          DANIEL_VOICE: ${{ vars.DANIEL_VOICE }}
+        run: python src/make_trailer.py --upload | tee -a "$GITHUB_STEP_SUMMARY"
+
+      - name: Save the trailer for download
+        if: "!cancelled() && inputs.action == 'trailer'"
+        uses: actions/upload-artifact@v4
+        with:
+          name: trailer-${{ github.run_number }}
+          path: output/trailer/
+          retention-days: 30
+
       # ---------- Shorts ----------
 
       - name: Choose Shorts
@@ -263,6 +278,7 @@ jobs:
           [ -f shorts.json ] && git add shorts.json
           [ -f shorts_stats.json ] && git add shorts_stats.json
           [ -d reports ] && git add reports
+          [ -f trailer.json ] && git add trailer.json
           git diff --cached --quiet && exit 0
           git commit -m "Record published episodes"
           for i in 1 2 3; do

@@ -136,4 +136,11 @@ if __name__ == "__main__":
     a = ap.parse_args()
     files = build(a.fake_tts, a.out)
     if a.upload:
-        upload(files)
+        try:
+            upload(files)
+        except Exception as e:  # keep the reason (saved with run_status.json); the video is still in output/trailer
+            import upload as up
+            detail = str(e)[:500]
+            up.note_status("trailer", f"ERROR {type(e).__name__}: {detail}")
+            print(f"Trailer upload failed: {detail}", flush=True)
+            sys.exit(75 if "uploadLimitExceeded" in detail else 1)

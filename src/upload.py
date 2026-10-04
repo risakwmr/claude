@@ -34,11 +34,81 @@ def youtube():
     return build("youtube", "v3", credentials=creds, cache_discovery=False)
 
 
+def video_title(meta, ep, num):
+    """The episode title first; the show name and episode number at the end."""
+    title = f"{ep['title']} | {meta['show']} EP{num:02d}"
+    if len(title) > 100:
+        title = f"{ep['title'][:90]} | EP{num:02d}"
+    return title
+
+
+PLAYLIST_FILE = os.path.join(ROOT, "playlist.json")
+
+
+def playlist_id(yt, meta):
+    """The show's playlist (all episodes in order), created on first use."""
+    if os.path.exists(PLAYLIST_FILE):
+        return json.load(open(PLAYLIST_FILE))["id"]
+    body = {
+        "snippet": {
+            "title": f"{meta['show']} | All Episodes in Order",
+            "description": f"Every episode of {meta['show']}, from episode 1. Listen in order and grow with Sena, "
+                           "one episode at a time.",
+            "defaultLanguage": "en",
+        },
+        "status": {"privacyStatus": "public"},
+    }
+    pid = yt.playlists().insert(part="snippet,status", body=body).execute()["id"]
+    json.dump({"id": pid}, open(PLAYLIST_FILE, "w"), indent=2)
+    print(f"  created playlist https://www.youtube.com/playlist?list={pid}", flush=True)
+    return pid
+
+
+def playlist_videos(yt, pid):
+    ids, token = [], None
+    while True:
+        r = yt.playlistItems().list(part="contentDetails", playlistId=pid, maxResults=50, pageToken=token).execute()
+        ids += [i["contentDetails"]["videoId"] for i in r.get("items", [])]
+        token = r.get("nextPageToken")
+        if not token:
+            return ids
+
+
+def add_to_playlist(yt, meta, vid):
+    try:
+        pid = playlist_id(yt, meta)
+        if vid in playlist_videos(yt, pid):
+            return
+        yt.playlistItems().insert(part="snippet", body={
+            "snippet": {"playlistId": pid, "resourceId": {"kind": "youtube#video", "videoId": vid}}}).execute()
+        print("  added to playlist", flush=True)
+    except HttpError as e:
+        print(f"  WARNING: not added to playlist ({e.resp.status}) {str(e)[:200]}", flush=True)
+
+
+def organize(nums):
+    """Update titles and descriptions of uploaded episodes and add them to the playlist, in this order."""
+    meta = json.load(open(os.path.join(ROOT, "episodes", "episodes.json"), encoding="utf-8"))
+    pub = json.load(open(os.path.join(ROOT, "published.json")))
+    yt = youtube()
+    for n in nums:
+        ep = next(e for e in meta["episodes"] if e["number"] == n)
+        vid = pub[str(n)]["video_id"]
+        snip = yt.videos().list(part="snippet", id=vid).execute()["items"][0]["snippet"]
+        new = {k: snip[k] for k in ("categoryId", "tags", "defaultLanguage", "defaultAudioLanguage") if k in snip}
+        new["title"] = video_title(meta, ep, n)
+        new["description"] = description(meta, ep)
+        new.setdefault("categoryId", "27")
+        yt.videos().update(part="snippet", body={"id": vid, "snippet": new}).execute()
+        print(f"  EP {n:02d}: {new['title']}", flush=True)
+        add_to_playlist(yt, meta, vid)
+
+
 def description(meta, ep):
     lines = [
         ep["summary"],
         "",
-        f"This week's practice: {ep['practice']}",
+        f"Practice: {ep['practice']}",
         "",
         "Research mentioned in this episode:",
         *[f"- {s}" for s in ep["sources"]],
@@ -75,9 +145,7 @@ def upload(num, video, thumbnail, publish_at=None):
     publish_at = (publish_at if publish_at is not None else os.environ.get("PUBLISH_AT", "")).strip()
     meta = json.load(open(os.path.join(ROOT, "episodes", "episodes.json"), encoding="utf-8"))
     ep = next(e for e in meta["episodes"] if e["number"] == num)
-    title = f"EP {num:02d} | {ep['title']} | {meta['show']}"
-    if len(title) > 100:
-        title = f"EP {num:02d} | {ep['title']}"[:100]
+    title = video_title(meta, ep, num)
     yt = youtube()
     body = {
         "snippet": {
@@ -118,6 +186,7 @@ def upload(num, video, thumbnail, publish_at=None):
     except HttpError as e:
         print("  WARNING: thumbnail not set. Verify the channel's phone number at youtube.com/verify, "
               f"then set it in YouTube Studio. ({e.resp.status})", flush=True)
+    add_to_playlist(yt, meta, vid)
     ja_srt = os.path.join(os.path.dirname(video), f"ep{num:02d}.ja.srt")
     if os.path.exists(ja_srt):
         add_japanese_captions(yt, vid, ja_srt)
@@ -221,6 +290,9 @@ if __name__ == "__main__":
     sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
     if sys.argv[1] == "reschedule":
         reschedule([int(n) for n in sys.argv[2:]])
+        sys.exit(0)
+    if sys.argv[1] == "organize":
+        organize([int(n) for n in sys.argv[2:]])
         sys.exit(0)
     if sys.argv[1] == "captions":
         captions([int(n) for n in sys.argv[2:]])

@@ -23,7 +23,7 @@ from slot import JST, fmt, parse  # noqa: E402
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SHORTS_FILE = os.path.join(ROOT, "shorts.json")
 LEAD = timedelta(hours=12)  # scheduled runs come at 09:00 and 21:00 JST
-OFFSET = {"ai": 0, "story": 2, "culture": 4, "lab": 6}  # spreads an episode's Shorts over a few days
+OFFSET = {"ai": 0, "scene": 1, "story": 2, "culture": 4, "lab": 6}  # spreads an episode's Shorts over a few days
 KIND_ORDER = list(OFFSET)
 
 

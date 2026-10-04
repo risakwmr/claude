@@ -54,5 +54,13 @@
   "organize:13": {
     "at": "2026-10-04T09:05:09Z",
     "result": "ok"
+  },
+  "captions:oSt-VZY-65k": {
+    "at": "2026-10-04T09:27:41Z",
+    "result": "403 <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/captions?part=snippet&videoId=oSt-VZY-65k&alt=json returned \"Request had insufficient authentication scopes.\". Details: \"[{'message': 'Insufficient Permission', 'domain': 'global', 'reason': 'insufficientPermissions'}]\">"
+  },
+  "captions:Rs-Wr1nrYHo": {
+    "at": "2026-10-04T09:27:49Z",
+    "result": "403 <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/captions?part=snippet&videoId=Rs-Wr1nrYHo&alt=json returned \"Request had insufficient authentication scopes.\". Details: \"[{'message': 'Insufficient Permission', 'domain': 'global', 'reason': 'insufficientPermissions'}]\">"
   }
 }

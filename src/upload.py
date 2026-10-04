@@ -615,7 +615,12 @@ if __name__ == "__main__":
         comment_links()
         sys.exit(0)
     if sys.argv[1] == "short":  # short EPISODE [KIND]
-        print(upload_short(int(sys.argv[2]), sys.argv[3] if len(sys.argv) > 3 else "ai"))
+        try:
+            print(upload_short(int(sys.argv[2]), sys.argv[3] if len(sys.argv) > 3 else "ai"))
+        except HttpError as e:
+            if "uploadLimitExceeded" in str(e):  # the channel's daily upload limit: try again in a later run
+                sys.exit(75)
+            raise
         sys.exit(0)
     if sys.argv[1] == "thumb":
         for n in sys.argv[2:]:

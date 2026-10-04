@@ -68,7 +68,7 @@
     "result": "ok"
   },
   "channel": {
-    "at": "2026-10-04T15:16:13Z",
+    "at": "2026-10-04T15:19:32Z",
     "result": "Human Curriculum- Learn what AI can’t do (UCSaZaQp7Ao--E-UrkQ4RnXg)"
   },
   "captions:hj8EgYR2ORo": {
@@ -150,5 +150,9 @@
   "report": {
     "at": "2026-10-04T13:55:25Z",
     "result": "ERROR RefreshError: ('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
+  },
+  "trailer": {
+    "at": "2026-10-04T15:21:00Z",
+    "result": "ERROR ResumableUploadError: <HttpError 400 when requesting None returned \"The user has exceeded the number of videos they may upload.\". Details: \"[{'message': 'The user has exceeded the number of videos they may upload.', 'domain': 'youtube.video', 'reason': 'uploadLimitExceeded'}]\">"
   }
 }

@@ -29,7 +29,9 @@
         "EQ",
         "emotional intelligence"
       ],
-      "thumb_pose": "sena_idea"
+      "thumb_pose": "sena_idea",
+      "voice_rate": "-4%",
+      "turn_gap": 0.35
     },
     {
       "number": 2,
@@ -57,7 +59,9 @@
         "audiobook",
         "English learning"
       ],
-      "thumb_pose": "sena_think"
+      "thumb_pose": "sena_think",
+      "voice_rate": "-4%",
+      "turn_gap": 0.35
     },
     {
       "number": 3,
@@ -90,7 +94,9 @@
         "When, where, how"
       ],
       "thumb_cup": "Close one loop.",
-      "thumb_pose": "sena_cheer"
+      "thumb_pose": "sena_cheer",
+      "voice_rate": "-4%",
+      "turn_gap": 0.35
     },
     {
       "number": 4,
@@ -126,7 +132,9 @@
         "Granularity"
       ],
       "thumb_cup": "More than fine.",
-      "thumb_pose": "sena_phone"
+      "thumb_pose": "sena_phone",
+      "voice_rate": "-4%",
+      "turn_gap": 0.35
     },
     {
       "number": 5,
@@ -162,7 +170,9 @@
         "Feedback seeking"
       ],
       "thumb_cup": "Just say thank you.",
-      "thumb_pose": "sena_write"
+      "thumb_pose": "sena_write",
+      "voice_rate": "-4%",
+      "turn_gap": 0.35
     },
     {
       "number": 6,
@@ -199,7 +209,9 @@
         "Their agenda first"
       ],
       "thumb_cup": "Bring one question.",
-      "thumb_pose": "daniel_talk"
+      "thumb_pose": "daniel_talk",
+      "voice_rate": "-4%",
+      "turn_gap": 0.35
     },
     {
       "number": 7,
@@ -235,7 +247,9 @@
         "Read it as them"
       ],
       "thumb_cup": "Conclusion first.",
-      "thumb_pose": "sena_write"
+      "thumb_pose": "sena_write",
+      "voice_rate": "-4%",
+      "turn_gap": 0.35
     },
     {
       "number": 8,
@@ -272,7 +286,9 @@
         "Name who helped"
       ],
       "thumb_cup": "Send three lines.",
-      "thumb_pose": "sena_phone"
+      "thumb_pose": "sena_phone",
+      "voice_rate": "-4%",
+      "turn_gap": 0.35
     },
     {
       "number": 9,
@@ -309,7 +325,9 @@
         "Keep, don't exceed"
       ],
       "thumb_cup": "Keep one promise.",
-      "thumb_pose": "sena_write"
+      "thumb_pose": "sena_write",
+      "voice_rate": "-4%",
+      "turn_gap": 0.35
     },
     {
       "number": 10,
@@ -346,7 +364,9 @@
         "Talk, not tickets"
       ],
       "thumb_cup": "Ask their needs first.",
-      "thumb_pose": "sena_talk"
+      "thumb_pose": "sena_talk",
+      "voice_rate": "-4%",
+      "turn_gap": 0.35
     },
     {
       "number": 11,
@@ -384,7 +404,9 @@
         "End with a question"
       ],
       "thumb_cup": "Say it in one sentence.",
-      "thumb_pose": "sena_idea"
+      "thumb_pose": "sena_idea",
+      "voice_rate": "-4%",
+      "turn_gap": 0.35
     },
     {
       "number": 12,
@@ -422,7 +444,9 @@
         "Ask what surprised"
       ],
       "thumb_cup": "Ask what surprised them.",
-      "thumb_pose": "sena_think"
+      "thumb_pose": "sena_think",
+      "voice_rate": "-4%",
+      "turn_gap": 0.35
     },
     {
       "number": 13,
@@ -460,7 +484,9 @@
         "No \"but\" today"
       ],
       "thumb_cup": "Praise one person, specifically.",
-      "thumb_pose": "sena_cheer"
+      "thumb_pose": "sena_cheer",
+      "voice_rate": "-4%",
+      "turn_gap": 0.35
     },
     {
       "number": 14,

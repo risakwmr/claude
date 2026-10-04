@@ -118,7 +118,48 @@ def upload(num, video, thumbnail, publish_at=None):
     except HttpError as e:
         print("  WARNING: thumbnail not set. Verify the channel's phone number at youtube.com/verify, "
               f"then set it in YouTube Studio. ({e.resp.status})", flush=True)
+    ja_srt = os.path.join(os.path.dirname(video), f"ep{num:02d}.ja.srt")
+    if os.path.exists(ja_srt):
+        add_japanese_captions(yt, vid, ja_srt)
     return vid
+
+
+def add_japanese_captions(yt, vid, srt):
+    """Upload (or replace) the Japanese caption track. Needs the youtube.force-ssl scope."""
+    try:
+        old = yt.captions().list(part="snippet", videoId=vid).execute().get("items", [])
+        for c in old:
+            if c["snippet"].get("language") == "ja" and c["snippet"].get("trackKind") != "asr":
+                yt.captions().delete(id=c["id"]).execute()
+        yt.captions().insert(
+            part="snippet",
+            body={"snippet": {"videoId": vid, "language": "ja", "name": "日本語", "isDraft": False}},
+            media_body=MediaFileUpload(srt, mimetype="application/octet-stream"),
+        ).execute()
+        print("  Japanese captions added", flush=True)
+        return True
+    except HttpError as e:
+        print(f"  WARNING: Japanese captions not added ({e.resp.status}). If this is 403, create a new "
+              "refresh token that includes the https://www.googleapis.com/auth/youtube.force-ssl scope. "
+              f"{str(e)[:300]}", flush=True)
+        return False
+
+
+def captions(nums):
+    """Add Japanese captions to already uploaded episodes (run make_episode.py N --audio-only first)."""
+    pub = json.load(open(os.path.join(ROOT, "published.json")))
+    yt = youtube()
+    failed = 0
+    for n in nums:
+        srt = os.path.join(ROOT, "output", f"ep{n:02d}", f"ep{n:02d}.ja.srt")
+        if not os.path.exists(srt):
+            print(f"  EP {n:02d}: no Japanese translation yet, skipped", flush=True)
+            continue
+        print(f"  EP {n:02d}:", flush=True)
+        if not add_japanese_captions(yt, pub[str(n)]["video_id"], srt):
+            failed += 1
+    if failed:
+        sys.exit(1)
 
 
 def reschedule(nums):
@@ -180,6 +221,9 @@ if __name__ == "__main__":
     sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
     if sys.argv[1] == "reschedule":
         reschedule([int(n) for n in sys.argv[2:]])
+        sys.exit(0)
+    if sys.argv[1] == "captions":
+        captions([int(n) for n in sys.argv[2:]])
         sys.exit(0)
     if sys.argv[1] == "publish":
         publish_now([int(n) for n in sys.argv[2:]])

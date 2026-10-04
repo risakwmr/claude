@@ -4,6 +4,13 @@ Usage:
   python src/make_episode.py 1              # real voices (needs internet, for GitHub Actions)
   python src/make_episode.py 1 --fake-tts   # placeholder tones, for testing the visuals
   python src/make_episode.py 1 --lines 12   # only the first 12 lines (quick test)
+  python src/make_episode.py 1 --audio-only # voices + subtitle files only, no video (for adding captions later)
+
+Speaking speed: new episodes use RATE / GAP below. An episode can keep its own settings with
+"voice_rate" and "turn_gap" in episodes.json (episodes 1-13 were made at -4% with 0.35 s gaps,
+so their caption timings stay in sync).
+Japanese captions: if episodes/epNN.ja.txt exists (one line per script line, "SENA: ..."), an
+epNN.ja.srt is written next to the video and uploaded as YouTube captions.
 """
 import argparse
 import asyncio
@@ -22,7 +29,8 @@ from render import draw_frame, draw_thumbnail  # noqa: E402
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SR = 24000
 FPS = 12
-GAP = 0.35        # silence between turns (s)
+RATE = "+0%"      # speaking rate for new episodes (natural native speed)
+GAP = 0.25        # silence between turns (s) for new episodes
 LEAD, TAIL = 0.8, 1.6
 
 VOICES = {  # change here to swap voices
@@ -55,13 +63,13 @@ def decode(path):
 
 # ---------- voices ----------
 
-async def tts_line(text, voice, path):
+async def tts_line(text, voice, path, rate=RATE):
     import edge_tts
     words = []
     try:
-        comm = edge_tts.Communicate(text, voice, rate="-4%", boundary="WordBoundary")
+        comm = edge_tts.Communicate(text, voice, rate=rate, boundary="WordBoundary")
     except TypeError:  # older edge-tts without the boundary option
-        comm = edge_tts.Communicate(text, voice, rate="-4%")
+        comm = edge_tts.Communicate(text, voice, rate=rate)
     with open(path, "wb") as f:
         async for chunk in comm.stream():
             if chunk["type"] == "audio":
@@ -71,11 +79,11 @@ async def tts_line(text, voice, path):
     return words
 
 
-def synth(speaker, text, path):
+def synth(speaker, text, path, rate=RATE):
     for voice in (VOICES[speaker], FALLBACK[speaker]):
         for attempt in range(3):
             try:
-                words = asyncio.run(tts_line(text, voice, path))
+                words = asyncio.run(tts_line(text, voice, path, rate))
                 if os.path.getsize(path) > 1000:
                     return words
             except Exception as e:  # network hiccups: retry, then fall back
@@ -138,6 +146,53 @@ def time_chunks(chunks, words, dur):
     return out
 
 
+def load_japanese(ep, n_lines):
+    """Japanese translation lines (one per script line), or None."""
+    path = os.path.join(ROOT, "episodes", ep["script"].replace(".txt", ".ja.txt"))
+    if not os.path.exists(path):
+        return None
+    ja = []
+    for raw in open(path, encoding="utf-8"):
+        m = re.match(r"^\s*(SENA|DANIEL)\s*:\s*(.+?)\s*$", raw)
+        if m:
+            ja.append(m.group(2))
+    if len(ja) < n_lines:
+        print(f"  WARNING: {os.path.basename(path)} has {len(ja)} lines, script has {n_lines}; "
+              "Japanese captions skipped", flush=True)
+        return None
+    return ja[:n_lines]
+
+
+def split_japanese(text, max_chars=34):
+    """Split a Japanese line into caption-sized pieces at sentence ends, then commas."""
+    parts = [p for p in re.split(r"(?<=[。！？!?])", text) if p.strip()]
+    out = []
+    for p in parts:
+        while len(p) > max_chars:
+            cut = max((p.rfind(c, 0, max_chars) for c in "、，,"), default=-1)
+            cut = cut + 1 if cut >= 8 else max_chars
+            out.append(p[:cut])
+            p = p[cut:]
+        if p.strip():
+            out.append(p)
+    return [p.strip() for p in out] or [text]
+
+
+def write_japanese_srt(path, segments, ja):
+    k = 0
+    with open(path, "w", encoding="utf-8") as f:
+        for (s0, s1, spk), text in zip(segments, ja):
+            pieces = split_japanese(text)
+            total = sum(len(p) for p in pieces)
+            t = s0
+            for p in pieces:
+                d = (s1 - s0) * len(p) / total
+                k += 1
+                name = "セナ" if spk == "SENA" else "ダニエル"
+                f.write(f"{k}\n{srt_time(t)} --> {srt_time(t + d)}\n{name}: {p}\n\n")
+                t += d
+
+
 def srt_time(s):
     h, m = int(s // 3600), int(s % 3600 // 60)
     return f"{h:02d}:{m:02d}:{int(s % 60):02d},{int(round((s % 1) * 1000)) % 1000:03d}"
@@ -145,10 +200,12 @@ def srt_time(s):
 
 # ---------- main ----------
 
-def build(num, fake=False, limit=None, out_dir=None):
+def build(num, fake=False, limit=None, out_dir=None, audio_only=False):
     meta, ep, lines = load_episode(num)
     if limit:
         lines = lines[:limit]
+    rate = ep.get("voice_rate", RATE)
+    gap = float(ep.get("turn_gap", GAP))
     out_dir = out_dir or os.path.join(ROOT, "output", f"ep{num:02d}")
     work = os.path.join(out_dir, "work")
     shutil.rmtree(work, ignore_errors=True)
@@ -163,14 +220,14 @@ def build(num, fake=False, limit=None, out_dir=None):
             a, words = fake_audio(text, spk), []
         else:
             mp3 = os.path.join(work, f"line{i:03d}.mp3")
-            words = synth(spk, text, mp3)
+            words = synth(spk, text, mp3, rate)
             a = decode(mp3)
         dur = len(a) / SR
         segments.append((t, t + dur, spk))
         for s, e, c in time_chunks(chunk_text(text), words, dur):
             subs.append((t + s, t + e, spk, c))
-        audio += [a, np.zeros(int(GAP * SR), np.float32)]
-        t += dur + GAP
+        audio += [a, np.zeros(int(gap * SR), np.float32)]
+        t += dur + gap
         if (i + 1) % 20 == 0:
             print(f"  voiced {i + 1}/{len(lines)}", flush=True)
     audio.append(np.zeros(int(TAIL * SR), np.float32))
@@ -191,6 +248,17 @@ def build(num, fake=False, limit=None, out_dir=None):
         for k, (s, e, spk, c) in enumerate(subs, 1):
             f.write(f"{k}\n{srt_time(s)} --> {srt_time(e)}\n{spk.title()}: {c}\n\n")
 
+    ja = load_japanese(ep, len(lines))
+    ja_srt = None
+    if ja:
+        ja_srt = os.path.join(out_dir, f"ep{num:02d}.ja.srt")
+        write_japanese_srt(ja_srt, segments, ja)
+        print(f"  Japanese captions: {ja_srt}", flush=True)
+    if audio_only:
+        shutil.rmtree(work, ignore_errors=True)
+        print(f"  {total / 60:.1f} min (audio only)", flush=True)
+        return {"srt": srt, "ja_srt": ja_srt, "duration": total}
+
     # timeline -> unique frames
     n_frames = int(np.ceil(total * FPS))
     hop = SR // FPS
@@ -200,7 +268,7 @@ def build(num, fake=False, limit=None, out_dir=None):
     keys = []
     for fi in range(n_frames):
         tt = fi / FPS
-        while seg_i < len(segments) - 1 and tt >= segments[seg_i][1] + GAP / 2:
+        while seg_i < len(segments) - 1 and tt >= segments[seg_i][1] + gap / 2:
             seg_i += 1
         s0, s1, spk = segments[seg_i]
         talking = s0 <= tt < s1
@@ -248,7 +316,7 @@ def build(num, fake=False, limit=None, out_dir=None):
     thumb = draw_thumbnail(num, ep, os.path.join(out_dir, f"ep{num:02d}_thumbnail.jpg"))
     shutil.rmtree(work, ignore_errors=True)
     print(f"  done: {mp4}", flush=True)
-    return {"video": mp4, "thumbnail": thumb, "srt": srt, "duration": total}
+    return {"video": mp4, "thumbnail": thumb, "srt": srt, "ja_srt": ja_srt, "duration": total}
 
 
 if __name__ == "__main__":
@@ -257,5 +325,6 @@ if __name__ == "__main__":
     ap.add_argument("--fake-tts", action="store_true")
     ap.add_argument("--lines", type=int)
     ap.add_argument("--out")
+    ap.add_argument("--audio-only", action="store_true")
     a = ap.parse_args()
-    print(json.dumps(build(a.episode, a.fake_tts, a.lines, a.out), indent=2))
+    print(json.dumps(build(a.episode, a.fake_tts, a.lines, a.out, a.audio_only), indent=2))

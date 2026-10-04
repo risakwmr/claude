@@ -62,6 +62,10 @@ names in `assets/icons/INDEX.txt`, downloaded by `src/fetch_icons.py`), section 
 chapters, and a short silent "your turn" countdown after each Speaking Lab repeat. The cue format is described at the
 top of `src/scenes.py`.
 
+## Start here trailer
+
+`episodes/trailer/` holds the "Start here" trailer (how Sena found Daniel). Run workflow → `action`: `trailer` makes it with real voices and uploads it as **private**; review it, then make it public and set it as the channel trailer in YouTube Studio (Customization → Layout → Channel trailer). `python src/make_trailer.py --fake-tts` checks the visuals locally.
+
 ## Shorts
 
 Every episode also becomes up to four vertical YouTube Shorts (1080×1920): a big hook line at the top, the center board, Sena and Daniel, and large captions, ending on a "Full episode on the channel" card.

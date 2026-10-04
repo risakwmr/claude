@@ -1,0 +1,22 @@
+{
+  "cues": [
+    {"line": 1, "section": "Tokyo, 9 p.m.", "sena": "tired", "daniel": "listen", "board": {"type": "keyword", "text": "Two days vs. twenty minutes", "sub": "a new hire, with AI", "icons": ["Night with stars", "Robot"]}},
+    {"line": 2, "daniel": "surprised"},
+    {"line": 3, "sena": "down", "daniel": "listen", "board": {"type": "keyword", "text": "What's left for me?", "icon": "Pensive face"}},
+    {"line": 4, "daniel": "explain"},
+    {"line": 5, "section": "The list", "sena": "write", "board": {"type": "list", "title": "What do I actually want?", "items": ["Lead people", "As a People Manager", "In the US"]}},
+    {"line": 6, "daniel": "grin"},
+    {"line": 7, "section": "The search", "sena": "phone", "daniel": "listen", "board": {"type": "keyword", "text": "Mentoring program", "sub": "People Manager · Seattle · started as an IC", "icon": "Magnifying glass tilted left"}},
+    {"line": 8, "daniel": "wave", "board": {"type": "keyword", "text": "Daniel Reed", "sub": "People Manager · Seattle", "icon": "Globe showing Americas"}},
+    {"line": 9, "sena": "curious", "daniel": "smile", "board": {"type": "story", "title": "\"Fair warning: I'll ask how you feel.\"", "text": "his mentoring profile", "icon": "Speech balloon"}},
+    {"line": 10, "daniel": "sheepish"},
+    {"line": 11, "sena": "worried", "daniel": "listen", "board": {"type": "keyword", "text": "Send the request?", "icon": "Mobile phone"}},
+    {"line": 12, "section": "Meet Sena and Daniel", "sena": "listen", "daniel": "open", "board": {"type": "compare", "left": {"title": "Sena", "items": ["Associate, Tokyo", "Dream: lead people in the US"]}, "right": {"title": "Daniel", "items": ["People Manager, Seattle", "Team of eight, many mistakes"]}}},
+    {"line": 13, "sena": "happy"},
+    {"line": 14, "section": "The show", "daniel": "explain", "board": {"type": "list", "title": "Every episode", "items": ["A real situation", "Real research", "Daniel's real mistakes", "One challenge for today"]}},
+    {"line": 15, "sena": "cheer"},
+    {"line": 16, "daniel": "point", "board": {"type": "keyword", "text": "Judgment · Trust · Growth", "sub": "the skills AI can't do for you", "icons": ["Compass", "Handshake", "Seedling"]}},
+    {"line": 17, "sena": "delighted", "daniel": "happy", "board": {"type": "cover"}},
+    {"line": 18, "sena": "wave", "daniel": "wave"}
+  ]
+}

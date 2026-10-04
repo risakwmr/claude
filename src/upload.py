@@ -112,13 +112,22 @@ def playlist_videos(yt, pid):
             return ids
 
 
-def add_to_playlist(yt, meta, vid):
+def add_to_playlist(yt, meta, vid, position=None):
     try:
         pid = playlist_id(yt, meta)
-        if vid in playlist_videos(yt, pid):
+        try:
+            present = playlist_videos(yt, pid)
+        except HttpError as e:
+            if e.resp.status != 404:  # a brand-new playlist can take a moment to appear
+                raise
+            time.sleep(5)
+            present = []
+        if vid in present:
             return
-        yt.playlistItems().insert(part="snippet", body={
-            "snippet": {"playlistId": pid, "resourceId": {"kind": "youtube#video", "videoId": vid}}}).execute()
+        snippet = {"playlistId": pid, "resourceId": {"kind": "youtube#video", "videoId": vid}}
+        if position is not None:
+            snippet["position"] = min(position, len(present))
+        yt.playlistItems().insert(part="snippet", body={"snippet": snippet}).execute()
         print("  added to playlist", flush=True)
     except HttpError as e:
         print(f"  WARNING: not added to playlist ({e.resp.status}) {str(e)[:200]}", flush=True)
@@ -141,7 +150,7 @@ def organize(nums):
         yt.videos().update(part="snippet", body={"id": vid, "snippet": new}).execute()
         print(f"  EP {n:02d}: {new['title']}", flush=True)
         note_status(f"organize:{n}", "ok")
-        add_to_playlist(yt, meta, vid)
+        add_to_playlist(yt, meta, vid, position=n - 1)
 
 
 def read_chapters(video, num):

@@ -89,18 +89,32 @@ def analytics(creds, start, end):
             cols = [h["name"] for h in r.get("columnHeaders", [])]
             return [dict(zip(cols, row)) for row in r.get("rows", []) or []]
 
-        out["totals"] = q(metrics="views,estimatedMinutesWatched,averageViewDuration,averageViewPercentage,"
-                                  "likes,comments,shares,subscribersGained,subscribersLost")
-        out["daily"] = q(dimensions="day", metrics="views,estimatedMinutesWatched,subscribersGained", sort="day")
-        out["by_video"] = q(dimensions="video", metrics="views,estimatedMinutesWatched,averageViewDuration,"
-                                                        "averageViewPercentage,likes,subscribersGained",
-                            sort="-views", maxResults=50)
-        out["traffic"] = q(dimensions="insightTrafficSourceType", metrics="views,estimatedMinutesWatched",
-                           sort="-views")
-        out["countries"] = q(dimensions="country", metrics="views,estimatedMinutesWatched", sort="-views",
-                             maxResults=10)
-        out["devices"] = q(dimensions="deviceType", metrics="views", sort="-views")
-        out["subscribed"] = q(dimensions="subscribedStatus", metrics="views,averageViewPercentage")
+        queries = {
+            "totals": dict(metrics="views,estimatedMinutesWatched,averageViewDuration,averageViewPercentage,"
+                                   "likes,comments,shares,subscribersGained,subscribersLost"),
+            "daily": dict(dimensions="day", metrics="views,estimatedMinutesWatched,subscribersGained", sort="day"),
+            "by_video": dict(dimensions="video", metrics="views,estimatedMinutesWatched,averageViewDuration,"
+                                                         "averageViewPercentage,likes,subscribersGained",
+                             sort="-views", maxResults=50),
+            "traffic": dict(dimensions="insightTrafficSourceType", metrics="views,estimatedMinutesWatched",
+                            sort="-views"),
+            "countries": dict(dimensions="country", metrics="views,estimatedMinutesWatched", sort="-views",
+                              maxResults=10),
+            "devices": dict(dimensions="deviceType", metrics="views", sort="-views"),
+            "subscribed": dict(dimensions="subscribedStatus", metrics="views,averageViewPercentage"),
+        }
+        errors = {}
+        for name, kw in queries.items():  # one failing query shouldn't hide the others
+            try:
+                out[name] = q(**kw)
+            except HttpError as e:
+                if e.resp.status == 403:
+                    raise
+                errors[name] = f"{e.resp.status} {str(e)[-200:]}"
+        if errors:
+            out["errors"] = errors
+        if len(errors) == len(queries):
+            return {"available": False, "error": "every query failed", "errors": errors}
     except HttpError as e:
         try:
             msg = json.loads(e.content.decode())["error"]["message"]

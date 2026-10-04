@@ -34,6 +34,44 @@ def youtube():
     return build("youtube", "v3", credentials=creds, cache_discovery=False)
 
 
+def sync_published():
+    """Add uploaded episodes missing from published.json (e.g. when a run's git push failed).
+
+    Reads the channel's uploads list (a few quota units) and matches episode numbers in titles."""
+    import re
+    path = os.path.join(ROOT, "published.json")
+    pub = json.load(open(path)) if os.path.exists(path) else {}
+    known = {v["video_id"] for v in pub.values()}
+    yt = youtube()
+    uploads = yt.channels().list(part="contentDetails", mine=True).execute()["items"][0][
+        "contentDetails"]["relatedPlaylists"]["uploads"]
+    ids, token = [], None
+    while True:
+        r = yt.playlistItems().list(part="contentDetails", playlistId=uploads, maxResults=50,
+                                    pageToken=token).execute()
+        ids += [i["contentDetails"]["videoId"] for i in r.get("items", [])]
+        token = r.get("nextPageToken")
+        if not token:
+            break
+    new = [v for v in ids if v not in known]
+    added = 0
+    for i in range(0, len(new), 50):
+        for item in yt.videos().list(part="snippet,status", id=",".join(new[i:i + 50])).execute().get("items", []):
+            title = item["snippet"]["title"]
+            m = re.match(r"^EP\s*(\d+)\s*\|", title) or re.search(r"\bEP\s*(\d+)\s*$", title)
+            if not m or str(int(m.group(1))) in pub:
+                continue
+            st = item["status"]
+            when = st.get("publishAt") or item["snippet"]["publishedAt"]
+            pub[str(int(m.group(1)))] = {"video_id": item["id"], "uploaded_at": item["snippet"]["publishedAt"],
+                                         "publish_at": when.replace(".000Z", "Z")}
+            print(f"  recorded EP {int(m.group(1)):02d}: {item['id']} (public at {when})", flush=True)
+            added += 1
+    pub = dict(sorted(pub.items(), key=lambda kv: int(kv[0])))
+    json.dump(pub, open(path, "w"), indent=2)
+    print(f"  published.json in sync ({added} added)", flush=True)
+
+
 def video_title(meta, ep, num):
     """The episode title first; the show name and episode number at the end."""
     title = f"{ep['title']} | {meta['show']} EP{num:02d}"
@@ -290,6 +328,9 @@ if __name__ == "__main__":
     sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
     if sys.argv[1] == "reschedule":
         reschedule([int(n) for n in sys.argv[2:]])
+        sys.exit(0)
+    if sys.argv[1] == "sync":
+        sync_published()
         sys.exit(0)
     if sys.argv[1] == "organize":
         organize([int(n) for n in sys.argv[2:]])

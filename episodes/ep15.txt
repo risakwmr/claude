@@ -46,11 +46,9 @@ DANIEL: Right. You did. That's why you're the one who should ask.
 SENA: Do you have a failure story? This is the last episode of the season, so it should be a good one.
 DANIEL: Years ago, an engineer on my team named Theo started being late with his code reviews. His reviews were blocking two other people. And I didn't want to have the hard conversation. So I made jokes. In stand-up, I said things like, "Theo, the review queue misses you." Everyone laughed, including Theo.
 SENA: Oh. I can see where this is going.
-DANIEL: For six weeks, I made jokes. In my mind, I was giving him feedback. In his mind, I was being friendly. Then, at his review, I wrote that his code reviews were too slow. He read it and said, "Why didn't you just tell me?"
-DANIEL: And then he told me why he was slow. His first baby had been born two months earlier. He was sleeping three hours a night. He was embarrassed, and he didn't know how to ask for help.
+DANIEL: For six weeks, I made jokes. In my mind, I was giving him feedback. In his mind, I was being friendly. Then, at his review, I wrote that his code reviews were too slow. He read it and said, "Why didn't you just tell me?" And then he told me why he was slow. His first baby had been born two months earlier. He was sleeping three hours a night. He was embarrassed, and he didn't know how to ask for help.
 SENA: So you never said the hard sentence, and you never asked the real question.
-DANIEL: Neither one. Six weeks of jokes, and zero honest minutes. If I had said one clear sentence and asked how he was really doing, we could have moved his review work for a month. It would have been easy.
-DANIEL: It taught me that avoiding a hard conversation isn't kindness. It just makes the person find out later, and alone.
+DANIEL: Neither one. Six weeks of jokes, and zero honest minutes. If I had said one clear sentence and asked how he was really doing, we could have moved his review work for a month. It would have been easy. It taught me that avoiding a hard conversation isn't kindness. It just makes the person find out later, and alone.
 SENA: I think in Japan, we have a special version of this problem. Can I explain?
 DANIEL: Please.
 SENA: In Japanese, we often hint instead of saying things directly. If I say, "The region three file is, well... a little..." and stop, I expect the other person to understand. We call it sasshi. The listener is supposed to read the meaning. And sometimes it works very well.

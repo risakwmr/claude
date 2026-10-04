@@ -174,7 +174,22 @@ jobs:
         env:
           SENA_VOICE: ${{ vars.SENA_VOICE }}
           DANIEL_VOICE: ${{ vars.DANIEL_VOICE }}
-        run: python src/make_trailer.py --upload | tee -a "$GITHUB_STEP_SUMMARY"
+          REPO: ${{ github.repository }}
+          TOKEN: ${{ github.token }}
+        run: |
+          set +e
+          python src/make_trailer.py --upload | tee -a "$GITHUB_STEP_SUMMARY"
+          code=${PIPESTATUS[0]}
+          set -e
+          # keep a copy of the video on the trailer-preview branch, so it can be watched without unzipping
+          if [ -f output/trailer/trailer.mp4 ]; then
+            rm -rf /tmp/preview && mkdir /tmp/preview && cp output/trailer/trailer.mp4 output/trailer/*.srt /tmp/preview/
+            cd /tmp/preview && git init -q && git checkout -q -b trailer-preview && git add .
+            git -c user.name=github-actions -c user.email=github-actions@users.noreply.github.com commit -q -m "Trailer preview"
+            git push -q -f "https://x-access-token:${TOKEN}@github.com/${REPO}.git" trailer-preview || echo "preview not pushed"
+          fi
+          [ "$code" = 75 ] && echo "YouTube's daily upload limit is reached; run the trailer action again later" | tee -a "$GITHUB_STEP_SUMMARY"
+          exit $code
 
       - name: Save the trailer for download
         if: "!cancelled() && inputs.action == 'trailer'"

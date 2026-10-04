@@ -1,15 +1,60 @@
 {
-  "lines": [
-    50,
-    54
-  ],
-  "hook": "AI can offer the menu. It can't taste the food.",
-  "title": "AI can offer the menu. It can't taste the food.",
-  "tag": "WHY CAN'T AI DO THIS?",
-  "board": {
-    "type": "keyword",
-    "text": "Only you can feel if a word fits",
-    "sub": "the effort is the point",
-    "icon": "Fork and knife with plate"
-  }
+  "shorts": [
+    {
+      "kind": "ai",
+      "lines": [
+        50,
+        54
+      ],
+      "hook": "AI can offer the menu. It can't taste the food.",
+      "title": "AI can offer the menu. It can't taste the food.",
+      "board": {
+        "type": "keyword",
+        "text": "Only you can feel if a word fits",
+        "sub": "the effort is the point",
+        "icon": "Fork and knife with plate"
+      }
+    },
+    {
+      "kind": "story",
+      "lines": [
+        57,
+        65
+      ],
+      "hook": "I said I was \"fine, just stressed.\" I was wrong for three months.",
+      "title": "I wasn't stressed. I was lonely.",
+      "board": {
+        "type": "story",
+        "title": "\"Fine, just stressed\"",
+        "text": "the wrong word sent me to the wrong fix",
+        "icon": "Cloud"
+      }
+    },
+    {
+      "kind": "culture",
+      "lines": [
+        68,
+        74
+      ],
+      "hook": "In Japan, \"fine\" can mean no. In the US, it closes the door.",
+      "title": "What \"fine\" really means at work: Japan vs the US",
+      "board": {
+        "type": "compare",
+        "left": {
+          "title": "Japan",
+          "items": [
+            "Daijoubu: fine, no thanks, I'll manage",
+            "Said so others won't worry"
+          ]
+        },
+        "right": {
+          "title": "US",
+          "items": [
+            "\"Good, you?\" is just a greeting",
+            "In a 1:1, \"fine\" gives nothing to work with"
+          ]
+        }
+      }
+    }
+  ]
 }

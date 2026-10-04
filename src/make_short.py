@@ -1,24 +1,36 @@
-"""Build a vertical YouTube Short (1080x1920, under a minute) from a few lines of an episode.
+"""Build vertical YouTube Shorts (1080x1920) from parts of an episode.
 
 Usage:
-  python src/make_short.py 14              # real voices (GitHub Actions)
-  python src/make_short.py 14 --fake-tts   # placeholder tones, for checking the visuals
-  python src/make_short.py 14 --frame 3    # only save one still frame (line 3 of the clip) as a PNG
+  python src/make_short.py 14                  # every kind of Short for episode 14 (real voices, GitHub Actions)
+  python src/make_short.py 14 --kind story     # one kind only
+  python src/make_short.py 14 --fake-tts       # placeholder tones, for checking the visuals
+  python src/make_short.py 14 --kind lab --frame 3   # only save one still frame (line 3 of the clip) as a PNG
+  python src/make_short.py 14 --list           # print the kinds this episode has
 
-What goes into the Short comes from episodes/epNN.short.json (epNNN for 100+):
+Kinds of Short (one episode gives up to four):
+  ai       "Why can't AI do this?"  (every episode)
+  story    Daniel's failure story
+  culture  Japan vs the US
+  lab      Speaking Lab: say the phrases out loud, with a short silent "your turn" countdown (episode 12 on)
+
+What goes into each Short comes from episodes/epNN.short.json (epNNN for 100+):
 
 {
-  "lines": [44, 47],                       # 1-based line range in the episode script (inclusive)
-  "hook": "AI apologizes all the time. So why can't it do this?",   # big text at the top, from the first frame
-  "title": "Why saying sorry works for you, not for AI",            # YouTube title (optional, default: the hook)
-  "tag": "WHY CAN'T AI DO THIS?",          # small label above the hook (optional)
-  "board": {"type": "keyword", "text": "...", "icon": "Robot"}      # center card (optional)
+  "shorts": [
+    {"kind": "ai",      "lines": [44, 47], "hook": "AI apologizes all the time. So why can't it do this?",
+     "title": "When AI says sorry, it costs nothing. That's the point."},
+    {"kind": "story",   "lines": [49, 57], "hook": "...", "board": {"type": "story", "title": "...", "icon": "Door"}},
+    {"kind": "culture", "lines": [62, 68], "hook": "...", "board": {"type": "compare", "left": {...}, "right": {...}}}
+  ]
 }
 
-Without that file, the Short is cut automatically from the episode's "Why can't AI do this?" part
-(every episode has one), so new episodes get a Short with no extra work.
-The center card follows the episode's visual cues when it has them, otherwise it shows "board" or the cover.
-Clips are kept under MAX_SECONDS: lines at the end are dropped if the voices run long.
+- "lines": 1-based line range in the episode script (inclusive). "hook": big text at the top from the first frame.
+  "title": YouTube title (default: the hook). "tag": small label (default per kind). "board": center card (optional).
+  "max_seconds": length limit (default per kind); lines at the end are dropped if the voices run long.
+- An old single-Short file ({"lines": ..., "hook": ...}) counts as the "ai" Short.
+- Any kind missing from the file is cut automatically when the episode has that part, so new episodes get
+  their Shorts with no extra work.
+- The center card follows the episode's visual cues when it has them, otherwise "board", otherwise the cover.
 """
 import argparse
 import json
@@ -42,16 +54,27 @@ FPS = 12
 RATE = "+0%"          # natural native speed
 GAP = 0.22
 LEAD, TAIL = 0.35, 1.4
-MAX_SECONDS = 58.0
-TARGET_WORDS = 140    # rough size of an automatic clip before voicing
+
+KINDS = ["ai", "story", "culture", "lab"]
+TAGS = {"ai": "WHY CAN'T AI DO THIS?", "story": "DANIEL'S STORY", "culture": "JAPAN VS THE US",
+        "lab": "SPEAKING LAB · SAY IT OUT LOUD"}
+MAX_SECONDS = {"ai": 58.0, "story": 115.0, "culture": 95.0, "lab": 70.0}
+TARGET_WORDS = {"ai": 140, "story": 230, "culture": 190}   # rough size of an automatic clip before voicing
 
 HOOK_TOP, HOOK_SPACE = 280, 330     # hook text block (centered vertically in this space)
 BOARD_BOX = (100, 640, 980, 1250)   # center card area
 BAR = (40, 1268, 1040, 1508)        # caption bar
 BUST_FLOOR = 2010                    # busts stand behind the bar; their lower half runs off the bottom
 BUST_X = {"SENA": 300, "DANIEL": 780}
-NEXT_PART = re.compile(r"\bstor(y|ies)\b|failure|confession|mistake of mine|hold that thought", re.I)
+STORY_ASK = re.compile(r"failure story|one of your stories|a story for me|your story|mistake of mine|"
+                       r"tell you about a mistake|a confession|promised you a story", re.I)
+CULTURE = re.compile(r"cultur(e|al) (question|point|difference)|connects to (japan|culture)|about japan|"
+                     r"topic in japan|harder in japan|version of this problem|in japan, we", re.I)
+NEXT_PART = re.compile(r"\bstor(y|ies)\b|failure|confession|mistake of mine|hold that thought|"
+                       r"which eq skill|eq domain|speaking lab|today's challenge|cultur(e|al) (question|point)|"
+                       r"about japan", re.I)
 AI_QUESTION = re.compile(r"why can.?t ai|why is this (a skill|something) ai can.?t|ai can.?t do (this|that) for", re.I)
+LAB_TOPIC = re.compile(r"(?:three|3) (?:sentences|phrases) (?:for|to) ([^.]+)\.", re.I)
 
 
 def short_path(num):
@@ -59,37 +82,118 @@ def short_path(num):
     return os.path.join(ROOT, "episodes", name)
 
 
-def auto_range(lines):
-    """The 'Why can't AI do this?' part: from the question, about TARGET_WORDS words."""
-    start = next((i for i, (_, t) in enumerate(lines) if i > 5 and AI_QUESTION.search(t)), None)
-    if start is None:  # no AI question: take the middle of the episode
-        start = len(lines) // 2
+def grow(lines, start, target, min_lines=3):
+    """From start, take lines up to about `target` words, stopping before the next part of the episode."""
     words, end = 0, start
-    while end < len(lines) and (words < TARGET_WORDS or end - start < 3):
-        if end - start >= 2 and NEXT_PART.search(lines[end][1]):  # Daniel's story etc. starts: stop here
+    while end < len(lines) and (words < target or end - start < min_lines):
+        if end - start >= 2 and NEXT_PART.search(lines[end][1]):
             break
         words += len(lines[end][1].split())
         end += 1
-        if words > TARGET_WORDS * 1.25:
+        if words > target * 1.25:
             break
-    return start, end  # python slice
+    return end
 
 
-def load_spec(num, ep, lines):
-    spec = {}
+def auto_range(lines, kind="ai"):
+    """(start, end) python slice for an automatic Short of this kind, or None if the episode has no such part."""
+    if kind == "ai":
+        start = next((i for i, (_, t) in enumerate(lines) if i > 5 and AI_QUESTION.search(t)), None)
+        if start is None:
+            return None
+        return start, grow(lines, start, TARGET_WORDS["ai"])
+    if kind == "story":
+        start = next((i for i, (_, t) in enumerate(lines) if i > 20 and STORY_ASK.search(t)), None)
+        if start is None:
+            return None
+        # skip a one-line "Now, my failure story." / "Can I ask for one of your stories?" when the story follows
+        if len(lines[start][1].split()) < 25 and start + 1 < len(lines):
+            nxt = start + 1
+            if len(lines[nxt][1].split()) < 8 and nxt + 1 < len(lines):  # "I was waiting for it."
+                nxt += 1
+            start = nxt
+        words, end = 0, start
+        while end < len(lines) and words < TARGET_WORDS["story"]:
+            if end - start >= 3 and CULTURE.search(lines[end][1]):
+                break
+            words += len(lines[end][1].split())
+            end += 1
+        return start, end
+    if kind == "culture":
+        start = next((i for i, (_, t) in enumerate(lines) if i > 20 and CULTURE.search(t)), None)
+        if start is None:
+            return None
+        return start, grow(lines, start, TARGET_WORDS["culture"])
+    if kind == "lab":
+        states, repeats = scenes.line_states(0, lines)
+        reps = sorted(repeats)
+        if not reps:
+            return None
+        start = reps[0] - 1  # Daniel's first quoted sentence
+        end = reps[0] + 1
+        for k in reps[1:]:
+            if k - 1 <= end:  # keep consecutive repeat pairs together
+                end = k + 1
+            else:
+                break
+        return start, end
+    raise ValueError(kind)
+
+
+def lab_topic(lines, start):
+    for i in range(max(0, start - 3), start):
+        m = LAB_TOPIC.search(lines[i][1])
+        if m:
+            return m.group(1).strip()
+    return None
+
+
+def specs(num, ep, lines):
+    """All Shorts this episode has, as a dict kind -> spec."""
+    data = {}
     p = short_path(num)
     if os.path.exists(p):
-        spec = json.load(open(p, encoding="utf-8"))
-    if spec.get("lines"):
-        a, b = spec["lines"]
-        start, end = a - 1, b
-    else:
-        start, end = auto_range(lines)
-    spec.setdefault("hook", f"Why can't AI do this? {ep['short_title']}")
-    spec.setdefault("title", spec["hook"])
-    spec.setdefault("tag", "LEARN WHAT AI CAN'T DO")
-    spec["start"], spec["end"] = start, end
-    return spec
+        data = json.load(open(p, encoding="utf-8"))
+    items = data.get("shorts") if "shorts" in data else ([dict(data, kind="ai")] if data else [])
+    by_kind = {it.get("kind", "ai"): dict(it) for it in items}
+    out = {}
+    for kind in KINDS:
+        spec = by_kind.get(kind)
+        if spec is None:
+            rng = auto_range(lines, kind)
+            if rng is None:
+                continue
+            spec = {"auto": True}
+            start, end = rng
+        elif spec.get("skip"):
+            continue
+        elif spec.get("lines"):
+            a, b = spec["lines"]
+            start, end = a - 1, b
+        else:
+            rng = auto_range(lines, kind)
+            if rng is None:
+                continue
+            start, end = rng
+        topic = ep["short_title"]
+        defaults = {
+            "ai": f"Why can't AI do this? {topic}",
+            "story": f"A manager's mistake: {topic}",
+            "culture": f"Japan vs the US: {topic}",
+            "lab": f"Say it out loud: 3 English phrases for {lab_topic(lines, start) or topic.lower()}",
+        }
+        spec["kind"] = kind
+        spec.setdefault("hook", defaults[kind])
+        spec.setdefault("title", spec["hook"])
+        spec.setdefault("tag", TAGS[kind])
+        spec.setdefault("max_seconds", MAX_SECONDS[kind])
+        spec["start"], spec["end"] = start, end
+        out[kind] = spec
+    return out
+
+
+def load_spec(num, ep, lines, kind="ai"):
+    return specs(num, ep, lines)[kind]
 
 
 def default_poses(spk_active):
@@ -98,26 +202,28 @@ def default_poses(spk_active):
 
 
 def clip_states(num, ep, lines, spec):
-    """Poses and center card for each line of the clip."""
+    """Poses and center card for each line of the clip, and which lines get a "your turn" pause."""
     start, end = spec["start"], spec["end"]
     visual = scenes.has_visuals(num)
-    states = scenes.line_states(num, lines, ep)[0] if visual else None
+    states, repeats = scenes.line_states(num, lines, ep)
     out = []
     for i in range(start, end):
         spk = lines[i][0]
-        if states:
-            st = dict(states[i])
-            board = st["board"]
-            if spec.get("board"):
-                board = spec["board"]
-            elif board.get("type") in ("none", "repeat", "question", "challenge") or not board:
-                board = {"type": "cover"}
+        st = states[i]
+        board = st["board"]
+        if board.get("type") == "repeat":
+            pass  # Speaking Lab sentence, shown big
+        elif spec.get("board"):
+            board = spec["board"]
+        elif not visual or board.get("type") in ("none", "question", "challenge") or not board:
+            board = {"type": "cover"}
+        if visual:
             poses = {"SENA": st["sena"], "DANIEL": st["daniel"]}
         else:
-            board = spec.get("board") or {"type": "cover"}
             poses = default_poses(spk)
         out.append({"sena": poses["SENA"], "daniel": poses["DANIEL"], "board": board})
-    return out
+    pauses = {i - start for i in repeats if start <= i < end}
+    return out, pauses
 
 
 # ---------- drawing ----------
@@ -225,10 +331,14 @@ def end_card(num, spec, ep):
 
 # ---------- build ----------
 
-def build(num, fake=False, out_dir=None, frame=None):
+def build(num, kind="ai", fake=False, out_dir=None, frame=None):
     meta, ep, lines = me.load_episode(num)
-    spec = load_spec(num, ep, lines)
-    states = clip_states(num, ep, lines, spec)
+    all_specs = specs(num, ep, lines)
+    if kind not in all_specs:
+        print(f"EP {num:02d}: no {kind} Short in this episode, skipped", flush=True)
+        return None
+    spec = all_specs[kind]
+    states, pauses = clip_states(num, ep, lines, spec)
     clip = lines[spec["start"]:spec["end"]]
     icons = set()
     for st in states:
@@ -244,20 +354,21 @@ def build(num, fake=False, out_dir=None, frame=None):
             print(f"  illustrations skipped: {e}", flush=True)
     out_dir = out_dir or os.path.join(ROOT, "output", f"ep{num:02d}")
     os.makedirs(out_dir, exist_ok=True)
-    print(f"EP {num:02d} short: lines {spec['start'] + 1}-{spec['end']} | {spec['hook']}", flush=True)
+    stem = f"ep{num:02d}_short_{kind}"
+    print(f"EP {num:02d} {kind} short: lines {spec['start'] + 1}-{spec['end']} | {spec['hook']}", flush=True)
 
     if frame is not None:
         i = max(0, min(frame - 1, len(clip) - 1))
         st = states[i]
-        sub = me.chunk_text(clip[i][1])[0]
-        path = os.path.join(out_dir, f"ep{num:02d}_short_frame{i + 1}.png")
+        sub = me.chunk_text(scenes._strip_quotes(clip[i][1]) or clip[i][1], max_words=7, max_chars=42)[0]
+        path = os.path.join(out_dir, f"{stem}_frame{i + 1}.png")
         draw(num, spec, ep["title"], clip[i][0], 2, sub, st["sena"], st["daniel"],
              json.dumps(st["board"], sort_keys=True)).save(path)
-        end_card(num, spec, ep).save(os.path.join(out_dir, f"ep{num:02d}_short_end.png"))
+        end_card(num, spec, ep).save(os.path.join(out_dir, f"{stem}_end.png"))
         print(f"  frame: {path}", flush=True)
         return {"frame": path}
 
-    work = os.path.join(out_dir, "short_work")
+    work = os.path.join(out_dir, f"{stem}_work")
     shutil.rmtree(work, ignore_errors=True)
     os.makedirs(work)
     voiced = []
@@ -269,26 +380,36 @@ def build(num, fake=False, out_dir=None, frame=None):
             words = me.synth(spk, text, mp3, RATE)
             a = me.decode(mp3)
         voiced.append((spk, text, a, words))
-    # keep it under a minute: drop lines from the end (never end on a question)
+
+    def pause_len(i, a):
+        return max(2.5, len(a) / me.SR + 1.0) if i in pauses else 0.0
+
     def length(v):
-        return LEAD + sum(len(a) / me.SR + GAP for _, _, a, _ in v) + TAIL
-    while len(voiced) > 2 and (length(voiced) > MAX_SECONDS or voiced[-1][1].rstrip().endswith("?")):
+        return LEAD + sum(len(a) / me.SR + GAP + pause_len(i, a) for i, (_, _, a, _) in enumerate(v)) + TAIL
+    limit = float(spec["max_seconds"])
+    # drop lines from the end to fit (never end on a question)
+    while len(voiced) > 2 and (length(voiced) > limit or voiced[-1][1].rstrip().endswith("?")):
         voiced.pop()
-    if length(voiced) > MAX_SECONDS:
-        print(f"  WARNING: clip is {length(voiced):.0f}s, over {MAX_SECONDS:.0f}s; YouTube still takes Shorts up to 3 minutes",
-              flush=True)
+    if length(voiced) > limit:
+        print(f"  WARNING: clip is {length(voiced):.0f}s, over {limit:.0f}s", flush=True)
     states = states[:len(voiced)]
 
     audio = [np.zeros(int(LEAD * me.SR), np.float32)]
     t = LEAD
-    segments, subs = [], []
-    for spk, text, a, words in voiced:
+    segments, subs, waits = [], [], []  # waits: (start, end, line index) silent "your turn" time
+    for i, (spk, text, a, words) in enumerate(voiced):
         dur = len(a) / me.SR
         segments.append((t, t + dur, spk))
-        for s, e, c in me.time_chunks(me.chunk_text(text, max_words=7, max_chars=42), words, dur):
-            subs.append((t + s, t + e, spk, c))
+        shown = scenes._strip_quotes(text) or text  # Speaking Lab sentences are quoted in the script
+        for s0, e0, c in me.time_chunks(me.chunk_text(shown, max_words=7, max_chars=42), words, dur):
+            subs.append((t + s0, t + e0, spk, c))
         audio += [a, np.zeros(int(GAP * me.SR), np.float32)]
         t += dur + GAP
+        pl = pause_len(i, a)
+        if pl:
+            audio.append(np.zeros(int(pl * me.SR), np.float32))
+            waits.append((t, t + pl, i))
+            t += pl
     speech_end = t
     audio.append(np.zeros(int(TAIL * me.SR), np.float32))
     pcm = np.concatenate(audio)
@@ -310,7 +431,8 @@ def build(num, fake=False, out_dir=None, frame=None):
         if tt >= speech_end + 0.2:
             keys.append(("END",))
             continue
-        while seg_i < len(segments) - 1 and tt >= segments[seg_i][1] + GAP / 2:
+        while seg_i < len(segments) - 1 and tt >= segments[seg_i][1] + GAP / 2 and \
+                not any(w0 - GAP <= tt < w1 and wi == seg_i for w0, w1, wi in waits):
             seg_i += 1
         s0, s1, spk = segments[seg_i]
         talking = s0 <= tt < s1
@@ -324,8 +446,14 @@ def build(num, fake=False, out_dir=None, frame=None):
         if talking:
             rr = rms[fi]
             level = 3 if rr > 0.12 else 2 if rr > 0.05 else 1 if rr > 0.015 else 0
+        board = dict(states[seg_i]["board"])
+        for w0, w1, wi in waits:
+            if w0 <= tt < w1:
+                board["countdown"] = max(1, int(np.ceil(w1 - tt)))
+                subtitle = "Your turn. Say it out loud."
+                break
         st = states[seg_i]
-        keys.append((last, level, subtitle, st["sena"], st["daniel"], json.dumps(st["board"], sort_keys=True)))
+        keys.append((last, level, subtitle, st["sena"], st["daniel"], json.dumps(board, sort_keys=True)))
 
     frames_dir = os.path.join(work, "frames")
     os.makedirs(frames_dir)
@@ -347,25 +475,37 @@ def build(num, fake=False, out_dir=None, frame=None):
         for p, dd in listing:
             f.write(f"file '{p}'\nduration {dd:.4f}\n")
         f.write(f"file '{listing[-1][0]}'\n")
-    mp4 = os.path.join(out_dir, f"ep{num:02d}_short.mp4")
+    mp4 = os.path.join(out_dir, f"{stem}.mp4")
     subprocess.run(["ffmpeg", "-y", "-f", "concat", "-safe", "0", "-i", lst, "-i", wav,
                     "-vf", f"fps={FPS * 2},format=yuv420p", "-c:v", "libx264", "-preset", "medium",
                     "-tune", "stillimage", "-crf", "20", "-c:a", "aac", "-b:a", "160k", "-ar", "48000",
                     "-shortest", "-movflags", "+faststart", mp4],
                    check=True, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
     shutil.rmtree(work, ignore_errors=True)
-    info = {"video": mp4, "title": spec["title"], "hook": spec["hook"], "duration": round(total, 1),
+    info = {"video": mp4, "kind": kind, "title": spec["title"], "hook": spec["hook"], "duration": round(total, 1),
             "lines": [spec["start"] + 1, spec["start"] + len(voiced)]}
-    json.dump(info, open(os.path.join(out_dir, f"ep{num:02d}_short.json"), "w"), indent=2, ensure_ascii=False)
+    json.dump(info, open(os.path.join(out_dir, f"{stem}.json"), "w"), indent=2, ensure_ascii=False)
     print(f"  {len(cache)} unique frames, {total:.1f}s -> {mp4}", flush=True)
     return info
+
+
+def kinds_of(num):
+    meta, ep, lines = me.load_episode(num)
+    return list(specs(num, ep, lines))
 
 
 if __name__ == "__main__":
     ap = argparse.ArgumentParser()
     ap.add_argument("episode", type=int)
+    ap.add_argument("--kind", default="all", help="ai, story, culture, lab, or all")
     ap.add_argument("--fake-tts", action="store_true")
     ap.add_argument("--out")
     ap.add_argument("--frame", type=int)
+    ap.add_argument("--list", action="store_true")
     a = ap.parse_args()
-    print(json.dumps(build(a.episode, a.fake_tts, a.out, a.frame), indent=2, ensure_ascii=False))
+    if a.list:
+        print(" ".join(kinds_of(a.episode)))
+        sys.exit(0)
+    kinds = kinds_of(a.episode) if a.kind == "all" else [a.kind]
+    results = [build(a.episode, k, a.fake_tts, a.out, a.frame) for k in kinds]
+    print(json.dumps([x for x in results if x], indent=2, ensure_ascii=False))

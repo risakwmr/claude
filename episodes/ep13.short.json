@@ -1,15 +1,67 @@
 {
-  "lines": [
-    46,
-    50
-  ],
-  "hook": "AI writes better thank-you notes than me. So why don't they land?",
-  "title": "Why AI-written praise falls flat",
-  "tag": "WHY CAN'T AI DO THIS?",
-  "board": {
-    "type": "keyword",
-    "text": "The hardest part is the noticing",
-    "sub": "details prove a real person saw you",
-    "icon": "Eyes"
-  }
+  "shorts": [
+    {
+      "kind": "ai",
+      "lines": [
+        46,
+        50
+      ],
+      "hook": "AI writes better thank-you notes than me. So why don't they land?",
+      "title": "Why AI-written praise falls flat",
+      "board": {
+        "type": "keyword",
+        "text": "The hardest part is the noticing",
+        "sub": "details prove a real person saw you",
+        "icon": "Eyes"
+      }
+    },
+    {
+      "kind": "story",
+      "lines": [
+        53,
+        59
+      ],
+      "hook": "\"Nice work.\" That's all I ever told him. Then he left.",
+      "title": "Why generic praise is invisible",
+      "board": {
+        "type": "story",
+        "title": "\"Nice work, Rafael\"",
+        "text": "precise about bugs, vague about wins",
+        "icon": "Clapping hands"
+      }
+    },
+    {
+      "kind": "culture",
+      "lines": [
+        62,
+        67
+      ],
+      "hook": "Japan has too little praise. The US has too much empty praise.",
+      "title": "Japan has too little praise. The US has too much empty praise.",
+      "board": {
+        "type": "compare",
+        "left": {
+          "title": "Japan",
+          "items": [
+            "Direct praise is rare",
+            "Deny it: \"No, no, not at all\"",
+            "Otsukaresama: warm, not specific"
+          ]
+        },
+        "right": {
+          "title": "US",
+          "items": [
+            "\"Awesome\" for everything",
+            "A sandwich is \"amazing\"",
+            "The words lose their value"
+          ]
+        }
+      }
+    },
+    {
+      "kind": "lab",
+      "hook": "Say it out loud: 3 English phrases for specific praise",
+      "title": "3 English phrases for specific praise at work (repeat after me)"
+    }
+  ]
 }

@@ -1,15 +1,60 @@
 {
-  "lines": [
-    42,
-    44
-  ],
-  "hook": "AI can write a beautiful request. So why does no one say yes?",
-  "title": "Influence without authority: what AI can't do",
-  "tag": "WHY CAN'T AI DO THIS?",
-  "board": {
-    "type": "keyword",
-    "text": "People don't share real problems with a form",
-    "sub": "sit with a real person and listen",
-    "icon": "Speech balloon"
-  }
+  "shorts": [
+    {
+      "kind": "ai",
+      "lines": [
+        42,
+        44
+      ],
+      "hook": "AI can write a beautiful request. So why does no one say yes?",
+      "title": "Influence without authority: what AI can't do",
+      "board": {
+        "type": "keyword",
+        "text": "People don't share real problems with a form",
+        "sub": "sit with a real person and listen",
+        "icon": "Speech balloon"
+      }
+    },
+    {
+      "kind": "story",
+      "lines": [
+        47,
+        57
+      ],
+      "hook": "I went over his head. It cost me a year.",
+      "title": "I was efficient for one month and slow for a year",
+      "board": {
+        "type": "story",
+        "title": "Over his head",
+        "text": "efficient for a month, slow for a year",
+        "icon": "Turtle"
+      }
+    },
+    {
+      "kind": "culture",
+      "lines": [
+        58,
+        64
+      ],
+      "hook": "Americans do nemawashi too. They just don't call it that.",
+      "title": "Nemawashi: the Japanese secret to influence",
+      "board": {
+        "type": "compare",
+        "left": {
+          "title": "Japan",
+          "items": [
+            "Nemawashi: talk to each person first",
+            "Ringi: everyone stamps the proposal"
+          ]
+        },
+        "right": {
+          "title": "US",
+          "items": [
+            "Tickets and direct messages",
+            "The best call it \"pre-wiring\""
+          ]
+        }
+      }
+    }
+  ]
 }

@@ -322,14 +322,14 @@ def short_description(meta, ep, episode_vid):
     return "\n".join(lines)[:4900]
 
 
-def upload_short(num, publish_at=None):
-    """Upload output/epNN/epNN_short.mp4 as a Short, link the full episode, and record it in shorts.json."""
+def upload_short(num, kind="ai", publish_at=None):
+    """Upload output/epNN/epNN_short_KIND.mp4 as a Short, link the full episode, and record it in shorts.json."""
     import shorts
     publish_at = (publish_at if publish_at is not None else os.environ.get("PUBLISH_AT", "")).strip()
     meta = json.load(open(os.path.join(ROOT, "episodes", "episodes.json"), encoding="utf-8"))
     ep = next(e for e in meta["episodes"] if e["number"] == num)
     d = os.path.join(ROOT, "output", f"ep{num:02d}")
-    info = json.load(open(os.path.join(d, f"ep{num:02d}_short.json"), encoding="utf-8"))
+    info = json.load(open(os.path.join(d, f"ep{num:02d}_short_{kind}.json"), encoding="utf-8"))
     pub = json.load(open(os.path.join(ROOT, "published.json")))
     episode_vid = pub.get(str(num), {}).get("video_id")
     yt = youtube()
@@ -368,8 +368,8 @@ def upload_short(num, publish_at=None):
         else:
             raise
     vid = resp["id"]
-    shorts.record(num, vid, publish_at)
-    note_status(f"short:{num}", f"ok {vid}")
+    shorts.record(num, kind, vid, publish_at)
+    note_status(f"short:{num}-{kind}", f"ok {vid}")
     print(f"  Short id: {vid}", flush=True)
     return vid
 
@@ -385,26 +385,27 @@ def comment_links():
     meta = json.load(open(os.path.join(ROOT, "episodes", "episodes.json"), encoding="utf-8"))
     now = datetime.now(timezone.utc)
     todo = [k for k, v in data.items() if not v.get("commented") and v.get("publish_at")
-            and parse(v["publish_at"]) <= now and k in pub]
+            and parse(v["publish_at"]) <= now and k.split("-")[0] in pub]
     if not todo:
         return
     yt = youtube()
     for k in todo:
-        ep = next(e for e in meta["episodes"] if e["number"] == int(k))
+        n = k.split("-")[0]
+        ep = next(e for e in meta["episodes"] if e["number"] == int(n))
         try:
             yt.commentThreads().insert(part="snippet", body={"snippet": {
                 "videoId": data[k]["video_id"],
                 "topLevelComment": {"snippet": {
-                    "textOriginal": f"Full episode: \"{ep['title']}\" → https://youtu.be/{pub[k]['video_id']}"}},
+                    "textOriginal": f"Full episode: \"{ep['title']}\" → https://youtu.be/{pub[n]['video_id']}"}},
             }}).execute()
             data[k]["commented"] = True
-            print(f"  Short for EP {int(k):02d}: link comment added", flush=True)
+            print(f"  Short {k}: link comment added", flush=True)
         except HttpError as e:
-            print(f"  Short for EP {int(k):02d}: link comment skipped ({e.resp.status})", flush=True)
+            print(f"  Short {k}: link comment skipped ({e.resp.status})", flush=True)
             note_status(f"short-comment:{k}", f"{e.resp.status} {str(e)[:300]}")
             if e.resp.status == 403:  # comments turned off or not allowed: don't keep trying
                 data[k]["commented"] = "skipped"
-    json.dump(data, open(shorts.SHORTS_FILE, "w"), indent=2)
+    shorts.save_shorts(data)
 
 
 STATUS_FILE = os.path.join(ROOT, "run_status.json")
@@ -532,9 +533,8 @@ if __name__ == "__main__":
     if sys.argv[1] == "short-comments":
         comment_links()
         sys.exit(0)
-    if sys.argv[1] == "short":
-        for n in sys.argv[2:]:
-            print(upload_short(int(n)))
+    if sys.argv[1] == "short":  # short EPISODE [KIND]
+        print(upload_short(int(sys.argv[2]), sys.argv[3] if len(sys.argv) > 3 else "ai"))
         sys.exit(0)
     if sys.argv[1] == "thumb":
         for n in sys.argv[2:]:

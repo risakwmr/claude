@@ -1,15 +1,62 @@
 {
-  "lines": [
-    36,
-    38
-  ],
-  "hook": "AI can write your 1:1 agenda in 5 seconds. So what?",
-  "title": "The agenda is easy. The trust is the hard part.",
-  "tag": "WHY CAN'T AI DO THIS?",
-  "board": {
-    "type": "keyword",
-    "text": "The agenda is easy",
-    "sub": "the trust is the hard part",
-    "icon": "Handshake"
-  }
+  "shorts": [
+    {
+      "kind": "ai",
+      "lines": [
+        36,
+        38
+      ],
+      "hook": "AI can write your 1:1 agenda in 5 seconds. So what?",
+      "title": "The agenda is easy. The trust is the hard part.",
+      "board": {
+        "type": "keyword",
+        "text": "The agenda is easy",
+        "sub": "the trust is the hard part",
+        "icon": "Handshake"
+      }
+    },
+    {
+      "kind": "story",
+      "lines": [
+        43,
+        51
+      ],
+      "hook": "\"Everything's on track,\" she said every week. Then she quit.",
+      "title": "My best engineer quit after a year of perfect 1:1s",
+      "board": {
+        "type": "story",
+        "title": "\"Everything's on track\"",
+        "text": "then one Monday, she resigned",
+        "icon": "Door"
+      }
+    },
+    {
+      "kind": "culture",
+      "lines": [
+        52,
+        55
+      ],
+      "hook": "In Japan, the 1:1 is the boss's meeting. In the US, it's yours.",
+      "title": "Who owns the 1:1? Japan vs the US",
+      "board": {
+        "type": "compare",
+        "left": {
+          "title": "Japan",
+          "items": [
+            "1:1s are fairly new",
+            "A chance to report to the boss",
+            "Risk: polite silence"
+          ]
+        },
+        "right": {
+          "title": "US",
+          "items": [
+            "\"It's the employee's meeting\"",
+            "The employee drives",
+            "Risk: a manager with no questions"
+          ]
+        }
+      }
+    }
+  ]
 }

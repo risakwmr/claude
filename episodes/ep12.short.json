@@ -1,15 +1,67 @@
 {
-  "lines": [
-    48,
-    52
-  ],
-  "hook": "AI can describe a manager's job. It can't do this.",
-  "title": "AI can describe the job. It can't do the change.",
-  "tag": "WHY CAN'T AI DO THIS?",
-  "board": {
-    "type": "keyword",
-    "text": "It's an identity change",
-    "sub": "not a list to learn",
-    "icon": "Butterfly"
-  }
+  "shorts": [
+    {
+      "kind": "ai",
+      "lines": [
+        48,
+        52
+      ],
+      "hook": "AI can describe a manager's job. It can't do this.",
+      "title": "AI can describe the job. It can't do the change.",
+      "board": {
+        "type": "keyword",
+        "text": "It's an identity change",
+        "sub": "not a list to learn",
+        "icon": "Butterfly"
+      }
+    },
+    {
+      "kind": "story",
+      "lines": [
+        55,
+        65
+      ],
+      "hook": "I got promoted. My best friend at work became my report.",
+      "title": "What I got wrong managing my best friend",
+      "board": {
+        "type": "story",
+        "title": "From peer to boss",
+        "text": "and my closest friend was on the team",
+        "icon": "Handshake"
+      }
+    },
+    {
+      "kind": "culture",
+      "lines": [
+        68,
+        74
+      ],
+      "hook": "In Japan, stepping back from manager feels like failure. In the US, it's normal.",
+      "title": "Manager or not? Career paths in Japan vs the US",
+      "board": {
+        "type": "compare",
+        "left": {
+          "title": "Japan",
+          "items": [
+            "Managers by seniority",
+            "\"Playing manager\": player and coach",
+            "Going back feels like a demotion"
+          ]
+        },
+        "right": {
+          "title": "US",
+          "items": [
+            "Two paths: IC or manager",
+            "Grow senior without managing",
+            "Switching back is not rare"
+          ]
+        }
+      }
+    },
+    {
+      "kind": "lab",
+      "hook": "Say it out loud: 3 English phrases to talk about your career",
+      "title": "3 English phrases to talk about your career (repeat after me)"
+    }
+  ]
 }

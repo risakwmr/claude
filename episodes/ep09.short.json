@@ -1,15 +1,61 @@
 {
-  "lines": [
-    50,
-    53
-  ],
-  "hook": "They're not trusting a reminder app. They're trusting you.",
-  "title": "The reminder is a tool. The keeping is yours.",
-  "tag": "WHY CAN'T AI DO THIS?",
-  "board": {
-    "type": "keyword",
-    "text": "The reminder is a tool",
-    "sub": "the keeping is yours",
-    "icon": "Handshake"
-  }
+  "shorts": [
+    {
+      "kind": "ai",
+      "lines": [
+        50,
+        53
+      ],
+      "hook": "They're not trusting a reminder app. They're trusting you.",
+      "title": "The reminder is a tool. The keeping is yours.",
+      "board": {
+        "type": "keyword",
+        "text": "The reminder is a tool",
+        "sub": "the keeping is yours",
+        "icon": "Handshake"
+      }
+    },
+    {
+      "kind": "story",
+      "lines": [
+        55,
+        64
+      ],
+      "hook": "I kept saying \"I'll look into it.\" It cost me a colleague's trust.",
+      "title": "An honest no is better than a vague yes",
+      "board": {
+        "type": "story",
+        "title": "\"Let me look into it\"",
+        "text": "three times, and it really meant no",
+        "icon": "Hourglass done"
+      }
+    },
+    {
+      "kind": "culture",
+      "lines": [
+        66,
+        70
+      ],
+      "hook": "Japan builds trust over years. The US tests it in weeks.",
+      "title": "How trust works at work in Japan vs the US",
+      "board": {
+        "type": "compare",
+        "left": {
+          "title": "Japan",
+          "items": [
+            "Built slowly, over years",
+            "Very stable once it exists"
+          ]
+        },
+        "right": {
+          "title": "US",
+          "items": [
+            "Open trust from day one",
+            "Tested early by what you deliver",
+            "\"I'll circle back\" isn't a promise"
+          ]
+        }
+      }
+    }
+  ]
 }

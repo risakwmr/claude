@@ -1,15 +1,60 @@
 {
-  "lines": [
-    56,
-    59
-  ],
-  "hook": "AI wasn't in your meeting.",
-  "title": "Why AI can't give you real feedback",
-  "tag": "WHY CAN'T AI DO THIS?",
-  "board": {
-    "type": "keyword",
-    "text": "The data lives in other people",
-    "sub": "ask them, and receive it well",
-    "icon": "Busts in silhouette"
-  }
+  "shorts": [
+    {
+      "kind": "ai",
+      "lines": [
+        56,
+        59
+      ],
+      "hook": "AI wasn't in your meeting.",
+      "title": "Why AI can't give you real feedback",
+      "board": {
+        "type": "keyword",
+        "text": "The data lives in other people",
+        "sub": "ask them, and receive it well",
+        "icon": "Busts in silhouette"
+      }
+    },
+    {
+      "kind": "story",
+      "lines": [
+        61,
+        71
+      ],
+      "hook": "I asked my team for feedback. Then I ruined it in five minutes.",
+      "title": "How I killed feedback on my team in five minutes",
+      "board": {
+        "type": "story",
+        "title": "\"What's one thing I could do better?\"",
+        "text": "and then I explained for five minutes",
+        "icon": "Speech balloon"
+      }
+    },
+    {
+      "kind": "culture",
+      "lines": [
+        72,
+        75
+      ],
+      "hook": "Japan hides feedback in hints. The US hides it behind a smile.",
+      "title": "Feedback in Japan vs the US",
+      "board": {
+        "type": "compare",
+        "left": {
+          "title": "Japan",
+          "items": [
+            "Feedback comes down, not up",
+            "Indirect: \"Maybe think about this more\""
+          ]
+        },
+        "right": {
+          "title": "US",
+          "items": [
+            "\"We have a feedback culture\"",
+            "\"Any feedback?\" gets \"Looks great!\""
+          ]
+        }
+      }
+    }
+  ]
 }

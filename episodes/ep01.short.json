@@ -1,18 +1,30 @@
 {
-  "lines": [
-    51,
-    59
-  ],
-  "hook": "3 things AI can't do for you",
-  "title": "3 skills AI can't do for you",
-  "tag": "WHY CAN'T AI DO THIS?",
-  "board": {
-    "type": "list",
-    "title": "What AI can't do for you",
-    "items": [
-      "Judgment",
-      "Trust",
-      "Growth"
-    ]
-  }
+  "shorts": [
+    {
+      "kind": "ai",
+      "lines": [
+        51,
+        59
+      ],
+      "hook": "3 things AI can't do for you",
+      "title": "3 skills AI can't do for you",
+      "board": {
+        "type": "list",
+        "title": "What AI can't do for you",
+        "items": [
+          "Judgment",
+          "Trust",
+          "Growth"
+        ]
+      }
+    },
+    {
+      "kind": "story",
+      "skip": true
+    },
+    {
+      "kind": "culture",
+      "skip": true
+    }
+  ]
 }

@@ -1,15 +1,62 @@
 {
-  "lines": [
-    47,
-    50
-  ],
-  "hook": "AI can write it. It can't own it.",
-  "title": "AI can do the typing, not the owning",
-  "tag": "WHY CAN'T AI DO THIS?",
-  "board": {
-    "type": "keyword",
-    "text": "The typing, not the owning",
-    "sub": "nobody can generate trust for you",
-    "icon": "Robot"
-  }
+  "shorts": [
+    {
+      "kind": "ai",
+      "lines": [
+        47,
+        50
+      ],
+      "hook": "AI can write it. It can't own it.",
+      "title": "AI can do the typing, not the owning",
+      "board": {
+        "type": "keyword",
+        "text": "The typing, not the owning",
+        "sub": "nobody can generate trust for you",
+        "icon": "Robot"
+      }
+    },
+    {
+      "kind": "story",
+      "lines": [
+        52,
+        58
+      ],
+      "hook": "\"Someone should fix that.\" Nobody did.",
+      "title": "\"Someone should fix that\" means nobody will",
+      "board": {
+        "type": "story",
+        "title": "\"Someone should fix that\"",
+        "text": "a two-minute fix, three weeks later",
+        "icon": "Link"
+      }
+    },
+    {
+      "kind": "culture",
+      "lines": [
+        61,
+        64
+      ],
+      "hook": "Japan: you wait too long. The US: you rush in.",
+      "title": "Ownership at work: Japan vs the US",
+      "board": {
+        "type": "compare",
+        "left": {
+          "title": "Japan",
+          "items": [
+            "Tojisha ishiki: it's my problem too",
+            "Don't step outside your role",
+            "Risk: waiting too long"
+          ]
+        },
+        "right": {
+          "title": "US",
+          "items": [
+            "\"Ownership\" in every review",
+            "Act without being asked",
+            "Risk: rushing in"
+          ]
+        }
+      }
+    }
+  ]
 }

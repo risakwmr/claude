@@ -1,15 +1,60 @@
 {
-  "lines": [
-    44,
-    46
-  ],
-  "hook": "Your smartwatch knows your heart rate. Not why.",
-  "title": "Your smartwatch can't tell you this",
-  "tag": "WHY CAN'T AI DO THIS?",
-  "board": {
-    "type": "keyword",
-    "text": "Data ≠ meaning",
-    "sub": "only you can connect the signal",
-    "icon": "Watch"
-  }
+  "shorts": [
+    {
+      "kind": "ai",
+      "lines": [
+        44,
+        46
+      ],
+      "hook": "Your smartwatch knows your heart rate. Not why.",
+      "title": "Your smartwatch can't tell you this",
+      "board": {
+        "type": "keyword",
+        "text": "Data ≠ meaning",
+        "sub": "only you can connect the signal",
+        "icon": "Watch"
+      }
+    },
+    {
+      "kind": "story",
+      "lines": [
+        49,
+        55
+      ],
+      "hook": "My jaw tightened. Then I sent the worst reply of my career.",
+      "title": "The reply I still regret as a manager",
+      "board": {
+        "type": "story",
+        "title": "\"This isn't the time for I told you so\"",
+        "text": "a Friday production issue",
+        "icon": "Face with steam from nose"
+      }
+    },
+    {
+      "kind": "culture",
+      "lines": [
+        58,
+        62
+      ],
+      "hook": "In Japan, we hide our reactions at work. Isn't that EQ?",
+      "title": "Hiding a feeling is not the same as handling it",
+      "board": {
+        "type": "compare",
+        "left": {
+          "title": "Hiding",
+          "items": [
+            "A calm face",
+            "The feeling still pulls your judgment"
+          ]
+        },
+        "right": {
+          "title": "Noticing",
+          "items": [
+            "Look at the feeling",
+            "Then choose what to do"
+          ]
+        }
+      }
+    }
+  ]
 }

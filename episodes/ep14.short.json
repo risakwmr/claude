@@ -1,9 +1,36 @@
 {
-  "lines": [
-    44,
-    47
-  ],
-  "hook": "AI apologizes all the time. So why can't it do this?",
-  "title": "When AI says sorry, it costs nothing. That's the point.",
-  "tag": "WHY CAN'T AI DO THIS?"
+  "shorts": [
+    {
+      "kind": "ai",
+      "lines": [
+        44,
+        47
+      ],
+      "hook": "AI apologizes all the time. So why can't it do this?",
+      "title": "When AI says sorry, it costs nothing. That's the point."
+    },
+    {
+      "kind": "story",
+      "lines": [
+        49,
+        57
+      ],
+      "hook": "\"My door is always open.\" Then one sentence closed it.",
+      "title": "My door was open, but my face was closed"
+    },
+    {
+      "kind": "culture",
+      "lines": [
+        62,
+        68
+      ],
+      "hook": "Japan says sorry. The US says \"fail fast.\" Both hide mistakes.",
+      "title": "Mistakes at work: Japan vs the US"
+    },
+    {
+      "kind": "lab",
+      "hook": "Say it out loud: 3 English phrases to go first in a meeting",
+      "title": "3 English phrases to go first in a meeting (repeat after me)"
+    }
+  ]
 }

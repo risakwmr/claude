@@ -1,15 +1,62 @@
 {
-  "lines": [
-    36,
-    38
-  ],
-  "hook": "\"Make this clearer,\" you tell AI. Here's what it can't fix.",
-  "title": "AI can fix your sentences, not your message",
-  "tag": "WHY CAN'T AI DO THIS?",
-  "board": {
-    "type": "keyword",
-    "text": "The hard part happens before the writing",
-    "sub": "what do you actually need, by when?",
-    "icon": "Pencil"
-  }
+  "shorts": [
+    {
+      "kind": "ai",
+      "lines": [
+        36,
+        38
+      ],
+      "hook": "\"Make this clearer,\" you tell AI. Here's what it can't fix.",
+      "title": "AI can fix your sentences, not your message",
+      "board": {
+        "type": "keyword",
+        "text": "The hard part happens before the writing",
+        "sub": "what do you actually need, by when?",
+        "icon": "Pencil"
+      }
+    },
+    {
+      "kind": "story",
+      "lines": [
+        43,
+        48
+      ],
+      "hook": "I sent a one-line reply. She thought I was angry.",
+      "title": "Short is not the same as clear",
+      "board": {
+        "type": "story",
+        "title": "\"This approach won't scale.\"",
+        "text": "one line, two days of silence",
+        "icon": "Envelope"
+      }
+    },
+    {
+      "kind": "culture",
+      "lines": [
+        52,
+        55
+      ],
+      "hook": "Japan and the US sit at opposite ends of this scale.",
+      "title": "High-context vs low-context: Japan and the US at work",
+      "board": {
+        "type": "compare",
+        "left": {
+          "title": "Japan",
+          "items": [
+            "High-context",
+            "Kuuki wo yomu: read the air",
+            "Explaining everything can feel childish"
+          ]
+        },
+        "right": {
+          "title": "US",
+          "items": [
+            "Low-context",
+            "Say it explicitly",
+            "Put it in writing"
+          ]
+        }
+      }
+    }
+  ]
 }

@@ -1,15 +1,62 @@
 {
-  "lines": [
-    38,
-    40
-  ],
-  "hook": "AI can summarize your week. It can't choose what matters.",
-  "title": "Why AI can't make your work visible",
-  "tag": "WHY CAN'T AI DO THIS?",
-  "board": {
-    "type": "keyword",
-    "text": "Choosing what matters",
-    "sub": "a judgment about your goals and your reader",
-    "icon": "Flashlight"
-  }
+  "shorts": [
+    {
+      "kind": "ai",
+      "lines": [
+        38,
+        40
+      ],
+      "hook": "AI can summarize your week. It can't choose what matters.",
+      "title": "Why AI can't make your work visible",
+      "board": {
+        "type": "keyword",
+        "text": "Choosing what matters",
+        "sub": "a judgment about your goals and your reader",
+        "icon": "Flashlight"
+      }
+    },
+    {
+      "kind": "story",
+      "lines": [
+        45,
+        51
+      ],
+      "hook": "My project went perfectly. That's why I didn't get promoted.",
+      "title": "Why quiet work doesn't get you promoted",
+      "board": {
+        "type": "story",
+        "title": "A perfect migration",
+        "text": "no outages, no drama, and nobody noticed",
+        "icon": "Chart increasing"
+      }
+    },
+    {
+      "kind": "culture",
+      "lines": [
+        56,
+        61
+      ],
+      "hook": "Japanese workers report status. Americans report impact.",
+      "title": "Status vs impact: how to make your work visible",
+      "board": {
+        "type": "compare",
+        "left": {
+          "title": "Japan",
+          "items": [
+            "Hou-ren-sou: report, contact, consult",
+            "Great at status, quiet about impact",
+            "Kenson: \"thanks to everyone\""
+          ]
+        },
+        "right": {
+          "title": "US",
+          "items": [
+            "Describe your own impact",
+            "Write your own accomplishments",
+            "Factual, not boastful"
+          ]
+        }
+      }
+    }
+  ]
 }

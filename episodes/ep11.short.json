@@ -1,14 +1,61 @@
 {
-  "lines": [
-    38,
-    39
-  ],
-  "hook": "AI can list every risk. So why does nobody listen?",
-  "title": "Why AI disagreeing with you doesn't count",
-  "tag": "WHY CAN'T AI DO THIS?",
-  "board": {
-    "type": "keyword",
-    "text": "Real dissent comes from someone with something at stake",
-    "icon": "Raising hands"
-  }
+  "shorts": [
+    {
+      "kind": "ai",
+      "lines": [
+        38,
+        39
+      ],
+      "hook": "AI can list every risk. So why does nobody listen?",
+      "title": "Why AI disagreeing with you doesn't count",
+      "board": {
+        "type": "keyword",
+        "text": "Real dissent comes from someone with something at stake",
+        "icon": "Raising hands"
+      }
+    },
+    {
+      "kind": "story",
+      "lines": [
+        43,
+        51
+      ],
+      "hook": "I saw the risk. I said nothing. Three teams paid for it.",
+      "title": "Your silence is not neutral",
+      "board": {
+        "type": "story",
+        "title": "I saw the risk",
+        "text": "and stayed quiet in a room of senior people",
+        "icon": "Zipper-mouth face"
+      }
+    },
+    {
+      "kind": "culture",
+      "lines": [
+        52,
+        60
+      ],
+      "hook": "Japan: read the air. The US: disagree and commit.",
+      "title": "Read the air vs disagree and commit",
+      "board": {
+        "type": "compare",
+        "left": {
+          "title": "Japan",
+          "items": [
+            "Kuuki wo yomu: read the air",
+            "The nail that sticks out gets hammered down",
+            "Real talk happens later, one by one"
+          ]
+        },
+        "right": {
+          "title": "US",
+          "items": [
+            "\"Disagree, and then commit\"",
+            "Disagree openly before deciding",
+            "Not as often as the posters say"
+          ]
+        }
+      }
+    }
+  ]
 }

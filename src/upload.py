@@ -149,14 +149,54 @@ def organize(nums):
         ep = next(e for e in meta["episodes"] if e["number"] == n)
         vid = pub[str(n)]["video_id"]
         snip = yt.videos().list(part="snippet", id=vid).execute()["items"][0]["snippet"]
+        chapters = existing_chapters(snip.get("description"))
         new = {k: snip[k] for k in ("categoryId", "tags", "defaultLanguage", "defaultAudioLanguage") if k in snip}
         new["title"] = video_title(meta, ep, n)
-        new["description"] = description(meta, ep)
+        new["description"] = description(meta, ep, chapters)
         new.setdefault("categoryId", "27")
-        yt.videos().update(part="snippet", body={"id": vid, "snippet": new}).execute()
+        new.setdefault("defaultLanguage", "en")
+        body = {"id": vid, "snippet": new}
+        loc = localizations(meta, ep, n, chapters)
+        if loc:
+            body["localizations"] = loc
+        yt.videos().update(part="snippet,localizations" if loc else "snippet", body=body).execute()
         print(f"  EP {n:02d}: {new['title']}", flush=True)
         note_status(f"organize:{n}", "ok")
         add_to_playlist(yt, meta, vid, position=n - 1)
+
+
+def localizations(meta, ep, num, chapters=None):
+    """Japanese title and description, shown to viewers whose YouTube language is Japanese."""
+    if not ep.get("title_ja"):
+        return None
+    title = f"{ep['title_ja']} | {meta['show']} EP{num:02d}"
+    if len(title) > 100:
+        title = f"{ep['title_ja'][:90]} | EP{num:02d}"
+    lines = [
+        ep.get("summary_ja", ""),
+        "",
+        *([chapters.strip(), ""] if chapters else []),
+        f"今日のチャレンジ：{ep.get('practice_ja', '')}",
+        "",
+        "この回で紹介した研究：",
+        *[f"- {x}" for x in ep["sources"]],
+        "",
+        f"{meta['show']} は、AIにはできない人間の力とEQを、英語で学ぶオーディオブックです。"
+        "東京のアソシエイト・セナが、シアトルのピープルマネージャー・ダニエルから学びます。"
+        "字幕（CC）で日本語訳を表示できます。英語のリスニングとスピーキングの練習にもどうぞ。",
+        "",
+        "セナとダニエルは架空の人物で、声はAIで作っています。",
+        "イラスト：Fluent Emoji by Microsoft（MIT License）",
+        "",
+        "#英語学習 #英語リスニング #EQ #キャリア #HumanCurriculum",
+    ]
+    return {"ja": {"title": title, "description": "\n".join(lines)[:4900]}}
+
+
+def existing_chapters(text):
+    import re
+    lines = [l for l in (text or "").splitlines() if re.match(r"^\d+:\d\d \S", l)]
+    return "\n".join(lines) if len(lines) >= 3 else None
 
 
 def read_chapters(video, num):
@@ -187,7 +227,8 @@ def description(meta, ep, chapters=None):
 
 def _send(yt, body, video):
     media = MediaFileUpload(video, mimetype="video/mp4", chunksize=8 * 1024 * 1024, resumable=True)
-    req = yt.videos().insert(part="snippet,status", body=body, media_body=media)
+    part = "snippet,status,localizations" if body.get("localizations") else "snippet,status"
+    req = yt.videos().insert(part=part, body=body, media_body=media)
     resp, tries = None, 0
     while resp is None:
         try:
@@ -209,10 +250,11 @@ def upload(num, video, thumbnail, publish_at=None):
     ep = next(e for e in meta["episodes"] if e["number"] == num)
     title = video_title(meta, ep, num)
     yt = youtube()
+    chapters = read_chapters(video, num)
     body = {
         "snippet": {
             "title": title,
-            "description": description(meta, ep, read_chapters(video, num)),
+            "description": description(meta, ep, chapters),
             "tags": ep.get("tags", []),
             "categoryId": "27",  # Education
             "defaultLanguage": "en",
@@ -224,6 +266,9 @@ def upload(num, video, thumbnail, publish_at=None):
             "containsSyntheticMedia": True,
         },
     }
+    loc = localizations(meta, ep, num, chapters)
+    if loc:
+        body["localizations"] = loc
     if publish_at and publish_at != "now":
         body["status"]["publishAt"] = publish_at
         print(f"  goes public at {publish_at} (UTC)", flush=True)
@@ -303,6 +348,9 @@ def upload_short(num, publish_at=None):
             "containsSyntheticMedia": True,
         },
     }
+    loc = localizations(meta, ep, num, chapters)
+    if loc:
+        body["localizations"] = loc
     if publish_at and publish_at != "now":
         body["status"]["publishAt"] = publish_at
         print(f"  Short goes public at {publish_at} (UTC)", flush=True)

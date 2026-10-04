@@ -145,6 +145,27 @@ def reschedule(nums):
     json.dump(pub, open(os.path.join(ROOT, "published.json"), "w"), indent=2)
 
 
+def publish_now(nums):
+    """Make already uploaded episodes public right away (also cancels their scheduled time)."""
+    pub = json.load(open(os.path.join(ROOT, "published.json")))
+    yt = youtube()
+    now = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+    for n in nums:
+        k = str(n)
+        vid = pub[k]["video_id"]
+        status = yt.videos().list(part="status", id=vid).execute()["items"][0]["status"]
+        if status.get("privacyStatus") == "public":
+            print(f"  EP {n:02d} is already public, skipped", flush=True)
+        else:
+            new = {key: status[key] for key in ("embeddable", "license", "publicStatsViewable",
+                                                "selfDeclaredMadeForKids", "containsSyntheticMedia") if key in status}
+            new["privacyStatus"] = "public"
+            yt.videos().update(part="status", body={"id": vid, "status": new}).execute()
+            print(f"  EP {n:02d} is now public: https://youtu.be/{vid}", flush=True)
+        pub[k]["publish_at"] = min(pub[k].get("publish_at") or now, now)
+    json.dump(pub, open(os.path.join(ROOT, "published.json"), "w"), indent=2)
+
+
 def update_thumbnail(num):
     """Replace the thumbnail of an already uploaded episode."""
     pub = json.load(open(os.path.join(ROOT, "published.json")))
@@ -159,6 +180,9 @@ if __name__ == "__main__":
     sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
     if sys.argv[1] == "reschedule":
         reschedule([int(n) for n in sys.argv[2:]])
+        sys.exit(0)
+    if sys.argv[1] == "publish":
+        publish_now([int(n) for n in sys.argv[2:]])
         sys.exit(0)
     if sys.argv[1] == "thumb":
         for n in sys.argv[2:]:

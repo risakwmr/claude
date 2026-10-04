@@ -89,6 +89,17 @@ jobs:
         if: steps.pick.outputs.action == 'reschedule' && steps.pick.outputs.list != ''
         run: python src/upload.py reschedule ${{ steps.pick.outputs.list }} | tee -a "$GITHUB_STEP_SUMMARY"
 
+      - name: Add Japanese captions to uploaded episodes
+        if: steps.pick.outputs.action == 'captions' && steps.pick.outputs.list != ''
+        env:
+          SENA_VOICE: ${{ vars.SENA_VOICE }}
+          DANIEL_VOICE: ${{ vars.DANIEL_VOICE }}
+        run: |
+          for n in ${{ steps.pick.outputs.list }}; do
+            python src/make_episode.py "$n" --audio-only
+          done
+          python src/upload.py captions ${{ steps.pick.outputs.list }} | tee -a "$GITHUB_STEP_SUMMARY"
+
       - name: Replace thumbnails
         if: steps.pick.outputs.action == 'thumbnail' && steps.pick.outputs.list != ''
         run: |

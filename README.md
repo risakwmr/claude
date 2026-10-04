@@ -87,3 +87,10 @@ Every episode also becomes up to four vertical YouTube Shorts (1080×1920): a bi
 ## Weekly report
 
 `action`: `report` runs `src/report.py`: subscribers and views / likes / comments of every episode and Short (change since the previous report), saved to `reports/YYYY-MM-DD.json`. With the extra scope `https://www.googleapis.com/auth/yt-analytics.readonly` in the refresh token (and the YouTube Analytics API turned on in Google Cloud), it also saves the last 7 days of watch time, average % viewed, traffic sources, countries and devices. A weekly scheduled task runs it and sends the summary to the chat.
+
+## Captions, question comments, channel page
+
+- Captions: every upload gets Japanese (`epNN.ja.srt`) and exact English (`epNN.srt`) caption tracks. `captions.json` records which tracks are up. `action`: `captions` adds the missing tracks of the listed episodes (Japanese first, at most 8 per run, about 450 quota units each). The 09:00 JST scheduled run also catches up on up to 4 missing tracks (turn off with the repository variable `CAPTION_BACKLOG` = `false`).
+- Question comments: once an episode is public, the scheduled runs post its 40-second "Your turn" question as a comment (from the Speaking Lab line, or the `question` field in episodes.json). Pin it in YouTube Studio if you like. `comments.json` records them.
+- Channel page: `action`: `channel` applies `episodes/channel.json` (English description, Japanese description for viewers whose YouTube language is Japanese, keywords) and marks the show playlist as a podcast with the square cover `assets/podcast_cover.jpg` (`python src/podcast_cover.py` rebuilds it). The channel trailer is set in YouTube Studio.
+

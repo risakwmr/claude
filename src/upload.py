@@ -410,9 +410,13 @@ def upload(num, video, thumbnail, publish_at=None):
         print("  WARNING: thumbnail not set. Verify the channel's phone number at youtube.com/verify, "
               f"then set it in YouTube Studio. ({e.resp.status})", flush=True)
     add_to_playlist(yt, meta, vid)
-    ja_srt = os.path.join(os.path.dirname(video), f"ep{num:02d}.ja.srt")
-    if os.path.exists(ja_srt):
-        add_japanese_captions(yt, vid, ja_srt)
+    for lang, name, suffix in CAPTION_TRACKS:
+        srt = os.path.join(os.path.dirname(video), f"ep{num:02d}{suffix}")
+        if os.path.exists(srt):
+            try:
+                add_captions(yt, vid, srt, lang, name)
+            except QuotaExceeded:
+                break
     return vid
 
 
@@ -531,6 +535,110 @@ def comment_links():
     shorts.save_shorts(data)
 
 
+COMMENTS_FILE = os.path.join(ROOT, "comments.json")
+
+
+def episode_question(ep):
+    """The listener's 40-second question: from the Speaking Lab ("In forty seconds, answer this. ...?"),
+    or the "question" field in episodes.json for episodes without one."""
+    import re
+    if ep.get("question"):
+        return ep["question"]
+    path = os.path.join(ROOT, "episodes", ep["script"])
+    if not os.path.exists(path):
+        return None
+    for line in open(path, encoding="utf-8"):
+        if line.startswith("DANIEL:") and re.search(r"(forty|40) seconds", line, re.I):
+            text = re.split(r"answer this[.:]\s*", line, flags=re.I)[-1]
+            qs = re.findall(r"[^.?!]*\?", text)
+            if qs:
+                return " ".join(q.strip() for q in qs)
+    return None
+
+
+def episode_comments():
+    """Once an episode is public, post its "Your turn" question as a comment, so viewers answer below
+    (pin it in YouTube Studio if you like). Each run catches up on episodes that went public. 50 quota units each."""
+    from slot import parse
+    pub = json.load(open(os.path.join(ROOT, "published.json")))
+    meta = json.load(open(os.path.join(ROOT, "episodes", "episodes.json"), encoding="utf-8"))
+    eps = {str(e["number"]): e for e in meta["episodes"]}
+    done = json.load(open(COMMENTS_FILE)) if os.path.exists(COMMENTS_FILE) else {}
+    now = datetime.now(timezone.utc)
+    todo = [n for n, v in sorted(pub.items(), key=lambda kv: int(kv[0]))
+            if n not in done and n in eps and v.get("publish_at") and parse(v["publish_at"]) <= now]
+    if not todo:
+        return
+    yt = youtube()
+    for n in todo:
+        q = episode_question(eps[n])
+        if not q:
+            done[n] = "no question"
+            continue
+        text = (f"🗣 Your turn (40 seconds): {q}\n\n"
+                "Pause, say your answer out loud, then write it here. Any level of English is welcome. 💬")
+        try:
+            r = yt.commentThreads().insert(part="snippet", body={"snippet": {
+                "videoId": pub[n]["video_id"], "topLevelComment": {"snippet": {"textOriginal": text}}}}).execute()
+            done[n] = r["id"]
+            print(f"  EP {int(n):02d}: question comment added", flush=True)
+        except HttpError as e:
+            print(f"  EP {int(n):02d}: question comment skipped ({e.resp.status})", flush=True)
+            note_status(f"episode-comment:{n}", f"{e.resp.status} {str(e)[:300]}")
+            if "quotaExceeded" in str(e):
+                break
+            if e.resp.status == 403:  # comments turned off: don't keep trying
+                done[n] = "skipped"
+    json.dump(done, open(COMMENTS_FILE, "w"), indent=2, sort_keys=True)
+
+
+def channel_setup():
+    """Channel page: description (English, plus Japanese for viewers whose YouTube language is Japanese) and
+    keywords from episodes/channel.json, and the show playlist marked as a podcast (with a square cover,
+    assets/podcast_cover.jpg). The channel trailer is left as it is (set it in YouTube Studio)."""
+    spec = json.load(open(os.path.join(ROOT, "episodes", "channel.json"), encoding="utf-8"))
+    meta = json.load(open(os.path.join(ROOT, "episodes", "episodes.json"), encoding="utf-8"))
+    yt = youtube()
+    ch = yt.channels().list(part="snippet,brandingSettings,localizations", mine=True).execute()["items"][0]
+    bs = ch.get("brandingSettings", {})  # send everything back: fields left out would be cleared
+    c = bs.setdefault("channel", {})
+    c["description"] = spec["description_en"][:1000]
+    c["keywords"] = spec["keywords"]
+    c["defaultLanguage"] = "en"
+    steps = [
+        ("channel-description", lambda: yt.channels().update(
+            part="brandingSettings", body={"id": ch["id"], "brandingSettings": bs}).execute()),
+    ]
+    loc = ch.get("localizations", {})
+    loc["ja"] = {"title": spec.get("title_ja") or ch["snippet"]["title"], "description": spec["description_ja"][:1000]}
+    steps.append(("channel-ja", lambda: yt.channels().update(
+        part="localizations", body={"id": ch["id"], "localizations": loc}).execute()))
+
+    def podcast():
+        pid = playlist_id(yt, meta)
+        cover = os.path.join(ROOT, "assets", "podcast_cover.jpg")
+        imgs = yt.playlistImages().list(part="snippet", parent=pid).execute().get("items", [])
+        if not imgs:
+            yt.playlistImages().insert(part="snippet", body={"snippet": {"playlistId": pid, "type": "hero"}},
+                                       media_body=MediaFileUpload(cover, mimetype="image/jpeg")).execute()
+            print("  playlist cover added", flush=True)
+        pl = yt.playlists().list(part="snippet,status", id=pid).execute()["items"][0]
+        snip = {k: pl["snippet"][k] for k in ("title", "defaultLanguage") if k in pl["snippet"]}
+        snip["description"] = spec.get("playlist_description") or pl["snippet"].get("description", "")
+        status = {"privacyStatus": pl["status"].get("privacyStatus", "public"), "podcastStatus": "enabled"}
+        yt.playlists().update(part="snippet,status", body={"id": pid, "snippet": snip, "status": status}).execute()
+
+    steps.append(("podcast", podcast))
+    for key, fn in steps:
+        try:
+            fn()
+            print(f"  {key}: ok", flush=True)
+            note_status(key, "ok")
+        except HttpError as e:
+            print(f"  {key}: skipped ({e.resp.status}) {str(e)[:300]}", flush=True)
+            note_status(key, f"{e.resp.status} {str(e)[:400]}")
+
+
 def short_stats():
     """Views, likes and comments of every uploaded Short, saved to shorts_stats.json and summed up by kind.
 
@@ -597,42 +705,116 @@ def note_status(key, value):
     json.dump(data, open(STATUS_FILE, "w"), indent=2, ensure_ascii=False)
 
 
-def add_japanese_captions(yt, vid, srt):
-    """Upload (or replace) the Japanese caption track. Needs the youtube.force-ssl scope."""
+CAPTIONS_FILE = os.path.join(ROOT, "captions.json")
+# language, track name, file suffix next to the video (epNN.ja.srt / epNN.srt)
+CAPTION_TRACKS = (("ja", "日本語", ".ja.srt"), ("en", "English", ".srt"))
+
+
+def caption_state():
+    """{video_id: {"ja": "ok", "en": "ok"}}: which caption tracks are already up (captions.json).
+
+    Seeded from run_status.json, where earlier runs recorded Japanese tracks as captions:<video_id> = ok."""
+    data = json.load(open(CAPTIONS_FILE)) if os.path.exists(CAPTIONS_FILE) else {}
+    if os.path.exists(STATUS_FILE):
+        for k, v in json.load(open(STATUS_FILE)).items():
+            if k.startswith("captions:") and v.get("result") == "ok":
+                data.setdefault(k.split(":", 1)[1], {}).setdefault("ja", "ok")
+    return data
+
+
+def mark_caption(vid, lang):
+    data = caption_state()
+    data.setdefault(vid, {})[lang] = "ok"
+    json.dump(data, open(CAPTIONS_FILE, "w"), indent=2, sort_keys=True)
+
+
+class QuotaExceeded(Exception):
+    pass
+
+
+def add_captions(yt, vid, srt, lang="ja", name="日本語"):
+    """Upload (or replace) one caption track. Needs the youtube.force-ssl scope. About 450 quota units."""
+    label = "Japanese" if lang == "ja" else "English" if lang == "en" else lang
     try:
         old = yt.captions().list(part="snippet", videoId=vid).execute().get("items", [])
         for c in old:
-            if c["snippet"].get("language") == "ja" and c["snippet"].get("trackKind") != "asr":
+            if c["snippet"].get("language") == lang and c["snippet"].get("trackKind") != "asr":
                 yt.captions().delete(id=c["id"]).execute()
         yt.captions().insert(
             part="snippet",
-            body={"snippet": {"videoId": vid, "language": "ja", "name": "日本語", "isDraft": False}},
+            body={"snippet": {"videoId": vid, "language": lang, "name": name, "isDraft": False}},
             media_body=MediaFileUpload(srt, mimetype="application/octet-stream"),
         ).execute()
-        print("  Japanese captions added", flush=True)
-        note_status(f"captions:{vid}", "ok")
+        print(f"  {label} captions added", flush=True)
+        note_status(f"captions:{vid}" if lang == "ja" else f"captions-{lang}:{vid}", "ok")
+        mark_caption(vid, lang)
         return True
     except HttpError as e:
-        print(f"  WARNING: Japanese captions not added ({e.resp.status}). If this is 403, create a new "
-              "refresh token that includes the https://www.googleapis.com/auth/youtube.force-ssl scope. "
+        print(f"  WARNING: {label} captions not added ({e.resp.status}). If this is 403 insufficient scopes, create "
+              "a new refresh token that includes https://www.googleapis.com/auth/youtube.force-ssl. "
               f"{str(e)[:300]}", flush=True)
-        note_status(f"captions:{vid}", f"{e.resp.status} {str(e)[:400]}")
+        note_status(f"captions:{vid}" if lang == "ja" else f"captions-{lang}:{vid}", f"{e.resp.status} {str(e)[:400]}")
+        if "quotaExceeded" in str(e):
+            raise QuotaExceeded()
         return False
 
 
-def captions(nums):
-    """Add Japanese captions to already uploaded episodes (run make_episode.py N --audio-only first)."""
+def add_japanese_captions(yt, vid, srt):
+    return add_captions(yt, vid, srt, "ja", "日本語")
+
+
+def missing_captions(nums=None):
+    """(episode, lang) caption tracks not up yet, Japanese first (all episodes), then English, oldest first."""
     pub = json.load(open(os.path.join(ROOT, "published.json")))
+    meta = json.load(open(os.path.join(ROOT, "episodes", "episodes.json"), encoding="utf-8"))
+    eps = {e["number"]: e for e in meta["episodes"]}
+    state = caption_state()
+    nums = sorted(int(n) for n in (nums or pub) if str(n) in pub and int(n) in eps)
+    out = []
+    for lang, _, _ in CAPTION_TRACKS:
+        for n in nums:
+            if lang == "ja" and not os.path.exists(os.path.join(ROOT, "episodes", eps[n]["script"][:-4] + ".ja.txt")):
+                continue
+            if state.get(pub[str(n)]["video_id"], {}).get(lang) != "ok":
+                out.append((n, lang))
+    return out
+
+
+def caption_todo(max_tracks):
+    """Episode numbers that hold the next MAX_TRACKS missing caption tracks (to build their .srt files first)."""
+    seen = []
+    for n, _ in missing_captions()[:max_tracks]:
+        if n not in seen:
+            seen.append(n)
+    print(" ".join(str(n) for n in seen))
+
+
+def captions(nums, max_tracks=None):
+    """Add the missing Japanese and English caption tracks to uploaded episodes
+    (run make_episode.py N --audio-only first). At most CAPTION_MAX tracks per run (default 8, ~450 quota each);
+    Japanese tracks go first. Stops quietly when the day's quota runs out; the rest go up in a later run."""
+    max_tracks = max_tracks or int(os.environ.get("CAPTION_MAX") or 8)
+    pub = json.load(open(os.path.join(ROOT, "published.json")))
+    todo = missing_captions(nums)[:max_tracks]
+    if not todo:
+        print("  all caption tracks are up", flush=True)
+        return
     yt = youtube()
     failed = 0
-    for n in nums:
-        srt = os.path.join(ROOT, "output", f"ep{n:02d}", f"ep{n:02d}.ja.srt")
+    for n, lang in todo:
+        suffix = next(s for l, _, s in CAPTION_TRACKS if l == lang)
+        name = next(nm for l, nm, _ in CAPTION_TRACKS if l == lang)
+        srt = os.path.join(ROOT, "output", f"ep{n:02d}", f"ep{n:02d}{suffix}")
         if not os.path.exists(srt):
-            print(f"  EP {n:02d}: no Japanese translation yet, skipped", flush=True)
+            print(f"  EP {n:02d} {lang}: no .srt (run make_episode.py {n} --audio-only first), skipped", flush=True)
             continue
-        print(f"  EP {n:02d}:", flush=True)
-        if not add_japanese_captions(yt, pub[str(n)]["video_id"], srt):
-            failed += 1
+        print(f"  EP {n:02d} ({lang}):", flush=True)
+        try:
+            if not add_captions(yt, pub[str(n)]["video_id"], srt, lang, name):
+                failed += 1
+        except QuotaExceeded:
+            print("  YouTube's daily quota is used up; the remaining captions go up in a later run", flush=True)
+            break
     if failed:
         sys.exit(1)
 
@@ -703,8 +885,11 @@ if __name__ == "__main__":
     if sys.argv[1] == "organize":
         organize([int(n) for n in sys.argv[2:]])
         sys.exit(0)
-    if sys.argv[1] == "captions":
-        captions([int(n) for n in sys.argv[2:]])
+    if sys.argv[1] == "captions":  # captions [N ...]: missing tracks of these episodes (all when none given)
+        captions([int(n) for n in sys.argv[2:]] or None)
+        sys.exit(0)
+    if sys.argv[1] == "caption-todo":  # caption-todo MAX_TRACKS: episodes to build .srt files for
+        caption_todo(int(sys.argv[2]) if len(sys.argv) > 2 else 4)
         sys.exit(0)
     if sys.argv[1] == "publish":
         publish_now([int(n) for n in sys.argv[2:]])
@@ -714,6 +899,12 @@ if __name__ == "__main__":
         sys.exit(0)
     if sys.argv[1] == "short-comments":
         comment_links()
+        sys.exit(0)
+    if sys.argv[1] == "channel":
+        channel_setup()
+        sys.exit(0)
+    if sys.argv[1] == "episode-comments":
+        episode_comments()
         sys.exit(0)
     if sys.argv[1] == "short":  # short EPISODE [KIND]
         try:

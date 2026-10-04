@@ -1,11 +1,11 @@
 {
-  "at": "2026-10-04T14:44:10Z",
+  "at": "2026-10-04T23:54:10Z",
   "previous_report_at": null,
   "channel": {
     "title": "Human Curriculum- Learn what AI can’t do",
     "subscribers": 1,
-    "views": 2,
-    "videos": 13,
+    "views": 7,
+    "videos": 14,
     "subscribers_before": null,
     "views_before": null
   },
@@ -19,9 +19,9 @@
       "public": true,
       "published": "2026-10-04T10:55:43Z",
       "duration": "PT28S",
-      "views": 14,
+      "views": 22,
       "likes": 0,
-      "comments": 0
+      "comments": 1
     },
     {
       "kind": "episode",
@@ -32,9 +32,9 @@
       "public": true,
       "published": "2026-10-02T04:33:31Z",
       "duration": "PT12M44S",
-      "views": 6,
+      "views": 7,
       "likes": 0,
-      "comments": 0
+      "comments": 1
     },
     {
       "kind": "short",
@@ -45,9 +45,9 @@
       "public": true,
       "published": "2026-10-04T10:55:42Z",
       "duration": "PT51S",
-      "views": 6,
+      "views": 7,
       "likes": 0,
-      "comments": 0
+      "comments": 1
     },
     {
       "kind": "episode",
@@ -60,7 +60,20 @@
       "duration": "PT12M37S",
       "views": 4,
       "likes": 0,
-      "comments": 0
+      "comments": 1
+    },
+    {
+      "kind": "episode",
+      "key": "4",
+      "video_id": "U7qYzYkkHBI",
+      "title": "Stop Saying \"I'm Fine\" at Work | English Podcast EP04",
+      "episode_title": "Naming Emotions: Beyond 'Fine'",
+      "public": true,
+      "published": "2026-10-04T03:00:17Z",
+      "duration": "PT14M13S",
+      "views": 4,
+      "likes": 0,
+      "comments": 1
     },
     {
       "kind": "short",
@@ -73,20 +86,7 @@
       "duration": "PT1M5S",
       "views": 4,
       "likes": 0,
-      "comments": 0
-    },
-    {
-      "kind": "episode",
-      "key": "4",
-      "video_id": "U7qYzYkkHBI",
-      "title": "Stop Saying \"I'm Fine\" at Work | English Podcast EP04",
-      "episode_title": "Naming Emotions: Beyond 'Fine'",
-      "public": true,
-      "published": "2026-10-04T03:00:17Z",
-      "duration": "PT14M13S",
-      "views": 3,
-      "likes": 0,
-      "comments": 0
+      "comments": 1
     },
     {
       "kind": "episode",
@@ -99,7 +99,7 @@
       "duration": "PT14M",
       "views": 2,
       "likes": 0,
-      "comments": 0
+      "comments": 1
     },
     {
       "kind": "episode",
@@ -112,7 +112,33 @@
       "duration": "PT13M40S",
       "views": 1,
       "likes": 0,
-      "comments": 0
+      "comments": 1
+    },
+    {
+      "kind": "episode",
+      "key": "10",
+      "video_id": "hb4jOZuSzf4",
+      "title": "How to Influence People When You're Not the Boss | English Podcast EP10",
+      "episode_title": "Influence Without Authority",
+      "public": true,
+      "published": "2026-10-04T03:36:42Z",
+      "duration": "PT14M4S",
+      "views": 1,
+      "likes": 0,
+      "comments": 1
+    },
+    {
+      "kind": "episode",
+      "key": "11",
+      "video_id": "1cdKOJ8zr2c",
+      "title": "How to Disagree in a Meeting (Without Being Rude) | English Podcast EP11",
+      "episode_title": "Speaking Up When You Disagree",
+      "public": true,
+      "published": "2026-10-04T15:00:04Z",
+      "duration": "PT12M7S",
+      "views": 1,
+      "likes": 0,
+      "comments": 1
     },
     {
       "kind": "episode",
@@ -125,7 +151,7 @@
       "duration": "PT13M58S",
       "views": 0,
       "likes": 0,
-      "comments": 0
+      "comments": 1
     },
     {
       "kind": "episode",
@@ -138,7 +164,7 @@
       "duration": "PT13M54S",
       "views": 0,
       "likes": 0,
-      "comments": 0
+      "comments": 1
     },
     {
       "kind": "episode",
@@ -151,7 +177,7 @@
       "duration": "PT13M46S",
       "views": 0,
       "likes": 0,
-      "comments": 0
+      "comments": 1
     },
     {
       "kind": "episode",
@@ -164,33 +190,7 @@
       "duration": "PT14M18S",
       "views": 0,
       "likes": 0,
-      "comments": 0
-    },
-    {
-      "kind": "episode",
-      "key": "10",
-      "video_id": "hb4jOZuSzf4",
-      "title": "How to Influence People When You're Not the Boss | English Podcast EP10",
-      "episode_title": "Influence Without Authority",
-      "public": true,
-      "published": "2026-10-04T03:36:42Z",
-      "duration": "PT14M4S",
-      "views": 0,
-      "likes": 0,
-      "comments": 0
-    },
-    {
-      "kind": "episode",
-      "key": "11",
-      "video_id": "1cdKOJ8zr2c",
-      "title": "How to Disagree in a Meeting (Without Being Rude) | English Podcast EP11",
-      "episode_title": "Speaking Up When You Disagree",
-      "public": false,
-      "published": "2026-10-04T15:00:00Z",
-      "duration": "PT12M7S",
-      "views": 0,
-      "likes": 0,
-      "comments": 0
+      "comments": 1
     },
     {
       "kind": "episode",
@@ -251,10 +251,10 @@
     "end": "2026-10-03",
     "totals": [
       {
-        "views": 3,
-        "estimatedMinutesWatched": 14,
-        "averageViewDuration": 425,
-        "averageViewPercentage": 51.23,
+        "views": 5,
+        "estimatedMinutesWatched": 16,
+        "averageViewDuration": 251,
+        "averageViewPercentage": 31.679999999999996,
         "likes": 0,
         "comments": 0,
         "shares": 1,
@@ -292,9 +292,24 @@
         "views": 1,
         "estimatedMinutesWatched": 12,
         "subscribersGained": 0
+      },
+      {
+        "day": "2026-10-02",
+        "views": 2,
+        "estimatedMinutesWatched": 2,
+        "subscribersGained": 0
       }
     ],
     "by_video": [
+      {
+        "video": "XrPylq3xOQk",
+        "views": 2,
+        "estimatedMinutesWatched": 2,
+        "averageViewDuration": 77,
+        "averageViewPercentage": 10.24,
+        "likes": 0,
+        "subscribersGained": 0
+      },
       {
         "video": "hj8EgYR2ORo",
         "views": 1,
@@ -307,14 +322,19 @@
     ],
     "traffic": [
       {
+        "insightTrafficSourceType": "YT_CHANNEL",
+        "views": 2,
+        "estimatedMinutesWatched": 13
+      },
+      {
         "insightTrafficSourceType": "NO_LINK_OTHER",
         "views": 1,
         "estimatedMinutesWatched": 1
       },
       {
-        "insightTrafficSourceType": "YT_CHANNEL",
+        "insightTrafficSourceType": "YT_SEARCH",
         "views": 1,
-        "estimatedMinutesWatched": 12
+        "estimatedMinutesWatched": 1
       },
       {
         "insightTrafficSourceType": "RELATED_VIDEO",
@@ -330,11 +350,12 @@
       },
       {
         "deviceType": "MOBILE",
+        "views": 2
+      },
+      {
+        "deviceType": "TV",
         "views": 1
       }
-    ],
-    "errors": {
-      "subscribed": "500 s&metrics=views%2CaverageViewPercentage&alt=json returned \"An internal error has occurred.\". Details: \"[{'message': 'An internal error has occurred.', 'domain': 'global', 'reason': 'internalError'}]\">"
-    }
+    ]
   }
 }

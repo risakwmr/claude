@@ -5,7 +5,7 @@ Inputs
   episodes/trailer/anime/cutN.mp4   optional: an image-to-video clip for that cut (used instead of the still)
   audio: output/trailer/trailer.mp4 (made by src/make_trailer.py) or --audio FILE, with its .srt next to it
 
-Each still gets a slow camera move (push-in or drift) and cuts cross-fade. Clips are trimmed or slowed to fit.
+Each still stays put (no zoom) and comes alive: twinkling lights, breathing warm light, drifting light particles. Cuts cross-fade. Clips are trimmed or slowed to fit.
 English captions are drawn at the bottom; the last seconds show the show title.
 
 python src/make_anime_trailer.py --audio output/trailer/trailer.mp4 --out output/trailer/trailer_anime.mp4
@@ -81,6 +81,45 @@ def camera(img, k, move):
     return img.resize((W, H), Image.BICUBIC, box=box)
 
 
+class Living:
+    """Anime-style 'living still': no camera move. City and window lights twinkle, warm lights breathe,
+    and a few soft light particles drift, so the scene feels alive while the drawing stays put."""
+
+    def __init__(self, img, seed):
+        from PIL import ImageFilter as F
+        self.base = np.asarray(img.resize((W, H), Image.LANCZOS).convert("RGB")).astype(np.float32)
+        luma = self.base @ np.array([0.299, 0.587, 0.114], np.float32)
+        hi = np.clip((luma - 185) / 60, 0, 1)
+        self.hi = np.asarray(Image.fromarray((hi * 255).astype(np.uint8)).filter(F.GaussianBlur(3))).astype(np.float32)[..., None] / 255
+        rng = np.random.default_rng(seed)
+        lw, lh = W // 16, H // 16
+        self.noise = [np.asarray(Image.fromarray((rng.random((lh, lw)) * 255).astype(np.uint8)).resize((W, H), Image.BICUBIC)
+                                 ).astype(np.float32)[..., None] / 255 for _ in range(4)]
+        self.parts = [(rng.uniform(0, W), rng.uniform(0, H), rng.uniform(6, 18), rng.uniform(-8, 8), rng.uniform(-14, -4),
+                       rng.uniform(0, 6.28)) for _ in range(18)]
+
+    def frame(self, t):
+        # twinkle: blend between noise fields over time
+        ph = t * 0.9
+        i = int(ph) % 4
+        f = ph - int(ph)
+        n = self.noise[i] * (1 - f) + self.noise[(i + 1) % 4] * f
+        tw = (n - 0.5) * 2  # -1..1
+        breathe = 0.035 * np.sin(t * 2 * np.pi / 3.4)
+        out = self.base * (1 + self.hi * (0.22 * tw + breathe))
+        img = Image.fromarray(np.clip(out, 0, 255).astype(np.uint8))
+        over = Image.new("RGBA", (W, H), (0, 0, 0, 0))
+        d = ImageDraw.Draw(over)
+        for x, y, rad, vx, vy, p0 in self.parts:
+            px, py = (x + vx * t) % W, (y + vy * t) % H
+            a = int(40 + 35 * np.sin(t * 1.3 + p0))
+            d.ellipse((px - rad, py - rad, px + rad, py + rad), fill=(255, 236, 200, max(0, a)))
+        over = over.filter(ImageFilter.GaussianBlur(6))
+        img = img.convert("RGBA")
+        img.alpha_composite(over)
+        return img.convert("RGB")
+
+
 def caption(img, text):
     if not text:
         return img
@@ -132,7 +171,7 @@ def build(audio, out, captions=True):
             img = Image.open(os.path.join(DIR, f"cut{k + 1}.png")).convert("RGB")
             sc = max(W / img.width, H / img.height) * 1.04  # a little room for drift
             img = img.resize((int(img.width * sc), int(img.height * sc)), Image.LANCZOS)
-            sources.append(("still", img, move))
+            sources.append(("still", Living(img, k + 1), move))
     p = subprocess.Popen(["ffmpeg", "-v", "quiet", "-y", "-f", "rawvideo", "-pix_fmt", "rgb24", "-s", f"{W}x{H}",
                           "-r", str(FPS), "-i", "-", "-i", audio, "-map", "0:v", "-map", "1:a", "-c:v", "libx264",
                           "-preset", "medium", "-crf", "18", "-pix_fmt", "yuv420p", "-c:a", "aac", "-b:a", "192k",
@@ -145,7 +184,7 @@ def build(audio, out, captions=True):
         x = min(1.0, max(0.0, (t - s) / span))
         if kind == "clip":
             return src[min(len(src) - 1, int((t - s) * FPS))].copy()
-        return camera(src, x, move)
+        return src.frame(t)
 
     for i in range(total):
         t = i / FPS

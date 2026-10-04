@@ -248,18 +248,18 @@ def base(spec, ep_title):
     x0 = (W - tw - 40) / 2
     d.rounded_rectangle((x0, 196, x0 + tw + 40, 242), radius=8, fill=r.CORAL)
     r.spaced(d, (x0 + 20, 205), tag, tf, (255, 255, 255), spacing=4)
-    # hook
-    f, lines, size = r._fit_font(d, spec["hook"], lambda s: r.serif(s, "Bold"), W - 140, 3, 84, 52)
-    block = int(size * 1.14) * len(lines)
-    y = HOOK_TOP + max(0, (HOOK_SPACE - block) // 2)
+    # hook: big, heavy and high-contrast (like popular Shorts), on a navy band so it reads at a glance
+    band_top, band_h = 262, 360
+    d.rectangle((0, band_top, W, band_top + band_h), fill=r.NAVY)
+    f, lines, size = r._fit_font(d, spec["hook"], lambda s: r.sans(s, "ExtraBold"), W - 90, 3, 96, 56)
+    step = int(size * 1.16)
+    y = band_top + max(16, (band_h - step * len(lines)) // 2)
     for k, line in enumerate(lines):
-        if k == len(lines) - 1:
-            lw = int(d.textlength(line, font=f)) + 40
-            hl = r.brush((lw, int(size * 0.5)), r.CORAL, seed=41, alpha=140, roughness=0.15)
-            img.alpha_composite(hl, (int((W - lw) / 2), int(y + size * 0.62)))
-            d = ImageDraw.Draw(img)
-        d.text((W / 2, y), line, font=f, fill=r.NAVY, anchor="ma")
-        y += int(size * 1.14)
+        fill = (255, 255, 255) if k < len(lines) - 1 or len(lines) == 1 else (255, 214, 102)
+        if len(lines) == 1:
+            fill = (255, 214, 102)
+        d.text((W / 2, y), line, font=f, fill=fill, anchor="ma", stroke_width=6, stroke_fill=r.CORAL)
+        y += step
     return img
 
 
@@ -307,7 +307,7 @@ def draw(num, spec, ep_title, speaker, level, subtitle, sena, daniel, board_key,
     d.rounded_rectangle((bx0 + 36, by0 - 26, bx0 + 216, by0 + 22), radius=8, fill=p["accent"])
     d.text((bx0 + 126, by0 - 2), p["first"], font=r.serif(32, "SemiBold", italic=True), fill=(255, 255, 255), anchor="mm")
     if subtitle:
-        f, lines, size = r._fit_font(d, subtitle, lambda s: r.sans(s, "Bold"), bx1 - bx0 - 70, 3, 58, 40)
+        f, lines, size = r._fit_font(d, subtitle, lambda s: r.sans(s, "ExtraBold"), bx1 - bx0 - 70, 3, 64, 42)
         cy = (by0 + by1) / 2 + 6
         step = int(size * 1.22)
         for i, line in enumerate(lines):

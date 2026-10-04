@@ -19,6 +19,18 @@ Each episode's teaser points to the next line in this file. The last episode of 
 - Time passes naturally (seasons change, holidays come). New side characters get new names; never reuse earlier side characters' names for new people.
 Daniel stays a senior People Manager in Seattle (team of 8) and Sena's mentor. Daniel's failure stories must not repeat earlier ones.
 
+## Storytelling (from episode 16; follow this together with the routine's script rules)
+The show should feel like a story people want to follow, not a lecture. Same format (only SENA and DANIEL lines), but more drama between and around them.
+- Cold open (first 4–8 lines, about 20–40 seconds, BEFORE "Welcome back to Human Curriculum"): drop the listener straight into today's moment. Sena (or Daniel) describes the scene vividly in the present tense, with the exact words someone said quoted, and the tension unresolved. Daniel's last cold-open line promises, in one plain sentence, what the listener will be able to do by the end ("By the end of this episode, you'll have three sentences for..."). No exaggeration, no fake numbers. Then the usual "Welcome back" and the recap of last time's challenge. In epNN.visual.json give these lines the section "Cold open" with a keyword board; the "Last time" section starts at the "Welcome back" line.
+- Scenes, not summaries: when Sena retells something, she replays it as a small scene: where she was, what she saw (a look, a pause, a message popping up), and the other person's words in quotes. Side characters come alive through these quoted lines.
+- Running threads: keep 2–3 small story threads alive across episodes besides the topic (e.g. Ryo's overwork, Kenta slowly finding his voice, Kato-san's packed calendar, Mark's late-night requests, Sena's English speaking practice, her city-walk photos). Each episode moves at least one thread forward a little, and threads pay off later. Note new threads in this file under "Open threads" so later episodes can pick them up.
+- Two people, not a Q&A: Sena pushes back sometimes, jokes, gets things wrong and corrects herself; Daniel has moments from his own week (Maple, a hike, a hard day with his team) that connect to the topic. Small, warm, specific.
+- Cliffhanger teaser: the "Next time" part ends on a concrete unresolved moment ("And then Kato-san's message said: 'Can we talk tomorrow? Just you and me.'"), not only the next title.
+- Keep honesty rules: research is reported with its limits, and the drama never invents facts about real people or studies.
+
+## Open threads
+- (add threads here as they start, with the episode number, and mark them resolved with the episode that pays them off)
+
 ## Characters (fixed settings; use details lightly and keep them consistent)
 Character map image: `episodes/character_map.png`.
 - Sena Sato: Associate (IC), Tokyo. Data analysis; built the monthly report pipeline (2 days by hand → about 1 hour), now launching the regional dashboard. Careful, reads the room, always takes notes; strong analysis, emails sometimes too polite. Denies praise ("no, no"). Speaking weaker than listening. Goal: Program Manager in Seattle, then people manager. Hobby: city walks and photography (gets off at unfamiliar stations, shoots alleys and signs). Quirk: has used the same notebook model for 20 notebooks.

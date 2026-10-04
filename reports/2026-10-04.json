@@ -1,5 +1,5 @@
 {
-  "at": "2026-10-04T14:36:11Z",
+  "at": "2026-10-04T14:42:14Z",
   "previous_report_at": null,
   "channel": {
     "title": "Human Curriculum- Learn what AI can’t do",
@@ -19,7 +19,7 @@
       "public": true,
       "published": "2026-10-04T10:55:43Z",
       "duration": "PT28S",
-      "views": 10,
+      "views": 14,
       "likes": 0,
       "comments": 0
     },
@@ -50,6 +50,19 @@
       "comments": 0
     },
     {
+      "kind": "episode",
+      "key": "2",
+      "video_id": "XrPylq3xOQk",
+      "title": "Your Body Knows You're Upset Before You Do | English Podcast EP02",
+      "episode_title": "Interoceptive Awareness: The 30-Second Window",
+      "public": true,
+      "published": "2026-10-02T15:00:31Z",
+      "duration": "PT12M37S",
+      "views": 4,
+      "likes": 0,
+      "comments": 0
+    },
+    {
       "kind": "short",
       "key": "2-story",
       "video_id": "OZoq4IaDgOg",
@@ -59,19 +72,6 @@
       "published": "2026-10-04T10:55:43Z",
       "duration": "PT1M5S",
       "views": 4,
-      "likes": 0,
-      "comments": 0
-    },
-    {
-      "kind": "episode",
-      "key": "2",
-      "video_id": "XrPylq3xOQk",
-      "title": "Your Body Knows You're Upset Before You Do | English Podcast EP02",
-      "episode_title": "Interoceptive Awareness: The 30-Second Window",
-      "public": true,
-      "published": "2026-10-02T15:00:31Z",
-      "duration": "PT12M37S",
-      "views": 3,
       "likes": 0,
       "comments": 0
     },
@@ -247,6 +247,6 @@
   ],
   "analytics": {
     "available": false,
-    "error": "403 YouTube Analytics API has not been used in project 16886866059 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/youtubeanalytics.googleapis.com/overview?project=16886866059 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry."
+    "error": "500 An internal error has occurred."
   }
 }

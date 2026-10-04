@@ -1,0 +1,96 @@
+DANIEL: Welcome back to Human Curriculum. I'm Daniel Reed, a People Manager in Seattle.
+SENA: And I'm Sena Sato, an Associate in Tokyo. Last time, we talked about what changes when you lead. The job changes, so you have to change too.
+DANIEL: And today, we're talking about feedback. Not the scary kind. We're starting with praise. But first, the challenge. You were going to ask Kato-san what surprised him most when he became a manager. Did you catch him at the coffee machine?
+SENA: I did. I bought two cans of hot coffee from the vending machine and waited after his three o'clock meeting. I felt a little like a spy.
+DANIEL: A very kind spy. What happened?
+SENA: I asked the question, and he just looked at me for a second. Then he said, "Nobody has asked me that before." And he talked for almost fifteen minutes.
+DANIEL: Fifteen minutes from a man with a full calendar. That tells you something.
+SENA: It does. He said the biggest surprise was that he almost never finishes anything himself anymore. When he was an analyst, he finished something every day. Now, sometimes a whole month passes, and he can't point to one thing he made.
+DANIEL: That's a very common feeling. Hill's managers said the same kind of thing. What else?
+SENA: Then he told me a story. Fifteen years ago, his first manager left a note on his desk. It said something like, "Your summary on page two helped the director decide in five minutes." He said he still remembers the exact page.
+DANIEL: Fifteen years, and he remembers the page number.
+SENA: And he said, "That's when I learned that one specific sentence from a manager can stay with someone for a long time. I try to do that, but I'm not very good at it."
+DANIEL: What did you write down? The one thing that changed how you see his job?
+SENA: That most of his work is invisible. Not because he isn't working, but because his work is helping other people finish. And I noticed something else. When he talked, his shoulders came down. He looked relaxed for the first time all week.
+DANIEL: That's great social awareness. And I think Kato-san just gave us today's topic. So, what's happening today?
+SENA: Yesterday was our first launch. The dashboard went live in the first two regions. And it went perfectly. Not one wrong number.
+DANIEL: Congratulations. That's a big deal after all the worry.
+SENA: Thank you. But it wasn't luck. Ryo wrote a small script last week that checks every region's data automatically. And yesterday he came in at seven in the morning to run it one last time before the launch. He found one small problem, fixed it, and nobody noticed.
+DANIEL: Nobody noticed. That's the best kind of problem.
+SENA: Right. So in our team chat, I wrote, "Thanks Ryo, great job!" And he sent back a thumbs-up. That's all. And in the team meeting, Kato-san said, "Good job, everyone."
+DANIEL: And how did that feel?
+SENA: Empty. I meant it. I was really grateful. But my message looked exactly like every other message I send. "Great job" for a big thing, "great job" for a small thing. I don't think Ryo knew what I actually saw.
+DANIEL: That's a sharp thing to notice. And it's exactly why I wanted to start feedback with praise. Most people think praise is the easy part. In my experience, it's the part we do the most lazily. Let me share two studies.
+SENA: My notebook is open.
+DANIEL: The first is by Erica Boothby and Vanessa Bohns. It was published in 2021 in Personality and Social Psychology Bulletin. The title is "Why a Simple Act of Kindness Is Not as Simple as It Seems." It was about compliments.
+SENA: What did they find?
+DANIEL: Across five studies, people who gave a compliment underestimated how good the other person would feel. And they overestimated how uncomfortable or bothered the other person would be. So they held back compliments they could have given.
+SENA: That's me. I worry it will be awkward.
+DANIEL: They found that too. The givers were anxious about whether they would say it well. Whether their words would come out wrong. But here's an interesting detail. Outside observers, people who were just watching, predicted the recipient's feelings more accurately. The mistake was mostly in the giver's head.
+SENA: So the awkwardness is mostly mine, not theirs.
+DANIEL: In these studies, yes. And the givers also felt better after giving the compliment than they expected. Now, most of these were compliments between strangers or acquaintances, not always at work. So I wouldn't take it as exact numbers for your office. But the direction is clear. Your praise probably matters more than you think.
+SENA: Okay. And the second study?
+DANIEL: The second one is a review by John Hattie and Helen Timperley, called "The Power of Feedback." It was published in 2007 in the Review of Educational Research. They looked at a large body of research on feedback, mostly in schools.
+SENA: Schools, not offices.
+DANIEL: Right, so keep that in mind. But one idea from it is very useful at work. They describe different levels of feedback. Feedback about the task. Feedback about the process, meaning how you did it. And feedback about the person, like "You're so smart" or "You're a natural."
+SENA: "Great job" is that last kind.
+DANIEL: Very close. And their conclusion was that praise about the person, on its own, usually does little for learning, because it doesn't say anything about the work. Feedback about the task and especially the process tells people what to do again.
+SENA: So "great job" feels nice, but it doesn't teach anything.
+DANIEL: Exactly. "Great job" says, "I'm happy." Specific praise says, "I saw what you did, and here's why it mattered." That's where SBI comes in.
+SENA: Situation, behavior, impact.
+DANIEL: Right. It's a feedback model from the Center for Creative Leadership. It's a tool, not a study. Situation is when and where. Behavior is what the person actually did, something you could see or hear. And impact is what happened because of it. For the team, for the customer, or for you.
+SENA: Let me try it with Ryo. Situation, "Yesterday morning, before the launch." Behavior, "You came in at seven, ran your check script, and fixed the error in region two." Impact, "Because of that, the dashboard launched with zero wrong numbers, and I could stop worrying."
+DANIEL: Sena, that's beautiful. Notice how different it is from "great job."
+SENA: It's longer. But it's not that hard.
+DANIEL: It's three sentences. And now Ryo knows exactly which part you value. The early check. He can do it again, and he can tell his own manager about it.
+SENA: Okay. Our usual question. Why can't AI do this? AI writes very nice thank-you messages. Honestly, better than mine.
+DANIEL: It does. But look at the SBI you just said. Where did the behavior come from?
+SENA: From me. I knew he came in at seven. I knew about region two.
+DANIEL: Right. The hardest part of good praise isn't the writing. It's the noticing. You have to be paying attention to the person before you can tell them what you saw. AI wasn't in the office at seven. And here's my guess, not a study. If a compliment is very polished but has no real details, people can feel it. What makes praise land is the evidence that a real person noticed them.
+SENA: So the details are the proof that I was paying attention.
+DANIEL: Exactly. Use AI to fix your grammar, sure. But the situation and the behavior have to come from your own eyes.
+SENA: Do you have a failure story about praise? I'm guessing yes.
+DANIEL: You know me well. A few years ago, I had an engineer on my team named Rafael. Very quiet, very careful. I was proud of my feedback in those days. When something went wrong, I was specific. Which line of code, what the impact was, what to change.
+SENA: That sounds good.
+DANIEL: For criticism, it was. But when he did great work, I said, "Nice work, Rafael," or "Thanks, awesome." That's all. Then he got an offer from another company. In our last one-on-one, I asked him what I could have done better. And he said, "I always knew exactly what I did wrong. I never knew what I did right."
+SENA: Oh, Daniel.
+DANIEL: That sentence stayed with me. I had spent all my precision on mistakes. My praise was generic, so it was invisible. He didn't leave only because of that. But it was part of the picture.
+SENA: What did you change?
+DANIEL: Now I use the same care for praise as for criticism. If I can write three sentences about a bug, I can write three sentences about something that went well.
+SENA: That's a good rule. Can I tell you about Japan? Because praise is a little complicated here.
+DANIEL: Please.
+SENA: In many Japanese workplaces, direct praise is not so common, especially from a boss. People might think, "If nothing is wrong, that means it's good." And when someone praises you, the polite reaction is often to deny it. "No, no, not at all." Even if you're happy inside.
+DANIEL: I've seen that with my Tokyo colleagues. I say "great presentation," and they say, "No, it was terrible."
+SENA: Yes! And praising someone in front of everyone can make them embarrassed, because it makes them stand out from the group. We do have "otsukaresama," which means something like "thank you for your hard work." We say it all day. It's warm, but it's not specific.
+DANIEL: That's interesting. In the US, I think we have the opposite problem. People say "awesome" and "amazing" all the time. A sandwich is amazing. A spreadsheet is amazing. So the words lose their value.
+SENA: So Japan has too little praise, and the US has too much empty praise?
+DANIEL: That's a bit of a stereotype, and every team is different. But I think specificity fixes both. In Japan, specific praise feels less like flattery, because it's about the work, not the person. In the US, it stands out from all the "awesomes."
+SENA: And if I'm worried about embarrassing Ryo, I can say it to him privately first.
+DANIEL: Good thinking. That's reading the air, and still saying it.
+SENA: So which EQ skill is this? I think relationship management.
+DANIEL: Relationship management. Praise is one of the simplest ways to build a relationship, and one of the most underused. And it builds trust for later. When you give specific praise often, it's much easier for people to hear specific criticism from you, because they know you see the good things too.
+SENA: Like saving money in a bank before you need to spend it.
+DANIEL: I like that. Now, Speaking Lab. Three sentences for giving specific praise at work. I'll say each one, and you repeat. Listeners, pause and say it out loud with Sena.
+SENA: Ready.
+DANIEL: "When you ran the data check this morning, the launch went smoothly."
+SENA: When you ran the data check this morning, the launch went smoothly.
+DANIEL: "I wanted to tell you specifically what made a difference."
+SENA: I wanted to tell you specifically what made a difference.
+DANIEL: "Because you shared your notes early, the team saved a full day."
+SENA: Because you shared your notes early, the team saved a full day.
+DANIEL: Great rhythm. Now, a retell. In about thirty seconds, tell me today's main points in your own words.
+SENA: Okay. People who give compliments underestimate how good the other person will feel, and they worry too much about awkwardness. That's from Boothby and Bohns. Also, Hattie and Timperley found that praise about the person, like "you're smart," doesn't help much. Feedback about the task or the, um, the process is better. So we use SBI. Situation, behavior, impact. Three sentences, with real details.
+DANIEL: That was clear and well organized. Listeners, your turn. In forty seconds, answer this. Who is one person who helped you recently, and what exactly did they do? Pause the audio and speak.
+SENA: That one is easy for me today.
+DANIEL: I thought it might be. Today's challenge is to praise one person using SBI. Situation, behavior, impact, in three sentences. Say it in person or write it in a message, today. And one rule. Don't add "but" at the end. No "great job, but next time." Today is only praise.
+SENA: I'll go to Ryo's desk before lunch and say it quietly, then send the same three sentences in a message, so he can keep it.
+DANIEL: Perfect. Private first, and in writing so he can use it later. And Sena, can I give you one too?
+SENA: Oh. Okay.
+DANIEL: Last episode, when Kato-san asked why he was only hearing about the data problem now, you told him the truth instead of making an excuse. Because of that, he admitted he was nodding too, and your team made a better plan.
+SENA: No, no, it wasn't...
+DANIEL: Sena.
+SENA: Sorry. Thank you. Just thank you.
+DANIEL: Much better. Next time, we're moving to social awareness. Episode fourteen, "Building Psychological Safety." Why teams speak up more when someone goes first, and why sometimes the person going first should be you, with one of your own small mistakes.
+SENA: My own mistakes? I have plenty of those.
+DANIEL: Perfect, then you're ready. Thanks for listening to Human Curriculum. I'm Daniel.
+SENA: And I'm Sena. Notice it, then name it. See you next time.

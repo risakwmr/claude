@@ -1,0 +1,102 @@
+DANIEL: Welcome back to Human Curriculum. I'm Daniel Reed, a People Manager in Seattle.
+SENA: And I'm Sena Sato, an Associate in Tokyo. Last time, we talked about speaking up when you disagree. Agree, concern, question.
+DANIEL: And today, we're turning to self-awareness, and to your future. What changes when you lead. But first, the challenge. You were going to talk to Kato-san about launching the dashboard to every region at once. Did you?
+SENA: I did. The next morning, before his first meeting. I almost turned around twice in the hallway.
+DANIEL: Twice. But you didn't.
+SENA: No. I said, "I really like the dashboard. I see one risk with the timing." Then I showed him the list of missing values, region by region. And I asked, "Could we start with the regions that have clean data?"
+DANIEL: What did he say?
+SENA: He looked at the list for a long time. Then he said, "Why am I only hearing this now?" My stomach dropped.
+DANIEL: Ouch. How did you answer?
+SENA: I told the truth. Everyone was nodding, and I was nervous. And then he said something I didn't expect. He said, "I was nodding too. I thought the team was confident, so I felt confident."
+DANIEL: Of course. Silence spreads in every direction, even upward.
+SENA: In the end, we're launching in two regions first. The others come a few weeks later. Ryo said I could mention that he had the same worry, so I did. Now Kato-san wants both of us to check the data before each launch.
+DANIEL: And the part you wrote down? What you were afraid of, and what actually happened?
+SENA: I was afraid he would think I was slowing the team down. What actually happened is that he gave us more responsibility.
+DANIEL: The fear was bigger than the result. It usually is. So, what's happening today?
+SENA: Today was strange. Kato-san canceled our one-on-one again. That's the third time this month.
+DANIEL: Hmm. How did that feel?
+SENA: At first, a little hurt. But then I walked past his desk at lunch. He was eating a rice ball with one hand and typing with the other. His calendar was completely full, back to back, from nine to seven. Budget meetings, a hiring interview, a call with Laura in Seattle, and an escalation from another team.
+DANIEL: That sounds like a manager's calendar.
+SENA: And Ryo saw it too. He said, "I would never want his job. He doesn't even do real work anymore." And I laughed, but then I felt uncomfortable.
+DANIEL: Why uncomfortable?
+SENA: Because you know my goal. First, a Program Manager role in Seattle. And someday, a People Manager. But when I looked at Kato-san's calendar, I realized I don't actually know what his job is. I see the meetings. I don't see what he's doing in them.
+DANIEL: That's a very honest thing to notice. Most people only see the outside of a manager's job. Let's look at the inside. I have two studies for you today.
+SENA: My notebook is open.
+DANIEL: The first one is by Linda Hill, a professor at Harvard Business School. She followed nineteen new managers through their first year in the role. It became a book, "Becoming a Manager." The second edition came out in 2019. And in 2007, she wrote a short article in Harvard Business Review called "Becoming the Boss."
+SENA: Only nineteen people?
+DANIEL: Good question. Yes, it's a small, qualitative study, so it's not a statistic. But she has studied this transition for many years, and the patterns she found are famous because so many managers recognize themselves in them.
+SENA: What were the patterns?
+DANIEL: In the article, she lists a few myths new managers believe, and what they found instead. The first myth is that managers have a lot of authority. Finally, you get to decide things.
+SENA: And the reality?
+DANIEL: The new managers felt more constrained, not less. Hill describes them as caught in a web of relationships. Their team, their boss, their peers, other teams. All of them making demands, often conflicting ones.
+SENA: That's Kato-san's calendar. Budget, hiring, Laura, the escalation.
+DANIEL: Exactly. The second myth is that authority comes from your title. In reality, it comes from credibility. From your team, your peers, and your own boss. The title gives you very little.
+SENA: That sounds like our episode on influence without authority.
+DANIEL: It does. Here's the surprise. Even managers mostly lead without authority. Another myth is that a manager's job is to build a good relationship with each person, one by one. Hill found that's not enough. You also have to build the team. The culture, the way people work together.
+SENA: So it's not just one-on-ones. It's the whole group.
+DANIEL: Right. And one more thing from the article. Many new managers didn't want to ask their own boss for help, because they thought it would look weak. But when they did ask, they were often relieved. Their bosses were more patient with their questions and mistakes than they expected.
+SENA: That's interesting. Kato-san never asks anyone for help. At least, not that I can see.
+DANIEL: Maybe. Or maybe he does it where you can't see it. Now, the second study is from economics. Alan Benson, Danielle Li, and Kelly Shue published it in 2019 in the Quarterly Journal of Economics. The title is "Promotions and the Peter Principle."
+SENA: The Peter Principle? What is that?
+DANIEL: It's an old idea, originally half a joke. People get promoted because they're good at their current job, until they reach a job they're not good at. The researchers tested it with real data. They looked at sales workers across two hundred and fourteen firms.
+SENA: And was it true?
+DANIEL: In their data, the best salespeople were more likely to be promoted to manager. But when a top seller became the manager, the team's sales tended to go down. Being great at selling didn't mean being great at helping others sell.
+SENA: Wow. So the skill that gets you promoted isn't the skill you need after.
+DANIEL: That's the lesson I take from it. One caution, though. It's sales jobs only, where performance is easy to count. Other jobs might be different. But I've seen the same pattern with engineers. The best engineer isn't always the best manager of engineers.
+SENA: That makes me a little worried. My work right now is very individual. Data checks, reports, the pipeline.
+DANIEL: Don't worry yet. The point isn't that individual skills are bad. The point is that the job changes, so you have to change too. And the earlier you know that, the better.
+SENA: Okay. Our usual question. Why can't AI do this for me? I could ask AI, "What does a manager do?" and it would give me a very good list.
+DANIEL: It would. Probably a better list than I could write. But Hill's main finding is that becoming a manager isn't learning a list. It's an identity change. She calls it a transformation. You stop being "the person who does the work" and become "the person who helps others do the work." That feeling, of losing the thing that made you proud, nobody can feel it for you.
+SENA: And the credibility part.
+DANIEL: Yes. Credibility comes from people watching you, over months. From promises kept, from how you act when things go wrong. AI can help you prepare a hard conversation. But your team decides whether to trust you. Not the tool.
+SENA: So AI can describe the job. It can't do the change.
+DANIEL: That's a great way to put it. Now, I promised you a story. This is one I haven't told before.
+SENA: I'm ready.
+DANIEL: When I first became a manager, I was promoted inside my own team. One day I was a peer, the next day I was the boss. And one of my teammates, Owen, was my closest friend at work. We had lunch together almost every day.
+SENA: Oh. I think I know where this is going.
+DANIEL: I thought nothing had to change. We kept having lunch. We talked about the team, honestly, the way friends do. And when an exciting new project came in, I gave it to Owen. He was good, so it made sense to me.
+SENA: But not to the others.
+DANIEL: Not at all. A few weeks later, in a team meeting, a quieter engineer asked, very politely, "How do we decide who gets new projects?" And the room went silent. Everybody looked at me, and then at Owen.
+SENA: That sounds terrible.
+DANIEL: It was one of the worst moments of my first year. I wasn't trying to be unfair. But I was managing one relationship, not a team. Exactly Hill's myth.
+SENA: What did you do?
+DANIEL: I talked to Owen first. That was hard. I told him I still valued our friendship, but that I couldn't talk about teammates with him anymore. Then I made a simple, visible way to share new projects. And I started having lunch with different people on the team.
+SENA: Is Owen still your friend?
+DANIEL: He is. It took a few months to feel normal again. But he told me later that he was relieved. He had felt awkward too.
+SENA: I like that he was relieved. Okay, let me tell you about Japan, because the path to manager is often different here.
+DANIEL: Please.
+SENA: In many traditional Japanese companies, people became managers mostly by seniority. You worked long enough, and you became kachou, a section manager. It's changing now, but the idea is still strong. And there's a phrase, "playing manager." Many managers in Japan still do a lot of individual work, while also managing a team.
+DANIEL: A playing manager. Like a player who is also the coach.
+SENA: Exactly. I think Kato-san is one. He still builds reports himself sometimes. Maybe that's why his calendar is so full.
+DANIEL: That's interesting. In many US tech companies, there are often two separate paths. You can grow as an individual contributor, all the way to a very senior level, without managing anyone. Or you can switch to management. And some people switch back.
+SENA: Switch back? Is that normal?
+DANIEL: In my experience, it's not rare. I know engineers who managed for two years, missed building things, and went back. Nobody saw it as a failure. Of course, every company is different.
+SENA: In Japan, going back might feel like a demotion. People might worry about what others think.
+DANIEL: That's a real difference. And it connects to today's EQ skill.
+SENA: Self-awareness?
+DANIEL: Self-awareness. Before you lead, you need to know what really motivates you. Is it solving problems yourself? Being the expert? Or seeing other people grow? None of these is better. But they lead to different jobs.
+SENA: Hmm. I'm not sure what my answer is.
+DANIEL: That's okay. You don't need the answer today. And I want to say one more thing. A Program Manager usually doesn't have direct reports. But it's still leading. You lead the work across teams, without authority. So many of Hill's lessons are for you already. The web of relationships, credibility, building a team culture even when it's not your team.
+SENA: So the Program Manager role is like practice for being a People Manager.
+DANIEL: It can be. Leading without a title is great training for leading with one. Now, Speaking Lab. Three sentences for talking about leadership and your career. I'll say each one, and you repeat it. Listeners, pause and say it out loud too. Ready?
+SENA: Ready.
+DANIEL: "I'd love to hear what surprised you most about this role."
+SENA: I'd love to hear what surprised you most about this role.
+DANIEL: "My goal is to grow into a role where I lead across teams."
+SENA: My goal is to grow into a role where I lead across teams.
+DANIEL: "Could you tell me what a typical week looks like for you?"
+SENA: Could you tell me what a typical week looks like for you?
+DANIEL: Nice and clear. Now, a retell. In about thirty seconds, tell me the main points of today, in your own words.
+SENA: Okay. Today we talked about what changes when you lead. Linda Hill found that new managers feel more constrained, not less. Their authority comes from credibility, not their title. And they have to build a team, not only relationships with each person. Benson and colleagues found that top salespeople, um, sorry, top sellers often became weaker managers. So the skills that get you promoted are not the skills you need after.
+DANIEL: Very good. You fixed "salespeople" smoothly and kept going. Now, listeners, your turn. In forty seconds, answer this. What do you think is the hardest part of your manager's job, and how do you know? Pause the audio and speak.
+SENA: That's a hard question. I would have said "meetings" yesterday.
+DANIEL: And today?
+SENA: Today I'm not sure. Which is maybe the point.
+DANIEL: Exactly. Which brings us to today's challenge. Today's challenge is to ask your manager one question: "What surprised you most when you became a manager?" Ask it in your one-on-one, at the end of a meeting, or even in a short message. Then just listen. Don't give advice, don't jump in. And afterward, write down one thing that changes how you see their job.
+SENA: Kato-san canceled our one-on-one, so I'll catch him at the coffee machine after his three o'clock meeting. Maybe I'll bring him a coffee.
+DANIEL: A coffee is a good door opener. And notice how he answers, not only what he says. Is he surprised to be asked? Does he relax?
+SENA: Good. That's social awareness practice too.
+DANIEL: Next time, we're moving to relationship management. Episode thirteen, "Giving Feedback with SBI." Situation, behavior, impact. A simple way to give feedback that people can actually use, and we'll start with the easiest kind. Praise.
+SENA: Praise is easy?
+DANIEL: You'd be surprised. Thanks for listening to Human Curriculum. I'm Daniel.
+SENA: And I'm Sena. The job changes, so you change too. See you next time.

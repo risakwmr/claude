@@ -385,6 +385,82 @@
       ],
       "thumb_cup": "Say it in one sentence.",
       "thumb_pose": "sena_idea"
+    },
+    {
+      "number": 12,
+      "script": "ep12.txt",
+      "title": "What Changes When You Lead",
+      "short_title": "What Changes When You Lead",
+      "summary": "After her manager cancels their one-on-one for the third time and she sees his calendar packed from nine to seven, Sena realizes she doesn't really know what a manager's job is, even though leading is her goal. Daniel shares Linda Hill's year-long study of 19 new managers, who found the role more constrained than they expected, built on credibility rather than title, and about building a team rather than one-to-one bonds, plus Alan Benson, Danielle Li, and Kelly Shue's finding that top salespeople promoted to manager often led weaker teams. He tells the story of how staying best friends with a former peer looked like favoritism, and they compare Japan's seniority-based path and 'playing managers' with the separate IC and manager tracks at many US tech companies. Today's challenge: ask your manager what surprised them most when they became a manager, and just listen.",
+      "practice": "Today, ask your manager one question: \"What surprised you most when you became a manager?\" Ask it in a one-on-one, after a meeting, or in a short message. Then just listen, without advice. Afterward, write down one thing that changes how you see their job.",
+      "sources": [
+        "Hill (2007), Becoming the Boss, Harvard Business Review",
+        "Benson, Li & Shue (2019), Promotions and the Peter Principle, The Quarterly Journal of Economics",
+        "Hill (2019), Becoming a Manager: How New Managers Master the Challenges of Leadership (2nd ed.), Harvard Business School Press"
+      ],
+      "tags": [
+        "EQ",
+        "emotional intelligence",
+        "self-awareness",
+        "becoming a manager",
+        "new manager",
+        "Peter Principle",
+        "Japan US work culture",
+        "career",
+        "leadership",
+        "program manager",
+        "audiobook",
+        "English learning",
+        "English speaking"
+      ],
+      "thumb_accent": "Changes",
+      "thumb_sub": "The Job Changes, So You Change Too",
+      "thumb_notes": [
+        "A web, not a throne",
+        "Credibility > title",
+        "Build the team",
+        "Ask what surprised"
+      ],
+      "thumb_cup": "Ask what surprised them.",
+      "thumb_pose": "sena_think"
+    },
+    {
+      "number": 13,
+      "script": "ep13.txt",
+      "title": "Giving Feedback with SBI",
+      "short_title": "Giving Feedback with SBI",
+      "summary": "The dashboard launches with zero wrong numbers because Ryo came in at seven to run his data check, but Sena's thank-you is just \"great job!\" and gets a thumbs-up back. Daniel shares Erica Boothby and Vanessa Bohns's research showing that people underestimate how good their compliments make others feel, and John Hattie and Helen Timperley's review finding that praise about the person teaches little compared with feedback about the task and process. He tells the story of the engineer who said, \"I always knew what I did wrong, never what I did right,\" and they compare quiet praise and otsukaresama in Japan with 'awesome' inflation in the US. Today's challenge: praise one person with SBI, situation, behavior, impact, and no \"but.\"",
+      "practice": "Today, praise one person using SBI in three sentences: the situation (when and where), the behavior (what they actually did), and the impact (what happened because of it). Say it in person or write it in a message, and don't add \"but\" at the end.",
+      "sources": [
+        "Boothby & Bohns (2021), Why a Simple Act of Kindness Is Not as Simple as It Seems: Underestimating the Positive Impact of Our Compliments on Others, Personality and Social Psychology Bulletin",
+        "Hattie & Timperley (2007), The Power of Feedback, Review of Educational Research",
+        "CCL (n.d.), Situation-Behavior-Impact (SBI) feedback model, Center for Creative Leadership"
+      ],
+      "tags": [
+        "EQ",
+        "emotional intelligence",
+        "relationship management",
+        "feedback",
+        "SBI",
+        "praise",
+        "Japan US work culture",
+        "career",
+        "leadership",
+        "program manager",
+        "audiobook",
+        "English learning",
+        "English speaking"
+      ],
+      "thumb_accent": "Specific",
+      "thumb_sub": "Praise That's Specific",
+      "thumb_notes": [
+        "Situation",
+        "Behavior",
+        "Impact",
+        "No \"but\" today"
+      ],
+      "thumb_cup": "Praise one person, specifically.",
+      "thumb_pose": "sena_cheer"
     }
   ]
 }

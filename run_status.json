@@ -64,12 +64,12 @@
     "result": "403 <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/captions?part=snippet&videoId=Rs-Wr1nrYHo&alt=json returned \"Request had insufficient authentication scopes.\". Details: \"[{'message': 'Insufficient Permission', 'domain': 'global', 'reason': 'insufficientPermissions'}]\">"
   },
   "captions:1cdKOJ8zr2c": {
-    "at": "2026-10-04T09:38:55Z",
-    "result": "404 <HttpError 404 when requesting https://youtube.googleapis.com/youtube/v3/captions?part=snippet&videoId=1cdKOJ8zr2c&alt=json returned \"The video identified by the <code>videoId</code> parameter could not be found.\". Details: \"[{'message': 'The video identified by the <code>videoId</code> parameter could not be found.', 'domain': 'youtube.caption', 'reason': 'videoNotFound', 'location': 'videoId', '"
+    "at": "2026-10-04T09:51:35Z",
+    "result": "ok"
   },
   "channel": {
-    "at": "2026-10-04T09:40:09Z",
-    "result": "Liz (UCf8VRZkyPKsWf6enXsYdLeg)"
+    "at": "2026-10-04T09:51:02Z",
+    "result": "Human Curriculum- Learn what AI can’t do (UCSaZaQp7Ao--E-UrkQ4RnXg)"
   },
   "captions:hj8EgYR2ORo": {
     "at": "2026-10-04T09:40:44Z",

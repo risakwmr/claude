@@ -7,9 +7,9 @@ on:
         description: "Episode number(s), e.g. 1 or 1,2. Use next for the next unpublished ones."
         default: "next"
       action:
-        description: "make = build only; upload = build and upload; reschedule = give uploaded private episodes publish times (in the order listed); thumbnail = replace thumbnails of uploaded episodes"
+        description: "make = build only; upload = build and upload; reschedule = give uploaded private episodes publish times (in the order listed); publish = make uploaded episodes public now; thumbnail = replace thumbnails of uploaded episodes"
         type: choice
-        options: [make, upload, reschedule, thumbnail]
+        options: [make, upload, reschedule, publish, thumbnail]
         default: make
       visibility:
         description: "For upload: schedule (next free 00:00 / 12:00 JST slot), public, or private"
@@ -84,10 +84,15 @@ jobs:
           echo "list=$list" >> "$GITHUB_OUTPUT"
           echo "action=$action" >> "$GITHUB_OUTPUT"
           echo "publish_at=$when" >> "$GITHUB_OUTPUT"
+          echo "visibility=${VISIBILITY:-schedule}" >> "$GITHUB_OUTPUT"
 
       - name: Give uploaded episodes publish times
         if: steps.pick.outputs.action == 'reschedule' && steps.pick.outputs.list != ''
         run: python src/upload.py reschedule ${{ steps.pick.outputs.list }} | tee -a "$GITHUB_STEP_SUMMARY"
+
+      - name: Make uploaded episodes public now
+        if: steps.pick.outputs.action == 'publish' && steps.pick.outputs.list != ''
+        run: python src/upload.py publish ${{ steps.pick.outputs.list }} | tee -a "$GITHUB_STEP_SUMMARY"
 
       - name: Replace thumbnails
         if: steps.pick.outputs.action == 'thumbnail' && steps.pick.outputs.list != ''
@@ -120,15 +125,24 @@ jobs:
         if: steps.pick.outputs.action == 'upload' && steps.pick.outputs.list != ''
         env:
           PUBLISH_AT: ${{ steps.pick.outputs.publish_at }}
+          VISIBILITY: ${{ steps.pick.outputs.visibility }}
+          EVENT: ${{ github.event_name }}
         run: |
+          first=1
           for n in ${{ steps.pick.outputs.list }}; do
+            # Manual runs with several episodes: each scheduled episode takes the next free slot.
+            if [ "$EVENT" != "schedule" ] && [ "$VISIBILITY" = "schedule" ] && [ "$first" = 0 ]; then
+              PUBLISH_AT=$(python src/slot.py --force)
+            fi
+            first=0
+            export PUBLISH_AT
             vid=$(python src/upload.py "$n" | tail -n 1)
             echo "EP $n -> https://youtu.be/$vid (publish: ${PUBLISH_AT:-private})" | tee -a "$GITHUB_STEP_SUMMARY"
             python src/mark_published.py "$n" "$vid" "$PUBLISH_AT"
           done
 
       - name: Save published.json
-        if: (steps.pick.outputs.action == 'upload' || steps.pick.outputs.action == 'reschedule') && steps.pick.outputs.list != ''
+        if: (steps.pick.outputs.action == 'upload' || steps.pick.outputs.action == 'reschedule' || steps.pick.outputs.action == 'publish') && steps.pick.outputs.list != ''
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@users.noreply.github.com"

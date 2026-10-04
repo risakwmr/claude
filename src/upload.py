@@ -122,6 +122,7 @@ def add_to_playlist(yt, meta, vid):
         print("  added to playlist", flush=True)
     except HttpError as e:
         print(f"  WARNING: not added to playlist ({e.resp.status}) {str(e)[:200]}", flush=True)
+        note_status(f"playlist:{vid}", f"{e.resp.status} {str(e)[:400]}")
 
 
 def organize(nums):
@@ -139,6 +140,7 @@ def organize(nums):
         new.setdefault("categoryId", "27")
         yt.videos().update(part="snippet", body={"id": vid, "snippet": new}).execute()
         print(f"  EP {n:02d}: {new['title']}", flush=True)
+        note_status(f"organize:{n}", "ok")
         add_to_playlist(yt, meta, vid)
 
 
@@ -238,6 +240,16 @@ def upload(num, video, thumbnail, publish_at=None):
     return vid
 
 
+STATUS_FILE = os.path.join(ROOT, "run_status.json")
+
+
+def note_status(key, value):
+    """Keep the last result of each action in run_status.json (saved with published.json)."""
+    data = json.load(open(STATUS_FILE)) if os.path.exists(STATUS_FILE) else {}
+    data[key] = {"at": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"), "result": value}
+    json.dump(data, open(STATUS_FILE, "w"), indent=2, ensure_ascii=False)
+
+
 def add_japanese_captions(yt, vid, srt):
     """Upload (or replace) the Japanese caption track. Needs the youtube.force-ssl scope."""
     try:
@@ -251,11 +263,13 @@ def add_japanese_captions(yt, vid, srt):
             media_body=MediaFileUpload(srt, mimetype="application/octet-stream"),
         ).execute()
         print("  Japanese captions added", flush=True)
+        note_status(f"captions:{vid}", "ok")
         return True
     except HttpError as e:
         print(f"  WARNING: Japanese captions not added ({e.resp.status}). If this is 403, create a new "
               "refresh token that includes the https://www.googleapis.com/auth/youtube.force-ssl scope. "
               f"{str(e)[:300]}", flush=True)
+        note_status(f"captions:{vid}", f"{e.resp.status} {str(e)[:400]}")
         return False
 
 

@@ -33,11 +33,13 @@ import re
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
-SENA_POSES = ["default", "coffee", "happy", "cheer", "idea", "walk", "go", "travel", "trip", "shy", "work", "laptop",
-              "write", "listen", "calm", "down", "tired", "phone", "selfie", "confused", "worried", "think", "study",
-              "read", "relief", "breathe", "stretch", "energy", "fun", "casual", "drink", "lunch", "cool"]
-DANIEL_POSES = ["default", "walk", "casual", "research", "think", "story", "dog", "pet", "gym", "back", "coffee",
-                "listen", "phone", "hoodie", "outdoor", "work", "relax", "read"]
+SENA_POSES = ["default", "happy", "energy", "listen", "coffee", "calm", "cheer", "surprised", "confused", "study", "idea",
+              "shrug", "thumbsup", "delighted", "shock", "cheek", "work", "sip", "chin", "curious", "phone", "think",
+              "laughcry", "down", "wave", "cool", "shy", "oh", "moved", "worried", "relief", "tired", "point", "write",
+              "drink", "lunch", "giggle", "dreamy", "peace", "bun"]
+DANIEL_POSES = ["default", "listen", "happy", "think", "surprised", "laugh", "stretch", "point", "explain", "dreamy",
+                "chin", "notice", "open", "offer", "casual", "idea", "smile", "sheepish", "chuckle", "thanks", "coffee",
+                "work", "mugpoint", "pet", "wave", "puzzled", "grin", "dog"]
 
 
 def visual_path(num):

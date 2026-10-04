@@ -311,10 +311,11 @@ def draw_thumbnail(ep_num, short_title, path):
 FULL_DIR = os.path.join(CHAR_DIR, "full")
 ICON_DIR = os.path.join(ROOT, "assets", "icons")
 # Art faces right by default. Sena stands on the left and Daniel on the right, so they face each other:
-SENA_FLIP = {"idea", "shy", "work", "calm", "fun"}       # Sena poses whose art looks left
-DANIEL_KEEP = {"relax"}                                   # Daniel poses already looking left
-STAGE = {"SENA": (40, 500), "DANIEL": (1380, 500)}        # x and box width; feet stand at FLOOR
-FLOOR = 905
+SENA_FLIP = {"point", "go", "work", "laptop"}           # Sena poses whose art looks or points left
+DANIEL_KEEP = set()                                       # Daniel poses already looking left
+STAGE = {"SENA": (40, 500), "DANIEL": (1380, 500)}        # x and box width; busts sit behind the caption bar
+FLOOR = 930
+BAR = (40, 902, 1880, 1052)                               # caption bar, always shown
 BOARD = (560, 238, 1360, 830)                             # center board box
 
 
@@ -329,9 +330,10 @@ def full_pose(name, pose):
     if flip:
         img = ImageOps.mirror(img)
     x, bw = STAGE[name]
-    max_h = 580
-    s = min(bw / img.width, max_h / img.height)
-    return img.resize((int(img.width * s), int(img.height * s)), Image.LANCZOS)
+    max_h = 560
+    s = min(480 / img.width, max_h / img.height)
+    img = img.resize((int(img.width * s), int(img.height * s)), Image.LANCZOS)
+    return img.filter(ImageFilter.UnsharpMask(radius=2, percent=60, threshold=2))
 
 
 @lru_cache(maxsize=None)
@@ -585,19 +587,22 @@ def draw_scene_frame(ep_num, ep_title, speaker, level, subtitle, sena_pose, dani
         bob = -6 if (active and level >= 2) else 0
         img.alpha_composite(fig, (x + (bw - fig.width) // 2, FLOOR - fig.height + bob))
     d = ImageDraw.Draw(img)
+    # caption bar (always there, the characters stand behind it)
+    bx0, by0, bx1, by1 = BAR
+    bar = paper(bx1 - bx0, by1 - by0, seed=9).convert("RGBA")
+    ImageDraw.Draw(bar).rectangle((0, 0, bx1 - bx0 - 1, by1 - by0 - 1), outline=(214, 204, 186), width=2)
+    sh = Image.new("RGBA", (bx1 - bx0 + 40, by1 - by0 + 40), (0, 0, 0, 0))
+    sh.paste((60, 50, 40, 60), (20, 14, bx1 - bx0 + 20, by1 - by0 + 20))
+    img.alpha_composite(sh.filter(ImageFilter.GaussianBlur(10)), (bx0 - 20, by0 - 20))
+    img.alpha_composite(bar, (bx0, by0))
+    d = ImageDraw.Draw(img)
+    p = PEOPLE[speaker]
+    d.rounded_rectangle((bx0 + 40, by0 - 24, bx0 + 210, by0 + 20), radius=8, fill=p["accent"])
+    d.text((bx0 + 125, by0 - 2), p["first"], font=serif(30, "SemiBold", italic=True), fill=(255, 255, 255), anchor="mm")
     if subtitle:
         f = sans(44, "SemiBold")
-        lines = wrap(d, subtitle, f, 1440, max_lines=2)
-        box_h = 50 + 58 * len(lines)
-        y0 = H - 30 - box_h
-        strip = paper(1600, box_h, seed=9).convert("RGBA")
-        sd = ImageDraw.Draw(strip)
-        sd.rectangle((0, 0, 1599, box_h - 1), outline=(214, 204, 186), width=2)
-        img.alpha_composite(strip, (160, y0))
-        d = ImageDraw.Draw(img)
-        p = PEOPLE[speaker]
-        d.rounded_rectangle((190, y0 - 24, 360, y0 + 20), radius=8, fill=p["accent"])
-        d.text((275, y0 - 2), p["first"], font=serif(30, "SemiBold", italic=True), fill=(255, 255, 255), anchor="mm")
+        lines = wrap(d, subtitle, f, 1640, max_lines=2)
+        cy = (by0 + by1) / 2 + 4
         for i, line in enumerate(lines):
-            d.text((W / 2, y0 + 52 + i * 58), line, font=f, fill=NAVY, anchor="mm")
+            d.text((W / 2, cy + (i - (len(lines) - 1) / 2) * 58), line, font=f, fill=NAVY, anchor="mm")
     return img.convert("RGB")

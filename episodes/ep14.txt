@@ -1,0 +1,96 @@
+DANIEL: Welcome back to Human Curriculum. I'm Daniel Reed, a People Manager in Seattle.
+SENA: And I'm Sena Sato, an Associate in Tokyo. Last time, we talked about giving feedback with SBI. Situation, behavior, impact. And today was only praise, no "but."
+DANIEL: And today, we're talking about psychological safety. But first, the challenge. You were going to walk over to Ryo's desk before lunch. How did it go?
+SENA: I almost didn't do it. I stood up twice and sat down again. Then I thought, "This is three sentences, Sena. You can do three sentences."
+DANIEL: Talking to yourself by name. I like it.
+SENA: So I went over and said it quietly. "Yesterday morning before the launch, you came in at seven and ran your check script. You found the problem in region two and fixed it. Because of that, the dashboard launched with zero wrong numbers, and I could finally stop worrying."
+DANIEL: And what did Ryo do?
+SENA: At first, he did the Japanese thing. "No, no, it was nothing." But then he stopped and asked, "How did you know about region two?" I said, "I read your commit message." And he laughed and said, "Nobody reads those."
+DANIEL: Someone does now.
+SENA: Then I sent the same three sentences in a message. About an hour later, he replied. He said he was going to put it in his notes for his mid-year review. A thumbs-up yesterday, and a real reply today.
+DANIEL: That's the difference between "great job" and specific praise. He can use yours. And Sena, how did it feel for you?
+SENA: Boothby and Bohns were right. I was nervous before, and afterward I felt happy for the rest of the morning. More than I expected.
+DANIEL: Good. Hold on to that feeling. Because today's topic needs a little courage too. So, what happened?
+SENA: This afternoon, Kato-san held a short review of the launch. Fifteen minutes, the whole team. He started by saying, "The launch went well. Were there any problems, or anything we should do differently for the next regions?"
+DANIEL: A good question.
+SENA: A very good question. And then there was silence. Maybe ten seconds. It felt like a minute. Everyone looked at their laptops. Then Kato-san said, "Okay, sounds like everything went smoothly," and we moved on to the schedule.
+DANIEL: And did everything go smoothly?
+SENA: No. Not everything. I made a mistake. In the launch notes I sent to Mark in Seattle, I wrote the wrong date range for region two. I wrote September first, but the data actually starts on September eighth. I noticed the next morning and fixed the document quietly. I don't think anyone saw it.
+DANIEL: So you had a small mistake, and you had the perfect moment to mention it. And you stayed silent.
+SENA: I did. And it's worse, because I wasn't the only one. Kenta, the teammate who reviews my analysis, opened his mouth like he wanted to say something. Then he closed it again. I saw it. And after the meeting, he said to me, "There was something strange in the region one filters, but it's probably nothing."
+DANIEL: So there were at least two things the team could have learned from, and the meeting heard zero.
+SENA: Exactly. And I keep thinking, why? Kato-san isn't scary. Nobody would yell at us. But nobody spoke.
+DANIEL: That's a great question, and there's a name for what was missing in that room. Psychological safety. Let me share two studies.
+SENA: My notebook is ready.
+DANIEL: The first is by Amy Edmondson, a professor at Harvard Business School. In 1999, she published a paper in Administrative Science Quarterly called "Psychological Safety and Learning Behavior in Work Teams." She studied fifty-one work teams in a manufacturing company.
+SENA: What is psychological safety, exactly? People use the phrase a lot.
+DANIEL: Edmondson describes it as a shared belief in a team that it's safe to take interpersonal risks. Risks like asking a question that might sound stupid, admitting a mistake, or saying, "I think something is wrong."
+SENA: So it's not about being nice to each other.
+DANIEL: Right. A team can be very polite and still not be safe. Your team today sounds like that. Kind people, no yelling, and still silence.
+SENA: What did she find?
+DANIEL: Teams with higher psychological safety showed more learning behavior. Asking for feedback, talking about mistakes, testing their assumptions. And that learning behavior was connected to better team performance. She also looked at team efficacy, meaning the team's confidence that it can do the work. Once psychological safety was taken into account, confidence alone wasn't linked to learning.
+SENA: So a confident team doesn't automatically learn. A safe team does.
+DANIEL: That's the idea. Now, the caution. It was one company, and much of it came from surveys at one point in time. So it shows a strong connection, not proof that safety causes learning. But it's been one of the most influential ideas in teamwork research since then.
+SENA: Okay. But how do you make a team safe? I'm not the manager. I can't change the culture.
+DANIEL: That's where the second study comes in. Bradley Owens, Michael Johnson, and Terence Mitchell published it in 2013 in Organization Science. The title is "Expressed Humility in Organizations." In one of their studies, seven hundred and four employees rated two hundred and eighteen leaders.
+SENA: Humility. Like being modest?
+DANIEL: A little more specific than that. They describe expressed humility as three things. Being willing to see yourself accurately, which includes admitting your limits and mistakes. Appreciating other people's strengths. And being teachable, open to learning from others.
+SENA: And what did humble leaders get?
+DANIEL: Their teams reported a stronger learning orientation, and through that, higher engagement. Their people were also more satisfied with their jobs, and less likely to leave. Again, this is correlation. They didn't randomly make some leaders humble. But the pattern is clear.
+SENA: But Daniel, these were leaders. I'm an Associate.
+DANIEL: True. The study was about leaders, and I'm stretching it a bit. But think about what happened in your meeting. Everyone was waiting. Waiting to see if it was really safe to say something. In that moment, the first person who admits a mistake changes the room. And that person doesn't need a title.
+SENA: So someone has to go first.
+DANIEL: Someone has to go first. And often, the person who notices the silence is the right person.
+SENA: Okay. Our usual question. Why can't AI do this? AI is very good at admitting mistakes. It apologizes all the time.
+DANIEL: It does. That's actually my point. When AI says "I made a mistake," it doesn't cost anything. Nobody in the meeting thinks less of it, and it doesn't feel nervous. When you say it, it costs something. A little bit of pride, a little risk. And that's exactly why it works. Your teammates see you take the risk and come out okay. That's evidence for them that it's safe.
+SENA: So the courage is the message.
+DANIEL: Exactly. And there's a second part. AI wasn't in the room. It didn't see Kenta open his mouth and close it again. Noticing that is social awareness. It's reading what the silence means, not just hearing it.
+SENA: Do you have a failure story about this? I feel like you do.
+DANIEL: I do, and it's not my proudest moment. In my first year as a manager, I told my team, "My door is always open. Bring me any problem." I said it in my very first team meeting. I was proud of it.
+SENA: That sounds good.
+DANIEL: The words were good. A few weeks later, a junior engineer named Grace told me in a team meeting that a test had been failing for a week, and she hadn't reported it. And I said, in front of everyone, "A week? How did this get past review?"
+SENA: Oh no.
+DANIEL: I didn't shout. I just sounded surprised and a little annoyed. And I thought that was the end of it. But after that, nobody brought me small problems. For three months, every status update was green. Everything was fine.
+SENA: Until it wasn't.
+DANIEL: Until a release failed on a Friday night, because of a problem two people had noticed weeks earlier. One of them told me later, "After what happened to Grace, I didn't want to be the next one."
+SENA: One sentence, and the whole team learned the rule.
+DANIEL: One reaction. Teams don't learn from what you say on a slide. They learn from what happens to the first person who takes a risk. My door was open, but my face was closed.
+SENA: What did you change?
+DANIEL: Two things. I apologized to Grace, and to the team. And I started every retrospective by sharing one mistake of my own first. Small ones. A meeting I scheduled at the wrong time. A message I wrote too quickly. Within a month, people started adding theirs.
+SENA: That's very interesting, because I think it's even harder in Japan. Can I explain?
+DANIEL: Please.
+SENA: In many Japanese companies, a mistake can feel like you're causing trouble for the whole group. We call it meiwaku. So we apologize a lot. "Moushiwake gozaimasen." But a big apology is different from a useful report. Sometimes, after a mistake, people say sorry many times, but nobody talks about why it happened.
+DANIEL: So the apology can actually end the conversation.
+SENA: Yes. And in a meeting, junior people often wait for senior people to speak first. So when the manager asks, "Any problems?" the junior people wait for the senior people, and the senior people wait for the manager. Everyone is waiting.
+DANIEL: That's the ten seconds you felt.
+SENA: Exactly. But we also have a strong tradition of reflection after a project. Hansei. When it's done well, it's very powerful.
+DANIEL: In the US, I think we have the opposite problem, in a way. People love to say "fail fast" and "we celebrate failure." It's on posters. But then performance reviews come, and people learn to hide anything that looks bad. So the words are brave, and the behavior is careful.
+SENA: So in Japan, we say sorry a lot. In the US, you say "fail fast" a lot. And in both places, people hide small mistakes.
+DANIEL: That's a bit simple, and every team is different. But I think it's true often enough. And in both places, the fix is the same. Someone goes first, with something small and real.
+SENA: So which EQ skill is this? It feels like it could be many.
+DANIEL: Today, I'd call it social awareness. Reading the climate of a group. Noticing who is silent, and why. Noticing that the silence isn't "everything is fine," it's "nobody wants to go first." And then your action, going first, builds the relationship side too.
+SENA: Social awareness. Reading the silence, not just the words.
+DANIEL: Beautifully put. Now, Speaking Lab. Three sentences for going first in a meeting. I'll say each one, and you repeat. Listeners, pause and say it out loud with Sena.
+SENA: Ready.
+DANIEL: "I'll go first. Here's one small mistake I made this week."
+SENA: I'll go first. Here's one small mistake I made this week.
+DANIEL: "I wrote the wrong date range, and I fixed it the next morning."
+SENA: I wrote the wrong date range, and I fixed it the next morning.
+DANIEL: "What's one thing we should do differently for the next launch?"
+SENA: What's one thing we should do differently for the next launch?
+DANIEL: Great. Now, a retell. In about thirty seconds, tell me today's main points in your own words.
+SENA: Okay. Psychological safety means a team believes it's safe to take risks, like asking questions or admitting mistakes. Edmondson found that teams with more safety learned more, and learning was connected to, um, better performance. Owens and his colleagues found that humble leaders, who admit mistakes and learn from others, had teams that learned more. So when a room is silent, someone has to go first. And it can be me.
+DANIEL: That was clear, and you corrected yourself without stopping. Listeners, your turn. In forty seconds, answer this. What's one small mistake from your week that you could share with your team, and what did you learn from it? Pause the audio and speak.
+SENA: That's a very personal question.
+DANIEL: It is. That's why it's practice. Today's challenge is to share one small mistake of your own first, today. In a meeting, a one-on-one, or a team chat. Make it small and real, say what you learned, and then invite others. "Has anyone else run into something like this?"
+SENA: Kato-san has the planning meeting for region three at four o'clock. I'll start with my date range mistake, and then ask, "Did anyone else notice anything in the first launch?" And I'll look at Kenta.
+DANIEL: Kindly.
+SENA: Kindly. Not like a detective.
+DANIEL: Perfect. You're giving Kenta a door, and you're the one opening it.
+SENA: Daniel, can I tell you one more thing? It's been on my mind all day.
+DANIEL: Of course.
+SENA: Ryo came in at seven again this morning. And yesterday. And I think the day before. Not just on launch day. And his part of the region three file is two days late. I haven't said anything. I just praised him yesterday, so it feels strange to say, "Your part is late."
+DANIEL: That's a real situation, and it's exactly our next topic. Episode fifteen, the last episode of our first season. "The Hard Conversation." How to say the thing you've been avoiding, in one sentence, and how to start by asking, "How are you, really?"
+SENA: I think I need that episode.
+DANIEL: Then you'll be ready. Thanks for listening to Human Curriculum. I'm Daniel.
+SENA: And I'm Sena. Someone has to go first. See you next time.

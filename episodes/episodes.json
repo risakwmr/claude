@@ -461,6 +461,82 @@
       ],
       "thumb_cup": "Praise one person, specifically.",
       "thumb_pose": "sena_cheer"
+    },
+    {
+      "number": 14,
+      "script": "ep14.txt",
+      "title": "Building Psychological Safety",
+      "short_title": "Building Psychological Safety",
+      "summary": "In the launch review, Kato-san asks if anything went wrong, and ten seconds of silence pass, even though Sena made a small mistake and her teammate Kenta noticed something too. Daniel shares Amy Edmondson's study of 51 work teams, where psychological safety went with more learning behavior and better performance, and Bradley Owens, Michael Johnson, and Terence Mitchell's research linking leaders who admit their mistakes to teams that learn more. He tells the story of the 'open door' that closed with one reaction, and they compare meiwaku and long apologies in Japan with 'fail fast' posters in the US. Today's challenge: share one small mistake of your own first, then invite others.",
+      "practice": "Today, share one small mistake of your own first, in a meeting, a one-on-one, or a team chat. Keep it small and real, say what you learned, and then invite others: \"Has anyone else run into something like this?\"",
+      "sources": [
+        "Edmondson (1999), Psychological Safety and Learning Behavior in Work Teams, Administrative Science Quarterly",
+        "Owens, Johnson & Mitchell (2013), Expressed Humility in Organizations: Implications for Performance, Teams, and Leadership, Organization Science"
+      ],
+      "tags": [
+        "EQ",
+        "emotional intelligence",
+        "social awareness",
+        "psychological safety",
+        "mistakes",
+        "humility",
+        "team learning",
+        "Japan US work culture",
+        "career",
+        "leadership",
+        "program manager",
+        "audiobook",
+        "English learning",
+        "English speaking"
+      ],
+      "thumb_accent": "First",
+      "thumb_sub": "Share Your Mistake First",
+      "thumb_notes": [
+        "Someone goes first",
+        "Read the silence",
+        "Small and real",
+        "Anyone else?"
+      ],
+      "thumb_cup": "Share one mistake first.",
+      "thumb_pose": "sena_talk"
+    },
+    {
+      "number": 15,
+      "script": "ep15.txt",
+      "title": "The Hard Conversation",
+      "short_title": "The Hard Conversation",
+      "summary": "Ryo has come in early four days in a row, looks tired, and his part of the region three file is three days late, and Sena keeps writing and deleting a very soft message. Daniel shares Emma Levine and Taya Cohen's experiments showing that honest conversations go better than people expect, and Guy Itzchakov, Avraham Kluger, and Dotan Castro's finding that high quality listening makes speakers less anxious and less defensive. He tells the story of six weeks of jokes instead of one honest sentence, they compare sasshi and honne and tatemae in Japan with the feedback sandwich in the US, and the Season 1 finale looks back on all fifteen episodes. Today's challenge: write your message in one sentence, then ask, \"How are you, really?\" and listen first.",
+      "practice": "Today, write the thing you need to say in one sentence, about the work and its impact. Then, before you say it, ask one person, \"How are you, really?\" and listen until they're finished.",
+      "sources": [
+        "Levine & Cohen (2018), You Can Handle the Truth: Mispredicting the Consequences of Honest Communication, Journal of Experimental Psychology: General",
+        "Itzchakov, Kluger & Castro (2017), I Am Aware of My Inconsistencies but Can Tolerate Them: The Effect of High Quality Listening on Speakers' Attitude Ambivalence, Personality and Social Psychology Bulletin"
+      ],
+      "tags": [
+        "EQ",
+        "emotional intelligence",
+        "hard conversations",
+        "honesty",
+        "listening",
+        "feedback",
+        "season finale",
+        "Japan US work culture",
+        "career",
+        "leadership",
+        "program manager",
+        "audiobook",
+        "English learning",
+        "English speaking"
+      ],
+      "thumb_accent": "Really",
+      "thumb_sub": "How Are You, Really?",
+      "thumb_notes": [
+        "One sentence",
+        "Listen first",
+        "Work, not person",
+        "Honne, kindly"
+      ],
+      "thumb_cup": "How are you, really?",
+      "thumb_pose": "sena_walk"
     }
   ]
 }

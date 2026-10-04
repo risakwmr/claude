@@ -867,6 +867,7 @@
     {
       "number": 14,
       "script": "ep14.txt",
+      "turn_gap": 0.25,
       "title": "Building Psychological Safety",
       "short_title": "Building Psychological Safety",
       "summary": "In the launch review, Kato-san asks if anything went wrong, and ten seconds of silence pass, even though Sena made a small mistake and her teammate Kenta noticed something too. Daniel shares Amy Edmondson's study of 51 work teams, where psychological safety went with more learning behavior and better performance, and Bradley Owens, Michael Johnson, and Terence Mitchell's research linking leaders who admit their mistakes to teams that learn more. He tells the story of the 'open door' that closed with one reaction, and they compare meiwaku and long apologies in Japan with 'fail fast' posters in the US. Today's challenge: share one small mistake of your own first, then invite others.",
@@ -923,6 +924,7 @@
     {
       "number": 15,
       "script": "ep15.txt",
+      "turn_gap": 0.25,
       "title": "The Hard Conversation",
       "short_title": "The Hard Conversation",
       "summary": "Ryo has come in early four days in a row, looks tired, and his part of the region three file is three days late, and Sena keeps writing and deleting a very soft message. Daniel shares Emma Levine and Taya Cohen's experiments showing that honest conversations go better than people expect, and Guy Itzchakov, Avraham Kluger, and Dotan Castro's finding that high quality listening makes speakers less anxious and less defensive. He tells the story of six weeks of jokes instead of one honest sentence, they compare sasshi and honne and tatemae in Japan with the feedback sandwich in the US, and the Season 1 finale looks back on all fifteen episodes. Today's challenge: write your message in one sentence, then ask, \"How are you, really?\" and listen first.",

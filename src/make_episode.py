@@ -7,7 +7,7 @@ Usage:
   python src/make_episode.py 1 --audio-only # voices + subtitle files only, no video (for adding captions later)
 
 Speaking speed: new episodes use RATE / GAP below. An episode can keep its own settings with
-"voice_rate" and "turn_gap" in episodes.json (episodes 1-13 were made at -4% with 0.35 s gaps,
+"voice_rate" and "turn_gap" in episodes.json (episodes 1-13 were made at -4% with 0.35 s gaps, 14-15 at 0.25 s gaps,
 so their caption timings stay in sync).
 Japanese captions: if episodes/epNN.ja.txt exists (one line per script line, "SENA: ..."), an
 epNN.ja.srt is written next to the video and uploaded as YouTube captions.

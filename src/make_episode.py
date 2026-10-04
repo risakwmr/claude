@@ -24,7 +24,8 @@ import sys
 import numpy as np
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-from render import draw_frame, draw_thumbnail  # noqa: E402
+from render import draw_frame, draw_scene_frame, draw_thumbnail  # noqa: E402
+import scenes  # noqa: E402
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SR = 24000
@@ -212,9 +213,12 @@ def build(num, fake=False, limit=None, out_dir=None, audio_only=False):
     os.makedirs(work, exist_ok=True)
 
     print(f"EP {num:02d}: {len(lines)} lines", flush=True)
+    visual = scenes.has_visuals(num)
+    states, repeats = scenes.line_states(num, lines, ep) if visual else ([], set())
     audio = [np.zeros(int(LEAD * SR), np.float32)]
     t = LEAD
     segments, subs = [], []  # segments: (start, end, speaker)
+    pauses = []  # (start, end, line index): silent "your turn" practice time after a Speaking Lab repeat
     for i, (spk, text) in enumerate(lines):
         if fake:
             a, words = fake_audio(text, spk), []
@@ -228,6 +232,11 @@ def build(num, fake=False, limit=None, out_dir=None, audio_only=False):
             subs.append((t + s, t + e, spk, c))
         audio += [a, np.zeros(int(gap * SR), np.float32)]
         t += dur + gap
+        if i in repeats:
+            pause = max(2.5, dur + 1.0)
+            audio.append(np.zeros(int(pause * SR), np.float32))
+            pauses.append((t, t + pause, i))
+            t += pause
         if (i + 1) % 20 == 0:
             print(f"  voiced {i + 1}/{len(lines)}", flush=True)
     audio.append(np.zeros(int(TAIL * SR), np.float32))
@@ -248,6 +257,29 @@ def build(num, fake=False, limit=None, out_dir=None, audio_only=False):
         for k, (s, e, spk, c) in enumerate(subs, 1):
             f.write(f"{k}\n{srt_time(s)} --> {srt_time(e)}\n{spk.title()}: {c}\n\n")
 
+    chapters = None
+    if visual:
+        chapters = os.path.join(out_dir, f"ep{num:02d}.chapters.txt")
+        marks = []
+        for (s0, _, _), st in zip(segments, states):
+            name = st.get("section") or ""
+            if name and (not marks or marks[-1][1] != name):
+                marks.append([s0, name])
+        if marks:
+            marks[0][0] = 0.0
+        kept = []
+        for k, (s0, name) in enumerate(marks):
+            nxt = marks[k + 1][0] if k + 1 < len(marks) else total
+            if kept and nxt - s0 < 10:
+                continue
+            kept.append((s0, name))
+        with open(chapters, "w", encoding="utf-8") as f:
+            for s0, name in kept:
+                f.write(f"{int(s0 // 60)}:{int(s0 % 60):02d} {name}\n")
+        if len(kept) < 3:
+            os.remove(chapters)
+            chapters = None
+
     ja = load_japanese(ep, len(lines))
     ja_srt = None
     if ja:
@@ -257,7 +289,7 @@ def build(num, fake=False, limit=None, out_dir=None, audio_only=False):
     if audio_only:
         shutil.rmtree(work, ignore_errors=True)
         print(f"  {total / 60:.1f} min (audio only)", flush=True)
-        return {"srt": srt, "ja_srt": ja_srt, "duration": total}
+        return {"srt": srt, "ja_srt": ja_srt, "chapters": chapters, "duration": total}
 
     # timeline -> unique frames
     n_frames = int(np.ceil(total * FPS))
@@ -282,7 +314,22 @@ def build(num, fake=False, limit=None, out_dir=None, audio_only=False):
         if talking:
             r = rms[fi]
             level = 3 if r > 0.12 else 2 if r > 0.05 else 1 if r > 0.015 else 0
-        keys.append((last_speaker, level, subtitle))
+        if visual:
+            st, count = states[seg_i], None
+            for p0, p1, li in pauses:
+                if p0 - gap <= tt < p1:
+                    st = states[li]
+                    if tt >= p0:
+                        count = max(1, int(np.ceil(p1 - tt)))
+                        subtitle = ""
+                    break
+            board = dict(st["board"])
+            if count is not None:
+                board["countdown"] = count
+            keys.append((last_speaker, level, subtitle, st["sena"], st["daniel"], st["section"],
+                         json.dumps(board, sort_keys=True)))
+        else:
+            keys.append((last_speaker, level, subtitle))
 
     frames_dir = os.path.join(work, "frames")
     os.makedirs(frames_dir)
@@ -295,8 +342,11 @@ def build(num, fake=False, limit=None, out_dir=None, audio_only=False):
             continue
         if run_key not in cache:
             p = os.path.join(frames_dir, f"f{len(cache):05d}.png")
-            spk, level, sub = run_key
-            draw_frame(num, title, spk, level, sub).save(p, compress_level=1)
+            if visual:
+                draw_scene_frame(num, title, *run_key).save(p, compress_level=1)
+            else:
+                spk, level, sub = run_key
+                draw_frame(num, title, spk, level, sub).save(p, compress_level=1)
             cache[run_key] = p
         listing.append((cache[run_key], run_len / FPS))
         run_key, run_len = k, 1
@@ -316,7 +366,7 @@ def build(num, fake=False, limit=None, out_dir=None, audio_only=False):
     thumb = draw_thumbnail(num, ep, os.path.join(out_dir, f"ep{num:02d}_thumbnail.jpg"))
     shutil.rmtree(work, ignore_errors=True)
     print(f"  done: {mp4}", flush=True)
-    return {"video": mp4, "thumbnail": thumb, "srt": srt, "ja_srt": ja_srt, "duration": total}
+    return {"video": mp4, "thumbnail": thumb, "srt": srt, "ja_srt": ja_srt, "chapters": chapters, "duration": total}
 
 
 if __name__ == "__main__":

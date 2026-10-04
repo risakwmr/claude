@@ -9,6 +9,7 @@ Character art goes in assets/characters/:
 A ready-made thumbnail for an episode can be placed at episodes/epNN_thumbnail.png (or .jpg);
 it is used as-is instead of a generated one.
 """
+import json
 import math
 import os
 import random
@@ -303,3 +304,295 @@ def draw_thumbnail(ep_num, short_title, path):
     d.text((60, min(y + 20, TH - 90)), "Learn what AI can't.", font=hand(54), fill=CORAL)
     img.convert("RGB").save(path, quality=92)
     return path
+
+
+# ---------- visual layout (episodes with epNN.visual.json) ----------
+
+FULL_DIR = os.path.join(CHAR_DIR, "full")
+ICON_DIR = os.path.join(ROOT, "assets", "icons")
+# Art faces right by default. Sena stands on the left and Daniel on the right, so they face each other:
+SENA_FLIP = {"idea", "shy", "work", "calm", "fun"}       # Sena poses whose art looks left
+DANIEL_KEEP = {"relax"}                                   # Daniel poses already looking left
+STAGE = {"SENA": (40, 500), "DANIEL": (1380, 500)}        # x and box width; feet stand at FLOOR
+FLOOR = 905
+BOARD = (560, 238, 1360, 830)                             # center board box
+
+
+@lru_cache(maxsize=None)
+def full_pose(name, pose):
+    who = name.lower()
+    path = os.path.join(FULL_DIR, f"{who}_{pose}.png")
+    if not os.path.exists(path):
+        path = os.path.join(FULL_DIR, f"{who}_default.png")
+    img = Image.open(path).convert("RGBA")
+    flip = (name == "SENA" and pose in SENA_FLIP) or (name == "DANIEL" and pose not in DANIEL_KEEP)
+    if flip:
+        img = ImageOps.mirror(img)
+    x, bw = STAGE[name]
+    max_h = 580
+    s = min(bw / img.width, max_h / img.height)
+    return img.resize((int(img.width * s), int(img.height * s)), Image.LANCZOS)
+
+
+@lru_cache(maxsize=None)
+def faded(name, pose):
+    img = full_pose(name, pose)
+    rgb = Image.blend(img.convert("RGB"), Image.new("RGB", img.size, PAPER), 0.28)
+    out = rgb.convert("RGBA")
+    out.putalpha(img.getchannel("A"))
+    return out
+
+
+@lru_cache(maxsize=None)
+def icon(name, size):
+    import fetch_icons
+    p = fetch_icons.icon_path(name)
+    if not os.path.exists(p):
+        return None
+    im = Image.open(p).convert("RGBA")
+    im.thumbnail((size, size), Image.LANCZOS)
+    return im
+
+
+def _fit_font(draw, text, make, max_w, max_lines, start, stop=28, step=4):
+    size = start
+    while size > stop:
+        f = make(size)
+        lines = wrap(draw, text, f, max_w)
+        if len(lines) <= max_lines:
+            return f, lines, size
+        size -= step
+    f = make(stop)
+    return f, wrap(draw, text, f, max_w, max_lines=max_lines), stop
+
+
+def _label(d, xy, text, color):
+    f = sans(22, "SemiBold")
+    w = spaced_width(text, f, 4)
+    x, y = xy
+    d.rounded_rectangle((x, y, x + w + 34, y + 40), radius=8, fill=color)
+    spaced(d, (x + 17, y + 7), text, f, (255, 255, 255), spacing=4)
+    return w + 34
+
+
+@lru_cache(maxsize=64)
+def board_image(num, board_key):
+    """The center card for one board. board_key is a json string of the board dict (+ countdown)."""
+    b = json.loads(board_key)
+    kind = b.get("type", "none")
+    bw, bh = BOARD[2] - BOARD[0], BOARD[3] - BOARD[1]
+    if kind == "none":
+        return None
+    if kind == "cover":
+        for ext in ("png", "jpg"):
+            p = os.path.join(ROOT, "episodes", f"ep{num:02d}_thumbnail.{ext}")
+            if os.path.exists(p):
+                im = ImageOps.fit(Image.open(p).convert("RGB"), (bw - 40, int((bw - 40) * 9 / 16)), Image.LANCZOS)
+                c = Image.new("RGBA", (im.width + 28, im.height + 28), (255, 253, 248, 255))
+                c.paste(im, (14, 14))
+                tape = brush((180, 46), CORAL, seed=5, alpha=200, roughness=0.15)
+                c.alpha_composite(tape, ((c.width - 180) // 2, -4))
+                return c.rotate(-1.2, resample=Image.BICUBIC, expand=True)
+        return None
+    card_img = paper(bw, bh, seed=21).convert("RGBA")
+    d = ImageDraw.Draw(card_img)
+    d.rectangle((0, 0, bw - 1, bh - 1), outline=(220, 210, 192), width=2)
+    pad = 48
+    inner = bw - pad * 2
+    accent = BLUE if kind in ("study", "compare", "list") else CORAL
+    tape = brush((200, 48), accent, seed=8, alpha=190, roughness=0.15)
+    card_img.alpha_composite(tape, ((bw - 200) // 2, -10))
+    d = ImageDraw.Draw(card_img)
+
+    def icons_row(names, size, y):
+        ims = [icon(n, size) for n in names]
+        ims = [i for i in ims if i is not None]
+        if not ims:
+            return 0
+        total = sum(i.width for i in ims) + 30 * (len(ims) - 1)
+        x = (bw - total) // 2
+        for i in ims:
+            card_img.alpha_composite(i, (x, y + (size - i.height) // 2))
+            x += i.width + 30
+        return size
+
+    icons = b.get("icons") or ([b["icon"]] if b.get("icon") else [])
+    y = 66
+    if kind == "keyword":
+        h = icons_row(icons[:3], 170 if len(icons) <= 1 else 140, y)
+        y += h + (26 if h else 40)
+        f, lines, size = _fit_font(d, b.get("text", ""), lambda s: serif(s, "Bold"), inner, 3, 96)
+        for line in lines:
+            d.text((bw / 2, y), line, font=f, fill=NAVY, anchor="ma")
+            y += int(size * 1.15)
+        if b.get("sub"):
+            fs, sl, ss = _fit_font(d, b["sub"], hand, inner, 2, 54, 34)
+            y += 10
+            for line in sl:
+                d.text((bw / 2, y), line, font=fs, fill=CORAL, anchor="ma")
+                y += int(ss * 1.1)
+    elif kind == "study":
+        _label(d, (pad, 44), "RESEARCH", BLUE)
+        d = ImageDraw.Draw(card_img)
+        if icons:
+            ic = icon(icons[0], 130)
+            if ic:
+                card_img.alpha_composite(ic, (bw - pad - ic.width, 36))
+                d = ImageDraw.Draw(card_img)
+        y = 112
+        fw, wl, ws = _fit_font(d, b.get("who", ""), lambda s: serif(s, "SemiBold"), inner - 140, 2, 42, 28)
+        for line in wl:
+            d.text((pad, y), line, font=fw, fill=NAVY)
+            y += int(ws * 1.2)
+        y += 18
+        if b.get("stat"):
+            ft, tl, ts = _fit_font(d, b["stat"], lambda s: serif(s, "Bold"), inner, 2, 110, 48)
+            for line in tl:
+                d.text((pad, y), line, font=ft, fill=CORAL)
+                y += int(ts * 1.08)
+            y += 12
+        fx, xl, xs = _fit_font(d, b.get("text", ""), lambda s: sans(s, "SemiBold"), inner, 3, 44, 28)
+        for line in xl:
+            d.text((pad, y), line, font=fx, fill=INK)
+            y += int(xs * 1.3)
+        if b.get("note"):
+            d.text((pad, bh - 70), b["note"], font=serif(30, "Regular", italic=True), fill=(120, 116, 108))
+    elif kind in ("compare", "list"):
+        if kind == "compare":
+            cols = [b.get("left", {}), b.get("right", {})]
+            cw = (inner - 40) // 2
+            for k, col in enumerate(cols):
+                x = pad + k * (cw + 40)
+                _label(d, (x, 44), col.get("title", "").upper(), CORAL if k == 0 else BLUE)
+                d = ImageDraw.Draw(card_img)
+                yy = 120
+                for item in col.get("items", [])[:4]:
+                    fi, il, isz = _fit_font(d, item, lambda s: sans(s, "SemiBold"), cw - 30, 3, 38, 26)
+                    d.ellipse((x, yy + isz * 0.35, x + 12, yy + isz * 0.35 + 12), fill=CORAL if k == 0 else BLUE)
+                    for line in il:
+                        d.text((x + 28, yy), line, font=fi, fill=NAVY)
+                        yy += int(isz * 1.25)
+                    yy += 22
+            d.line((bw // 2, 110, bw // 2, bh - 50), fill=(214, 204, 186), width=2)
+        else:
+            f, lines, size = _fit_font(d, b.get("title", ""), lambda s: serif(s, "Bold"), inner, 2, 58, 36)
+            for line in lines:
+                d.text((pad, y - 10), line, font=f, fill=NAVY)
+                y += int(size * 1.15)
+            y += 20
+            for k, item in enumerate(b.get("items", [])[:4]):
+                d.ellipse((pad, y, pad + 52, y + 52), fill=BLUE)
+                d.text((pad + 26, y + 26), str(k + 1), font=sans(30, "SemiBold"), fill=(255, 255, 255), anchor="mm")
+                fi, il, isz = _fit_font(d, item, lambda s: sans(s, "SemiBold"), inner - 80, 2, 40, 28)
+                yy = y + 6
+                for line in il:
+                    d.text((pad + 76, yy), line, font=fi, fill=NAVY)
+                    yy += int(isz * 1.25)
+                y = max(y + 74, yy + 18)
+    elif kind == "story":
+        _label(d, (pad, 44), "DANIEL'S STORY", BLUE)
+        d = ImageDraw.Draw(card_img)
+        y = 120
+        h = icons_row(icons[:2], 150, y)
+        y += h + 24
+        f, lines, size = _fit_font(d, b.get("title", ""), lambda s: serif(s, "Bold"), inner, 2, 72, 40)
+        for line in lines:
+            d.text((bw / 2, y), line, font=f, fill=NAVY, anchor="ma")
+            y += int(size * 1.15)
+        if b.get("text"):
+            fs, sl, ss = _fit_font(d, b["text"], hand, inner, 2, 52, 34)
+            y += 8
+            for line in sl:
+                d.text((bw / 2, y), line, font=fs, fill=CORAL, anchor="ma")
+                y += int(ss * 1.1)
+    elif kind in ("repeat", "question"):
+        countdown = b.get("countdown")
+        if kind == "repeat":
+            _label(d, (pad, 44), "YOUR TURN · SAY IT OUT LOUD" if countdown is not None else "SPEAKING LAB · REPEAT",
+                   CORAL)
+        else:
+            _label(d, (pad, 44), "YOUR TURN · 40 SECONDS", CORAL)
+        d = ImageDraw.Draw(card_img)
+        f, lines, size = _fit_font(d, b.get("text", ""), lambda s: serif(s, "Bold"), inner, 4, 76, 40)
+        total = len(lines) * int(size * 1.2)
+        y = max(120, (bh - total) // 2 - (40 if countdown is not None else 0))
+        for line in lines:
+            d.text((bw / 2, y), line, font=f, fill=NAVY, anchor="ma")
+            y += int(size * 1.2)
+        if countdown is not None:
+            cx, cy, r = bw // 2, bh - 92, 46
+            d.ellipse((cx - r, cy - r, cx + r, cy + r), outline=CORAL, width=6)
+            d.text((cx, cy), str(countdown), font=sans(44, "SemiBold"), fill=CORAL, anchor="mm")
+        elif kind == "question":
+            d.text((bw / 2, bh - 90), "Pause and answer out loud", font=hand(46), fill=CORAL, anchor="ma")
+    elif kind == "challenge":
+        _label(d, (pad, 44), "TODAY'S CHALLENGE", CORAL)
+        d = ImageDraw.Draw(card_img)
+        y = 130
+        h = icons_row(icons[:1], 140, y)
+        y += h + (20 if h else 10)
+        f, lines, size = _fit_font(d, b.get("text", ""), lambda s: serif(s, "Bold"), inner, 2, 80, 44)
+        for line in lines:
+            d.text((bw / 2, y), line, font=f, fill=NAVY, anchor="ma")
+            y += int(size * 1.15)
+        if b.get("sub"):
+            y += 16
+            room = bh - 40 - y
+            size = 34
+            while True:
+                fs = sans(size, "Regular")
+                sl = wrap(d, b["sub"], fs, inner)
+                if len(sl) * int(size * 1.35) <= room or size <= 22:
+                    break
+                size -= 2
+            ss = size
+            sl = sl[:max(1, room // int(size * 1.35))]
+            for line in sl:
+                d.text((bw / 2, y), line, font=fs, fill=INK, anchor="ma")
+                y += int(ss * 1.35)
+    # soft shadow around the card
+    sh = Image.new("RGBA", (bw + 60, bh + 60), (0, 0, 0, 0))
+    sh.paste((60, 50, 40, 60), (30, 38, bw + 30, bh + 38))
+    sh = sh.filter(ImageFilter.GaussianBlur(12))
+    sh.alpha_composite(card_img, (30, 30))
+    return sh
+
+
+@lru_cache(maxsize=4)
+def scene_base(ep_num, ep_title):
+    return base_frame(ep_num, ep_title)
+
+
+def draw_scene_frame(ep_num, ep_title, speaker, level, subtitle, sena_pose, daniel_pose, section, board_key):
+    img = scene_base(ep_num, ep_title).copy()
+    d = ImageDraw.Draw(img)
+    if section:
+        _label(d, (82, 168), section.upper(), NAVY)
+    board = board_image(ep_num, board_key)
+    if board is not None:
+        bx = (BOARD[0] + BOARD[2]) // 2 - board.width // 2
+        by = (BOARD[1] + BOARD[3]) // 2 - board.height // 2
+        img.alpha_composite(board, (bx, by))
+    for name, pose in (("SENA", sena_pose), ("DANIEL", daniel_pose)):
+        active = name == speaker
+        fig = full_pose(name, pose) if active else faded(name, pose)
+        x, bw = STAGE[name]
+        bob = -6 if (active and level >= 2) else 0
+        img.alpha_composite(fig, (x + (bw - fig.width) // 2, FLOOR - fig.height + bob))
+    d = ImageDraw.Draw(img)
+    if subtitle:
+        f = sans(44, "SemiBold")
+        lines = wrap(d, subtitle, f, 1440, max_lines=2)
+        box_h = 50 + 58 * len(lines)
+        y0 = H - 30 - box_h
+        strip = paper(1600, box_h, seed=9).convert("RGBA")
+        sd = ImageDraw.Draw(strip)
+        sd.rectangle((0, 0, 1599, box_h - 1), outline=(214, 204, 186), width=2)
+        img.alpha_composite(strip, (160, y0))
+        d = ImageDraw.Draw(img)
+        p = PEOPLE[speaker]
+        d.rounded_rectangle((190, y0 - 24, 360, y0 + 20), radius=8, fill=p["accent"])
+        d.text((275, y0 - 2), p["first"], font=serif(30, "SemiBold", italic=True), fill=(255, 255, 255), anchor="mm")
+        for i, line in enumerate(lines):
+            d.text((W / 2, y0 + 52 + i * 58), line, font=f, fill=NAVY, anchor="mm")
+    return img.convert("RGB")

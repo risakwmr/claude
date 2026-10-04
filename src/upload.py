@@ -142,10 +142,16 @@ def organize(nums):
         add_to_playlist(yt, meta, vid)
 
 
-def description(meta, ep):
+def read_chapters(video, num):
+    p = os.path.join(os.path.dirname(video), f"ep{num:02d}.chapters.txt")
+    return open(p, encoding="utf-8").read() if os.path.exists(p) else None
+
+
+def description(meta, ep, chapters=None):
     lines = [
         ep["summary"],
         "",
+        *([chapters.strip(), ""] if chapters else []),
         f"Practice: {ep['practice']}",
         "",
         "Research mentioned in this episode:",
@@ -155,6 +161,7 @@ def description(meta, ep):
         "Sena, an Associate in Tokyo, learns from her mentor Daniel, a People Manager in Seattle.",
         "",
         "Sena and Daniel are fictional characters. Their voices are AI-generated.",
+        "Illustrations: Fluent Emoji by Microsoft (MIT License).",
         "",
         "#EQ #EmotionalIntelligence #Leadership #CareerGrowth #HumanCurriculum",
     ]
@@ -188,7 +195,7 @@ def upload(num, video, thumbnail, publish_at=None):
     body = {
         "snippet": {
             "title": title,
-            "description": description(meta, ep),
+            "description": description(meta, ep, read_chapters(video, num)),
             "tags": ep.get("tags", []),
             "categoryId": "27",  # Education
             "defaultLanguage": "en",

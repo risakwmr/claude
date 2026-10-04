@@ -51,3 +51,12 @@ Add repository variables `SENA_VOICE` / `DANIEL_VOICE` with any Microsoft Edge n
 - Videos from unverified Google Cloud apps stay private until Google's audit; switch them to public in YouTube Studio.
 - Custom thumbnails need a phone-verified channel (youtube.com/verify).
 - Fonts: Inter and Lora (SIL Open Font License), TeX Gyre Chorus (GUST Font License). See `assets/fonts/`.
+
+## Visual layout (from episode 14)
+
+If `episodes/epNN.visual.json` exists, the video uses the visual layout: full-body poses for Sena and Daniel
+(`assets/characters/full/`, the art may be mirrored), a center board with big keywords, research cards,
+Japan/US comparisons, lists and today's challenge, free illustrations (Fluent Emoji 3D by Microsoft, MIT License,
+names in `assets/icons/INDEX.txt`, downloaded by `src/fetch_icons.py`), section names that also become YouTube
+chapters, and a short silent "your turn" countdown after each Speaking Lab repeat. The cue format is described at the
+top of `src/scenes.py`.

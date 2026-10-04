@@ -7,9 +7,9 @@ on:
         description: "Episode number(s), e.g. 1 or 1,2. Use next for the next unpublished ones."
         default: "next"
       action:
-        description: "make = build only; upload = build and upload; reschedule = give uploaded private episodes publish times (in the order listed); publish = make uploaded episodes public now; captions = add Japanese captions to uploaded episodes; organize = update titles and descriptions and add to the playlist in order; thumbnail = replace thumbnails of uploaded episodes; short_make = build the vertical Shorts only; short = build and upload Shorts (episode: number(s), or next; see short_kind); stats = views and likes of every Short, by kind"
+        description: "make = build only; upload = build and upload; reschedule = give uploaded private episodes publish times (in the order listed); publish = make uploaded episodes public now; captions = add Japanese captions to uploaded episodes; organize = update titles and descriptions and add to the playlist in order; thumbnail = replace thumbnails of uploaded episodes; short_make = build the vertical Shorts only; short = build and upload Shorts (episode: number(s), or next; see short_kind); stats = views and likes of every Short, by kind; report = channel numbers for the weekly report (saved to reports/)"
         type: choice
-        options: [make, upload, reschedule, publish, captions, organize, thumbnail, short_make, short, stats]
+        options: [make, upload, reschedule, publish, captions, organize, thumbnail, short_make, short, stats, report]
         default: make
       short_kind:
         description: "For short / short_make: which Short (ai = Why can't AI do this?, story = Daniel's story, culture = Japan vs the US, lab = Speaking Lab), or all"
@@ -248,6 +248,10 @@ jobs:
         if: "!cancelled() && (github.event_name == 'schedule' || inputs.action == 'stats')"
         run: python src/upload.py short-stats | tee -a "$GITHUB_STEP_SUMMARY" || echo "stats skipped"
 
+      - name: Channel report
+        if: "!cancelled() && inputs.action == 'report'"
+        run: python src/report.py | tee -a "$GITHUB_STEP_SUMMARY"
+
       - name: Save published.json
         if: always()
         run: |
@@ -258,6 +262,7 @@ jobs:
           [ -f run_status.json ] && git add run_status.json
           [ -f shorts.json ] && git add shorts.json
           [ -f shorts_stats.json ] && git add shorts_stats.json
+          [ -d reports ] && git add reports
           git diff --cached --quiet && exit 0
           git commit -m "Record published episodes"
           for i in 1 2 3; do

@@ -1,5 +1,5 @@
 {
-  "at": "2026-10-04T14:42:14Z",
+  "at": "2026-10-04T14:44:10Z",
   "previous_report_at": null,
   "channel": {
     "title": "Human Curriculum- Learn what AI can’t do",
@@ -246,7 +246,95 @@
     }
   ],
   "analytics": {
-    "available": false,
-    "error": "500 An internal error has occurred."
+    "available": true,
+    "start": "2026-09-27",
+    "end": "2026-10-03",
+    "totals": [
+      {
+        "views": 3,
+        "estimatedMinutesWatched": 14,
+        "averageViewDuration": 425,
+        "averageViewPercentage": 51.23,
+        "likes": 0,
+        "comments": 0,
+        "shares": 1,
+        "subscribersGained": 0,
+        "subscribersLost": 0
+      }
+    ],
+    "daily": [
+      {
+        "day": "2026-09-27",
+        "views": 0,
+        "estimatedMinutesWatched": 0,
+        "subscribersGained": 0
+      },
+      {
+        "day": "2026-09-28",
+        "views": 1,
+        "estimatedMinutesWatched": 1,
+        "subscribersGained": 0
+      },
+      {
+        "day": "2026-09-29",
+        "views": 0,
+        "estimatedMinutesWatched": 0,
+        "subscribersGained": 0
+      },
+      {
+        "day": "2026-09-30",
+        "views": 1,
+        "estimatedMinutesWatched": 0,
+        "subscribersGained": 0
+      },
+      {
+        "day": "2026-10-01",
+        "views": 1,
+        "estimatedMinutesWatched": 12,
+        "subscribersGained": 0
+      }
+    ],
+    "by_video": [
+      {
+        "video": "hj8EgYR2ORo",
+        "views": 1,
+        "estimatedMinutesWatched": 12,
+        "averageViewDuration": 763,
+        "averageViewPercentage": 99.92,
+        "likes": 0,
+        "subscribersGained": 0
+      }
+    ],
+    "traffic": [
+      {
+        "insightTrafficSourceType": "NO_LINK_OTHER",
+        "views": 1,
+        "estimatedMinutesWatched": 1
+      },
+      {
+        "insightTrafficSourceType": "YT_CHANNEL",
+        "views": 1,
+        "estimatedMinutesWatched": 12
+      },
+      {
+        "insightTrafficSourceType": "RELATED_VIDEO",
+        "views": 1,
+        "estimatedMinutesWatched": 0
+      }
+    ],
+    "countries": [],
+    "devices": [
+      {
+        "deviceType": "DESKTOP",
+        "views": 2
+      },
+      {
+        "deviceType": "MOBILE",
+        "views": 1
+      }
+    ],
+    "errors": {
+      "subscribed": "500 s&metrics=views%2CaverageViewPercentage&alt=json returned \"An internal error has occurred.\". Details: \"[{'message': 'An internal error has occurred.', 'domain': 'global', 'reason': 'internalError'}]\">"
+    }
   }
 }

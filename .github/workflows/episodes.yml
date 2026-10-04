@@ -222,14 +222,20 @@ jobs:
       - name: Upload Shorts to YouTube
         if: "!cancelled() && steps.short.outputs.ready == 'true' && steps.short.outputs.action == 'short'"
         run: |
+          failed=0
           while read -r n kind when; do
             if [ ! -f "output/ep$(printf %02d "$n")/ep$(printf %02d "$n")_short_$kind.json" ]; then
               echo "Short EP $n $kind was not made, skipped" | tee -a "$GITHUB_STEP_SUMMARY"
               continue
             fi
-            vid=$(PUBLISH_AT="$when" python src/upload.py short "$n" "$kind" < /dev/null | tail -n 1)
-            echo "Short EP $n $kind -> https://youtube.com/shorts/$vid (publish: ${when:-private})" | tee -a "$GITHUB_STEP_SUMMARY"
+            if vid=$(PUBLISH_AT="$when" python src/upload.py short "$n" "$kind" < /dev/null | tail -n 1); then
+              echo "Short EP $n $kind -> https://youtube.com/shorts/$vid (publish: ${when:-private})" | tee -a "$GITHUB_STEP_SUMMARY"
+            else
+              echo "Short EP $n $kind: upload failed (reason in run_status.json)" | tee -a "$GITHUB_STEP_SUMMARY"
+              failed=1
+            fi
           done < output/short_plan.txt
+          exit $failed
 
       - name: Short stats
         if: "!cancelled() && (github.event_name == 'schedule' || inputs.action == 'stats')"

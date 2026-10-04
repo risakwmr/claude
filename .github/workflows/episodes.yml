@@ -7,9 +7,9 @@ on:
         description: "Episode number(s), e.g. 1 or 1,2. Use next for the next unpublished ones."
         default: "next"
       action:
-        description: "make = build only; upload = build and upload; reschedule = give uploaded private episodes publish times (in the order listed); publish = make uploaded episodes public now; thumbnail = replace thumbnails of uploaded episodes"
+        description: "make = build only; upload = build and upload; reschedule = give uploaded private episodes publish times (in the order listed); publish = make uploaded episodes public now; captions = add Japanese captions to uploaded episodes; thumbnail = replace thumbnails of uploaded episodes"
         type: choice
-        options: [make, upload, reschedule, publish, thumbnail]
+        options: [make, upload, reschedule, publish, captions, thumbnail]
         default: make
       visibility:
         description: "For upload: schedule (next free 00:00 / 12:00 JST slot), public, or private"
@@ -93,6 +93,17 @@ jobs:
       - name: Make uploaded episodes public now
         if: steps.pick.outputs.action == 'publish' && steps.pick.outputs.list != ''
         run: python src/upload.py publish ${{ steps.pick.outputs.list }} | tee -a "$GITHUB_STEP_SUMMARY"
+
+      - name: Add Japanese captions to uploaded episodes
+        if: steps.pick.outputs.action == 'captions' && steps.pick.outputs.list != ''
+        env:
+          SENA_VOICE: ${{ vars.SENA_VOICE }}
+          DANIEL_VOICE: ${{ vars.DANIEL_VOICE }}
+        run: |
+          for n in ${{ steps.pick.outputs.list }}; do
+            python src/make_episode.py "$n" --audio-only
+          done
+          python src/upload.py captions ${{ steps.pick.outputs.list }} | tee -a "$GITHUB_STEP_SUMMARY"
 
       - name: Replace thumbnails
         if: steps.pick.outputs.action == 'thumbnail' && steps.pick.outputs.list != ''

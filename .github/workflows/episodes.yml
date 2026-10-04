@@ -125,6 +125,7 @@ jobs:
           SENA_VOICE: ${{ vars.SENA_VOICE }}
           DANIEL_VOICE: ${{ vars.DANIEL_VOICE }}
         run: |
+          python src/fetch_icons.py ${{ steps.pick.outputs.list }} || echo "illustrations skipped"
           for n in ${{ steps.pick.outputs.list }}; do
             python src/make_episode.py "$n"
           done
@@ -138,6 +139,7 @@ jobs:
             output/*/*.mp4
             output/*/*.jpg
             output/*/*.srt
+            output/*/*.txt
           retention-days: 30
 
       - name: Upload to YouTube

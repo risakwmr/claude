@@ -102,7 +102,11 @@ def analytics(creds, start, end):
         out["devices"] = q(dimensions="deviceType", metrics="views", sort="-views")
         out["subscribed"] = q(dimensions="subscribedStatus", metrics="views,averageViewPercentage")
     except HttpError as e:
-        return {"available": False, "error": f"{e.resp.status} {str(e)[:300]}"}
+        try:
+            msg = json.loads(e.content.decode())["error"]["message"]
+        except Exception:
+            msg = str(e)
+        return {"available": False, "error": f"{e.resp.status} {msg[:400]}"}
     except Exception as e:  # e.g. missing scope reported while refreshing
         return {"available": False, "error": str(e)[:300]}
     return out

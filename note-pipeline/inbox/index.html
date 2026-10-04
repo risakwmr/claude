@@ -1,0 +1,208 @@
+<title>note下書き箱</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Zen+Kaku+Gothic+New:wght@400;500;700&family=Shippori+Mincho+B1:wght@600;700&display=swap">
+<style>
+/* Layout: one narrow reading column — today's delivery status on top, then drafts grouped by day, each opening into the full article. */
+:root{
+  --bg:#F1F3F4; --surface:#FFFFFF; --fg:#1C2630; --muted:#5E6B76; --line:#D9DEE2;
+  --accent:#2B5D86; --accent-soft:#E2ECF5;
+  --todo-bg:#FFF1C9; --todo-fg:#6B4B00;
+  --ok:#2F7A4F; --ok-soft:#E1F1E7; --bad:#A33B2E; --bad-soft:#F8E3DF; --wait:#7A6A2F; --wait-soft:#F3EDD6;
+  --display:"Shippori Mincho B1","Hiragino Mincho ProN","Yu Mincho",serif;
+  --body:"Zen Kaku Gothic New","Hiragino Sans","Noto Sans JP","Yu Gothic",system-ui,sans-serif;
+}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
+  --bg:#12171C; --surface:#1A2129; --fg:#E4E9ED; --muted:#9AA6B1; --line:#2C3640;
+  --accent:#8DB8DD; --accent-soft:#1F3347; --todo-bg:#4A3B12; --todo-fg:#FBE3A0;
+  --ok:#7CC79A; --ok-soft:#173326; --bad:#F09A8C; --bad-soft:#3D1F1A; --wait:#E0CE8A; --wait-soft:#3A3318; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#12171C; --surface:#1A2129; --fg:#E4E9ED; --muted:#9AA6B1; --line:#2C3640;
+  --accent:#8DB8DD; --accent-soft:#1F3347; --todo-bg:#4A3B12; --todo-fg:#FBE3A0;
+  --ok:#7CC79A; --ok-soft:#173326; --bad:#F09A8C; --bad-soft:#3D1F1A; --wait:#E0CE8A; --wait-soft:#3A3318; color-scheme:dark}
+body{background:var(--bg);color:var(--fg);font-family:var(--body);font-size:15px;line-height:1.7}
+.wrap{max-width:720px;margin:0 auto;padding-inline:16px;padding-block:24px 64px;display:flex;flex-direction:column;gap:28px}
+header h1{font-family:var(--display);font-size:1.75rem;margin:0;letter-spacing:.02em}
+header p{margin:.25rem 0 0;color:var(--muted);font-size:.875rem}
+.label{font-size:.75rem;letter-spacing:.08em;color:var(--muted);font-weight:700}
+.status{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}
+.slot{background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:12px 14px;min-width:0}
+.slot .top{display:flex;justify-content:space-between;align-items:center;gap:8px}
+.slot b{font-size:.95rem}
+.slot .msg{font-size:.8rem;color:var(--muted);margin-top:4px;word-break:break-word}
+.pill{font-size:.72rem;font-weight:700;border-radius:999px;padding:2px 10px;white-space:nowrap}
+.pill.ok{background:var(--ok-soft);color:var(--ok)} .pill.bad{background:var(--bad-soft);color:var(--bad)}
+.pill.wait{background:var(--wait-soft);color:var(--wait)} .pill.none{background:var(--accent-soft);color:var(--muted)}
+.day{display:flex;flex-direction:column;gap:10px}
+.day h2{font-size:.85rem;margin:0;color:var(--muted);font-weight:700;letter-spacing:.04em;font-variant-numeric:tabular-nums}
+.card{background:var(--surface);border:1px solid var(--line);border-radius:12px;overflow:hidden}
+.card>button.head{all:unset;box-sizing:border-box;display:flex;flex-direction:column;gap:6px;width:100%;padding:14px 16px;cursor:pointer}
+.card>button.head:focus-visible{outline:2px solid var(--accent);outline-offset:-2px}
+.meta{display:flex;flex-wrap:wrap;gap:6px;align-items:center;font-size:.75rem}
+.chip{border-radius:6px;padding:1px 8px;background:var(--accent-soft);color:var(--accent);font-weight:700}
+.chip.todo{background:var(--todo-bg);color:var(--todo-fg)}
+.chip.done{background:var(--ok-soft);color:var(--ok)}
+.series{color:var(--muted)}
+.title{font-family:var(--display);font-size:1.1rem;line-height:1.5;text-wrap:balance}
+.body{border-top:1px solid var(--line);padding:16px;display:flex;flex-direction:column;gap:14px}
+.actions{display:flex;flex-wrap:wrap;gap:8px}
+.actions button{font:inherit;font-size:.82rem;border:1px solid var(--line);background:var(--bg);color:var(--fg);border-radius:8px;padding:6px 12px;cursor:pointer}
+.actions button.primary{background:var(--accent);border-color:var(--accent);color:var(--surface)}
+.actions button:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.toast{font-size:.8rem;color:var(--ok);min-height:1.2em}
+.article{min-width:0;overflow-wrap:anywhere}
+.article h1{font-family:var(--display);font-size:1.3rem;line-height:1.5;margin:.2em 0 .6em}
+.article h2{font-family:var(--display);font-size:1.1rem;margin:1.6em 0 .4em}
+.article p,.article li{max-width:65ch}
+.article hr{border:0;border-top:1px solid var(--line);margin:1.6em 0}
+.article blockquote{margin:0;padding-left:12px;border-left:3px solid var(--line);color:var(--muted)}
+.article a{color:var(--accent)}
+.article mark{background:var(--todo-bg);color:var(--todo-fg);padding:1px 3px;border-radius:3px}
+.empty{background:var(--surface);border:1px dashed var(--line);border-radius:12px;padding:20px;color:var(--muted);font-size:.9rem}
+.note{font-size:.8rem;color:var(--muted)}
+@media (prefers-reduced-motion:no-preference){.card{transition:border-color .15s}.card:hover{border-color:var(--accent)}}
+</style>
+
+<div class="wrap">
+  <header>
+    <h1>note下書き箱</h1>
+    <p>朝（7:57）と夜（17:50）の自動作成、手動で作った下書きが、全部ここに届きます。</p>
+  </header>
+
+  <section aria-labelledby="todayLabel">
+    <div class="label" id="todayLabel">今日の自動作成</div>
+    <div class="status" id="status" style="margin-top:8px">
+      <div class="slot"><div class="top"><b>朝</b><span class="pill none">読み込み中</span></div></div>
+      <div class="slot"><div class="top"><b>夜</b><span class="pill none">読み込み中</span></div></div>
+    </div>
+  </section>
+
+  <section aria-labelledby="listLabel" style="display:flex;flex-direction:column;gap:18px">
+    <div class="label" id="listLabel">下書き（新しい順）</div>
+    <div id="list"><div class="empty">下書きを読み込んでいます。届いた下書きは日付ごとにここに並びます。</div></div>
+  </section>
+
+  <p class="note">下書きのもとファイルは GitHub の risakwmr/claude（ブランチ claude/vigilant-gates-tewzrg）の drafts/ にも保存されています。</p>
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/marked/12.0.2/marked.min.js"></script>
+<script>
+const $ = (s, r=document) => r.querySelector(s);
+const state = { drafts: [], runs: {}, open: null, db: null };
+const SLOT = { am:"朝", pm:"夜" };
+
+function jstToday(){
+  const d = new Date(Date.now() + 9*3600e3);
+  return d.toISOString().slice(0,10);
+}
+function slotLabel(s){ return SLOT[s] || (s.startsWith("pm") ? "夜・追加" : s.startsWith("am") ? "朝・追加" : "手動"); }
+function fmtDate(iso){
+  const [y,m,d] = iso.split("-").map(Number);
+  const w = "日月火水木金土"[new Date(Date.UTC(y,m-1,d)).getUTCDay()];
+  return `${m}月${d}日（${w}）`;
+}
+function esc(s){ return String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c])); }
+
+function renderStatus(){
+  const today = jstToday();
+  const box = $("#status"); box.innerHTML = "";
+  for (const s of ["am","pm"]) {
+    const r = state.runs[`${today}-${s}`];
+    const has = state.drafts.some(d => d.date === today && d.slot === s);
+    let pill = '<span class="pill none">まだ</span>', msg = s === "am" ? "7:57に作成します" : "17:50に作成します";
+    if (has || r?.status === "ok") { pill = '<span class="pill ok">届いた</span>'; msg = r?.message || "下に届いています"; }
+    else if (r?.status === "failed") { pill = '<span class="pill bad">止まった</span>'; msg = r.message || "途中で止まりました"; }
+    else if (r?.status === "running") { pill = '<span class="pill wait">作成中</span>'; msg = r.message || "作成しています"; }
+    else if (r?.status === "skipped") { pill = '<span class="pill none">お休み</span>'; msg = r.message || ""; }
+    const el = document.createElement("div"); el.className = "slot";
+    el.innerHTML = `<div class="top"><b>${SLOT[s]}</b>${pill}</div><div class="msg">${esc(msg)}</div>`;
+    box.appendChild(el);
+  }
+}
+
+function articleHTML(md){
+  const html = marked.parse(md || "", { mangle:false, headerIds:false });
+  return html.replace(/【✏️要記入[^】]*】/g, m => `<mark>${m}</mark>`);
+}
+
+function renderList(){
+  const list = $("#list");
+  if (!state.drafts.length){
+    list.innerHTML = '<div class="empty">まだ下書きはありません。朝7:57と夜17:50の自動作成のあと、ここに届きます。</div>';
+    return;
+  }
+  const byDay = {};
+  for (const d of state.drafts) (byDay[d.date] ||= []).push(d);
+  const days = Object.keys(byDay).sort().reverse();
+  list.innerHTML = "";
+  list.style.cssText = "display:flex;flex-direction:column;gap:22px";
+  for (const day of days){
+    const sec = document.createElement("div"); sec.className = "day";
+    sec.innerHTML = `<h2>${fmtDate(day)}</h2>`;
+    byDay[day].sort((a,b) => a.slot.localeCompare(b.slot));
+    for (const d of byDay[day]){
+      const open = state.open === d.id;
+      const card = document.createElement("article"); card.className = "card";
+      const todo = (d.markdown?.match(/【✏️要記入/g) || []).length;
+      const status = d.status === "done" ? '<span class="chip done">仕上げ済み</span>'
+                   : todo ? `<span class="chip todo">要記入 ${todo}</span>` : "";
+      card.innerHTML = `
+        <button class="head" id="h-${esc(d.id)}" aria-expanded="${open}">
+          <span class="meta"><span class="chip">${esc(slotLabel(d.slot))}</span>${status}<span class="series">${esc(d.series || "")}</span></span>
+          <span class="title">${esc(d.title || d.id)}</span>
+        </button>`;
+      card.querySelector("button.head").addEventListener("click", () => { state.open = open ? null : d.id; renderList(); });
+      if (open){
+        const body = document.createElement("div"); body.className = "body";
+        body.innerHTML = `
+          <div class="actions">
+            <button class="primary" data-act="copy" id="c-${esc(d.id)}">本文をコピー</button>
+            <button data-act="todo" id="t-${esc(d.id)}">要記入の質問をコピー</button>
+            <button data-act="done" id="d-${esc(d.id)}">${d.status === "done" ? "下書きに戻す" : "仕上げ済みにする"}</button>
+          </div>
+          <div class="toast" aria-live="polite"></div>
+          <div class="article">${articleHTML(d.markdown)}</div>`;
+        const toast = body.querySelector(".toast");
+        body.querySelector('[data-act="copy"]').onclick = () => copy(articleOnly(d.markdown), toast, "本文をコピーしました");
+        body.querySelector('[data-act="todo"]').onclick = () => copy(todoSection(d.markdown), toast, "要記入の質問をコピーしました");
+        body.querySelector('[data-act="done"]').onclick = () => toggleDone(d, toast);
+        card.appendChild(body);
+      }
+      sec.appendChild(card);
+    }
+    list.appendChild(sec);
+  }
+}
+
+function articleOnly(md){ return (md || "").split(/\n## 公開用メモ/)[0].trim(); }
+function todoSection(md){
+  const i = (md || "").indexOf("## 仕上げに必要な質問");
+  return i >= 0 ? md.slice(i).trim() : (md.match(/【✏️要記入[^】]*】/g) || []).join("\n\n");
+}
+async function copy(text, toast, okMsg){
+  try { await navigator.clipboard.writeText(text); toast.textContent = okMsg; }
+  catch { toast.textContent = "コピーできませんでした。本文を長押しして選択してください。"; }
+}
+async function toggleDone(d, toast){
+  if (!state.db){ toast.textContent = "この画面では変更できません。"; return; }
+  try { await state.db.collection("drafts").doc(d.id).update({ status: d.status === "done" ? "draft" : "done" }); }
+  catch { toast.textContent = "保存できませんでした。少し待ってからもう一度押してください。"; }
+}
+
+renderStatus();
+(async () => {
+  const db = await window.claude?.use?.("db");
+  if (!db){
+    $("#list").innerHTML = '<div class="empty">下書きを読み込めませんでした。claude.ai にサインインした状態で開いてください。</div>';
+    return;
+  }
+  state.db = db;
+  db.collection("drafts").onSnapshot(snap => {
+    state.drafts = snap.docs.map(s => ({ id: s.id, ...s.data() })).filter(d => d.date && d.slot);
+    renderList(); renderStatus();
+  }, () => { $("#list").innerHTML = '<div class="empty">下書きを読み込めませんでした。ページを開き直してください。</div>'; });
+  db.collection("runs").onSnapshot(snap => {
+    state.runs = Object.fromEntries(snap.docs.map(s => [s.id, s.data()]));
+    renderStatus();
+  });
+})();
+</script>

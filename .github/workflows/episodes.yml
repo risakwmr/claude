@@ -7,7 +7,7 @@ on:
         description: "Episode number(s), e.g. 1 or 1,2. Use next for the next unpublished ones."
         default: "next"
       action:
-        description: "make = build only; upload = build and upload; reschedule = give uploaded private episodes publish times (in the order listed); publish = make uploaded episodes public now; captions = add Japanese captions to uploaded episodes; organize = update titles and descriptions and add to the playlist in order; thumbnail = replace thumbnails of uploaded episodes; short_make = build the vertical Shorts only; short = build and upload Shorts (episode: number(s), or next; see short_kind); stats = views and likes of every Short, by kind; report = channel numbers for the weekly report (saved to reports/); trailer = make the Start here trailer and upload it as private"
+        description: "make = build only; upload = build and upload; reschedule = give uploaded private episodes publish times (in the order listed); publish = make uploaded episodes public now; captions = add Japanese captions to uploaded episodes; organize = update titles and descriptions and add to the playlist in order; thumbnail = replace thumbnails of uploaded episodes; short_make = build the vertical Shorts only; short = build and upload Shorts (episode: number(s), or next; see short_kind); stats = views and likes of every Short, by kind; report = channel numbers for the weekly report (saved to reports/); trailer = make the Start here trailer (download it from Artifacts or the trailer-preview branch)"
         type: choice
         options: [make, upload, reschedule, publish, captions, organize, thumbnail, short_make, short, stats, report, trailer, channel]
         default: make
@@ -178,7 +178,7 @@ jobs:
           TOKEN: ${{ github.token }}
         run: |
           set +e
-          python src/make_trailer.py --upload | tee -a "$GITHUB_STEP_SUMMARY"
+          python src/make_trailer.py | tee -a "$GITHUB_STEP_SUMMARY"
           code=${PIPESTATUS[0]}
           set -e
           # keep a copy of the video on the trailer-preview branch, so it can be watched without unzipping

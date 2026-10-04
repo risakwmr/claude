@@ -43,8 +43,9 @@ def sync_published():
     pub = json.load(open(path)) if os.path.exists(path) else {}
     known = {v["video_id"] for v in pub.values()}
     yt = youtube()
-    uploads = yt.channels().list(part="contentDetails", mine=True).execute()["items"][0][
-        "contentDetails"]["relatedPlaylists"]["uploads"]
+    me = yt.channels().list(part="contentDetails,snippet", mine=True).execute()["items"][0]
+    note_status("channel", f"{me['snippet']['title']} ({me['id']})")
+    uploads = me["contentDetails"]["relatedPlaylists"]["uploads"]
     ids, token = [], None
     while True:
         r = yt.playlistItems().list(part="contentDetails", playlistId=uploads, maxResults=50,

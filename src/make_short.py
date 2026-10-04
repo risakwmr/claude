@@ -321,7 +321,7 @@ def end_card(num, spec, ep):
         d = ImageDraw.Draw(img)
     y = 700 + (card.height if card is not None else 300) + 40
     d.text((W / 2, y), "Full episode on the channel", font=r.hand(64), fill=r.CORAL, anchor="ma")
-    f, lines, size = r._fit_font(d, ep["title"], lambda s: r.serif(s, "SemiBold"), W - 160, 2, 54, 36)
+    f, lines, size = r._fit_font(d, ep.get("yt_title") or ep["title"], lambda s: r.serif(s, "SemiBold"), W - 160, 2, 54, 36)
     y += 96
     for line in lines:
         d.text((W / 2, y), line, font=f, fill=r.NAVY, anchor="ma")

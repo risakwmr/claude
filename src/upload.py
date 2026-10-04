@@ -106,10 +106,13 @@ def record_short_by_title(item):
 
 
 def video_title(meta, ep, num):
-    """The episode title first; the show name and episode number at the end."""
-    title = f"{ep['title']} | {meta['show']} EP{num:02d}"
+    """The viewer's problem first, in plain words (yt_title); "English Podcast" and the episode number at the end.
+
+    Popular channels put the topic in the first ~40 characters (mobile and search cut titles at about 70)."""
+    main = ep.get("yt_title") or ep["title"]
+    title = f"{main} | English Podcast EP{num:02d}"
     if len(title) > 100:
-        title = f"{ep['title'][:90]} | EP{num:02d}"
+        title = f"{main[:88]} | EP{num:02d}"
     return title
 
 
@@ -285,23 +288,55 @@ def read_chapters(video, num):
     return open(p, encoding="utf-8").read() if os.path.exists(p) else None
 
 
+def next_title_en(meta, num):
+    nxt = next((e for e in meta["episodes"] if e["number"] == num + 1), None)
+    if nxt:
+        return nxt.get("yt_title") or nxt["title"]
+    import re
+    plan = os.path.join(ROOT, "episodes", "plan.md")
+    for line in open(plan, encoding="utf-8") if os.path.exists(plan) else []:
+        m = re.match(rf"^{num + 1} (.+?) \|", line)
+        if m:
+            return m.group(1).strip()
+    return None
+
+
 def description(meta, ep, chapters=None):
-    lines = [
-        ep["summary"],
+    """English description. The first two lines are all most viewers see before "more":
+    a relatable situation, then what they'll learn (with the words people search for)."""
+    num = ep["number"]
+    hook = ep.get("hook") or ep["summary"]
+    points = ep.get("points") or []
+    phrases = speaking_phrases(ep)
+    nxt = next_title_en(meta, num)
+    pid = json.load(open(PLAYLIST_FILE))["id"] if os.path.exists(PLAYLIST_FILE) else None
+    lines = [hook, ""]
+    if points:
+        lines += ["📌 In this episode", *[f"• {p}" for p in points], ""]
+    if phrases:
+        lines += ["🗣 Say it out loud: today's English phrases", *[f"• {en}" for en, _ in phrases], ""]
+    lines += ["✅ Try it today", ep["practice"], ""]
+    if chapters:
+        lines += ["⏱ Chapters", chapters.strip(), ""]
+    if nxt:
+        lines += [f"▶ Next: EP{num + 1:02d} \"{nxt}\""]
+    if pid:
+        lines += [f"📚 All episodes in order → https://www.youtube.com/playlist?list={pid}"]
+    if nxt or pid:
+        lines += [""]
+    lines += [
+        "📖 Research mentioned in this episode",
+        *[f"- {x}" for x in ep["sources"]],
         "",
-        *([chapters.strip(), ""] if chapters else []),
-        f"Practice: {ep['practice']}",
-        "",
-        "Research mentioned in this episode:",
-        *[f"- {s}" for s in ep["sources"]],
-        "",
-        f"{meta['show']} is an audiobook about the human skills AI can't do for you, and about growing your EQ. "
-        "Sena, an Associate in Tokyo, learns from her mentor Daniel, a People Manager in Seattle.",
-        "",
+        "――",
+        f"{meta['show']} | Learn what AI can't do, in natural English.",
+        "An English audio drama for people who work in global teams, or want to. Sena, an Associate in Tokyo, "
+        "learns from her mentor Daniel, a People Manager in Seattle. Natural-speed English with captions, "
+        "real research, and one challenge you can try at work today.",
         "Sena and Daniel are fictional characters. Their voices are AI-generated.",
         "Illustrations: Fluent Emoji by Microsoft (MIT License).",
         "",
-        "#EQ #EmotionalIntelligence #Leadership #CareerGrowth #HumanCurriculum",
+        "#EnglishPodcast #EQ #CareerGrowth",
     ]
     return "\n".join(lines)[:4900]
 
@@ -390,7 +425,7 @@ def short_description(meta, ep, episode_vid):
     lines = [
         f"Full episode → https://youtu.be/{episode_vid}" if episode_vid else "Full episode on the channel.",
         "",
-        f"From \"{ep['title']}\", an episode of {meta['show']}: an English audiobook about the human skills "
+        f"From \"{ep.get('yt_title') or ep['title']}\", an episode of {meta['show']}: an English audiobook about the human skills "
         "AI can't do for you. Sena, an Associate in Tokyo, learns from her mentor Daniel, a People Manager in Seattle.",
         "",
         f"Try it today: {ep['practice']}",
@@ -484,7 +519,7 @@ def comment_links():
             yt.commentThreads().insert(part="snippet", body={"snippet": {
                 "videoId": data[k]["video_id"],
                 "topLevelComment": {"snippet": {
-                    "textOriginal": f"Full episode: \"{ep['title']}\" → https://youtu.be/{pub[n]['video_id']}"}},
+                    "textOriginal": f"Full episode: \"{ep.get('yt_title') or ep['title']}\" → https://youtu.be/{pub[n]['video_id']}"}},
             }}).execute()
             data[k]["commented"] = True
             print(f"  Short {k}: link comment added", flush=True)

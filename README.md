@@ -78,3 +78,7 @@ Every episode also becomes up to four vertical YouTube Shorts (1080×1920): a bi
 - The description starts with the full-episode link, and once a Short is public a comment with the same link is added (you can pin it in YouTube Studio). `shorts.json` keeps track of uploaded Shorts.
 - By hand: **Run workflow** → `action`: `short_make` (build only, download from **Artifacts**) or `short` (build and upload); `episode`: a number like `14`, or `next`; `short_kind`: one kind or `all`.
 - Stats: every scheduled run saves views and likes of each Short to `shorts_stats.json` (summed up by kind in the run summary); run `action`: `stats` to get them now. Retention ("viewed vs swiped away") is only in YouTube Studio.
+
+## Weekly report
+
+`action`: `report` runs `src/report.py`: subscribers and views / likes / comments of every episode and Short (change since the previous report), saved to `reports/YYYY-MM-DD.json`. With the extra scope `https://www.googleapis.com/auth/yt-analytics.readonly` in the refresh token (and the YouTube Analytics API turned on in Google Cloud), it also saves the last 7 days of watch time, average % viewed, traffic sources, countries and devices. A weekly scheduled task runs it and sends the summary to the chat.

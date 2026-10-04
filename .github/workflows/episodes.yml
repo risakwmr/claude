@@ -9,7 +9,7 @@ on:
       action:
         description: "make = build only; upload = build and upload; reschedule = give uploaded private episodes publish times (in the order listed); publish = make uploaded episodes public now; captions = add Japanese captions to uploaded episodes; organize = update titles and descriptions and add to the playlist in order; thumbnail = replace thumbnails of uploaded episodes; short_make = build the vertical Shorts only; short = build and upload Shorts (episode: number(s), or next; see short_kind); stats = views and likes of every Short, by kind; report = channel numbers for the weekly report (saved to reports/); trailer = make the Start here trailer and upload it as private"
         type: choice
-        options: [make, upload, reschedule, publish, captions, organize, thumbnail, short_make, short, stats, report, trailer]
+        options: [make, upload, reschedule, publish, captions, organize, thumbnail, short_make, short, stats, report, trailer, channel]
         default: make
       short_kind:
         description: "For short / short_make: which Short (ai = Why can't AI do this?, highlight = the most striking moment, story = Daniel's story, culture = Japan vs the US, lab = Speaking Lab), or all"
@@ -105,7 +105,7 @@ jobs:
         if: steps.pick.outputs.action == 'publish' && steps.pick.outputs.list != ''
         run: python src/upload.py publish ${{ steps.pick.outputs.list }} | tee -a "$GITHUB_STEP_SUMMARY"
 
-      - name: Add Japanese captions to uploaded episodes
+      - name: Add captions (Japanese and English) to uploaded episodes
         if: steps.pick.outputs.action == 'captions' && steps.pick.outputs.list != ''
         env:
           SENA_VOICE: ${{ vars.SENA_VOICE }}
@@ -278,6 +278,28 @@ jobs:
         if: "!cancelled() && (github.event_name == 'schedule' || inputs.action == 'stats')"
         run: python src/upload.py short-stats | tee -a "$GITHUB_STEP_SUMMARY" || echo "stats skipped"
 
+      - name: Channel page and podcast
+        if: "!cancelled() && inputs.action == 'channel'"
+        run: python src/upload.py channel | tee -a "$GITHUB_STEP_SUMMARY"
+
+      - name: Question comments on episodes that went public
+        if: "!cancelled() && github.event_name == 'schedule'"
+        run: python src/upload.py episode-comments | tee -a "$GITHUB_STEP_SUMMARY" || echo "question comments skipped"
+
+      - name: Catch up on captions
+        # Only in the 09:00 JST run (the second run of YouTube's quota day), up to 4 tracks.
+        if: "!cancelled() && github.event_name == 'schedule' && vars.CAPTION_BACKLOG != 'false'"
+        env:
+          SENA_VOICE: ${{ vars.SENA_VOICE }}
+          DANIEL_VOICE: ${{ vars.DANIEL_VOICE }}
+          CAPTION_MAX: "4"
+        run: |
+          if [ "$(date -u +%H)" -ge 6 ]; then echo "captions catch up in the 09:00 JST run"; exit 0; fi
+          list=$(python src/upload.py caption-todo 4)
+          if [ -z "$list" ]; then echo "all caption tracks are up"; exit 0; fi
+          for n in $list; do python src/make_episode.py "$n" --audio-only || true; done
+          python src/upload.py captions $list | tee -a "$GITHUB_STEP_SUMMARY" || echo "captions skipped"
+
       - name: Channel report
         if: "!cancelled() && inputs.action == 'report'"
         run: python src/report.py | tee -a "$GITHUB_STEP_SUMMARY"
@@ -293,6 +315,8 @@ jobs:
           [ -f shorts.json ] && git add shorts.json
           [ -f shorts_stats.json ] && git add shorts_stats.json
           [ -d reports ] && git add reports
+          [ -f captions.json ] && git add captions.json
+          [ -f comments.json ] && git add comments.json
           [ -f trailer.json ] && git add trailer.json
           git diff --cached --quiet && exit 0
           git commit -m "Record published episodes"

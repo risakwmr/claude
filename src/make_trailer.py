@@ -63,6 +63,7 @@ def trailer_base(ep_num, ep_title):
 
 
 def build(fake=False, out_dir=None):
+    os.environ["NO_VOICE_FALLBACK"] = "1"  # the trailer must sound exactly like the episodes
     me.load_episode = load_trailer
     scenes.visual_path = lambda num: os.path.join(DIR, "trailer.visual.json")
     r.scene_base = trailer_base

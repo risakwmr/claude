@@ -81,14 +81,22 @@ async def tts_line(text, voice, path, rate=RATE):
 
 
 def synth(speaker, text, path, rate=RATE):
-    for voice in (VOICES[speaker], FALLBACK[speaker]):
-        for attempt in range(3):
+    """Always the character's own voice: retry patiently instead of switching to another voice mid-video.
+
+    The fallback voice is used only if NO_VOICE_FALLBACK is not set and the main voice failed 8 times."""
+    import time
+    voices = [VOICES[speaker]] + ([] if os.environ.get("NO_VOICE_FALLBACK") else [FALLBACK[speaker]])
+    for vi, voice in enumerate(voices):
+        for attempt in range(8 if vi == 0 else 3):
             try:
                 words = asyncio.run(tts_line(text, voice, path, rate))
                 if os.path.getsize(path) > 1000:
+                    if vi:
+                        print(f"  WARNING: {speaker} used the fallback voice {voice} for: {text[:50]}", flush=True)
                     return words
-            except Exception as e:  # network hiccups: retry, then fall back
+            except Exception as e:  # network hiccups: wait and retry
                 print(f"  tts retry ({voice}): {e}", flush=True)
+            time.sleep(min(30, 2 ** attempt))
     raise RuntimeError(f"Text-to-speech failed for: {text[:60]}")
 
 

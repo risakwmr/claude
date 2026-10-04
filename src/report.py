@@ -101,7 +101,6 @@ def analytics(creds, start, end):
             "countries": dict(dimensions="country", metrics="views,estimatedMinutesWatched", sort="-views",
                               maxResults=10),
             "devices": dict(dimensions="deviceType", metrics="views", sort="-views"),
-            "subscribed": dict(dimensions="subscribedStatus", metrics="views,averageViewPercentage"),
         }
         errors = {}
         for name, kw in queries.items():  # one failing query shouldn't hide the others

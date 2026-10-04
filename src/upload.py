@@ -63,6 +63,7 @@ def sync_published():
         for item in yt.videos().list(part="snippet,status", id=",".join(new[i:i + 50])).execute().get("items", []):
             title = item["snippet"]["title"]
             if "#shorts" in title.lower():
+                record_short_by_title(item)
                 continue
             m = re.match(r"^EP\s*(\d+)\s*\|", title) or re.search(r"\bEP\s*(\d+)\s*$", title)
             if not m or str(int(m.group(1))) in pub:
@@ -76,6 +77,32 @@ def sync_published():
     pub = dict(sorted(pub.items(), key=lambda kv: int(kv[0])))
     json.dump(pub, open(path, "w"), indent=2)
     print(f"  published.json in sync ({added} added)", flush=True)
+
+
+def record_short_by_title(item):
+    """A Short on the channel that shorts.json doesn't know: find which episode/kind it is by its title."""
+    import shorts
+    import make_short
+    import make_episode
+    data = shorts.load_shorts()
+    if any(v["video_id"] == item["id"] for v in data.values()):
+        return
+    title = item["snippet"]["title"]
+    meta = json.load(open(os.path.join(ROOT, "episodes", "episodes.json"), encoding="utf-8"))
+    for ep in meta["episodes"]:
+        n = ep["number"]
+        try:
+            _, _, lines = make_episode.load_episode(n)
+            specs = make_short.specs(n, ep, lines)
+        except Exception:
+            continue
+        for kind, spec in specs.items():
+            if short_title(spec["title"]) == title and shorts.key(n, kind) not in data:
+                st = item["status"]
+                when = (st.get("publishAt") or item["snippet"]["publishedAt"]).replace(".000Z", "Z")
+                shorts.record(n, kind, item["id"], when)
+                print(f"  recorded Short {n}-{kind}: {item['id']}", flush=True)
+                return
 
 
 def video_title(meta, ep, num):
@@ -324,6 +351,16 @@ def short_description(meta, ep, episode_vid):
 
 def upload_short(num, kind="ai", publish_at=None):
     """Upload output/epNN/epNN_short_KIND.mp4 as a Short, link the full episode, and record it in shorts.json."""
+    try:
+        return _upload_short(num, kind, publish_at)
+    except Exception as e:  # keep the reason in run_status.json, which every run saves
+        detail = f"{e.resp.status} {str(e)[:600]}" if isinstance(e, HttpError) else f"{type(e).__name__}: {str(e)[:600]}"
+        note_status(f"short:{num}-{kind}", f"ERROR {detail}")
+        print(f"  ERROR uploading Short EP {num} {kind}: {detail}", flush=True)
+        raise
+
+
+def _upload_short(num, kind="ai", publish_at=None):
     import shorts
     publish_at = (publish_at if publish_at is not None else os.environ.get("PUBLISH_AT", "")).strip()
     meta = json.load(open(os.path.join(ROOT, "episodes", "episodes.json"), encoding="utf-8"))
@@ -348,9 +385,6 @@ def upload_short(num, kind="ai", publish_at=None):
             "containsSyntheticMedia": True,
         },
     }
-    loc = localizations(meta, ep, num, chapters)
-    if loc:
-        body["localizations"] = loc
     if publish_at and publish_at != "now":
         body["status"]["publishAt"] = publish_at
         print(f"  Short goes public at {publish_at} (UTC)", flush=True)

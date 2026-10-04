@@ -394,15 +394,13 @@ def board_image(num, board_key):
                 c.alpha_composite(tape, ((c.width - 180) // 2, -4))
                 return c.rotate(-1.2, resample=Image.BICUBIC, expand=True)
         return None
-    card_img = paper(bw, bh, seed=21).convert("RGBA")
+    full_h = bh * 2  # draw on a tall sheet, then shrink to fit if the content runs long
+    card_img = Image.new("RGBA", (bw, full_h), (0, 0, 0, 0))
     d = ImageDraw.Draw(card_img)
-    d.rectangle((0, 0, bw - 1, bh - 1), outline=(220, 210, 192), width=2)
     pad = 48
     inner = bw - pad * 2
     accent = BLUE if kind in ("study", "compare", "list") else CORAL
-    tape = brush((200, 48), accent, seed=8, alpha=190, roughness=0.15)
-    card_img.alpha_composite(tape, ((bw - 200) // 2, -10))
-    d = ImageDraw.Draw(card_img)
+    bottom = [0]
 
     def icons_row(names, size, y):
         ims = [icon(n, size) for n in names]
@@ -446,7 +444,7 @@ def board_image(num, board_key):
             y += int(ws * 1.2)
         y += 18
         if b.get("stat"):
-            ft, tl, ts = _fit_font(d, b["stat"], lambda s: serif(s, "Bold"), inner, 2, 110, 48)
+            ft, tl, ts = _fit_font(d, b["stat"], lambda s: serif(s, "Bold"), inner, 1, 110, 56)
             for line in tl:
                 d.text((pad, y), line, font=ft, fill=CORAL)
                 y += int(ts * 1.08)
@@ -456,7 +454,11 @@ def board_image(num, board_key):
             d.text((pad, y), line, font=fx, fill=INK)
             y += int(xs * 1.3)
         if b.get("note"):
-            d.text((pad, bh - 70), b["note"], font=serif(30, "Regular", italic=True), fill=(120, 116, 108))
+            y += 14
+            fn, nl, ns = _fit_font(d, b["note"], lambda s: serif(s, "Regular", italic=True), inner, 2, 30, 24)
+            for line in nl:
+                d.text((pad, y), line, font=fn, fill=(120, 116, 108))
+                y += int(ns * 1.3)
     elif kind in ("compare", "list"):
         if kind == "compare":
             cols = [b.get("left", {}), b.get("right", {})]
@@ -473,7 +475,8 @@ def board_image(num, board_key):
                         d.text((x + 28, yy), line, font=fi, fill=NAVY)
                         yy += int(isz * 1.25)
                     yy += 22
-            d.line((bw // 2, 110, bw // 2, bh - 50), fill=(214, 204, 186), width=2)
+                bottom[0] = max(bottom[0], yy)
+            d.line((bw // 2, 110, bw // 2, max(bh, bottom[0]) - 50), fill=(214, 204, 186), width=2)
         else:
             f, lines, size = _fit_font(d, b.get("title", ""), lambda s: serif(s, "Bold"), inner, 2, 58, 36)
             for line in lines:
@@ -537,19 +540,21 @@ def board_image(num, board_key):
             y += int(size * 1.15)
         if b.get("sub"):
             y += 16
-            room = bh - 40 - y
-            size = 34
-            while True:
-                fs = sans(size, "Regular")
-                sl = wrap(d, b["sub"], fs, inner)
-                if len(sl) * int(size * 1.35) <= room or size <= 22:
-                    break
-                size -= 2
-            ss = size
-            sl = sl[:max(1, room // int(size * 1.35))]
+            fs, sl, ss = _fit_font(d, b["sub"], lambda s: sans(s, "Regular"), inner, 4, 34, 26)
             for line in sl:
                 d.text((bw / 2, y), line, font=fs, fill=INK, anchor="ma")
                 y += int(ss * 1.35)
+    used = max(y, bottom[0]) + 40
+    content = card_img.crop((0, 0, bw, max(used, bh)))
+    if used > bh:  # shrink everything to fit the board
+        k = bh / used
+        content = content.resize((int(bw * k), bh), Image.LANCZOS)
+    final = paper(bw, bh, seed=21).convert("RGBA")
+    final.alpha_composite(content, ((bw - content.width) // 2, 0))
+    ImageDraw.Draw(final).rectangle((0, 0, bw - 1, bh - 1), outline=(220, 210, 192), width=2)
+    tape = brush((200, 48), accent, seed=8, alpha=190, roughness=0.15)
+    final.alpha_composite(tape, ((bw - 200) // 2, -10))
+    card_img = final
     # soft shadow around the card
     sh = Image.new("RGBA", (bw + 60, bh + 60), (0, 0, 0, 0))
     sh.paste((60, 50, 40, 60), (30, 38, bw + 30, bh + 38))

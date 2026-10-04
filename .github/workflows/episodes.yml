@@ -228,8 +228,15 @@ jobs:
               echo "Short EP $n $kind was not made, skipped" | tee -a "$GITHUB_STEP_SUMMARY"
               continue
             fi
-            if vid=$(PUBLISH_AT="$when" python src/upload.py short "$n" "$kind" < /dev/null | tail -n 1); then
-              echo "Short EP $n $kind -> https://youtube.com/shorts/$vid (publish: ${when:-private})" | tee -a "$GITHUB_STEP_SUMMARY"
+            set +e
+            out=$(PUBLISH_AT="$when" python src/upload.py short "$n" "$kind" < /dev/null)
+            code=$?
+            set -e
+            if [ $code = 0 ]; then
+              echo "Short EP $n $kind -> https://youtube.com/shorts/$(echo "$out" | tail -n 1) (publish: ${when:-private})" | tee -a "$GITHUB_STEP_SUMMARY"
+            elif [ $code = 75 ]; then
+              echo "YouTube's daily upload limit is reached; the remaining Shorts go up in a later run" | tee -a "$GITHUB_STEP_SUMMARY"
+              break
             else
               echo "Short EP $n $kind: upload failed (reason in run_status.json)" | tee -a "$GITHUB_STEP_SUMMARY"
               failed=1

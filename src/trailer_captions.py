@@ -26,7 +26,12 @@ assert len(en) == len(ja), (len(en), len(ja))
 
 from faster_whisper import WhisperModel
 model = WhisperModel("small", compute_type="int8")
-segs, _ = model.transcribe(VIDEO, language="en", word_timestamps=True, vad_filter=False)
+import subprocess
+import numpy as np
+raw = subprocess.run(["ffmpeg", "-v", "error", "-i", VIDEO, "-vn", "-ac", "1", "-ar", "16000", "-f", "s16le", "-"],
+                     check=True, capture_output=True).stdout
+audio = np.frombuffer(raw, dtype=np.int16).astype(np.float32) / 32768.0
+segs, _ = model.transcribe(audio, language="en", word_timestamps=True, vad_filter=False)
 heard = [(re.sub(r"[^a-z0-9']", "", w.word.lower()), w.start, w.end) for s in segs for w in s.words]
 heard = [h for h in heard if h[0]]
 duration = heard[-1][2]

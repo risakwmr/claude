@@ -68,7 +68,7 @@
     "result": "ok"
   },
   "channel": {
-    "at": "2026-10-05T11:10:06Z",
+    "at": "2026-10-05T11:11:20Z",
     "result": "Human Curriculum- Learn what AI can’t do (UCSaZaQp7Ao--E-UrkQ4RnXg)"
   },
   "captions:hj8EgYR2ORo": {
@@ -213,6 +213,14 @@
   },
   "captions-en:PKmRhk9OOqA": {
     "at": "2026-10-05T07:13:56Z",
+    "result": "ok"
+  },
+  "captions:OpLN6SesOZA": {
+    "at": "2026-10-05T11:11:36Z",
+    "result": "ok"
+  },
+  "captions-en:OpLN6SesOZA": {
+    "at": "2026-10-05T11:11:37Z",
     "result": "ok"
   }
 }

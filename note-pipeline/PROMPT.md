@@ -19,6 +19,7 @@ git checkout -B claude/vigilant-gates-tewzrg origin/claude/vigilant-gates-tewzrg
    - 有料記事は無料部分しか読めない。読めない部分は推測しない。
    - APIに届かない場合は、WebFetch でプロフィールページ `https://note.com/saras_note` を読み、公開記事のタイトル・公開日・有料かどうかを確認する（この場合スキ数などは「反応データなし」）。どちらも読めなければ「止めるべきとき」に従う。
 2. `note-pipeline/history.md` と `drafts/` 配下を読み、これまでに作った企画を把握する。
+   - `note-pipeline/analytics.md` があれば読み、Senaが共有した反応データ（ビュー・スキ等）を選定に使う。そこにある数字は「反応データなし」の代わりに使ってよい。
 3. スキ数・コメント数はAPIの値だけを使う。PVなど取れない数値は「反応データなし」と書く。数値を推測しない。
 
 ## 2. Senaについて（公開記事で確認できた事実のみ）

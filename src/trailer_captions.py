@@ -25,6 +25,9 @@ if os.path.exists(os.path.join(TD, "final", "captions.ready")):
     yt = up.youtube()
     up.add_japanese_captions(yt, vid, os.path.join(TD, "final", "trailer.ja.srt"))
     up.add_captions(yt, vid, os.path.join(TD, "final", "trailer.en.srt"), "en", "English")
+    for c in yt.captions().list(part="snippet", videoId=vid).execute().get("items", []):
+        sn = c["snippet"]
+        print("TRACK", c["id"], sn.get("language"), sn.get("name"), sn.get("trackKind"), sn.get("isDraft"), flush=True)
     print(f"captions uploaded from ready-made files: https://youtu.be/{vid}", flush=True)
     sys.exit(0)
 

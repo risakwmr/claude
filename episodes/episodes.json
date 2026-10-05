@@ -815,7 +815,8 @@
         "Why top salespeople often make weaker sales managers",
         "Daniel's mistake with his best friend on the team",
         "Seniority and \"playing managers\" in Japan vs two career paths in the US"
-      ]
+      ],
+      "thumb_comp": "K"
     },
     {
       "number": 13,
@@ -873,7 +874,8 @@
         "Why feedback on actions beats feedback on personality",
         "SBI: situation, behavior, impact, in three sentences",
         "Why you should drop the \"but\" at the end"
-      ]
+      ],
+      "thumb_comp": "P"
     },
     {
       "number": 14,
@@ -930,7 +932,8 @@
         "Why teams with humble leaders learn more",
         "When \"my door is always open\" backfired",
         "Meiwaku in Japan vs \"fail fast\" in the US"
-      ]
+      ],
+      "thumb_comp": "B"
     },
     {
       "number": 15,
@@ -987,7 +990,8 @@
         "Why people get less defensive when they feel heard",
         "Six weeks of jokes instead of one honest sentence",
         "Sasshi, honne and tatemae, the feedback sandwich, and a look back at Season 1"
-      ]
+      ],
+      "thumb_comp": "C"
     },
     {
       "number": 16,
@@ -1042,7 +1046,8 @@
         "No quiet fixes"
       ],
       "thumb_cup": "Fact, impact, next step",
-      "thumb_pose": "sena_phone"
+      "thumb_pose": "sena_phone",
+      "thumb_comp": "L"
     },
     {
       "number": 17,
@@ -1097,7 +1102,8 @@
         "Not \"I'm fine\""
       ],
       "thumb_cup": "Write one body signal",
-      "thumb_pose": "sena_breathe"
+      "thumb_pose": "sena_breathe",
+      "thumb_comp": "I"
     }
   ]
 }

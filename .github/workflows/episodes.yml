@@ -202,8 +202,17 @@ jobs:
       - name: Time and upload the trailer captions (en, ja)
         if: inputs.action == 'trailer_captions'
         run: |
-          pip install -q faster-whisper
-          python src/trailer_captions.py | tee -a "$GITHUB_STEP_SUMMARY"
+          set +e
+          pip install -q faster-whisper 2>&1 | tail -3 | tee /tmp/cap.log
+          python src/trailer_captions.py 2>&1 | tee -a /tmp/cap.log "$GITHUB_STEP_SUMMARY"
+          code=${PIPESTATUS[0]}
+          set -e
+          # keep the log and caption files on the trailer-preview branch so they can be read without the Actions UI
+          rm -rf /tmp/preview && mkdir /tmp/preview && cp /tmp/cap.log /tmp/preview/ && cp episodes/trailer/final/*.srt /tmp/preview/ 2>/dev/null || true
+          cd /tmp/preview && git init -q && git checkout -q -b trailer-preview && git add .
+          git -c user.name=github-actions -c user.email=github-actions@users.noreply.github.com commit -q -m "Caption log"
+          git push -q -f "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git" trailer-preview || echo "log not pushed"
+          exit $code
 
       - name: Save the trailer for download
         if: "!cancelled() && inputs.action == 'trailer'"

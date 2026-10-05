@@ -16,10 +16,20 @@
       }
     },
     {
+      "kind": "highlight",
+      "lines": [
+        41,
+        44
+      ],
+      "hook": "When top sellers became managers, team sales went down",
+      "title": "Why great performers can struggle as managers",
+      "tag": "DID YOU KNOW?"
+    },
+    {
       "kind": "story",
       "lines": [
         55,
-        65
+        59
       ],
       "hook": "I got promoted. My best friend at work became my report.",
       "title": "What I got wrong managing my best friend",
@@ -34,7 +44,7 @@
       "kind": "culture",
       "lines": [
         68,
-        74
+        71
       ],
       "hook": "In Japan, stepping back from manager feels like failure. In the US, it's normal.",
       "title": "Manager or not? Career paths in Japan vs the US",

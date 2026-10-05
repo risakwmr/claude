@@ -10,10 +10,20 @@
       "title": "When AI says sorry, it costs nothing. That's the point."
     },
     {
+      "kind": "highlight",
+      "lines": [
+        29,
+        32
+      ],
+      "hook": "A team can be very polite and still not be safe",
+      "title": "Polite isn't the same as psychologically safe",
+      "tag": "DID YOU KNOW?"
+    },
+    {
       "kind": "story",
       "lines": [
         49,
-        57
+        54
       ],
       "hook": "\"My door is always open.\" Then one sentence closed it.",
       "title": "My door was open, but my face was closed"
@@ -22,7 +32,7 @@
       "kind": "culture",
       "lines": [
         62,
-        68
+        64
       ],
       "hook": "Japan says sorry. The US says \"fail fast.\" Both hide mistakes.",
       "title": "Mistakes at work: Japan vs the US"

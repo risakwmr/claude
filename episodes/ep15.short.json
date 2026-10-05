@@ -10,10 +10,20 @@
       "title": "AI can write the words. It can't stay in the room."
     },
     {
+      "kind": "highlight",
+      "lines": [
+        23,
+        26
+      ],
+      "hook": "Honest conversations went better than people feared",
+      "title": "Hard conversations go better than you fear",
+      "tag": "DID YOU KNOW?"
+    },
+    {
       "kind": "story",
       "lines": [
         47,
-        51
+        49
       ],
       "hook": "Six weeks of jokes. Zero honest minutes.",
       "title": "I joked instead of giving feedback. Big mistake."
@@ -22,7 +32,7 @@
       "kind": "culture",
       "lines": [
         54,
-        59
+        57
       ],
       "hook": "Japan hides the message in silence. The US hides it in compliments.",
       "title": "Japan hides the message in silence. The US hides it in compliments."

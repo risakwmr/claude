@@ -16,10 +16,20 @@
       }
     },
     {
+      "kind": "highlight",
+      "lines": [
+        25,
+        28
+      ],
+      "hook": "Better seats than promised didn't make anyone happier",
+      "title": "Keeping promises beats over-delivering",
+      "tag": "DID YOU KNOW?"
+    },
+    {
       "kind": "story",
       "lines": [
         55,
-        64
+        59
       ],
       "hook": "I kept saying \"I'll look into it.\" It cost me a colleague's trust.",
       "title": "An honest no is better than a vague yes",
@@ -34,7 +44,7 @@
       "kind": "culture",
       "lines": [
         66,
-        70
+        68
       ],
       "hook": "Japan builds trust over years. The US tests it in weeks.",
       "title": "How trust works at work in Japan vs the US",

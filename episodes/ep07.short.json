@@ -16,10 +16,20 @@
       }
     },
     {
+      "kind": "highlight",
+      "lines": [
+        27,
+        29
+      ],
+      "hook": "People who felt understood were misunderstood 46% of the time",
+      "title": "You're less clear than you think",
+      "tag": "DID YOU KNOW?"
+    },
+    {
       "kind": "story",
       "lines": [
         43,
-        48
+        47
       ],
       "hook": "I sent a one-line reply. She thought I was angry.",
       "title": "Short is not the same as clear",
@@ -34,7 +44,7 @@
       "kind": "culture",
       "lines": [
         52,
-        55
+        53
       ],
       "hook": "Japan and the US sit at opposite ends of this scale.",
       "title": "High-context vs low-context: Japan and the US at work",

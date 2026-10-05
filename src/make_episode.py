@@ -306,6 +306,8 @@ def build(num, fake=False, limit=None, out_dir=None, audio_only=False):
     seg_i = sub_i = 0
     last_speaker = lines[0][0]
     keys = []
+    from render import blink_times, face_for
+    blinks = blink_times(total, num)
     for fi in range(n_frames):
         tt = fi / FPS
         while seg_i < len(segments) - 1 and tt >= segments[seg_i][1] + gap / 2:
@@ -334,8 +336,11 @@ def build(num, fake=False, limit=None, out_dir=None, audio_only=False):
             board = dict(st["board"])
             if count is not None:
                 board["countdown"] = count
+            talking_name = spk if talking else None
             keys.append((last_speaker, level, subtitle, st["sena"], st["daniel"], st["section"],
-                         json.dumps(board, sort_keys=True)))
+                         json.dumps(board, sort_keys=True),
+                         face_for("SENA", tt, fi, talking_name, level, blinks),
+                         face_for("DANIEL", tt, fi, talking_name, level, blinks)))
         else:
             keys.append((last_speaker, level, subtitle))
 

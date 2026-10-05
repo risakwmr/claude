@@ -16,10 +16,20 @@
       }
     },
     {
+      "kind": "highlight",
+      "lines": [
+        37,
+        40
+      ],
+      "hook": "Traders who could feel their heartbeat made more money",
+      "title": "Traders who felt their heartbeat earned more",
+      "tag": "DID YOU KNOW?"
+    },
+    {
       "kind": "story",
       "lines": [
         49,
-        55
+        51
       ],
       "hook": "My jaw tightened. Then I sent the worst reply of my career.",
       "title": "The reply I still regret as a manager",
@@ -34,7 +44,7 @@
       "kind": "culture",
       "lines": [
         58,
-        62
+        61
       ],
       "hook": "In Japan, we hide our reactions at work. Isn't that EQ?",
       "title": "Hiding a feeling is not the same as handling it",

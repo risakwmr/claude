@@ -16,10 +16,20 @@
       }
     },
     {
+      "kind": "highlight",
+      "lines": [
+        41,
+        45
+      ],
+      "hook": "Over a third of feedback made performance worse",
+      "title": "Why a third of feedback makes things worse",
+      "tag": "DID YOU KNOW?"
+    },
+    {
       "kind": "story",
       "lines": [
         61,
-        71
+        67
       ],
       "hook": "I asked my team for feedback. Then I ruined it in five minutes.",
       "title": "How I killed feedback on my team in five minutes",
@@ -34,7 +44,7 @@
       "kind": "culture",
       "lines": [
         72,
-        75
+        74
       ],
       "hook": "Japan hides feedback in hints. The US hides it behind a smile.",
       "title": "Feedback in Japan vs the US",

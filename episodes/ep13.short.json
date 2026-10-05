@@ -16,10 +16,20 @@
       }
     },
     {
+      "kind": "highlight",
+      "lines": [
+        27,
+        30
+      ],
+      "hook": "Your compliment means more than you think",
+      "title": "Compliments land better than you expect",
+      "tag": "DID YOU KNOW?"
+    },
+    {
       "kind": "story",
       "lines": [
         53,
-        59
+        57
       ],
       "hook": "\"Nice work.\" That's all I ever told him. Then he left.",
       "title": "Why generic praise is invisible",
@@ -34,7 +44,7 @@
       "kind": "culture",
       "lines": [
         62,
-        67
+        65
       ],
       "hook": "Japan has too little praise. The US has too much empty praise.",
       "title": "Japan has too little praise. The US has too much empty praise.",

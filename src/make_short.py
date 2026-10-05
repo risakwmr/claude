@@ -57,9 +57,9 @@ GAP = 0.1   # native back-and-forth: almost no pause between turns
 LEAD, TAIL = 0.2, 0.5   # short tail and no end card, so the Short loops straight back to the hook
 
 KINDS = ["ai", "highlight", "story", "culture", "lab"]
-TAGS = {"ai": "WHY CAN'T AI DO THIS?", "highlight": "HUMAN CURRICULUM", "story": "DANIEL'S STORY", "culture": "JAPAN VS THE US",
+TAGS = {"ai": "WHY CAN'T AI DO THIS?", "highlight": "DID YOU KNOW?", "story": "DANIEL'S STORY", "culture": "JAPAN VS THE US",
         "lab": "SPEAKING LAB · SAY IT OUT LOUD"}
-MAX_SECONDS = {"ai": 45.0, "highlight": 40.0, "story": 58.0, "culture": 50.0, "lab": 58.0}  # popular Shorts run ~30-45 s
+MAX_SECONDS = {"ai": 55.0, "highlight": 50.0, "story": 58.0, "culture": 60.0, "lab": 58.0}  # popular Shorts run ~30-45 s
 TARGET_WORDS = {"ai": 140, "story": 230, "culture": 190}   # rough size of an automatic clip before voicing
 
 HOOK_TOP, HOOK_SPACE = 280, 330     # hook text block (centered vertically in this space)
@@ -273,12 +273,13 @@ def board_card(num, board):
     return card.resize((int(card.width * s), int(card.height * s)), Image.LANCZOS)
 
 
-def bust(name, pose, active):
-    img = r.full_pose(name, pose) if active else r.faded(name, pose)
+def bust(name, pose, active, face=None):
+    img = r.full_pose(name, pose, face) if active else r.faded(name, pose, face)
     return img.resize((int(img.width * 1.08), int(img.height * 1.08)), Image.LANCZOS)
 
 
-def draw(num, spec, ep_title, speaker, level, subtitle, sena, daniel, board_key, base_cache={}):
+def draw(num, spec, ep_title, speaker, level, subtitle, sena, daniel, board_key, sena_face=None, daniel_face=None,
+         base_cache={}):
     k = (num, spec["hook"])
     if k not in base_cache:
         base_cache.clear()
@@ -290,7 +291,7 @@ def draw(num, spec, ep_title, speaker, level, subtitle, sena, daniel, board_key,
         img.alpha_composite(card, (cx - card.width // 2, cy - card.height // 2))
     for name, pose in (("SENA", sena), ("DANIEL", daniel)):
         active = name == speaker
-        fig = bust(name, pose, active)
+        fig = bust(name, pose, active, sena_face if name == "SENA" else daniel_face)
         bob = -6 if (active and level >= 2) else 0
         img.alpha_composite(fig, (BUST_X[name] - fig.width // 2, BUST_FLOOR - fig.height + bob))
     # caption bar on top of the busts
@@ -430,6 +431,7 @@ def build(num, kind="ai", fake=False, out_dir=None, frame=None):
     hop = me.SR // FPS
     rms = np.array([np.sqrt(np.mean(pcm[i * hop:(i + 1) * hop] ** 2) + 1e-12) for i in range(n_frames)])
     keys, seg_i, sub_i, last = [], 0, 0, voiced[0][0]
+    blinks = r.blink_times(total, num * 10 + KINDS.index(kind))
     for fi in range(n_frames):
         tt = fi / FPS
         if tt >= speech_end:  # hold the last picture; the loop restarts at the hook
@@ -456,7 +458,9 @@ def build(num, kind="ai", fake=False, out_dir=None, frame=None):
                 subtitle = "Your turn. Say it out loud."
                 break
         st = states[seg_i]
-        keys.append((last, level, subtitle, st["sena"], st["daniel"], json.dumps(board, sort_keys=True)))
+        tn = spk if talking else None
+        keys.append((last, level, subtitle, st["sena"], st["daniel"], json.dumps(board, sort_keys=True),
+                     r.face_for("SENA", tt, fi, tn, level, blinks), r.face_for("DANIEL", tt, fi, tn, level, blinks)))
 
     frames_dir = os.path.join(work, "frames")
     os.makedirs(frames_dir)

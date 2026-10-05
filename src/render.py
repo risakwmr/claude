@@ -319,8 +319,59 @@ BAR = (40, 902, 1880, 1052)                               # caption bar, always 
 BOARD = (560, 238, 1360, 830)                             # center board box
 
 
+ANIM_DIR = os.path.join(CHAR_DIR, "anim")
+
+
 @lru_cache(maxsize=None)
-def full_pose(name, pose):
+def _anim_map():
+    p = os.path.join(ANIM_DIR, "poses.json")
+    return json.load(open(p, encoding="utf-8")) if os.path.exists(p) else {}
+
+
+def anim_cell(name, pose):
+    """Animation cell number for a pose name (cell name or old pose alias), or None if there are no anim frames."""
+    m = _anim_map().get(name.lower())
+    if not m:
+        return None
+    target = m["alias"].get(pose, pose)
+    for num, cell in m["cells"].items():
+        if cell == target:
+            return int(num)
+    for num, cell in m["cells"].items():  # unknown pose: the default cell
+        if cell == "default":
+            return int(num)
+    return None
+
+
+FACES = ("quiet_open", "talk_open", "talk_closed")
+
+
+@lru_cache(maxsize=None)
+def anim_pose(name, pose, face="quiet_open"):
+    """A talking/blinking frame of the bust-up animation art, sized like full_pose. None if missing."""
+    num = anim_cell(name, pose)
+    if num is None:
+        return None
+    path = os.path.join(ANIM_DIR, f"{name.lower()}_{num:02d}_{face}.png")
+    if not os.path.exists(path):
+        path = os.path.join(ANIM_DIR, f"{name.lower()}_{num:02d}_quiet_open.png")
+        if not os.path.exists(path):
+            return None
+    img = Image.open(path).convert("RGBA")
+    if name == "DANIEL":  # the art looks right; Daniel stands on the right, so he faces Sena
+        img = ImageOps.mirror(img)
+    # every face of a cell shares one size, so swapping faces never shifts the figure
+    s = min(480 / img.width, 560 / img.height)
+    img = img.resize((int(img.width * s), int(img.height * s)), Image.LANCZOS)
+    return img.filter(ImageFilter.UnsharpMask(radius=2, percent=50, threshold=2))
+
+
+@lru_cache(maxsize=None)
+def full_pose(name, pose, face=None):
+    if face:
+        a = anim_pose(name, pose, face)
+        if a is not None:
+            return a
     who = name.lower()
     path = os.path.join(FULL_DIR, f"{who}_{pose}.png")
     if not os.path.exists(path):
@@ -337,8 +388,8 @@ def full_pose(name, pose):
 
 
 @lru_cache(maxsize=None)
-def faded(name, pose):
-    img = full_pose(name, pose)
+def faded(name, pose, face=None):
+    img = full_pose(name, pose, face)
     rgb = Image.blend(img.convert("RGB"), Image.new("RGB", img.size, PAPER), 0.28)
     out = rgb.convert("RGBA")
     out.putalpha(img.getchannel("A"))
@@ -570,7 +621,8 @@ def scene_base(ep_num, ep_title):
     return base_frame(ep_num, ep_title)
 
 
-def draw_scene_frame(ep_num, ep_title, speaker, level, subtitle, sena_pose, daniel_pose, section, board_key):
+def draw_scene_frame(ep_num, ep_title, speaker, level, subtitle, sena_pose, daniel_pose, section, board_key,
+                     sena_face=None, daniel_face=None):
     img = scene_base(ep_num, ep_title).copy()
     d = ImageDraw.Draw(img)
     if section:
@@ -582,7 +634,8 @@ def draw_scene_frame(ep_num, ep_title, speaker, level, subtitle, sena_pose, dani
         img.alpha_composite(board, (bx, by))
     for name, pose in (("SENA", sena_pose), ("DANIEL", daniel_pose)):
         active = name == speaker
-        fig = full_pose(name, pose) if active else faded(name, pose)
+        face = sena_face if name == "SENA" else daniel_face
+        fig = full_pose(name, pose, face) if active else faded(name, pose, face)
         x, bw = STAGE[name]
         bob = -6 if (active and level >= 2) else 0
         img.alpha_composite(fig, (x + (bw - fig.width) // 2, FLOOR - fig.height + bob))
@@ -606,3 +659,29 @@ def draw_scene_frame(ep_num, ep_title, speaker, level, subtitle, sena_pose, dani
         for i, line in enumerate(lines):
             d.text((W / 2, cy + (i - (len(lines) - 1) / 2) * 58), line, font=f, fill=NAVY, anchor="mm")
     return img.convert("RGB")
+
+
+# ---------- talking and blinking ----------
+
+def blink_times(total, seed):
+    """Blink start times for each character: every 2.5-5 s, at different moments for Sena and Daniel."""
+    out = {}
+    for k, name in enumerate(("SENA", "DANIEL")):
+        rng = random.Random(seed * 7 + k)
+        t, times = rng.uniform(0.8, 2.5), []
+        while t < total:
+            times.append(t)
+            t += rng.uniform(2.5, 5.0)
+        out[name] = times
+    return out
+
+
+def face_for(name, t, fi, talking_name, level, blinks, blink_len=0.15):
+    """quiet_open / talk_open / talk_closed for one character at time t (frame index fi at FPS 12).
+
+    The mouth flaps open and shut about 3 times a second while this character's voice is audible."""
+    if any(b <= t < b + blink_len for b in blinks.get(name, ())):
+        return "talk_closed"
+    if talking_name == name and level >= 1 and (fi // 2) % 2 == 0:
+        return "talk_open"
+    return "quiet_open"

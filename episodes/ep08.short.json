@@ -16,10 +16,20 @@
       }
     },
     {
+      "kind": "highlight",
+      "lines": [
+        25,
+        27
+      ],
+      "hook": "Liars thought half the room saw through them. Only a quarter did.",
+      "title": "Nobody sees your hard work like you do",
+      "tag": "DID YOU KNOW?"
+    },
+    {
       "kind": "story",
       "lines": [
         45,
-        51
+        47
       ],
       "hook": "My project went perfectly. That's why I didn't get promoted.",
       "title": "Why quiet work doesn't get you promoted",
@@ -34,7 +44,7 @@
       "kind": "culture",
       "lines": [
         56,
-        61
+        58
       ],
       "hook": "Japanese workers report status. Americans report impact.",
       "title": "Status vs impact: how to make your work visible",

@@ -16,10 +16,20 @@
       }
     },
     {
+      "kind": "highlight",
+      "lines": [
+        21,
+        23
+      ],
+      "hook": "People needed half as many asks as they expected",
+      "title": "People say yes more often than you think",
+      "tag": "DID YOU KNOW?"
+    },
+    {
       "kind": "story",
       "lines": [
         47,
-        57
+        52
       ],
       "hook": "I went over his head. It cost me a year.",
       "title": "I was efficient for one month and slow for a year",
@@ -34,7 +44,7 @@
       "kind": "culture",
       "lines": [
         58,
-        64
+        62
       ],
       "hook": "Americans do nemawashi too. They just don't call it that.",
       "title": "Nemawashi: the Japanese secret to influence",

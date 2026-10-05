@@ -19,6 +19,16 @@
       }
     },
     {
+      "kind": "highlight",
+      "lines": [
+        17,
+        19
+      ],
+      "hook": "On one task, AI made consultants 19 points worse",
+      "title": "When AI made consultants worse, not better",
+      "tag": "DID YOU KNOW?"
+    },
+    {
       "kind": "story",
       "skip": true
     },

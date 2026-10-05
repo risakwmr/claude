@@ -16,10 +16,20 @@
       }
     },
     {
+      "kind": "highlight",
+      "lines": [
+        45,
+        47
+      ],
+      "hook": "Naming their fear out loud calmed people facing a tarantula",
+      "title": "Name the feeling: the tarantula experiment",
+      "tag": "DID YOU KNOW?"
+    },
+    {
       "kind": "story",
       "lines": [
         57,
-        65
+        62
       ],
       "hook": "I said I was \"fine, just stressed.\" I was wrong for three months.",
       "title": "I wasn't stressed. I was lonely.",
@@ -34,7 +44,7 @@
       "kind": "culture",
       "lines": [
         68,
-        74
+        71
       ],
       "hook": "In Japan, \"fine\" can mean no. In the US, it closes the door.",
       "title": "What \"fine\" really means at work: Japan vs the US",

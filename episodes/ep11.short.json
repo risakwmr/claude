@@ -15,10 +15,20 @@
       }
     },
     {
+      "kind": "highlight",
+      "lines": [
+        25,
+        27
+      ],
+      "hook": "85% of employees stayed silent about a real problem",
+      "title": "Why 85% of people stay quiet at work",
+      "tag": "DID YOU KNOW?"
+    },
+    {
       "kind": "story",
       "lines": [
         43,
-        51
+        49
       ],
       "hook": "I saw the risk. I said nothing. Three teams paid for it.",
       "title": "Your silence is not neutral",
@@ -33,7 +43,7 @@
       "kind": "culture",
       "lines": [
         52,
-        60
+        57
       ],
       "hook": "Japan: read the air. The US: disagree and commit.",
       "title": "Read the air vs disagree and commit",

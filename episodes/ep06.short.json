@@ -16,10 +16,20 @@
       }
     },
     {
+      "kind": "highlight",
+      "lines": [
+        27,
+        28
+      ],
+      "hook": "People say half their one-on-ones fall short",
+      "title": "Why half of all one-on-ones fall short",
+      "tag": "DID YOU KNOW?"
+    },
+    {
       "kind": "story",
       "lines": [
         43,
-        51
+        47
       ],
       "hook": "\"Everything's on track,\" she said every week. Then she quit.",
       "title": "My best engineer quit after a year of perfect 1:1s",
@@ -34,7 +44,7 @@
       "kind": "culture",
       "lines": [
         52,
-        55
+        54
       ],
       "hook": "In Japan, the 1:1 is the boss's meeting. In the US, it's yours.",
       "title": "Who owns the 1:1? Japan vs the US",

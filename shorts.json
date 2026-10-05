@@ -17,6 +17,11 @@
     "publish_at": "2026-10-04T10:55:17Z",
     "commented": true
   },
+  "2-highlight": {
+    "video_id": "qVYiI1fz4QI",
+    "uploaded_at": "2026-10-05T13:16:11+00:00",
+    "publish_at": "2026-10-05T13:16:11Z"
+  },
   "2-story": {
     "video_id": "OZoq4IaDgOg",
     "uploaded_at": "2026-10-04T10:55:18+00:00",
@@ -26,6 +31,7 @@
   "3-ai": {
     "video_id": "TkuQdTIH-zs",
     "uploaded_at": "2026-10-05T13:13:59+00:00",
-    "publish_at": "2026-10-05T13:13:59Z"
+    "publish_at": "2026-10-05T13:13:59Z",
+    "commented": true
   }
 }

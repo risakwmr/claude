@@ -9,7 +9,7 @@ on:
       action:
         description: "make = build only; upload = build and upload; reschedule = give uploaded private episodes publish times (in the order listed); publish = make uploaded episodes public now; captions = add Japanese captions to uploaded episodes; organize = update titles and descriptions and add to the playlist in order; thumbnail = replace thumbnails of uploaded episodes; short_make = build the vertical Shorts only; short = build and upload Shorts (episode: number(s), or next; see short_kind); stats = views and likes of every Short, by kind; report = channel numbers for the weekly report (saved to reports/); trailer = make the Start here trailer (download it from Artifacts or the trailer-preview branch); trailer_upload = upload the finished trailer in episodes/trailer/final as private"
         type: choice
-        options: [make, upload, reschedule, publish, captions, organize, thumbnail, short_make, short, stats, report, trailer, trailer_upload, channel]
+        options: [make, upload, reschedule, publish, captions, organize, thumbnail, short_make, short, stats, report, trailer, trailer_upload, trailer_meta, channel]
         default: make
       short_kind:
         description: "For short / short_make: which Short (ai = Why can't AI do this?, highlight = the most striking moment, story = Daniel's story, culture = Japan vs the US, lab = Speaking Lab), or all"
@@ -194,6 +194,10 @@ jobs:
       - name: Upload the finished Start here trailer (private)
         if: inputs.action == 'trailer_upload'
         run: python src/upload_trailer.py | tee -a "$GITHUB_STEP_SUMMARY"
+
+      - name: Fill in trailer title and description (en, ja)
+        if: inputs.action == 'trailer_meta'
+        run: python src/trailer_meta.py | tee -a "$GITHUB_STEP_SUMMARY"
 
       - name: Save the trailer for download
         if: "!cancelled() && inputs.action == 'trailer'"

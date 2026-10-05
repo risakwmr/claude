@@ -33,6 +33,10 @@ The show should feel like a story people want to follow, not a lecture. Same for
 
 ## Open threads
 - (add threads here as they start, with the episode number, and mark them resolved with the episode that pays them off)
+- Ryo's overwork (ep13–16): he is also building the Osaka team's data-check script before hours; Sena took over region three validation; he says he'll tell Kato-san "next week" (ep16). Open.
+- Kenta finding his voice (ep15–17): spoke up about the region one filter (ep15); found his own March time-zone double count and sent Kato-san his own three-sentence report (ep17). Open.
+- Sena's region two double count (ep16): reported in three sentences; Laura asked "What did we decide about the check?" and invited Sena to explain the fix for five minutes on the Thursday 8 a.m. call with Mark, Kato-san and Hannah's team (ep17 → ep18). Open.
+- Sena's stress notebook (ep17): marks body signals in the margin ("jaw, tight, ten a.m."); look for patterns later. Open.
 
 ## Characters (fixed settings; use details lightly and keep them consistent)
 Character map image: `episodes/character_map.png`.
@@ -44,7 +48,7 @@ Character map image: `episodes/character_map.png`.
 - Mark: product manager, Seattle. Requests Sena's reports; urgent asks arrive in Sena's evening because of the time difference. Hobby: home coffee roasting, watching soccer on weekends. Quirk: replies on Slack instantly, lots of emoji.
 - Laura: director, Seattle, over several teams including Sena's; Kato-san's boss. Will matter later for Sena's career (sponsor arc). Hobby: gardening, classical music (played cello when young). Quirk: always ends meetings with "What did we decide?"
 - Hannah: data platform team lead, Seattle. Sena asks her team for data changes. Hobby: rock climbing. Quirk: always busy, but can't resist a well-made request.
-- Daniel's past (stories already told; don't reuse the names for new people): Priya (ep6), Yuki (ep7), Elena (ep9), Tom (ep10), Mei (ep11), Owen (ep12), Rafael (ep13), Grace (ep14), Theo (ep15).
+- Daniel's past (stories already told; don't reuse the names for new people): Priya (ep6), Yuki (ep7), Elena (ep9), Tom (ep10), Mei (ep11), Owen (ep12), Rafael (ep13), Grace (ep14), Theo (ep15), Ingrid (ep16, his director who asked "What else changed quietly?"), Jonah (ep17, engineer he snapped at over a typo).
 
 ## Season 1 — Foundations (1–15)
 1 Meet Sena and Daniel: What AI Can't Do for You | All four | (published)

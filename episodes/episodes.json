@@ -988,6 +988,116 @@
         "Six weeks of jokes instead of one honest sentence",
         "Sasshi, honne and tatemae, the feedback sandwich, and a look back at Season 1"
       ]
+    },
+    {
+      "number": 16,
+      "script": "ep16.txt",
+      "title": "When You Make a Mistake",
+      "short_title": "When You Make a Mistake",
+      "summary": "At eleven at night, Sena finds that the region two numbers she sent Mark counted one day twice, just before they go into Laura's deck, and two voices fight in her head: fix it quietly, or call herself careless. Daniel shares Kenneth Savitsky, Nicholas Epley, and Thomas Gilovich's studies showing that people expect to be judged much more harshly for their mistakes than they really are, and Nina Keith and Michael Frese's meta-analysis showing that learning from errors helps most on new problems. He tells the story of the \"version two\" he sent without saying what changed, and they compare shimatsusho and hou-ren-sou in Japan with \"own it, fix it, move on\" in the US. Today's challenge: report one mistake in three sentences: the fact, the impact, and the next step.",
+      "practice": "Today, report one mistake, big or small, in three sentences: the fact, the impact, and the next step.",
+      "sources": [
+        "Savitsky, Epley & Gilovich (2001), Do Others Judge Us as Harshly as We Think? Overestimating the Impact of Our Failures, Shortcomings, and Mishaps, Journal of Personality and Social Psychology",
+        "Keith & Frese (2008), Effectiveness of Error Management Training: A Meta-Analysis, Journal of Applied Psychology"
+      ],
+      "tags": [
+        "EQ",
+        "emotional intelligence",
+        "mistakes at work",
+        "reporting errors",
+        "accountability",
+        "self-management",
+        "Japan US work culture",
+        "career",
+        "leadership",
+        "program manager",
+        "audiobook",
+        "English learning",
+        "English speaking"
+      ],
+      "yt_title": "How to Report a Mistake at Work (Without Panicking)",
+      "hook": "You find an error in numbers you already sent, and a voice says: just fix it quietly.\nLearn three sentences that report any mistake clearly and keep people's trust.",
+      "points": [
+        "Why we expect much harsher judgment than we get (Savitsky, Epley & Gilovich)",
+        "Errors as information: a meta-analysis of error management training",
+        "The \"version two\" that cost Daniel six months of trust",
+        "Shimatsusho and hou-ren-sou vs \"own it, fix it, move on\""
+      ],
+      "title_ja": "ミスをしたとき、最初の1時間",
+      "hook_ja": "送ったあとの数字にミスを発見。「こっそり直せばバレないかも」…そんな声が聞こえたこと、ありませんか？\n事実・影響・次の一手、3つの文で信頼を失わずにミスを報告する方法を英語で学ぼう🎧（日本語字幕あり）",
+      "points_ja": [
+        "人は、他人が思うよりずっと厳しく自分を評価している",
+        "ミスが一番役に立つのは「次の問題が違うとき」",
+        "こっそり直した「バージョン2」で半年の信頼を失った話",
+        "始末書・ホウレンソウと「Own it, fix it, move on」"
+      ],
+      "summary_ja": "夜11時、マークさんに送ったリージョン2の数字で1日分が二重に数えられていたことに気づいたセナ。「こっそり直せばいい」という声と「なんて不注意なの」という声がぶつかります。ミスをした人は実際よりずっと厳しく評価されると思い込むという研究と、ミスから学ぶ研修は新しい課題で特に効くというメタ分析を紹介。何が変わったかを言わずに「バージョン2」を送ったダニエルの失敗談、日本の始末書やホウレンソウとアメリカの「Own it, fix it, move on」の比較も。",
+      "practice_ja": "大きくても小さくても、ミスを1つ、今日のうちに「事実・影響・次の一手」の3つの文で報告する。",
+      "thumb_accent": "Three",
+      "thumb_sub": "Report It in Three Sentences",
+      "thumb_notes": [
+        "The fact",
+        "The impact",
+        "The next step",
+        "No quiet fixes"
+      ],
+      "thumb_cup": "Fact, impact, next step",
+      "thumb_pose": "sena_phone"
+    },
+    {
+      "number": 17,
+      "script": "ep17.txt",
+      "title": "Stress Is a Signal",
+      "short_title": "Stress Is a Signal",
+      "summary": "The day before a call with Laura, Sena notices her jaw is clenched in the office elevator, but tells Ryo, \"I'm fine, just a little busy.\" Daniel shares Alia Crum, Peter Salovey, and Shawn Achor's study, where employees who watched short videos about stress being enhancing reported fewer symptoms and better performance, and Bosshard and Gomez's 2024 meta-analysis showing that such interventions help only a little. He tells the story of the jaw his wife noticed before he did, and the sharp words over a typo, and they compare gaman and daijoubu in Japan with \"I'm slammed\" in the US. Today's challenge: the moment you feel stress today, write down one body signal.",
+      "practice": "Today, the moment you feel stress, write down one body signal: where it is, what it feels like, and what time it is.",
+      "sources": [
+        "Crum, Salovey & Achor (2013), Rethinking Stress: The Role of Mindsets in Determining the Stress Response, Journal of Personality and Social Psychology",
+        "Bosshard & Gomez (2024), Effectiveness of stress arousal reappraisal and stress-is-enhancing mindset interventions on task performance outcomes: a meta-analysis of randomized controlled trials, Scientific Reports"
+      ],
+      "tags": [
+        "EQ",
+        "emotional intelligence",
+        "stress at work",
+        "stress mindset",
+        "self-awareness",
+        "body signals",
+        "Japan US work culture",
+        "career",
+        "leadership",
+        "program manager",
+        "audiobook",
+        "English learning",
+        "English speaking"
+      ],
+      "yt_title": "Stress at Work Is a Signal: How to Read It",
+      "hook": "Your jaw is tight, you haven't breathed out, and you still say \"I'm fine, just busy.\"\nLearn to catch one body signal and turn it into a plan, with honest research on stress.",
+      "points": [
+        "Stress mindsets: a study of 388 employees during layoffs (Crum, Salovey & Achor)",
+        "A 2024 meta-analysis of 35 trials: helpful, but small",
+        "The clenched jaw Daniel's wife noticed first",
+        "Gaman and \"daijoubu\" vs \"I'm slammed\""
+      ],
+      "title_ja": "ストレスは体からのサイン",
+      "hook_ja": "あごに力が入って、息も止まっている。それでも「大丈夫、ちょっと忙しいだけ」って言っていませんか？\nストレスのサインを1つつかまえて、次の行動に変える方法を英語で学ぼう🎧（日本語字幕あり）",
+      "points_ja": [
+        "人員削減中の388人、9分の動画で変わったこと",
+        "35の実験をまとめたら「効果は小さい」という正直な結果",
+        "ダニエルより先に妻が気づいた「食いしばり」",
+        "我慢と「大丈夫」、アメリカの「I'm slammed」"
+      ],
+      "summary_ja": "ローラさんとの通話の前日、エレベーターであごを食いしばっていることに気づいたセナ。それでもリョウさんには「大丈夫、忙しいだけ」と答えます。ストレスは役に立つこともあると伝える短い動画を見た社員が症状の減少を報告した研究と、こうした介入の効果は小さいという2024年のメタ分析を紹介。妻に食いしばりを指摘され、打ち間違いでチームに強く当たってしまったダニエルの失敗談、日本の我慢とアメリカの「I'm slammed」の比較も。",
+      "practice_ja": "今日ストレスを感じたその瞬間に、体のサインを1つ書き留める（どこに、どんな感じで、何時か）。",
+      "thumb_accent": "Signal",
+      "thumb_sub": "Read the Signal in Your Body",
+      "thumb_notes": [
+        "Notice it",
+        "Name it",
+        "What is it about?",
+        "Not \"I'm fine\""
+      ],
+      "thumb_cup": "Write one body signal",
+      "thumb_pose": "sena_breathe"
     }
   ]
 }

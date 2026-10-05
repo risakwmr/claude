@@ -1,0 +1,107 @@
+SENA: It's eleven at night. I'm standing in my kitchen, still in my coat, with my laptop open on the counter. I only wanted to check one thing for region three.
+DANIEL: And then?
+SENA: And then I see it. In the region two numbers I sent Mark yesterday, one day is counted twice. September thirtieth appears two times, because of the time zone change in the query. Weekly active customers are about six percent too high.
+DANIEL: Did Mark already see the numbers?
+SENA: Yes. His message is still on my screen. "Thanks Sena!! Putting this in Laura's deck." With two raised hands. And Laura's review is tomorrow morning, Seattle time.
+DANIEL: So what's the voice in your head saying?
+SENA: Two voices. One says, "Just fix the file quietly. Maybe he hasn't opened it." The other one says, "How could you be so careless?" And my hand is on the trackpad, and I don't move.
+DANIEL: That's the moment we're talking about today. By the end of this episode, you'll have three sentences for reporting a mistake: the fact, the impact, and the next step.
+SENA: I need them before Seattle wakes up.
+DANIEL: Welcome back to Human Curriculum. I'm Daniel Reed, a People Manager in Seattle.
+SENA: And I'm Sena Sato, an Associate in Tokyo. This is the first episode of our second season, "Emotions at Work."
+DANIEL: It is. And we'll get to the kitchen and the six percent. But first, last time. Your challenge was to write one sentence about the work, then ask Ryo, "How are you, really?" before you said it.
+SENA: I did. After lunch, I asked Ryo to walk to the convenience store with me. It was the first really cool day of October.
+DANIEL: And you asked.
+SENA: At the crosswalk, while we waited for the light. I said, "Ryo, how are you, really?" And he laughed a little and said, "Fine, fine." So I didn't say anything. I just waited. The light turned green, and we didn't cross.
+DANIEL: You let the silence work.
+SENA: I think I did. Then he said, "Honestly? I'm not sleeping well. Kato-san asked me to build the data-check script for the Osaka team too. I didn't want to say no. So I do it early in the morning, before our work starts."
+DANIEL: So that's why he was in at seven.
+SENA: That's why. My one sentence was in my pocket, and I put it on hold, like you said. I just listened. In the store, he forgot to pay for his second onigiri.
+DANIEL: Oh, Ryo.
+SENA: On the way back, he asked me, "Was there something you wanted to say?" So I said my sentence. "When the region three data comes late, I can't finish my part on time, and I want to figure out a plan together." And he said, "Thank you for saying it like that."
+DANIEL: What was the plan?
+SENA: I took over the validation part of region three. And he said he would talk to Kato-san about the Osaka script. But he said, "Next week. Kato-san is too busy this week."
+DANIEL: Hmm. Next week.
+SENA: I know. I'm watching it. Oh, and my worry about the praise? He said, "Your message was nice. It wasn't about the message." So I can stop worrying about that one.
+DANIEL: You did the hardest part. You waited. Now, the kitchen. What happened next?
+SENA: I wrote an apology to Mark. Twelve lines. "I am so sorry, I deeply apologize, this is entirely my fault..." He would need two minutes just to find the number.
+DANIEL: Did you send it?
+SENA: No. I went to bed. I didn't sleep. I checked my phone at two, and at four. And on the train this morning, the first voice came back. The file is in a shared folder. I could replace it, and maybe nobody would know.
+DANIEL: And here you are, talking to me instead.
+SENA: Here I am. Mark presents to Laura tomorrow at nine, Seattle time. So I have some time. Just not much.
+DANIEL: Then let's use it well. Those two voices are both lying to you a little. I have two studies.
+SENA: My notebook is open. Even this morning.
+DANIEL: The first is by Kenneth Savitsky, Nicholas Epley, and Thomas Gilovich. It was published in 2001 in the Journal of Personality and Social Psychology. The title is a question: "Do others judge us as harshly as we think?"
+SENA: I think I know the answer.
+DANIEL: You probably do. They ran four studies with embarrassing moments. A social mistake, like arriving at a party without a gift. Doing badly on a test while someone watched. Or unflattering information about you being shared. Then they compared two things. How harshly people thought they would be judged, and how harshly the observers actually judged them.
+SENA: And people expected the worst.
+DANIEL: Again and again, people expected to be judged much more harshly than they really were. And the researchers found one reason why. When you make the mistake, you're focused on the mistake itself, and on how bad you look. The people watching think about the situation too. "The test was hard." "Anyone could forget that."
+SENA: So the voice that says, "How could you be so careless?" is louder inside than outside.
+DANIEL: Much louder. Now, the honest limits. These were lab situations with students, not a number in a director's deck. Some mistakes at work really are serious. But the pattern is useful. The fear of how you'll look is usually bigger than the real reaction. And that fear is what pushes people toward the quiet fix.
+SENA: Okay. And the second study?
+DANIEL: The second one is about what mistakes are good for. It's a meta-analysis by Nina Keith and Michael Frese, published in 2008 in the Journal of Applied Psychology. They combined twenty-four studies with more than two thousand people. All of them looked at something called error management training.
+SENA: Error management training. What is that?
+DANIEL: In most training, you're told to avoid mistakes. Follow the steps. In error management training, people explore on their own, and they're told openly that errors are part of learning.
+SENA: And it worked better?
+DANIEL: Overall, yes, with a moderate effect. But the interesting part is where. On tasks very similar to the training, the advantage was small. On new tasks, where people had to adapt what they learned, the advantage was large.
+SENA: So mistakes help most when the next problem is different.
+DANIEL: That's how I read it. A caveat here too. This was training, mostly with software and computer tasks, not real mistakes with real customers. But the idea carries over. A mistake is information. If you hide it, you lose the information, and so does your team.
+SENA: Oh. Kenta might need to know about the time zone problem. He reviews the region numbers too.
+DANIEL: See? The information is already working. Now, our usual question. Why can't AI do this?
+SENA: Well, AI could probably find the double-counted day. Maybe faster than me. And it could write a shorter apology than my twelve lines.
+DANIEL: It could. But think about what Mark needs tomorrow. He needs to trust the next number you send him. That trust doesn't come from a perfect message. It comes from a person who says, "This was mine, here's what it affects, and here's what I'm doing." AI can't be responsible for your work. It can't decide to tell the truth when hiding would be easier. Only you can do that.
+SENA: Accountability is a human thing.
+DANIEL: It is. Do you want to hear a story about the quiet fix?
+SENA: You did a quiet fix?
+DANIEL: I did. In my second year as a manager, I sent my director a hiring plan for the next year. Her name was Ingrid. The plan had a formula error, and one role was counted twice. I found it two days later.
+SENA: Like my September thirtieth.
+DANIEL: Very much like it. And I was embarrassed. So I sent her a new file and wrote, "Version two, with some minor updates." I didn't say what changed.
+SENA: And she noticed.
+DANIEL: She compared the two files. Ingrid always compared the files. She came to my desk and asked, very calmly, "What else changed quietly?" I said, "Nothing, I promise." She said, "Okay." But for six months, she checked every number I sent her.
+SENA: Oh, that's painful.
+DANIEL: The mistake itself took ten minutes to fix. The quiet fix took six months to fix. If I had written three sentences, "I counted one role twice, it changes the total from twelve to eleven, here's the corrected plan," I think she would have said thank you and forgotten it by lunch.
+SENA: The mistake was small. Hiding it made it big.
+DANIEL: That's the whole lesson. I still hear her question every time I send a version two.
+SENA: Can I talk about Japan? Because we have a different problem. Not hiding. Apologizing too much.
+DANIEL: Please.
+SENA: In Japan, a serious mistake at work sometimes means writing a shimatsusho. It's a formal written apology and explanation. Even normal emails start with "moushiwake gozaimasen," a very deep apology. My twelve lines were like that. The apology is so long that the fact is hidden in the middle.
+DANIEL: Interesting. So the information gets lost in the apology.
+SENA: Yes. But Japan also has something very useful. Every new employee learns hou-ren-sou. It means report, contact, consult. And the rule is, bad news should be reported early. Faster than good news.
+DANIEL: I love that. In the US, people often say, "Own it, fix it, move on." The risk is the opposite. It can sound too casual. "My bad, fixed it." And the other person thinks, "Wait, do you understand what this affected?"
+SENA: So Japan sometimes apologizes too much, and the US sometimes apologizes too little.
+DANIEL: That's simple, and people are different. But both cultures agree on one thing. Report it early, and make the facts easy to find. A short "I'm sorry" is fine. Just put the facts first.
+SENA: Which EQ skill is this?
+DANIEL: Self-management. It's what you do in the first hour after you notice a mistake. Your heart is fast, the two voices are loud, and you have to choose your next action anyway. I use three steps. First, pause for one breath before you do anything. Second, facts before feelings. Write down exactly what's wrong and what it affects. Third, report it the same day, in three sentences.
+SENA: The fact, the impact, and the next step.
+DANIEL: Let's write yours. Sentence one, the fact.
+SENA: "I found an error in the region two numbers I sent yesterday: one day was counted twice, so weekly active customers are about six percent too high."
+DANIEL: Good. Clear, and it gives the size. Sentence two, the impact.
+SENA: "It affects the chart on slide four of your deck for Laura, and nothing else."
+DANIEL: "And nothing else" is very kind to Mark. It tells him where to stop worrying. Sentence three, the next step.
+SENA: "The corrected file is attached, and I've added a date check to the query so it can't happen again."
+DANIEL: That's it. And if you want, one short line at the end. "Sorry for the extra work." One line, not twelve.
+SENA: One line. I can do one line.
+DANIEL: Now, Speaking Lab. Three sentences for reporting a mistake. I'll say each one, and you repeat. Listeners, pause and say it out loud with Sena.
+SENA: Ready.
+DANIEL: "I found an error in the numbers I sent yesterday."
+SENA: I found an error in the numbers I sent yesterday.
+DANIEL: "It affects the chart on slide four, and nothing else."
+SENA: It affects the chart on slide four, and nothing else.
+DANIEL: "The corrected file is attached, and I've added a check."
+SENA: The corrected file is attached, and I've added a check.
+DANIEL: Very natural. Now, a retell. In about thirty seconds, tell me today's main points in your own words.
+SENA: Okay. Savitsky, Epley, and Gilovich found that after a mistake, we expect people to judge us much more harshly than they really do. Keith and Frese found that learning from errors helps most with new problems. So a mistake is information, and hiding it, um, hiding it wastes the information and the trust. When I find a mistake, I pause, I write the facts, and I report it the same day in three sentences.
+DANIEL: That was clear, and you corrected yourself smoothly. Listeners, your turn. In forty seconds, answer this. When a coworker tells you about a mistake, what do you want to hear first, and why? Pause the audio and speak.
+SENA: I want to hear the impact first. I'd want to know how worried to be.
+DANIEL: That's a good answer. Today's challenge: report one mistake today, big or small, in three sentences: the fact, the impact, and the next step. If you don't have a mistake today, use a small one from this week that nobody knows about yet.
+SENA: I'll send my three sentences to Mark right after this call, before I open anything else. And then I'll tell Kenta about the time zone problem.
+DANIEL: Perfect. And Sena, you found this mistake yourself, at eleven at night, while checking something else. That's not a careless person. That's a careful person who made one mistake.
+SENA: No, no... Okay. Thank you.
+DANIEL: Good. Next time, episode seventeen, "Stress Is a Signal." Your body often knows you're stressed before your mind admits it. We'll learn to catch one signal and read what it's telling you.
+SENA: That sounds useful. Because while we were talking, a message came in from Kato-san.
+DANIEL: What does it say?
+SENA: "Laura wants to hear about the fix directly. Thursday call, eight a.m. Can you join?"
+DANIEL: Ah. And what is your body doing right now?
+SENA: My shoulders are up by my ears.
+DANIEL: Then we'll start there. Thanks for listening to Human Curriculum. I'm Daniel.
+SENA: And I'm Sena. The fact, the impact, and the next step. See you next time.

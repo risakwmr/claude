@@ -1,0 +1,40 @@
+{
+  "shorts": [
+    {
+      "kind": "highlight",
+      "lines": [
+        40,
+        42
+      ],
+      "hook": "Seeing stress as useful helped workers. But there's a catch.",
+      "title": "Can seeing stress as useful help? What one study found"
+    },
+    {
+      "kind": "ai",
+      "lines": [
+        53,
+        55
+      ],
+      "hook": "AI can read your calendar. It can't read what your week means.",
+      "title": "AI can read your calendar, not your stress"
+    },
+    {
+      "kind": "story",
+      "lines": [
+        58,
+        64
+      ],
+      "hook": "\"You've been clenching your jaw for a month. Did you know?\"",
+      "title": "I ignored my stress signals. My team paid for it."
+    },
+    {
+      "kind": "culture",
+      "lines": [
+        67,
+        70
+      ],
+      "hook": "Japan hides stress. The US turns it into small talk.",
+      "title": "Stress at work: Japan vs the US"
+    }
+  ]
+}

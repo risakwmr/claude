@@ -1,0 +1,8 @@
+{
+  "shorts": [
+    {"kind": "highlight", "lines": [38, 39], "hook": "After a mistake, people judge you far less harshly than you fear.", "title": "People judge your mistakes less harshly than you think"},
+    {"kind": "ai", "lines": [51, 53], "hook": "AI can find the error. It can't own it.", "title": "AI can find your mistake. Only you can own it."},
+    {"kind": "story", "lines": [56, 63], "hook": "The mistake took 10 minutes to fix. Hiding it took 6 months.", "title": "I quietly fixed a mistake. It cost me 6 months of trust."},
+    {"kind": "culture", "lines": [67, 72], "hook": "Japan apologizes too much. The US sometimes too little.", "title": "Reporting mistakes: Japan vs the US"}
+  ]
+}

@@ -32,6 +32,9 @@ raw = subprocess.run(["ffmpeg", "-v", "error", "-i", VIDEO, "-vn", "-ac", "1", "
                      check=True, capture_output=True).stdout
 audio = np.frombuffer(raw, dtype=np.int16).astype(np.float32) / 32768.0
 segs, _ = model.transcribe(audio, language="en", word_timestamps=True, vad_filter=False)
+segs = list(segs)
+for sg in segs:
+    print(f"[{sg.start:6.1f}-{sg.end:6.1f}] {sg.text.strip()}", flush=True)
 heard = [(re.sub(r"[^a-z0-9']", "", w.word.lower()), w.start, w.end) for s in segs for w in s.words]
 heard = [h for h in heard if h[0]]
 duration = heard[-1][2]
@@ -53,6 +56,9 @@ for a, b, n in sm.get_matching_blocks():
         start[li] = s if start[li] is None else min(start[li], s)
         end[li] = e if end[li] is None else max(end[li], e)
 print(f"matched lines: {sum(s is not None for s in start)}/{len(en)}; words {sm.ratio():.2f}", flush=True)
+
+if sum(x is not None for x in start) < len(en) * 0.8:
+    sys.exit("script does not match the audio; not uploading captions")
 
 # fill lines that matched nothing by squeezing them between their neighbours
 for i in range(len(en)):

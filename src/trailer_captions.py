@@ -21,6 +21,13 @@ def lines(path):
     return out
 
 
+if os.path.exists(os.path.join(TD, "final", "captions.ready")):
+    yt = up.youtube()
+    up.add_japanese_captions(yt, vid, os.path.join(TD, "final", "trailer.ja.srt"))
+    up.add_captions(yt, vid, os.path.join(TD, "final", "trailer.en.srt"), "en", "English")
+    print(f"captions uploaded from ready-made files: https://youtu.be/{vid}", flush=True)
+    sys.exit(0)
+
 en, ja = lines(os.path.join(TD, "trailer.txt")), lines(os.path.join(TD, "trailer.ja.txt"))
 assert len(en) == len(ja), (len(en), len(ja))
 

@@ -1,0 +1,66 @@
+name: Upload a custom Short
+
+# For hand-made Shorts kept in custom-shorts/ (NAME.mp4 + NAME.json with title, description, tags).
+# Run it from your phone: Actions -> Upload a custom Short -> Run workflow.
+
+on:
+  workflow_dispatch:
+    inputs:
+      name:
+        description: "File name in custom-shorts/ without the extension"
+        default: can-ai-replace-me
+      visibility:
+        description: "schedule = goes public by itself at the next slot, public = right now, private"
+        type: choice
+        options: [schedule, public, private]
+        default: schedule
+      slot_hour_jst:
+        description: "Slot for schedule (Japan time): 8 = US evening, 18 = Asia afternoon / US morning (east), 22 = US morning / Europe afternoon"
+        type: choice
+        options: ["8", "18", "22"]
+        default: "8"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: custom-short
+  cancel-in-progress: false
+
+jobs:
+  upload:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install tools
+        run: pip install -q google-api-python-client google-auth
+
+      - name: Upload to YouTube
+        env:
+          CLIENT_ID: ${{ secrets.CLIENT_ID }}
+          CLIENT_SECRET: ${{ secrets.CLIENT_SECRET }}
+          REFRESH_TOKEN: ${{ secrets.REFRESH_TOKEN }}
+          NAME: ${{ inputs.name }}
+          VISIBILITY: ${{ inputs.visibility }}
+          SLOT: ${{ inputs.slot_hour_jst }}
+        run: python custom-shorts/upload.py "$NAME" "$VISIBILITY" "$SLOT" | tee -a "$GITHUB_STEP_SUMMARY"
+
+      - name: Save uploaded.json
+        if: always()
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          [ -f custom-shorts/uploaded.json ] && git add custom-shorts/uploaded.json
+          git diff --cached --quiet && exit 0
+          git commit -m "Record uploaded custom Short"
+          for i in 1 2 3; do
+            git pull --rebase origin "${GITHUB_REF_NAME}" && git push origin "HEAD:${GITHUB_REF_NAME}" && exit 0
+            sleep 5
+          done
+          echo "::error::Could not save uploaded.json"

@@ -1104,6 +1104,117 @@
       "thumb_cup": "Write one body signal",
       "thumb_pose": "sena_breathe",
       "thumb_comp": "I"
+    },
+    {
+      "number": 18,
+      "script": "ep18.txt",
+      "title": "Nerves Before You Speak",
+      "short_title": "Nerves Before You Speak",
+      "summary": "The night before she explains her fix to a director in English, Sena practices alone in a small meeting room, and every \"calm down\" makes her heart beat faster. Daniel shares Alison Wood Brooks's experiments, where saying \"I am excited\" helped people sing, speak, and solve math better than trying to stay calm, and Ethan Kross's research on coaching yourself by name, with honest limits. He tells the story of the review his VP called \"a weather report,\" and they compare \"kinchou shite imasu ga\" in Japan with \"I'm excited to be here\" in the US. Today's challenge: before you speak today, say \"I'm excited\" instead of \"calm down,\" then say your first sentence.",
+      "practice": "Before you speak today, in a meeting, on a call, or with a quick question, don't tell yourself to calm down. Say \"I'm excited,\" out loud or quietly, and then say your first sentence.",
+      "sources": [
+        "Brooks (2014), Get Excited: Reappraising Pre-Performance Anxiety as Excitement, Journal of Experimental Psychology: General",
+        "Kross, Bruehlman-Senecal, Park, Burson, Dougherty, Shablack, Bremner, Moser & Ayduk (2014), Self-Talk as a Regulatory Mechanism: How You Do It Matters, Journal of Personality and Social Psychology",
+        "Bosshard & Gomez (2024), Effectiveness of stress arousal reappraisal and stress-is-enhancing mindset interventions on task performance outcomes: a meta-analysis of randomized controlled trials, Scientific Reports"
+      ],
+      "tags": [
+        "EQ",
+        "emotional intelligence",
+        "presentation nerves",
+        "public speaking anxiety",
+        "self-talk",
+        "self-management",
+        "Japan US work culture",
+        "career",
+        "leadership",
+        "program manager",
+        "audiobook",
+        "English learning",
+        "English speaking"
+      ],
+      "yt_title": "Nervous Before a Presentation? Don't Say \"Calm Down\"",
+      "hook": "Five minutes before you speak, your heart is racing, and \"calm down\" only makes it faster.\nLearn one sentence for the last five minutes before a meeting, backed by honest research on nerves.",
+      "points": [
+        "\"I am excited\" vs \"I am calm\": Brooks's karaoke, speech, and math experiments",
+        "Coaching yourself by name: 7 studies by Kross and colleagues",
+        "The review Daniel's VP called \"a weather report\"",
+        "\"Kinchou shite imasu ga\" vs \"I'm excited to be here\""
+      ],
+      "title_ja": "話す前の緊張には「落ち着いて」より「ワクワクしてる」",
+      "hook_ja": "明日は英語で5分の説明。「落ち着いて」と自分に言うほど、心臓が速くなる…そんな経験ありませんか？\n話す直前の5分間に効く「ひとこと」を、研究とセナの本番前夜から英語で学ぼう🎧（日本語字幕あり）",
+      "points_ja": [
+        "カラオケの正確さが約81%に上がった「ひとこと」",
+        "自分を名前で呼ぶと、スピーチの評価が上がった",
+        "VPに「天気予報みたい」と言われたダニエルの発表",
+        "日本の「緊張していますが」とアメリカの「I'm excited」"
+      ],
+      "summary_ja": "英語でディレクターに説明する前夜、小さな会議室で一人練習するセナ。「落ち着いて」と言うほど心臓は速くなります。「ワクワクしている」と言うと、歌・スピーチ・数学の成績が上がったブルックスの実験と、自分を名前で励ますクロスらの研究を、限界も含めて紹介。VPに「天気予報みたい」と言われたダニエルの失敗談、日本の「緊張していますが」とアメリカの「I'm excited to be here」の比較も。",
+      "practice_ja": "今日話す前に「落ち着いて」ではなく「ワクワクしている」と（声に出しても心の中でも）言い、それから最初の一文を話す。",
+      "thumb_accent": "Excited",
+      "thumb_sub": "Say \"I'm Excited,\" Not \"Calm Down\"",
+      "thumb_notes": [
+        "Same heart",
+        "New label",
+        "Sena, you can do this",
+        "First line ready"
+      ],
+      "thumb_cup": "Say I'm excited",
+      "thumb_pose": "sena_cheer"
+    },
+    {
+      "number": 19,
+      "script": "ep19.txt",
+      "title": "Anger Without Damage",
+      "short_title": "Anger Without Damage",
+      "summary": "Right after a call that went well, a colleague from another team publicly calls Sena's work \"duplicate,\" and her finger hovers over the Enter key with an angry reply. Daniel shares Brad Bushman's study, where venting on a punching bag made angry people more aggressive than sitting quietly, and a 2024 meta-analysis of 154 studies showing that lowering arousal reduces anger. He tells the story of a reply-all email he sent at 11:04 p.m., and they compare quiet anger in Japan, like a cold \"kashikomarimashita,\" with \"let's take this offline\" in the US. Today's challenge: if a message makes you angry today, write a draft, wait twenty minutes, and read it again before you send it.",
+      "practice": "If a message makes you angry today, don't reply right away. Write your answer as a draft, step away for twenty minutes, and read it again before you send it.",
+      "sources": [
+        "Bushman (2002), Does Venting Anger Feed or Extinguish the Flame? Catharsis, Rumination, Distraction, Anger, and Aggressive Responding, Personality and Social Psychology Bulletin",
+        "Kjærvik & Bushman (2024), A meta-analytic review of anger management activities that increase or decrease arousal: What fuels or douses rage?, Clinical Psychology Review"
+      ],
+      "tags": [
+        "EQ",
+        "emotional intelligence",
+        "anger at work",
+        "angry email",
+        "venting",
+        "self-management",
+        "Japan US work culture",
+        "career",
+        "leadership",
+        "program manager",
+        "audiobook",
+        "English learning",
+        "English speaking"
+      ],
+      "yt_title": "Angry at Work? What to Do Before You Hit Send",
+      "hook": "A colleague criticizes your work in a public channel, and your angry reply is ready to send.\nLearn what to do in the twenty minutes after anger, so you can answer without damage.",
+      "points": [
+        "Does venting help? Bushman's punching bag study with 600 students",
+        "A 2024 meta-analysis of 154 studies: lowering arousal reduces anger",
+        "Daniel's reply-all email at 11:04 p.m., and six months of repair",
+        "Quiet anger in Japan vs \"let's take this offline\" in the US"
+      ],
+      "title_ja": "仕事の怒りに、ダメージを残さない方法",
+      "hook_ja": "みんなが見ているチャンネルで、自分の仕事を「重複作業」と言われた。怒りの返信、送信ボタンの上で指が止まっていませんか？\n怒ったあとの20分で何をするか、ダメージを残さない返し方を英語で学ぼう🎧（日本語字幕あり）",
+      "points_ja": [
+        "サンドバッグで発散すると、怒りは増えた？",
+        "154の研究が示す、怒りを下げる体の使い方",
+        "夜11時4分の返信メール、ダニエルの6か月の代償",
+        "冷たい「かしこまりました」とアメリカの「offline」"
+      ],
+      "summary_ja": "会議がうまくいった直後、他チームの人に公開チャンネルで仕事を「重複作業」と書かれたセナ。怒りの返信を送る寸前でダニエルに連絡します。サンドバッグで発散したグループのほうが攻撃的になったブッシュマンの研究と、体の高ぶりを下げると怒りが減るという154研究のメタ分析を紹介。夜11時4分に全員返信を送ったダニエルの失敗談、日本の静かな怒りとアメリカの「Let's take this offline」の比較も。",
+      "practice_ja": "今日メッセージにイラッとしたら、すぐに返信せず下書きに書き、20分離れてから読み返して送る。",
+      "thumb_accent": "Twenty",
+      "thumb_sub": "Wait Twenty Minutes Before You Reply",
+      "thumb_notes": [
+        "Name it",
+        "Lower the heat",
+        "Public: facts",
+        "Private: feelings"
+      ],
+      "thumb_cup": "Wait 20 minutes",
+      "thumb_pose": "sena_walk"
     }
   ]
 }

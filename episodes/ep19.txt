@@ -1,0 +1,95 @@
+SENA: It's Thursday, nine ten in the morning. The call ended ten minutes ago, and it went well. I'm back at my desk, and I'm smiling. Then my laptop makes that little sound.
+DANIEL: The team channel?
+SENA: Yes. Under my summary of the call, there's a reply from Wendell, on Hannah's team. "Still feels like duplicate work. Our standard table would've caught this." With a shrug emoji. Forty people are in that channel. Laura is in that channel.
+DANIEL: And what are you doing?
+SENA: I'm typing. Very fast. "As I already explained on the call, the standard table doesn't even include region two until January, which your own team told us in August." My face is hot. My finger is right above the Enter key.
+DANIEL: Did you press it?
+SENA: No. I opened our chat instead, and I wrote, "Daniel, do you have ten minutes?"
+DANIEL: I'm glad you did. By the end of this episode, you'll know what to do in the twenty minutes after something makes you angry, so you can answer without damage.
+SENA: The message is still in the box. Waiting.
+DANIEL: Let it wait. Welcome back to Human Curriculum. I'm Daniel Reed, a People Manager in Seattle.
+SENA: And I'm Sena Sato, an Associate in Tokyo. For you it's the end of Wednesday, and for me it's Thursday morning.
+DANIEL: Time zones. Before we talk about Wendell, I need to know about the call. Last time, your challenge was to say "I'm excited" before you speak, instead of "calm down." Did you?
+SENA: I did. In the elevator, at seven fifty, there was one other person, so I whispered it. "Sena, you're excited." Then I said my first sentence very quietly. The man next to me looked at me a little strangely.
+DANIEL: That's the price of science. And the call?
+SENA: My voice shook for maybe the first twenty seconds. But I said, "Thanks, everyone. I'll take five minutes to walk you through the new check." And then my three points came out. Not perfectly. But they came out.
+DANIEL: Did Laura ask something that wasn't in your script?
+SENA: Of course. She asked, "What happens if a region changes its time zone settings again?" And I didn't have that sentence memorized. But I knew the answer, so I just explained it in my own words. Simple English. It worked.
+DANIEL: Because you were present, not reading. And the famous question?
+SENA: At the end. "So, what did we decide?" And I said, "We decided the check runs on every region before Mark gets the numbers." Mark posted a party emoji in the chat. Hannah wrote, "Nice work." And Kato-san gave me a small nod. He never nods in meetings.
+DANIEL: Sena, that's a real win. Hold on to it for a second. Before we talk about the hard part.
+SENA: I'm trying. But Wendell's message is louder than the win right now.
+DANIEL: That's how anger works. Okay. Tell me what happened, and what you feel. Use your words from episode four, not just "upset."
+SENA: Okay. Wendell was on the call, camera off. He didn't say anything during the call. Nothing. Then ten minutes later, he wrote that, in public. And what he said isn't true. In August, Hannah's team told us region two won't be in the standard table until January. That's why we built our own check. I have the message.
+DANIEL: And the feeling?
+SENA: Anger. Clearly anger. And a little embarrassment, because Laura can read it. And it feels unfair. I worked very hard on this.
+DANIEL: Good naming. Anger usually shows up when something we care about feels threatened. Here it's your work, and your reputation in front of Laura. So the anger is not wrong. The question is what you do with it in the next twenty minutes.
+SENA: Honestly, part of me wants to send it. It would feel so good.
+DANIEL: It would. For a few minutes. Let me tell you about a famous study on that good feeling. Brad Bushman published it in 2002 in Personality and Social Psychology Bulletin. The title asks, "Does Venting Anger Feed or Extinguish the Flame?"
+SENA: Feed or extinguish. More fire or less fire.
+DANIEL: Exactly. Six hundred university students took part. First, each of them wrote a short essay. Then they got it back with very harsh comments, including, "This is one of the worst essays I have read!"
+SENA: Ouch. That's worse than a shrug emoji.
+DANIEL: Much worse. Then, in Bushman's study, the angry students were split into three groups. The first group hit a punching bag while looking at a photo of the person who criticized them. That's venting, or rumination. The second group hit the punching bag while thinking about getting fit. And the third group just sat quietly for two minutes.
+SENA: And the venting group felt better?
+DANIEL: No. The venting group felt the angriest. And afterward, in a game where they could blast the other person with loud noise, they were the most aggressive. The quiet group was the least aggressive. Doing nothing at all worked better than venting.
+SENA: Doing nothing. That's a little bit funny.
+DANIEL: It is. The caution: it's a lab study with students, and the aggression was measured with noise blasts in a game, not real workplace behavior. But newer research points the same way. In 2024, Sophie Kjærvik and Brad Bushman published a meta-analysis in Clinical Psychology Review. They combined one hundred fifty-four studies with more than ten thousand participants.
+SENA: And what did they find?
+DANIEL: Activities that lower your body's arousal, like slow breathing, mindfulness, slow yoga, relaxing your muscles, and taking a timeout, reduced anger. Activities that raise arousal didn't help much. Jogging, for example, actually seemed to increase anger in those studies.
+SENA: Wait. Last time you told me not to calm down. Today you're telling me to calm down.
+DANIEL: Ha. Good catch. You're right to push back. Before a speech, you need that energy for the task, so you give it a better label. After someone makes you angry, the energy wants to hit something, or someone. So the job is to let it fall before you type.
+SENA: Same fast heart, different job.
+DANIEL: Exactly. One more honest thing. The review also found that some playful activities, like ball games, seemed to help, and the authors say more research is needed. And I use twenty minutes. Not because a study proves that twenty is a magic number. It's just long enough to walk, breathe, and let the first wave pass.
+SENA: How long has it been since I read Wendell's message?
+DANIEL: You tell me.
+SENA: Twenty-five minutes. Oh. My face isn't hot anymore.
+DANIEL: See? Now, our usual question. Why can't AI do this?
+SENA: AI could rewrite my angry message politely in two seconds. Isn't that enough?
+DANIEL: It can fix the words. But polite words sent at the wrong moment, in the wrong place, can still do damage. AI doesn't know that you'll work with Hannah's team for the next year, that Laura is reading, or whether Wendell is worried about something you can't see. It can't decide whether to answer in public or in private. And it can't slow your heartbeat. Only you can choose the timing.
+SENA: The words are the easy part. The timing is mine.
+DANIEL: Can I tell you about the worst email I ever sent?
+SENA: Yes, please. I think I need it.
+DANIEL: Years ago, a partner team lead named Naomi moved a release date without telling my team. My engineers had already worked a weekend to make the old date. I found out at eleven at night. I wrote a long reply to everyone on the thread, about twenty-five people. The last line was, "As usual, our team finds out last." I sent it at eleven oh four.
+SENA: Eleven oh four. You remember the minute.
+DANIEL: I'll never forget it. And for about ten minutes, I felt great. Exactly what Bushman found. Then the next morning, Naomi replied. Only to me. "Daniel, I would have appreciated a call." It turned out her own VP had moved the date at nine p.m., and she was in the middle of writing to me when my email arrived.
+SENA: Oh no.
+DANIEL: My manager forwarded my email back to me with two words. "Let's talk." And for the next six months, every meeting between our teams had an extra person in it. Naomi's manager. Just to keep things on track.
+SENA: Six months, from four minutes of writing.
+DANIEL: That's the cost. After that, I made a rule. Anything I write while angry sits in drafts for twenty minutes, and I walk the stairs once. Naomi and I worked well together later, but it took a long time.
+SENA: Can I talk about Japan? I think anger at work looks very different here.
+DANIEL: Please.
+SENA: In Japan, people rarely show anger openly at work. But it leaks out in other ways. Silence in a meeting. Or suddenly very formal, very polite language. When someone replies "kashikomarimashita," which means "understood," in a cold way, everyone knows. And sometimes it's a long, careful email with the managers in cc.
+DANIEL: The cc. That's a quiet weapon. In the US, people are often more direct, but open anger at work is risky here too. You'll hear, "Let's take this offline," or, "Can we hop on a quick call?" A public callout in a channel can make the person who wrote it look bad, even if they were right.
+SENA: So in both countries, the public channel is the dangerous place.
+DANIEL: In my experience, yes, though every team is different. Facts can go in public. Feelings and disagreements usually go better in private.
+SENA: Which EQ skill is this?
+DANIEL: Self-management. Here are four steps. One, name it. Anger, and what it's protecting. Two, lower the heat. Step away for twenty minutes, breathe slowly, walk, and don't reread the message ten times. That's rumination. Three, choose the channel. Public for facts, private for feelings. And four, write for your goal, not for your feeling.
+SENA: My goal is that Laura and Wendell understand why the check exists. And that Hannah's team still wants to work with us.
+DANIEL: So what's the public reply?
+SENA: Let me try. "Good question, Wendell. In August, Hannah's team told us region two joins the standard table in January, so we built a temporary check until then. Happy to walk anyone through it, and we'll switch when the table is ready."
+DANIEL: That's calm, true, and it even offers a next step. And in private?
+SENA: A direct message to Wendell. "Hi Wendell, I'd like to understand your concern about the check. Do you have fifteen minutes this week?"
+DANIEL: Much better than the first draft. Now, Speaking Lab. Three sentences for when someone frustrates you at work. I'll say each one, and Sena repeats. Listeners, pause and say it out loud with her.
+SENA: Ready. Calmly ready.
+DANIEL: "I'd like to understand your concern before I respond."
+SENA: I'd like to understand your concern before I respond.
+DANIEL: "Here's some context that might be missing from this thread."
+SENA: Here's some context that might be missing from this thread.
+DANIEL: "Could we talk about this one-on-one later this week?"
+SENA: Could we talk about this one-on-one later this week?
+DANIEL: Very steady. Now, a retell. In about thirty seconds, tell me today's main points in your own words.
+SENA: Okay. Venting feels good, but Bushman found it made people angrier and more aggressive. Sitting quietly worked better. A 2024 meta-analysis found that, um, activities that lower the body's energy, like slow breathing or a timeout, reduce anger. So when I'm angry, I name it, I wait twenty minutes, I choose public or private, and I write for my goal, not my feeling.
+DANIEL: That's it exactly. Listeners, your turn. In forty seconds, answer this. When someone frustrates you at work, what do you usually do in the first five minutes, and what would you like to do instead? Pause the audio and speak.
+SENA: I usually type. Fast. I'd like to walk to the window instead.
+DANIEL: Then that's your plan. Today's challenge: if a message makes you angry today, don't reply right away. Write your answer as a draft, step away for twenty minutes, and then read it again before you send it.
+SENA: I'll write my first draft in my notebook, not in Slack. My notebook has no Enter key.
+DANIEL: That's genius. And one more thing. Kenta was sitting next to you this morning, wasn't he?
+SENA: He was. When the message came in, he looked at my screen and said, very quietly, "Don't reply yet. Want to get a coffee?" That's when I stopped typing.
+DANIEL: Kenta, finding his voice again. Thank him today. Next time, episode twenty, "Disappointment and Bouncing Back." What to do when something you worked hard on doesn't go the way you hoped.
+SENA: Daniel, I just sent the public reply. Hannah reacted with a thumbs up. And Wendell answered my direct message. "Sure, Friday works."
+DANIEL: That's how you answer without damage.
+SENA: But wait. There's one more message. From Kato-san. "Can we talk at five today? It's about region three. Laura made a decision."
+DANIEL: A decision. And no hint about what kind.
+SENA: None. My jaw is tight again. I'm writing it down.
+DANIEL: Good. Thanks for listening to Human Curriculum. I'm Daniel.
+SENA: And I'm Sena. Name it, wait twenty minutes, and then choose. See you next time.

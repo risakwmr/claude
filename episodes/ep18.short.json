@@ -1,0 +1,8 @@
+{
+  "shorts": [
+    {"kind": "highlight", "lines": [34, 36], "hook": "Saying \"I am excited\" before karaoke raised accuracy to 81%.", "title": "Say \"I'm excited,\" not \"calm down\": the karaoke study"},
+    {"kind": "ai", "lines": [52, 54], "hook": "AI can write your script. It can't stand in the meeting for you.", "title": "AI can write your speech, not calm your heart"},
+    {"kind": "story", "lines": [58, 64], "hook": "\"You presented it like a weather report.\"", "title": "I told myself to calm down. My talk fell flat."},
+    {"kind": "culture", "lines": [65, 69], "hook": "Japan says \"I'm nervous.\" The US says \"I'm excited.\"", "title": "Before a speech: Japan vs the US"}
+  ]
+}

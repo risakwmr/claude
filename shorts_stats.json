@@ -1,5 +1,5 @@
 {
-  "at": "2026-10-05T03:01:47Z",
+  "at": "2026-10-06T03:51:53Z",
   "shorts": {
     "1-ai": {
       "video_id": "IdbU6d1ox0Q",
@@ -10,12 +10,30 @@
       "likes": 0,
       "comments": 1
     },
+    "1-highlight": {
+      "video_id": "0PM3PeVO-Ok",
+      "title": "When AI made consultants worse, not better #shorts",
+      "public": true,
+      "publish_at": "2026-10-05T13:12:02Z",
+      "views": 12,
+      "likes": 0,
+      "comments": 1
+    },
     "2-ai": {
       "video_id": "BRSoSEG4fhc",
       "title": "Your smartwatch can't tell you this #shorts",
       "public": true,
       "publish_at": "2026-10-04T10:55:17Z",
-      "views": 22,
+      "views": 56,
+      "likes": 3,
+      "comments": 1
+    },
+    "2-highlight": {
+      "video_id": "qVYiI1fz4QI",
+      "title": "Traders who felt their heartbeat earned more #shorts",
+      "public": true,
+      "publish_at": "2026-10-05T13:16:11Z",
+      "views": 16,
       "likes": 0,
       "comments": 1
     },
@@ -24,9 +42,36 @@
       "title": "The reply I still regret as a manager #shorts",
       "public": true,
       "publish_at": "2026-10-04T10:55:18Z",
-      "views": 4,
+      "views": 7,
       "likes": 0,
       "comments": 1
+    },
+    "3-ai": {
+      "video_id": "TkuQdTIH-zs",
+      "title": "AI can do the typing, not the owning #shorts",
+      "public": true,
+      "publish_at": "2026-10-05T13:13:59Z",
+      "views": 8,
+      "likes": 0,
+      "comments": 1
+    },
+    "3-highlight": {
+      "video_id": "XcNvjVyBtjs",
+      "title": "Unfinished tasks? A plan quiets your mind #shorts",
+      "public": false,
+      "publish_at": "2026-10-06T09:00:00Z",
+      "views": 0,
+      "likes": 0,
+      "comments": 0
+    },
+    "4-ai": {
+      "video_id": "OIbZ6sh9RiE",
+      "title": "AI can offer the menu. It can't taste the food. #shorts",
+      "public": false,
+      "publish_at": "2026-10-06T13:00:00Z",
+      "views": 0,
+      "likes": 0,
+      "comments": 0
     }
   },
   "episodes": {
@@ -75,7 +120,7 @@
     "7": {
       "video_id": "l4uOZEjAUbw",
       "title": "Why Your Emails Aren't as Clear as You Think | English Podcast EP07",
-      "views": 0,
+      "views": 1,
       "likes": 0,
       "comments": 1
     },
@@ -112,12 +157,12 @@
       "title": "What Nobody Tells You About Becoming a Manager | English Podcast EP12",
       "views": 0,
       "likes": 0,
-      "comments": 0
+      "comments": 1
     },
     "13": {
       "video_id": "RfZdM_vSJuM",
       "title": "Why \"Great Job\" Isn't Great Feedback (Try This Instead) | English Podcast EP13",
-      "views": 0,
+      "views": 1,
       "likes": 0,
       "comments": 0
     },

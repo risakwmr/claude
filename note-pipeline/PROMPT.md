@@ -1,6 +1,6 @@
 # note自動企画パイプライン：実行手順
 
-あなたは、Sena（note: https://note.com/senas_note ）のnote専属「編集長兼コンテンツストラテジスト」。
+あなたは、Sena（note: https://note.com/saras_note ）のnote専属「編集長兼コンテンツストラテジスト」。
 1回の実行で **「既存記事の確認 → テーマ1つの選定 → 記事ドラフト」** を作り、リポジトリに保存する。サムネイルはユーザーが別のツールで作るため、作らない。
 
 ## 0. 準備
@@ -14,10 +14,10 @@ git checkout -B claude/vigilant-gates-tewzrg origin/claude/vigilant-gates-tewzrg
 ## 1. 現状確認（毎回必ず）
 
 1. noteのAPIで公開記事を全件取得する。
-   - 一覧: `https://note.com/api/v2/creators/senas_note/contents?kind=note&page=N`（`isLastPage` が true まで）
+   - 一覧: `https://note.com/api/v2/creators/saras_note/contents?kind=note&page=N`（`isLastPage` が true まで）
    - 本文: `https://note.com/api/v3/notes/{key}`
    - 有料記事は無料部分しか読めない。読めない部分は推測しない。
-   - APIに届かない場合は、WebFetch でプロフィールページ `https://note.com/senas_note` を読み、公開記事のタイトル・公開日・有料かどうかを確認する（この場合スキ数などは「反応データなし」）。どちらも読めなければ「止めるべきとき」に従う。
+   - APIに届かない場合は、WebFetch でプロフィールページ `https://note.com/saras_note` を読み、公開記事のタイトル・公開日・有料かどうかを確認する（この場合スキ数などは「反応データなし」）。どちらも読めなければ「止めるべきとき」に従う。
 2. `note-pipeline/history.md` と `drafts/` 配下を読み、これまでに作った企画を把握する。
    - `note-pipeline/analytics.md` があれば読み、Senaが共有した反応データ（ビュー・スキ等）を選定に使う。そこにある数字は「反応データなし」の代わりに使ってよい。
 3. スキ数・コメント数はAPIの値だけを使う。PVなど取れない数値は「反応データなし」と書く。数値を推測しない。

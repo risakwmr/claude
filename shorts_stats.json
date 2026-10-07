@@ -1,5 +1,5 @@
 {
-  "at": "2026-10-07T03:33:29Z",
+  "at": "2026-10-07T18:18:49Z",
   "shorts": {
     "1-ai": {
       "video_id": "IdbU6d1ox0Q",
@@ -46,12 +46,21 @@
       "likes": 0,
       "comments": 1
     },
+    "2-culture": {
+      "video_id": "EiRzB8lexnM",
+      "title": "Hiding a feeling is not the same as handling it #shorts",
+      "public": false,
+      "publish_at": "2026-10-07T23:00:00Z",
+      "views": 0,
+      "likes": 0,
+      "comments": 0
+    },
     "3-ai": {
       "video_id": "TkuQdTIH-zs",
       "title": "AI can do the typing, not the owning #shorts",
       "public": true,
       "publish_at": "2026-10-05T13:13:59Z",
-      "views": 11,
+      "views": 10,
       "likes": 0,
       "comments": 1
     },
@@ -69,7 +78,7 @@
       "title": "\"Someone should fix that\" means nobody will #shorts",
       "public": true,
       "publish_at": "2026-10-06T23:00:00Z",
-      "views": 22,
+      "views": 25,
       "likes": 0,
       "comments": 1
     },
@@ -85,20 +94,20 @@
     "4-highlight": {
       "video_id": "CqDJmBWR1UY",
       "title": "Name the feeling: the tarantula experiment #shorts",
-      "public": false,
+      "public": true,
       "publish_at": "2026-10-07T09:00:00Z",
       "views": 0,
       "likes": 0,
-      "comments": 0
+      "comments": 1
     },
     "5-ai": {
       "video_id": "1wCrwibGAfw",
       "title": "Why AI can't give you real feedback #shorts",
-      "public": false,
+      "public": true,
       "publish_at": "2026-10-07T13:00:00Z",
-      "views": 0,
+      "views": 3,
       "likes": 0,
-      "comments": 0
+      "comments": 1
     }
   },
   "episodes": {
@@ -126,7 +135,7 @@
     "4": {
       "video_id": "U7qYzYkkHBI",
       "title": "Stop Saying \"I'm Fine\" at Work | English Podcast EP04",
-      "views": 5,
+      "views": 6,
       "likes": 0,
       "comments": 1
     },
@@ -182,14 +191,14 @@
     "12": {
       "video_id": "KCkYIsh8d3k",
       "title": "What Nobody Tells You About Becoming a Manager | English Podcast EP12",
-      "views": 0,
+      "views": 1,
       "likes": 0,
       "comments": 1
     },
     "13": {
       "video_id": "RfZdM_vSJuM",
       "title": "Why \"Great Job\" Isn't Great Feedback (Try This Instead) | English Podcast EP13",
-      "views": 1,
+      "views": 2,
       "likes": 0,
       "comments": 1
     },
@@ -208,7 +217,7 @@
       "comments": 1
     },
     "16": {
-      "video_id": "Vhdtkt1lTXI",
+      "video_id": "D-JtMP9s8jY",
       "title": "How to Report a Mistake at Work (Without Panicking) | English Podcast EP16",
       "views": 0,
       "likes": 0,

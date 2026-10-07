@@ -67,6 +67,7 @@ BOARD_BOX = (100, 640, 980, 1250)   # center card area
 BAR = (40, 1268, 1040, 1508)        # caption bar
 BUST_FLOOR = 2010                    # busts stand behind the bar; their lower half runs off the bottom
 BUST_X = {"SENA": 300, "DANIEL": 780}
+BUST_SCALE = {"SENA": 0.88, "DANIEL": 1.08}   # Sena's pose art is drawn larger, so she is scaled down to match Daniel
 STORY_ASK = re.compile(r"failure story|one of your stories|a story for me|your story|mistake of mine|"
                        r"tell you about a mistake|a confession|promised you a story", re.I)
 CULTURE = re.compile(r"cultur(e|al) (question|point|difference)|connects to (japan|culture)|about japan|"
@@ -275,7 +276,8 @@ def board_card(num, board):
 
 def bust(name, pose, active, face=None):
     img = r.full_pose(name, pose, face) if active else r.faded(name, pose, face)
-    return img.resize((int(img.width * 1.08), int(img.height * 1.08)), Image.LANCZOS)
+    k = BUST_SCALE[name]
+    return img.resize((int(img.width * k), int(img.height * k)), Image.LANCZOS)
 
 
 def draw(num, spec, ep_title, speaker, level, subtitle, sena, daniel, board_key, sena_face=None, daniel_face=None,

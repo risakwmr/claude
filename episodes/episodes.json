@@ -1159,7 +1159,8 @@
         "First line ready"
       ],
       "thumb_cup": "Say I'm excited",
-      "thumb_pose": "sena_cheer"
+      "thumb_pose": "sena_cheer",
+      "thumb_comp": "N"
     },
     {
       "number": 19,
@@ -1214,7 +1215,8 @@
         "Private: feelings"
       ],
       "thumb_cup": "Wait 20 minutes",
-      "thumb_pose": "sena_walk"
+      "thumb_pose": "sena_walk",
+      "thumb_comp": "D"
     }
   ]
 }

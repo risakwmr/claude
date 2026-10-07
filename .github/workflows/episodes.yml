@@ -82,6 +82,14 @@ jobs:
             when=$(python src/slot.py)
             echo "Publish slot: $when" | tee -a "$GITHUB_STEP_SUMMARY"
             if [ "$when" = "wait" ]; then list=""; else list=$(python src/pick.py next 1); fi
+            # Hold automatic posting until Sena's own thumbnail for the episode is in place.
+            for n in $list; do
+              nn=$(printf "%02d" "$n")
+              if [ ! -f "episodes/ep${nn}_thumbnail.png" ] && [ ! -f "episodes/ep${nn}_thumbnail.jpg" ]; then
+                echo "Waiting for thumbnail: episodes/ep${nn}_thumbnail.png is missing, so episode $n is not posted yet." | tee -a "$GITHUB_STEP_SUMMARY"
+                list=""
+              fi
+            done
             action=upload
           else
             list=$(python src/pick.py "$EPISODE")

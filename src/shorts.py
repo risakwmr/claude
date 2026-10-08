@@ -1,9 +1,9 @@
 """Which Shorts go up next, and when they go public.
 
-Each episode gives up to four Shorts (see src/make_short.py): ai, story, culture, lab.
-Shorts go public one at a time at 08:00, 18:00 and 22:00 Japan time
-(08:00 JST = evening in the US, 18:00 = afternoon in India and Southeast Asia, 22:00 = morning in the US
-and afternoon in Europe). Change the times with the repository variable SHORT_SLOTS_JST, e.g. "8,18".
+Each episode gives up to five Shorts (see src/make_short.py): ai, highlight, story, culture, lab.
+Its highlight and ai Shorts go public at the same moment as the episode (00:00 / 12:00 JST).
+The rest, and Shorts of older episodes, go up one per scheduled run at 08:00 or 18:00 JST
+(SHORT_SLOTS_JST), about 2 a day, so a day stays near 8 uploads, under YouTube's daily upload limit.
 The order mixes kinds and episodes, so the same episode doesn't fill a whole day, and a Short is only made
 for an episode that is public by the time the Short goes public, so its "Full episode" link works.
 shorts.json keeps track of what has been uploaded (keys like "14-story").
@@ -28,9 +28,9 @@ KIND_ORDER = list(OFFSET)
 
 
 def slots_jst():
-    raw = os.environ.get("SHORT_SLOTS_JST") or "8,18,22"
+    raw = os.environ.get("SHORT_SLOTS_JST") or "8,18"
     hours = sorted({int(h) % 24 for h in raw.replace(" ", "").split(",") if h.strip()})
-    return hours or [8, 18, 22]
+    return hours or [8, 18]
 
 
 def load(path):
@@ -95,30 +95,53 @@ def candidates(by_time, data, published, skip=()):
     return [(n, kind) for _, n, _, kind in out]
 
 
+COMPANIONS = ["highlight", "ai"]   # these go public together with their episode (first two the episode has)
+BACKLOG_PER_RUN = 1                 # older Shorts per scheduled run (runs come twice a day -> 2 a day)
+
+
+def companions_of(num):
+    kinds = kinds_of(num)
+    pick = [k for k in COMPANIONS if k in kinds]
+    pick += [k for k in KIND_ORDER if k in kinds and k not in pick]
+    return pick[:len(COMPANIONS)]
+
+
 def plan(now=None):
-    """[(episode, kind, when)] for this scheduled run: one Short per free slot within LEAD."""
+    """[(episode, kind, when)] for this scheduled run.
+
+    1. Companions: an episode that goes public within LEAD (or went public in the last hour) gets its
+       highlight and ai Shorts scheduled for the same moment, so the Shorts and the episode come out together.
+    2. Backlog: one older Short per run, at the next 08:00 / 18:00 JST slot (SHORT_SLOTS_JST)."""
     now = now or datetime.now(timezone.utc)
     data = load_shorts()
     published = load(os.path.join(ROOT, "published.json"))
-    times = scheduled_times(data)
     chosen, used = [], set()
-    while True:
-        slot, from_queue = next_free(now, times)
-        if slot - now <= LEAD:
-            when = fmt(slot)
-        elif not chosen and not from_queue and not (times and max(times) > now - timedelta(hours=12)):
-            when, slot = "now", now  # nothing queued for a long time: post one right away
-        else:
+    for k, v in sorted(published.items(), key=lambda kv: int(kv[0])):
+        at = v.get("publish_at")
+        if not at:
+            continue
+        t = parse(at)
+        if not (now - timedelta(hours=1) <= t <= now + LEAD):
+            continue
+        for kind in companions_of(int(k)):
+            if key(k, kind) in data:
+                continue
+            chosen.append((int(k), kind, fmt(t) if t > now + timedelta(minutes=15) else "now"))
+            used.add(key(k, kind))
+    taken = {fmt(t) for t in scheduled_times(data)} | {w for _, _, w in chosen}
+    for _ in range(BACKLOG_PER_RUN):
+        slot = first_slot(now + timedelta(minutes=15))
+        while fmt(slot) in taken:
+            slot = first_slot(slot + timedelta(minutes=1))
+        if slot - now > LEAD:
             break
         picks = candidates(slot, data, published, used)
         if not picks:
             break
         n, kind = picks[0]
-        chosen.append((n, kind, when))
+        chosen.append((n, kind, fmt(slot)))
         used.add(key(n, kind))
-        times.append(slot if when != "now" else now)
-        if when == "now":
-            break
+        taken.add(fmt(slot))
     return chosen
 
 

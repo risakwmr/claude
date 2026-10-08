@@ -3,6 +3,8 @@
 python representative/main.py brief          listen to everything, run the agents, write today's brief
 python representative/main.py ask            answer the question in $QUESTION
 python representative/main.py command        run the /reply, /skip or /edit command in $QUESTION
+python representative/main.py listen         no AI: save what the listeners heard (snapshot.json, pending_comments.json)
+                                             for the Claude Code routine that reads it on the owner's Claude plan
 
 Output for the GitHub issue goes to $OUT (default out.md).
 """
@@ -19,6 +21,8 @@ REPORTS = os.path.join(L.REP_DIR, "last_reports.json")
 NUMBERS = os.path.join(L.REP_DIR, "last_numbers.json")
 SENT = os.path.join(L.REP_DIR, "sent_replies.json")
 PRON = os.path.join(L.REP_DIR, "pronunciation.json")
+SNAPSHOT = os.path.join(L.REP_DIR, "snapshot.json")
+PENDING = os.path.join(L.REP_DIR, "pending_comments.json")
 THUMBS = os.path.join(L.REP_DIR, "thumbnails.json")
 BRIEFS = os.path.join(L.REP_DIR, "briefs")
 OUT = os.environ.get("OUT", "out.md")
@@ -126,6 +130,19 @@ def needs_owner(snap, reports, new_drafts, news=()):
         or any(i.get("owner_action", "").strip() for i in ops.get("items", [])))
 
 
+def listen():
+    """Listen without any AI call. New viewer comments wait in pending_comments.json until a reader
+    (the Claude Code routine) drafts replies into inbox.json and empties it."""
+    snap = L.snapshot(with_comments=True)
+    pending = L.load(PENDING, {})
+    for c in (snap.get("audience") or {}).get("new", []):
+        pending[c["id"]] = c
+    L.save(PENDING, pending)
+    L.mark_seen(pending)
+    L.save(SNAPSHOT, snap)
+    print(f"Snapshot saved ({snap['at']}); {len(pending)} viewer comment(s) waiting for reply drafts")
+
+
 def ask():
     import agents
     question = os.environ.get("QUESTION", "").strip()
@@ -193,4 +210,4 @@ def command():
 
 
 if __name__ == "__main__":
-    {"brief": brief, "ask": ask, "command": command}[sys.argv[1]]()
+    {"brief": brief, "ask": ask, "command": command, "listen": listen}[sys.argv[1]]()

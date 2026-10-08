@@ -37,7 +37,14 @@ One voice for every scheduled run, automation and agent around the channel. You 
 
 Only the repository owner's comments wake it, so nobody else can spend the API budget or post replies.
 
-## Set up (once)
+## Free setup (no API key)
+
+Without `ANTHROPIC_API_KEY`, the workflow only listens every morning (no AI, no cost): it saves `snapshot.json` and new
+viewer comments (`pending_comments.json`) on the `rep-data` branch. A Claude Code routine on the owner's Claude plan
+reads them shortly after, drafts the brief and the comment replies, and notifies the owner only when something needs
+them. `/reply`, `/skip` and `/edit` in the issue still post the approved replies.
+
+## Paid setup (Claude API)
 
 1. Settings → Secrets and variables → Actions → **Secrets**: add `ANTHROPIC_API_KEY` (from console.anthropic.com). The YouTube secrets are the ones the episode workflow already uses.
 2. **Variables**: add `REPRESENTATIVE` = `true` to turn on the daily brief.

@@ -104,6 +104,17 @@ def pipeline(hours=36):
 
 # ---------- channel ----------
 
+def book_spines(sources):
+    """Author names for the book spines on a thumbnail: "Bushman", "Kjærvik & Bushman", "Kross et al."."""
+    out = []
+    for src in sources:
+        names = src.split(" (")[0]
+        if names.count(",") + names.count("&") >= 2:
+            names = re.split(r"[,&]", names)[0].strip() + " et al."
+        out.append(names)
+    return out[:3]
+
+
 def next_slot(after):
     """First 00:00 / 12:00 JST strictly after `after`."""
     t = after.astimezone(JST)
@@ -152,11 +163,11 @@ def channel():
                                       "file": f"episodes/ep{r['episode']:02d}_thumbnail.png",
                                       "upload_link": repo_url("upload/episodes/episodes"),
                                       # what the brief in thumbnail_rules.md section 12 is filled from
-                                      "brief_data": {k: e.get(k) for k in ("short_title", "summary", "hook", "thumb_sub",
-                                                                           "thumb_accent", "thumb_pose", "thumb_comp")},
+                                      "brief_data": {**{k: e.get(k) for k in ("short_title", "summary", "hook", "thumb_sub",
+                                                                              "thumb_accent", "thumb_notes", "thumb_cup")},
+                                                     "books": book_spines(e.get("sources", []))},
                                       "needed_by": (slot - timedelta(hours=3)).strftime("%m/%d %H:%M JST"),
                                       "hours_left": round(((slot - timedelta(hours=3)) - t).total_seconds() / 3600)})
-    recent_comps = [e.get("thumb_comp") for e in meta["episodes"] if e.get("thumb_comp")][-3:]
     blockers = []
     if waiting and not waiting[0]["has_own_thumbnail"]:
         blockers.append(f"Episode {waiting[0]['episode']} waits for its thumbnail "
@@ -174,8 +185,8 @@ def channel():
         "next_scheduled": [r for r in episodes if r["state"] == "scheduled"][:3],
         "blockers": blockers,
         "thumbnails_needed": thumbnails_needed,
-        "thumbnail_rules_link": repo_url("blob/episodes/episodes/thumbnail_rules.md"),
-        "recent_thumb_comps": recent_comps,
+        "thumbnail_references": [repo_url("blob/episodes/episodes/ep14_thumbnail.png"),
+                                 repo_url("blob/episodes/episodes/ep18_thumbnail.png")],
         "shorts": {"public": sum(r["state"] == "public" for r in shorts_rows),
                    "scheduled": [r for r in shorts_rows if r["state"] == "scheduled"]},
         "stats_at": jst(stats.get("at")),

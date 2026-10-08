@@ -13,6 +13,7 @@ from concurrent.futures import ThreadPoolExecutor
 import anthropic
 
 MODEL = os.environ.get("REP_MODEL", "claude-opus-5-5")
+THUMB_TEMPLATE = open(os.path.join(os.path.dirname(os.path.abspath(__file__)), "thumbnail_template.md"), encoding="utf-8").read()
 client = anthropic.Anthropic()
 
 SHOW = ("The channel is 'Human Curriculum': an English audio drama about the human skills AI can't do. "
@@ -172,11 +173,9 @@ def brief(snap, reports, inbox):
         "4. 📅 これからの予定: the next scheduled episodes / Shorts.\n"
         "5. 🖼 サムネイル: only when channel.thumbnails_needed is not empty. Most urgent first. For each: episode, title, "
         "the time it is needed by (an estimate; automatic posting waits until it is there), the exact file name, the "
-        "upload_link, and a ready-to-paste ChatGPT brief in a code block, filled in from brief_data in the format of "
-        "section 12 of the thumbnail rules (Thumbnail text = short_title, second line = thumb_sub, coral word = "
-        "thumb_accent; pick a composition letter not in recent_thumb_comps unless thumb_comp is set, and a place, metaphor "
-        "and scene that fit the summary). Once, above the briefs: paste the rules from thumbnail_rules_link into ChatGPT "
-        "first and attach the two most recent thumbnails.\n"
+        "upload_link, and the prompt of the thumbnail template below in a code block, every <...> filled in from "
+        "brief_data (books = the book spines) and a scene that fits the summary. Once, above the prompts: attach the two "
+        "thumbnail_references images to ChatGPT together with the prompt.\n"
         "6. 🗣 日本語の発音チェック: only when the pronunciation report has words. For each: the word, which episode, "
         "and the respelling candidates. Say the owner should listen before that episode is made: pick a spelling and "
         "add it to episodes/pronunciations.json (give its edit_link and a ready-to-paste JSON line per word, e.g. "
@@ -186,7 +185,8 @@ def brief(snap, reports, inbox):
         "9. End with: 返信するときは `/reply all` か `/reply <id> <id>`、質問はこのIssueにそのまま書いてね。",
         f"Reports from the specialist agents:\n{data(reports)}\n\nReply drafts waiting for approval:\n{data(inbox)}\n\n"
         f"Time: {snap['at']}. Links of scheduled items:\n{data((snap.get('channel') or {}).get('next_scheduled'))}\n\n"
-        f"Thumbnails needed:\n{data({k: (snap.get('channel') or {}).get(k) for k in ('thumbnails_needed', 'thumbnail_rules_link', 'recent_thumb_comps')})}\n\n"
+        f"Thumbnails needed:\n{data({k: (snap.get('channel') or {}).get(k) for k in ('thumbnails_needed', 'thumbnail_references')})}\n\n"
+        f"Thumbnail template:\n{THUMB_TEMPLATE}\n\n"
         f"Pronunciation links:\n{data({k: (snap.get('pronunciation') or {}).get(k) for k in ('edit_link', 'voicetest_link', 'next_episode')})}",
         effort="medium")
 

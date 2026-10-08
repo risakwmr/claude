@@ -1,7 +1,7 @@
 # note記事づくりの共通ルール
 
 すべてのエージェント（`.claude/agents/note-*.md`）と、まとめ役（`note-pipeline/PROMPT.md`）が従うルール。
-Senaの事実・シリーズ・書き方が変わったら、ここだけを直す。
+Senaの事実・シリーズ・書き方が変わったら、ここだけを直す。文体（言い回し・使わない表現）は `note-pipeline/voice.md` にある。
 
 ## 2. Senaについて（公開記事で確認できた事実のみ）
 

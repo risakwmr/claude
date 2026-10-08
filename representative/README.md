@@ -24,7 +24,7 @@ One voice for every scheduled run, automation and agent around the channel. You 
 
 ## What it does
 
-- **Every morning at 07:30 JST** it posts a brief: what went well, what needs you (with the exact next step), what is scheduled next, what viewers said with reply drafts, and the numbers.
+- **Every morning at 07:30 JST** it checks everything, and **posts only when something needs you** (a failure, a blocker, or new comment replies to approve). On quiet days it posts nothing and keeps the brief on the `rep-data` branch. Set the variable `REP_NOTIFY` = `always` for a post every day. When it does post, the brief has what went well, what needs you (with the exact next step), what is scheduled next, what viewers said with reply drafts, and the numbers.
 - **Ask it anything** by commenting in the issue, e.g. 「昨日のShortsどうだった？」「次のエピソードはいつ公開？」「なんで止まってるの？」. It answers from the live state of the channel and the latest reports.
 - **Comment replies are never posted on their own.** Each draft has an id like `c3`:
   - `/reply all` posts every draft except the ones flagged for your judgment

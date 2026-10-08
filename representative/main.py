@@ -46,6 +46,7 @@ def brief():
 
     # new reply drafts go to the inbox; they are posted only after the owner approves them
     inbox = load_inbox()
+    new_drafts = 0
     comments = {c["id"]: c for c in (snap.get("audience") or {}).get("new", [])}
     for d in (reports.get("audience") or {}).get("comments", []):
         c = comments.get(d["id"])
@@ -53,6 +54,7 @@ def brief():
             continue
         rid = f"c{inbox['next']}"
         inbox["next"] += 1
+        new_drafts += 1
         inbox["items"][rid] = {"comment_id": c["id"], "thread_id": c["thread_id"], "video_id": c["video_id"],
                                "author": c["author"], "comment": c["text"][:300], "category": d["category"],
                                "needs_owner": d["needs_owner"], "reply": d["reply"]}
@@ -66,7 +68,22 @@ def brief():
         f.write(text)
     L.save(REPORTS, {"at": snap["at"], "reports": reports})
     L.save(NUMBERS, numbers(snap))
+    if os.environ.get("REP_NOTIFY") != "always" and not needs_owner(snap, reports, new_drafts):
+        # nothing for the owner to do: keep the brief on the rep-data branch, post nothing
+        print(f"Nothing needs you today; brief saved to briefs/{day}.md\n\n{text}")
+        return
     write_out(f"## 📮 {day} のブリーフ\n\n{text}")
+
+
+def needs_owner(snap, reports, new_drafts):
+    """True when the owner has something to do: a problem, a blocker, a failed agent, or new replies to approve."""
+    ops = reports.get("ops") or {}
+    return bool(
+        new_drafts
+        or (snap.get("channel") or {}).get("blockers")
+        or any("error" in (r or {}) for r in reports.values())
+        or ops.get("health") != "all good"
+        or any(i.get("owner_action", "").strip() for i in ops.get("items", [])))
 
 
 def ask():

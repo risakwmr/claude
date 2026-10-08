@@ -1,7 +1,9 @@
 name: YouTube representative
 
 # One voice for every scheduled run, automation and agent around the channel.
-#  - Every morning (07:30 JST) it listens to everything and posts a brief to the "📮 YouTube representative" issue.
+#  - Every morning (07:30 JST) it listens to everything. It posts a brief to the "📮 YouTube representative" issue
+#    only when something needs you (a problem, a blocker, or new comment replies to approve); otherwise it stays quiet
+#    and keeps the brief on the rep-data branch. Set the repository variable REP_NOTIFY to "always" for a daily post.
 #  - Write a question in that issue and it answers. `/reply ...` posts the comment replies you approve.
 # Runs on a schedule only when the repository variable REPRESENTATIVE is "true".
 # Needs the secret ANTHROPIC_API_KEY (and the YouTube secrets the episode workflow already uses).
@@ -100,6 +102,9 @@ jobs:
           printf '%s' "$q" > /tmp/question.txt
 
       - name: Listen and answer
+        env:
+          # a brief you start by hand is always posted
+          REP_NOTIFY: ${{ github.event_name == 'workflow_dispatch' && 'always' || vars.REP_NOTIFY }}
         run: |
           export QUESTION="$(cat /tmp/question.txt)"
           python representative/main.py ${{ steps.mode.outputs.mode }} | tee -a "$GITHUB_STEP_SUMMARY"

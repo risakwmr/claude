@@ -1,5 +1,5 @@
 {
-  "at": "2026-10-07T18:18:49Z",
+  "at": "2026-10-08T03:35:26Z",
   "shorts": {
     "1-ai": {
       "video_id": "IdbU6d1ox0Q",
@@ -49,11 +49,11 @@
     "2-culture": {
       "video_id": "EiRzB8lexnM",
       "title": "Hiding a feeling is not the same as handling it #shorts",
-      "public": false,
+      "public": true,
       "publish_at": "2026-10-07T23:00:00Z",
-      "views": 0,
+      "views": 6,
       "likes": 0,
-      "comments": 0
+      "comments": 1
     },
     "3-ai": {
       "video_id": "TkuQdTIH-zs",
@@ -100,14 +100,32 @@
       "likes": 0,
       "comments": 1
     },
+    "4-story": {
+      "video_id": "QepA2gyIkew",
+      "title": "I wasn't stressed. I was lonely. #shorts",
+      "public": false,
+      "publish_at": "2026-10-08T09:00:00Z",
+      "views": 0,
+      "likes": 0,
+      "comments": 0
+    },
     "5-ai": {
       "video_id": "1wCrwibGAfw",
       "title": "Why AI can't give you real feedback #shorts",
       "public": true,
       "publish_at": "2026-10-07T13:00:00Z",
-      "views": 3,
+      "views": 4,
       "likes": 0,
       "comments": 1
+    },
+    "5-highlight": {
+      "video_id": "h7vNxhIX57g",
+      "title": "Why a third of feedback makes things worse #shorts",
+      "public": false,
+      "publish_at": "2026-10-08T13:00:00Z",
+      "views": 0,
+      "likes": 0,
+      "comments": 0
     }
   },
   "episodes": {
@@ -219,7 +237,7 @@
     "16": {
       "video_id": "D-JtMP9s8jY",
       "title": "How to Report a Mistake at Work (Without Panicking) | English Podcast EP16",
-      "views": 0,
+      "views": 2,
       "likes": 0,
       "comments": 0
     }

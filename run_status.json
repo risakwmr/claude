@@ -68,7 +68,7 @@
     "result": "ok"
   },
   "channel": {
-    "at": "2026-10-07T18:07:40Z",
+    "at": "2026-10-08T03:33:27Z",
     "result": "Human Curriculum- Learn what AI can’t do (UCSaZaQp7Ao--E-UrkQ4RnXg)"
   },
   "captions:hj8EgYR2ORo": {
@@ -128,8 +128,8 @@
     "result": "ok OIbZ6sh9RiE"
   },
   "short:4-story": {
-    "at": "2026-10-04T10:55:22Z",
-    "result": "ERROR 400 <HttpError 400 when requesting None returned \"The user has exceeded the number of videos they may upload.\". Details: \"[{'message': 'The user has exceeded the number of videos they may upload.', 'domain': 'youtube.video', 'reason': 'uploadLimitExceeded'}]\">"
+    "at": "2026-10-08T03:35:23Z",
+    "result": "ok QepA2gyIkew"
   },
   "short:4-culture": {
     "at": "2026-10-04T10:55:22Z",
@@ -285,6 +285,22 @@
   },
   "captions-en:D-JtMP9s8jY": {
     "at": "2026-10-07T18:18:06Z",
+    "result": "ok"
+  },
+  "short:5-highlight": {
+    "at": "2026-10-08T03:35:25Z",
+    "result": "ok h7vNxhIX57g"
+  },
+  "captions-en:RfZdM_vSJuM": {
+    "at": "2026-10-08T03:39:08Z",
+    "result": "ok"
+  },
+  "captions-en:oSt-VZY-65k": {
+    "at": "2026-10-08T03:39:09Z",
+    "result": "ok"
+  },
+  "captions-en:Rs-Wr1nrYHo": {
+    "at": "2026-10-08T03:39:10Z",
     "result": "ok"
   }
 }

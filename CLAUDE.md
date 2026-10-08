@@ -16,6 +16,8 @@ The YouTube representative (`representative/`) follows the same rules in its bri
 - Thumbnails: `episodes/epNN_thumbnail.png` on the `episodes` branch, made with ChatGPT. **Use the template in
   `representative/thumbnail_template.md`** (the look of EP14 and EP18: cream torn-paper panel, big navy serif title,
   coral EPISODE banner, book stack with the authors, pink sticky note, sunny watercolor Sena with handwritten notes).
+  The reference thumbnails (EP14, EP18, EP19) are in the source files of the owner's ChatGPT project: prompts say
+  "use the reference thumbnails in this project's source files" instead of asking to attach images.
   Not the "v2 magazine" rules in `episodes/thumbnail_rules.md`: the owner doesn't want that look.
   Upload page: https://github.com/risakwmr/claude/upload/episodes/episodes
 - Japanese respellings for the English voices: `episodes/pronunciations.json` on the `episodes` branch.

@@ -1,8 +1,8 @@
 # Thumbnail template (the look of EP14 and EP18)
 
 This is the channel's real thumbnail style. Use it instead of the "Thumbnail System v2" in
-`episodes/thumbnail_rules.md`. Reference images: `episodes/ep14_thumbnail.png` and `episodes/ep18_thumbnail.png` on the
-`episodes` branch. Attach both to ChatGPT together with the prompt.
+`episodes/thumbnail_rules.md`. The reference thumbnails (EP14, EP18, EP19) are in the source files of the owner's
+ChatGPT project, so nothing needs to be attached: the prompt tells ChatGPT to use them.
 
 Fill in each `<...>` from the episode's entry in `episodes/episodes.json`:
 - title: `short_title`
@@ -14,7 +14,7 @@ Fill in each `<...>` from the episode's entry in `episodes/episodes.json`:
   Sena acts out (EP18: a balloon labelled NERVOUS; EP14: stepping stones across a pond with coworkers following)
 
 ```
-Make a YouTube thumbnail in exactly the same style and layout as the two attached Human Curriculum thumbnails (EP14 and EP18). 16:9, 1672x941.
+Make a YouTube thumbnail in exactly the same style and layout as the Human Curriculum reference thumbnails in this project's source files (EP14, EP18, EP19). Look at them before you start. 16:9, 1672x941.
 
 LEFT ~40%: cream paper panel with torn edges and coral and sky-blue watercolor brush splashes in the corners.
 - Top: "The Human Curriculum" in small navy serif with a thin underline.
@@ -24,8 +24,8 @@ LEFT ~40%: cream paper panel with torn edges and coral and sky-blue watercolor b
 - Bottom left: a stack of hardcover books (navy, pink, cream), one per name, with these names on the spines: <author 1> / <author 2> / <author 3 if any>.
 - A pink sticky note taped on the books, handwritten in navy with a coral underline: "<sticky note>"
 
-RIGHT ~60%: a bright, sunny watercolor illustration, soft anime-style but refined (like EP14 and EP18).
-- Sena: Japanese woman in her late 20s, long wavy light-brown hair, black sunglasses pushed up on her head, small gold hoop earrings, chunky dusty-pink knit sweater, cream wide-leg trousers, white sneakers, black shoulder bag, office lanyard. Same face as in the attached images.
+RIGHT ~60%: a bright, sunny watercolor illustration, soft anime-style but refined (like the reference thumbnails).
+- Sena: Japanese woman in her late 20s, long wavy light-brown hair, black sunglasses pushed up on her head, small gold hoop earrings, chunky dusty-pink knit sweater, cream wide-leg trousers, white sneakers, black shoulder bag, office lanyard. Same face as in the reference thumbnails.
 - Scene: <one or two sentences: where she is, what she is doing, the visual metaphor, the light>
 - Around her, 4 handwritten notes in navy pen on small torn paper scraps or written in the air, each with a coral underline or a small heart: "<note 1>", "<note 2>", "<note 3>", "<note 4>"
 

@@ -1,0 +1,136 @@
+name: YouTube representative
+
+# One voice for every scheduled run, automation and agent around the channel.
+#  - Every morning (07:30 JST) it listens to everything. It posts a brief to the "📮 YouTube representative" issue
+#    only when something needs you (a problem, a blocker, new comment replies to approve, a thumbnail to make, or
+#    Japanese words in an upcoming episode to check by ear); otherwise it stays quiet
+#    and keeps the brief on the rep-data branch. Set the repository variable REP_NOTIFY to "always" for a daily post.
+#  - Write a question in that issue and it answers. `/reply ...` posts the comment replies you approve.
+# Runs on a schedule only when the repository variable REPRESENTATIVE is "true".
+# Needs the secret ANTHROPIC_API_KEY (and the YouTube secrets the episode workflow already uses).
+
+on:
+  schedule:
+    - cron: "30 22 * * *"  # 07:30 JST
+  issue_comment:
+    types: [created]
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "brief = listen and post today's brief now; ask = answer the question below"
+        type: choice
+        options: [brief, ask]
+        default: brief
+      question:
+        description: "For ask: your question (or a /reply, /skip, /edit command)"
+        default: ""
+
+permissions:
+  contents: write
+  issues: write
+  actions: read
+
+concurrency:
+  group: representative
+  cancel-in-progress: false
+
+defaults:
+  run:
+    shell: bash
+
+jobs:
+  representative:
+    # Only the repository owner can talk to it, so nobody else can spend the API budget or post replies.
+    if: >-
+      (github.event_name == 'schedule' && vars.REPRESENTATIVE == 'true') ||
+      github.event_name == 'workflow_dispatch' ||
+      (github.event_name == 'issue_comment' && !github.event.issue.pull_request &&
+       contains(github.event.issue.labels.*.name, 'representative') &&
+       github.event.comment.user.login == github.repository_owner)
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    env:
+      GH_TOKEN: ${{ github.token }}
+      GITHUB_TOKEN: ${{ github.token }}
+      ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+      CLIENT_ID: ${{ secrets.CLIENT_ID }}
+      CLIENT_SECRET: ${{ secrets.CLIENT_SECRET }}
+      REFRESH_TOKEN: ${{ secrets.REFRESH_TOKEN }}
+      CHANNEL_DIR: channel
+      REP_DIR: rep-data
+      MAIN_DIR: .
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Check out the channel's state (episodes branch)
+        uses: actions/checkout@v4
+        with:
+          ref: episodes
+          path: channel
+
+      - name: Check out what the representative remembers (rep-data branch)
+        run: |
+          if git ls-remote --exit-code --heads origin rep-data > /dev/null; then
+            git clone -q --depth 1 --branch rep-data "https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" rep-data
+          else
+            mkdir rep-data && git -C rep-data init -q -b rep-data
+          fi
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install
+        run: pip install -q -r representative/requirements.txt
+
+      - name: Choose what to do
+        id: mode
+        env:
+          EVENT: ${{ github.event_name }}
+          MODE: ${{ inputs.mode }}
+          INPUT_QUESTION: ${{ inputs.question }}
+          COMMENT: ${{ github.event.comment.body }}
+        run: |
+          if [ "$EVENT" = "issue_comment" ]; then q="$COMMENT"; else q="$INPUT_QUESTION"; fi
+          if [ "$EVENT" = "schedule" ] || { [ "$EVENT" = "workflow_dispatch" ] && [ "$MODE" = "brief" ]; }; then
+            mode=brief
+          elif [[ "$q" =~ ^[[:space:]]*/(reply|skip|edit) ]]; then
+            mode=command
+          else
+            mode=ask
+          fi
+          echo "mode=$mode" >> "$GITHUB_OUTPUT"
+          printf '%s' "$q" > /tmp/question.txt
+
+      - name: Listen and answer
+        env:
+          # a brief you start by hand is always posted
+          REP_NOTIFY: ${{ github.event_name == 'workflow_dispatch' && 'always' || vars.REP_NOTIFY }}
+        run: |
+          export QUESTION="$(cat /tmp/question.txt)"
+          python representative/main.py ${{ steps.mode.outputs.mode }} | tee -a "$GITHUB_STEP_SUMMARY"
+
+      - name: Post to the issue
+        if: always() && hashFiles('out.md') != ''
+        env:
+          ISSUE: ${{ github.event.issue.number }}
+        run: |
+          if [ -z "$ISSUE" ]; then
+            gh label create representative --color 5319e7 --description "YouTube representative" --force > /dev/null
+            ISSUE=$(gh issue list --label representative --state open --json number --jq '.[0].number')
+            if [ -z "$ISSUE" ]; then
+              ISSUE=$(gh issue create --label representative --title "📮 YouTube representative" \
+                --body "毎朝7:30（JST）に、YouTubeまわりの自動化・エージェント全部の様子をここに報告するよ。質問はこのIssueにコメントしてね。" \
+                | grep -o '[0-9]*$')
+            fi
+          fi
+          gh issue comment "$ISSUE" --body-file out.md
+
+      - name: Remember (rep-data branch)
+        if: always()
+        run: |
+          cd rep-data
+          git add -A
+          git diff --cached --quiet && exit 0
+          git -c user.name=github-actions -c user.email=github-actions@users.noreply.github.com commit -q -m "Representative: ${{ steps.mode.outputs.mode }}"
+          git push -q "https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" HEAD:rep-data

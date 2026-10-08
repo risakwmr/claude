@@ -13,14 +13,15 @@ git checkout -B claude/vigilant-gates-tewzrg origin/claude/vigilant-gates-tewzrg
 
 ## 1. 現状確認（毎回必ず）
 
-1. noteのAPIで公開記事を全件取得する。
-   - 一覧: `https://note.com/api/v2/creators/notesbysena/contents?kind=note&page=N`（`isLastPage` が true まで）
-   - 本文: `https://note.com/api/v3/notes/{key}`
-   - 有料記事は無料部分しか読めない。読めない部分は推測しない。
-   - APIに届かない場合は、WebFetch でプロフィールページ `https://note.com/notesbysena` を読み、公開記事のタイトル・公開日・有料かどうかを確認する（この場合スキ数などは「反応データなし」）。どちらも読めなければ「止めるべきとき」に従う。
+1. WebFetch でプロフィールページ `https://note.com/notesbysena` を読み、公開記事のタイトル・公開日（相対表記なら「○日前」のまま）・有料かどうかを確認する。
+   - noteのAPI（`note.com/api/...`）は robots.txt で取得が禁止されていて WebFetch では読めないため、試さない（2026-10-08確認）。curl など別の手段でも取りに行かない。
+   - プロフィールページには最新の数本しか出ないことがある（「もっとみる」）。見えない記事は `history.md` と `analytics.md` の一覧で補い、「総数は未確定」と書く。
+   - スキ数・ビューはページに出ないので「反応データなし」とする（`analytics.md` の数字は使ってよい）。
+   - 有料記事の有料部分は読めない。読めない部分は推測しない。
+   - 読み込みが失敗したら、1回だけ再試行する。それでも読めなければ「止めるべきとき」に従う。
 2. `note-pipeline/history.md` と `drafts/` 配下を読み、これまでに作った企画を把握する。
    - `note-pipeline/analytics.md` があれば読み、Senaが共有した反応データ（ビュー・スキ等）を選定に使う。そこにある数字は「反応データなし」の代わりに使ってよい。
-3. スキ数・コメント数はAPIの値だけを使う。PVなど取れない数値は「反応データなし」と書く。数値を推測しない。
+3. スキ数・コメント数・PVは、Senaが共有した数字（`analytics.md`）だけを使う。取れない数値は「反応データなし」と書く。数値を推測しない。
 
 ## 2. Senaについて（公開記事で確認できた事実のみ）
 
@@ -93,5 +94,5 @@ git checkout -B claude/vigilant-gates-tewzrg origin/claude/vigilant-gates-tewzrg
 
 ## 止めるべきとき
 
-- note.comにアクセスできない場合は、記事を推測で作らず、その旨だけを報告して終了する。
+- プロフィールページ `https://note.com/notesbysena` が（再試行しても）読めない場合は、記事を推測で作らず、その旨だけを報告して終了する。
 - 未仕上げの下書きが10本以上たまっている場合は、新しい下書きを作る代わりに、たまっている下書きの一覧と、仕上げるための質問をまとめて報告する。数えるのは、`history.md` で状態が「下書き（要記入あり）」のもの（noteにまだ入れていないもの）だけ。「noteに入れ済み」「公開済み」は数えない。

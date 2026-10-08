@@ -1,6 +1,7 @@
 ---
 name: note-editor
 description: noteの編集校閲係。article.md が「Senaの経験を捏造しない」「開示の判断を勝手にしない」、書式・有料構成・公開用メモのルールを守っているか、読者にとって読みやすいかを確かめ、review-voice.md に書く。本文は直さない。
+model: opus
 tools: Read, Glob, Grep, Write
 ---
 

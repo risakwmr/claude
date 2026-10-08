@@ -13,6 +13,7 @@ from concurrent.futures import ThreadPoolExecutor
 import anthropic
 
 MODEL = os.environ.get("REP_MODEL", "claude-opus-5-5")
+THUMB_TEMPLATE = open(os.path.join(os.path.dirname(os.path.abspath(__file__)), "thumbnail_template.md"), encoding="utf-8").read()
 client = anthropic.Anthropic()
 
 SHOW = ("The channel is 'Human Curriculum': an English audio drama about the human skills AI can't do. "
@@ -157,7 +158,10 @@ def pronunciation(snap):
 VOICE = ("You are the owner's YouTube representative: one voice for every scheduled run, automation and agent around "
          "their channel. Write in Japanese, warm and casual like a smart, kind partner (〜だよ, 〜かも, 〜で大丈夫), "
          "never preachy. Lead with what matters most. Separate facts from guesses. If nothing needs the owner, say so plainly "
-         "so they can relax. Never invent numbers or events that are not in the reports.")
+         "so they can relax. Never invent numbers or events that are not in the reports. "
+         "The owner forgets easily: every reminder or action item must carry everything needed to do it right away, "
+         "the direct link (to the file, upload page, workflow or video) and any text to paste (prompt, brief, reply), "
+         "so nothing has to be looked up.")
 
 
 def brief(snap, reports, inbox):
@@ -167,18 +171,23 @@ def brief(snap, reports, inbox):
         "2. ✅ うまくいっていること (short).\n"
         "3. ⚠️ 見てほしいこと: only what needs the owner, each with the exact next step. Omit the section if empty.\n"
         "4. 📅 これからの予定: the next scheduled episodes / Shorts.\n"
-        "5. 🖼 サムネイル: only when channel.thumbnails_needed is not empty. For each: episode, title, the file name to add "
-        "on the episodes branch, and the time it is needed by (an estimate; automatic posting waits until it is there). "
-        "Put the most urgent first.\n"
+        "5. 🖼 サムネイル: only when channel.thumbnails_needed is not empty. Most urgent first. For each: episode, title, "
+        "the time it is needed by (an estimate; automatic posting waits until it is there), the exact file name, the "
+        "upload_link, and the prompt of the thumbnail template below in a code block, every <...> filled in from "
+        "brief_data (books = the book spines) and a scene that fits the summary. Once, above the prompts: paste it into the "
+        "ChatGPT project that has the reference thumbnails in its source files.\n"
         "6. 🗣 日本語の発音チェック: only when the pronunciation report has words. For each: the word, which episode, "
         "and the respelling candidates. Say the owner should listen before that episode is made: pick a spelling and "
-        "add it to episodes/pronunciations.json on the episodes branch (the voicetest action plays numbered spellings).\n"
-        "7. 💬 視聴者の声: summarize the comments; list each reply draft with its id as `[id]` so the owner can approve it.\n"
+        "add it to episodes/pronunciations.json (give its edit_link and a ready-to-paste JSON line per word, e.g. "
+        "`\"gaman\": \"gah-mahn\",`), and the voicetest_link to hear numbered spellings.\n"
+        "7. 💬 視聴者の声: summarize the comments; list each reply draft with its id as `[id]` and the video link (https://youtu.be/<video_id>) so the owner can approve it.\n"
         "8. 📈 数字: the growth points and the one idea.\n"
         "9. End with: 返信するときは `/reply all` か `/reply <id> <id>`、質問はこのIssueにそのまま書いてね。",
         f"Reports from the specialist agents:\n{data(reports)}\n\nReply drafts waiting for approval:\n{data(inbox)}\n\n"
         f"Time: {snap['at']}. Links of scheduled items:\n{data((snap.get('channel') or {}).get('next_scheduled'))}\n\n"
-        f"Thumbnails needed:\n{data((snap.get('channel') or {}).get('thumbnails_needed'))}",
+        f"Thumbnails needed:\n{data({k: (snap.get('channel') or {}).get(k) for k in ('thumbnails_needed', 'thumbnail_references')})}\n\n"
+        f"Thumbnail template:\n{THUMB_TEMPLATE}\n\n"
+        f"Pronunciation links:\n{data({k: (snap.get('pronunciation') or {}).get(k) for k in ('edit_link', 'voicetest_link', 'next_episode')})}",
         effort="medium")
 
 

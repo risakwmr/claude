@@ -237,7 +237,7 @@ jobs:
           REPO: ${{ github.repository }}
           TOKEN: ${{ github.token }}
         run: |
-          python src/voice_test.py
+          python src/voice_test.py --variants
           rm -rf /tmp/vt && mkdir /tmp/vt && cp output/voice_test.mp3 /tmp/vt/
           cd /tmp/vt && git init -q && git checkout -q -b voice-test && git add .
           git -c user.name=github-actions -c user.email=github-actions@users.noreply.github.com commit -q -m "Voice test"

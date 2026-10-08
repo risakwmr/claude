@@ -13,6 +13,7 @@ Japanese captions: if episodes/epNN.ja.txt exists (one line per script line, "SE
 epNN.ja.srt is written next to the video and uploaded as YouTube captions.
 """
 import argparse
+from functools import lru_cache
 import asyncio
 import json
 import os
@@ -80,7 +81,57 @@ async def tts_line(text, voice, path, rate=RATE):
     return words
 
 
+@lru_cache(maxsize=None)
+def _pron():
+    p = os.path.join(ROOT, "episodes", "pronunciations.json")
+    if not os.path.exists(p):
+        return []
+    words = json.load(open(p, encoding="utf-8")).get("words", {})
+    # longer phrases first, so "Kato-san" wins over "Kato"
+    return [(re.compile(r"(?<![\w-])" + re.escape(k) + r"(?![\w-])", re.I), v)
+            for k, v in sorted(words.items(), key=lambda kv: -len(kv[0]))]
+
+
+def spoken(text):
+    """The text the voice reads: Japanese words respelled so they sound Japanese (captions keep the original)."""
+    for pat, sub in _pron():
+        text = pat.sub(sub, text)
+    return text
+
+
+def _letters(s):
+    return re.sub(r"[^a-z0-9]", "", s.lower())
+
+
+def realign(words, original, said):
+    """Map word timings from the respelled text back onto the original words, so captions stay in sync.
+
+    A respelled word like "oh-nee-ghee-ree" can come back as several boundaries; they are merged into one."""
+    if said == original or not words:
+        return words
+    targets = [_letters(t) for t in said.split() if _letters(t)]
+    out, i = [], 0
+    for tgt in targets:
+        if i >= len(words):
+            return words
+        s0, e0, acc = words[i][0], words[i][1], _letters(words[i][2])
+        i += 1
+        while acc != tgt and len(acc) < len(tgt) and i < len(words):
+            e0 = words[i][1]
+            acc += _letters(words[i][2])
+            i += 1
+        if acc != tgt:
+            return words  # could not match: keep the voice's own timings
+        out.append((s0, e0, tgt))
+    return out
+
+
 def synth(speaker, text, path, rate=RATE):
+    said = spoken(text)
+    return realign(_synth(speaker, said, path, rate), text, said)
+
+
+def _synth(speaker, text, path, rate=RATE):
     """Always the character's own voice: retry patiently instead of switching to another voice mid-video.
 
     The fallback voice is used only if NO_VOICE_FALLBACK is not set and the main voice failed 8 times."""

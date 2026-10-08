@@ -1,0 +1,31 @@
+{
+  "_about": "How the English voices should say Japanese words. Only the audio uses these spellings; captions and scripts keep the normal spelling. Keys match whole words, ignoring case. Add new words here.",
+  "words": {
+    "onigiri": "oh-nee-ghee-ree",
+    "Kato-san": "Kah-toh-sahn",
+    "Kato": "Kah-toh",
+    "Ryo": "Ryoh",
+    "Kenta": "Ken-tah",
+    "Sena": "Seh-nah",
+    "Sato": "Sah-toh",
+    "kinkyou": "keen-kyoh",
+    "nemawashi": "neh-mah-wah-shee",
+    "daijoubu": "dye-joh-boo",
+    "yarikake": "yah-ree-kah-keh",
+    "tatemae": "tah-teh-mah-eh",
+    "honne": "hohn-neh",
+    "kuuki wo yomu": "koo-kee oh yoh-moo",
+    "hou-ren-sou": "hoh-ren-soh",
+    "tojisha ishiki": "toh-jee-shah ee-shee-kee",
+    "sasshi": "sahs-shee",
+    "ringi": "reen-ghee",
+    "otsukaresama": "oh-tsoo-kah-reh-sah-mah",
+    "moushiwake gozaimasen": "moh-shee-wah-keh goh-zye-mah-sen",
+    "meiwaku": "may-wah-koo",
+    "kenson": "ken-sohn",
+    "kachou": "kah-choh",
+    "hansei": "hahn-say",
+    "deru kugi wa utareru": "deh-roo koo-ghee wah oo-tah-reh-roo",
+    "zensho shimasu": "zen-shoh shee-mahss"
+  }
+}

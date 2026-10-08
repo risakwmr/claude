@@ -36,6 +36,17 @@
   "id": "2026-10-10-night",
   "date": "2026-10-10",
   "time": "21:00",
+  "article": "日常：AIを開く前の30秒",
+  "source": "x-posts/daily.md",
+  "post": "d01",
+  "text": "チャッピー開く前の30秒だけは、自分で考えるようにしてる。\n「私は本当はどう思ってる？」\n「何が分からない？」\n「何を決めたい？」\nここまでは私の担当。そのあとはお願いします、チャッピー。",
+  "link": "https://x.com/intent/post?text=%E3%83%81%E3%83%A3%E3%83%83%E3%83%94%E3%83%BC%E9%96%8B%E3%81%8F%E5%89%8D%E3%81%AE30%E7%A7%92%E3%81%A0%E3%81%91%E3%81%AF%E3%80%81%E8%87%AA%E5%88%86%E3%81%A7%E8%80%83%E3%81%88%E3%82%8B%E3%82%88%E3%81%86%E3%81%AB%E3%81%97%E3%81%A6%E3%82%8B%E3%80%82%0A%E3%80%8C%E7%A7%81%E3%81%AF%E6%9C%AC%E5%BD%93%E3%81%AF%E3%81%A9%E3%81%86%E6%80%9D%E3%81%A3%E3%81%A6%E3%82%8B%EF%BC%9F%E3%80%8D%0A%E3%80%8C%E4%BD%95%E3%81%8C%E5%88%86%E3%81%8B%E3%82%89%E3%81%AA%E3%81%84%EF%BC%9F%E3%80%8D%0A%E3%80%8C%E4%BD%95%E3%82%92%E6%B1%BA%E3%82%81%E3%81%9F%E3%81%84%EF%BC%9F%E3%80%8D%0A%E3%81%93%E3%81%93%E3%81%BE%E3%81%A7%E3%81%AF%E7%A7%81%E3%81%AE%E6%8B%85%E5%BD%93%E3%80%82%E3%81%9D%E3%81%AE%E3%81%82%E3%81%A8%E3%81%AF%E3%81%8A%E9%A1%98%E3%81%84%E3%81%97%E3%81%BE%E3%81%99%E3%80%81%E3%83%81%E3%83%A3%E3%83%83%E3%83%94%E3%83%BC%E3%80%82",
+  "status": "queued"
+ },
+ {
+  "id": "2026-10-11-noon",
+  "date": "2026-10-11",
+  "time": "12:30",
   "article": "AIに渡す仕事、渡さない仕事 #01",
   "source": "x-posts/published/04-ai-tasks-01.md",
   "post": "1. 最初に紹介する日",
@@ -44,9 +55,9 @@
   "status": "queued"
  },
  {
-  "id": "2026-10-11-noon",
+  "id": "2026-10-11-night",
   "date": "2026-10-11",
-  "time": "12:30",
+  "time": "21:00",
   "article": "外資テック解剖 #01",
   "source": "x-posts/published/05-gaishi-01-feedback.md",
   "post": "3. 本音・ひとりごと型",
@@ -55,9 +66,9 @@
   "status": "queued"
  },
  {
-  "id": "2026-10-11-night",
-  "date": "2026-10-11",
-  "time": "21:00",
+  "id": "2026-10-12-noon",
+  "date": "2026-10-12",
+  "time": "12:30",
   "article": "英語で考えると、少しだけ冷静になれる？",
   "source": "x-posts/published/06-english-calm.md",
   "post": "2. 数日後",
@@ -66,8 +77,19 @@
   "status": "queued"
  },
  {
-  "id": "2026-10-12-noon",
+  "id": "2026-10-12-night",
   "date": "2026-10-12",
+  "time": "21:00",
+  "article": "日常：「私に質問して」と頼む",
+  "source": "x-posts/daily.md",
+  "post": "d02",
+  "text": "チャッピーにいちばんよく頼むのは\n「私に質問して」。\n答えをもらうより先に、質問してもらう。\n頭の中を外に出すの、苦手なので。笑",
+  "link": "https://x.com/intent/post?text=%E3%83%81%E3%83%A3%E3%83%83%E3%83%94%E3%83%BC%E3%81%AB%E3%81%84%E3%81%A1%E3%81%B0%E3%82%93%E3%82%88%E3%81%8F%E9%A0%BC%E3%82%80%E3%81%AE%E3%81%AF%0A%E3%80%8C%E7%A7%81%E3%81%AB%E8%B3%AA%E5%95%8F%E3%81%97%E3%81%A6%E3%80%8D%E3%80%82%0A%E7%AD%94%E3%81%88%E3%82%92%E3%82%82%E3%82%89%E3%81%86%E3%82%88%E3%82%8A%E5%85%88%E3%81%AB%E3%80%81%E8%B3%AA%E5%95%8F%E3%81%97%E3%81%A6%E3%82%82%E3%82%89%E3%81%86%E3%80%82%0A%E9%A0%AD%E3%81%AE%E4%B8%AD%E3%82%92%E5%A4%96%E3%81%AB%E5%87%BA%E3%81%99%E3%81%AE%E3%80%81%E8%8B%A6%E6%89%8B%E3%81%AA%E3%81%AE%E3%81%A7%E3%80%82%E7%AC%91",
+  "status": "queued"
+ },
+ {
+  "id": "2026-10-13-noon",
+  "date": "2026-10-13",
   "time": "12:30",
   "article": "職場に、心の調子をどこまで伝える？",
   "source": "x-posts/published/07-disclosure.md",
@@ -77,8 +99,8 @@
   "status": "queued"
  },
  {
-  "id": "2026-10-12-night",
-  "date": "2026-10-12",
+  "id": "2026-10-13-night",
+  "date": "2026-10-13",
   "time": "21:00",
   "article": "知能検査を受ければ、ADHDかどうか分かる？",
   "source": "x-posts/published/08-iq-test-adhd.md",
@@ -88,8 +110,8 @@
   "status": "queued"
  },
  {
-  "id": "2026-10-13-noon",
-  "date": "2026-10-13",
+  "id": "2026-10-14-noon",
+  "date": "2026-10-14",
   "time": "12:30",
   "article": "AIに心の話をするとき、私が決めている線引き",
   "source": "x-posts/published/09-ai-mental-line.md",
@@ -99,9 +121,20 @@
   "status": "queued"
  },
  {
-  "id": "2026-10-13-night",
-  "date": "2026-10-13",
+  "id": "2026-10-14-night",
+  "date": "2026-10-14",
   "time": "21:00",
+  "article": "日常：先に自分の案を置いてから聞く",
+  "source": "x-posts/daily.md",
+  "post": "d03",
+  "text": "AIに聞くときは、いきなり「どうしたらいい？」じゃなくて\n「私はこう思ったんだけど、どう思う？」が多い。\n先に自分の案を置いておくと、比べられるので。",
+  "link": "https://x.com/intent/post?text=AI%E3%81%AB%E8%81%9E%E3%81%8F%E3%81%A8%E3%81%8D%E3%81%AF%E3%80%81%E3%81%84%E3%81%8D%E3%81%AA%E3%82%8A%E3%80%8C%E3%81%A9%E3%81%86%E3%81%97%E3%81%9F%E3%82%89%E3%81%84%E3%81%84%EF%BC%9F%E3%80%8D%E3%81%98%E3%82%83%E3%81%AA%E3%81%8F%E3%81%A6%0A%E3%80%8C%E7%A7%81%E3%81%AF%E3%81%93%E3%81%86%E6%80%9D%E3%81%A3%E3%81%9F%E3%82%93%E3%81%A0%E3%81%91%E3%81%A9%E3%80%81%E3%81%A9%E3%81%86%E6%80%9D%E3%81%86%EF%BC%9F%E3%80%8D%E3%81%8C%E5%A4%9A%E3%81%84%E3%80%82%0A%E5%85%88%E3%81%AB%E8%87%AA%E5%88%86%E3%81%AE%E6%A1%88%E3%82%92%E7%BD%AE%E3%81%84%E3%81%A6%E3%81%8A%E3%81%8F%E3%81%A8%E3%80%81%E6%AF%94%E3%81%B9%E3%82%89%E3%82%8C%E3%82%8B%E3%81%AE%E3%81%A7%E3%80%82",
+  "status": "queued"
+ },
+ {
+  "id": "2026-10-15-noon",
+  "date": "2026-10-15",
+  "time": "12:30",
   "article": "外資テック解剖 #02",
   "source": "x-posts/published/10-gaishi-02-evaluation.md",
   "post": "2. 数日後",
@@ -110,9 +143,9 @@
   "status": "queued"
  },
  {
-  "id": "2026-10-14-noon",
-  "date": "2026-10-14",
-  "time": "12:30",
+  "id": "2026-10-15-night",
+  "date": "2026-10-15",
+  "time": "21:00",
   "article": "ChatGPTを使うと考える力が落ちるのか",
   "source": "x-posts/published/11-chatgpt-thinking.md",
   "post": "3. 本音・ひとりごと型",
@@ -121,9 +154,9 @@
   "status": "queued"
  },
  {
-  "id": "2026-10-14-night",
-  "date": "2026-10-14",
-  "time": "21:00",
+  "id": "2026-10-16-noon",
+  "date": "2026-10-16",
+  "time": "12:30",
   "article": "留学すると、心の調子は崩れやすい？",
   "source": "x-posts/published/12-study-abroad.md",
   "post": "3. 本音・ひとりごと型",
@@ -132,8 +165,19 @@
   "status": "queued"
  },
  {
-  "id": "2026-10-15-noon",
-  "date": "2026-10-15",
+  "id": "2026-10-16-night",
+  "date": "2026-10-16",
+  "time": "21:00",
+  "article": "日常：英語のメール・Slackと線引き",
+  "source": "x-posts/daily.md",
+  "post": "d04",
+  "text": "英語のメールやSlackの返信、AIに整えてもらってる。\nでも英語を全部任せたくはない。\n（英語は今も勉強中なので、、、）",
+  "link": "https://x.com/intent/post?text=%E8%8B%B1%E8%AA%9E%E3%81%AE%E3%83%A1%E3%83%BC%E3%83%AB%E3%82%84Slack%E3%81%AE%E8%BF%94%E4%BF%A1%E3%80%81AI%E3%81%AB%E6%95%B4%E3%81%88%E3%81%A6%E3%82%82%E3%82%89%E3%81%A3%E3%81%A6%E3%82%8B%E3%80%82%0A%E3%81%A7%E3%82%82%E8%8B%B1%E8%AA%9E%E3%82%92%E5%85%A8%E9%83%A8%E4%BB%BB%E3%81%9B%E3%81%9F%E3%81%8F%E3%81%AF%E3%81%AA%E3%81%84%E3%80%82%0A%EF%BC%88%E8%8B%B1%E8%AA%9E%E3%81%AF%E4%BB%8A%E3%82%82%E5%8B%89%E5%BC%B7%E4%B8%AD%E3%81%AA%E3%81%AE%E3%81%A7%E3%80%81%E3%80%81%E3%80%81%EF%BC%89",
+  "status": "queued"
+ },
+ {
+  "id": "2026-10-17-noon",
+  "date": "2026-10-17",
   "time": "12:30",
   "article": "ADHDの「強み」は本当にあるの？",
   "source": "x-posts/published/13-adhd-strengths.md",
@@ -143,8 +187,8 @@
   "status": "queued"
  },
  {
-  "id": "2026-10-15-night",
-  "date": "2026-10-15",
+  "id": "2026-10-17-night",
+  "date": "2026-10-17",
   "time": "21:00",
   "article": "外資テック解剖 #03",
   "source": "x-posts/published/14-gaishi-03-portable.md",
@@ -154,8 +198,8 @@
   "status": "queued"
  },
  {
-  "id": "2026-10-16-noon",
-  "date": "2026-10-16",
+  "id": "2026-10-18-noon",
+  "date": "2026-10-18",
   "time": "12:30",
   "article": "うつと付き合いながらGAFAMで働く私が、noteを始めた理由",
   "source": "x-posts/published/01-intro.md",
@@ -165,9 +209,20 @@
   "status": "queued"
  },
  {
-  "id": "2026-10-16-night",
-  "date": "2026-10-16",
+  "id": "2026-10-18-night",
+  "date": "2026-10-18",
   "time": "21:00",
+  "article": "日常：タスクの洗い出し（【　】を埋めてから投稿）",
+  "source": "x-posts/daily.md",
+  "post": "d05",
+  "text": "チャットやメールからタスクを洗い出してもらうの、地味にかなり助かる。\n今日出てきたのは【　】個。\n……見なかったことにしたい。笑",
+  "link": "https://x.com/intent/post?text=%E3%83%81%E3%83%A3%E3%83%83%E3%83%88%E3%82%84%E3%83%A1%E3%83%BC%E3%83%AB%E3%81%8B%E3%82%89%E3%82%BF%E3%82%B9%E3%82%AF%E3%82%92%E6%B4%97%E3%81%84%E5%87%BA%E3%81%97%E3%81%A6%E3%82%82%E3%82%89%E3%81%86%E3%81%AE%E3%80%81%E5%9C%B0%E5%91%B3%E3%81%AB%E3%81%8B%E3%81%AA%E3%82%8A%E5%8A%A9%E3%81%8B%E3%82%8B%E3%80%82%0A%E4%BB%8A%E6%97%A5%E5%87%BA%E3%81%A6%E3%81%8D%E3%81%9F%E3%81%AE%E3%81%AF%E3%80%90%E3%80%80%E3%80%91%E5%80%8B%E3%80%82%0A%E2%80%A6%E2%80%A6%E8%A6%8B%E3%81%AA%E3%81%8B%E3%81%A3%E3%81%9F%E3%81%93%E3%81%A8%E3%81%AB%E3%81%97%E3%81%9F%E3%81%84%E3%80%82%E7%AC%91",
+  "status": "queued"
+ },
+ {
+  "id": "2026-10-19-noon",
+  "date": "2026-10-19",
+  "time": "12:30",
   "article": "GAFAMを2社渡り歩いてわかった、「共通点」と「決定的な違い」",
   "source": "x-posts/published/02-gafam-two-companies.md",
   "post": "1. 最初に紹介する日",
@@ -176,9 +231,9 @@
   "status": "queued"
  },
  {
-  "id": "2026-10-17-noon",
-  "date": "2026-10-17",
-  "time": "12:30",
+  "id": "2026-10-19-night",
+  "date": "2026-10-19",
+  "time": "21:00",
   "article": "100%で働けない日の仕事術",
   "source": "x-posts/published/03-100percent.md",
   "post": "1. 最初に紹介する日",
@@ -187,9 +242,9 @@
   "status": "queued"
  },
  {
-  "id": "2026-10-17-night",
-  "date": "2026-10-17",
-  "time": "21:00",
+  "id": "2026-10-20-noon",
+  "date": "2026-10-20",
+  "time": "12:30",
   "article": "AIに渡す仕事、渡さない仕事 #01",
   "source": "x-posts/published/04-ai-tasks-01.md",
   "post": "2. 数日後",
@@ -198,8 +253,19 @@
   "status": "queued"
  },
  {
-  "id": "2026-10-18-noon",
-  "date": "2026-10-18",
+  "id": "2026-10-20-night",
+  "date": "2026-10-20",
+  "time": "21:00",
+  "article": "日常：速くなった整理と浮いた時間",
+  "source": "x-posts/daily.md",
+  "post": "d06",
+  "text": "前は30分〜1時間かけてた整理が、AIでかなり速くなった。\nで、浮いた時間をちゃんと「考える」ほうに使えてるかというと、、、\nそれはまた別の話。",
+  "link": "https://x.com/intent/post?text=%E5%89%8D%E3%81%AF30%E5%88%86%E3%80%9C1%E6%99%82%E9%96%93%E3%81%8B%E3%81%91%E3%81%A6%E3%81%9F%E6%95%B4%E7%90%86%E3%81%8C%E3%80%81AI%E3%81%A7%E3%81%8B%E3%81%AA%E3%82%8A%E9%80%9F%E3%81%8F%E3%81%AA%E3%81%A3%E3%81%9F%E3%80%82%0A%E3%81%A7%E3%80%81%E6%B5%AE%E3%81%84%E3%81%9F%E6%99%82%E9%96%93%E3%82%92%E3%81%A1%E3%82%83%E3%82%93%E3%81%A8%E3%80%8C%E8%80%83%E3%81%88%E3%82%8B%E3%80%8D%E3%81%BB%E3%81%86%E3%81%AB%E4%BD%BF%E3%81%88%E3%81%A6%E3%82%8B%E3%81%8B%E3%81%A8%E3%81%84%E3%81%86%E3%81%A8%E3%80%81%E3%80%81%E3%80%81%0A%E3%81%9D%E3%82%8C%E3%81%AF%E3%81%BE%E3%81%9F%E5%88%A5%E3%81%AE%E8%A9%B1%E3%80%82",
+  "status": "queued"
+ },
+ {
+  "id": "2026-10-21-noon",
+  "date": "2026-10-21",
   "time": "12:30",
   "article": "外資テック解剖 #01",
   "source": "x-posts/published/05-gaishi-01-feedback.md",
@@ -209,8 +275,8 @@
   "status": "queued"
  },
  {
-  "id": "2026-10-18-night",
-  "date": "2026-10-18",
+  "id": "2026-10-21-night",
+  "date": "2026-10-21",
   "time": "21:00",
   "article": "英語で考えると、少しだけ冷静になれる？",
   "source": "x-posts/published/06-english-calm.md",
@@ -220,8 +286,8 @@
   "status": "queued"
  },
  {
-  "id": "2026-10-19-noon",
-  "date": "2026-10-19",
+  "id": "2026-10-22-noon",
+  "date": "2026-10-22",
   "time": "12:30",
   "article": "職場に、心の調子をどこまで伝える？",
   "source": "x-posts/published/07-disclosure.md",
@@ -231,9 +297,20 @@
   "status": "queued"
  },
  {
-  "id": "2026-10-19-night",
-  "date": "2026-10-19",
+  "id": "2026-10-22-night",
+  "date": "2026-10-22",
   "time": "21:00",
+  "article": "日常：見た目はAI、確認は自分",
+  "source": "x-posts/daily.md",
+  "post": "d07",
+  "text": "資料のインフォグラフィック、AIに作ってもらうとそれっぽくなる。\nでも「それっぽい」と「合ってる」は別。\n見た目はAI、内容の最終確認は自分。",
+  "link": "https://x.com/intent/post?text=%E8%B3%87%E6%96%99%E3%81%AE%E3%82%A4%E3%83%B3%E3%83%95%E3%82%A9%E3%82%B0%E3%83%A9%E3%83%95%E3%82%A3%E3%83%83%E3%82%AF%E3%80%81AI%E3%81%AB%E4%BD%9C%E3%81%A3%E3%81%A6%E3%82%82%E3%82%89%E3%81%86%E3%81%A8%E3%81%9D%E3%82%8C%E3%81%A3%E3%81%BD%E3%81%8F%E3%81%AA%E3%82%8B%E3%80%82%0A%E3%81%A7%E3%82%82%E3%80%8C%E3%81%9D%E3%82%8C%E3%81%A3%E3%81%BD%E3%81%84%E3%80%8D%E3%81%A8%E3%80%8C%E5%90%88%E3%81%A3%E3%81%A6%E3%82%8B%E3%80%8D%E3%81%AF%E5%88%A5%E3%80%82%0A%E8%A6%8B%E3%81%9F%E7%9B%AE%E3%81%AFAI%E3%80%81%E5%86%85%E5%AE%B9%E3%81%AE%E6%9C%80%E7%B5%82%E7%A2%BA%E8%AA%8D%E3%81%AF%E8%87%AA%E5%88%86%E3%80%82",
+  "status": "queued"
+ },
+ {
+  "id": "2026-10-23-noon",
+  "date": "2026-10-23",
+  "time": "12:30",
   "article": "知能検査を受ければ、ADHDかどうか分かる？",
   "source": "x-posts/published/08-iq-test-adhd.md",
   "post": "1. 最初に紹介する日",
@@ -242,9 +319,9 @@
   "status": "queued"
  },
  {
-  "id": "2026-10-20-noon",
-  "date": "2026-10-20",
-  "time": "12:30",
+  "id": "2026-10-23-night",
+  "date": "2026-10-23",
+  "time": "21:00",
   "article": "AIに心の話をするとき、私が決めている線引き",
   "source": "x-posts/published/09-ai-mental-line.md",
   "post": "1. 最初に紹介する日",
@@ -253,9 +330,9 @@
   "status": "queued"
  },
  {
-  "id": "2026-10-20-night",
-  "date": "2026-10-20",
-  "time": "21:00",
+  "id": "2026-10-24-noon",
+  "date": "2026-10-24",
+  "time": "12:30",
   "article": "外資テック解剖 #02",
   "source": "x-posts/published/10-gaishi-02-evaluation.md",
   "post": "1. 最初に紹介する日",
@@ -264,8 +341,19 @@
   "status": "queued"
  },
  {
-  "id": "2026-10-21-noon",
-  "date": "2026-10-21",
+  "id": "2026-10-24-night",
+  "date": "2026-10-24",
+  "time": "21:00",
+  "article": "日常：奪われるより考えなくなるのが怖い",
+  "source": "x-posts/daily.md",
+  "post": "d08",
+  "text": "AIに仕事を奪われるより、\nAIに頼りすぎて自分で考えなくなるほうが、正直こわい。\n便利なのは本当。だから余計に。",
+  "link": "https://x.com/intent/post?text=AI%E3%81%AB%E4%BB%95%E4%BA%8B%E3%82%92%E5%A5%AA%E3%82%8F%E3%82%8C%E3%82%8B%E3%82%88%E3%82%8A%E3%80%81%0AAI%E3%81%AB%E9%A0%BC%E3%82%8A%E3%81%99%E3%81%8E%E3%81%A6%E8%87%AA%E5%88%86%E3%81%A7%E8%80%83%E3%81%88%E3%81%AA%E3%81%8F%E3%81%AA%E3%82%8B%E3%81%BB%E3%81%86%E3%81%8C%E3%80%81%E6%AD%A3%E7%9B%B4%E3%81%93%E3%82%8F%E3%81%84%E3%80%82%0A%E4%BE%BF%E5%88%A9%E3%81%AA%E3%81%AE%E3%81%AF%E6%9C%AC%E5%BD%93%E3%80%82%E3%81%A0%E3%81%8B%E3%82%89%E4%BD%99%E8%A8%88%E3%81%AB%E3%80%82",
+  "status": "queued"
+ },
+ {
+  "id": "2026-10-25-noon",
+  "date": "2026-10-25",
   "time": "12:30",
   "article": "ChatGPTを使うと考える力が落ちるのか",
   "source": "x-posts/published/11-chatgpt-thinking.md",
@@ -275,8 +363,8 @@
   "status": "queued"
  },
  {
-  "id": "2026-10-21-night",
-  "date": "2026-10-21",
+  "id": "2026-10-25-night",
+  "date": "2026-10-25",
   "time": "21:00",
   "article": "留学すると、心の調子は崩れやすい？",
   "source": "x-posts/published/12-study-abroad.md",
@@ -286,8 +374,8 @@
   "status": "queued"
  },
  {
-  "id": "2026-10-22-noon",
-  "date": "2026-10-22",
+  "id": "2026-10-26-noon",
+  "date": "2026-10-26",
   "time": "12:30",
   "article": "ADHDの「強み」は本当にあるの？",
   "source": "x-posts/published/13-adhd-strengths.md",
@@ -297,9 +385,20 @@
   "status": "queued"
  },
  {
-  "id": "2026-10-22-night",
-  "date": "2026-10-22",
+  "id": "2026-10-26-night",
+  "date": "2026-10-26",
   "time": "21:00",
+  "article": "日常：AIに渡す仕事の決め方",
+  "source": "x-posts/daily.md",
+  "post": "d09",
+  "text": "AIに渡す仕事は、\n「間違ってたら私が気づけるか」で決めてる。\n気づけないものは、まだ渡さない。\nAIが悪いんじゃなくて、私が確認できないので。",
+  "link": "https://x.com/intent/post?text=AI%E3%81%AB%E6%B8%A1%E3%81%99%E4%BB%95%E4%BA%8B%E3%81%AF%E3%80%81%0A%E3%80%8C%E9%96%93%E9%81%95%E3%81%A3%E3%81%A6%E3%81%9F%E3%82%89%E7%A7%81%E3%81%8C%E6%B0%97%E3%81%A5%E3%81%91%E3%82%8B%E3%81%8B%E3%80%8D%E3%81%A7%E6%B1%BA%E3%82%81%E3%81%A6%E3%82%8B%E3%80%82%0A%E6%B0%97%E3%81%A5%E3%81%91%E3%81%AA%E3%81%84%E3%82%82%E3%81%AE%E3%81%AF%E3%80%81%E3%81%BE%E3%81%A0%E6%B8%A1%E3%81%95%E3%81%AA%E3%81%84%E3%80%82%0AAI%E3%81%8C%E6%82%AA%E3%81%84%E3%82%93%E3%81%98%E3%82%83%E3%81%AA%E3%81%8F%E3%81%A6%E3%80%81%E7%A7%81%E3%81%8C%E7%A2%BA%E8%AA%8D%E3%81%A7%E3%81%8D%E3%81%AA%E3%81%84%E3%81%AE%E3%81%A7%E3%80%82",
+  "status": "queued"
+ },
+ {
+  "id": "2026-10-27-noon",
+  "date": "2026-10-27",
+  "time": "12:30",
   "article": "外資テック解剖 #03",
   "source": "x-posts/published/14-gaishi-03-portable.md",
   "post": "2. 数日後",
@@ -308,9 +407,9 @@
   "status": "queued"
  },
  {
-  "id": "2026-10-23-noon",
-  "date": "2026-10-23",
-  "time": "12:30",
+  "id": "2026-10-27-night",
+  "date": "2026-10-27",
+  "time": "21:00",
   "article": "うつと付き合いながらGAFAMで働く私が、noteを始めた理由",
   "source": "x-posts/published/01-intro.md",
   "post": "3. 本音・ひとりごと型",
@@ -319,9 +418,9 @@
   "status": "queued"
  },
  {
-  "id": "2026-10-23-night",
-  "date": "2026-10-23",
-  "time": "21:00",
+  "id": "2026-10-28-noon",
+  "date": "2026-10-28",
+  "time": "12:30",
   "article": "GAFAMを2社渡り歩いてわかった、「共通点」と「決定的な違い」",
   "source": "x-posts/published/02-gafam-two-companies.md",
   "post": "3. 本音・ひとりごと型",
@@ -330,8 +429,19 @@
   "status": "queued"
  },
  {
-  "id": "2026-10-24-noon",
-  "date": "2026-10-24",
+  "id": "2026-10-28-night",
+  "date": "2026-10-28",
+  "time": "21:00",
+  "article": "日常：ピラティス（🟡好みが合っているか確認）（【　】を埋めてから投稿）",
+  "source": "x-posts/daily.md",
+  "post": "d10",
+  "text": "今日のピラティス、【　】がいちばんきつかった、、、\nでも続けてたら、姿勢がちょっと伸びてきた気がする。\n（気がするだけかもしれない）",
+  "link": "https://x.com/intent/post?text=%E4%BB%8A%E6%97%A5%E3%81%AE%E3%83%94%E3%83%A9%E3%83%86%E3%82%A3%E3%82%B9%E3%80%81%E3%80%90%E3%80%80%E3%80%91%E3%81%8C%E3%81%84%E3%81%A1%E3%81%B0%E3%82%93%E3%81%8D%E3%81%A4%E3%81%8B%E3%81%A3%E3%81%9F%E3%80%81%E3%80%81%E3%80%81%0A%E3%81%A7%E3%82%82%E7%B6%9A%E3%81%91%E3%81%A6%E3%81%9F%E3%82%89%E3%80%81%E5%A7%BF%E5%8B%A2%E3%81%8C%E3%81%A1%E3%82%87%E3%81%A3%E3%81%A8%E4%BC%B8%E3%81%B3%E3%81%A6%E3%81%8D%E3%81%9F%E6%B0%97%E3%81%8C%E3%81%99%E3%82%8B%E3%80%82%0A%EF%BC%88%E6%B0%97%E3%81%8C%E3%81%99%E3%82%8B%E3%81%A0%E3%81%91%E3%81%8B%E3%82%82%E3%81%97%E3%82%8C%E3%81%AA%E3%81%84%EF%BC%89",
+  "status": "queued"
+ },
+ {
+  "id": "2026-10-29-noon",
+  "date": "2026-10-29",
   "time": "12:30",
   "article": "100%で働けない日の仕事術",
   "source": "x-posts/published/03-100percent.md",
@@ -341,8 +451,8 @@
   "status": "queued"
  },
  {
-  "id": "2026-10-24-night",
-  "date": "2026-10-24",
+  "id": "2026-10-29-night",
+  "date": "2026-10-29",
   "time": "21:00",
   "article": "AIに渡す仕事、渡さない仕事 #01",
   "source": "x-posts/published/04-ai-tasks-01.md",
@@ -352,8 +462,8 @@
   "status": "queued"
  },
  {
-  "id": "2026-10-25-noon",
-  "date": "2026-10-25",
+  "id": "2026-10-30-noon",
+  "date": "2026-10-30",
   "time": "12:30",
   "article": "外資テック解剖 #01",
   "source": "x-posts/published/05-gaishi-01-feedback.md",
@@ -363,9 +473,20 @@
   "status": "queued"
  },
  {
-  "id": "2026-10-25-night",
-  "date": "2026-10-25",
+  "id": "2026-10-30-night",
+  "date": "2026-10-30",
   "time": "21:00",
+  "article": "日常：フォーとトムカーガイ（🟡好みが合っているか確認）",
+  "source": "x-posts/daily.md",
+  "post": "d11",
+  "text": "フォーはずっと好き。\nで、最近気になってるのがトムカーガイ。\nココナッツミルクのスープって聞いただけで、もう優しい。\nアジアのスープ系に弱いのかもしれない。",
+  "link": "https://x.com/intent/post?text=%E3%83%95%E3%82%A9%E3%83%BC%E3%81%AF%E3%81%9A%E3%81%A3%E3%81%A8%E5%A5%BD%E3%81%8D%E3%80%82%0A%E3%81%A7%E3%80%81%E6%9C%80%E8%BF%91%E6%B0%97%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%A6%E3%82%8B%E3%81%AE%E3%81%8C%E3%83%88%E3%83%A0%E3%82%AB%E3%83%BC%E3%82%AC%E3%82%A4%E3%80%82%0A%E3%82%B3%E3%82%B3%E3%83%8A%E3%83%83%E3%83%84%E3%83%9F%E3%83%AB%E3%82%AF%E3%81%AE%E3%82%B9%E3%83%BC%E3%83%97%E3%81%A3%E3%81%A6%E8%81%9E%E3%81%84%E3%81%9F%E3%81%A0%E3%81%91%E3%81%A7%E3%80%81%E3%82%82%E3%81%86%E5%84%AA%E3%81%97%E3%81%84%E3%80%82%0A%E3%82%A2%E3%82%B8%E3%82%A2%E3%81%AE%E3%82%B9%E3%83%BC%E3%83%97%E7%B3%BB%E3%81%AB%E5%BC%B1%E3%81%84%E3%81%AE%E3%81%8B%E3%82%82%E3%81%97%E3%82%8C%E3%81%AA%E3%81%84%E3%80%82",
+  "status": "queued"
+ },
+ {
+  "id": "2026-10-31-noon",
+  "date": "2026-10-31",
+  "time": "12:30",
   "article": "英語で考えると、少しだけ冷静になれる？",
   "source": "x-posts/published/06-english-calm.md",
   "post": "3. 本音・ひとりごと型",
@@ -374,9 +495,9 @@
   "status": "queued"
  },
  {
-  "id": "2026-10-26-noon",
-  "date": "2026-10-26",
-  "time": "12:30",
+  "id": "2026-10-31-night",
+  "date": "2026-10-31",
+  "time": "21:00",
   "article": "職場に、心の調子をどこまで伝える？",
   "source": "x-posts/published/07-disclosure.md",
   "post": "2. 数日後",
@@ -385,9 +506,9 @@
   "status": "queued"
  },
  {
-  "id": "2026-10-26-night",
-  "date": "2026-10-26",
-  "time": "21:00",
+  "id": "2026-11-01-noon",
+  "date": "2026-11-01",
+  "time": "12:30",
   "article": "知能検査を受ければ、ADHDかどうか分かる？",
   "source": "x-posts/published/08-iq-test-adhd.md",
   "post": "2. 数日後",
@@ -396,8 +517,19 @@
   "status": "queued"
  },
  {
-  "id": "2026-10-27-noon",
-  "date": "2026-10-27",
+  "id": "2026-11-01-night",
+  "date": "2026-11-01",
+  "time": "21:00",
+  "article": "日常：ボードゲーム（🟡好みが合っているか確認）（【　】を埋めてから投稿）",
+  "source": "x-posts/daily.md",
+  "post": "d12",
+  "text": "ボードゲームはカタンとウイングスパンが好き。\nカタン、気づくと【　】ばっかり集めてる。\n戦略というより、もはや好み。笑",
+  "link": "https://x.com/intent/post?text=%E3%83%9C%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%E3%81%AF%E3%82%AB%E3%82%BF%E3%83%B3%E3%81%A8%E3%82%A6%E3%82%A4%E3%83%B3%E3%82%B0%E3%82%B9%E3%83%91%E3%83%B3%E3%81%8C%E5%A5%BD%E3%81%8D%E3%80%82%0A%E3%82%AB%E3%82%BF%E3%83%B3%E3%80%81%E6%B0%97%E3%81%A5%E3%81%8F%E3%81%A8%E3%80%90%E3%80%80%E3%80%91%E3%81%B0%E3%81%A3%E3%81%8B%E3%82%8A%E9%9B%86%E3%82%81%E3%81%A6%E3%82%8B%E3%80%82%0A%E6%88%A6%E7%95%A5%E3%81%A8%E3%81%84%E3%81%86%E3%82%88%E3%82%8A%E3%80%81%E3%82%82%E3%81%AF%E3%82%84%E5%A5%BD%E3%81%BF%E3%80%82%E7%AC%91",
+  "status": "queued"
+ },
+ {
+  "id": "2026-11-02-noon",
+  "date": "2026-11-02",
   "time": "12:30",
   "article": "AIに心の話をするとき、私が決めている線引き",
   "source": "x-posts/published/09-ai-mental-line.md",
@@ -407,8 +539,8 @@
   "status": "queued"
  },
  {
-  "id": "2026-10-27-night",
-  "date": "2026-10-27",
+  "id": "2026-11-02-night",
+  "date": "2026-11-02",
   "time": "21:00",
   "article": "外資テック解剖 #02",
   "source": "x-posts/published/10-gaishi-02-evaluation.md",
@@ -418,8 +550,8 @@
   "status": "queued"
  },
  {
-  "id": "2026-10-28-noon",
-  "date": "2026-10-28",
+  "id": "2026-11-03-noon",
+  "date": "2026-11-03",
   "time": "12:30",
   "article": "ChatGPTを使うと考える力が落ちるのか",
   "source": "x-posts/published/11-chatgpt-thinking.md",
@@ -429,8 +561,8 @@
   "status": "queued"
  },
  {
-  "id": "2026-10-28-night",
-  "date": "2026-10-28",
+  "id": "2026-11-03-night",
+  "date": "2026-11-03",
   "time": "21:00",
   "article": "留学すると、心の調子は崩れやすい？",
   "source": "x-posts/published/12-study-abroad.md",
@@ -440,8 +572,8 @@
   "status": "queued"
  },
  {
-  "id": "2026-10-29-noon",
-  "date": "2026-10-29",
+  "id": "2026-11-04-noon",
+  "date": "2026-11-04",
   "time": "12:30",
   "article": "ADHDの「強み」は本当にあるの？",
   "source": "x-posts/published/13-adhd-strengths.md",
@@ -451,8 +583,8 @@
   "status": "queued"
  },
  {
-  "id": "2026-10-29-night",
-  "date": "2026-10-29",
+  "id": "2026-11-04-night",
+  "date": "2026-11-04",
   "time": "21:00",
   "article": "外資テック解剖 #03",
   "source": "x-posts/published/14-gaishi-03-portable.md",
@@ -462,8 +594,8 @@
   "status": "queued"
  },
  {
-  "id": "2026-10-30-noon",
-  "date": "2026-10-30",
+  "id": "2026-11-05-noon",
+  "date": "2026-11-05",
   "time": "12:30",
   "article": "うつと付き合いながらGAFAMで働く私が、noteを始めた理由",
   "source": "x-posts/published/01-intro.md",
@@ -473,8 +605,8 @@
   "status": "queued"
  },
  {
-  "id": "2026-10-30-night",
-  "date": "2026-10-30",
+  "id": "2026-11-05-night",
+  "date": "2026-11-05",
   "time": "21:00",
   "article": "GAFAMを2社渡り歩いてわかった、「共通点」と「決定的な違い」",
   "source": "x-posts/published/02-gafam-two-companies.md",
@@ -484,8 +616,8 @@
   "status": "queued"
  },
  {
-  "id": "2026-10-31-noon",
-  "date": "2026-10-31",
+  "id": "2026-11-06-noon",
+  "date": "2026-11-06",
   "time": "12:30",
   "article": "100%で働けない日の仕事術",
   "source": "x-posts/published/03-100percent.md",
@@ -495,8 +627,8 @@
   "status": "queued"
  },
  {
-  "id": "2026-10-31-night",
-  "date": "2026-10-31",
+  "id": "2026-11-06-night",
+  "date": "2026-11-06",
   "time": "21:00",
   "article": "AIに渡す仕事、渡さない仕事 #01",
   "source": "x-posts/published/04-ai-tasks-01.md",
@@ -506,8 +638,8 @@
   "status": "queued"
  },
  {
-  "id": "2026-11-01-noon",
-  "date": "2026-11-01",
+  "id": "2026-11-07-noon",
+  "date": "2026-11-07",
   "time": "12:30",
   "article": "外資テック解剖 #01",
   "source": "x-posts/published/05-gaishi-01-feedback.md",
@@ -517,8 +649,8 @@
   "status": "queued"
  },
  {
-  "id": "2026-11-01-night",
-  "date": "2026-11-01",
+  "id": "2026-11-07-night",
+  "date": "2026-11-07",
   "time": "21:00",
   "article": "英語で考えると、少しだけ冷静になれる？",
   "source": "x-posts/published/06-english-calm.md",
@@ -528,8 +660,8 @@
   "status": "queued"
  },
  {
-  "id": "2026-11-02-noon",
-  "date": "2026-11-02",
+  "id": "2026-11-08-noon",
+  "date": "2026-11-08",
   "time": "12:30",
   "article": "職場に、心の調子をどこまで伝える？",
   "source": "x-posts/published/07-disclosure.md",
@@ -539,8 +671,8 @@
   "status": "queued"
  },
  {
-  "id": "2026-11-02-night",
-  "date": "2026-11-02",
+  "id": "2026-11-08-night",
+  "date": "2026-11-08",
   "time": "21:00",
   "article": "知能検査を受ければ、ADHDかどうか分かる？",
   "source": "x-posts/published/08-iq-test-adhd.md",
@@ -550,8 +682,8 @@
   "status": "queued"
  },
  {
-  "id": "2026-11-03-noon",
-  "date": "2026-11-03",
+  "id": "2026-11-09-noon",
+  "date": "2026-11-09",
   "time": "12:30",
   "article": "AIに心の話をするとき、私が決めている線引き",
   "source": "x-posts/published/09-ai-mental-line.md",
@@ -561,8 +693,8 @@
   "status": "queued"
  },
  {
-  "id": "2026-11-03-night",
-  "date": "2026-11-03",
+  "id": "2026-11-09-night",
+  "date": "2026-11-09",
   "time": "21:00",
   "article": "外資テック解剖 #02",
   "source": "x-posts/published/10-gaishi-02-evaluation.md",
@@ -572,8 +704,8 @@
   "status": "queued"
  },
  {
-  "id": "2026-11-04-noon",
-  "date": "2026-11-04",
+  "id": "2026-11-10-noon",
+  "date": "2026-11-10",
   "time": "12:30",
   "article": "ChatGPTを使うと考える力が落ちるのか",
   "source": "x-posts/published/11-chatgpt-thinking.md",
@@ -583,8 +715,8 @@
   "status": "queued"
  },
  {
-  "id": "2026-11-04-night",
-  "date": "2026-11-04",
+  "id": "2026-11-10-night",
+  "date": "2026-11-10",
   "time": "21:00",
   "article": "留学すると、心の調子は崩れやすい？",
   "source": "x-posts/published/12-study-abroad.md",
@@ -594,8 +726,8 @@
   "status": "queued"
  },
  {
-  "id": "2026-11-05-noon",
-  "date": "2026-11-05",
+  "id": "2026-11-11-noon",
+  "date": "2026-11-11",
   "time": "12:30",
   "article": "ADHDの「強み」は本当にあるの？",
   "source": "x-posts/published/13-adhd-strengths.md",
@@ -605,8 +737,8 @@
   "status": "queued"
  },
  {
-  "id": "2026-11-05-night",
-  "date": "2026-11-05",
+  "id": "2026-11-11-night",
+  "date": "2026-11-11",
   "time": "21:00",
   "article": "外資テック解剖 #03",
   "source": "x-posts/published/14-gaishi-03-portable.md",

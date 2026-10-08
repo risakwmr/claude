@@ -19,6 +19,7 @@ REPORTS = os.path.join(L.REP_DIR, "last_reports.json")
 NUMBERS = os.path.join(L.REP_DIR, "last_numbers.json")
 SENT = os.path.join(L.REP_DIR, "sent_replies.json")
 PRON = os.path.join(L.REP_DIR, "pronunciation.json")
+THUMBS = os.path.join(L.REP_DIR, "thumbnails.json")
 BRIEFS = os.path.join(L.REP_DIR, "briefs")
 OUT = os.environ.get("OUT", "out.md")
 
@@ -69,7 +70,8 @@ def brief():
         f.write(text)
     L.save(REPORTS, {"at": snap["at"], "reports": reports})
     L.save(NUMBERS, numbers(snap))
-    if os.environ.get("REP_NOTIFY") != "always" and not needs_owner(snap, reports, new_drafts, pronunciation_news(snap, reports)):
+    if os.environ.get("REP_NOTIFY") != "always" and not needs_owner(snap, reports, new_drafts,
+                                                                         pronunciation_news(snap, reports) + thumbnail_news(snap)):
         # nothing for the owner to do: keep the brief on the rep-data branch, post nothing
         print(f"Nothing needs you today; brief saved to briefs/{day}.md\n\n{text}")
         return
@@ -94,13 +96,30 @@ def pronunciation_news(snap, reports):
     return news
 
 
-def needs_owner(snap, reports, new_drafts, pron_news=()):
+def thumbnail_news(snap):
+    """Episodes whose thumbnail is missing, worth a notification: found for the first time, or (once more)
+    when less than a day is left before the run that uploads the episode."""
+    done = L.load(THUMBS, {})
+    news = []
+    for t in (snap.get("channel") or {}).get("thumbnails_needed", []):
+        key = str(t["episode"])
+        seen = done.setdefault(key, {})
+        urgent = t["hours_left"] <= 24
+        if not seen.get("reported") or (urgent and not seen.get("urgent_reported")):
+            news.append(f"thumbnail {key}")
+        seen["reported"] = True
+        seen["urgent_reported"] = seen.get("urgent_reported") or urgent
+    L.save(THUMBS, done)
+    return news
+
+
+def needs_owner(snap, reports, new_drafts, news=()):
     """True when the owner has something to do: a problem, a blocker, a failed agent, new replies to approve,
-    or Japanese words to listen to."""
+    Japanese words to listen to, or thumbnails to make."""
     ops = reports.get("ops") or {}
     return bool(
         new_drafts
-        or pron_news
+        or news
         or (snap.get("channel") or {}).get("blockers")
         or any("error" in (r or {}) for r in reports.values())
         or ops.get("health") != "all good"

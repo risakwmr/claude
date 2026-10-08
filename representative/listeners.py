@@ -5,7 +5,7 @@ Each listener returns plain data. The representative's agents (agents.py) read t
   pipeline  GitHub Actions runs of every workflow in this repository (episodes, Shorts, custom Shorts, ...)
             and the errors the scripts saved in run_status.json
   channel   what is uploaded, what is scheduled, what is waiting (published.json, shorts.json,
-            episodes.json, missing thumbnails), and the latest views / likes (shorts_stats.json, reports/)
+            episodes.json, missing thumbnails and when each is needed), and the latest views / likes (shorts_stats.json, reports/)
   audience  new viewer comments on the channel since the last check (YouTube API, 1 quota unit)
   note      the note.com draft pipeline (note-pipeline/history.md, drafts/)
   pronunciation  Japanese words in upcoming episodes that the English voices have no respelling for yet
@@ -99,6 +99,16 @@ def pipeline(hours=36):
 
 # ---------- channel ----------
 
+def next_slot(after):
+    """First 00:00 / 12:00 JST strictly after `after`."""
+    t = after.astimezone(JST)
+    for hour in (12, 24):
+        s = t.replace(hour=0, minute=0, second=0, microsecond=0) + timedelta(hours=hour)
+        if s > t:
+            return s
+    raise RuntimeError("no slot")
+
+
 def channel():
     meta = load(os.path.join(CHANNEL_DIR, "episodes", "episodes.json"), {"episodes": []})
     pub = load(os.path.join(CHANNEL_DIR, "published.json"), {})
@@ -124,6 +134,18 @@ def channel():
                                            for x in ("png", "jpg"))
         episodes.append(row)
     waiting = [r for r in episodes if r["state"] == "not uploaded"]
+    # when each waiting episode needs its thumbnail: episodes go public one per slot (00:00 / 12:00 JST) after the
+    # last scheduled one, and the run that uploads an episode starts 3 hours before its slot
+    times = [parse(v["publish_at"]) for v in pub.values() if v.get("publish_at")]
+    slot = max(times + [t]).astimezone(JST)
+    thumbnails_needed = []
+    for r in waiting:
+        slot = next_slot(slot)
+        if not r["has_own_thumbnail"]:
+            thumbnails_needed.append({"episode": r["episode"], "title": r["title"],
+                                      "file": f"episodes/ep{r['episode']:02d}_thumbnail.png",
+                                      "needed_by": (slot - timedelta(hours=3)).strftime("%m/%d %H:%M JST"),
+                                      "hours_left": round(((slot - timedelta(hours=3)) - t).total_seconds() / 3600)})
     blockers = []
     if waiting and not waiting[0]["has_own_thumbnail"]:
         blockers.append(f"Episode {waiting[0]['episode']} waits for its thumbnail "
@@ -140,6 +162,7 @@ def channel():
         "episodes": episodes,
         "next_scheduled": [r for r in episodes if r["state"] == "scheduled"][:3],
         "blockers": blockers,
+        "thumbnails_needed": thumbnails_needed,
         "shorts": {"public": sum(r["state"] == "public" for r in shorts_rows),
                    "scheduled": [r for r in shorts_rows if r["state"] == "scheduled"]},
         "stats_at": jst(stats.get("at")),

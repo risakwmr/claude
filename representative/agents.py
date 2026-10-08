@@ -167,14 +167,18 @@ def brief(snap, reports, inbox):
         "2. ✅ うまくいっていること (short).\n"
         "3. ⚠️ 見てほしいこと: only what needs the owner, each with the exact next step. Omit the section if empty.\n"
         "4. 📅 これからの予定: the next scheduled episodes / Shorts.\n"
-        "5. 🗣 日本語の発音チェック: only when the pronunciation report has words. For each: the word, which episode, "
+        "5. 🖼 サムネイル: only when channel.thumbnails_needed is not empty. For each: episode, title, the file name to add "
+        "on the episodes branch, and the time it is needed by (an estimate; automatic posting waits until it is there). "
+        "Put the most urgent first.\n"
+        "6. 🗣 日本語の発音チェック: only when the pronunciation report has words. For each: the word, which episode, "
         "and the respelling candidates. Say the owner should listen before that episode is made: pick a spelling and "
         "add it to episodes/pronunciations.json on the episodes branch (the voicetest action plays numbered spellings).\n"
-        "6. 💬 視聴者の声: summarize the comments; list each reply draft with its id as `[id]` so the owner can approve it.\n"
-        "7. 📈 数字: the growth points and the one idea.\n"
-        "8. End with: 返信するときは `/reply all` か `/reply <id> <id>`、質問はこのIssueにそのまま書いてね。",
+        "7. 💬 視聴者の声: summarize the comments; list each reply draft with its id as `[id]` so the owner can approve it.\n"
+        "8. 📈 数字: the growth points and the one idea.\n"
+        "9. End with: 返信するときは `/reply all` か `/reply <id> <id>`、質問はこのIssueにそのまま書いてね。",
         f"Reports from the specialist agents:\n{data(reports)}\n\nReply drafts waiting for approval:\n{data(inbox)}\n\n"
-        f"Time: {snap['at']}. Links of scheduled items:\n{data((snap.get('channel') or {}).get('next_scheduled'))}",
+        f"Time: {snap['at']}. Links of scheduled items:\n{data((snap.get('channel') or {}).get('next_scheduled'))}\n\n"
+        f"Thumbnails needed:\n{data((snap.get('channel') or {}).get('thumbnails_needed'))}",
         effort="medium")
 
 

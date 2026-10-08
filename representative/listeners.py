@@ -176,7 +176,9 @@ def channel():
 # ---------- pronunciation ----------
 
 # words that look like romaji (Japanese written in Latin letters), or names with -san etc.
-ROMAJI = re.compile(r"^(?:(?:[kgsztdnhbpmrwfj]|sh|ch|ts|ky|gy|ny|hy|my|ry|by|py)?[aiueo]|n)+$")
+# Each syllable is one consonant group plus a vowel, or a syllable-final "n"; the lookahead keeps the two apart,
+# so the pattern never backtracks (no catastrophic matching on long words).
+ROMAJI = re.compile(r"^(?:(?:sh|ch|ts|[kgnhbpmr]y|[kgsztdnhbpmrwfjy])?[aiueo]|n(?![aiueoy]))+$")
 HONORIFIC = re.compile(r"-(san|kun|sama|chan|sensei)$", re.I)
 
 

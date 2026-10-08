@@ -71,7 +71,7 @@ Agent（`note-related-guide`）に、`article.md` の最後に「次に読むな
 
 ## 7. 最後の報告
 
-報告の前に、SendUserFile で `article.md` と `x-posts.md` をチャットに送る（status: proactive、display: render）。
+通知は出さない（2026-10-09 本人）。SendUserFile や SendUserMessage で記事を送らない。Senaは「note下書き箱」で読む。
 日本語で短く：テーマ、選定理由（1〜2行）、重複度、タイトル、要記入の数、すすめた関連記事、校閲で直したこと（1〜2行）、未解決の指摘の有無、フォルダのパス。
 
 ## 止めるべきとき

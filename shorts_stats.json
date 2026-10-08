@@ -1,5 +1,5 @@
 {
-  "at": "2026-10-08T03:35:26Z",
+  "at": "2026-10-08T18:25:37Z",
   "shorts": {
     "1-ai": {
       "video_id": "IdbU6d1ox0Q",
@@ -51,7 +51,7 @@
       "title": "Hiding a feeling is not the same as handling it #shorts",
       "public": true,
       "publish_at": "2026-10-07T23:00:00Z",
-      "views": 6,
+      "views": 13,
       "likes": 0,
       "comments": 1
     },
@@ -78,7 +78,7 @@
       "title": "\"Someone should fix that\" means nobody will #shorts",
       "public": true,
       "publish_at": "2026-10-06T23:00:00Z",
-      "views": 25,
+      "views": 26,
       "likes": 0,
       "comments": 1
     },
@@ -103,11 +103,11 @@
     "4-story": {
       "video_id": "QepA2gyIkew",
       "title": "I wasn't stressed. I was lonely. #shorts",
-      "public": false,
+      "public": true,
       "publish_at": "2026-10-08T09:00:00Z",
-      "views": 0,
+      "views": 52,
       "likes": 0,
-      "comments": 0
+      "comments": 1
     },
     "5-ai": {
       "video_id": "1wCrwibGAfw",
@@ -121,8 +121,80 @@
     "5-highlight": {
       "video_id": "h7vNxhIX57g",
       "title": "Why a third of feedback makes things worse #shorts",
-      "public": false,
+      "public": true,
       "publish_at": "2026-10-08T13:00:00Z",
+      "views": 5,
+      "likes": 0,
+      "comments": 1
+    },
+    "6-ai": {
+      "video_id": "E2jb6UYiO4Y",
+      "title": "The agenda is easy. The trust is the hard part. #shorts",
+      "public": false,
+      "publish_at": "2026-10-08T23:00:00Z",
+      "views": 0,
+      "likes": 0,
+      "comments": 0
+    },
+    "16-ai": {
+      "video_id": "wpHzHItUs9A",
+      "title": "AI can find your mistake. Only you can own it. #shorts",
+      "public": true,
+      "publish_at": "2026-10-08T05:15:48Z",
+      "views": 10,
+      "likes": 0,
+      "comments": 1
+    },
+    "16-highlight": {
+      "video_id": "bHe5H1LFcDI",
+      "title": "People judge your mistakes less harshly than you think #shorts",
+      "public": true,
+      "publish_at": "2026-10-08T05:15:50Z",
+      "views": 15,
+      "likes": 0,
+      "comments": 1
+    },
+    "16-story": {
+      "video_id": "DnQzsR75Fgs",
+      "title": "I quietly fixed a mistake. It cost me 6 months of trust. #shorts",
+      "public": true,
+      "publish_at": "2026-10-08T05:15:51Z",
+      "views": 9,
+      "likes": 0,
+      "comments": 1
+    },
+    "16-culture": {
+      "video_id": "8TIGXHenBaY",
+      "title": "Reporting mistakes: Japan vs the US #shorts",
+      "public": true,
+      "publish_at": "2026-10-08T05:15:53Z",
+      "views": 34,
+      "likes": 1,
+      "comments": 1
+    },
+    "16-lab": {
+      "video_id": "u7LcFFhbD58",
+      "title": "Say it out loud: 3 English phrases for reporting a mistake #shorts",
+      "public": true,
+      "publish_at": "2026-10-08T05:15:54Z",
+      "views": 56,
+      "likes": 0,
+      "comments": 1
+    },
+    "17-ai": {
+      "video_id": "gDfr1rD93t4",
+      "title": "AI can read your calendar, not your stress #shorts",
+      "public": true,
+      "publish_at": "2026-10-08T18:25:34Z",
+      "views": 0,
+      "likes": 0,
+      "comments": 0
+    },
+    "17-highlight": {
+      "video_id": "HlcnzW_eV2s",
+      "title": "Can seeing stress as useful help? What one study found #shorts",
+      "public": true,
+      "publish_at": "2026-10-08T18:25:32Z",
       "views": 0,
       "likes": 0,
       "comments": 0
@@ -237,7 +309,14 @@
     "16": {
       "video_id": "D-JtMP9s8jY",
       "title": "How to Report a Mistake at Work (Without Panicking) | English Podcast EP16",
-      "views": 2,
+      "views": 10,
+      "likes": 0,
+      "comments": 0
+    },
+    "17": {
+      "video_id": "wlikzFZjDJw",
+      "title": "Stress at Work Is a Signal: How to Read It | English Podcast EP17",
+      "views": 0,
       "likes": 0,
       "comments": 0
     }

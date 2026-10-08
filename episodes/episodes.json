@@ -1217,6 +1217,118 @@
       "thumb_cup": "Wait 20 minutes",
       "thumb_pose": "sena_walk",
       "thumb_comp": "D"
+    },
+    {
+      "number": 20,
+      "script": "ep20.txt",
+      "title": "Disappointment and Bouncing Back",
+      "short_title": "Disappointment and Bouncing Back",
+      "summary": "Laura decides to move region three to the standard table, and Sena's almost-finished dashboard is stopped after three weeks of work. Daniel shares Eskreis-Winkler and Fishbach's finding that people learn less from their own failures because they tune out, and a meta-analysis by Tannenbaum and Cerasoli showing that structured debriefs improved performance by about 20 to 25 percent. He tells the story of a four-month proposal that was rejected and the three weeks he disappeared, and they compare \"shikata ga nai\" and \"hansei\" in Japan with \"lessons learned\" and \"disagree and commit\" in the US. Today's challenge: pick one thing that didn't go the way you hoped and write down one lesson you'll use next time.",
+      "practice": "Pick one thing that didn't go the way you hoped, today or recently, and write down one lesson from it: not what went wrong, but one thing you'll do differently next time.",
+      "sources": [
+        "Eskreis-Winkler & Fishbach (2019), Not Learning From Failure—the Greatest Failure of All, Psychological Science",
+        "Tannenbaum & Cerasoli (2013), Do Team and Individual Debriefs Enhance Performance? A Meta-Analysis, Human Factors"
+      ],
+      "tags": [
+        "EQ",
+        "emotional intelligence",
+        "disappointment at work",
+        "bouncing back",
+        "learning from failure",
+        "debrief",
+        "self-management",
+        "Japan US work culture",
+        "career",
+        "leadership",
+        "program manager",
+        "audiobook",
+        "English learning",
+        "English speaking"
+      ],
+      "yt_title": "Your Project Got Cancelled? How to Bounce Back at Work",
+      "hook": "Three weeks of work, almost finished, and then: \"So we stop it. Today.\"\nLearn four steps for the day after a disappointment, and one question that turns it into a lesson.",
+      "points": [
+        "Why we learn less from our own failures (Eskreis-Winkler & Fishbach, 1,600+ people)",
+        "Debriefs improved performance by about 20–25% across 46 samples",
+        "Daniel's rejected four-month proposal, and the three weeks he disappeared",
+        "\"Shikata ga nai\" and \"hansei\" in Japan vs \"disagree and commit\" in the US"
+      ],
+      "title_ja": "がんばった仕事が止まった日、立ち直るための4ステップ",
+      "hook_ja": "3週間かけて、ほぼ完成。なのに「今日で止める」。がんばった仕事がなくなった日、心がずしんと重くなったことはありませんか？\n失望を「次に活きる学び」に変える4つのステップを、英語で学ぼう🎧（日本語字幕あり）",
+      "points_ja": [
+        "人は自分の失敗から学びにくい？1,600人の実験",
+        "ふり返り(デブリーフ)で成果が約2割アップ",
+        "4か月の提案が却下、ダニエルが消えた3週間",
+        "「仕方がない」と「disagree and commit」"
+      ],
+      "summary_ja": "ローラさんの決定で、ほぼ完成していた地域3のダッシュボードが止まったセナ。人は自分の失敗から目をそらして学びにくいというエスクライス＝ウィンクラーとフィッシュバックの研究と、ふり返り(デブリーフ)で成果が約20〜25％上がったというタネンバウムとセラソリのメタ分析を紹介します。4か月かけた提案が却下されて「消えた」ダニエルの失敗談、日本の「仕方がない」「反省」とアメリカの「disagree and commit」の比較も。",
+      "practice_ja": "今日でも最近でも、思いどおりにいかなかったことを1つ選び、「次は違うやり方をすること」を1つ書き出す。",
+      "thumb_accent": "Bounce",
+      "thumb_sub": "How to Bounce Back After It Doesn't Happen",
+      "thumb_notes": [
+        "Name the gap",
+        "Not your worth",
+        "Debrief it",
+        "Next move"
+      ],
+      "thumb_cup": "Write one lesson",
+      "thumb_pose": "sena_write"
+    },
+    {
+      "number": 21,
+      "script": "ep21.txt",
+      "title": "Envy as Information",
+      "short_title": "Envy as Information",
+      "summary": "A colleague who joined the company the same year as Sena is chosen for three months of launch planning in Seattle, and Sena can't stop feeling a heavy stone in her stomach. Daniel explains benign and malicious envy with research by van de Ven, Zeelenberg and Pieters, where benign envy motivated people more than admiration, and a study by Lange and Crusius of 370 runners, where benign envy went with higher race goals. He tells the story of the time envy made him question a peer's slides in public, and they compare same-year \"dōki\" comparisons in Japan with open ambition in the US. Today's challenge: if you feel envy today, write one sentence that starts with \"I want\" and name the thing, not the person.",
+      "practice": "If you feel envy today, toward a colleague, a friend, or even a post online, write one sentence that starts with \"I want.\" Name the thing, not the person.",
+      "sources": [
+        "van de Ven, Zeelenberg & Pieters (2011), Why Envy Outperforms Admiration, Personality and Social Psychology Bulletin",
+        "Lange & Crusius (2015), Dispositional Envy Revisited: Unraveling the Motivational Dynamics of Benign and Malicious Envy, Personality and Social Psychology Bulletin"
+      ],
+      "tags": [
+        "EQ",
+        "emotional intelligence",
+        "envy at work",
+        "jealousy",
+        "comparing yourself",
+        "benign envy",
+        "self-awareness",
+        "career goals",
+        "career",
+        "leadership",
+        "program manager",
+        "audiobook",
+        "English learning",
+        "English speaking"
+      ],
+      "yt_title": "Jealous of a Coworker? What Envy Tells You About Your Goals",
+      "hook": "A colleague who started the same year as you gets the opportunity you wanted, and you can't even type \"Congratulations.\"\nLearn how to turn envy into one clear sentence about what you want, and one small step.",
+      "points": [
+        "Benign vs malicious envy, and why benign envy can outperform admiration",
+        "370 marathon runners: benign envy went with higher goals",
+        "Daniel's envy of a peer's conference talk, and the question that changed it",
+        "Same-year \"dōki\" comparison in Japan vs open ambition in the US"
+      ],
+      "title_ja": "同期がうらやましい。その気持ちが教えてくれること",
+      "hook_ja": "同期の抜てきのニュース。「おめでとう」を打っては消して、また消して。そんな自分がいやになったことはありませんか？\nうらやましさを「本当に欲しいもの」の一文に変える方法を、英語で学ぼう🎧（日本語字幕あり）",
+      "points_ja": [
+        "良い妬みは、憧れより人を動かす？",
+        "マラソンランナー370人と「目標」の関係",
+        "ダニエルが同僚のスライドにした、後悔の質問",
+        "日本の「同期」比べとアメリカの堂々とした野心"
+      ],
+      "summary_ja": "同期のミサキさんが3か月シアトルのローンチ計画に抜てきされ、おなかに重い石を感じるセナ。良性の妬みは憧れよりもやる気を生むというファン・デ・フェンらの研究と、良性の妬みが強いランナーほど高い目標を立てていたというランゲとクルジウスの研究を紹介します。同僚の講演をうらやんで会議で水を差したダニエルの失敗談、日本の「同期」比べとアメリカのオープンな野心の比較も。",
+      "practice_ja": "今日うらやましいと感じたら、「私は〜したい」で始まる一文を書く。人ではなく、欲しい「もの」に名前をつける。",
+      "thumb_accent": "Want",
+      "thumb_sub": "What Your Envy Says You Want",
+      "thumb_notes": [
+        "Notice the sting",
+        "No shame",
+        "Not her life",
+        "I want..."
+      ],
+      "thumb_cup": "Write \"I want\"",
+      "thumb_pose": "sena_think"
     }
   ]
 }

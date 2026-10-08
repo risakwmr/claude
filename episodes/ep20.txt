@@ -1,0 +1,103 @@
+SENA: It's Thursday, five p.m. Kato-san's small meeting room, the one by the printer. He has a can of coffee, but he doesn't open it.
+DANIEL: That's never a good sign.
+SENA: He says, "Laura decided this morning. Region three moves to the standard table next month, as a pilot. Hannah's team will build it." Then he looks at the window and says, "So we stop our region three dashboard. Today."
+DANIEL: Your dashboard page.
+SENA: Three weeks of validation. The page is almost finished. I was going to show it next Tuesday. And Kato-san says, "Thanks for all of that." All of that. Then his phone rings, and he says, "Sorry, Seattle," and he walks out.
+DANIEL: And you're still sitting there.
+SENA: With my notebook open. I wrote one line in the margin. "Stomach, heavy, five p.m." And then I just looked at it.
+DANIEL: That heavy feeling has a name, and it's worth learning. By the end of this episode, you'll have four steps for the day after something you worked hard on doesn't happen, and one question that turns it into something useful.
+SENA: Something useful. Right now it just feels like three wasted weeks.
+DANIEL: Hold that thought. Welcome back to Human Curriculum. I'm Daniel Reed, a People Manager in Seattle.
+SENA: And I'm Sena Sato, an Associate in Tokyo. It's Friday, seven thirty in the morning here.
+DANIEL: And Thursday afternoon here. Grey and wet. Before we talk about region three, last time your challenge was about anger. If a message makes you angry, write a draft, wait twenty minutes, and read it again. Did you get a chance?
+SENA: Unfortunately, yes. Last night, at eleven, Mark sent a message. "Hey Sena! Can we get the region three numbers by tomorrow? Laura wants to see the trend." With a rocket emoji.
+DANIEL: Oh no. The region three that stopped at five.
+SENA: Exactly. Mark didn't know. And my first draft, in my notebook this time, said, "Region three was cancelled six hours ago. Maybe ask Laura." Underlined twice.
+DANIEL: I can hear the underline.
+SENA: Then I made tea and waited twenty minutes. The draft looked very different after that. So I wrote, "Hi Mark, Laura decided this morning to move region three to the standard table, so we've stopped our version. I can send the last trend I have, from September, with a note that it's not final." He answered, "Oh! Didn't know. September is perfect, thank you!" With three hearts.
+DANIEL: Three hearts, not a fight. Did you thank Kenta for the coffee idea?
+SENA: I did. I bought him a coffee downstairs. He said, "You didn't have to. But I'll take it." That's long, for Kenta.
+DANIEL: Kenta's coming out of his shell. Okay. Let's go back to Kato-san's room. What did you feel? Name it.
+SENA: Disappointment. And a little embarrassment, because I told Ryo and Kenta about my demo.
+DANIEL: That's good naming. Disappointment usually lives in the gap between what you expected and what happened. You expected a demo on Tuesday. You got "Thanks for all of that."
+SENA: "All of that." He didn't even say what it was.
+DANIEL: That part stings, I know. We'll come back to Kato-san. Right now, what's the voice in your head saying?
+SENA: That I wasted three weeks. And that I just want to forget region three and never look at it again.
+DANIEL: That last part is very human. And there's research about exactly that feeling. In 2019, Lauren Eskreis-Winkler and Ayelet Fishbach at the University of Chicago published a paper in Psychological Science. The title is "Not Learning From Failure, the Greatest Failure of All."
+SENA: That's a dramatic title.
+DANIEL: Fishbach's team ran five experiments with more than one thousand six hundred people. In one, they asked simple questions with only two possible answers. After each answer, people were told, "You're right," or "You're wrong."
+SENA: With two answers, if you're wrong, you know the right one anyway.
+DANIEL: Exactly. A wrong answer teaches you just as much as a right one. Then they tested people again on the same questions. And people learned less from the questions they got wrong than from the ones they got right. They even remembered their own wrong answers less.
+SENA: So the failure gave them the information, and they didn't take it.
+DANIEL: Right. Even when people were paid to learn. Fishbach's explanation is simple. Failing doesn't feel good, so people tune out. It's the ego protecting itself.
+SENA: That's exactly what I want to do with region three. Tune out.
+DANIEL: Here's the hopeful part. When people watched someone else fail, they learned from it just as well as from someone else's success. Take the failure away from your ego, and the learning comes back.
+SENA: So I need to look at region three like it happened to someone else.
+DANIEL: That's one way to do it. The caution here: these were mostly simple quiz-style tasks, not three weeks of real work. But the pattern fits what many of us feel. Now the second study is about what helps. In 2013, Scott Tannenbaum and Christopher Cerasoli published a meta-analysis in the journal Human Factors. It was about debriefs.
+SENA: Debriefs. Like a meeting after a project?
+DANIEL: A short, structured look back at a specific event. They combined forty-six samples, with about two thousand one hundred people, from military, medical, aviation and other settings. On average, debriefs improved performance by about twenty to twenty-five percent.
+SENA: Twenty-five percent. Just from talking about what happened?
+DANIEL: From looking at a specific event, honestly, with the goal of learning. It worked for teams and individuals. The ones with structure and a facilitator seemed to work better, though the authors say there were very few studies in some of those groups. Also, many of the studies were simulations, like training exercises.
+SENA: So a debrief is the opposite of tuning out.
+DANIEL: That's a nice way to put it. Our usual question now. Why can't AI do this?
+SENA: Hmm. I could ask AI to write a lessons-learned document about region three. It would be very neat. Five bullet points.
+DANIEL: And would it help?
+SENA: Probably not. It doesn't know what I expected, or why it hurts. It doesn't know I didn't ask Hannah's team about their plans in week one. Only I know that.
+DANIEL: Right. AI can format the lessons. It can't feel the gap, and it can't choose to look at it instead of looking away. That choice is the whole skill.
+SENA: The choice to look. Okay. Daniel, can I ask for one of your stories? I think I need to hear that you've been here too.
+DANIEL: Oh, I've been here. About eight years ago, I spent four months on a proposal for a new on-call system for our engineers. I was proud of it. Then my director chose another team's proposal instead. Simpler, cheaper.
+SENA: Four months.
+DANIEL: Four months. And I said, "Fine. Makes sense." In the meeting, I smiled. And then I disappeared. I stopped going to the planning meetings for the new system. When I did go, I sat in the back and checked my email.
+SENA: That sounds like me wanting to forget region three.
+DANIEL: Exactly like that. After three weeks, a peer named Felix stopped me in the hallway. He said, "Daniel, you've been gone for three weeks. Even when you're in the room." That hurt, because it was true. And at home, my wife pointed out that I had made curry five nights in a row.
+SENA: Five nights. That's a lot of curry.
+DANIEL: Comfort food. Felix offered to do a debrief with me, just the two of us, thirty minutes. And when we looked at it honestly, the lesson was clear. I never asked my director what she needed most. I assumed it was the best system. She needed the cheapest one that year, because of the budget.
+SENA: So the proposal wasn't bad. It answered the wrong question.
+DANIEL: That's it. After that, every proposal I wrote started with one question to the decision maker: "What matters most to you here?" My next big proposal was approved. And I went back to the planning meetings and helped the other team's system launch. Late, but I went back.
+SENA: Can I talk about Japan? Because I think we handle disappointment differently.
+DANIEL: Please.
+SENA: In Japan, we have the phrase "shikata ga nai." It means, "It can't be helped." People say it a lot when a decision comes from above. It helps you accept things and move on quietly. But sometimes nobody talks about what we could learn. We just accept it.
+DANIEL: Accepting helps. Skipping the learning is the risk.
+SENA: And the other side is "hansei." Reflection. But sometimes it becomes self-blame. "I'm sorry, it's my fault, I'll try harder." And then nothing changes.
+DANIEL: That's interesting. In the US, you'll hear "lessons learned," or a "retro," short for retrospective. And there's the phrase "disagree and commit." You say your view, and if the decision goes the other way, you support it fully. But we have our own trap. There's a lot of pressure to look positive very quickly. "Totally fine, great learning experience!" Even when it isn't fine yet.
+SENA: So Japan sometimes skips the feeling, and the US sometimes skips past the feeling too.
+DANIEL: In my experience, yes, though every team is different. And both cultures can skip the useful middle part: one honest lesson, said out loud.
+SENA: Which EQ skill is this one?
+DANIEL: Self-management. Four steps. One, feel it and name it. Disappointment, and what you expected. Two, separate the decision from your worth. Laura's decision is about the standard table, not about you. Three, debrief it like it happened to someone else. What did I expect? What happened? What's one lesson? And four, find the next move that's in your control.
+SENA: Let me try. One, disappointment, because I expected a demo on Tuesday. Two, the decision was about Hannah's platform and the January plan, not about my work being bad.
+DANIEL: Good. Three is the hard one.
+SENA: If this happened to Kenta, what would I tell him? I'd say, "You built it without checking the platform team's plans first." In week one, I could have asked Hannah, "Is region three on your roadmap?" One message. That's my lesson. Check the roadmap before building.
+DANIEL: Specific and real. Now four. What's in your control?
+SENA: My validation rules. The checks for region three are already written. Hannah's team will build it on the standard table, but they still need to check the data. I could offer them my rules.
+DANIEL: And who on Hannah's team is building it?
+SENA: Wendell. Of course it's Wendell. And our fifteen minutes is today at eight thirty.
+DANIEL: Then you already have something to bring to that call. Now, Speaking Lab. Three sentences for when a decision doesn't go your way. I'll say each one, and Sena repeats. Listeners, pause and say it out loud with her.
+SENA: Ready.
+DANIEL: "I'm disappointed, but I understand the reasons behind the decision."
+SENA: I'm disappointed, but I understand the reasons behind the decision.
+DANIEL: "What's one thing we could do differently next time?"
+SENA: What's one thing we could do differently next time?
+DANIEL: "Here's what I learned, and here's what I'll try next."
+SENA: Here's what I learned, and here's what I'll try next.
+DANIEL: Clear and steady. Now, a retell. In about thirty seconds, tell me today's main points in your own words.
+SENA: Okay. Eskreis-Winkler and Fishbach found that people learn less from their own failures, because it hurts, so they, um, tune out. But they learn well from other people's failures. And debriefs, a short, structured look back, improved performance by about twenty to twenty-five percent. So after a disappointment, I name it, I separate the decision from my worth, I look at it like it happened to a friend, and I find one next step.
+DANIEL: That's it exactly. Listeners, your turn. In forty seconds, answer this. What is one thing at work that didn't go the way you hoped, and what is one lesson you can take from it? Pause the audio and speak.
+SENA: Mine is easy today. Check the roadmap before you build.
+DANIEL: Today's challenge: pick one thing that didn't go the way you hoped, today or recently, and write down one lesson from it. Not what went wrong. One thing you'll do differently next time.
+SENA: A fresh page titled "Region three, what I learned." One line under it.
+DANIEL: One line is enough. And one more thing. You mentioned Kato-san said, "Thanks for all of that."
+SENA: Yes. "All of that."
+DANIEL: In my experience, managers who can't find the specific words often feel bad about the news too. Maybe it was hard for him to say.
+SENA: I didn't think about that. Actually, this morning there was a canned coffee on my desk. No note. Kato-san drinks that brand.
+DANIEL: That might be his way of saying it. What about Ryo? Region three was his first.
+SENA: Ryo said, "Sorry, it was mine before it was yours." And then, "Honestly, I'm a little relieved. If region three is gone, I can finish the Osaka script by next week. Then I'll talk to Kato-san."
+DANIEL: Next week again.
+SENA: Next week again. I'll ask him at lunch today. Directly.
+DANIEL: Good. Next time, episode twenty-one, "Envy as Information." What a feeling you don't like can tell you about what you want.
+SENA: Envy. I don't feel envy very much, I think.
+DANIEL: We'll see. Oh, you have a message?
+SENA: An email. From Laura, to all of Tokyo. "Please welcome Misaki Ono from marketing analytics, who will join Mark's launch planning team in Seattle for three months, starting in November." Misaki joined the company the same year as me. We had training together.
+DANIEL: And how does that feel?
+SENA: My stomach just dropped again. And I don't think it's disappointment this time.
+DANIEL: Write it down. Thanks for listening to Human Curriculum. I'm Daniel.
+SENA: And I'm Sena. Feel it, look at it, find one lesson. See you next time.

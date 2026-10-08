@@ -1,0 +1,8 @@
+{
+  "shorts": [
+    {"kind": "highlight", "lines": [28, 32], "hook": "We learn less from our own failures. Here's why.", "title": "Why we learn less from our own failures"},
+    {"kind": "ai", "lines": [43, 46], "hook": "AI can write your lessons learned. It can't do this part.", "title": "AI can format lessons. Only you can choose to look"},
+    {"kind": "story", "lines": [48, 56], "hook": "Four months of work, rejected. Then I disappeared for three weeks.", "title": "My proposal was rejected, and I disappeared"},
+    {"kind": "culture", "lines": [59, 64], "hook": "\"Shikata ga nai\" vs \"disagree and commit\"", "title": "Disappointment at work: Japan vs the US"}
+  ]
+}

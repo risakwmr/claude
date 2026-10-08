@@ -92,11 +92,28 @@ def _pron():
             for k, v in sorted(words.items(), key=lambda kv: -len(kv[0]))]
 
 
+def _segments(text):
+    """[(original piece, spoken piece)]: respelled words get their own piece, so word counts can differ."""
+    spans = []
+    for pat, sub in _pron():
+        for m in pat.finditer(text):
+            if not any(m.start() < e and s < m.end() for s, e, _ in spans):
+                spans.append((m.start(), m.end(), sub))
+    spans.sort()
+    out, pos = [], 0
+    for s, e, sub in spans:
+        if s > pos:
+            out.append((text[pos:s], text[pos:s]))
+        out.append((text[s:e], sub))
+        pos = e
+    if pos < len(text):
+        out.append((text[pos:], text[pos:]))
+    return out
+
+
 def spoken(text):
     """The text the voice reads: Japanese words respelled so they sound Japanese (captions keep the original)."""
-    for pat, sub in _pron():
-        text = pat.sub(sub, text)
-    return text
+    return "".join(sp for _, sp in _segments(text))
 
 
 def _letters(s):
@@ -106,23 +123,40 @@ def _letters(s):
 def realign(words, original, said):
     """Map word timings from the respelled text back onto the original words, so captions stay in sync.
 
-    A respelled word like "oh-nee-ghee-ree" can come back as several boundaries; they are merged into one."""
+    Boundaries are matched to the spoken words by their letters (a respelled word can come back split into
+    several), then each respelled phrase is folded back into as many timings as the original phrase has words."""
     if said == original or not words:
         return words
-    targets = [_letters(t) for t in said.split() if _letters(t)]
+    groups = []  # (number of original words, spoken words)
+    for orig, sp in _segments(original):
+        ow = [w for w in orig.split() if _letters(w)]
+        sw = [w for w in sp.split() if _letters(w)]
+        if orig == sp:
+            groups += [(1, [w]) for w in sw]
+        elif sw:
+            groups.append((max(1, len(ow)), sw))
     out, i = [], 0
-    for tgt in targets:
-        if i >= len(words):
-            return words
-        s0, e0, acc = words[i][0], words[i][1], _letters(words[i][2])
-        i += 1
-        while acc != tgt and len(acc) < len(tgt) and i < len(words):
-            e0 = words[i][1]
-            acc += _letters(words[i][2])
+    for n_orig, sw in groups:
+        spans = []
+        for tok in sw:
+            tgt = _letters(tok)
+            if i >= len(words):
+                return words
+            s0, e0, acc = words[i][0], words[i][1], _letters(words[i][2])
             i += 1
-        if acc != tgt:
-            return words  # could not match: keep the voice's own timings
-        out.append((s0, e0, tgt))
+            while acc != tgt and len(acc) < len(tgt) and i < len(words):
+                e0 = words[i][1]
+                acc += _letters(words[i][2])
+                i += 1
+            if acc != tgt:
+                return words  # could not match: keep the voice's own timings
+            spans.append((s0, e0))
+        if n_orig == len(spans):
+            out += [(a, b, "") for a, b in spans]
+        else:  # e.g. "otsukaresama" spoken as two words: one timing spanning both
+            s0, e0 = spans[0][0], spans[-1][1]
+            step = (e0 - s0) / n_orig
+            out += [(s0 + k * step, s0 + (k + 1) * step, "") for k in range(n_orig)]
     return out
 
 

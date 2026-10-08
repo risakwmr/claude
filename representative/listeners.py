@@ -28,6 +28,11 @@ MAIN_DIR = os.environ.get("MAIN_DIR", ".")
 JST = timezone(timedelta(hours=9))
 
 
+def repo_url(path=""):
+    """Link into this repository on GitHub, e.g. repo_url("upload/episodes/episodes")."""
+    return f"https://github.com/{os.environ.get('GITHUB_REPOSITORY', 'risakwmr/claude')}/{path}".rstrip("/")
+
+
 def now():
     return datetime.now(timezone.utc)
 
@@ -142,10 +147,16 @@ def channel():
     for r in waiting:
         slot = next_slot(slot)
         if not r["has_own_thumbnail"]:
+            e = next(x for x in meta["episodes"] if x["number"] == r["episode"])
             thumbnails_needed.append({"episode": r["episode"], "title": r["title"],
                                       "file": f"episodes/ep{r['episode']:02d}_thumbnail.png",
+                                      "upload_link": repo_url("upload/episodes/episodes"),
+                                      # what the brief in thumbnail_rules.md section 12 is filled from
+                                      "brief_data": {k: e.get(k) for k in ("short_title", "summary", "hook", "thumb_sub",
+                                                                           "thumb_accent", "thumb_pose", "thumb_comp")},
                                       "needed_by": (slot - timedelta(hours=3)).strftime("%m/%d %H:%M JST"),
                                       "hours_left": round(((slot - timedelta(hours=3)) - t).total_seconds() / 3600)})
+    recent_comps = [e.get("thumb_comp") for e in meta["episodes"] if e.get("thumb_comp")][-3:]
     blockers = []
     if waiting and not waiting[0]["has_own_thumbnail"]:
         blockers.append(f"Episode {waiting[0]['episode']} waits for its thumbnail "
@@ -163,6 +174,8 @@ def channel():
         "next_scheduled": [r for r in episodes if r["state"] == "scheduled"][:3],
         "blockers": blockers,
         "thumbnails_needed": thumbnails_needed,
+        "thumbnail_rules_link": repo_url("blob/episodes/episodes/thumbnail_rules.md"),
+        "recent_thumb_comps": recent_comps,
         "shorts": {"public": sum(r["state"] == "public" for r in shorts_rows),
                    "scheduled": [r for r in shorts_rows if r["state"] == "scheduled"]},
         "stats_at": jst(stats.get("at")),
@@ -208,7 +221,9 @@ def pronunciation(max_episodes=5):
         if seen:
             out.append({"episode": e["number"], "candidates": seen})
     return {"next_episode": upcoming[0]["number"] if upcoming else None, "episodes": out,
-            "known": sorted(known)}
+            "known": sorted(known),
+            "edit_link": repo_url("edit/episodes/episodes/pronunciations.json"),
+            "voicetest_link": repo_url("actions/workflows/episodes.yml")}
 
 
 # ---------- audience ----------

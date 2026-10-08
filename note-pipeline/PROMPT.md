@@ -4,7 +4,7 @@
 1回の実行で、8人のエージェント（`.claude/agents/note-*.md`）に順番に仕事を渡し、**記事ドラフトを1本**作ってリポジトリに保存する。
 記事の中身のルールは `note-pipeline/RULES.md` にある。まず読む。自分では本文を書かず、エージェントに任せる。
 
-**エージェントが見つからないとき**：Agent の subagent_type に `note-scout` などが出てこない場合（リポジトリをセッションの途中でcloneしたときなど）は、subagent_type を `general-purpose` にして、指示の最初に「`.claude/agents/<名前>.md` を読み、その frontmatter の下に書かれた役割と手順どおりに動いてください。」と書いて呼ぶ。手順は同じ。自分で全部書く形に戻さない。
+**エージェントが見つからないとき**：Agent の subagent_type に `note-scout` などが出てこない場合（リポジトリをセッションの途中でcloneしたときなど）は、subagent_type を `general-purpose` にして、指示の最初に「`.claude/agents/<名前>.md` を読み、その frontmatter の下に書かれた役割と手順どおりに動いてください。」と書いて呼ぶ。その定義の frontmatter に `model:` があれば、Agent の model にも同じ値を渡す（note-writer と note-related-guide は `opus`）。手順は同じ。自分で全部書く形に戻さない。
 
 ```
 note-theme-researcher（在庫が少ないときだけ、note-scout と並行）

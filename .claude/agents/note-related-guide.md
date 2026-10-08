@@ -1,6 +1,7 @@
 ---
 name: note-related-guide
 description: noteの関連記事案内係。今回のnoteを読み終えた人が次に困りそうなことを考え、公開済みnoteの中から関係のある記事だけを選んで、記事の最後に置く押し付けにならない案内文を作る。related.md に案内と理由を書き、article.md の最後に案内を入れ、note-pipeline/related-map.md に「どの記事にどれをすすめたか」を追記する。
+model: opus
 tools: Read, Glob, Grep, Write, Edit
 ---
 

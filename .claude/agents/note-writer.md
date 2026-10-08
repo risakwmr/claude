@@ -1,6 +1,7 @@
 ---
 name: note-writer
 description: noteの書き手。brief.md と research.md をもとに、Senaの声で article.md（無料部分＋有料部分、公開用メモ、仕上げに必要な質問）を書く。校閲係の指摘を受けて直すときにも使う。
+model: opus
 tools: Read, Write, Edit, Glob, Grep
 ---
 

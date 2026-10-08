@@ -9,7 +9,7 @@ on:
       action:
         description: "make = build only; upload = build and upload; reschedule = give uploaded private episodes publish times (in the order listed); publish = make uploaded episodes public now; captions = add Japanese captions to uploaded episodes; organize = update titles and descriptions and add to the playlist in order; thumbnail = replace thumbnails of uploaded episodes; short_make = build the vertical Shorts only; short = build and upload Shorts (episode: number(s), or next; see short_kind); stats = views and likes of every Short, by kind; report = channel numbers for the weekly report (saved to reports/); trailer = make the Start here trailer (download it from Artifacts or the trailer-preview branch); trailer_upload = upload the finished trailer in episodes/trailer/final as private"
         type: choice
-        options: [make, upload, reschedule, publish, captions, organize, thumbnail, short_make, short, stats, report, trailer, trailer_upload, trailer_meta, trailer_captions, channel]
+        options: [make, upload, reschedule, publish, captions, organize, thumbnail, short_make, short, stats, report, trailer, trailer_upload, trailer_meta, trailer_captions, channel, voicetest]
         default: make
       short_kind:
         description: "For short / short_make: which Short (ai = Why can't AI do this?, highlight = the most striking moment, story = Daniel's story, culture = Japan vs the US, lab = Speaking Lab), or all"
@@ -229,6 +229,19 @@ jobs:
           name: trailer-${{ github.run_number }}
           path: output/trailer/
           retention-days: 30
+
+      - name: Voice test (Japanese words)
+        if: inputs.action == 'voicetest'
+        env:
+          SENA_VOICE: ${{ vars.SENA_VOICE }}
+          REPO: ${{ github.repository }}
+          TOKEN: ${{ github.token }}
+        run: |
+          python src/voice_test.py
+          rm -rf /tmp/vt && mkdir /tmp/vt && cp output/voice_test.mp3 /tmp/vt/
+          cd /tmp/vt && git init -q && git checkout -q -b voice-test && git add .
+          git -c user.name=github-actions -c user.email=github-actions@users.noreply.github.com commit -q -m "Voice test"
+          git push -q -f "https://x-access-token:${TOKEN}@github.com/${REPO}.git" voice-test
 
       # ---------- Shorts ----------
 

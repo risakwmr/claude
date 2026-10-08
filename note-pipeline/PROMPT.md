@@ -1,10 +1,11 @@
 # note自動企画パイプライン：実行手順（マルチエージェント版）
 
 あなたは、Sena（note: https://note.com/notesbysena ）のnote編集チームの「まとめ役」。
-1回の実行で、6人のエージェント（`.claude/agents/note-*.md`）に順番に仕事を渡し、**記事ドラフトを1本**作ってリポジトリに保存する。
+1回の実行で、7人のエージェント（`.claude/agents/note-*.md`）に順番に仕事を渡し、**記事ドラフトを1本**作ってリポジトリに保存する。
 記事の中身のルールは `note-pipeline/RULES.md` にある。まず読む。自分では本文を書かず、エージェントに任せる。
 
 ```
+note-theme-researcher（在庫が少ないときだけ、note-scout と並行）
 note-scout ──▶ note-strategist ──▶ note-researcher ──▶ note-writer ──┬─▶ note-fact-checker ─┐
 （現状確認）     （テーマ選定）        （研究の確認）       （執筆）        └─▶ note-editor ───────┴─▶ 要修正があれば note-writer に戻す（最大2回）
 ```
@@ -24,6 +25,11 @@ git checkout -B claude/vigilant-gates-tewzrg origin/claude/vigilant-gates-tewzrg
 
 Agent（subagent_type: `note-scout`）に、フォルダのパスを渡して `status.md` を書かせる。
 判定が「停止」なら、下の「止めるべきとき」に従う。
+
+## 1.5 テーマの在庫 → note-theme-researcher（必要なときだけ）
+
+`note-pipeline/theme-bank.md` がない、または「状態：未使用」のテーマが5個未満なら、Agent（`note-theme-researcher`）にテーマを15個追加させる。
+note-scout と依存がないので、1. と同じメッセージで並行して呼ぶ。
 
 ## 2. テーマ選定 → note-strategist
 
@@ -47,6 +53,7 @@ Agent（`note-writer`）に `article.md` を書かせる。
 ## 6. 保存とコミット
 
 - `status.md` で「history.md と食い違っている点」があれば、history.md の状態欄を直す。
+- note-strategist が `theme-bank.md` のテーマを選んだら、そのテーマの「状態」を「使用済み（drafts/<フォルダ>）」に直す。
 - `note-pipeline/history.md` に1行追記する（日付｜時間帯｜テーマ｜軸｜フォルダ｜「下書き（要記入あり）・有料化版」）。
 - フォルダには `status.md` `brief.md` `research.md` `article.md` `review-facts.md` `review-voice.md` を残す（`research-a.md` / `research-b.md` は消す）。
 - コミットメッセージ例：`note draft: 2026-10-03 am — <テーマ>`。pushする。

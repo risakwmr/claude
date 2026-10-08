@@ -15,6 +15,7 @@ One voice for every scheduled run, automation and agent around the channel. You 
             │ ops       is everything healthy? what needs you?    │
             │ audience  sorts comments, drafts replies            │
             │ growth    what the numbers say, one idea to try     │
+            │ pronunciation  Japanese words to check by ear       │
             └─────────────────────┬───────────────────────────────┘
                                   ▼
                   representative: one brief, answers your questions
@@ -24,7 +25,8 @@ One voice for every scheduled run, automation and agent around the channel. You 
 
 ## What it does
 
-- **Every morning at 07:30 JST** it checks everything, and **posts only when something needs you** (a failure, a blocker, or new comment replies to approve). On quiet days it posts nothing and keeps the brief on the `rep-data` branch. Set the variable `REP_NOTIFY` = `always` for a post every day. When it does post, the brief has what went well, what needs you (with the exact next step), what is scheduled next, what viewers said with reply drafts, and the numbers.
+- **Every morning at 07:30 JST** it checks everything, and **posts only when something needs you** (a failure, a blocker, new comment replies to approve, or Japanese words to check by ear). On quiet days it posts nothing and keeps the brief on the `rep-data` branch. Set the variable `REP_NOTIFY` = `always` for a post every day. When it does post, the brief has what went well, what needs you (with the exact next step), what is scheduled next, what viewers said with reply drafts, and the numbers.
+- **Japanese pronunciation**: it reads the scripts of the episodes not made yet and finds Japanese words and names that `episodes/pronunciations.json` has no respelling for (e.g. *gaman*, *kashikomarimashita*). It tells you once when it first finds them, and once more when their episode is next in line, with 3-5 respelling candidates to try in the `voicetest` action.
 - **Ask it anything** by commenting in the issue, e.g. 「昨日のShortsどうだった？」「次のエピソードはいつ公開？」「なんで止まってるの？」. It answers from the live state of the channel and the latest reports.
 - **Comment replies are never posted on their own.** Each draft has an id like `c3`:
   - `/reply all` posts every draft except the ones flagged for your judgment
@@ -48,4 +50,4 @@ The `rep-data` branch: `briefs/` (every brief), `inbox.json` (reply drafts waiti
 
 ## Cost
 
-Each brief is four calls to the model (`REP_MODEL`, default `claude-opus-5-5`); each question is one call. YouTube quota: about 2 units per brief, 50 per posted reply.
+Each brief is five calls to the model (`REP_MODEL`, default `claude-opus-5-5`); each question is one call. YouTube quota: about 2 units per brief, 50 per posted reply.

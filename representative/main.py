@@ -18,6 +18,7 @@ INBOX = os.path.join(L.REP_DIR, "inbox.json")
 REPORTS = os.path.join(L.REP_DIR, "last_reports.json")
 NUMBERS = os.path.join(L.REP_DIR, "last_numbers.json")
 SENT = os.path.join(L.REP_DIR, "sent_replies.json")
+PRON = os.path.join(L.REP_DIR, "pronunciation.json")
 BRIEFS = os.path.join(L.REP_DIR, "briefs")
 OUT = os.environ.get("OUT", "out.md")
 
@@ -68,18 +69,38 @@ def brief():
         f.write(text)
     L.save(REPORTS, {"at": snap["at"], "reports": reports})
     L.save(NUMBERS, numbers(snap))
-    if os.environ.get("REP_NOTIFY") != "always" and not needs_owner(snap, reports, new_drafts):
+    if os.environ.get("REP_NOTIFY") != "always" and not needs_owner(snap, reports, new_drafts, pronunciation_news(snap, reports)):
         # nothing for the owner to do: keep the brief on the rep-data branch, post nothing
         print(f"Nothing needs you today; brief saved to briefs/{day}.md\n\n{text}")
         return
     write_out(f"## 📮 {day} のブリーフ\n\n{text}")
 
 
-def needs_owner(snap, reports, new_drafts):
-    """True when the owner has something to do: a problem, a blocker, a failed agent, or new replies to approve."""
+def pronunciation_news(snap, reports):
+    """Japanese words worth a notification: found for the first time, or (once more) when their episode is next in line."""
+    done = L.load(PRON, {})
+    nxt = (snap.get("pronunciation") or {}).get("next_episode")
+    news = []
+    for w in (reports.get("pronunciation") or {}).get("words", []):
+        key = w["word"].lower()
+        seen = done.get(key)
+        if not seen:
+            done[key] = {"episode": w["episode"], "next_reported": w["episode"] == nxt}
+            news.append(w["word"])
+        elif w["episode"] == nxt and not seen.get("next_reported"):
+            seen["next_reported"] = True
+            news.append(w["word"])
+    L.save(PRON, done)
+    return news
+
+
+def needs_owner(snap, reports, new_drafts, pron_news=()):
+    """True when the owner has something to do: a problem, a blocker, a failed agent, new replies to approve,
+    or Japanese words to listen to."""
     ops = reports.get("ops") or {}
     return bool(
         new_drafts
+        or pron_news
         or (snap.get("channel") or {}).get("blockers")
         or any("error" in (r or {}) for r in reports.values())
         or ops.get("health") != "all good"

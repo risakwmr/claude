@@ -3,6 +3,7 @@
   ops        is every automation healthy? what failed, what is stuck, what needs the owner
   audience   reads new viewer comments, sorts them, drafts replies (never posts on its own)
   growth     reads views / likes and says what is working
+  pronunciation  finds Japanese words in upcoming scripts that need a respelling, and suggests some
   representative  turns the three reports into one brief for the owner, and answers the owner's questions
 """
 import json
@@ -121,6 +122,36 @@ def growth(snap, previous):
         GROWTH_SCHEMA, effort="low")
 
 
+PRON_SCHEMA = {
+    "type": "object", "additionalProperties": False, "required": ["words"],
+    "properties": {"words": {"type": "array", "items": {
+        "type": "object", "additionalProperties": False,
+        "required": ["word", "episode", "line", "respellings"],
+        "properties": {
+            "word": {"type": "string", "description": "As written in the script; a whole phrase when the words belong together"},
+            "episode": {"type": "integer"},
+            "line": {"type": "string"},
+            "respellings": {"type": "array", "items": {"type": "string"},
+                            "description": "3-5 English-style spellings a US English voice would read close to the Japanese"},
+        }}}}}
+
+
+def pronunciation(snap):
+    p = snap.get("pronunciation") or {}
+    if not p.get("episodes"):
+        return {"words": []}
+    return ask(
+        f"You check pronunciation for an English audio drama voiced by US English text-to-speech voices. {SHOW} "
+        "Japanese words and names in the scripts are respelled for the voice (e.g. 'otsukaresama' -> 'otskaray sahmah', "
+        "'Kato' -> 'Kah-toh'). From the candidate words below, keep only Japanese words, phrases and names that a US English "
+        "voice would likely say wrong and that the known list does not cover. Drop ordinary English words, English loanwords "
+        "an American says naturally (e.g. Tokyo, karaoke) and anything already known. Join words that form one phrase "
+        "(e.g. 'kinchou shite imasu'). For each, give 3-5 respellings in the style of the known list.",
+        f"Known respellings:\n{data(p.get('known'))}\n\nCandidates by episode (word: first line it appears in):\n"
+        f"{data(p.get('episodes'))}",
+        PRON_SCHEMA, effort="low")
+
+
 # ---------- the representative ----------
 
 VOICE = ("You are the owner's YouTube representative: one voice for every scheduled run, automation and agent around "
@@ -136,9 +167,12 @@ def brief(snap, reports, inbox):
         "2. ✅ うまくいっていること (short).\n"
         "3. ⚠️ 見てほしいこと: only what needs the owner, each with the exact next step. Omit the section if empty.\n"
         "4. 📅 これからの予定: the next scheduled episodes / Shorts.\n"
-        "5. 💬 視聴者の声: summarize the comments; list each reply draft with its id as `[id]` so the owner can approve it.\n"
-        "6. 📈 数字: the growth points and the one idea.\n"
-        "7. End with: 返信するときは `/reply all` か `/reply <id> <id>`、質問はこのIssueにそのまま書いてね。",
+        "5. 🗣 日本語の発音チェック: only when the pronunciation report has words. For each: the word, which episode, "
+        "and the respelling candidates. Say the owner should listen before that episode is made: pick a spelling and "
+        "add it to episodes/pronunciations.json on the episodes branch (the voicetest action plays numbered spellings).\n"
+        "6. 💬 視聴者の声: summarize the comments; list each reply draft with its id as `[id]` so the owner can approve it.\n"
+        "7. 📈 数字: the growth points and the one idea.\n"
+        "8. End with: 返信するときは `/reply all` か `/reply <id> <id>`、質問はこのIssueにそのまま書いてね。",
         f"Reports from the specialist agents:\n{data(reports)}\n\nReply drafts waiting for approval:\n{data(inbox)}\n\n"
         f"Time: {snap['at']}. Links of scheduled items:\n{data((snap.get('channel') or {}).get('next_scheduled'))}",
         effort="medium")
@@ -157,10 +191,11 @@ def answer(question, snap, reports, inbox, recent_briefs):
 
 
 def specialists(snap, previous_numbers):
-    """Run the three specialists at the same time. One failing does not stop the others."""
-    jobs = {"ops": lambda: ops(snap), "audience": lambda: audience(snap), "growth": lambda: growth(snap, previous_numbers)}
+    """Run the specialists at the same time. One failing does not stop the others."""
+    jobs = {"ops": lambda: ops(snap), "audience": lambda: audience(snap), "growth": lambda: growth(snap, previous_numbers),
+            "pronunciation": lambda: pronunciation(snap)}
     out = {}
-    with ThreadPoolExecutor(max_workers=3) as pool:
+    with ThreadPoolExecutor(max_workers=len(jobs)) as pool:
         futures = {name: pool.submit(fn) for name, fn in jobs.items()}
         for name, f in futures.items():
             try:

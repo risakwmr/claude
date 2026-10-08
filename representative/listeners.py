@@ -8,6 +8,7 @@ Each listener returns plain data. The representative's agents (agents.py) read t
             episodes.json, missing thumbnails), and the latest views / likes (shorts_stats.json, reports/)
   audience  new viewer comments on the channel since the last check (YouTube API, 1 quota unit)
   note      the note.com draft pipeline (note-pipeline/history.md, drafts/)
+  pronunciation  Japanese words in upcoming episodes that the English voices have no respelling for yet
 
 Paths (set by the workflow):
   CHANNEL_DIR  checkout of the episodes branch (state files the YouTube workflow saves)
@@ -149,6 +150,42 @@ def channel():
     }
 
 
+# ---------- pronunciation ----------
+
+# words that look like romaji (Japanese written in Latin letters), or names with -san etc.
+ROMAJI = re.compile(r"^(?:(?:[kgsztdnhbpmrwfj]|sh|ch|ts|ky|gy|ny|hy|my|ry|by|py)?[aiueo]|n)+$")
+HONORIFIC = re.compile(r"-(san|kun|sama|chan|sensei)$", re.I)
+
+
+def pronunciation(max_episodes=5):
+    """Possible Japanese words in the episodes not made yet, that episodes/pronunciations.json does not cover.
+
+    Many English words look like romaji too ("name", "open"); the pronunciation agent sorts them out."""
+    meta = load(os.path.join(CHANNEL_DIR, "episodes", "episodes.json"), {"episodes": []})
+    pub = load(os.path.join(CHANNEL_DIR, "published.json"), {}) or {}
+    known = (load(os.path.join(CHANNEL_DIR, "episodes", "pronunciations.json"), {}) or {}).get("words", {})
+    known_words = {w for k in known for w in re.findall(r"[a-z]+", k.lower())}
+    upcoming = [e for e in meta["episodes"] if str(e["number"]) not in pub][:max_episodes]
+    out = []
+    for e in upcoming:
+        path = os.path.join(CHANNEL_DIR, "episodes", e["script"])
+        if not os.path.exists(path):
+            continue
+        lines = open(path, encoding="utf-8").read().splitlines()
+        seen = {}
+        for line in lines:
+            for w in re.findall(r"[A-Za-z][A-Za-z'-]*[A-Za-z]", line):
+                lw = w.lower()
+                if lw in seen or lw in known_words or lw in ("sena", "daniel"):
+                    continue
+                if (len(lw) >= 4 and ROMAJI.match(lw)) or HONORIFIC.search(w):
+                    seen[lw] = line.strip()[:160]
+        if seen:
+            out.append({"episode": e["number"], "candidates": seen})
+    return {"next_episode": upcoming[0]["number"] if upcoming else None, "episodes": out,
+            "known": sorted(known)}
+
+
 # ---------- audience ----------
 
 def youtube():
@@ -214,7 +251,7 @@ def note():
 def snapshot(with_comments=True):
     """Everything the representative knows right now."""
     snap = {"at": now().astimezone(JST).strftime("%Y-%m-%d %H:%M JST")}
-    for name, fn in (("pipeline", pipeline), ("channel", channel), ("note", note)):
+    for name, fn in (("pipeline", pipeline), ("channel", channel), ("note", note), ("pronunciation", pronunciation)):
         try:
             snap[name] = fn()
         except Exception as e:

@@ -1,15 +1,15 @@
 # note自動企画パイプライン：実行手順（マルチエージェント版）
 
 あなたは、Sena（note: https://note.com/notesbysena ）のnote編集チームの「まとめ役」。
-1回の実行で、8人のエージェント（`.claude/agents/note-*.md`）に順番に仕事を渡し、**記事ドラフトを1本**作ってリポジトリに保存する。
+1回の実行で、9人のエージェント（`.claude/agents/note-*.md`）に順番に仕事を渡し、**記事ドラフトを1本**作ってリポジトリに保存する。
 記事の中身のルールは `note-pipeline/RULES.md` にある。まず読む。自分では本文を書かず、エージェントに任せる。
 
-**エージェントが見つからないとき**：Agent の subagent_type に `note-scout` などが出てこない場合（リポジトリをセッションの途中でcloneしたときなど）は、subagent_type を `general-purpose` にして、指示の最初に「`.claude/agents/<名前>.md` を読み、その frontmatter の下に書かれた役割と手順どおりに動いてください。」と書いて呼ぶ。その定義の frontmatter に `model:` があれば、Agent の model にも同じ値を渡す（note-writer・note-related-guide・note-editor は `opus`）。手順は同じ。自分で全部書く形に戻さない。
+**エージェントが見つからないとき**：Agent の subagent_type に `note-scout` などが出てこない場合（リポジトリをセッションの途中でcloneしたときなど）は、subagent_type を `general-purpose` にして、指示の最初に「`.claude/agents/<名前>.md` を読み、その frontmatter の下に書かれた役割と手順どおりに動いてください。」と書いて呼ぶ。その定義の frontmatter に `model:` があれば、Agent の model にも同じ値を渡す（note-writer・note-related-guide・note-editor・note-x-writer は `opus`）。手順は同じ。自分で全部書く形に戻さない。
 
 ```
 note-theme-researcher（在庫が少ないときだけ、note-scout と並行）
 note-scout ──▶ note-strategist ──▶ note-researcher ──▶ note-writer ──▶ note-related-guide ──┬─▶ note-fact-checker ─┐
-（現状確認）     （テーマ選定）        （研究の確認）       （執筆）        （関連記事の案内）        └─▶ note-editor ───────┴─▶ 要修正があれば note-writer に戻す（最大2回）
+（現状確認）     （テーマ選定）        （研究の確認）       （執筆）        （関連記事の案内）        └─▶ note-editor ───────┴─▶ 要修正があれば note-writer に戻す（最大2回）──▶ note-x-writer（X投稿案）
 ```
 
 ## 0. 準備
@@ -57,17 +57,21 @@ Agent（`note-related-guide`）に、`article.md` の最後に「次に読むな
 - どちらかが「要修正あり」なら、note-writer に両方のレビューを渡して直させ、要修正があった側だけもう一度校閲させる。
 - 校閲→修正は最大2回。2回目でも残った要修正は、`article.md` の「仕上げに必要な質問」の前に `## 編集チームから（未解決の指摘）` として書き残させる。
 
+## 5.5 X投稿案 → note-x-writer
+
+校閲と修正が終わったら、Agent（`note-x-writer`）に `x-posts.md` を書かせる。
+
 ## 6. 保存とコミット
 
 - `status.md` で「history.md と食い違っている点」があれば、history.md の状態欄を直す。
 - note-strategist が `theme-bank.md` のテーマを選んだら、そのテーマの「状態」を「使用済み（drafts/<フォルダ>）」に直す。
 - `note-pipeline/history.md` に1行追記する（日付｜時間帯｜テーマ｜軸｜フォルダ｜「下書き（要記入あり）・有料化版」）。
-- フォルダには `status.md` `brief.md` `research.md` `article.md` `related.md` `review-facts.md` `review-voice.md` を残す（`research-a.md` / `research-b.md` は消す）。
+- フォルダには `status.md` `brief.md` `research.md` `article.md` `related.md` `review-facts.md` `review-voice.md` `x-posts.md` を残す（`research-a.md` / `research-b.md` は消す）。
 - コミットメッセージ例：`note draft: 2026-10-03 am — <テーマ>`。pushする。
 
 ## 7. 最後の報告
 
-報告の前に、SendUserFile で `article.md` をチャットに送る（status: proactive、display: render）。
+報告の前に、SendUserFile で `article.md` と `x-posts.md` をチャットに送る（status: proactive、display: render）。
 日本語で短く：テーマ、選定理由（1〜2行）、重複度、タイトル、要記入の数、すすめた関連記事、校閲で直したこと（1〜2行）、未解決の指摘の有無、フォルダのパス。
 
 ## 止めるべきとき

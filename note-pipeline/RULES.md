@@ -91,6 +91,7 @@ Senaの事実・シリーズ・書き方が変わったら、ここだけを直�
 | `research.md` | note-researcher | 確認できた研究と数値（どこで確認したか付き）、分かっていないこと、使わないほうがよい情報 |
 | `article.md` | note-writer | タイトル、本文、「公開用メモ（案）」、末尾に「仕上げに必要な質問」（要記入の一覧） |
 | `related.md` | note-related-guide | 関連記事の案内（すすめる記事・次に困りそうなこと・つなぐ1行・誘導文）。案内文は article.md の最後にも入れ、`note-pipeline/related-map.md` に一覧を追記する |
+| `x-posts.md` | note-x-writer | 記事に合わせたX投稿案（紹介2本＋単独3本）。校閲のあとに作る |
 | `review-facts.md` | note-fact-checker | 本文の数値・研究の説明が research.md と出典に合っているか |
 | `review-voice.md` | note-editor | Senaの経験の捏造・開示・書式・有料構成のルールを守っているか |
 

@@ -709,7 +709,8 @@ def note_status(key, value):
 
 CAPTIONS_FILE = os.path.join(ROOT, "captions.json")
 # language, track name, file suffix next to the video (epNN.ja.srt / epNN.srt)
-CAPTION_TRACKS = (("ja", "日本語", ".ja.srt"), ("en", "English", ".srt"))
+CAPTION_TRACKS = (("ja", "日本語", ".ja.srt"), ("en", "English", ".srt"),
+                  ("es", "Español", ".es.srt"), ("pt", "Português", ".pt.srt"), ("id", "Bahasa Indonesia", ".id.srt"))
 
 
 def caption_state():
@@ -736,7 +737,7 @@ class QuotaExceeded(Exception):
 
 def add_captions(yt, vid, srt, lang="ja", name="日本語"):
     """Upload (or replace) one caption track. Needs the youtube.force-ssl scope. About 450 quota units."""
-    label = "Japanese" if lang == "ja" else "English" if lang == "en" else lang
+    label = {"ja": "Japanese", "en": "English", "es": "Spanish", "pt": "Portuguese", "id": "Indonesian"}.get(lang, lang)
     try:
         old = yt.captions().list(part="snippet", videoId=vid).execute().get("items", [])
         for c in old:
@@ -766,7 +767,8 @@ def add_japanese_captions(yt, vid, srt):
 
 
 def missing_captions(nums=None):
-    """(episode, lang) caption tracks not up yet, Japanese first (all episodes), then English, oldest first."""
+    """(episode, lang) caption tracks not up yet, by language (Japanese, English, then the other translations),
+    oldest episode first."""
     pub = json.load(open(os.path.join(ROOT, "published.json")))
     meta = json.load(open(os.path.join(ROOT, "episodes", "episodes.json"), encoding="utf-8"))
     eps = {e["number"]: e for e in meta["episodes"]}
@@ -775,7 +777,8 @@ def missing_captions(nums=None):
     out = []
     for lang, _, _ in CAPTION_TRACKS:
         for n in nums:
-            if lang == "ja" and not os.path.exists(os.path.join(ROOT, "episodes", eps[n]["script"][:-4] + ".ja.txt")):
+            # translated tracks need their translation file (episodes/epNN.<lang>.txt)
+            if lang != "en" and not os.path.exists(os.path.join(ROOT, "episodes", eps[n]["script"][:-4] + f".{lang}.txt")):
                 continue
             if state.get(pub[str(n)]["video_id"], {}).get(lang) != "ok":
                 out.append((n, lang))

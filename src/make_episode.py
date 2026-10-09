@@ -257,6 +257,58 @@ def load_japanese(ep, n_lines):
     return ja[:n_lines]
 
 
+# More caption languages: episodes/epNN.<lang>.txt, one line per script line ("SENA: ..."), like the Japanese file.
+# Each becomes output/epNN/epNN.<lang>.srt, uploaded by `upload.py captions` (see CAPTION_TRACKS there).
+OTHER_LANGS = ("es", "pt", "id")
+
+
+def load_translation(ep, n_lines, lang):
+    """Translation lines (one per script line) from episodes/epNN.<lang>.txt, or None."""
+    path = os.path.join(ROOT, "episodes", ep["script"].replace(".txt", f".{lang}.txt"))
+    if not os.path.exists(path):
+        return None
+    out = []
+    for raw in open(path, encoding="utf-8"):
+        m = re.match(r"^\s*(SENA|DANIEL)\s*:\s*(.+?)\s*$", raw)
+        if m:
+            out.append(m.group(2))
+    if len(out) < n_lines:
+        print(f"  WARNING: {os.path.basename(path)} has {len(out)} lines, script has {n_lines}; "
+              f"{lang} captions skipped", flush=True)
+        return None
+    return out[:n_lines]
+
+
+def split_latin(text, max_chars=84):
+    """Split a line into caption-sized pieces (two short lines on screen) at sentence ends, then at word breaks."""
+    out = []
+    for p in (p.strip() for p in re.split(r"(?<=[.!?…])\s+", text) if p.strip()):
+        while len(p) > max_chars:
+            cut = max(p.rfind(c, 0, max_chars) for c in (", ", "; ", " — "))
+            if cut < max_chars // 2:  # no pause late enough: break at the last space
+                cut = p.rfind(" ", 0, max_chars)
+            cut = cut if cut >= 20 else max_chars
+            out.append(p[:cut + 1].strip())
+            p = p[cut + 1:].strip()
+        if p:
+            out.append(p)
+    return out or [text]
+
+
+def write_translation_srt(path, segments, lines):
+    k = 0
+    with open(path, "w", encoding="utf-8") as f:
+        for (s0, s1, spk), text in zip(segments, lines):
+            pieces = split_latin(text)
+            total = sum(len(p) for p in pieces)
+            t = s0
+            for p in pieces:
+                d = (s1 - s0) * len(p) / total
+                k += 1
+                f.write(f"{k}\n{srt_time(t)} --> {srt_time(t + d)}\n{spk.title()}: {p}\n\n")
+                t += d
+
+
 def split_japanese(text, max_chars=34):
     """Split a Japanese line into caption-sized pieces at sentence ends, then commas."""
     parts = [p for p in re.split(r"(?<=[。！？!?])", text) if p.strip()]
@@ -379,6 +431,12 @@ def build(num, fake=False, limit=None, out_dir=None, audio_only=False):
         ja_srt = os.path.join(out_dir, f"ep{num:02d}.ja.srt")
         write_japanese_srt(ja_srt, segments, ja)
         print(f"  Japanese captions: {ja_srt}", flush=True)
+    for lang in OTHER_LANGS:
+        tr = load_translation(ep, len(lines), lang)
+        if tr:
+            tr_srt = os.path.join(out_dir, f"ep{num:02d}.{lang}.srt")
+            write_translation_srt(tr_srt, segments, tr)
+            print(f"  {lang} captions: {tr_srt}", flush=True)
     if audio_only:
         shutil.rmtree(work, ignore_errors=True)
         print(f"  {total / 60:.1f} min (audio only)", flush=True)

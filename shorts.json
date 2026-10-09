@@ -53,6 +53,11 @@
     "publish_at": "2026-10-06T23:00:00Z",
     "commented": true
   },
+  "3-culture": {
+    "video_id": "BmO7J6dItZ0",
+    "uploaded_at": "2026-10-09T03:39:35+00:00",
+    "publish_at": "2026-10-09T09:00:00Z"
+  },
   "4-ai": {
     "video_id": "OIbZ6sh9RiE",
     "uploaded_at": "2026-10-06T03:51:52+00:00",
@@ -121,11 +126,13 @@
   "17-ai": {
     "video_id": "gDfr1rD93t4",
     "uploaded_at": "2026-10-08T18:25:34+00:00",
-    "publish_at": "2026-10-08T18:25:34Z"
+    "publish_at": "2026-10-08T18:25:34Z",
+    "commented": true
   },
   "17-highlight": {
     "video_id": "HlcnzW_eV2s",
     "uploaded_at": "2026-10-08T18:25:32+00:00",
-    "publish_at": "2026-10-08T18:25:32Z"
+    "publish_at": "2026-10-08T18:25:32Z",
+    "commented": true
   }
 }

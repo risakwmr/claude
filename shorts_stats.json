@@ -1,5 +1,5 @@
 {
-  "at": "2026-10-08T18:25:37Z",
+  "at": "2026-10-09T03:39:36Z",
   "shorts": {
     "1-ai": {
       "video_id": "IdbU6d1ox0Q",
@@ -82,6 +82,15 @@
       "likes": 0,
       "comments": 1
     },
+    "3-culture": {
+      "video_id": "BmO7J6dItZ0",
+      "title": "Ownership at work: Japan vs the US #shorts",
+      "public": false,
+      "publish_at": "2026-10-09T09:00:00Z",
+      "views": 0,
+      "likes": 0,
+      "comments": 0
+    },
     "4-ai": {
       "video_id": "OIbZ6sh9RiE",
       "title": "AI can offer the menu. It can't taste the food. #shorts",
@@ -105,7 +114,7 @@
       "title": "I wasn't stressed. I was lonely. #shorts",
       "public": true,
       "publish_at": "2026-10-08T09:00:00Z",
-      "views": 52,
+      "views": 53,
       "likes": 0,
       "comments": 1
     },
@@ -123,18 +132,9 @@
       "title": "Why a third of feedback makes things worse #shorts",
       "public": true,
       "publish_at": "2026-10-08T13:00:00Z",
-      "views": 5,
+      "views": 7,
       "likes": 0,
       "comments": 1
-    },
-    "6-ai": {
-      "video_id": "E2jb6UYiO4Y",
-      "title": "The agenda is easy. The trust is the hard part. #shorts",
-      "public": false,
-      "publish_at": "2026-10-08T23:00:00Z",
-      "views": 0,
-      "likes": 0,
-      "comments": 0
     },
     "16-ai": {
       "video_id": "wpHzHItUs9A",
@@ -177,7 +177,7 @@
       "title": "Say it out loud: 3 English phrases for reporting a mistake #shorts",
       "public": true,
       "publish_at": "2026-10-08T05:15:54Z",
-      "views": 56,
+      "views": 57,
       "likes": 0,
       "comments": 1
     },
@@ -186,18 +186,18 @@
       "title": "AI can read your calendar, not your stress #shorts",
       "public": true,
       "publish_at": "2026-10-08T18:25:34Z",
-      "views": 0,
+      "views": 55,
       "likes": 0,
-      "comments": 0
+      "comments": 1
     },
     "17-highlight": {
       "video_id": "HlcnzW_eV2s",
       "title": "Can seeing stress as useful help? What one study found #shorts",
       "public": true,
       "publish_at": "2026-10-08T18:25:32Z",
-      "views": 0,
+      "views": 108,
       "likes": 0,
-      "comments": 0
+      "comments": 1
     }
   },
   "episodes": {
@@ -318,7 +318,7 @@
       "title": "Stress at Work Is a Signal: How to Read It | English Podcast EP17",
       "views": 0,
       "likes": 0,
-      "comments": 0
+      "comments": 1
     }
   }
 }

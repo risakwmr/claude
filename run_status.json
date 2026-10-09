@@ -68,7 +68,7 @@
     "result": "ok"
   },
   "channel": {
-    "at": "2026-10-08T18:10:11Z",
+    "at": "2026-10-09T03:38:40Z",
     "result": "Human Curriculum- Learn what AI can’t do (UCSaZaQp7Ao--E-UrkQ4RnXg)"
   },
   "captions:hj8EgYR2ORo": {
@@ -120,8 +120,8 @@
     "result": "ok iSK3dsxPs54"
   },
   "short:3-culture": {
-    "at": "2026-10-04T10:55:21Z",
-    "result": "ERROR 400 <HttpError 400 when requesting None returned \"The user has exceeded the number of videos they may upload.\". Details: \"[{'message': 'The user has exceeded the number of videos they may upload.', 'domain': 'youtube.video', 'reason': 'uploadLimitExceeded'}]\">"
+    "at": "2026-10-09T03:39:35Z",
+    "result": "ok BmO7J6dItZ0"
   },
   "short:4-ai": {
     "at": "2026-10-06T03:51:52Z",
@@ -342,5 +342,9 @@
   "short:6-ai": {
     "at": "2026-10-08T18:25:36Z",
     "result": "ok E2jb6UYiO4Y"
+  },
+  "short-comment:6-ai": {
+    "at": "2026-10-09T03:38:41Z",
+    "result": "404 <HttpError 404 when requesting https://youtube.googleapis.com/youtube/v3/commentThreads?part=snippet&alt=json returned \"The specified video could not be found. Check the value of the <code><a href=\"/youtube/v3/docs/commentThreads#snippet.videoId\">snippet.videoId</a></code> property to ensure it is c"
   }
 }

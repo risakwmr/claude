@@ -282,7 +282,9 @@ def load_translation(ep, n_lines, lang):
 def split_latin(text, max_chars=84):
     """Split a line into caption-sized pieces (two short lines on screen) at sentence ends, then at word breaks."""
     out = []
-    for p in (p.strip() for p in re.split(r"(?<=[.!?…])\s+", text) if p.strip()):
+    # break after sentence ends, keeping a closing quote (" ” » ’) with its sentence: « Bonjour. » Et ...
+    ends = r"(?<=[.!?…])\s+(?![»”’])|(?<=[.!?…][»”’\"])\s+|(?<=[.!?…]\s[»”’])\s+"
+    for p in (p.strip() for p in re.split(ends, text) if p.strip()):
         while len(p) > max_chars:
             cut = max(p.rfind(c, 0, max_chars) for c in (", ", "; ", " — "))
             if cut < max_chars // 2:  # no pause late enough: break at the last space

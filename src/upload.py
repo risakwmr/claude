@@ -444,6 +444,55 @@ def short_description(meta, ep, episode_vid):
     return "\n".join(lines)[:4900]
 
 
+SHORT_TITLES_FR = os.path.join(ROOT, "episodes", "short_titles.fr.json")
+
+
+def short_localizations(key):
+    """French title and description for a Short listed in episodes/short_titles.fr.json, or None."""
+    titles = json.load(open(SHORT_TITLES_FR, encoding="utf-8")) if os.path.exists(SHORT_TITLES_FR) else {}
+    if key not in titles or key.startswith("_"):
+        return None
+    desc = ("Épisode complet sur la chaîne.\n\n"
+            "Apprends l'anglais du travail avec Sena (Tokyo) et Daniel (Seattle), et découvre les différences entre "
+            "la culture du travail au Japon et aux États-Unis. Anglais à vitesse naturelle, sous-titres en français.\n"
+            "Sena et Daniel sont des personnages fictifs. Leurs voix sont générées par IA.\n\n"
+            "#shorts #Japon #ApprendreLAnglais #AnglaisDesAffaires")
+    return {"fr": {"title": short_title(titles[key]), "description": desc}}
+
+
+def localize_shorts():
+    """Add the French title to Shorts already up that have one in short_titles.fr.json (50 quota units each).
+    Done ones are marked "fr": true in shorts.json."""
+    import shorts
+    data = shorts.load_shorts()
+    todo = [k for k, v in data.items() if not v.get("fr") and not v.get("deleted") and short_localizations(k)]
+    if not todo:
+        return
+    yt = youtube()
+    for k in todo:
+        vid = data[k]["video_id"]
+        try:
+            items = yt.videos().list(part="snippet,localizations", id=vid).execute().get("items", [])
+            if not items:
+                data[k]["fr"] = "missing"
+                continue
+            snip = items[0]["snippet"]
+            new = {f: snip[f] for f in ("title", "description", "categoryId", "tags", "defaultLanguage",
+                                        "defaultAudioLanguage") if f in snip}
+            new.setdefault("defaultLanguage", "en")
+            loc = dict(items[0].get("localizations") or {})
+            loc.update(short_localizations(k))
+            yt.videos().update(part="snippet,localizations", body={"id": vid, "snippet": new, "localizations": loc}).execute()
+            data[k]["fr"] = True
+            print(f"  Short {k}: French title added", flush=True)
+        except HttpError as e:
+            print(f"  Short {k}: French title skipped ({e.resp.status})", flush=True)
+            note_status(f"short-fr:{k}", f"{e.resp.status} {str(e)[:300]}")
+            if "quotaExceeded" in str(e):
+                break
+    shorts.save_shorts(data)
+
+
 def upload_short(num, kind="ai", publish_at=None):
     """Upload output/epNN/epNN_short_KIND.mp4 as a Short, link the full episode, and record it in shorts.json."""
     try:
@@ -480,6 +529,9 @@ def _upload_short(num, kind="ai", publish_at=None):
             "containsSyntheticMedia": True,
         },
     }
+    loc = short_localizations(f"{num}-{kind}")
+    if loc:
+        body["localizations"] = loc
     if publish_at and publish_at != "now":
         body["status"]["publishAt"] = publish_at
         print(f"  Short goes public at {publish_at} (UTC)", flush=True)
@@ -498,6 +550,10 @@ def _upload_short(num, kind="ai", publish_at=None):
             raise
     vid = resp["id"]
     shorts.record(num, kind, vid, publish_at)
+    if loc:
+        data = shorts.load_shorts()
+        data[f"{num}-{kind}"]["fr"] = True
+        shorts.save_shorts(data)
     note_status(f"short:{num}-{kind}", f"ok {vid}")
     print(f"  Short id: {vid}", flush=True)
     return vid
@@ -902,6 +958,9 @@ if __name__ == "__main__":
         sys.exit(0)
     if sys.argv[1] == "short-stats":
         short_stats()
+        sys.exit(0)
+    if sys.argv[1] == "short-localize":
+        localize_shorts()
         sys.exit(0)
     if sys.argv[1] == "short-comments":
         comment_links()

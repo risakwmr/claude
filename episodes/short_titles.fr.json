@@ -1,0 +1,10 @@
+{
+  "_about": "French titles for Shorts (key: \"EPISODE-KIND\" as in shorts.json). Shown to viewers whose YouTube language is French. Applied at upload, and to Shorts already up by `upload.py short-localize` (scheduled runs).",
+  "2-culture": "Cacher une émotion, ce n'est pas la gérer",
+  "3-culture": "Prendre les choses en main au travail : Japon vs États-Unis",
+  "16-culture": "Signaler une erreur au travail : Japon vs États-Unis",
+  "18-culture": "Avant un discours : Japon vs États-Unis",
+  "19-culture": "La colère au travail : Japon vs États-Unis",
+  "20-culture": "La déception au travail : Japon vs États-Unis",
+  "21-culture": "L'envie au travail : Japon vs États-Unis"
+}

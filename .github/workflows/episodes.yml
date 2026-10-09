@@ -260,6 +260,7 @@ jobs:
           SHORT_SLOTS_JST: ${{ vars.SHORT_SLOTS_JST }}
         run: |
           # No link comments on Shorts: links in Shorts comments can't be clicked. The owner sets "Related video" in Studio.
+          python src/upload.py short-localize || echo "French Short titles skipped"
           mkdir -p output
           if [ "$EVENT" = "schedule" ]; then
             python src/shorts.py plan > output/short_plan.txt

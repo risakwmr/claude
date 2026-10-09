@@ -1,0 +1,105 @@
+SENA: Monday, nine forty at night. I'm on the Yamanote Line, standing, holding the strap with one hand. With the other hand, I open a blank slide on my phone.
+DANIEL: The Thursday slides.
+SENA: Yes. I type the title. "Monthly Report Pipeline." Then, under it, in small letters, I type, "Basically a faster spreadsheet."
+DANIEL: You put that on the slide?
+SENA: Then Mark's message pops up. "Can't wait for Thursday! Everyone says your pipeline is amazing." With two clapping-hands emoji. And a small voice in my head says, "Everyone is wrong. And on Thursday, they'll find out."
+DANIEL: What happens next?
+SENA: The doors open at my station, and I almost miss it. I jump out at the last second. And the small letters are still on the slide.
+DANIEL: That small voice has a name, and it's very common among people who are good at their jobs. By the end of this episode, you'll be able to answer it with three pieces of evidence, written down, in your own words.
+SENA: Evidence. Like a lawyer. Okay.
+DANIEL: Welcome back to Human Curriculum. I'm Daniel Reed, a People Manager in Seattle.
+SENA: And I'm Sena Sato, an Associate in Tokyo. It's Monday, ten thirty at night here. I just got home.
+DANIEL: Six thirty in the morning here. Maple and I are about to walk in the rain. Last time, your challenge was to notice envy and write one sentence that starts with "I want." And you did it live, on our call.
+SENA: I did. "I want to work closer to product decisions." It has its own page now. And I sent Misaki a real congratulations.
+DANIEL: And then two messages arrived at once. Did you talk to Misaki?
+SENA: Today at lunch. We ate convenience store onigiri by the window on the twelfth floor. She said, "Mark asked in a meeting who made the monthly report so fast. Nobody knew. So I said, 'Sena Sato. She built the whole pipeline.'"
+DANIEL: That's a good friend.
+SENA: She is. And then she said, "Sena, you always say 'no, no.' Please don't say 'no, no' on Thursday."
+DANIEL: Ha. She knows you. And the envy, after lunch?
+SENA: Much smaller. I think because my sentence is about me now, not about her. But a new feeling came. The one from the train.
+DANIEL: Did you write the thought down, like I asked?
+SENA: Yes. "What if they find out it was just a faster spreadsheet?" And under it, I wrote more. "Ryo tested it. Kenta found bugs. I only connected things that already existed. Laura once thought Ryo built it, and nobody noticed the difference."
+DANIEL: Oof. That last line is harsh. How long did the monthly report take before your pipeline?
+SENA: Two days, by hand.
+DANIEL: And now?
+SENA: About an hour. But that's the computer's work, not mine.
+DANIEL: Sena. Listen to what you just did. I gave you a fact, and you found a way to give it away. That's today's topic. Impostor feelings. And the research is messier than the internet says.
+SENA: The internet says almost everyone has impostor syndrome.
+DANIEL: Let's see what a careful review says. The idea started in 1978. Two psychologists, Pauline Clance and Suzanne Imes, described it in high-achieving women. Successful people who can't take in their own success. They feel they've fooled everyone, and that someday they'll be found out.
+SENA: That's me on the train.
+DANIEL: Then, in 2020, Dena Bravata and her colleagues published a systematic review in the Journal of General Internal Medicine. They collected sixty-two studies with fourteen thousand, one hundred sixty-one participants.
+SENA: That's big. So what percent of people have it?
+DANIEL: That's the surprising part. Between nine percent and eighty-two percent.
+SENA: Nine to eighty-two? That's not a number. That's the whole sky.
+DANIEL: Exactly. The authors said most of that range came from how each study measured it, which questionnaire and which cutoff. What the review did find is this: impostor feelings showed up in both women and men, they often came together with anxiety and depression, and at work, with burnout and lower job satisfaction.
+SENA: So it's not just a cute word for being humble.
+DANIEL: No. And two more honest notes. First, the review says it's not a recognized psychiatric disorder. It's a pattern of thoughts, not a diagnosis. Second, almost all the studies were snapshots, many with students, so we know very little about cause and effect. And if the feeling is heavy every day, or comes with a low mood that doesn't lift, talking to a professional is a good idea.
+SENA: Okay. It's common, it can hurt, and we know less than we think. That's a little depressing.
+DANIEL: Here's the second study, and it's more hopeful. In 2022, Basima Tewfik published a paper in the Academy of Management Journal. She uses the phrase "workplace impostor thoughts." The thought that other people overestimate how competent you are.
+SENA: That's exactly my sentence. "They think I'm better than I am."
+DANIEL: She ran four studies on these impostor thoughts. In one, at an investment advisory firm, employees reported how often they had them. About two months later, their supervisors rated how effective they were with other people.
+SENA: And the people with impostor thoughts were rated worse?
+DANIEL: Better. The employees with more frequent impostor thoughts were rated as more interpersonally effective. In another study, doctors in training with more of these thoughts were rated more highly by their patients on how they interacted.
+SENA: Wait. The doubt made them better?
+DANIEL: Her explanation is that people compensate. If you think others overrate you, you focus more on them. You listen, you ask questions, you nod, you speak calmly. Two experiments with mock interviews supported that idea. And in her studies, it didn't seem to cost them in performance.
+SENA: So my small voice is a hidden superpower.
+DANIEL: Careful. Tewfik also found that the thoughts lowered self-esteem, and she says managers shouldn't encourage them. She even said there may be situations where you don't find the upside, like work with very little contact with people. So we don't want to keep the voice. We want to keep the listening, and lose the lie.
+SENA: Keep the listening, lose the lie. I'm writing that down.
+DANIEL: Our usual question now. Why can't AI do this?
+SENA: Well, I could paste my project notes into AI and say, "Write me a confident introduction." It would write a beautiful one in five seconds.
+DANIEL: It would. Probably with the word "spearheaded."
+SENA: Ha. But I wouldn't believe it. The voice doesn't argue with sentences. It argues with memories. And AI doesn't have mine. It wasn't there this spring, when the first automatic run finished and Ryo said, "Wait, it's done already?" It didn't see Kenta's face when the check caught a mistake before Mark saw the numbers.
+DANIEL: And on Thursday, AI can't stand in that meeting and say "I built this" out loud. AI can format your evidence. Only you can believe it, and own it in your own voice.
+SENA: Daniel, have you ever felt like an impostor?
+DANIEL: Many times. One time it cost me. About nine years ago, my manager was on vacation, and I was asked to present our team's quarterly results to our VP, Rosalind. Fifteen minutes. My first time in that room.
+SENA: Like my Thursday.
+DANIEL: Very much like it. And I was sure I was only there because my manager was away. So I opened with, "I'm just filling in, so please forgive me. I'm probably not the right person for the hard questions."
+SENA: Oh no. I can imagine saying exactly that.
+DANIEL: The results were good. My team's work was good. But every time Rosalind asked a question, I said, "I'd have to check with the engineers." Even when I knew the answer. After the meeting, she stopped me in the hallway and said, "Daniel, you told me not to listen to you. So I didn't."
+SENA: Ouch.
+DANIEL: Ouch is right. And that quarter, our project moved down the priority list. Not only because of me, but I didn't help. My team deserved a better presenter. And they had one, actually. He was just hiding.
+SENA: What did you change?
+DANIEL: That night my wife asked me, "If one of your engineers were presenting, what would you tell them?" I said, "Know your numbers, and own them." So I started a file on my laptop. I called it "Receipts." Every time something I did worked, a number, a thank-you email, a problem solved, I added one line. Before any big meeting, I read it for two minutes.
+SENA: Do you still have it?
+DANIEL: Nine years of receipts. And the next quarter, I opened my presentation to Rosalind with, "Here's what we delivered, and here's what I need from you." She said, "Better." One word. I was happy for a week.
+SENA: Can I talk about Japan? Because "just a faster spreadsheet" sounds very Japanese to me.
+DANIEL: How so?
+SENA: When we give a gift in Japan, people sometimes say, "tsumaranai mono desu ga." It means, "This is a boring thing, but..." It's polite to make your own things small. And at work we say, "mada mada desu." "I'm still not good enough." Everyone says it, and everyone understands it's modesty, so the listener quietly adds the value back.
+DANIEL: The listener adds it back. That's a great way to put it.
+SENA: Also, we say "we" a lot. "Thanks to everyone." Saying "I did this" can sound like showing off.
+DANIEL: In many US meetings, the listener doesn't add it back. If you say, "It's just a spreadsheet," people may simply believe you. That's what happened to me with Rosalind, and I'm American. People expect you to describe your own part clearly. "I built it" is a fact here, not bragging, as long as you also name who helped.
+SENA: So in Japan, the small words are polite, and in the US, the small words are taken literally.
+DANIEL: Often, though every team is different. And Thursday is Mark's team in Seattle. So translate your modesty. Thank Ryo and Kenta by name, and say clearly what you built.
+SENA: Which EQ skill is this?
+DANIEL: Self-awareness. Four steps. One, notice the voice. "They'll find out." Two, name it. "That's an impostor thought." A thought, not a fact. Three, check the evidence. Write down three facts: a number, a result, or something someone said. And four, say one sentence that owns your part and names the people who helped.
+SENA: Can I try now?
+DANIEL: Please.
+SENA: One. The monthly report took two days by hand. Since this spring, it runs in about an hour, every month. Two. After my region two mistake, I added a check, and now it runs on every region before Mark gets the numbers. Three. Wendell asked me to review his first version of region three. And four, Misaki told Mark it was me. Okay, that's four.
+DANIEL: Evidence is allowed to be four. How does it feel to read it?
+SENA: Strange. Like reading about a coworker I respect. And my sentence: "I built the pipeline, Ryo tested it, and Kenta's review made it better."
+DANIEL: That's honest, and it's yours. Now delete the small letters on slide one.
+SENA: Deleting. Gone. Oh, and Ryo's fifteen minutes with Kato-san is tomorrow at eleven. I'm nervous for him.
+DANIEL: Tell me how it goes. Now, Speaking Lab. Three sentences for owning your work. I'll say each one, and Sena repeats. Listeners, pause and say it out loud with her.
+SENA: Ready.
+DANIEL: "I built this pipeline, and it cut two days to one hour."
+SENA: I built this pipeline, and it cut two days to one hour.
+DANIEL: "Here's what changed, and here's the evidence behind it."
+SENA: Here's what changed, and here's the evidence behind it.
+DANIEL: "Thank you, I worked hard on that, and I'm proud of it."
+SENA: Thank you, I worked hard on that, and I'm proud of it.
+DANIEL: Lovely. Now, a retell. In about thirty seconds, tell me today's main points in your own words.
+SENA: Okay. Impostor feelings are when you think people overestimate you. A review by Bravata and colleagues looked at sixty-two studies. The rates were from nine to eighty-two percent, um, depending on how they measured it, and the feelings were linked to anxiety and burnout. Tewfik found that people with impostor thoughts were rated better with others, but their self-esteem was lower. So I keep the listening, and I answer the voice with evidence.
+DANIEL: Perfect. Listeners, your turn. In forty seconds, answer this. What is one piece of work you are proud of, and what is the evidence that you did it well? Pause the audio and speak.
+SENA: Mine is the pipeline. The evidence is two days down to one hour, every month.
+DANIEL: Today's challenge: write down three pieces of evidence of your own work. Facts, not feelings. A number, a result, or something someone said to you.
+SENA: I'll put my three on the first page of my Thursday notes, and read them right before I start.
+DANIEL: And if the voice comes back in the middle of the meeting?
+SENA: I'll say, "Thank you, that's an impostor thought," and look at page one.
+DANIEL: Next time, episode twenty-three, "Saying No Without Burning Bridges." How to turn down a request and keep the relationship.
+SENA: I'm not good at that. But I don't have anything to say no to right now.
+DANIEL: Famous last words. It's morning in Seattle. Mark's day is just starting.
+SENA: Oh. My phone. It's Mark. "Sena, quick thought for Thursday! I have a small idea. I'll send it later tonight, your time." With a rocket emoji.
+DANIEL: A small idea. From Mark. At night.
+SENA: Mark's small ideas are usually a week of work.
+DANIEL: Then keep your evidence close, and your thumb away from the send button. Thanks for listening to Human Curriculum. I'm Daniel.
+SENA: And I'm Sena. Notice the voice, check the evidence, own your part. See you next time.

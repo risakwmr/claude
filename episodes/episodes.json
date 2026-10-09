@@ -1329,6 +1329,118 @@
       ],
       "thumb_cup": "Write \"I want\"",
       "thumb_pose": "sena_think"
+    },
+    {
+      "number": 22,
+      "script": "ep22.txt",
+      "title": "Impostor Feelings",
+      "short_title": "Impostor Feelings",
+      "summary": "Days before presenting her pipeline to Mark's team in Seattle, Sena types \"Basically a faster spreadsheet\" under the title of her first slide, and a small voice says everyone will find out. Daniel shares a systematic review by Bravata and colleagues of 62 studies, where impostor feelings ranged from 9% to 82% depending on how they were measured, and Basima Tewfik's research, where people with workplace impostor thoughts were rated as better with others but had lower self-esteem. He tells the story of underselling himself to his VP and the \"Receipts\" file he has kept ever since, and they compare Japanese modesty, which listeners quietly add back, with US meetings, where small words are taken literally. Today's challenge: write down three pieces of evidence of your own work: a number, a result, or something someone said to you.",
+      "practice": "Write down three pieces of evidence of your own work. Facts, not feelings: a number, a result, or something someone said to you.",
+      "sources": [
+        "Bravata, Watts, Keefer, Madhusudhan, Taylor, Clark, Nelson, Cokley & Hagg (2020), Prevalence, Predictors, and Treatment of Impostor Syndrome: a Systematic Review, Journal of General Internal Medicine",
+        "Tewfik (2022), The Impostor Phenomenon Revisited: Examining the Relationship between Workplace Impostor Thoughts and Interpersonal Effectiveness at Work, Academy of Management Journal",
+        "Clance & Imes (1978), The Imposter Phenomenon in High Achieving Women: Dynamics and Therapeutic Intervention, Psychotherapy: Theory, Research & Practice"
+      ],
+      "tags": [
+        "EQ",
+        "emotional intelligence",
+        "impostor syndrome",
+        "imposter syndrome",
+        "self-doubt",
+        "confidence at work",
+        "self-awareness",
+        "career",
+        "leadership",
+        "program manager",
+        "audiobook",
+        "English learning",
+        "English speaking"
+      ],
+      "yt_title": "Feel Like an Impostor at Work? Answer the Voice With Evidence",
+      "hook": "You finally get the chance you wanted, and a small voice says, \"They'll find out you're not that good.\"\nLearn how to answer impostor thoughts with three pieces of evidence and one sentence that owns your work.",
+      "points": [
+        "62 studies: impostor feelings ranged from 9% to 82%, depending on how they were measured",
+        "Why people with impostor thoughts were rated better with others, and what it costs them",
+        "Daniel undersold himself to his VP, and started a \"Receipts\" file",
+        "Japanese modesty vs US meetings, where small words are taken literally"
+      ],
+      "title_ja": "「いつかバレる」と思ったら。自分の成果に証拠で答える",
+      "hook_ja": "初めての大きな発表。スライドに「要するに、ただの表計算です」と小さく書き足してしまう…そんな経験はありませんか？\n「自分なんて」の声に、3つの証拠で言い返す方法を英語で身につけよう🎧（日本語字幕あり）",
+      "points_ja": [
+        "62の研究でわかった「9〜82%」という幅の正体",
+        "インポスター思考がある人ほど、人づき合いは高評価？",
+        "ダニエルがVPの前で自分を小さく見せた日",
+        "「つまらないものですが」が通じない会議"
+      ],
+      "summary_ja": "マークさんのチームへの発表を前に、スライドに「要するに、速くなったスプレッドシート」と書いてしまうセナ。62の研究をまとめたブラバタらのレビュー（割合は測り方次第で9〜82%）と、インポスター思考のある人ほど対人面で高く評価されたが自尊心は低かったというテウフィクの研究を紹介します。VPの前で自分を小さく見せて失敗し、「レシート」ファイルを作ったダニエルの話、聞く側が価値を足し戻す日本の謙遜と、小さく言うと文字どおりに受け取られるアメリカの会議の比較も。",
+      "practice_ja": "自分の仕事の証拠を3つ書き出す。気持ちではなく事実で：数字、結果、誰かに言われたこと。",
+      "thumb_accent": "Evidence",
+      "thumb_sub": "Answer the Voice With Evidence",
+      "thumb_notes": [
+        "They'll find out?",
+        "A thought, not a fact",
+        "2 days → 1 hour",
+        "Own your part"
+      ],
+      "thumb_cup": "Write 3 receipts",
+      "thumb_pose": "sena_write"
+    },
+    {
+      "number": 23,
+      "script": "ep23.txt",
+      "title": "Saying No Without Burning Bridges",
+      "short_title": "Saying No Without Burning Bridges",
+      "summary": "Two days before her first presentation to Mark's team, a late-night Slack message asks Sena for a twelve-month breakdown that would take three days, and her \"Of course!\" reply is waiting on the send button. Daniel shares research by Givi and Kirk, where people who said no overestimated how upset the other person would be, and by Zauberman and Lynch, where people expected more free time next month than today. He tells the story of the one-line no that came back to him six months later, and they compare soft Japanese refusals like \"it's a little difficult\" with the US view that a late no hurts trust more than an early one. Today's challenge: say no to one request today and offer one alternative with it.",
+      "practice": "Say no to one request today, big or small, and offer one alternative with it: a smaller version, a later date, or another person who can help.",
+      "sources": [
+        "Givi & Kirk (2023), Saying No: The Negative Ramifications From Invitation Declines Are Less Severe Than We Think, Journal of Personality and Social Psychology",
+        "Zauberman & Lynch (2005), Resource Slack and Propensity to Discount Delayed Investments of Time Versus Money, Journal of Experimental Psychology: General"
+      ],
+      "tags": [
+        "EQ",
+        "emotional intelligence",
+        "saying no",
+        "how to say no at work",
+        "boundaries",
+        "overcommitment",
+        "relationship management",
+        "stakeholder management",
+        "career",
+        "leadership",
+        "program manager",
+        "audiobook",
+        "English learning",
+        "English speaking"
+      ],
+      "yt_title": "How to Say No at Work Without Damaging the Relationship",
+      "hook": "A request arrives late at night, and your reply already says \"Of course! Happy to help!\" even though you know it will take three days you don't have.\nLearn how to say no in a few clear sentences, with a real alternative, and keep the relationship warm.",
+      "points": [
+        "Why people who say no overestimate how upset others will be (Givi & Kirk)",
+        "Why we overcommit: we expect more free time next month than today",
+        "Daniel's one-line \"No. We don't have capacity.\" and what it cost him",
+        "Soft refusals in Japan vs \"a late no hurts more\" in the US"
+      ],
+      "title_ja": "関係を壊さずに「ノー」と言う方法",
+      "hook_ja": "夜11時40分、「これも追加できる？🙏」。本当は3日かかるのに、「もちろんです！」と打った親指が送信ボタンの上で止まっている。そんな経験、ありませんか？\n代わりの案を添えて、短くはっきり、関係は温かいまま断る方法を英語で学ぼう🎧（日本語字幕あり）",
+      "points_ja": [
+        "断られた側は、思うほど怒っていない？",
+        "「来月はひまなはず」が引き受けすぎを生む",
+        "ダニエルの1行の「無理です」が半年後に返ってきた話",
+        "「ちょっと難しい」の日本と「遅いノー」を嫌うアメリカ"
+      ],
+      "summary_ja": "マークさんのチームへの初めての発表の2日前、夜遅くに3日かかる追加依頼が届き、「もちろんです！」の返信が送信ボタンの上で止まっているセナ。断る側は相手の怒りや失望を大きく見積もりすぎるというギヴィとカークの研究と、人は今日より1か月後のほうが時間があると思いこむというザウバーマンとリンチの研究を紹介します。1行の「無理です」が半年後に自分に返ってきたダニエルの失敗談、「検討します」「ちょっと難しい」の日本と、早いノーより遅いノーが信頼を傷つけるアメリカの比較も。",
+      "practice_ja": "今日、大小を問わず頼まれごとを1つ断り、代わりの案を1つ添える（小さい版、あとの日付、または手伝える別の人）。",
+      "thumb_accent": "Alternative",
+      "thumb_sub": "Offer an Alternative, Keep the Bridge",
+      "thumb_notes": [
+        "Pause first",
+        "Ask what it's for",
+        "One clear no",
+        "Offer another way"
+      ],
+      "thumb_cup": "No, plus a plan",
+      "thumb_pose": "sena_idea"
     }
   ]
 }

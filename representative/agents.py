@@ -180,6 +180,10 @@ def brief(snap, reports, inbox):
         "and the respelling candidates. Say the owner should listen before that episode is made: pick a spelling and "
         "add it to episodes/pronunciations.json (give its edit_link and a ready-to-paste JSON line per word, e.g. "
         "`\"gaman\": \"gah-mahn\",`), and the voicetest_link to hear numbered spellings.\n"
+        "6b. 🔗 ショートに関連動画: only when related_video_new is not empty. Links in Shorts can't be clicked, so the "
+        "owner sets 'Related video' in YouTube Studio by hand. For each new Short: a markdown link to its studio_link and "
+        "the full episode to choose (EP number and title). One line on how: open the link, Related video, pick the episode, "
+        "Save.\n"
         "7. 💬 視聴者の声: summarize the comments; list each reply draft with its id as `[id]` and the video link (https://youtu.be/<video_id>) so the owner can approve it.\n"
         "8. 📈 数字: the growth points and the one idea.\n"
         "9. End with: 返信するときは `/reply all` か `/reply <id> <id>`、質問はこのIssueにそのまま書いてね。",
@@ -187,6 +191,7 @@ def brief(snap, reports, inbox):
         f"Time: {snap['at']}. Links of scheduled items:\n{data((snap.get('channel') or {}).get('next_scheduled'))}\n\n"
         f"Thumbnails needed:\n{data({k: (snap.get('channel') or {}).get(k) for k in ('thumbnails_needed', 'thumbnail_references')})}\n\n"
         f"Thumbnail template:\n{THUMB_TEMPLATE}\n\n"
+        f"New Shorts to link to their episode:\n{data(snap.get('related_video_new'))}\n\n"
         f"Pronunciation links:\n{data({k: (snap.get('pronunciation') or {}).get(k) for k in ('edit_link', 'voicetest_link', 'next_episode')})}",
         effort="medium")
 

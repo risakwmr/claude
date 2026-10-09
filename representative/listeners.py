@@ -175,6 +175,12 @@ def channel():
                         "automatic posting is paused until it is added.")
 
     shorts_rows = [{"short": k, "state": state(v), "publish_at": jst(v.get("publish_at"))} for k, v in shorts.items()]
+    # Shorts can't link with a clickable URL; the owner sets "Related video" in Studio by hand (the API can't)
+    titles = {str(e["number"]): e.get("short_title") for e in meta["episodes"]}
+    related_video_todo = [{"short": k, "studio_link": f"https://studio.youtube.com/video/{v['video_id']}/edit",
+                           "episode": int(k.split("-")[0]), "episode_title": titles.get(k.split("-")[0]),
+                           "episode_public": k.split("-")[0] in pub, "uploaded_at": v.get("uploaded_at")}
+                          for k, v in shorts.items() if not v.get("deleted")]
     stats = load(os.path.join(CHANNEL_DIR, "shorts_stats.json"), {}) or {}
     reports = sorted(glob.glob(os.path.join(CHANNEL_DIR, "reports", "*.json")))
     latest_report = load(reports[-1], {}) if reports else {}
@@ -189,6 +195,7 @@ def channel():
                                  repo_url("blob/episodes/episodes/ep18_thumbnail.png")],
         "shorts": {"public": sum(r["state"] == "public" for r in shorts_rows),
                    "scheduled": [r for r in shorts_rows if r["state"] == "scheduled"]},
+        "related_video_todo": related_video_todo,
         "stats_at": jst(stats.get("at")),
         "short_stats": stats.get("shorts", {}),
         "episode_stats": stats.get("episodes", {}),

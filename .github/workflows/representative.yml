@@ -6,8 +6,10 @@ name: YouTube representative
 #    Japanese words in an upcoming episode to check by ear); otherwise it stays quiet
 #    and keeps the brief on the rep-data branch. Set the repository variable REP_NOTIFY to "always" for a daily post.
 #  - Write a question in that issue and it answers. `/reply ...` posts the comment replies you approve.
-# Runs on a schedule only when the repository variable REPRESENTATIVE is "true".
-# Needs the secret ANTHROPIC_API_KEY (and the YouTube secrets the episode workflow already uses).
+# Without the secret ANTHROPIC_API_KEY (the free setup) it only listens: it saves snapshot.json and the new viewer
+# comments on the rep-data branch, and a Claude Code routine on the owner's Claude plan reads them, writes the brief
+# and reply drafts, and notifies the owner. `/reply`, `/skip` and `/edit` work either way (no AI needed).
+# With the secret, it does the thinking here with the Claude API (paid per use).
 
 on:
   schedule:
@@ -42,7 +44,7 @@ jobs:
   representative:
     # Only the repository owner can talk to it, so nobody else can spend the API budget or post replies.
     if: >-
-      (github.event_name == 'schedule' && vars.REPRESENTATIVE == 'true') ||
+      github.event_name == 'schedule' ||
       github.event_name == 'workflow_dispatch' ||
       (github.event_name == 'issue_comment' && !github.event.issue.pull_request &&
        contains(github.event.issue.labels.*.name, 'representative') &&
@@ -92,17 +94,25 @@ jobs:
           COMMENT: ${{ github.event.comment.body }}
         run: |
           if [ "$EVENT" = "issue_comment" ]; then q="$COMMENT"; else q="$INPUT_QUESTION"; fi
-          if [ "$EVENT" = "schedule" ] || { [ "$EVENT" = "workflow_dispatch" ] && [ "$MODE" = "brief" ]; }; then
+          if [[ "$q" =~ ^[[:space:]]*/(reply|skip|edit) ]]; then
+            mode=command  # posting approved replies needs no AI
+          elif [ -z "$ANTHROPIC_API_KEY" ]; then
+            # no API key: only listen (free); the thinking is done by the Claude Code routine on the owner's plan
+            if [ "$EVENT" = "issue_comment" ]; then mode=noai; else mode=listen; fi
+          elif [ "$EVENT" = "schedule" ] || { [ "$EVENT" = "workflow_dispatch" ] && [ "$MODE" = "brief" ]; }; then
             mode=brief
-          elif [[ "$q" =~ ^[[:space:]]*/(reply|skip|edit) ]]; then
-            mode=command
           else
             mode=ask
           fi
           echo "mode=$mode" >> "$GITHUB_OUTPUT"
           printf '%s' "$q" > /tmp/question.txt
 
+      - name: No API key
+        if: steps.mode.outputs.mode == 'noai'
+        run: echo "質問はClaudeのアプリ（Claude Code）で聞いてね。ここでは \`/reply\` \`/skip\` \`/edit\` だけ使えるよ。" > out.md
+
       - name: Listen and answer
+        if: steps.mode.outputs.mode != 'noai'
         env:
           # a brief you start by hand is always posted
           REP_NOTIFY: ${{ github.event_name == 'workflow_dispatch' && 'always' || vars.REP_NOTIFY }}

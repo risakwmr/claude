@@ -3,6 +3,8 @@
 python representative/main.py brief          listen to everything, run the agents, write today's brief
 python representative/main.py ask            answer the question in $QUESTION
 python representative/main.py command        run the /reply, /skip or /edit command in $QUESTION
+python representative/main.py listen         no AI: save what the listeners heard (snapshot.json, pending_comments.json)
+                                             for the Claude Code routine that reads it on the owner's Claude plan
 
 Output for the GitHub issue goes to $OUT (default out.md).
 """
@@ -19,7 +21,11 @@ REPORTS = os.path.join(L.REP_DIR, "last_reports.json")
 NUMBERS = os.path.join(L.REP_DIR, "last_numbers.json")
 SENT = os.path.join(L.REP_DIR, "sent_replies.json")
 PRON = os.path.join(L.REP_DIR, "pronunciation.json")
+SNAPSHOT = os.path.join(L.REP_DIR, "snapshot.json")
+PENDING = os.path.join(L.REP_DIR, "pending_comments.json")
 THUMBS = os.path.join(L.REP_DIR, "thumbnails.json")
+RELATED = os.path.join(L.REP_DIR, "related_video.json")
+RELATED_SINCE = "2026-10-09T12:00"  # the owner got a list of every Short before this by hand
 BRIEFS = os.path.join(L.REP_DIR, "briefs")
 OUT = os.environ.get("OUT", "out.md")
 
@@ -63,6 +69,8 @@ def brief():
     L.save(INBOX, inbox)
     L.mark_seen(comments)
 
+    related = related_video_news(snap)
+    snap["related_video_new"] = related
     text = agents.brief(snap, reports, inbox["items"])
     day = datetime.now(L.JST).strftime("%Y-%m-%d")
     os.makedirs(BRIEFS, exist_ok=True)
@@ -71,7 +79,8 @@ def brief():
     L.save(REPORTS, {"at": snap["at"], "reports": reports})
     L.save(NUMBERS, numbers(snap))
     if os.environ.get("REP_NOTIFY") != "always" and not needs_owner(snap, reports, new_drafts,
-                                                                         pronunciation_news(snap, reports) + thumbnail_news(snap)):
+                                                                         pronunciation_news(snap, reports) + thumbnail_news(snap)
+                                                                         + [r["short"] for r in related]):
         # nothing for the owner to do: keep the brief on the rep-data branch, post nothing
         print(f"Nothing needs you today; brief saved to briefs/{day}.md\n\n{text}")
         return
@@ -113,6 +122,18 @@ def thumbnail_news(snap):
     return news
 
 
+def related_video_news(snap):
+    """New Shorts the owner should link to their full episode ("Related video" in Studio). Each one is told once,
+    when its episode is public, so the related video can be chosen."""
+    done = L.load(RELATED, {})
+    news = [r for r in (snap.get("channel") or {}).get("related_video_todo", [])
+            if r["episode_public"] and r["short"] not in done and (r.get("uploaded_at") or "") >= RELATED_SINCE]
+    for r in news:
+        done[r["short"]] = True
+    L.save(RELATED, done)
+    return news
+
+
 def needs_owner(snap, reports, new_drafts, news=()):
     """True when the owner has something to do: a problem, a blocker, a failed agent, new replies to approve,
     Japanese words to listen to, or thumbnails to make."""
@@ -124,6 +145,19 @@ def needs_owner(snap, reports, new_drafts, news=()):
         or any("error" in (r or {}) for r in reports.values())
         or ops.get("health") != "all good"
         or any(i.get("owner_action", "").strip() for i in ops.get("items", [])))
+
+
+def listen():
+    """Listen without any AI call. New viewer comments wait in pending_comments.json until a reader
+    (the Claude Code routine) drafts replies into inbox.json and empties it."""
+    snap = L.snapshot(with_comments=True)
+    pending = L.load(PENDING, {})
+    for c in (snap.get("audience") or {}).get("new", []):
+        pending[c["id"]] = c
+    L.save(PENDING, pending)
+    L.mark_seen(pending)
+    L.save(SNAPSHOT, snap)
+    print(f"Snapshot saved ({snap['at']}); {len(pending)} viewer comment(s) waiting for reply drafts")
 
 
 def ask():
@@ -193,4 +227,4 @@ def command():
 
 
 if __name__ == "__main__":
-    {"brief": brief, "ask": ask, "command": command}[sys.argv[1]]()
+    {"brief": brief, "ask": ask, "command": command, "listen": listen}[sys.argv[1]]()

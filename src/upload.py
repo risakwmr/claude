@@ -710,7 +710,8 @@ def note_status(key, value):
 CAPTIONS_FILE = os.path.join(ROOT, "captions.json")
 # language, track name, file suffix next to the video (epNN.ja.srt / epNN.srt)
 CAPTION_TRACKS = (("ja", "日本語", ".ja.srt"), ("en", "English", ".srt"),
-                  ("es", "Español", ".es.srt"), ("pt", "Português", ".pt.srt"), ("id", "Bahasa Indonesia", ".id.srt"))
+                  ("es", "Español", ".es.srt"), ("pt", "Português", ".pt.srt"), ("id", "Bahasa Indonesia", ".id.srt"),
+                  ("fr", "Français", ".fr.srt"))
 
 
 def caption_state():
@@ -737,7 +738,7 @@ class QuotaExceeded(Exception):
 
 def add_captions(yt, vid, srt, lang="ja", name="日本語"):
     """Upload (or replace) one caption track. Needs the youtube.force-ssl scope. About 450 quota units."""
-    label = {"ja": "Japanese", "en": "English", "es": "Spanish", "pt": "Portuguese", "id": "Indonesian"}.get(lang, lang)
+    label = {"ja": "Japanese", "en": "English", "es": "Spanish", "pt": "Portuguese", "id": "Indonesian", "fr": "French"}.get(lang, lang)
     try:
         old = yt.captions().list(part="snippet", videoId=vid).execute().get("items", [])
         for c in old:

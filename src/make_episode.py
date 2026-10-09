@@ -259,7 +259,7 @@ def load_japanese(ep, n_lines):
 
 # More caption languages: episodes/epNN.<lang>.txt, one line per script line ("SENA: ..."), like the Japanese file.
 # Each becomes output/epNN/epNN.<lang>.srt, uploaded by `upload.py captions` (see CAPTION_TRACKS there).
-OTHER_LANGS = ("es", "pt", "id")
+OTHER_LANGS = ("es", "pt", "id", "fr")
 
 
 def load_translation(ep, n_lines, lang):

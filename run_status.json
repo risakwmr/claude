@@ -68,7 +68,7 @@
     "result": "ok"
   },
   "channel": {
-    "at": "2026-10-09T03:38:40Z",
+    "at": "2026-10-09T12:23:18Z",
     "result": "Human Curriculum- Learn what AI can’t do (UCSaZaQp7Ao--E-UrkQ4RnXg)"
   },
   "captions:hj8EgYR2ORo": {
@@ -346,5 +346,13 @@
   "short-comment:6-ai": {
     "at": "2026-10-09T03:38:41Z",
     "result": "404 <HttpError 404 when requesting https://youtube.googleapis.com/youtube/v3/commentThreads?part=snippet&alt=json returned \"The specified video could not be found. Check the value of the <code><a href=\"/youtube/v3/docs/commentThreads#snippet.videoId\">snippet.videoId</a></code> property to ensure it is c"
+  },
+  "captions:0K5Vm9D7ttc": {
+    "at": "2026-10-09T12:38:48Z",
+    "result": "ok"
+  },
+  "captions-en:0K5Vm9D7ttc": {
+    "at": "2026-10-09T12:38:49Z",
+    "result": "ok"
   }
 }

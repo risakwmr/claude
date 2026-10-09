@@ -106,11 +106,13 @@ def record_short_by_title(item):
 
 
 def video_title(meta, ep, num):
-    """The viewer's problem first, in plain words (yt_title); "English Podcast" and the episode number at the end.
+    """The viewer's problem first, in plain words (yt_title); "Business English Podcast" and the episode number at the end.
+
+    "Business English" is what the audience (people who work in English) searches for, and what the episodes are.
 
     Popular channels put the topic in the first ~40 characters (mobile and search cut titles at about 70)."""
     main = ep.get("yt_title") or ep["title"]
-    title = f"{main} | English Podcast EP{num:02d}"
+    title = f"{main} | Business English Podcast EP{num:02d}"
     if len(title) > 100:
         title = f"{main[:88]} | EP{num:02d}"
     return title
@@ -336,7 +338,7 @@ def description(meta, ep, chapters=None):
         "Sena and Daniel are fictional characters. Their voices are AI-generated.",
         "Illustrations: Fluent Emoji by Microsoft (MIT License).",
         "",
-        "#EnglishPodcast #EQ #CareerGrowth",
+        "#BusinessEnglish #EnglishListening #EnglishPodcast",
     ]
     return "\n".join(lines)[:4900]
 

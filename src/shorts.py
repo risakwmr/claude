@@ -23,7 +23,9 @@ from slot import JST, fmt, parse  # noqa: E402
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SHORTS_FILE = os.path.join(ROOT, "shorts.json")
 LEAD = timedelta(hours=12)  # scheduled runs come at 09:00 and 21:00 JST
-OFFSET = {"ai": 0, "highlight": 1, "story": 2, "culture": 4, "lab": 6}  # spreads an episode's Shorts over a few days
+# spreads an episode's Shorts over a few days. "ai" ("AI can X, not Y") Shorts drew the fewest views in the first
+# week (Oct 2026), so they come last; first-person stories, studies and practical phrases did best.
+OFFSET = {"ai": 7, "highlight": 1, "story": 2, "culture": 4, "lab": 3}
 KIND_ORDER = list(OFFSET)
 
 
@@ -95,7 +97,7 @@ def candidates(by_time, data, published, skip=()):
     return [(n, kind) for _, n, _, kind in out]
 
 
-COMPANIONS = ["highlight", "ai"]   # these go public together with their episode (first two the episode has)
+COMPANIONS = ["highlight", "story"]  # these go public together with their episode (first two the episode has)
 BACKLOG_PER_RUN = 1                 # older Shorts per scheduled run (runs come twice a day -> 2 a day)
 
 

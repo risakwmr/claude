@@ -444,28 +444,43 @@ def short_description(meta, ep, episode_vid):
     return "\n".join(lines)[:4900]
 
 
-SHORT_TITLES_FR = os.path.join(ROOT, "episodes", "short_titles.fr.json")
+# Short titles in other languages: episodes/short_titles.<lang>.json ({"16-culture": "title", ...}),
+# shown to viewers whose YouTube language is <lang>.
+SHORT_DESCRIPTIONS = {
+    "fr": ("Épisode complet sur la chaîne.\n\n"
+           "Apprends l'anglais du travail avec Sena (Tokyo) et Daniel (Seattle), et découvre les différences entre "
+           "la culture du travail au Japon et aux États-Unis. Anglais à vitesse naturelle, sous-titres en français.\n"
+           "Sena et Daniel sont des personnages fictifs. Leurs voix sont générées par IA.\n\n"
+           "#shorts #Japon #ApprendreLAnglais #AnglaisDesAffaires"),
+    "zh-TW": ("完整集數請看頻道。\n\n"
+              "跟著東京的 Sena 和西雅圖的 Daniel 學職場英文，看懂日本和美國職場文化的不同。自然語速英文，附中文字幕。\n"
+              "Sena 和 Daniel 是虛構角色，聲音由 AI 生成。\n\n"
+              "#shorts #職場英文 #學英文 #日本"),
+}
 
 
 def short_localizations(key):
-    """French title and description for a Short listed in episodes/short_titles.fr.json, or None."""
-    titles = json.load(open(SHORT_TITLES_FR, encoding="utf-8")) if os.path.exists(SHORT_TITLES_FR) else {}
-    if key not in titles or key.startswith("_"):
-        return None
-    desc = ("Épisode complet sur la chaîne.\n\n"
-            "Apprends l'anglais du travail avec Sena (Tokyo) et Daniel (Seattle), et découvre les différences entre "
-            "la culture du travail au Japon et aux États-Unis. Anglais à vitesse naturelle, sous-titres en français.\n"
-            "Sena et Daniel sont des personnages fictifs. Leurs voix sont générées par IA.\n\n"
-            "#shorts #Japon #ApprendreLAnglais #AnglaisDesAffaires")
-    return {"fr": {"title": short_title(titles[key]), "description": desc}}
+    """{lang: {title, description}} for a Short listed in any episodes/short_titles.<lang>.json, or None."""
+    import glob
+    out = {}
+    for path in sorted(glob.glob(os.path.join(ROOT, "episodes", "short_titles.*.json"))):
+        lang = os.path.basename(path)[len("short_titles."):-len(".json")]
+        titles = json.load(open(path, encoding="utf-8"))
+        if key in titles and not key.startswith("_") and lang in SHORT_DESCRIPTIONS:
+            out[lang] = {"title": short_title(titles[key]), "description": SHORT_DESCRIPTIONS[lang]}
+    return out or None
 
 
 def localize_shorts():
-    """Add the French title to Shorts already up that have one in short_titles.fr.json (50 quota units each).
-    Done ones are marked "fr": true in shorts.json."""
+    """Add titles in other languages (short_titles.<lang>.json) to Shorts already up (50 quota units each).
+    shorts.json keeps which languages are done ("localized": ["fr", ...])."""
     import shorts
     data = shorts.load_shorts()
-    todo = [k for k, v in data.items() if not v.get("fr") and not v.get("deleted") and short_localizations(k)]
+    for v in data.values():  # older records: "fr": true
+        if v.pop("fr", None) is True:
+            v["localized"] = sorted(set(v.get("localized", [])) | {"fr"})
+    todo = [k for k, v in data.items() if not v.get("deleted") and short_localizations(k)
+            and set(short_localizations(k)) - set(v.get("localized", []))]
     if not todo:
         return
     yt = youtube()
@@ -474,7 +489,7 @@ def localize_shorts():
         try:
             items = yt.videos().list(part="snippet,localizations", id=vid).execute().get("items", [])
             if not items:
-                data[k]["fr"] = "missing"
+                data[k]["deleted"] = True
                 continue
             snip = items[0]["snippet"]
             new = {f: snip[f] for f in ("title", "description", "categoryId", "tags", "defaultLanguage",
@@ -483,11 +498,11 @@ def localize_shorts():
             loc = dict(items[0].get("localizations") or {})
             loc.update(short_localizations(k))
             yt.videos().update(part="snippet,localizations", body={"id": vid, "snippet": new, "localizations": loc}).execute()
-            data[k]["fr"] = True
-            print(f"  Short {k}: French title added", flush=True)
+            data[k]["localized"] = sorted(loc)
+            print(f"  Short {k}: titles added ({', '.join(sorted(loc))})", flush=True)
         except HttpError as e:
-            print(f"  Short {k}: French title skipped ({e.resp.status})", flush=True)
-            note_status(f"short-fr:{k}", f"{e.resp.status} {str(e)[:300]}")
+            print(f"  Short {k}: titles skipped ({e.resp.status})", flush=True)
+            note_status(f"short-localize:{k}", f"{e.resp.status} {str(e)[:300]}")
             if "quotaExceeded" in str(e):
                 break
     shorts.save_shorts(data)
@@ -552,7 +567,7 @@ def _upload_short(num, kind="ai", publish_at=None):
     shorts.record(num, kind, vid, publish_at)
     if loc:
         data = shorts.load_shorts()
-        data[f"{num}-{kind}"]["fr"] = True
+        data[f"{num}-{kind}"]["localized"] = sorted(loc)
         shorts.save_shorts(data)
     note_status(f"short:{num}-{kind}", f"ok {vid}")
     print(f"  Short id: {vid}", flush=True)
@@ -767,7 +782,7 @@ CAPTIONS_FILE = os.path.join(ROOT, "captions.json")
 # language, track name, file suffix next to the video (epNN.ja.srt / epNN.srt)
 CAPTION_TRACKS = (("ja", "日本語", ".ja.srt"), ("en", "English", ".srt"),
                   ("es", "Español", ".es.srt"), ("pt", "Português", ".pt.srt"), ("id", "Bahasa Indonesia", ".id.srt"),
-                  ("fr", "Français", ".fr.srt"))
+                  ("fr", "Français", ".fr.srt"), ("zh-TW", "中文（台灣）", ".zh-TW.srt"))
 
 
 def caption_state():
@@ -794,7 +809,7 @@ class QuotaExceeded(Exception):
 
 def add_captions(yt, vid, srt, lang="ja", name="日本語"):
     """Upload (or replace) one caption track. Needs the youtube.force-ssl scope. About 450 quota units."""
-    label = {"ja": "Japanese", "en": "English", "es": "Spanish", "pt": "Portuguese", "id": "Indonesian", "fr": "French"}.get(lang, lang)
+    label = {"ja": "Japanese", "en": "English", "es": "Spanish", "pt": "Portuguese", "id": "Indonesian", "fr": "French", "zh-TW": "Traditional Chinese"}.get(lang, lang)
     try:
         old = yt.captions().list(part="snippet", videoId=vid).execute().get("items", [])
         for c in old:

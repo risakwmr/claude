@@ -259,7 +259,7 @@ def load_japanese(ep, n_lines):
 
 # More caption languages: episodes/epNN.<lang>.txt, one line per script line ("SENA: ..."), like the Japanese file.
 # Each becomes output/epNN/epNN.<lang>.srt, uploaded by `upload.py captions` (see CAPTION_TRACKS there).
-OTHER_LANGS = ("es", "pt", "id", "fr")
+OTHER_LANGS = ("es", "pt", "id", "fr", "zh-TW")
 
 
 def load_translation(ep, n_lines, lang):
@@ -297,17 +297,34 @@ def split_latin(text, max_chars=84):
     return out or [text]
 
 
-def write_translation_srt(path, segments, lines):
+def split_cjk(text, max_chars=22):
+    """Split a Chinese line into caption-sized pieces at sentence ends, then commas."""
+    parts = [p for p in re.split(r"(?<=[。！？!?])(?![」』”])|(?<=[。！？!?][」』”])", text) if p.strip()]
+    out = []
+    for p in parts:
+        while len(p) > max_chars:
+            cut = max((p.rfind(c, 0, max_chars) for c in "，、；,"), default=-1)
+            cut = cut + 1 if cut >= 6 else max_chars
+            out.append(p[:cut])
+            p = p[cut:]
+        if p.strip():
+            out.append(p)
+    return [p.strip() for p in out] or [text]
+
+
+def write_translation_srt(path, segments, lines, lang=""):
+    split = split_cjk if lang.startswith("zh") else split_latin
+    names = {"SENA": "Sena", "DANIEL": "Daniel"}
     k = 0
     with open(path, "w", encoding="utf-8") as f:
         for (s0, s1, spk), text in zip(segments, lines):
-            pieces = split_latin(text)
+            pieces = split(text)
             total = sum(len(p) for p in pieces)
             t = s0
             for p in pieces:
                 d = (s1 - s0) * len(p) / total
                 k += 1
-                f.write(f"{k}\n{srt_time(t)} --> {srt_time(t + d)}\n{spk.title()}: {p}\n\n")
+                f.write(f"{k}\n{srt_time(t)} --> {srt_time(t + d)}\n{names[spk]}: {p}\n\n")
                 t += d
 
 
@@ -437,7 +454,7 @@ def build(num, fake=False, limit=None, out_dir=None, audio_only=False):
         tr = load_translation(ep, len(lines), lang)
         if tr:
             tr_srt = os.path.join(out_dir, f"ep{num:02d}.{lang}.srt")
-            write_translation_srt(tr_srt, segments, tr)
+            write_translation_srt(tr_srt, segments, tr, lang)
             print(f"  {lang} captions: {tr_srt}", flush=True)
     if audio_only:
         shutil.rmtree(work, ignore_errors=True)

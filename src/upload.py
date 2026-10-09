@@ -456,6 +456,11 @@ SHORT_DESCRIPTIONS = {
               "跟著東京的 Sena 和西雅圖的 Daniel 學職場英文，看懂日本和美國職場文化的不同。自然語速英文，附中文字幕。\n"
               "Sena 和 Daniel 是虛構角色，聲音由 AI 生成。\n\n"
               "#shorts #職場英文 #學英文 #日本"),
+    "ko": ("전체 에피소드는 채널에서 볼 수 있어요.\n\n"
+           "도쿄의 Sena와 시애틀의 Daniel과 함께 비즈니스 영어를 배우고, 일본과 미국의 직장 문화 차이도 알아보세요. "
+           "자연스러운 속도의 영어, 한국어 자막 제공.\n"
+           "Sena와 Daniel은 가상의 인물이며, 목소리는 AI로 생성되었습니다.\n\n"
+           "#shorts #비즈니스영어 #영어공부 #일본"),
 }
 
 
@@ -782,7 +787,8 @@ CAPTIONS_FILE = os.path.join(ROOT, "captions.json")
 # language, track name, file suffix next to the video (epNN.ja.srt / epNN.srt)
 CAPTION_TRACKS = (("ja", "日本語", ".ja.srt"), ("en", "English", ".srt"),
                   ("es", "Español", ".es.srt"), ("pt", "Português", ".pt.srt"), ("id", "Bahasa Indonesia", ".id.srt"),
-                  ("fr", "Français", ".fr.srt"), ("zh-TW", "中文（台灣）", ".zh-TW.srt"))
+                  ("fr", "Français", ".fr.srt"), ("zh-TW", "中文（台灣）", ".zh-TW.srt"),
+                  ("ko", "한국어", ".ko.srt"))
 
 
 def caption_state():
@@ -809,7 +815,7 @@ class QuotaExceeded(Exception):
 
 def add_captions(yt, vid, srt, lang="ja", name="日本語"):
     """Upload (or replace) one caption track. Needs the youtube.force-ssl scope. About 450 quota units."""
-    label = {"ja": "Japanese", "en": "English", "es": "Spanish", "pt": "Portuguese", "id": "Indonesian", "fr": "French", "zh-TW": "Traditional Chinese"}.get(lang, lang)
+    label = {"ja": "Japanese", "en": "English", "es": "Spanish", "pt": "Portuguese", "id": "Indonesian", "fr": "French", "zh-TW": "Traditional Chinese", "ko": "Korean"}.get(lang, lang)
     try:
         old = yt.captions().list(part="snippet", videoId=vid).execute().get("items", [])
         for c in old:

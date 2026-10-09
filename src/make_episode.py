@@ -259,7 +259,7 @@ def load_japanese(ep, n_lines):
 
 # More caption languages: episodes/epNN.<lang>.txt, one line per script line ("SENA: ..."), like the Japanese file.
 # Each becomes output/epNN/epNN.<lang>.srt, uploaded by `upload.py captions` (see CAPTION_TRACKS there).
-OTHER_LANGS = ("es", "pt", "id", "fr", "zh-TW")
+OTHER_LANGS = ("es", "pt", "id", "fr", "zh-TW", "ko")
 
 
 def load_translation(ep, n_lines, lang):
@@ -313,7 +313,12 @@ def split_cjk(text, max_chars=22):
 
 
 def write_translation_srt(path, segments, lines, lang=""):
-    split = split_cjk if lang.startswith("zh") else split_latin
+    if lang.startswith("zh"):
+        split = split_cjk
+    elif lang == "ko":  # Hangul is wide: shorter pieces
+        split = lambda t: split_latin(t, max_chars=40)  # noqa: E731
+    else:
+        split = split_latin
     names = {"SENA": "Sena", "DANIEL": "Daniel"}
     k = 0
     with open(path, "w", encoding="utf-8") as f:

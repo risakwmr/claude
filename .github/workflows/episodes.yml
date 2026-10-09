@@ -259,7 +259,7 @@ jobs:
           VISIBILITY: ${{ inputs.visibility }}
           SHORT_SLOTS_JST: ${{ vars.SHORT_SLOTS_JST }}
         run: |
-          python src/upload.py short-comments || echo "link comments skipped"
+          # No link comments on Shorts: links in Shorts comments can't be clicked. The owner sets "Related video" in Studio.
           mkdir -p output
           if [ "$EVENT" = "schedule" ]; then
             python src/shorts.py plan > output/short_plan.txt

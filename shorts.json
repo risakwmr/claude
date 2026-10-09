@@ -91,7 +91,9 @@
   "6-ai": {
     "video_id": "E2jb6UYiO4Y",
     "uploaded_at": "2026-10-08T18:25:36+00:00",
-    "publish_at": "2026-10-08T23:00:00Z"
+    "publish_at": "2026-10-08T23:00:00Z",
+    "deleted": true,
+    "commented": "skipped"
   },
   "16-ai": {
     "video_id": "wpHzHItUs9A",

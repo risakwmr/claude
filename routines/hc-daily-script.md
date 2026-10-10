@@ -84,6 +84,9 @@ number, script(epNN.txt。100話以降は epNNN.txt), title, short_title(30文�
 - 通知は出さない。PushNotification・SendUserMessage・SendUserFile は使わない。
 - 新しい台本を書いた、または前回の自動投稿が失敗していた場合は、このチャットに日本語で短く報告する：書いた回の番号とタイトル、今日のチャレンジ、使った研究、次に公開される予定の回、失敗があればそのステップ名。
 - 新しい台本を書いたときは、続けてこのチャットに、各回の ChatGPT 用サムネ画像プロンプト（英語）をコードブロックで書く（形式は下の元の指示のとおり）。
+- サムネ画像プロンプトの保存（2026-10-10 本人）：書いた各回のプロンプトを、
+  1. episodes ブランチの episodes/thumbnail_prompts.md の末尾に「## EPNN｜<title>」＋コードブロックで追記し、台本と同じコミットに入れる。
+  2. Googleドライブの「Claudeの記憶（セナ）/06_Human Curriculum台本」フォルダ（id: 1hhBZAGfXAnRbJfzMEZUjCUxEWRzL-PGC）に、Google Drive の create_file（contentMimeType: text/markdown）で「EPNN｜サムネ画像のプロンプト」という新しいドキュメントとして置く（既存ドキュメントは編集できないので回ごとに1つ。本文はチャットに出すのと同じ一言＋コードブロック）。作ったら、チャットの報告にリンクを1行添える。
 - 何も書かず、失敗も無かった場合は、このチャットに「台本は足りているので今回は書きませんでした」と1行だけ書く。
 
 （以下は元の「通知」の節。届け方だけ上の変更に従い、プロンプトの形式は従う）

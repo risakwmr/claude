@@ -112,6 +112,11 @@
     "deleted": true,
     "commented": "skipped"
   },
+  "6-highlight": {
+    "video_id": "Y7A0sXdMM4s",
+    "uploaded_at": "2026-10-10T03:34:26+00:00",
+    "publish_at": "2026-10-10T09:00:00Z"
+  },
   "16-ai": {
     "video_id": "wpHzHItUs9A",
     "uploaded_at": "2026-10-08T05:15:48+00:00",
@@ -159,5 +164,15 @@
     "uploaded_at": "2026-10-08T18:25:32+00:00",
     "publish_at": "2026-10-08T18:25:32Z",
     "commented": true
+  },
+  "19-highlight": {
+    "video_id": "GBcp7xYiAG4",
+    "uploaded_at": "2026-10-10T03:34:22+00:00",
+    "publish_at": "2026-10-10T03:34:22Z"
+  },
+  "19-story": {
+    "video_id": "gUgbqVXafzE",
+    "uploaded_at": "2026-10-10T03:34:24+00:00",
+    "publish_at": "2026-10-10T03:34:24Z"
   }
 }

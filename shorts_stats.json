@@ -1,5 +1,5 @@
 {
-  "at": "2026-10-09T17:44:36Z",
+  "at": "2026-10-10T03:34:27Z",
   "shorts": {
     "1-ai": {
       "video_id": "IdbU6d1ox0Q",
@@ -51,7 +51,7 @@
       "title": "Hiding a feeling is not the same as handling it #shorts",
       "public": true,
       "publish_at": "2026-10-07T23:00:00Z",
-      "views": 14,
+      "views": 15,
       "likes": 0,
       "comments": 1
     },
@@ -87,7 +87,7 @@
       "title": "Ownership at work: Japan vs the US #shorts",
       "public": true,
       "publish_at": "2026-10-09T09:00:00Z",
-      "views": 35,
+      "views": 46,
       "likes": 0,
       "comments": 0
     },
@@ -114,7 +114,7 @@
       "title": "I wasn't stressed. I was lonely. #shorts",
       "public": true,
       "publish_at": "2026-10-08T09:00:00Z",
-      "views": 56,
+      "views": 57,
       "likes": 0,
       "comments": 1
     },
@@ -132,15 +132,24 @@
       "title": "Why a third of feedback makes things worse #shorts",
       "public": true,
       "publish_at": "2026-10-08T13:00:00Z",
-      "views": 9,
+      "views": 13,
       "likes": 0,
       "comments": 1
     },
     "5-story": {
       "video_id": "gM0GYd249T0",
       "title": "How I killed feedback on my team in five minutes #shorts",
-      "public": false,
+      "public": true,
       "publish_at": "2026-10-09T23:00:00Z",
+      "views": 4,
+      "likes": 0,
+      "comments": 0
+    },
+    "6-highlight": {
+      "video_id": "Y7A0sXdMM4s",
+      "title": "Why half of all one-on-ones fall short #shorts",
+      "public": false,
+      "publish_at": "2026-10-10T09:00:00Z",
       "views": 0,
       "likes": 0,
       "comments": 0
@@ -159,7 +168,7 @@
       "title": "People judge your mistakes less harshly than you think #shorts",
       "public": true,
       "publish_at": "2026-10-08T05:15:50Z",
-      "views": 16,
+      "views": 17,
       "likes": 0,
       "comments": 1
     },
@@ -177,7 +186,7 @@
       "title": "Reporting mistakes: Japan vs the US #shorts",
       "public": true,
       "publish_at": "2026-10-08T05:15:53Z",
-      "views": 35,
+      "views": 37,
       "likes": 1,
       "comments": 1
     },
@@ -186,7 +195,7 @@
       "title": "Say it out loud: 3 English phrases for reporting a mistake #shorts",
       "public": true,
       "publish_at": "2026-10-08T05:15:54Z",
-      "views": 69,
+      "views": 80,
       "likes": 0,
       "comments": 1
     },
@@ -195,7 +204,7 @@
       "title": "AI can read your calendar, not your stress #shorts",
       "public": true,
       "publish_at": "2026-10-08T18:25:34Z",
-      "views": 60,
+      "views": 62,
       "likes": 0,
       "comments": 1
     },
@@ -204,9 +213,27 @@
       "title": "Can seeing stress as useful help? What one study found #shorts",
       "public": true,
       "publish_at": "2026-10-08T18:25:32Z",
-      "views": 110,
+      "views": 124,
       "likes": 0,
       "comments": 1
+    },
+    "19-highlight": {
+      "video_id": "GBcp7xYiAG4",
+      "title": "Does venting anger help? A punching bag study says no #shorts",
+      "public": true,
+      "publish_at": "2026-10-10T03:34:22Z",
+      "views": 0,
+      "likes": 0,
+      "comments": 0
+    },
+    "19-story": {
+      "video_id": "gUgbqVXafzE",
+      "title": "The worst email I ever sent, and what it cost #shorts",
+      "public": true,
+      "publish_at": "2026-10-10T03:34:24Z",
+      "views": 0,
+      "likes": 0,
+      "comments": 0
     }
   },
   "episodes": {
@@ -304,7 +331,7 @@
     "14": {
       "video_id": "oSt-VZY-65k",
       "title": "Why Nobody Speaks Up in Your Meetings | Business English Podcast EP14",
-      "views": 0,
+      "views": 1,
       "likes": 0,
       "comments": 1
     },
@@ -332,6 +359,13 @@
     "18": {
       "video_id": "0K5Vm9D7ttc",
       "title": "Nervous Before a Presentation? Don't Say \"Calm Down\" | Business English Podcast EP18",
+      "views": 1,
+      "likes": 0,
+      "comments": 1
+    },
+    "19": {
+      "video_id": "igbmiE3tGX4",
+      "title": "Angry at Work? What to Do Before You Hit Send | Business English Podcast EP19",
       "views": 0,
       "likes": 0,
       "comments": 0

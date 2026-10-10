@@ -1,5 +1,5 @@
 {
-  "at": "2026-10-10T03:34:27Z",
+  "at": "2026-10-10T16:49:20Z",
   "shorts": {
     "1-ai": {
       "video_id": "IdbU6d1ox0Q",
@@ -87,7 +87,7 @@
       "title": "Ownership at work: Japan vs the US #shorts",
       "public": true,
       "publish_at": "2026-10-09T09:00:00Z",
-      "views": 46,
+      "views": 77,
       "likes": 0,
       "comments": 0
     },
@@ -114,9 +114,18 @@
       "title": "I wasn't stressed. I was lonely. #shorts",
       "public": true,
       "publish_at": "2026-10-08T09:00:00Z",
-      "views": 57,
+      "views": 60,
       "likes": 0,
       "comments": 1
+    },
+    "4-culture": {
+      "video_id": "jcnHcpUV4mw",
+      "title": "What \"fine\" really means at work: Japan vs the US #shorts",
+      "public": false,
+      "publish_at": "2026-10-10T23:00:00Z",
+      "views": 0,
+      "likes": 0,
+      "comments": 0
     },
     "5-ai": {
       "video_id": "1wCrwibGAfw",
@@ -132,7 +141,7 @@
       "title": "Why a third of feedback makes things worse #shorts",
       "public": true,
       "publish_at": "2026-10-08T13:00:00Z",
-      "views": 13,
+      "views": 15,
       "likes": 0,
       "comments": 1
     },
@@ -141,16 +150,16 @@
       "title": "How I killed feedback on my team in five minutes #shorts",
       "public": true,
       "publish_at": "2026-10-09T23:00:00Z",
-      "views": 4,
+      "views": 15,
       "likes": 0,
       "comments": 0
     },
     "6-highlight": {
       "video_id": "Y7A0sXdMM4s",
       "title": "Why half of all one-on-ones fall short #shorts",
-      "public": false,
+      "public": true,
       "publish_at": "2026-10-10T09:00:00Z",
-      "views": 0,
+      "views": 3,
       "likes": 0,
       "comments": 0
     },
@@ -186,7 +195,7 @@
       "title": "Reporting mistakes: Japan vs the US #shorts",
       "public": true,
       "publish_at": "2026-10-08T05:15:53Z",
-      "views": 37,
+      "views": 45,
       "likes": 1,
       "comments": 1
     },
@@ -195,7 +204,7 @@
       "title": "Say it out loud: 3 English phrases for reporting a mistake #shorts",
       "public": true,
       "publish_at": "2026-10-08T05:15:54Z",
-      "views": 80,
+      "views": 85,
       "likes": 0,
       "comments": 1
     },
@@ -204,7 +213,7 @@
       "title": "AI can read your calendar, not your stress #shorts",
       "public": true,
       "publish_at": "2026-10-08T18:25:34Z",
-      "views": 62,
+      "views": 65,
       "likes": 0,
       "comments": 1
     },
@@ -213,7 +222,7 @@
       "title": "Can seeing stress as useful help? What one study found #shorts",
       "public": true,
       "publish_at": "2026-10-08T18:25:32Z",
-      "views": 124,
+      "views": 129,
       "likes": 0,
       "comments": 1
     },
@@ -222,7 +231,7 @@
       "title": "Does venting anger help? A punching bag study says no #shorts",
       "public": true,
       "publish_at": "2026-10-10T03:34:22Z",
-      "views": 0,
+      "views": 21,
       "likes": 0,
       "comments": 0
     },
@@ -231,6 +240,24 @@
       "title": "The worst email I ever sent, and what it cost #shorts",
       "public": true,
       "publish_at": "2026-10-10T03:34:24Z",
+      "views": 20,
+      "likes": 0,
+      "comments": 0
+    },
+    "20-highlight": {
+      "video_id": "3LcoZWybJu0",
+      "title": "Why we learn less from our own failures #shorts",
+      "public": true,
+      "publish_at": "2026-10-10T16:49:15Z",
+      "views": 0,
+      "likes": 0,
+      "comments": 0
+    },
+    "20-story": {
+      "video_id": "Izy88aJKsQA",
+      "title": "My proposal was rejected, and I disappeared #shorts",
+      "public": true,
+      "publish_at": "2026-10-10T16:49:17Z",
       "views": 0,
       "likes": 0,
       "comments": 0
@@ -275,7 +302,7 @@
     "6": {
       "video_id": "PKmRhk9OOqA",
       "title": "How to Make Your 1:1 With Your Boss Actually Useful | Business English Podcast EP06",
-      "views": 2,
+      "views": 3,
       "likes": 0,
       "comments": 1
     },
@@ -338,7 +365,7 @@
     "15": {
       "video_id": "Rs-Wr1nrYHo",
       "title": "How to Start a Hard Conversation at Work | Business English Podcast EP15",
-      "views": 1,
+      "views": 2,
       "likes": 0,
       "comments": 1
     },
@@ -359,13 +386,20 @@
     "18": {
       "video_id": "0K5Vm9D7ttc",
       "title": "Nervous Before a Presentation? Don't Say \"Calm Down\" | Business English Podcast EP18",
-      "views": 1,
+      "views": 2,
       "likes": 0,
       "comments": 1
     },
     "19": {
       "video_id": "igbmiE3tGX4",
       "title": "Angry at Work? What to Do Before You Hit Send | Business English Podcast EP19",
+      "views": 0,
+      "likes": 0,
+      "comments": 1
+    },
+    "20": {
+      "video_id": "vWtKtfcEvQw",
+      "title": "Your Project Got Cancelled? How to Bounce Back at Work | Business English Podcast EP20",
       "views": 0,
       "likes": 0,
       "comments": 0

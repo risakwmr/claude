@@ -1,7 +1,57 @@
 {
-  "kashikomarimashita": {"episode": 19, "next_reported": false},
-  "shikata ga nai": {"episode": 20, "next_reported": false},
-  "misaki": {"episode": 20, "next_reported": false},
-  "ono": {"episode": 20, "next_reported": false},
-  "sugoi ne": {"episode": 21, "next_reported": false}
+  "kashikomarimashita": {
+    "episode": 19,
+    "next_reported": false
+  },
+  "shikata ga nai": {
+    "episode": 20,
+    "next_reported": false
+  },
+  "misaki": {
+    "episode": 20,
+    "next_reported": false
+  },
+  "ono": {
+    "episode": 20,
+    "next_reported": false
+  },
+  "sugoi ne": {
+    "episode": 21,
+    "next_reported": false
+  },
+  "yamanote": {
+    "episode": 22,
+    "reported": true,
+    "next_reported": false
+  },
+  "tsumaranai mono desu ga": {
+    "episode": 22,
+    "reported": true,
+    "next_reported": false
+  },
+  "mada mada desu": {
+    "episode": 22,
+    "reported": true,
+    "next_reported": false
+  },
+  "kentou shimasu": {
+    "episode": 23,
+    "reported": true,
+    "next_reported": false
+  },
+  "chotto muzukashii desu": {
+    "episode": 23,
+    "reported": true,
+    "next_reported": false
+  },
+  "osaki ni shitsurei shimasu": {
+    "episode": 24,
+    "reported": true,
+    "next_reported": false
+  },
+  "hara hachi bu": {
+    "episode": 25,
+    "reported": true,
+    "next_reported": false
+  }
 }

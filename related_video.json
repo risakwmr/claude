@@ -1,0 +1,46 @@
+{
+  "4-culture": {
+    "episode": 4,
+    "reported": true
+  },
+  "5-story": {
+    "episode": 5,
+    "reported": true
+  },
+  "6-highlight": {
+    "episode": 6,
+    "reported": true
+  },
+  "6-story": {
+    "episode": 6,
+    "reported": true
+  },
+  "7-highlight": {
+    "episode": 7,
+    "reported": true
+  },
+  "19-highlight": {
+    "episode": 19,
+    "reported": true
+  },
+  "19-story": {
+    "episode": 19,
+    "reported": true
+  },
+  "20-highlight": {
+    "episode": 20,
+    "reported": true
+  },
+  "20-story": {
+    "episode": 20,
+    "reported": true
+  },
+  "21-highlight": {
+    "episode": 21,
+    "reported": true
+  },
+  "21-story": {
+    "episode": 21,
+    "reported": true
+  }
+}

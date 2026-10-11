@@ -68,7 +68,7 @@
     "result": "ok"
   },
   "channel": {
-    "at": "2026-10-10T16:35:35Z",
+    "at": "2026-10-11T02:52:56Z",
     "result": "Human Curriculum | Business English Podcast (UCSaZaQp7Ao--E-UrkQ4RnXg)"
   },
   "captions:hj8EgYR2ORo": {
@@ -426,5 +426,9 @@
   "short:20-story": {
     "at": "2026-10-10T16:49:17Z",
     "result": "ok Izy88aJKsQA"
+  },
+  "short:6-story": {
+    "at": "2026-10-11T02:54:10Z",
+    "result": "ok SZPGl_h57Pc"
   }
 }

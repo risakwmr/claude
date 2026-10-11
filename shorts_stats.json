@@ -1,5 +1,5 @@
 {
-  "at": "2026-10-10T16:49:20Z",
+  "at": "2026-10-11T02:54:11Z",
   "shorts": {
     "1-ai": {
       "video_id": "IdbU6d1ox0Q",
@@ -87,7 +87,7 @@
       "title": "Ownership at work: Japan vs the US #shorts",
       "public": true,
       "publish_at": "2026-10-09T09:00:00Z",
-      "views": 77,
+      "views": 82,
       "likes": 0,
       "comments": 0
     },
@@ -121,10 +121,10 @@
     "4-culture": {
       "video_id": "jcnHcpUV4mw",
       "title": "What \"fine\" really means at work: Japan vs the US #shorts",
-      "public": false,
+      "public": true,
       "publish_at": "2026-10-10T23:00:00Z",
-      "views": 0,
-      "likes": 0,
+      "views": 44,
+      "likes": 1,
       "comments": 0
     },
     "5-ai": {
@@ -150,7 +150,7 @@
       "title": "How I killed feedback on my team in five minutes #shorts",
       "public": true,
       "publish_at": "2026-10-09T23:00:00Z",
-      "views": 15,
+      "views": 20,
       "likes": 0,
       "comments": 0
     },
@@ -160,6 +160,15 @@
       "public": true,
       "publish_at": "2026-10-10T09:00:00Z",
       "views": 3,
+      "likes": 0,
+      "comments": 0
+    },
+    "6-story": {
+      "video_id": "SZPGl_h57Pc",
+      "title": "My best engineer quit after a year of perfect 1:1s #shorts",
+      "public": false,
+      "publish_at": "2026-10-11T09:00:00Z",
+      "views": 0,
       "likes": 0,
       "comments": 0
     },
@@ -222,7 +231,7 @@
       "title": "Can seeing stress as useful help? What one study found #shorts",
       "public": true,
       "publish_at": "2026-10-08T18:25:32Z",
-      "views": 129,
+      "views": 131,
       "likes": 0,
       "comments": 1
     },
@@ -231,7 +240,7 @@
       "title": "Does venting anger help? A punching bag study says no #shorts",
       "public": true,
       "publish_at": "2026-10-10T03:34:22Z",
-      "views": 21,
+      "views": 25,
       "likes": 0,
       "comments": 0
     },
@@ -240,7 +249,7 @@
       "title": "The worst email I ever sent, and what it cost #shorts",
       "public": true,
       "publish_at": "2026-10-10T03:34:24Z",
-      "views": 20,
+      "views": 25,
       "likes": 0,
       "comments": 0
     },
@@ -249,7 +258,7 @@
       "title": "Why we learn less from our own failures #shorts",
       "public": true,
       "publish_at": "2026-10-10T16:49:15Z",
-      "views": 0,
+      "views": 18,
       "likes": 0,
       "comments": 0
     },
@@ -258,7 +267,7 @@
       "title": "My proposal was rejected, and I disappeared #shorts",
       "public": true,
       "publish_at": "2026-10-10T16:49:17Z",
-      "views": 0,
+      "views": 14,
       "likes": 0,
       "comments": 0
     }
@@ -402,7 +411,7 @@
       "title": "Your Project Got Cancelled? How to Bounce Back at Work | Business English Podcast EP20",
       "views": 0,
       "likes": 0,
-      "comments": 0
+      "comments": 1
     }
   }
 }

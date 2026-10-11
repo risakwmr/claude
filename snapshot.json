@@ -1,5 +1,5 @@
 {
-  "at": "2026-10-10 10:49 JST",
+  "at": "2026-10-11 10:05 JST",
   "audience": {
     "channel_id": "UCSaZaQp7Ao--E-UrkQ4RnXg",
     "new": []
@@ -55,14 +55,14 @@
         "likes": 0,
         "title": "Why Nobody Speaks Up in Your Meetings | Business English Podcast EP14",
         "video_id": "oSt-VZY-65k",
-        "views": 0
+        "views": 1
       },
       "15": {
         "comments": 1,
         "likes": 0,
         "title": "How to Start a Hard Conversation at Work | Business English Podcast EP15",
         "video_id": "Rs-Wr1nrYHo",
-        "views": 1
+        "views": 2
       },
       "16": {
         "comments": 0,
@@ -79,10 +79,17 @@
         "views": 0
       },
       "18": {
-        "comments": 0,
+        "comments": 1,
         "likes": 0,
         "title": "Nervous Before a Presentation? Don't Say \"Calm Down\" | Business English Podcast EP18",
         "video_id": "0K5Vm9D7ttc",
+        "views": 2
+      },
+      "19": {
+        "comments": 1,
+        "likes": 0,
+        "title": "Angry at Work? What to Do Before You Hit Send | Business English Podcast EP19",
+        "video_id": "igbmiE3tGX4",
         "views": 0
       },
       "2": {
@@ -91,6 +98,13 @@
         "title": "Your Body Knows You're Upset Before You Do | Business English Podcast EP02",
         "video_id": "XrPylq3xOQk",
         "views": 4
+      },
+      "20": {
+        "comments": 0,
+        "likes": 0,
+        "title": "Your Project Got Cancelled? How to Bounce Back at Work | Business English Podcast EP20",
+        "video_id": "vWtKtfcEvQw",
+        "views": 0
       },
       "3": {
         "comments": 1,
@@ -118,7 +132,7 @@
         "likes": 0,
         "title": "How to Make Your 1:1 With Your Boss Actually Useful | Business English Podcast EP06",
         "video_id": "PKmRhk9OOqA",
-        "views": 2
+        "views": 3
       },
       "7": {
         "comments": 1,
@@ -271,15 +285,17 @@
       },
       {
         "episode": 19,
-        "has_own_thumbnail": true,
-        "state": "not uploaded",
-        "title": "Anger Without Damage"
+        "publish_at": "10/10 12:32 JST",
+        "state": "public",
+        "title": "Anger Without Damage",
+        "url": "https://youtu.be/igbmiE3tGX4"
       },
       {
         "episode": 20,
-        "has_own_thumbnail": true,
-        "state": "not uploaded",
-        "title": "Disappointment and Bouncing Back"
+        "publish_at": "10/11 01:47 JST",
+        "state": "public",
+        "title": "Disappointment and Bouncing Back",
+        "url": "https://youtu.be/vWtKtfcEvQw"
       },
       {
         "episode": 21,
@@ -408,6 +424,14 @@
         "uploaded_at": "2026-10-08T03:35:23+00:00"
       },
       {
+        "episode": 4,
+        "episode_public": true,
+        "episode_title": "Naming Emotions: Beyond Fine",
+        "short": "4-culture",
+        "studio_link": "https://studio.youtube.com/video/jcnHcpUV4mw/edit",
+        "uploaded_at": "2026-10-10T16:49:19+00:00"
+      },
+      {
         "episode": 5,
         "episode_public": true,
         "episode_title": "Asking for Feedback",
@@ -430,6 +454,14 @@
         "short": "5-story",
         "studio_link": "https://studio.youtube.com/video/gM0GYd249T0/edit",
         "uploaded_at": "2026-10-09T17:44:35+00:00"
+      },
+      {
+        "episode": 6,
+        "episode_public": true,
+        "episode_title": "Making Your 1:1 Count",
+        "short": "6-highlight",
+        "studio_link": "https://studio.youtube.com/video/Y7A0sXdMM4s/edit",
+        "uploaded_at": "2026-10-10T03:34:26+00:00"
       },
       {
         "episode": 16,
@@ -486,6 +518,38 @@
         "short": "17-highlight",
         "studio_link": "https://studio.youtube.com/video/HlcnzW_eV2s/edit",
         "uploaded_at": "2026-10-08T18:25:32+00:00"
+      },
+      {
+        "episode": 19,
+        "episode_public": true,
+        "episode_title": "Anger Without Damage",
+        "short": "19-highlight",
+        "studio_link": "https://studio.youtube.com/video/GBcp7xYiAG4/edit",
+        "uploaded_at": "2026-10-10T03:34:22+00:00"
+      },
+      {
+        "episode": 19,
+        "episode_public": true,
+        "episode_title": "Anger Without Damage",
+        "short": "19-story",
+        "studio_link": "https://studio.youtube.com/video/gUgbqVXafzE/edit",
+        "uploaded_at": "2026-10-10T03:34:24+00:00"
+      },
+      {
+        "episode": 20,
+        "episode_public": true,
+        "episode_title": "Disappointment and Bouncing Back",
+        "short": "20-highlight",
+        "studio_link": "https://studio.youtube.com/video/3LcoZWybJu0/edit",
+        "uploaded_at": "2026-10-10T16:49:15+00:00"
+      },
+      {
+        "episode": 20,
+        "episode_public": true,
+        "episode_title": "Disappointment and Bouncing Back",
+        "short": "20-story",
+        "studio_link": "https://studio.youtube.com/video/Izy88aJKsQA/edit",
+        "uploaded_at": "2026-10-10T16:49:17+00:00"
       }
     ],
     "report_at": "10/05 08:54 JST",
@@ -524,7 +588,7 @@
         "publish_at": "2026-10-08T05:15:53Z",
         "title": "Reporting mistakes: Japan vs the US #shorts",
         "video_id": "8TIGXHenBaY",
-        "views": 35
+        "views": 45
       },
       "16-highlight": {
         "comments": 1,
@@ -533,7 +597,7 @@
         "publish_at": "2026-10-08T05:15:50Z",
         "title": "People judge your mistakes less harshly than you think #shorts",
         "video_id": "bHe5H1LFcDI",
-        "views": 16
+        "views": 17
       },
       "16-lab": {
         "comments": 1,
@@ -542,7 +606,7 @@
         "publish_at": "2026-10-08T05:15:54Z",
         "title": "Say it out loud: 3 English phrases for reporting a mistake #shorts",
         "video_id": "u7LcFFhbD58",
-        "views": 69
+        "views": 85
       },
       "16-story": {
         "comments": 1,
@@ -560,7 +624,7 @@
         "publish_at": "2026-10-08T18:25:34Z",
         "title": "AI can read your calendar, not your stress #shorts",
         "video_id": "gDfr1rD93t4",
-        "views": 60
+        "views": 65
       },
       "17-highlight": {
         "comments": 1,
@@ -569,7 +633,25 @@
         "publish_at": "2026-10-08T18:25:32Z",
         "title": "Can seeing stress as useful help? What one study found #shorts",
         "video_id": "HlcnzW_eV2s",
-        "views": 110
+        "views": 129
+      },
+      "19-highlight": {
+        "comments": 0,
+        "likes": 0,
+        "public": true,
+        "publish_at": "2026-10-10T03:34:22Z",
+        "title": "Does venting anger help? A punching bag study says no #shorts",
+        "video_id": "GBcp7xYiAG4",
+        "views": 21
+      },
+      "19-story": {
+        "comments": 0,
+        "likes": 0,
+        "public": true,
+        "publish_at": "2026-10-10T03:34:24Z",
+        "title": "The worst email I ever sent, and what it cost #shorts",
+        "video_id": "gUgbqVXafzE",
+        "views": 20
       },
       "2-ai": {
         "comments": 1,
@@ -587,7 +669,7 @@
         "publish_at": "2026-10-07T23:00:00Z",
         "title": "Hiding a feeling is not the same as handling it #shorts",
         "video_id": "EiRzB8lexnM",
-        "views": 14
+        "views": 15
       },
       "2-highlight": {
         "comments": 1,
@@ -607,6 +689,24 @@
         "video_id": "OZoq4IaDgOg",
         "views": 7
       },
+      "20-highlight": {
+        "comments": 0,
+        "likes": 0,
+        "public": true,
+        "publish_at": "2026-10-10T16:49:15Z",
+        "title": "Why we learn less from our own failures #shorts",
+        "video_id": "3LcoZWybJu0",
+        "views": 0
+      },
+      "20-story": {
+        "comments": 0,
+        "likes": 0,
+        "public": true,
+        "publish_at": "2026-10-10T16:49:17Z",
+        "title": "My proposal was rejected, and I disappeared #shorts",
+        "video_id": "Izy88aJKsQA",
+        "views": 0
+      },
       "3-ai": {
         "comments": 1,
         "likes": 0,
@@ -623,7 +723,7 @@
         "publish_at": "2026-10-09T09:00:00Z",
         "title": "Ownership at work: Japan vs the US #shorts",
         "video_id": "BmO7J6dItZ0",
-        "views": 35
+        "views": 77
       },
       "3-highlight": {
         "comments": 1,
@@ -652,6 +752,15 @@
         "video_id": "OIbZ6sh9RiE",
         "views": 0
       },
+      "4-culture": {
+        "comments": 0,
+        "likes": 0,
+        "public": false,
+        "publish_at": "2026-10-10T23:00:00Z",
+        "title": "What \"fine\" really means at work: Japan vs the US #shorts",
+        "video_id": "jcnHcpUV4mw",
+        "views": 0
+      },
       "4-highlight": {
         "comments": 1,
         "likes": 0,
@@ -668,7 +777,7 @@
         "publish_at": "2026-10-08T09:00:00Z",
         "title": "I wasn't stressed. I was lonely. #shorts",
         "video_id": "QepA2gyIkew",
-        "views": 56
+        "views": 60
       },
       "5-ai": {
         "comments": 1,
@@ -686,24 +795,33 @@
         "publish_at": "2026-10-08T13:00:00Z",
         "title": "Why a third of feedback makes things worse #shorts",
         "video_id": "h7vNxhIX57g",
-        "views": 9
+        "views": 15
       },
       "5-story": {
         "comments": 0,
         "likes": 0,
-        "public": false,
+        "public": true,
         "publish_at": "2026-10-09T23:00:00Z",
         "title": "How I killed feedback on my team in five minutes #shorts",
         "video_id": "gM0GYd249T0",
-        "views": 0
+        "views": 15
+      },
+      "6-highlight": {
+        "comments": 0,
+        "likes": 0,
+        "public": true,
+        "publish_at": "2026-10-10T09:00:00Z",
+        "title": "Why half of all one-on-ones fall short #shorts",
+        "video_id": "Y7A0sXdMM4s",
+        "views": 3
       }
     },
     "shorts": {
-      "public": 24,
+      "public": 30,
       "scheduled": []
     },
     "show": "Human Curriculum",
-    "stats_at": "10/10 02:44 JST",
+    "stats_at": "10/11 01:49 JST",
     "thumbnail_references": [
       "https://github.com/risakwmr/claude/blob/episodes/episodes/ep14_thumbnail.png",
       "https://github.com/risakwmr/claude/blob/episodes/episodes/ep18_thumbnail.png"
@@ -731,7 +849,7 @@
         },
         "episode": 22,
         "file": "episodes/ep22_thumbnail.png",
-        "hours_left": 34,
+        "hours_left": 11,
         "needed_by": "10/11 21:00 JST",
         "title": "Impostor Feelings",
         "upload_link": "https://github.com/risakwmr/claude/upload/episodes/episodes"
@@ -757,7 +875,7 @@
         },
         "episode": 23,
         "file": "episodes/ep23_thumbnail.png",
-        "hours_left": 46,
+        "hours_left": 23,
         "needed_by": "10/12 09:00 JST",
         "title": "Saying No Without Burning Bridges",
         "upload_link": "https://github.com/risakwmr/claude/upload/episodes/episodes"
@@ -782,6 +900,22 @@
       "short-comment:6-ai (10/09 12:38 JST): 404 <HttpError 404 when requesting https://youtube.googleapis.com/youtube/v3/commentThreads?part=snippet&alt=json returned \"The specified video could not be found. Check the value of the <code><a href"
     ],
     "runs": [
+      {
+        "result": "success",
+        "started": "10/11 01:34 JST",
+        "status": "completed",
+        "trigger": "schedule",
+        "url": "https://github.com/risakwmr/claude/actions/runs/38068245167",
+        "workflow": "Make and upload episodes"
+      },
+      {
+        "result": "success",
+        "started": "10/10 12:19 JST",
+        "status": "completed",
+        "trigger": "schedule",
+        "url": "https://github.com/risakwmr/claude/actions/runs/38020126668",
+        "workflow": "Make and upload episodes"
+      },
       {
         "result": "success",
         "started": "10/10 02:42 JST",
@@ -821,331 +955,12 @@
         "trigger": "workflow_dispatch",
         "url": "https://github.com/risakwmr/claude/actions/runs/37934895878",
         "workflow": "Make and upload episodes"
-      },
-      {
-        "result": "success",
-        "started": "10/09 21:27 JST",
-        "status": "completed",
-        "trigger": "workflow_dispatch",
-        "url": "https://github.com/risakwmr/claude/actions/runs/37930164334",
-        "workflow": "Make and upload episodes"
-      },
-      {
-        "result": "success",
-        "started": "10/09 21:22 JST",
-        "status": "completed",
-        "trigger": "workflow_dispatch",
-        "url": "https://github.com/risakwmr/claude/actions/runs/37929620141",
-        "workflow": "Make and upload episodes"
-      },
-      {
-        "result": "success",
-        "started": "10/09 21:08 JST",
-        "status": "completed",
-        "trigger": "dynamic",
-        "url": "https://github.com/risakwmr/claude/actions/runs/37928096612",
-        "workflow": "Push on main"
-      },
-      {
-        "failed_steps": [
-          "Processing Request (Linux)"
-        ],
-        "result": "failure",
-        "started": "10/09 21:04 JST",
-        "status": "completed",
-        "trigger": "dynamic",
-        "url": "https://github.com/risakwmr/claude/actions/runs/37927662003",
-        "workflow": "Code scanning AI findings on PR #18"
-      },
-      {
-        "result": "success",
-        "started": "10/09 21:04 JST",
-        "status": "completed",
-        "trigger": "dynamic",
-        "url": "https://github.com/risakwmr/claude/actions/runs/37927654295",
-        "workflow": "PR #18"
-      },
-      {
-        "result": "success",
-        "started": "10/09 12:37 JST",
-        "status": "completed",
-        "trigger": "schedule",
-        "url": "https://github.com/risakwmr/claude/actions/runs/37880166125",
-        "workflow": "Make and upload episodes"
-      },
-      {
-        "failed_steps": [
-          "Processing Request (Linux)"
-        ],
-        "result": "failure",
-        "started": "10/09 08:51 JST",
-        "status": "completed",
-        "trigger": "dynamic",
-        "url": "https://github.com/risakwmr/claude/actions/runs/37861713269",
-        "workflow": "Code scanning AI findings on PR #18"
-      },
-      {
-        "result": "success",
-        "started": "10/09 08:51 JST",
-        "status": "completed",
-        "trigger": "dynamic",
-        "url": "https://github.com/risakwmr/claude/actions/runs/37861707988",
-        "workflow": "PR #18"
-      },
-      {
-        "result": "success",
-        "started": "10/09 08:45 JST",
-        "status": "completed",
-        "trigger": "dynamic",
-        "url": "https://github.com/risakwmr/claude/actions/runs/37861175933",
-        "workflow": "Push on main"
-      },
-      {
-        "failed_steps": [
-          "Processing Request (Linux)"
-        ],
-        "result": "failure",
-        "started": "10/09 08:41 JST",
-        "status": "completed",
-        "trigger": "dynamic",
-        "url": "https://github.com/risakwmr/claude/actions/runs/37860831939",
-        "workflow": "Code scanning AI findings on PR #17"
-      },
-      {
-        "result": "success",
-        "started": "10/09 08:41 JST",
-        "status": "completed",
-        "trigger": "dynamic",
-        "url": "https://github.com/risakwmr/claude/actions/runs/37860826178",
-        "workflow": "PR #17"
-      },
-      {
-        "failed_steps": [
-          "Processing Request (Linux)"
-        ],
-        "result": "failure",
-        "started": "10/09 08:16 JST",
-        "status": "completed",
-        "trigger": "dynamic",
-        "url": "https://github.com/risakwmr/claude/actions/runs/37858486836",
-        "workflow": "Code scanning AI findings on PR #17"
-      },
-      {
-        "result": "success",
-        "started": "10/09 08:16 JST",
-        "status": "completed",
-        "trigger": "dynamic",
-        "url": "https://github.com/risakwmr/claude/actions/runs/37858480690",
-        "workflow": "PR #17"
-      },
-      {
-        "failed_steps": [
-          "Processing Request (Linux)"
-        ],
-        "result": "failure",
-        "started": "10/09 08:05 JST",
-        "status": "completed",
-        "trigger": "dynamic",
-        "url": "https://github.com/risakwmr/claude/actions/runs/37857474519",
-        "workflow": "Code scanning AI findings on PR #17"
-      },
-      {
-        "result": "success",
-        "started": "10/09 08:05 JST",
-        "status": "completed",
-        "trigger": "dynamic",
-        "url": "https://github.com/risakwmr/claude/actions/runs/37857469175",
-        "workflow": "PR #17"
-      },
-      {
-        "result": "success",
-        "started": "10/09 08:01 JST",
-        "status": "completed",
-        "trigger": "dynamic",
-        "url": "https://github.com/risakwmr/claude/actions/runs/37857030383",
-        "workflow": "Push on main"
-      },
-      {
-        "failed_steps": [
-          "Processing Request (Linux)"
-        ],
-        "result": "failure",
-        "started": "10/09 03:55 JST",
-        "status": "completed",
-        "trigger": "dynamic",
-        "url": "https://github.com/risakwmr/claude/actions/runs/37828008246",
-        "workflow": "Code scanning AI findings on PR #16"
-      },
-      {
-        "result": "success",
-        "started": "10/09 03:55 JST",
-        "status": "completed",
-        "trigger": "dynamic",
-        "url": "https://github.com/risakwmr/claude/actions/runs/37827997797",
-        "workflow": "PR #16"
-      },
-      {
-        "result": "success",
-        "started": "10/09 03:54 JST",
-        "status": "completed",
-        "trigger": "dynamic",
-        "url": "https://github.com/risakwmr/claude/actions/runs/37827922951",
-        "workflow": "Code scanning AI findings on PR #16"
-      },
-      {
-        "result": "success",
-        "started": "10/09 03:54 JST",
-        "status": "completed",
-        "trigger": "dynamic",
-        "url": "https://github.com/risakwmr/claude/actions/runs/37827914507",
-        "workflow": "PR #16"
-      },
-      {
-        "failed_steps": [
-          "Processing Request (Linux)"
-        ],
-        "result": "failure",
-        "started": "10/09 03:53 JST",
-        "status": "completed",
-        "trigger": "dynamic",
-        "url": "https://github.com/risakwmr/claude/actions/runs/37827797408",
-        "workflow": "Code scanning AI findings on PR #16"
-      },
-      {
-        "result": "success",
-        "started": "10/09 03:53 JST",
-        "status": "completed",
-        "trigger": "dynamic",
-        "url": "https://github.com/risakwmr/claude/actions/runs/37827790597",
-        "workflow": "PR #16"
-      },
-      {
-        "result": "success",
-        "started": "10/09 03:51 JST",
-        "status": "completed",
-        "trigger": "dynamic",
-        "url": "https://github.com/risakwmr/claude/actions/runs/37827495162",
-        "workflow": "Code scanning AI findings on PR #16"
-      },
-      {
-        "result": "success",
-        "started": "10/09 03:51 JST",
-        "status": "completed",
-        "trigger": "dynamic",
-        "url": "https://github.com/risakwmr/claude/actions/runs/37827485517",
-        "workflow": "PR #16"
-      },
-      {
-        "result": "success",
-        "started": "10/09 03:09 JST",
-        "status": "completed",
-        "trigger": "schedule",
-        "url": "https://github.com/risakwmr/claude/actions/runs/37822078082",
-        "workflow": "Make and upload episodes"
       }
     ]
   },
   "pronunciation": {
     "edit_link": "https://github.com/risakwmr/claude/edit/episodes/episodes/pronunciations.json",
     "episodes": [
-      {
-        "candidates": {
-          "again": "SENA: Of course. She asked, \"What happens if a region changes its time zone settings again?\" And I didn't have that sentence memorized. But I knew the answer, s",
-          "anyone": "SENA: Let me try. \"Good question, Wendell. In August, Hannah's team told us region two joins the standard table in January, so we built a temporary check until ",
-          "audio": "DANIEL: That's it exactly. Listeners, your turn. In forty seconds, answer this. When someone frustrates you at work, what do you usually do in the first five mi",
-          "been": "SENA: How long has it been since I read Wendell's message?",
-          "before": "DANIEL: Time zones. Before we talk about Wendell, I need to know about the call. Last time, your challenge was to say \"I'm excited\" before you speak, instead of",
-          "choose": "DANIEL: It can fix the words. But polite words sent at the wrong moment, in the wrong place, can still do damage. AI doesn't know that you'll work with Hannah's",
-          "damage": "DANIEL: I'm glad you did. By the end of this episode, you'll know what to do in the twenty minutes after something makes you angry, so you can answer without da",
-          "date": "DANIEL: Years ago, a partner team lead named Naomi moved a release date without telling my team. My engineers had already worked a weekend to make the old date.",
-          "emoji": "SENA: Yes. Under my summary of the call, there's a reply from Wendell, on Hannah's team. \"Still feels like duplicate work. Our standard table would've caught th",
-          "episode": "DANIEL: I'm glad you did. By the end of this episode, you'll know what to do in the twenty minutes after something makes you angry, so you can answer without da",
-          "fire": "SENA: Feed or extinguish. More fire or less fire.",
-          "game": "DANIEL: No. The venting group felt the angriest. And afterward, in a game where they could blast the other person with loud noise, they were the most aggressive",
-          "here": "DANIEL: Good naming. Anger usually shows up when something we care about feels threatened. Here it's your work, and your reputation in front of Laura. So the an",
-          "human": "DANIEL: Let it wait. Welcome back to Human Curriculum. I'm Daniel Reed, a People Manager in Seattle.",
-          "into": "DANIEL: Much worse. Then, in Bushman's study, the angry students were split into three groups. The first group hit a punching bag while looking at a photo of th",
-          "japan": "SENA: Can I talk about Japan? I think anger at work looks very different here.",
-          "kato-san": "SENA: At the end. \"So, what did we decide?\" And I said, \"We decided the check runs on every region before Mark gets the numbers.\" Mark posted a party emoji in t",
-          "made": "DANIEL: That's the cost. After that, I made a rule. Anything I write while angry sits in drafts for twenty minutes, and I walk the stairs once. Naomi and I work",
-          "main": "DANIEL: Very steady. Now, a retell. In about thirty seconds, tell me today's main points in your own words.",
-          "make": "DANIEL: Years ago, a partner team lead named Naomi moved a release date without telling my team. My engineers had already worked a weekend to make the old date.",
-          "mine": "SENA: The words are the easy part. The timing is mine.",
-          "minute": "SENA: Eleven oh four. You remember the minute.",
-          "more": "SENA: Feed or extinguish. More fire or less fire.",
-          "name": "DANIEL: Self-management. Here are four steps. One, name it. Anger, and what it's protecting. Two, lower the heat. Step away for twenty minutes, breathe slowly, ",
-          "naomi": "DANIEL: Years ago, a partner team lead named Naomi moved a release date without telling my team. My engineers had already worked a weekend to make the old date.",
-          "nine": "SENA: It's Thursday, nine ten in the morning. The call ended ten minutes ago, and it went well. I'm back at my desk, and I'm smiling. Then my laptop makes that ",
-          "noise": "DANIEL: No. The venting group felt the angriest. And afterward, in a game where they could blast the other person with loud noise, they were the most aggressive",
-          "none": "SENA: None. My jaw is tight again. I'm writing it down.",
-          "open": "DANIEL: The cc. That's a quiet weapon. In the US, people are often more direct, but open anger at work is risky here too. You'll hear, \"Let's take this offline,",
-          "pause": "DANIEL: Much better than the first draft. Now, Speaking Lab. Three sentences for when someone frustrates you at work. I'll say each one, and Sena repeats. Liste",
-          "raise": "DANIEL: Activities that lower your body's arousal, like slow breathing, mindfulness, slow yoga, relaxing your muscles, and taking a timeout, reduced anger. Acti",
-          "region": "SENA: I'm typing. Very fast. \"As I already explained on the call, the standard table doesn't even include region two until January, which your own team told us ",
-          "reputation": "DANIEL: Good naming. Anger usually shows up when something we care about feels threatened. Here it's your work, and your reputation in front of Laura. So the an",
-          "rumination": "DANIEL: Much worse. Then, in Bushman's study, the angry students were split into three groups. The first group hit a punching bag while looking at a photo of th",
-          "same": "DANIEL: It is. The caution: it's a lab study with students, and the aggression was measured with noise blasts in a game, not real workplace behavior. But newer ",
-          "some": "DANIEL: Exactly. One more honest thing. The review also found that some playful activities, like ball games, seemed to help, and the authors say more research i",
-          "someone": "DANIEL: Ha. Good catch. You're right to push back. Before a speech, you need that energy for the task, so you give it a better label. After someone makes you an",
-          "sure": "SENA: Daniel, I just sent the public reply. Hannah reacted with a thumbs up. And Wendell answered my direct message. \"Sure, Friday works.\"",
-          "take": "SENA: My voice shook for maybe the first twenty seconds. But I said, \"Thanks, everyone. I'll take five minutes to walk you through the new check.\" And then my t",
-          "time": "DANIEL: Time zones. Before we talk about Wendell, I need to know about the call. Last time, your challenge was to say \"I'm excited\" before you speak, instead of",
-          "tokyo": "SENA: And I'm Sena Sato, an Associate in Tokyo. For you it's the end of Wednesday, and for me it's Thursday morning.",
-          "weapon": "DANIEL: The cc. That's a quiet weapon. In the US, people are often more direct, but open anger at work is risky here too. You'll hear, \"Let's take this offline,",
-          "were": "DANIEL: Because you were present, not reading. And the famous question?",
-          "yoga": "DANIEL: Activities that lower your body's arousal, like slow breathing, mindfulness, slow yoga, relaxing your muscles, and taking a timeout, reduced anger. Acti",
-          "zone": "SENA: Of course. She asked, \"What happens if a region changes its time zone settings again?\" And I didn't have that sentence memorized. But I knew the answer, s"
-        },
-        "episode": 19
-      },
-      {
-        "candidates": {
-          "again": "DANIEL: And Thursday afternoon here. Grey and wet. Before we talk about region three, last time your challenge was about anger. If a message makes you angry, wr",
-          "audio": "DANIEL: That's it exactly. Listeners, your turn. In forty seconds, answer this. What is one thing at work that didn't go the way you hoped, and what is one less",
-          "been": "SENA: The choice to look. Okay. Daniel, can I ask for one of your stories? I think I need to hear that you've been here too.",
-          "before": "DANIEL: And Thursday afternoon here. Grey and wet. Before we talk about region three, last time your challenge was about anger. If a message makes you angry, wr",
-          "choose": "DANIEL: Right. AI can format the lessons. It can't feel the gap, and it can't choose to look at it instead of looking away. That choice is the whole skill.",
-          "chose": "DANIEL: Oh, I've been here. About eight years ago, I spent four months on a proposal for a new on-call system for our engineers. I was proud of it. Then my dire",
-          "data": "SENA: My validation rules. The checks for region three are already written. Hannah's team will build it on the standard table, but they still need to check the ",
-          "demo": "SENA: Disappointment. And a little embarrassment, because I told Ryo and Kenta about my demo.",
-          "emoji": "SENA: Unfortunately, yes. Last night, at eleven, Mark sent a message. \"Hey Sena! Can we get the region three numbers by tomorrow? Laura wants to see the trend.\"",
-          "episode": "DANIEL: That heavy feeling has a name, and it's worth learning. By the end of this episode, you'll have four steps for the day after something you worked hard o",
-          "fine": "DANIEL: Four months. And I said, \"Fine. Makes sense.\" In the meeting, I smiled. And then I disappeared. I stopped going to the planning meetings for the new sys",
-          "gone": "DANIEL: Exactly like that. After three weeks, a peer named Felix stopped me in the hallway. He said, \"Daniel, you've been gone for three weeks. Even when you're",
-          "here": "SENA: And I'm Sena Sato, an Associate in Tokyo. It's Friday, seven thirty in the morning here.",
-          "home": "DANIEL: Exactly like that. After three weeks, a peer named Felix stopped me in the hallway. He said, \"Daniel, you've been gone for three weeks. Even when you're",
-          "human": "DANIEL: Hold that thought. Welcome back to Human Curriculum. I'm Daniel Reed, a People Manager in Seattle.",
-          "idea": "DANIEL: Three hearts, not a fight. Did you thank Kenta for the coffee idea?",
-          "into": "DANIEL: That heavy feeling has a name, and it's worth learning. By the end of this episode, you'll have four steps for the day after something you worked hard o",
-          "japan": "SENA: Can I talk about Japan? Because I think we handle disappointment differently.",
-          "join": "SENA: An email. From Laura, to all of Tokyo. \"Please welcome Misaki Ono from marketing analytics, who will join Mark's launch planning team in Seattle for three",
-          "kato-san": "SENA: Three weeks of validation. The page is almost finished. I was going to show it next Tuesday. And Kato-san says, \"Thanks for all of that.\" All of that. The",
-          "made": "SENA: Then I made tea and waited twenty minutes. The draft looked very different after that. So I wrote, \"Hi Mark, Laura decided this morning to move region thr",
-          "main": "DANIEL: Clear and steady. Now, a retell. In about thirty seconds, tell me today's main points in your own words.",
-          "mine": "SENA: Mine is easy today. Check the roadmap before you build.",
-          "more": "DANIEL: Fishbach's team ran five experiments with more than one thousand six hundred people. In one, they asked simple questions with only two possible answers.",
-          "name": "DANIEL: That heavy feeling has a name, and it's worth learning. By the end of this episode, you'll have four steps for the day after something you worked hard o",
-          "note": "SENA: Then I made tea and waited twenty minutes. The draft looked very different after that. So I wrote, \"Hi Mark, Laura decided this morning to move region thr",
-          "open": "SENA: It's Thursday, five p.m. Kato-san's small meeting room, the one by the printer. He has a can of coffee, but he doesn't open it.",
-          "osaka": "SENA: Ryo said, \"Sorry, it was mine before it was yours.\" And then, \"Honestly, I'm a little relieved. If region three is gone, I can finish the Osaka script by ",
-          "page": "DANIEL: Your dashboard page.",
-          "pause": "DANIEL: Then you already have something to bring to that call. Now, Speaking Lab. Three sentences for when a decision doesn't go your way. I'll say each one, an",
-          "region": "SENA: He says, \"Laura decided this morning. Region three moves to the standard table next month, as a pilot. Hannah's team will build it.\" Then he looks at the ",
-          "same": "DANIEL: Exactly. A wrong answer teaches you just as much as a right one. Then they tested people again on the same questions. And people learned less from the q",
-          "sense": "DANIEL: Four months. And I said, \"Fine. Makes sense.\" In the meeting, I smiled. And then I disappeared. I stopped going to the planning meetings for the new sys",
-          "separate": "DANIEL: Self-management. Four steps. One, feel it and name it. Disappointment, and what you expected. Two, separate the decision from your worth. Laura's decisi",
-          "side": "SENA: And the other side is \"hansei.\" Reflection. But sometimes it becomes self-blame. \"I'm sorry, it's my fault, I'll try harder.\" And then nothing changes.",
-          "some": "DANIEL: From looking at a specific event, honestly, with the goal of learning. It worked for teams and individuals. The ones with structure and a facilitator se",
-          "someone": "DANIEL: Here's the hopeful part. When people watched someone else fail, they learned from it just as well as from someone else's success. Take the failure away ",
-          "take": "SENA: I did. I bought him a coffee downstairs. He said, \"You didn't have to. But I'll take it.\" That's long, for Kenta.",
-          "time": "DANIEL: And Thursday afternoon here. Grey and wet. Before we talk about region three, last time your challenge was about anger. If a message makes you angry, wr",
-          "tokyo": "SENA: And I'm Sena Sato, an Associate in Tokyo. It's Friday, seven thirty in the morning here.",
-          "tune": "DANIEL: Right. Even when people were paid to learn. Fishbach's explanation is simple. Failing doesn't feel good, so people tune out. It's the ego protecting its",
-          "were": "DANIEL: Fishbach's team ran five experiments with more than one thousand six hundred people. In one, they asked simple questions with only two possible answers.",
-          "wife": "DANIEL: Exactly like that. After three weeks, a peer named Felix stopped me in the hallway. He said, \"Daniel, you've been gone for three weeks. Even when you're"
-        },
-        "episode": 20
-      },
       {
         "candidates": {
           "again": "SENA: I type, \"Congratulations!!\" Two exclamation marks. Then I delete it. I type it again with one. I delete it again. My camera is just hanging around my neck",
@@ -1333,7 +1148,7 @@
       "yarikake",
       "zensho shimasu"
     ],
-    "next_episode": 19,
+    "next_episode": 21,
     "voicetest_link": "https://github.com/risakwmr/claude/actions/workflows/episodes.yml"
   }
 }

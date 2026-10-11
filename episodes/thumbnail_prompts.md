@@ -54,3 +54,53 @@ Text, left side, large navy serif: "Saying No Without Burning Bridges". Below in
 Small details: handwritten notes "Pause first", "Ask what it's for", "One clear no"; a pink sticky note "No, plus a plan"; three stacked books with spines "Givi & Kirk", "Zauberman & Lynch", "Human Curriculum".
 ```
 
+
+## EP24｜Switching Off After Work
+
+```
+16:9 YouTube thumbnail, soft watercolor anime illustration, warm natural light, editorial collage style on cream textured paper with torn edges and coral and blue brush strokes.
+Character (keep identical in every episode): Sena, a young Japanese woman, long wavy light-brown hair, sunglasses perched on her head, small gold hoop earrings, oversized soft pink knit sweater, cream wide-leg trousers.
+Scene: Blue-hour dusk on a Tokyo street, wide eye-level side-profile shot. Sena strides out through the glass doors of an office tower, mid-step, tote bag swinging, her body facing right in full profile while she turns her face back toward the viewer with a relieved half-smile. With her outstretched left hand she flips a giant, oversized wall light switch on the building's facade from "ON" to "OFF"; behind her, the tower's windows go dark floor by floor like a wave, and far in the background a small open laptop on one dark floor is gently closing its lid. Ahead of her, warm streetlights, a crosswalk and a thin crescent moon over the city.
+IMPORTANT: DO NOT default to a desk, laptop, coffee cup, notebook, or seated office scene.
+The protagonist must be physically active or visually interacting with the environment.
+Prioritize strong physical storytelling: walking, running, climbing stairs, opening a door, crossing a bridge, looking through a window, carrying objects, reaching, turning, balancing, following a route, standing in a large environment, interacting with oversized conceptual objects, talking while walking, or moving through a public space.
+The Mac/laptop should NOT be the main visual focus. A laptop may appear only as a secondary environmental detail when necessary.
+Avoid repetitive:
+- sitting at a desk
+- typing on a laptop
+- writing in a notebook
+- holding a coffee cup
+- video-call composition
+- pointing at text
+Every episode should communicate the concept through BODY MOVEMENT + ENVIRONMENT + VISUAL METAPHOR.
+The viewer should understand what the character is DOING, not simply what she is LOOKING AT.
+Make the pose dynamic, natural, and editorial rather than static, posed, or like a corporate illustration.
+Use a substantially different body orientation and camera angle from recent episodes.
+Text, left side, large navy serif: "Switching Off After Work". Below in navy serif with "Close" in coral italic: "Write Your First Step, Then Close the Laptop". Top left small: "The Human Curriculum". Coral label: "EPISODE 24".
+Small details: handwritten notes "Where, when, how", "Done for today", "15 vs 25 min"; a pink sticky note "One line, lid closed"; three stacked books with spines "Smit", "Scullin et al.", "Perlow & Porter".
+```
+
+## EP25｜Perfectionism vs. Good Enough
+
+```
+16:9 YouTube thumbnail, soft watercolor anime illustration, warm natural light, editorial collage style on cream textured paper with torn edges and coral and blue brush strokes.
+Character (keep identical in every episode): Sena, a young Japanese woman, long wavy light-brown hair, sunglasses perched on her head, small gold hoop earrings, oversized soft pink knit sweater, cream wide-leg trousers.
+Scene: bright early-morning light in a wide, airy Tokyo office lobby with tall windows; a frontal shot, camera at chest height directly in front of her, Sena striding toward the viewer mid-step, her right arm extended forward as she lets go of a paper airplane folded from a slide page (one wing slightly crooked, a small hand-drawn arrow on it) that flies toward the camera, past the viewer's shoulder. Behind her, an oversized wobbly tower of crumpled draft pages labeled "v1" to "v13" leans and starts to tip, left behind; a big wall clock above shows 8:11. A paper rice bowl drawn only eight-tenths full floats in a corner as a playful visual metaphor for "good enough." Her hair and sweater sleeves move with her stride; her face looks relieved and brave.
+IMPORTANT: DO NOT default to a desk, laptop, coffee cup, notebook, or seated office scene.
+The protagonist must be physically active or visually interacting with the environment.
+Prioritize strong physical storytelling: walking, running, climbing stairs, opening a door, crossing a bridge, looking through a window, carrying objects, reaching, turning, balancing, following a route, standing in a large environment, interacting with oversized conceptual objects, talking while walking, or moving through a public space.
+The Mac/laptop should NOT be the main visual focus. A laptop may appear only as a secondary environmental detail when necessary.
+Avoid repetitive:
+- sitting at a desk
+- typing on a laptop
+- writing in a notebook
+- holding a coffee cup
+- video-call composition
+- pointing at text
+Every episode should communicate the concept through BODY MOVEMENT + ENVIRONMENT + VISUAL METAPHOR.
+The viewer should understand what the character is DOING, not simply what she is LOOKING AT.
+Make the pose dynamic, natural, and editorial rather than static, posed, or like a corporate illustration.
+Use a substantially different body orientation and camera angle from recent episodes.
+Text, left side, large navy serif: "Perfectionism vs. Good Enough". Below in navy serif with "Enough" in coral italic: "Know When It's Good Enough". Top left small: "The Human Curriculum". Coral label: "EPISODE 25".
+Small details: handwritten notes "v13, really final", "Must be right", "Stop time 8:20"; a pink sticky note "Ship it at 80%"; three stacked books with spines "Harari et al.", "Curran & Hill", "Human Curriculum".
+```

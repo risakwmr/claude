@@ -1441,6 +1441,118 @@
       ],
       "thumb_cup": "No, plus a plan",
       "thumb_pose": "sena_idea"
+    },
+    {
+      "number": 24,
+      "script": "ep24.txt",
+      "title": "Switching Off After Work",
+      "short_title": "Switching Off After Work",
+      "summary": "Last night, Sena lay in bed with her phone until two, rehearsing an answer to one of Mark's late-night prep questions, even after he told her to go to sleep. Daniel shares Brandon Smit's study of 103 employees and 1,127 goals, where unfinished goals followed people into the evening and a short where-when-how plan helped those who usually struggle to switch off, and a sleep-lab study by Michael Scullin and colleagues, where writing a to-do list at bedtime went with falling asleep in about 15 minutes instead of 25. He tells the story of his own \"No need to reply tonight\" messages that kept an engineer online until one in the morning, and they compare \"Osaki ni shitsurei shimasu\" in Japan with fast night replies in the US. Today's challenge: at the end of your workday, write tomorrow's first step in one line, then close your laptop.",
+      "practice": "At the end of your workday, write tomorrow's first step in one line, with where, when, and how. Then close your laptop and leave it closed.",
+      "sources": [
+        "Smit (2016), Successfully leaving work at work: The self-regulatory underpinnings of psychological detachment, Journal of Occupational and Organizational Psychology",
+        "Scullin, Krueger, Ballard, Pruett & Bliwise (2018), The Effects of Bedtime Writing on Difficulty Falling Asleep: A Polysomnographic Study Comparing To-Do Lists and Completed Activity Lists, Journal of Experimental Psychology: General",
+        "Perlow & Porter (2009), Making Time Off Predictable—and Required, Harvard Business Review"
+      ],
+      "tags": [
+        "EQ",
+        "emotional intelligence",
+        "switching off after work",
+        "work-life balance",
+        "psychological detachment",
+        "shutdown routine",
+        "self-management",
+        "burnout",
+        "career",
+        "leadership",
+        "program manager",
+        "audiobook",
+        "English learning",
+        "English speaking"
+      ],
+      "yt_title": "Can't Stop Thinking About Work at Night? Try This 2-Minute Shutdown",
+      "hook": "You close the app at midnight, but your brain keeps rehearsing tomorrow's answer until 2 a.m.\nLearn a two-minute way to end your workday: one line on paper, and a laptop that actually closes.",
+      "points": [
+        "103 employees, 1,127 goals: why unfinished work follows you home, and what a where-when-how plan does",
+        "A sleep-lab study: a bedtime to-do list went with falling asleep in about 15 minutes instead of 25",
+        "Daniel's \"No need to reply tonight\" messages, and the engineer who replied at 1 a.m.",
+        "\"Osaki ni shitsurei shimasu\" in Japan vs fast night replies in the US"
+      ],
+      "title_ja": "仕事のスイッチを切る。明日の最初の一歩を書いて、PCを閉じよう",
+      "hook_ja": "夜中の12時、ベッドでスマホを握ったまま、明日の答えを頭の中で6回言い直す…。アプリは閉じたのに、1日が終わらない夜はありませんか？\n紙に1行、そして本当に閉じるノートPC。2分で仕事を終える習慣を英語で身につけよう🎧（日本語字幕あり）",
+      "points_ja": [
+        "終わっていない仕事が夜までついてくる理由",
+        "寝る前のやることリストで、眠りが約10分早く？",
+        "ダニエルの「今夜は返信不要」が部下を夜中まで起こしていた話",
+        "「お先に失礼します」の日本と夜の即レスのアメリカ"
+      ],
+      "summary_ja": "マークさんからの夜中の質問に答えたあと、2時まで答えを頭の中で練習してしまったセナ。103人・1,127個の目標を追い、終わっていない目標ほど夜も頭に残り、「どこで・いつ・どうやるか」の計画が切り替えの苦手な人を助けたというスミットの研究と、寝る前にやることリストを書いた人が約25分ではなく約15分で眠れたというスカリンらの睡眠ラボの研究を紹介します。「今夜は返信しなくていいよ」のメッセージで部下を夜中まで起こしていたダニエルの失敗談、帰ることさえ謝るように聞こえる「お先に失礼します」の日本と、夜の即レスが熱意に見えるアメリカの比較も。",
+      "practice_ja": "1日の仕事の終わりに、明日の最初の一歩を「どこで・いつ・どうやるか」を入れて1行で書き、ノートPCを閉じて、閉じたままにする。",
+      "thumb_accent": "Close",
+      "thumb_sub": "Write Your First Step, Then Close the Laptop",
+      "thumb_notes": [
+        "Capture open loops",
+        "Where, when, how",
+        "Done for today",
+        "15 vs 25 min"
+      ],
+      "thumb_cup": "One line, lid closed",
+      "thumb_pose": "sena_breathe"
+    },
+    {
+      "number": 25,
+      "script": "ep25.txt",
+      "title": "Perfectionism vs. Good Enough",
+      "short_title": "Perfectionism vs. Good Enough",
+      "summary": "Eight minutes before Kato-san's 3 p.m. deadline for the slides Laura wants to see, Sena is on version thirteen, moving one arrow two pixels left and right, with a \"tomorrow morning\" request waiting in her message box. The next morning, an hour before her first presentation to Mark's team, Daniel shares Harari and colleagues' meta-analysis, where perfectionists worked more hours and felt more stress without clearly better performance, and Curran and Hill's finding that the feeling \"others expect me to be perfect\" rose among college students from 1989 to 2016. He tells the story of the performance review he rewrote eleven times while his best engineer waited two weeks in fear, and they compare Japan's polished-first-version culture, and hara hachi bu, with the US habit of shipping early. Today's challenge: decide to ship one task at eighty percent and send it before the deadline.",
+      "practice": "Pick one task today and decide to ship it at eighty percent. Before you start, write down what must be right (and what is only nice to have), set a stop time before the deadline, and send it then with one line inviting feedback.",
+      "sources": [
+        "Harari, Swider, Steed & Breidenthal (2018), Is Perfect Good? A Meta-Analysis of Perfectionism in the Workplace, Journal of Applied Psychology",
+        "Curran & Hill (2019), Perfectionism Is Increasing Over Time: A Meta-Analysis of Birth Cohort Differences From 1989 to 2016, Psychological Bulletin"
+      ],
+      "tags": [
+        "EQ",
+        "emotional intelligence",
+        "perfectionism",
+        "good enough",
+        "done is better than perfect",
+        "self-management",
+        "productivity",
+        "career",
+        "leadership",
+        "program manager",
+        "audiobook",
+        "English learning",
+        "English speaking"
+      ],
+      "yt_title": "Perfectionism at Work: How to Know When It's Good Enough",
+      "hook": "Your slides were ready on Tuesday, but you're still moving one arrow two pixels left and right, eight minutes before the deadline.\nLearn how to decide what must be right, set a stop time, and send it before the deadline.",
+      "points": [
+        "Perfectionists work more hours and feel more stress, but aren't clearly better performers (Harari et al.)",
+        "The feeling \"others expect me to be perfect\" rose about 33% among students (Curran & Hill)",
+        "Daniel's review, rewritten eleven times, and the two weeks of fear it caused",
+        "Japan's polished first version and hara hachi bu vs \"done is better than perfect\" in the US"
+      ],
+      "title_ja": "完璧主義と「これで十分」の境目",
+      "hook_ja": "スライドは火曜日にできていたのに、締め切り8分前、まだ矢印を左に2ピクセル、右に2ピクセル…。「明日の朝でもいいですか？」と打ちかけたこと、ありませんか？\n「絶対に正しくなきゃいけない所」を決めて、締め切り前に出す方法を英語で学ぼう🎧（日本語字幕あり）",
+      "points_ja": [
+        "完璧主義の人は長く働くのに、成果ははっきり上でない？",
+        "「人から完璧を求められている」感覚は約33%増",
+        "評価を11回書き直したダニエルと、2週間おびえた部下",
+        "日本の「腹八分」と、アメリカの「完璧より完了」"
+      ],
+      "summary_ja": "ローラさんが見たいというスライドの締め切り、午後3時の8分前。バージョン13で矢印を動かし続け、「明日の朝でもいいですか」の下書きを入力欄に残したままのセナ。翌朝、初めての発表の1時間前に、完璧主義の人は長く働きストレスも多いのに成果ははっきりとは高くないというハラリたちのメタ分析と、「ほかの人が自分に完璧を求めている」という感覚が1989年から2016年に大学生で強まったというカランとヒルの研究を紹介します。人事評価を11回書き直して、いちばん優秀な部下を2週間不安にさせたダニエルの失敗談、仕上がった版を見せる日本と「腹八分」、早く出して直すアメリカの比較も。",
+      "practice_ja": "今日、仕事を1つ選んで「8割で出す」と決める。始める前に絶対に正しくなきゃいけないことを書き出し、締め切りより前の「やめる時間」に送る。",
+      "thumb_accent": "Enough",
+      "thumb_sub": "Know When It's Good Enough",
+      "thumb_notes": [
+        "v13, really final",
+        "Must be right",
+        "Stop time 8:20",
+        "Hara hachi bu"
+      ],
+      "thumb_cup": "Ship it at 80%",
+      "thumb_pose": "sena_breathe"
     }
   ]
 }

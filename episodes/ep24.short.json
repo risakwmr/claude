@@ -1,0 +1,8 @@
+{
+  "shorts": [
+    {"kind": "highlight", "lines": [34, 37], "hook": "Writing tomorrow's to-do list helped people fall asleep faster.", "title": "Write a to-do list before bed? A sleep lab tested it"},
+    {"kind": "ai", "lines": [42, 46], "hook": "AI never gets tired. That's exactly why it can't do this.", "title": "Why AI can't end your workday for you"},
+    {"kind": "story", "lines": [48, 54], "hook": "\"No need to reply tonight.\" He replied in four minutes.", "title": "My late-night messages kept my engineer online"},
+    {"kind": "culture", "lines": [61, 66], "hook": "In Japan, even going home sounds like an apology.", "title": "Leaving work on time: Japan vs the US"}
+  ]
+}

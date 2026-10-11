@@ -1,0 +1,8 @@
+{
+  "shorts": [
+    {"kind": "highlight", "lines": [32, 35], "hook": "Perfectionists worked more hours. Their performance wasn't clearly better.", "title": "Does perfectionism make you better at work?"},
+    {"kind": "ai", "lines": [51, 56], "hook": "AI can polish forever. That's exactly the problem.", "title": "AI can polish anything. Only you can say \"done\""},
+    {"kind": "story", "lines": [58, 64], "hook": "I rewrote one review eleven times. She paid for it.", "title": "My perfect review cost her two weeks of fear"},
+    {"kind": "culture", "lines": [73, 80], "hook": "Japan has \"eat until 80% full.\" Never for slides.", "title": "Perfectionism at work: Japan vs the US"}
+  ]
+}

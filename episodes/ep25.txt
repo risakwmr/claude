@@ -1,0 +1,117 @@
+SENA: It's Wednesday, two fifty-two in the afternoon. I'm at my desk, and the file name on my screen is "pipeline final v thirteen, really final."
+DANIEL: Thirteen. This morning it was eleven.
+SENA: Right now, I'm moving one arrow on slide four. Two pixels to the left. Then two pixels back to the right. Then left again.
+DANIEL: And Kato-san's three o'clock?
+SENA: Eight minutes. Kenta walked behind my chair at two thirty, looked at the screen, and said, "It's good. Honestly, send it." Kenta never says "honestly." I said, "Just a few more things."
+DANIEL: So what's in your message box?
+SENA: A draft to Kato-san. "I'm sorry, would it be okay if I send the slides tomorrow morning? I'd like to polish a few small things." My cursor is blinking after the word "things."
+DANIEL: Hold that cursor. By the end of this episode, you'll be able to decide what "good enough" means for one task, and send it before the deadline, not after it.
+SENA: Before the deadline. That sounds like a different person.
+DANIEL: Welcome back to Human Curriculum. I'm Daniel Reed, a People Manager in Seattle.
+SENA: And I'm Sena Sato, an Associate in Tokyo. It's Thursday, eight in the morning here. My presentation is at nine.
+DANIEL: And Wednesday, four in the afternoon here. Last time, your challenge was to write tomorrow's first step in one line, then close the laptop. And you told me your line. "Seven forty, on the train, read page one, then say my first sentence twice."
+SENA: I wrote it last night at seven. A pink sticky note, exactly those words. I stuck it on my phone case so I'd see it on the train. Then I closed the laptop.
+DANIEL: How did closing it feel?
+SENA: Strange. My hand stayed on the lid for a second. Then I walked home a different way and took a photo of a vending machine glowing in an empty alley. No Slack. Even when my phone buzzed at eleven.
+DANIEL: Mark?
+SENA: Probably. I still don't know. But I fell asleep before midnight for the first time this week.
+DANIEL: And this morning?
+SENA: Seven forty, on the train, I read page one, and I said my first sentence twice, very quietly. "I built the pipeline, Ryo tested it, and Kenta's review made it better." The note had already decided, so I didn't open the slides on the train.
+DANIEL: That's the note doing its job. Now, I've waited a whole day. Three o'clock. Not finished, or not perfect?
+SENA: Not perfect. I know that now. But yesterday, I sent the draft.
+DANIEL: The "tomorrow morning" draft.
+SENA: Yes. Kato-san answered in one minute. "Please send what you have now. Laura is waiting." So I sent version thirteen at three twenty-five. Twenty-five minutes late. With a message. "Sorry, it's not finished yet. The colors and some titles are still not right."
+DANIEL: And then?
+SENA: This morning at six, Laura replied. "Thanks, Sena. Clear and useful. Slide five is exactly what I need. But your note says it isn't finished. Is something missing?"
+DANIEL: Ah. So what was missing?
+SENA: Nothing. That's the problem. Since Tuesday I changed the font, recolored one chart four times, rewrote the slide three title nine times, and moved the arrow. Laura mentioned none of it. She talked about slide five, unchanged since Tuesday. Ryo even ran his check script on it twice.
+DANIEL: So the part people noticed was done on Tuesday. And your apology made finished work look unfinished.
+SENA: When you say it like that, it sounds silly. But in my head, one small mistake means they'll think the whole pipeline is careless. And the voice says, "See? A faster spreadsheet." And I still haven't answered Laura. I have three drafts.
+DANIEL: That fear has been studied a lot. In 2018, Dana Harari, Brian Swider, Laurens Steed and Amy Breidenthal published a meta-analysis in the Journal of Applied Psychology. The title is a question. "Is Perfect Good?"
+SENA: I'm afraid of the answer.
+DANIEL: Harari's team combined about four decades of research on perfectionism at work, with nearly twenty-five thousand working-age people. Perfectionists were more motivated, more engaged, and worked more hours.
+SENA: So far, that sounds good.
+DANIEL: Here's the surprising part. All that extra effort did not clearly turn into better job performance. The researchers called the link with performance "equivocal." But the link with stress, anxiety, burnout and depression was consistent. Perfectionists had more of all of them.
+SENA: More hours, more stress, and not clearly better work.
+DANIEL: That's the short version. They also split perfectionism into two kinds. Excellence-seeking, very high standards for yourself. And failure-avoiding, mainly fear of making a mistake. The failure-avoiding kind looked the most costly.
+SENA: The arrow is failure-avoiding. I'm not making the deck better. I'm hiding from a mistake.
+DANIEL: That's a sharp way to put it. The honest cautions: a meta-analysis like this mostly combines correlations, so it can't prove perfectionism causes the stress. And "unclear" also means not clearly worse. High standards aren't the enemy.
+SENA: Okay. What's the second study?
+DANIEL: The second one is about where the pressure comes from. In 2019, Thomas Curran and Andrew Hill published a paper in Psychological Bulletin. They looked at a hundred and sixty-four samples, forty-one thousand six hundred and forty-one college students in the US, Canada and the UK, who answered the same questionnaire between 1989 and 2016.
+SENA: So the same questions, over almost thirty years.
+DANIEL: Right. All three kinds of perfectionism went up. In the researchers' press release, the biggest rise was what they call socially prescribed perfectionism. The feeling that other people expect you to be perfect. It rose about thirty-three percent. Being perfect for yourself rose about ten percent.
+SENA: "Other people expect me to be perfect." That's my whole Wednesday.
+DANIEL: Let me check that. What did Kato-san actually ask for?
+SENA: "Can you send me your slides by three today?"
+DANIEL: Did he say "perfect"?
+SENA: No. And Laura wrote "clear and useful." The perfect part, I added myself.
+DANIEL: That's the pattern. The expectation feels like it comes from outside, but a lot of it is written inside. Cautions: these were college students in three countries, and the reasons, like social media, are the researchers' interpretation, not tested.
+SENA: Students, three countries, causes not proven. Got it.
+DANIEL: Good. Now, our usual question. Why can't AI do this?
+SENA: AI could fix my arrow in one second, and make fifty versions of slide three.
+DANIEL: It could. Does that help you?
+SENA: No. It makes it worse. With AI, there is always one more version. It never gets tired of polishing, so it never tells me to stop.
+DANIEL: So what's left for you?
+SENA: Deciding what "done" means. AI doesn't know that Mark's team is deciding which segment goes first in the launch. And it can't stand in front of Mark's team at nine and own the deck.
+DANIEL: Exactly. AI can make anything more polished. Only you can decide when it's good enough for the person who needs it. That's judgment, and that's yours.
+SENA: Daniel, are you a perfectionist?
+DANIEL: I was, in a way that hurt someone. About eight years ago, in my first year as a manager, I had to write performance reviews. One of them was for Simone, the strongest engineer on my team.
+SENA: The easy one, then.
+DANIEL: You'd think so. I wanted her review to be perfect, because she deserved it. I rewrote it eleven times. Reviews were due on a Friday. I moved hers one week, then another. Everyone else had their review conversation. Simone didn't.
+SENA: Oh no. I can guess what she thought.
+DANIEL: When I finally sat down with her, the review was glowing. She read it, and she was quiet for a moment. Then she said, "Daniel, I spent two weeks thinking I was about to be let go."
+SENA: Two weeks of worry. From a good review.
+DANIEL: From a review that was ready on the first Friday. The eleven versions weren't for her. They were for me, so I would feel safe. She paid for my perfect review with two weeks of fear.
+SENA: What did you change after that?
+DANIEL: Now I give myself one draft, one night, and one fix, and I send reviews a day early. Nobody waits in silence. And my wife says I do the same thing with curry.
+SENA: With curry?
+DANIEL: Last Sunday I kept adding a little more salt, a little more roux, tasting again. Finally she took the spoon and said, "It was good twenty minutes ago."
+SENA: It was good twenty minutes ago. Like my deck on Tuesday.
+DANIEL: Ha. Like your deck on Tuesday.
+SENA: Can I talk about Japan? Because perfection is a little bit of a value here.
+DANIEL: Please.
+SENA: In many Japanese workplaces, a typo in a client document feels almost rude. Documents are checked by several people. And you often show your boss a version that's already polished.
+DANIEL: So quality is a kind of respect.
+SENA: Yes. But we also have an expression for food. "Hara hachi bu." Eat until you're eighty percent full. Everybody knows it. We just never use it for slides.
+DANIEL: I love that. Hara hachi bu for slides.
+SENA: What about the US? I hear "done is better than perfect" a lot.
+DANIEL: That phrase is popular in tech here. Many teams ship early, get feedback, and improve. Sending something rough on time respects other people's time. But it's not "anything goes." Wrong numbers still matter a lot.
+SENA: So in Japan, quality shows respect. In the US, being on time with something good enough shows respect.
+DANIEL: Roughly, though every team is different. And the overlap is useful. Be Japanese about the parts that must be right. Be American about everything else.
+SENA: Which EQ skill is this?
+DANIEL: Self-management. Here are four steps. One, define done. Who is it for, and what do they need to decide? Two, split the work. What must be right, and what is only nice to have? Three, set a stop time before the deadline. And four, send it with one line that invites feedback.
+SENA: Let me try it now, with my reply to Laura. Step one. It's for Laura, and she needs to know one thing. Is the deck ready for nine?
+DANIEL: Step two?
+SENA: Must be right: yes, it's finished, and the numbers are checked. Nice to have: explaining the colors, the arrow, and apologizing for yesterday's message.
+DANIEL: And the deck itself? Is there a version fourteen planned before nine?
+SENA: I was going to fix the slide three title on the way to the meeting room. Okay. Must be right: slide five, one main message, and Ryo and Kenta on the credit slide. All done on Tuesday. That's my eighty percent. It was ready two days ago.
+DANIEL: Step three. Stop time?
+SENA: Eight twenty. Forty minutes before the meeting. Step four. I'm deleting all three drafts. New message. "Hi Laura, nothing is missing. It's finished, the numbers are checked, and I'm happy to adjust anything after today's meeting."
+DANIEL: No apology, a clear status, and an open door. And the arrow?
+SENA: The arrow stays where it is. Two pixels to the left. Sent. Eight eleven.
+DANIEL: Nine minutes before your own stop time.
+SENA: My heart is going very fast, for one email.
+DANIEL: That's normal. Now, Speaking Lab. Three sentences for sending work that's good enough. I'll say each one, and Sena repeats. Listeners, pause and say it out loud with her.
+SENA: Ready.
+DANIEL: "This is a first version, and I'm happy to adjust it."
+SENA: This is a first version, and I'm happy to adjust it.
+DANIEL: "The numbers are checked, and the design can improve later."
+SENA: The numbers are checked, and the design can improve later.
+DANIEL: "I'm sending it now, so you have time to review it."
+SENA: I'm sending it now, so you have time to review it.
+DANIEL: Nice. Now, a retell. In about thirty seconds, tell me today's main points in your own words.
+SENA: Okay. Harari and her team found that perfectionists work more hours and feel more stress, but their performance is not clearly better. And Curran and Hill found that, um, the feeling that others expect us to be perfect has grown. But often we add that pressure ourselves. So I decide what must be right, set a stop time, and send it before the deadline. Hara hachi bu.
+DANIEL: Perfect. Or should I say, good enough. Listeners, your turn. In forty seconds, answer this. What is one task you keep polishing, and what would good enough look like for it? Pause the audio and speak.
+SENA: Mine is emails. I read them five times. Twice would be enough.
+DANIEL: Today's challenge: pick one task today and decide to ship it at eighty percent. Before you start, write what must be right, and send it before the deadline, not at the last minute.
+SENA: I just did mine. Next is my follow-up email after the meeting. Two reads and send.
+DANIEL: Two reads and send. Next time, episode twenty-six, "Self-Compassion at Work." What to say to yourself on a day when something goes wrong.
+SENA: Hopefully not today.
+DANIEL: Your phone just lit up.
+SENA: It's Mark. "See you at nine! Laura loved the deck." A clapping emoji. And then a second message. "Heads-up, she added ten minutes for questions at the end. She wants to hear about region three."
+DANIEL: Region three.
+SENA: Daniel, region three isn't in my deck at all. It's moving to the standard table, and Wendell's first version only arrived yesterday.
+DANIEL: And you're not making version fourteen.
+SENA: No. One sticky note. "Region three: what I know, what I don't know yet, and when Wendell's numbers will be ready." Then I'm walking to the meeting room.
+DANIEL: Then that's where we start next time. Thanks for listening to Human Curriculum. I'm Daniel.
+SENA: And I'm Sena. Decide what must be right, set a stop time, and send it before the deadline. See you next time.

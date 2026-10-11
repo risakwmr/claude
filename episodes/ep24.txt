@@ -1,0 +1,105 @@
+SENA: It's twelve twenty-three at night. I'm in bed, lights off, phone on my chest. The screen is the only light in the room. I've opened Slack maybe fifteen times since eleven.
+DANIEL: Waiting for Mark.
+SENA: Waiting for Mark. Then it buzzes. "Three quick ones for Thursday! One, how long did the report take before? Two, could another region use it? Three, what's the one thing you'd change?" And a sweating smile.
+DANIEL: Did you answer?
+SENA: Of course I answered. At twelve forty. Long answers. And he replied in ten seconds. "Wait, why are you awake?? Go to sleep!!"
+DANIEL: "No rush at all."
+SENA: No rush at all. So I put the phone down. And then I lay there until two, rehearsing my answer to question three. The one thing I'd change. I changed my answer six times. In the dark.
+DANIEL: You closed the app, but you didn't close the day. By the end of this episode, you'll have a two-minute way to end your workday: one line on paper, and a laptop that actually closes.
+SENA: One line on paper. Okay. Because right now my workday ends when I fall asleep.
+DANIEL: Welcome back to Human Curriculum. I'm Daniel Reed, a People Manager in Seattle.
+SENA: And I'm Sena Sato, an Associate in Tokyo. It's Wednesday, seven thirty in the morning here.
+DANIEL: And Tuesday, three thirty in the afternoon here. Maple is asleep under my desk, so at least one of us is rested. Last time, your challenge was to say no to one request and offer one alternative. You sent yours to Mark while we were talking. What happened after that?
+SENA: The thumbs-up was real. He never asked for the twelve months again. And I put the full breakdown in my calendar for next Wednesday, so it's a promise with a date.
+DANIEL: Good. A no with an alternative only works if the alternative arrives.
+SENA: And I did a second one. Yesterday afternoon, someone in Osaka asked me for a "quick" pull of last year's numbers. I wrote, "I can't today, but I can send it Friday morning." She wrote back, "Friday is perfect." Two words. No drama.
+DANIEL: Two in one day. How did the second one feel?
+SENA: Smaller. The first no was like jumping off a wall. The second was like stepping off a curb.
+DANIEL: That's the skill growing. And Ryo? Yesterday was his fifteen minutes with Kato-san.
+SENA: Yes! He came back and was quiet for ten minutes. Then he said, "Kato-san said the Osaka script can wait until January." That's all. But at six thirty, Ryo stood up, put on his jacket, and said, "Otsukaresama desu." I have never seen his chair empty before seven.
+DANIEL: Then two people on your team are learning to end a day. Okay. So last night. You answered at twelve forty, and you were awake until two. What was going on in your head?
+SENA: A loop. Question three, then the slides, then Wendell. His first version of region three arrives today, and I promised to review it. Then question three again. It's like my brain left a tab open, and the tab keeps playing music.
+DANIEL: That's a very good description of something researchers have measured. In 2016, Brandon Smit published a paper in the Journal of Occupational and Organizational Psychology. The title is "Successfully leaving work at work."
+SENA: That sounds like a self-help book.
+DANIEL: It's more careful than that. He followed one hundred and three employees who were working on one thousand, one hundred and twenty-seven goals. At the end of each workday, they reported which goals they had finished and which were still open. Then, just before bed, they reported how much those goals had been on their minds that evening.
+SENA: Let me guess. The open ones.
+DANIEL: The open ones. People had more trouble detaching from unfinished goals than finished ones, especially goals that really mattered to them.
+SENA: Question three really matters to me.
+DANIEL: I know. Here's the useful part. In an experiment inside the study, some people took a few minutes at the end of the day to write a plan for each unfinished goal. Where, when, and how they would continue it. And for the people who usually find it hard to switch off, that plan helped them detach in the evening.
+SENA: Only those people?
+DANIEL: Mostly those people. That's the honest caution. It helped the people who usually struggle the most, not everyone. And the evenings were self-reported, so it's what people said was on their minds.
+SENA: But I am exactly those people.
+DANIEL: I suspected. Now, the second study takes us into a sleep lab. In 2018, Michael Scullin and his colleagues at Baylor University published a study in the Journal of Experimental Psychology: General.
+SENA: A sleep lab? With wires on your head?
+DANIEL: With wires on your head. Fifty-seven healthy young adults, aged eighteen to thirty, spent a weeknight in a sleep lab at Baylor. Before lights out, each person wrote for five minutes. Half wrote a to-do list for the next few days. The other half wrote about tasks they had already finished.
+SENA: And the to-do list people couldn't sleep, because they were thinking about tomorrow.
+DANIEL: That's what many people predict. It was the opposite. The to-do list group fell asleep in about fifteen minutes on average. The "already finished" group took about twenty-five. And the more specific the to-do list was, the faster people fell asleep.
+SENA: Writing down tomorrow helped them stop thinking about tomorrow.
+DANIEL: That's the idea. It seems that when the task is on paper, your brain doesn't have to keep holding it. Now the cautions. Fifty-seven people is small, though normal for an overnight lab study. They were young and healthy, so we don't know if it works for people with insomnia. And there was no group that wrote nothing.
+SENA: So maybe writing about finished tasks made sleep worse, instead of the to-do list making it better.
+DANIEL: Exactly, and the researchers say that too. One more thing. If sleep is hard for weeks, that's a conversation with a doctor, not with a sticky note.
+SENA: Noted. So both studies say the same thing. Don't finish everything. Write down where you'll start.
+DANIEL: That's how I'd put it. Now, our usual question. Why can't AI do this?
+SENA: AI can write my to-do list and even schedule my messages.
+DANIEL: It can. So what's left?
+SENA: Deciding that today is done. AI never gets tired, so it can't tell me when to stop. And it doesn't know which open loop is the one that will keep me awake. Last night it was question three, not the forty emails.
+DANIEL: And there's one more part. A boundary only works if a human keeps it. Your laptop can close. Only you can decide not to open it again at midnight.
+SENA: Daniel, have you ever been bad at this?
+DANIEL: Very bad, and I made it other people's problem. When I first became a manager, I wanted my team to know I was always there. So I answered everything, any time. One night, around ten fifty, I sent a message to an engineer on my team, Callum. "Quick thought on tomorrow's demo. No need to reply tonight."
+SENA: That sounds kind.
+DANIEL: I thought so. He replied in four minutes. And at one in the morning, he sent me a new version of his slides. That happened again and again for about two months. I thought, "Wow, Callum is so committed."
+SENA: Oh no.
+DANIEL: Then in a one-on-one, he looked very tired, and he said, "Daniel, you say 'no need to reply.' But you're online. So I'm online. I never know when your day ends, so mine never ends either."
+SENA: "Mine never ends either."
+DANIEL: That sentence changed how I work. My words said "rest," but my green dot said "work." People follow the green dot. After that, I started writing my late thoughts in a draft and sending them at nine the next morning. And at the end of each day, I write one line on a sticky note: the first thing I'll do tomorrow.
+SENA: Did Callum's nights get better?
+DANIEL: Slowly. The one-in-the-morning slides stopped after a few weeks. A year later he told me it was the change that mattered most to him. And I still slip. Last Sunday, on a hike, I checked Slack at the top of a mountain. My wife took my phone and put it in her backpack until we got back to the car.
+SENA: She confiscated it.
+DANIEL: Confiscated. And Maple looked at me like she agreed.
+SENA: Can I talk about Japan? Because leaving work here has its own words.
+DANIEL: Please.
+SENA: When you leave before others, you say, "Osaki ni shitsurei shimasu." It means something like, "Excuse me for leaving before you." So even going home sounds a little like an apology. In many teams, people wait until the boss leaves, even if their work is done.
+DANIEL: So the first person to stand up pays a small price.
+SENA: Yes. That's why Ryo standing up at six thirty felt so big. Things are changing, but the feeling is still there.
+DANIEL: In the US, many people leave the office at five or six, then open Slack again at home. In some teams, a fast reply at night looks like commitment.
+SENA: Like Callum.
+DANIEL: Like Callum, and like me. There's a famous example from Leslie Perlow at Harvard Business School. At the Boston Consulting Group, she asked consulting teams to plan predictable time off every week, a set block of hours when each person was fully offline. Later, the firm compared teams with and without it. Seventy-two percent on time-off teams were satisfied with their jobs, compared with forty-nine percent on other teams.
+SENA: That's a big gap.
+DANIEL: It is, but the teams weren't randomly assigned, so we can't say the time off caused all of it. Still, it shows that switching off works better as a team agreement than as one brave person.
+SENA: And between Tokyo and Seattle, someone is always awake. Mark's evening is my midnight. My morning is your afternoon.
+DANIEL: Which means the conversation never ends on its own. Each person has to end their own day.
+SENA: Which EQ skill is this?
+DANIEL: Self-management. A shutdown routine in three steps, about two minutes. One, capture. Write every open loop on one list, so nothing lives only in your head. Two, choose tomorrow's first step for the one that matters most. Where, when, and how, in one line. Three, close. Close the laptop, pause notifications, and say one closing phrase, like "Done for today."
+SENA: Let me try step two with question three. "Tomorrow, think about question three."
+DANIEL: Is that a first step?
+SENA: No. That's a cloud. Okay. "Today, twelve fifteen, at lunch, write three changes I'd make, and circle one."
+DANIEL: Now that's a first step. Your brain knows exactly when it will get its turn, so it can stop holding it tonight.
+SENA: And Mark's late messages?
+DANIEL: Decide before the message arrives, not at midnight. If it can wait until morning, it waits. If it's truly urgent, Mark has your number. And you can tell him once, kindly, "I'm offline after ten my time, but I'll reply first thing in the morning."
+SENA: First thing in the morning. That's going in my notebook.
+DANIEL: Now, Speaking Lab. Three sentences for ending your workday. I'll say each one, and Sena repeats. Listeners, pause and say it out loud with her.
+SENA: Ready.
+DANIEL: "I'll pick this up first thing tomorrow morning, my time."
+SENA: I'll pick this up first thing tomorrow morning, my time.
+DANIEL: "I'm offline for the evening, but I'll reply by nine."
+SENA: I'm offline for the evening, but I'll reply by nine.
+DANIEL: "My first step tomorrow is to finish the draft summary."
+SENA: My first step tomorrow is to finish the draft summary.
+DANIEL: Nice. Now, a retell. In about thirty seconds, tell me today's main points in your own words.
+SENA: Okay. Unfinished work follows us home. Smit found that open goals stay on our minds in the evening, and writing a plan, where, when, and how, helped people who usually can't switch off. In Scullin's sleep study, people who wrote a to-do list fell asleep faster, um, about fifteen minutes instead of twenty-five. So at the end of the day, I capture my open loops, write one first step, and close the laptop.
+DANIEL: Perfect. Listeners, your turn. In forty seconds, answer this. What is one piece of work that often follows you home, and what first step could you write down to leave it at work? Pause the audio and speak.
+SENA: Mine is Wendell's review. My first step is "nine thirty, open his first query."
+DANIEL: Today's challenge: at the end of your workday, write tomorrow's first step in one line, with where, when, and how. Then close your laptop and leave it closed.
+SENA: Tonight my line will be, "Seven forty, on the train, read page one, then say my first sentence twice." And then the laptop closes, and Slack stays closed.
+DANIEL: Even if Mark writes?
+SENA: Especially if Mark writes. He told me to go to sleep himself. I have it in writing, with two exclamation marks.
+DANIEL: Ha. Evidence again. Next time, episode twenty-five, "Perfectionism vs. Good Enough." When to stop polishing and send it.
+SENA: That one isn't me. I'm just careful.
+DANIEL: How many versions of your slides are there?
+SENA: Eleven. But version twelve is much better. I changed the colors of one chart four times.
+DANIEL: Your phone is lighting up.
+SENA: Kato-san. "Can you send me your slides by three today? Laura wants to see them before tomorrow." Daniel, three today. They're not finished.
+DANIEL: Are they not finished, or not perfect?
+SENA: I'll tell you next time.
+DANIEL: Then that's where we start. Thanks for listening to Human Curriculum. I'm Daniel.
+SENA: And I'm Sena. Capture your open loops, write one first step, and close the laptop. See you next time.

@@ -1,1154 +1,1185 @@
 {
-  "at": "2026-10-12 07:53 JST",
-  "pipeline": {
-    "runs": [],
-    "errors": [
-      "short-comment:6-ai (10/09 12:38 JST): 404 <HttpError 404 when requesting https://youtube.googleapis.com/youtube/v3/commentThreads?part=snippet&alt=json returned \"The specified video could not be found. Check the value of the <code><a href"
-    ]
+  "at": "2026-10-12 10:26 JST",
+  "audience": {
+    "channel_id": "UCSaZaQp7Ao--E-UrkQ4RnXg",
+    "new": []
   },
   "channel": {
-    "show": "Human Curriculum",
-    "episodes_written": 25,
+    "blockers": [],
+    "channel_totals": {
+      "subscribers": 3,
+      "subscribers_before": 1,
+      "title": "Human Curriculum | Business English Podcast",
+      "videos": 56,
+      "views": 885,
+      "views_before": 7
+    },
+    "episode_stats": {
+      "1": {
+        "comments": 1,
+        "likes": 0,
+        "title": "3 Skills AI Can't Do for You (and How to Grow Them) | Business English Podcast EP01",
+        "video_id": "hj8EgYR2ORo",
+        "views": 7
+      },
+      "10": {
+        "comments": 1,
+        "likes": 0,
+        "title": "How to Influence People When You're Not the Boss | Business English Podcast EP10",
+        "video_id": "hb4jOZuSzf4",
+        "views": 2
+      },
+      "11": {
+        "comments": 1,
+        "likes": 0,
+        "title": "How to Disagree in a Meeting (Without Being Rude) | Business English Podcast EP11",
+        "video_id": "1cdKOJ8zr2c",
+        "views": 1
+      },
+      "12": {
+        "comments": 1,
+        "likes": 0,
+        "title": "What Nobody Tells You About Becoming a Manager | Business English Podcast EP12",
+        "video_id": "KCkYIsh8d3k",
+        "views": 2
+      },
+      "13": {
+        "comments": 1,
+        "likes": 0,
+        "title": "Why \"Great Job\" Isn't Great Feedback (Try This Instead) | Business English Podcast EP13",
+        "video_id": "RfZdM_vSJuM",
+        "views": 2
+      },
+      "14": {
+        "comments": 1,
+        "likes": 0,
+        "title": "Why Nobody Speaks Up in Your Meetings | Business English Podcast EP14",
+        "video_id": "oSt-VZY-65k",
+        "views": 1
+      },
+      "15": {
+        "comments": 1,
+        "likes": 0,
+        "title": "How to Start a Hard Conversation at Work | Business English Podcast EP15",
+        "video_id": "Rs-Wr1nrYHo",
+        "views": 3
+      },
+      "16": {
+        "comments": 0,
+        "likes": 0,
+        "title": "How to Report a Mistake at Work (Without Panicking) | Business English Podcast EP16",
+        "video_id": "D-JtMP9s8jY",
+        "views": 10
+      },
+      "17": {
+        "comments": 1,
+        "likes": 0,
+        "title": "Stress at Work Is a Signal: How to Read It | Business English Podcast EP17",
+        "video_id": "wlikzFZjDJw",
+        "views": 0
+      },
+      "18": {
+        "comments": 1,
+        "likes": 0,
+        "title": "Nervous Before a Presentation? Don't Say \"Calm Down\" | Business English Podcast EP18",
+        "video_id": "0K5Vm9D7ttc",
+        "views": 2
+      },
+      "19": {
+        "comments": 1,
+        "likes": 0,
+        "title": "Angry at Work? What to Do Before You Hit Send | Business English Podcast EP19",
+        "video_id": "igbmiE3tGX4",
+        "views": 0
+      },
+      "2": {
+        "comments": 1,
+        "likes": 0,
+        "title": "Your Body Knows You're Upset Before You Do | Business English Podcast EP02",
+        "video_id": "XrPylq3xOQk",
+        "views": 4
+      },
+      "20": {
+        "comments": 1,
+        "likes": 0,
+        "title": "Your Project Got Cancelled? How to Bounce Back at Work | Business English Podcast EP20",
+        "video_id": "vWtKtfcEvQw",
+        "views": 7
+      },
+      "21": {
+        "comments": 0,
+        "likes": 0,
+        "title": "Jealous of a Coworker? What Envy Tells You About Your Goals | Business English Podcast EP21",
+        "video_id": "1vlIpwaeBUg",
+        "views": 0
+      },
+      "3": {
+        "comments": 1,
+        "likes": 0,
+        "title": "\"Someone Should Fix That.\" Why Nobody Does | Business English Podcast EP03",
+        "video_id": "Icd67lS9zds",
+        "views": 1
+      },
+      "4": {
+        "comments": 1,
+        "likes": 0,
+        "title": "Stop Saying \"I'm Fine\" at Work | Business English Podcast EP04",
+        "video_id": "U7qYzYkkHBI",
+        "views": 6
+      },
+      "5": {
+        "comments": 1,
+        "likes": 0,
+        "title": "How to Ask for Feedback (Without Getting Defensive) | Business English Podcast EP05",
+        "video_id": "9Q1-krfPDdY",
+        "views": 0
+      },
+      "6": {
+        "comments": 1,
+        "likes": 0,
+        "title": "How to Make Your 1:1 With Your Boss Actually Useful | Business English Podcast EP06",
+        "video_id": "PKmRhk9OOqA",
+        "views": 3
+      },
+      "7": {
+        "comments": 1,
+        "likes": 0,
+        "title": "Why Your Emails Aren't as Clear as You Think | Business English Podcast EP07",
+        "video_id": "l4uOZEjAUbw",
+        "views": 1
+      },
+      "8": {
+        "comments": 1,
+        "likes": 0,
+        "title": "You Work Hard. Why Doesn't Anyone Notice? | Business English Podcast EP08",
+        "video_id": "kHES6cGXkeI",
+        "views": 0
+      },
+      "9": {
+        "comments": 1,
+        "likes": 0,
+        "title": "Why \"I'll Look Into It\" Quietly Destroys Trust | Business English Podcast EP09",
+        "video_id": "OnHpSIR9bN8",
+        "views": 0
+      }
+    },
     "episodes": [
       {
         "episode": 1,
-        "title": "Meet Sena and Daniel: What AI Can't Do for You",
-        "state": "public",
         "publish_at": "10/04 12:09 JST",
+        "state": "public",
+        "title": "Meet Sena and Daniel: What AI Can't Do for You",
         "url": "https://youtu.be/hj8EgYR2ORo"
       },
       {
         "episode": 2,
-        "title": "Interoceptive Awareness: The 30-Second Window",
-        "state": "public",
         "publish_at": "10/04 12:09 JST",
+        "state": "public",
+        "title": "Interoceptive Awareness: The 30-Second Window",
         "url": "https://youtu.be/XrPylq3xOQk"
       },
       {
         "episode": 3,
-        "title": "Ownership: Acting Like It's Yours",
-        "state": "public",
         "publish_at": "10/04 12:09 JST",
+        "state": "public",
+        "title": "Ownership: Acting Like It's Yours",
         "url": "https://youtu.be/Icd67lS9zds"
       },
       {
         "episode": 4,
-        "title": "Naming Emotions: Beyond 'Fine'",
-        "state": "public",
         "publish_at": "10/04 12:00 JST",
+        "state": "public",
+        "title": "Naming Emotions: Beyond 'Fine'",
         "url": "https://youtu.be/U7qYzYkkHBI"
       },
       {
         "episode": 5,
-        "title": "Asking for Feedback (and Using It)",
-        "state": "public",
         "publish_at": "10/04 12:09 JST",
+        "state": "public",
+        "title": "Asking for Feedback (and Using It)",
         "url": "https://youtu.be/9Q1-krfPDdY"
       },
       {
         "episode": 6,
-        "title": "Making Your 1:1 Count",
-        "state": "public",
         "publish_at": "10/04 12:09 JST",
+        "state": "public",
+        "title": "Making Your 1:1 Count",
         "url": "https://youtu.be/PKmRhk9OOqA"
       },
       {
         "episode": 7,
-        "title": "Say It Clearly: Low-Context Communication",
-        "state": "public",
         "publish_at": "10/04 12:09 JST",
+        "state": "public",
+        "title": "Say It Clearly: Low-Context Communication",
         "url": "https://youtu.be/l4uOZEjAUbw"
       },
       {
         "episode": 8,
-        "title": "Making Your Work Visible",
-        "state": "public",
         "publish_at": "10/04 12:09 JST",
+        "state": "public",
+        "title": "Making Your Work Visible",
         "url": "https://youtu.be/kHES6cGXkeI"
       },
       {
         "episode": 9,
-        "title": "Earning Trust with Peers",
-        "state": "public",
         "publish_at": "10/04 12:35 JST",
+        "state": "public",
+        "title": "Earning Trust with Peers",
         "url": "https://youtu.be/OnHpSIR9bN8"
       },
       {
         "episode": 10,
-        "title": "Influence Without Authority",
-        "state": "public",
         "publish_at": "10/04 12:35 JST",
+        "state": "public",
+        "title": "Influence Without Authority",
         "url": "https://youtu.be/hb4jOZuSzf4"
       },
       {
         "episode": 11,
-        "title": "Speaking Up When You Disagree",
-        "state": "public",
         "publish_at": "10/05 00:00 JST",
+        "state": "public",
+        "title": "Speaking Up When You Disagree",
         "url": "https://youtu.be/1cdKOJ8zr2c"
       },
       {
         "episode": 12,
-        "title": "What Changes When You Lead",
-        "state": "public",
         "publish_at": "10/05 12:00 JST",
+        "state": "public",
+        "title": "What Changes When You Lead",
         "url": "https://youtu.be/KCkYIsh8d3k"
       },
       {
         "episode": 13,
-        "title": "Giving Feedback with SBI",
-        "state": "public",
         "publish_at": "10/06 00:00 JST",
+        "state": "public",
+        "title": "Giving Feedback with SBI",
         "url": "https://youtu.be/RfZdM_vSJuM"
       },
       {
         "episode": 14,
-        "title": "Building Psychological Safety",
-        "state": "public",
         "publish_at": "10/06 12:00 JST",
+        "state": "public",
+        "title": "Building Psychological Safety",
         "url": "https://youtu.be/oSt-VZY-65k"
       },
       {
         "episode": 15,
-        "title": "The Hard Conversation",
-        "state": "public",
         "publish_at": "10/07 00:00 JST",
+        "state": "public",
+        "title": "The Hard Conversation",
         "url": "https://youtu.be/Rs-Wr1nrYHo"
       },
       {
         "episode": 16,
-        "title": "When You Make a Mistake",
-        "state": "public",
         "publish_at": "10/08 03:18 JST",
+        "state": "public",
+        "title": "When You Make a Mistake",
         "url": "https://youtu.be/D-JtMP9s8jY"
       },
       {
         "episode": 17,
-        "title": "Stress Is a Signal",
-        "state": "public",
         "publish_at": "10/09 03:23 JST",
+        "state": "public",
+        "title": "Stress Is a Signal",
         "url": "https://youtu.be/wlikzFZjDJw"
       },
       {
         "episode": 18,
-        "title": "Nerves Before You Speak",
-        "state": "public",
         "publish_at": "10/10 00:00 JST",
+        "state": "public",
+        "title": "Nerves Before You Speak",
         "url": "https://youtu.be/0K5Vm9D7ttc"
       },
       {
         "episode": 19,
-        "title": "Anger Without Damage",
-        "state": "public",
         "publish_at": "10/10 12:32 JST",
+        "state": "public",
+        "title": "Anger Without Damage",
         "url": "https://youtu.be/igbmiE3tGX4"
       },
       {
         "episode": 20,
-        "title": "Disappointment and Bouncing Back",
-        "state": "public",
         "publish_at": "10/11 01:47 JST",
+        "state": "public",
+        "title": "Disappointment and Bouncing Back",
         "url": "https://youtu.be/vWtKtfcEvQw"
       },
       {
         "episode": 21,
-        "title": "Envy as Information",
-        "state": "public",
         "publish_at": "10/12 02:17 JST",
+        "state": "public",
+        "title": "Envy as Information",
         "url": "https://youtu.be/1vlIpwaeBUg"
       },
       {
         "episode": 22,
-        "title": "Impostor Feelings",
+        "has_own_thumbnail": true,
         "state": "not uploaded",
-        "has_own_thumbnail": true
+        "title": "Impostor Feelings"
       },
       {
         "episode": 23,
-        "title": "Saying No Without Burning Bridges",
+        "has_own_thumbnail": true,
         "state": "not uploaded",
-        "has_own_thumbnail": true
+        "title": "Saying No Without Burning Bridges"
       },
       {
         "episode": 24,
-        "title": "Switching Off After Work",
+        "has_own_thumbnail": true,
         "state": "not uploaded",
-        "has_own_thumbnail": true
+        "title": "Switching Off After Work"
       },
       {
         "episode": 25,
-        "title": "Perfectionism vs. Good Enough",
+        "has_own_thumbnail": true,
         "state": "not uploaded",
-        "has_own_thumbnail": true
+        "title": "Perfectionism vs. Good Enough"
       }
     ],
+    "episodes_written": 25,
     "next_scheduled": [],
-    "blockers": [],
-    "thumbnails_needed": [],
+    "related_video_todo": [
+      {
+        "episode": 1,
+        "episode_public": true,
+        "episode_title": "What AI Can't Do for You",
+        "short": "1-ai",
+        "studio_link": "https://studio.youtube.com/video/IdbU6d1ox0Q/edit",
+        "uploaded_at": "2026-10-04T10:55:15+00:00"
+      },
+      {
+        "episode": 1,
+        "episode_public": true,
+        "episode_title": "What AI Can't Do for You",
+        "short": "1-highlight",
+        "studio_link": "https://studio.youtube.com/video/0PM3PeVO-Ok/edit",
+        "uploaded_at": "2026-10-05T13:12:02+00:00"
+      },
+      {
+        "episode": 2,
+        "episode_public": true,
+        "episode_title": "Interoceptive Awareness",
+        "short": "2-ai",
+        "studio_link": "https://studio.youtube.com/video/BRSoSEG4fhc/edit",
+        "uploaded_at": "2026-10-04T10:55:17+00:00"
+      },
+      {
+        "episode": 2,
+        "episode_public": true,
+        "episode_title": "Interoceptive Awareness",
+        "short": "2-highlight",
+        "studio_link": "https://studio.youtube.com/video/qVYiI1fz4QI/edit",
+        "uploaded_at": "2026-10-05T13:16:11+00:00"
+      },
+      {
+        "episode": 2,
+        "episode_public": true,
+        "episode_title": "Interoceptive Awareness",
+        "short": "2-story",
+        "studio_link": "https://studio.youtube.com/video/OZoq4IaDgOg/edit",
+        "uploaded_at": "2026-10-04T10:55:18+00:00"
+      },
+      {
+        "episode": 2,
+        "episode_public": true,
+        "episode_title": "Interoceptive Awareness",
+        "short": "2-culture",
+        "studio_link": "https://studio.youtube.com/video/EiRzB8lexnM/edit",
+        "uploaded_at": "2026-10-07T18:18:48+00:00"
+      },
+      {
+        "episode": 3,
+        "episode_public": true,
+        "episode_title": "Ownership: Act Like It's Yours",
+        "short": "3-ai",
+        "studio_link": "https://studio.youtube.com/video/TkuQdTIH-zs/edit",
+        "uploaded_at": "2026-10-05T13:13:59+00:00"
+      },
+      {
+        "episode": 3,
+        "episode_public": true,
+        "episode_title": "Ownership: Act Like It's Yours",
+        "short": "3-highlight",
+        "studio_link": "https://studio.youtube.com/video/XcNvjVyBtjs/edit",
+        "uploaded_at": "2026-10-06T03:51:49+00:00"
+      },
+      {
+        "episode": 3,
+        "episode_public": true,
+        "episode_title": "Ownership: Act Like It's Yours",
+        "short": "3-story",
+        "studio_link": "https://studio.youtube.com/video/iSK3dsxPs54/edit",
+        "uploaded_at": "2026-10-06T17:37:29+00:00"
+      },
+      {
+        "episode": 3,
+        "episode_public": true,
+        "episode_title": "Ownership: Act Like It's Yours",
+        "short": "3-culture",
+        "studio_link": "https://studio.youtube.com/video/BmO7J6dItZ0/edit",
+        "uploaded_at": "2026-10-09T03:39:35+00:00"
+      },
+      {
+        "episode": 4,
+        "episode_public": true,
+        "episode_title": "Naming Emotions: Beyond Fine",
+        "short": "4-ai",
+        "studio_link": "https://studio.youtube.com/video/OIbZ6sh9RiE/edit",
+        "uploaded_at": "2026-10-06T03:51:52+00:00"
+      },
+      {
+        "episode": 4,
+        "episode_public": true,
+        "episode_title": "Naming Emotions: Beyond Fine",
+        "short": "4-highlight",
+        "studio_link": "https://studio.youtube.com/video/CqDJmBWR1UY/edit",
+        "uploaded_at": "2026-10-07T03:33:26+00:00"
+      },
+      {
+        "episode": 4,
+        "episode_public": true,
+        "episode_title": "Naming Emotions: Beyond Fine",
+        "short": "4-story",
+        "studio_link": "https://studio.youtube.com/video/QepA2gyIkew/edit",
+        "uploaded_at": "2026-10-08T03:35:23+00:00"
+      },
+      {
+        "episode": 4,
+        "episode_public": true,
+        "episode_title": "Naming Emotions: Beyond Fine",
+        "short": "4-culture",
+        "studio_link": "https://studio.youtube.com/video/jcnHcpUV4mw/edit",
+        "uploaded_at": "2026-10-10T16:49:19+00:00"
+      },
+      {
+        "episode": 5,
+        "episode_public": true,
+        "episode_title": "Asking for Feedback",
+        "short": "5-ai",
+        "studio_link": "https://studio.youtube.com/video/1wCrwibGAfw/edit",
+        "uploaded_at": "2026-10-07T03:33:29+00:00"
+      },
+      {
+        "episode": 5,
+        "episode_public": true,
+        "episode_title": "Asking for Feedback",
+        "short": "5-highlight",
+        "studio_link": "https://studio.youtube.com/video/h7vNxhIX57g/edit",
+        "uploaded_at": "2026-10-08T03:35:25+00:00"
+      },
+      {
+        "episode": 5,
+        "episode_public": true,
+        "episode_title": "Asking for Feedback",
+        "short": "5-story",
+        "studio_link": "https://studio.youtube.com/video/gM0GYd249T0/edit",
+        "uploaded_at": "2026-10-09T17:44:35+00:00"
+      },
+      {
+        "episode": 6,
+        "episode_public": true,
+        "episode_title": "Making Your 1:1 Count",
+        "short": "6-highlight",
+        "studio_link": "https://studio.youtube.com/video/Y7A0sXdMM4s/edit",
+        "uploaded_at": "2026-10-10T03:34:26+00:00"
+      },
+      {
+        "episode": 6,
+        "episode_public": true,
+        "episode_title": "Making Your 1:1 Count",
+        "short": "6-story",
+        "studio_link": "https://studio.youtube.com/video/SZPGl_h57Pc/edit",
+        "uploaded_at": "2026-10-11T02:54:10+00:00"
+      },
+      {
+        "episode": 7,
+        "episode_public": true,
+        "episode_title": "Say It Clearly",
+        "short": "7-highlight",
+        "studio_link": "https://studio.youtube.com/video/PKqpdcOO2J0/edit",
+        "uploaded_at": "2026-10-11T17:20:29+00:00"
+      },
+      {
+        "episode": 16,
+        "episode_public": true,
+        "episode_title": "When You Make a Mistake",
+        "short": "16-ai",
+        "studio_link": "https://studio.youtube.com/video/wpHzHItUs9A/edit",
+        "uploaded_at": "2026-10-08T05:15:48+00:00"
+      },
+      {
+        "episode": 16,
+        "episode_public": true,
+        "episode_title": "When You Make a Mistake",
+        "short": "16-highlight",
+        "studio_link": "https://studio.youtube.com/video/bHe5H1LFcDI/edit",
+        "uploaded_at": "2026-10-08T05:15:50+00:00"
+      },
+      {
+        "episode": 16,
+        "episode_public": true,
+        "episode_title": "When You Make a Mistake",
+        "short": "16-story",
+        "studio_link": "https://studio.youtube.com/video/DnQzsR75Fgs/edit",
+        "uploaded_at": "2026-10-08T05:15:51+00:00"
+      },
+      {
+        "episode": 16,
+        "episode_public": true,
+        "episode_title": "When You Make a Mistake",
+        "short": "16-culture",
+        "studio_link": "https://studio.youtube.com/video/8TIGXHenBaY/edit",
+        "uploaded_at": "2026-10-08T05:15:53+00:00"
+      },
+      {
+        "episode": 16,
+        "episode_public": true,
+        "episode_title": "When You Make a Mistake",
+        "short": "16-lab",
+        "studio_link": "https://studio.youtube.com/video/u7LcFFhbD58/edit",
+        "uploaded_at": "2026-10-08T05:15:54+00:00"
+      },
+      {
+        "episode": 17,
+        "episode_public": true,
+        "episode_title": "Stress Is a Signal",
+        "short": "17-ai",
+        "studio_link": "https://studio.youtube.com/video/gDfr1rD93t4/edit",
+        "uploaded_at": "2026-10-08T18:25:34+00:00"
+      },
+      {
+        "episode": 17,
+        "episode_public": true,
+        "episode_title": "Stress Is a Signal",
+        "short": "17-highlight",
+        "studio_link": "https://studio.youtube.com/video/HlcnzW_eV2s/edit",
+        "uploaded_at": "2026-10-08T18:25:32+00:00"
+      },
+      {
+        "episode": 19,
+        "episode_public": true,
+        "episode_title": "Anger Without Damage",
+        "short": "19-highlight",
+        "studio_link": "https://studio.youtube.com/video/GBcp7xYiAG4/edit",
+        "uploaded_at": "2026-10-10T03:34:22+00:00"
+      },
+      {
+        "episode": 19,
+        "episode_public": true,
+        "episode_title": "Anger Without Damage",
+        "short": "19-story",
+        "studio_link": "https://studio.youtube.com/video/gUgbqVXafzE/edit",
+        "uploaded_at": "2026-10-10T03:34:24+00:00"
+      },
+      {
+        "episode": 20,
+        "episode_public": true,
+        "episode_title": "Disappointment and Bouncing Back",
+        "short": "20-highlight",
+        "studio_link": "https://studio.youtube.com/video/3LcoZWybJu0/edit",
+        "uploaded_at": "2026-10-10T16:49:15+00:00"
+      },
+      {
+        "episode": 20,
+        "episode_public": true,
+        "episode_title": "Disappointment and Bouncing Back",
+        "short": "20-story",
+        "studio_link": "https://studio.youtube.com/video/Izy88aJKsQA/edit",
+        "uploaded_at": "2026-10-10T16:49:17+00:00"
+      },
+      {
+        "episode": 21,
+        "episode_public": true,
+        "episode_title": "Envy as Information",
+        "short": "21-highlight",
+        "studio_link": "https://studio.youtube.com/video/sW9FJJUKPY4/edit",
+        "uploaded_at": "2026-10-11T17:20:25+00:00"
+      },
+      {
+        "episode": 21,
+        "episode_public": true,
+        "episode_title": "Envy as Information",
+        "short": "21-story",
+        "studio_link": "https://studio.youtube.com/video/0UALNd4um8c/edit",
+        "uploaded_at": "2026-10-11T17:20:27+00:00"
+      }
+    ],
+    "report_at": "10/12 08:53 JST",
+    "short_stats": {
+      "1-ai": {
+        "comments": 1,
+        "likes": 0,
+        "public": true,
+        "publish_at": "2026-10-04T10:55:15Z",
+        "title": "3 skills AI can't do for you #shorts",
+        "video_id": "IdbU6d1ox0Q",
+        "views": 7
+      },
+      "1-highlight": {
+        "comments": 1,
+        "likes": 0,
+        "public": true,
+        "publish_at": "2026-10-05T13:12:02Z",
+        "title": "When AI made consultants worse, not better #shorts",
+        "video_id": "0PM3PeVO-Ok",
+        "views": 18
+      },
+      "16-ai": {
+        "comments": 1,
+        "likes": 0,
+        "public": true,
+        "publish_at": "2026-10-08T05:15:48Z",
+        "title": "AI can find your mistake. Only you can own it. #shorts",
+        "video_id": "wpHzHItUs9A",
+        "views": 10
+      },
+      "16-culture": {
+        "comments": 1,
+        "likes": 1,
+        "public": true,
+        "publish_at": "2026-10-08T05:15:53Z",
+        "title": "Reporting mistakes: Japan vs the US #shorts",
+        "video_id": "8TIGXHenBaY",
+        "views": 44
+      },
+      "16-highlight": {
+        "comments": 1,
+        "likes": 0,
+        "public": true,
+        "publish_at": "2026-10-08T05:15:50Z",
+        "title": "People judge your mistakes less harshly than you think #shorts",
+        "video_id": "bHe5H1LFcDI",
+        "views": 17
+      },
+      "16-lab": {
+        "comments": 1,
+        "likes": 0,
+        "public": true,
+        "publish_at": "2026-10-08T05:15:54Z",
+        "title": "Say it out loud: 3 English phrases for reporting a mistake #shorts",
+        "video_id": "u7LcFFhbD58",
+        "views": 85
+      },
+      "16-story": {
+        "comments": 1,
+        "likes": 0,
+        "public": true,
+        "publish_at": "2026-10-08T05:15:51Z",
+        "title": "I quietly fixed a mistake. It cost me 6 months of trust. #shorts",
+        "video_id": "DnQzsR75Fgs",
+        "views": 11
+      },
+      "17-ai": {
+        "comments": 1,
+        "likes": 0,
+        "public": true,
+        "publish_at": "2026-10-08T18:25:34Z",
+        "title": "AI can read your calendar, not your stress #shorts",
+        "video_id": "gDfr1rD93t4",
+        "views": 65
+      },
+      "17-highlight": {
+        "comments": 1,
+        "likes": 0,
+        "public": true,
+        "publish_at": "2026-10-08T18:25:32Z",
+        "title": "Can seeing stress as useful help? What one study found #shorts",
+        "video_id": "HlcnzW_eV2s",
+        "views": 131
+      },
+      "19-highlight": {
+        "comments": 0,
+        "likes": 0,
+        "public": true,
+        "publish_at": "2026-10-10T03:34:22Z",
+        "title": "Does venting anger help? A punching bag study says no #shorts",
+        "video_id": "GBcp7xYiAG4",
+        "views": 38
+      },
+      "19-story": {
+        "comments": 0,
+        "likes": 0,
+        "public": true,
+        "publish_at": "2026-10-10T03:34:24Z",
+        "title": "The worst email I ever sent, and what it cost #shorts",
+        "video_id": "gUgbqVXafzE",
+        "views": 27
+      },
+      "2-ai": {
+        "comments": 1,
+        "likes": 3,
+        "public": true,
+        "publish_at": "2026-10-04T10:55:17Z",
+        "title": "Your smartwatch can't tell you this #shorts",
+        "video_id": "BRSoSEG4fhc",
+        "views": 66
+      },
+      "2-culture": {
+        "comments": 1,
+        "likes": 0,
+        "public": true,
+        "publish_at": "2026-10-07T23:00:00Z",
+        "title": "Hiding a feeling is not the same as handling it #shorts",
+        "video_id": "EiRzB8lexnM",
+        "views": 15
+      },
+      "2-highlight": {
+        "comments": 1,
+        "likes": 1,
+        "public": true,
+        "publish_at": "2026-10-05T13:16:11Z",
+        "title": "Traders who felt their heartbeat earned more #shorts",
+        "video_id": "qVYiI1fz4QI",
+        "views": 21
+      },
+      "2-story": {
+        "comments": 1,
+        "likes": 0,
+        "public": true,
+        "publish_at": "2026-10-04T10:55:18Z",
+        "title": "The reply I still regret as a manager #shorts",
+        "video_id": "OZoq4IaDgOg",
+        "views": 7
+      },
+      "20-highlight": {
+        "comments": 0,
+        "likes": 0,
+        "public": true,
+        "publish_at": "2026-10-10T16:49:15Z",
+        "title": "Why we learn less from our own failures #shorts",
+        "video_id": "3LcoZWybJu0",
+        "views": 37
+      },
+      "20-story": {
+        "comments": 0,
+        "likes": 0,
+        "public": true,
+        "publish_at": "2026-10-10T16:49:17Z",
+        "title": "My proposal was rejected, and I disappeared #shorts",
+        "video_id": "Izy88aJKsQA",
+        "views": 18
+      },
+      "21-highlight": {
+        "comments": 0,
+        "likes": 0,
+        "public": true,
+        "publish_at": "2026-10-11T17:20:25Z",
+        "title": "Envy made marathon runners set higher goals #shorts",
+        "video_id": "sW9FJJUKPY4",
+        "views": 0
+      },
+      "21-story": {
+        "comments": 0,
+        "likes": 0,
+        "public": true,
+        "publish_at": "2026-10-11T17:20:27Z",
+        "title": "I was jealous of a coworker. Here's what I learned #shorts",
+        "video_id": "0UALNd4um8c",
+        "views": 0
+      },
+      "3-ai": {
+        "comments": 1,
+        "likes": 0,
+        "public": true,
+        "publish_at": "2026-10-05T13:13:59Z",
+        "title": "AI can do the typing, not the owning #shorts",
+        "video_id": "TkuQdTIH-zs",
+        "views": 10
+      },
+      "3-culture": {
+        "comments": 0,
+        "likes": 0,
+        "public": true,
+        "publish_at": "2026-10-09T09:00:00Z",
+        "title": "Ownership at work: Japan vs the US #shorts",
+        "video_id": "BmO7J6dItZ0",
+        "views": 91
+      },
+      "3-highlight": {
+        "comments": 1,
+        "likes": 0,
+        "public": true,
+        "publish_at": "2026-10-06T09:00:00Z",
+        "title": "Unfinished tasks? A plan quiets your mind #shorts",
+        "video_id": "XcNvjVyBtjs",
+        "views": 0
+      },
+      "3-story": {
+        "comments": 1,
+        "likes": 0,
+        "public": true,
+        "publish_at": "2026-10-06T23:00:00Z",
+        "title": "\"Someone should fix that\" means nobody will #shorts",
+        "video_id": "iSK3dsxPs54",
+        "views": 26
+      },
+      "4-ai": {
+        "comments": 1,
+        "likes": 0,
+        "public": true,
+        "publish_at": "2026-10-06T13:00:00Z",
+        "title": "AI can offer the menu. It can't taste the food. #shorts",
+        "video_id": "OIbZ6sh9RiE",
+        "views": 0
+      },
+      "4-culture": {
+        "comments": 0,
+        "likes": 2,
+        "public": true,
+        "publish_at": "2026-10-10T23:00:00Z",
+        "title": "What \"fine\" really means at work: Japan vs the US #shorts",
+        "video_id": "jcnHcpUV4mw",
+        "views": 105
+      },
+      "4-highlight": {
+        "comments": 1,
+        "likes": 0,
+        "public": true,
+        "publish_at": "2026-10-07T09:00:00Z",
+        "title": "Name the feeling: the tarantula experiment #shorts",
+        "video_id": "CqDJmBWR1UY",
+        "views": 0
+      },
+      "4-story": {
+        "comments": 1,
+        "likes": 0,
+        "public": true,
+        "publish_at": "2026-10-08T09:00:00Z",
+        "title": "I wasn't stressed. I was lonely. #shorts",
+        "video_id": "QepA2gyIkew",
+        "views": 60
+      },
+      "5-ai": {
+        "comments": 1,
+        "likes": 0,
+        "public": true,
+        "publish_at": "2026-10-07T13:00:00Z",
+        "title": "Why AI can't give you real feedback #shorts",
+        "video_id": "1wCrwibGAfw",
+        "views": 4
+      },
+      "5-highlight": {
+        "comments": 1,
+        "likes": 0,
+        "public": true,
+        "publish_at": "2026-10-08T13:00:00Z",
+        "title": "Why a third of feedback makes things worse #shorts",
+        "video_id": "h7vNxhIX57g",
+        "views": 15
+      },
+      "5-story": {
+        "comments": 0,
+        "likes": 0,
+        "public": true,
+        "publish_at": "2026-10-09T23:00:00Z",
+        "title": "How I killed feedback on my team in five minutes #shorts",
+        "video_id": "gM0GYd249T0",
+        "views": 23
+      },
+      "6-highlight": {
+        "comments": 0,
+        "likes": 0,
+        "public": true,
+        "publish_at": "2026-10-10T09:00:00Z",
+        "title": "Why half of all one-on-ones fall short #shorts",
+        "video_id": "Y7A0sXdMM4s",
+        "views": 4
+      },
+      "6-story": {
+        "comments": 0,
+        "likes": 0,
+        "public": true,
+        "publish_at": "2026-10-11T09:00:00Z",
+        "title": "My best engineer quit after a year of perfect 1:1s #shorts",
+        "video_id": "SZPGl_h57Pc",
+        "views": 10
+      },
+      "7-highlight": {
+        "comments": 0,
+        "likes": 0,
+        "public": false,
+        "publish_at": "2026-10-11T23:00:00Z",
+        "title": "You're less clear than you think #shorts",
+        "video_id": "PKqpdcOO2J0",
+        "views": 0
+      }
+    },
+    "shorts": {
+      "public": 34,
+      "scheduled": []
+    },
+    "show": "Human Curriculum",
+    "stats_at": "10/12 02:20 JST",
     "thumbnail_references": [
       "https://github.com/risakwmr/claude/blob/episodes/episodes/ep14_thumbnail.png",
       "https://github.com/risakwmr/claude/blob/episodes/episodes/ep18_thumbnail.png"
     ],
-    "shorts": {
-      "public": 33,
-      "scheduled": [
-        {
-          "short": "7-highlight",
-          "state": "scheduled",
-          "publish_at": "10/12 08:00 JST"
-        }
-      ]
-    },
-    "related_video_todo": [
-      {
-        "short": "1-ai",
-        "studio_link": "https://studio.youtube.com/video/IdbU6d1ox0Q/edit",
-        "episode": 1,
-        "episode_title": "What AI Can't Do for You",
-        "episode_public": true,
-        "uploaded_at": "2026-10-04T10:55:15+00:00"
-      },
-      {
-        "short": "1-highlight",
-        "studio_link": "https://studio.youtube.com/video/0PM3PeVO-Ok/edit",
-        "episode": 1,
-        "episode_title": "What AI Can't Do for You",
-        "episode_public": true,
-        "uploaded_at": "2026-10-05T13:12:02+00:00"
-      },
-      {
-        "short": "2-ai",
-        "studio_link": "https://studio.youtube.com/video/BRSoSEG4fhc/edit",
-        "episode": 2,
-        "episode_title": "Interoceptive Awareness",
-        "episode_public": true,
-        "uploaded_at": "2026-10-04T10:55:17+00:00"
-      },
-      {
-        "short": "2-highlight",
-        "studio_link": "https://studio.youtube.com/video/qVYiI1fz4QI/edit",
-        "episode": 2,
-        "episode_title": "Interoceptive Awareness",
-        "episode_public": true,
-        "uploaded_at": "2026-10-05T13:16:11+00:00"
-      },
-      {
-        "short": "2-story",
-        "studio_link": "https://studio.youtube.com/video/OZoq4IaDgOg/edit",
-        "episode": 2,
-        "episode_title": "Interoceptive Awareness",
-        "episode_public": true,
-        "uploaded_at": "2026-10-04T10:55:18+00:00"
-      },
-      {
-        "short": "2-culture",
-        "studio_link": "https://studio.youtube.com/video/EiRzB8lexnM/edit",
-        "episode": 2,
-        "episode_title": "Interoceptive Awareness",
-        "episode_public": true,
-        "uploaded_at": "2026-10-07T18:18:48+00:00"
-      },
-      {
-        "short": "3-ai",
-        "studio_link": "https://studio.youtube.com/video/TkuQdTIH-zs/edit",
-        "episode": 3,
-        "episode_title": "Ownership: Act Like It's Yours",
-        "episode_public": true,
-        "uploaded_at": "2026-10-05T13:13:59+00:00"
-      },
-      {
-        "short": "3-highlight",
-        "studio_link": "https://studio.youtube.com/video/XcNvjVyBtjs/edit",
-        "episode": 3,
-        "episode_title": "Ownership: Act Like It's Yours",
-        "episode_public": true,
-        "uploaded_at": "2026-10-06T03:51:49+00:00"
-      },
-      {
-        "short": "3-story",
-        "studio_link": "https://studio.youtube.com/video/iSK3dsxPs54/edit",
-        "episode": 3,
-        "episode_title": "Ownership: Act Like It's Yours",
-        "episode_public": true,
-        "uploaded_at": "2026-10-06T17:37:29+00:00"
-      },
-      {
-        "short": "3-culture",
-        "studio_link": "https://studio.youtube.com/video/BmO7J6dItZ0/edit",
-        "episode": 3,
-        "episode_title": "Ownership: Act Like It's Yours",
-        "episode_public": true,
-        "uploaded_at": "2026-10-09T03:39:35+00:00"
-      },
-      {
-        "short": "4-ai",
-        "studio_link": "https://studio.youtube.com/video/OIbZ6sh9RiE/edit",
-        "episode": 4,
-        "episode_title": "Naming Emotions: Beyond Fine",
-        "episode_public": true,
-        "uploaded_at": "2026-10-06T03:51:52+00:00"
-      },
-      {
-        "short": "4-highlight",
-        "studio_link": "https://studio.youtube.com/video/CqDJmBWR1UY/edit",
-        "episode": 4,
-        "episode_title": "Naming Emotions: Beyond Fine",
-        "episode_public": true,
-        "uploaded_at": "2026-10-07T03:33:26+00:00"
-      },
-      {
-        "short": "4-story",
-        "studio_link": "https://studio.youtube.com/video/QepA2gyIkew/edit",
-        "episode": 4,
-        "episode_title": "Naming Emotions: Beyond Fine",
-        "episode_public": true,
-        "uploaded_at": "2026-10-08T03:35:23+00:00"
-      },
-      {
-        "short": "4-culture",
-        "studio_link": "https://studio.youtube.com/video/jcnHcpUV4mw/edit",
-        "episode": 4,
-        "episode_title": "Naming Emotions: Beyond Fine",
-        "episode_public": true,
-        "uploaded_at": "2026-10-10T16:49:19+00:00"
-      },
-      {
-        "short": "5-ai",
-        "studio_link": "https://studio.youtube.com/video/1wCrwibGAfw/edit",
-        "episode": 5,
-        "episode_title": "Asking for Feedback",
-        "episode_public": true,
-        "uploaded_at": "2026-10-07T03:33:29+00:00"
-      },
-      {
-        "short": "5-highlight",
-        "studio_link": "https://studio.youtube.com/video/h7vNxhIX57g/edit",
-        "episode": 5,
-        "episode_title": "Asking for Feedback",
-        "episode_public": true,
-        "uploaded_at": "2026-10-08T03:35:25+00:00"
-      },
-      {
-        "short": "5-story",
-        "studio_link": "https://studio.youtube.com/video/gM0GYd249T0/edit",
-        "episode": 5,
-        "episode_title": "Asking for Feedback",
-        "episode_public": true,
-        "uploaded_at": "2026-10-09T17:44:35+00:00"
-      },
-      {
-        "short": "6-highlight",
-        "studio_link": "https://studio.youtube.com/video/Y7A0sXdMM4s/edit",
-        "episode": 6,
-        "episode_title": "Making Your 1:1 Count",
-        "episode_public": true,
-        "uploaded_at": "2026-10-10T03:34:26+00:00"
-      },
-      {
-        "short": "6-story",
-        "studio_link": "https://studio.youtube.com/video/SZPGl_h57Pc/edit",
-        "episode": 6,
-        "episode_title": "Making Your 1:1 Count",
-        "episode_public": true,
-        "uploaded_at": "2026-10-11T02:54:10+00:00"
-      },
-      {
-        "short": "7-highlight",
-        "studio_link": "https://studio.youtube.com/video/PKqpdcOO2J0/edit",
-        "episode": 7,
-        "episode_title": "Say It Clearly",
-        "episode_public": true,
-        "uploaded_at": "2026-10-11T17:20:29+00:00"
-      },
-      {
-        "short": "16-ai",
-        "studio_link": "https://studio.youtube.com/video/wpHzHItUs9A/edit",
-        "episode": 16,
-        "episode_title": "When You Make a Mistake",
-        "episode_public": true,
-        "uploaded_at": "2026-10-08T05:15:48+00:00"
-      },
-      {
-        "short": "16-highlight",
-        "studio_link": "https://studio.youtube.com/video/bHe5H1LFcDI/edit",
-        "episode": 16,
-        "episode_title": "When You Make a Mistake",
-        "episode_public": true,
-        "uploaded_at": "2026-10-08T05:15:50+00:00"
-      },
-      {
-        "short": "16-story",
-        "studio_link": "https://studio.youtube.com/video/DnQzsR75Fgs/edit",
-        "episode": 16,
-        "episode_title": "When You Make a Mistake",
-        "episode_public": true,
-        "uploaded_at": "2026-10-08T05:15:51+00:00"
-      },
-      {
-        "short": "16-culture",
-        "studio_link": "https://studio.youtube.com/video/8TIGXHenBaY/edit",
-        "episode": 16,
-        "episode_title": "When You Make a Mistake",
-        "episode_public": true,
-        "uploaded_at": "2026-10-08T05:15:53+00:00"
-      },
-      {
-        "short": "16-lab",
-        "studio_link": "https://studio.youtube.com/video/u7LcFFhbD58/edit",
-        "episode": 16,
-        "episode_title": "When You Make a Mistake",
-        "episode_public": true,
-        "uploaded_at": "2026-10-08T05:15:54+00:00"
-      },
-      {
-        "short": "17-ai",
-        "studio_link": "https://studio.youtube.com/video/gDfr1rD93t4/edit",
-        "episode": 17,
-        "episode_title": "Stress Is a Signal",
-        "episode_public": true,
-        "uploaded_at": "2026-10-08T18:25:34+00:00"
-      },
-      {
-        "short": "17-highlight",
-        "studio_link": "https://studio.youtube.com/video/HlcnzW_eV2s/edit",
-        "episode": 17,
-        "episode_title": "Stress Is a Signal",
-        "episode_public": true,
-        "uploaded_at": "2026-10-08T18:25:32+00:00"
-      },
-      {
-        "short": "19-highlight",
-        "studio_link": "https://studio.youtube.com/video/GBcp7xYiAG4/edit",
-        "episode": 19,
-        "episode_title": "Anger Without Damage",
-        "episode_public": true,
-        "uploaded_at": "2026-10-10T03:34:22+00:00"
-      },
-      {
-        "short": "19-story",
-        "studio_link": "https://studio.youtube.com/video/gUgbqVXafzE/edit",
-        "episode": 19,
-        "episode_title": "Anger Without Damage",
-        "episode_public": true,
-        "uploaded_at": "2026-10-10T03:34:24+00:00"
-      },
-      {
-        "short": "20-highlight",
-        "studio_link": "https://studio.youtube.com/video/3LcoZWybJu0/edit",
-        "episode": 20,
-        "episode_title": "Disappointment and Bouncing Back",
-        "episode_public": true,
-        "uploaded_at": "2026-10-10T16:49:15+00:00"
-      },
-      {
-        "short": "20-story",
-        "studio_link": "https://studio.youtube.com/video/Izy88aJKsQA/edit",
-        "episode": 20,
-        "episode_title": "Disappointment and Bouncing Back",
-        "episode_public": true,
-        "uploaded_at": "2026-10-10T16:49:17+00:00"
-      },
-      {
-        "short": "21-highlight",
-        "studio_link": "https://studio.youtube.com/video/sW9FJJUKPY4/edit",
-        "episode": 21,
-        "episode_title": "Envy as Information",
-        "episode_public": true,
-        "uploaded_at": "2026-10-11T17:20:25+00:00"
-      },
-      {
-        "short": "21-story",
-        "studio_link": "https://studio.youtube.com/video/0UALNd4um8c/edit",
-        "episode": 21,
-        "episode_title": "Envy as Information",
-        "episode_public": true,
-        "uploaded_at": "2026-10-11T17:20:27+00:00"
-      }
-    ],
-    "stats_at": "10/12 02:20 JST",
-    "short_stats": {
-      "1-ai": {
-        "video_id": "IdbU6d1ox0Q",
-        "title": "3 skills AI can't do for you #shorts",
-        "public": true,
-        "publish_at": "2026-10-04T10:55:15Z",
-        "views": 7,
-        "likes": 0,
-        "comments": 1
-      },
-      "1-highlight": {
-        "video_id": "0PM3PeVO-Ok",
-        "title": "When AI made consultants worse, not better #shorts",
-        "public": true,
-        "publish_at": "2026-10-05T13:12:02Z",
-        "views": 18,
-        "likes": 0,
-        "comments": 1
-      },
-      "2-ai": {
-        "video_id": "BRSoSEG4fhc",
-        "title": "Your smartwatch can't tell you this #shorts",
-        "public": true,
-        "publish_at": "2026-10-04T10:55:17Z",
-        "views": 66,
-        "likes": 3,
-        "comments": 1
-      },
-      "2-highlight": {
-        "video_id": "qVYiI1fz4QI",
-        "title": "Traders who felt their heartbeat earned more #shorts",
-        "public": true,
-        "publish_at": "2026-10-05T13:16:11Z",
-        "views": 21,
-        "likes": 1,
-        "comments": 1
-      },
-      "2-story": {
-        "video_id": "OZoq4IaDgOg",
-        "title": "The reply I still regret as a manager #shorts",
-        "public": true,
-        "publish_at": "2026-10-04T10:55:18Z",
-        "views": 7,
-        "likes": 0,
-        "comments": 1
-      },
-      "2-culture": {
-        "video_id": "EiRzB8lexnM",
-        "title": "Hiding a feeling is not the same as handling it #shorts",
-        "public": true,
-        "publish_at": "2026-10-07T23:00:00Z",
-        "views": 15,
-        "likes": 0,
-        "comments": 1
-      },
-      "3-ai": {
-        "video_id": "TkuQdTIH-zs",
-        "title": "AI can do the typing, not the owning #shorts",
-        "public": true,
-        "publish_at": "2026-10-05T13:13:59Z",
-        "views": 10,
-        "likes": 0,
-        "comments": 1
-      },
-      "3-highlight": {
-        "video_id": "XcNvjVyBtjs",
-        "title": "Unfinished tasks? A plan quiets your mind #shorts",
-        "public": true,
-        "publish_at": "2026-10-06T09:00:00Z",
-        "views": 0,
-        "likes": 0,
-        "comments": 1
-      },
-      "3-story": {
-        "video_id": "iSK3dsxPs54",
-        "title": "\"Someone should fix that\" means nobody will #shorts",
-        "public": true,
-        "publish_at": "2026-10-06T23:00:00Z",
-        "views": 26,
-        "likes": 0,
-        "comments": 1
-      },
-      "3-culture": {
-        "video_id": "BmO7J6dItZ0",
-        "title": "Ownership at work: Japan vs the US #shorts",
-        "public": true,
-        "publish_at": "2026-10-09T09:00:00Z",
-        "views": 91,
-        "likes": 0,
-        "comments": 0
-      },
-      "4-ai": {
-        "video_id": "OIbZ6sh9RiE",
-        "title": "AI can offer the menu. It can't taste the food. #shorts",
-        "public": true,
-        "publish_at": "2026-10-06T13:00:00Z",
-        "views": 0,
-        "likes": 0,
-        "comments": 1
-      },
-      "4-highlight": {
-        "video_id": "CqDJmBWR1UY",
-        "title": "Name the feeling: the tarantula experiment #shorts",
-        "public": true,
-        "publish_at": "2026-10-07T09:00:00Z",
-        "views": 0,
-        "likes": 0,
-        "comments": 1
-      },
-      "4-story": {
-        "video_id": "QepA2gyIkew",
-        "title": "I wasn't stressed. I was lonely. #shorts",
-        "public": true,
-        "publish_at": "2026-10-08T09:00:00Z",
-        "views": 60,
-        "likes": 0,
-        "comments": 1
-      },
-      "4-culture": {
-        "video_id": "jcnHcpUV4mw",
-        "title": "What \"fine\" really means at work: Japan vs the US #shorts",
-        "public": true,
-        "publish_at": "2026-10-10T23:00:00Z",
-        "views": 105,
-        "likes": 2,
-        "comments": 0
-      },
-      "5-ai": {
-        "video_id": "1wCrwibGAfw",
-        "title": "Why AI can't give you real feedback #shorts",
-        "public": true,
-        "publish_at": "2026-10-07T13:00:00Z",
-        "views": 4,
-        "likes": 0,
-        "comments": 1
-      },
-      "5-highlight": {
-        "video_id": "h7vNxhIX57g",
-        "title": "Why a third of feedback makes things worse #shorts",
-        "public": true,
-        "publish_at": "2026-10-08T13:00:00Z",
-        "views": 15,
-        "likes": 0,
-        "comments": 1
-      },
-      "5-story": {
-        "video_id": "gM0GYd249T0",
-        "title": "How I killed feedback on my team in five minutes #shorts",
-        "public": true,
-        "publish_at": "2026-10-09T23:00:00Z",
-        "views": 23,
-        "likes": 0,
-        "comments": 0
-      },
-      "6-highlight": {
-        "video_id": "Y7A0sXdMM4s",
-        "title": "Why half of all one-on-ones fall short #shorts",
-        "public": true,
-        "publish_at": "2026-10-10T09:00:00Z",
-        "views": 4,
-        "likes": 0,
-        "comments": 0
-      },
-      "6-story": {
-        "video_id": "SZPGl_h57Pc",
-        "title": "My best engineer quit after a year of perfect 1:1s #shorts",
-        "public": true,
-        "publish_at": "2026-10-11T09:00:00Z",
-        "views": 10,
-        "likes": 0,
-        "comments": 0
-      },
-      "7-highlight": {
-        "video_id": "PKqpdcOO2J0",
-        "title": "You're less clear than you think #shorts",
-        "public": false,
-        "publish_at": "2026-10-11T23:00:00Z",
-        "views": 0,
-        "likes": 0,
-        "comments": 0
-      },
-      "16-ai": {
-        "video_id": "wpHzHItUs9A",
-        "title": "AI can find your mistake. Only you can own it. #shorts",
-        "public": true,
-        "publish_at": "2026-10-08T05:15:48Z",
-        "views": 10,
-        "likes": 0,
-        "comments": 1
-      },
-      "16-highlight": {
-        "video_id": "bHe5H1LFcDI",
-        "title": "People judge your mistakes less harshly than you think #shorts",
-        "public": true,
-        "publish_at": "2026-10-08T05:15:50Z",
-        "views": 17,
-        "likes": 0,
-        "comments": 1
-      },
-      "16-story": {
-        "video_id": "DnQzsR75Fgs",
-        "title": "I quietly fixed a mistake. It cost me 6 months of trust. #shorts",
-        "public": true,
-        "publish_at": "2026-10-08T05:15:51Z",
-        "views": 11,
-        "likes": 0,
-        "comments": 1
-      },
-      "16-culture": {
-        "video_id": "8TIGXHenBaY",
-        "title": "Reporting mistakes: Japan vs the US #shorts",
-        "public": true,
-        "publish_at": "2026-10-08T05:15:53Z",
-        "views": 44,
-        "likes": 1,
-        "comments": 1
-      },
-      "16-lab": {
-        "video_id": "u7LcFFhbD58",
-        "title": "Say it out loud: 3 English phrases for reporting a mistake #shorts",
-        "public": true,
-        "publish_at": "2026-10-08T05:15:54Z",
-        "views": 85,
-        "likes": 0,
-        "comments": 1
-      },
-      "17-ai": {
-        "video_id": "gDfr1rD93t4",
-        "title": "AI can read your calendar, not your stress #shorts",
-        "public": true,
-        "publish_at": "2026-10-08T18:25:34Z",
-        "views": 65,
-        "likes": 0,
-        "comments": 1
-      },
-      "17-highlight": {
-        "video_id": "HlcnzW_eV2s",
-        "title": "Can seeing stress as useful help? What one study found #shorts",
-        "public": true,
-        "publish_at": "2026-10-08T18:25:32Z",
-        "views": 131,
-        "likes": 0,
-        "comments": 1
-      },
-      "19-highlight": {
-        "video_id": "GBcp7xYiAG4",
-        "title": "Does venting anger help? A punching bag study says no #shorts",
-        "public": true,
-        "publish_at": "2026-10-10T03:34:22Z",
-        "views": 38,
-        "likes": 0,
-        "comments": 0
-      },
-      "19-story": {
-        "video_id": "gUgbqVXafzE",
-        "title": "The worst email I ever sent, and what it cost #shorts",
-        "public": true,
-        "publish_at": "2026-10-10T03:34:24Z",
-        "views": 27,
-        "likes": 0,
-        "comments": 0
-      },
-      "20-highlight": {
-        "video_id": "3LcoZWybJu0",
-        "title": "Why we learn less from our own failures #shorts",
-        "public": true,
-        "publish_at": "2026-10-10T16:49:15Z",
-        "views": 37,
-        "likes": 0,
-        "comments": 0
-      },
-      "20-story": {
-        "video_id": "Izy88aJKsQA",
-        "title": "My proposal was rejected, and I disappeared #shorts",
-        "public": true,
-        "publish_at": "2026-10-10T16:49:17Z",
-        "views": 18,
-        "likes": 0,
-        "comments": 0
-      },
-      "21-highlight": {
-        "video_id": "sW9FJJUKPY4",
-        "title": "Envy made marathon runners set higher goals #shorts",
-        "public": true,
-        "publish_at": "2026-10-11T17:20:25Z",
-        "views": 0,
-        "likes": 0,
-        "comments": 0
-      },
-      "21-story": {
-        "video_id": "0UALNd4um8c",
-        "title": "I was jealous of a coworker. Here's what I learned #shorts",
-        "public": true,
-        "publish_at": "2026-10-11T17:20:27Z",
-        "views": 0,
-        "likes": 0,
-        "comments": 0
-      }
-    },
-    "episode_stats": {
-      "1": {
-        "video_id": "hj8EgYR2ORo",
-        "title": "3 Skills AI Can't Do for You (and How to Grow Them) | Business English Podcast EP01",
-        "views": 7,
-        "likes": 0,
-        "comments": 1
-      },
-      "2": {
-        "video_id": "XrPylq3xOQk",
-        "title": "Your Body Knows You're Upset Before You Do | Business English Podcast EP02",
-        "views": 4,
-        "likes": 0,
-        "comments": 1
-      },
-      "3": {
-        "video_id": "Icd67lS9zds",
-        "title": "\"Someone Should Fix That.\" Why Nobody Does | Business English Podcast EP03",
-        "views": 1,
-        "likes": 0,
-        "comments": 1
-      },
-      "4": {
-        "video_id": "U7qYzYkkHBI",
-        "title": "Stop Saying \"I'm Fine\" at Work | Business English Podcast EP04",
-        "views": 6,
-        "likes": 0,
-        "comments": 1
-      },
-      "5": {
-        "video_id": "9Q1-krfPDdY",
-        "title": "How to Ask for Feedback (Without Getting Defensive) | Business English Podcast EP05",
-        "views": 0,
-        "likes": 0,
-        "comments": 1
-      },
-      "6": {
-        "video_id": "PKmRhk9OOqA",
-        "title": "How to Make Your 1:1 With Your Boss Actually Useful | Business English Podcast EP06",
-        "views": 3,
-        "likes": 0,
-        "comments": 1
-      },
-      "7": {
-        "video_id": "l4uOZEjAUbw",
-        "title": "Why Your Emails Aren't as Clear as You Think | Business English Podcast EP07",
-        "views": 1,
-        "likes": 0,
-        "comments": 1
-      },
-      "8": {
-        "video_id": "kHES6cGXkeI",
-        "title": "You Work Hard. Why Doesn't Anyone Notice? | Business English Podcast EP08",
-        "views": 0,
-        "likes": 0,
-        "comments": 1
-      },
-      "9": {
-        "video_id": "OnHpSIR9bN8",
-        "title": "Why \"I'll Look Into It\" Quietly Destroys Trust | Business English Podcast EP09",
-        "views": 0,
-        "likes": 0,
-        "comments": 1
-      },
-      "10": {
-        "video_id": "hb4jOZuSzf4",
-        "title": "How to Influence People When You're Not the Boss | Business English Podcast EP10",
-        "views": 2,
-        "likes": 0,
-        "comments": 1
-      },
-      "11": {
-        "video_id": "1cdKOJ8zr2c",
-        "title": "How to Disagree in a Meeting (Without Being Rude) | Business English Podcast EP11",
-        "views": 1,
-        "likes": 0,
-        "comments": 1
-      },
-      "12": {
-        "video_id": "KCkYIsh8d3k",
-        "title": "What Nobody Tells You About Becoming a Manager | Business English Podcast EP12",
-        "views": 2,
-        "likes": 0,
-        "comments": 1
-      },
-      "13": {
-        "video_id": "RfZdM_vSJuM",
-        "title": "Why \"Great Job\" Isn't Great Feedback (Try This Instead) | Business English Podcast EP13",
-        "views": 2,
-        "likes": 0,
-        "comments": 1
-      },
-      "14": {
-        "video_id": "oSt-VZY-65k",
-        "title": "Why Nobody Speaks Up in Your Meetings | Business English Podcast EP14",
-        "views": 1,
-        "likes": 0,
-        "comments": 1
-      },
-      "15": {
-        "video_id": "Rs-Wr1nrYHo",
-        "title": "How to Start a Hard Conversation at Work | Business English Podcast EP15",
-        "views": 3,
-        "likes": 0,
-        "comments": 1
-      },
-      "16": {
-        "video_id": "D-JtMP9s8jY",
-        "title": "How to Report a Mistake at Work (Without Panicking) | Business English Podcast EP16",
-        "views": 10,
-        "likes": 0,
-        "comments": 0
-      },
-      "17": {
-        "video_id": "wlikzFZjDJw",
-        "title": "Stress at Work Is a Signal: How to Read It | Business English Podcast EP17",
-        "views": 0,
-        "likes": 0,
-        "comments": 1
-      },
-      "18": {
-        "video_id": "0K5Vm9D7ttc",
-        "title": "Nervous Before a Presentation? Don't Say \"Calm Down\" | Business English Podcast EP18",
-        "views": 2,
-        "likes": 0,
-        "comments": 1
-      },
-      "19": {
-        "video_id": "igbmiE3tGX4",
-        "title": "Angry at Work? What to Do Before You Hit Send | Business English Podcast EP19",
-        "views": 0,
-        "likes": 0,
-        "comments": 1
-      },
-      "20": {
-        "video_id": "vWtKtfcEvQw",
-        "title": "Your Project Got Cancelled? How to Bounce Back at Work | Business English Podcast EP20",
-        "views": 7,
-        "likes": 0,
-        "comments": 1
-      },
-      "21": {
-        "video_id": "1vlIpwaeBUg",
-        "title": "Jealous of a Coworker? What Envy Tells You About Your Goals | Business English Podcast EP21",
-        "views": 0,
-        "likes": 0,
-        "comments": 0
-      }
-    },
-    "channel_totals": {
-      "title": "Human Curriculum- Learn what AI can’t do",
-      "subscribers": 1,
-      "views": 7,
-      "videos": 14,
-      "subscribers_before": null,
-      "views_before": null
-    },
-    "report_at": "10/05 08:54 JST"
+    "thumbnails_needed": []
   },
   "note": {
+    "drafts": [
+      "2026-10-02-100percent",
+      "2026-10-02-pm"
+    ],
     "recent_history": [
       "",
       "| 日付 | 時間帯 | テーマ | 軸 | フォルダ | 状態 |",
       "|---|---|---|---|---|---|",
       "| 2026-10-02 | — | 100%で働けない日の仕事術（低空飛行モード×AI） | SELF×WORK×AI | drafts/2026-10-02-100percent | 下書き（要記入あり） |",
       "| 2026-10-02 | pm | AIに渡す仕事、渡さない仕事 #01（間違いに気づけるかで線引き） | AI×WORK | drafts/2026-10-02-pm | 下書き（要記入あり） |"
+    ]
+  },
+  "pipeline": {
+    "errors": [
+      "short-comment:6-ai (10/09 12:38 JST): 404 <HttpError 404 when requesting https://youtube.googleapis.com/youtube/v3/commentThreads?part=snippet&alt=json returned \"The specified video could not be found. Check the value of the <code><a href"
     ],
-    "drafts": [
-      "2026-10-02-100percent",
-      "2026-10-02-pm"
+    "runs": [
+      {
+        "result": "success",
+        "started": "10/12 08:52 JST",
+        "status": "completed",
+        "trigger": "workflow_dispatch",
+        "url": "https://github.com/risakwmr/claude/actions/runs/38185923618",
+        "workflow": "Make and upload episodes"
+      },
+      {
+        "result": "success",
+        "started": "10/12 01:59 JST",
+        "status": "completed",
+        "trigger": "schedule",
+        "url": "https://github.com/risakwmr/claude/actions/runs/38157763597",
+        "workflow": "Make and upload episodes"
+      },
+      {
+        "result": "success",
+        "started": "10/11 11:52 JST",
+        "status": "completed",
+        "trigger": "schedule",
+        "url": "https://github.com/risakwmr/claude/actions/runs/38106551752",
+        "workflow": "Make and upload episodes"
+      },
+      {
+        "result": "success",
+        "started": "10/11 01:34 JST",
+        "status": "completed",
+        "trigger": "schedule",
+        "url": "https://github.com/risakwmr/claude/actions/runs/38068245167",
+        "workflow": "Make and upload episodes"
+      }
     ]
   },
   "pronunciation": {
-    "next_episode": 22,
+    "edit_link": "https://github.com/risakwmr/claude/edit/episodes/episodes/pronunciations.json",
     "episodes": [
       {
-        "episode": 22,
         "candidates": {
-          "nine": "SENA: Monday, nine forty at night. I'm on the Yamanote Line, standing, holding the strap with one hand. With the other hand, I open a blank slide on my phone.",
-          "yamanote": "SENA: Monday, nine forty at night. I'm on the Yamanote Line, standing, holding the strap with one hand. With the other hand, I open a blank slide on my phone.",
-          "open": "SENA: Monday, nine forty at night. I'm on the Yamanote Line, standing, holding the strap with one hand. With the other hand, I open a blank slide on my phone.",
+          "audio": "DANIEL: Perfect. Listeners, your turn. In forty seconds, answer this. What is one piece of work you are proud of, and what is the evidence that you did it well?",
+          "basima": "DANIEL: Here's the second study, and it's more hopeful. In 2022, Basima Tewfik published a paper in the Academy of Management Journal. She uses the phrase \"work",
+          "before": "DANIEL: Oof. That last line is harsh. How long did the monthly report take before your pipeline?",
+          "change": "SENA: What did you change?",
+          "dena": "DANIEL: Then, in 2020, Dena Bravata and her colleagues published a systematic review in the Journal of General Internal Medicine. They collected sixty-two studi",
+          "desu": "SENA: When we give a gift in Japan, people sometimes say, \"tsumaranai mono desu ga.\" It means, \"This is a boring thing, but...\" It's polite to make your own thi",
+          "done": "SENA: Ha. But I wouldn't believe it. The voice doesn't argue with sentences. It argues with memories. And AI doesn't have mine. It wasn't there this spring, whe",
           "emoji": "SENA: Then Mark's message pops up. \"Can't wait for Thursday! Everyone says your pipeline is amazing.\" With two clapping-hands emoji. And a small voice in my hea",
-          "name": "DANIEL: That small voice has a name, and it's very common among people who are good at their jobs. By the end of this episode, you'll be able to answer it with ",
           "episode": "DANIEL: That small voice has a name, and it's very common among people who are good at their jobs. By the end of this episode, you'll be able to answer it with ",
-          "human": "DANIEL: Welcome back to Human Curriculum. I'm Daniel Reed, a People Manager in Seattle.",
-          "tokyo": "SENA: And I'm Sena Sato, an Associate in Tokyo. It's Monday, ten thirty at night here. I just got home.",
+          "gone": "SENA: Deleting. Gone. Oh, and Ryo's fifteen minutes with Kato-san is tomorrow at eleven. I'm nervous for him.",
           "here": "SENA: And I'm Sena Sato, an Associate in Tokyo. It's Monday, ten thirty at night here. I just got home.",
           "home": "SENA: And I'm Sena Sato, an Associate in Tokyo. It's Monday, ten thirty at night here. I just got home.",
-          "rain": "DANIEL: Six thirty in the morning here. Maple and I are about to walk in the rain. Last time, your challenge was to notice envy and write one sentence that star",
-          "time": "DANIEL: Six thirty in the morning here. Maple and I are about to walk in the rain. Last time, your challenge was to notice envy and write one sentence that star",
-          "page": "SENA: I did. \"I want to work closer to product decisions.\" It has its own page now. And I sent Misaki a real congratulations.",
-          "made": "SENA: Today at lunch. We ate convenience store onigiri by the window on the twelfth floor. She said, \"Mark asked in a meeting who made the monthly report so fas",
-          "more": "SENA: Yes. \"What if they find out it was just a faster spreadsheet?\" And under it, I wrote more. \"Ryo tested it. Kenta found bugs. I only connected things that ",
-          "take": "DANIEL: Oof. That last line is harsh. How long did the monthly report take before your pipeline?",
-          "before": "DANIEL: Oof. That last line is harsh. How long did the monthly report take before your pipeline?",
-          "mine": "SENA: About an hour. But that's the computer's work, not mine.",
+          "human": "DANIEL: Welcome back to Human Curriculum. I'm Daniel Reed, a People Manager in Seattle.",
           "idea": "DANIEL: Let's see what a careful review says. The idea started in 1978. Two psychologists, Pauline Clance and Suzanne Imes, described it in high-achieving women",
-          "suzanne": "DANIEL: Let's see what a careful review says. The idea started in 1978. Two psychologists, Pauline Clance and Suzanne Imes, described it in high-achieving women",
-          "women": "DANIEL: Let's see what a careful review says. The idea started in 1978. Two psychologists, Pauline Clance and Suzanne Imes, described it in high-achieving women",
-          "dena": "DANIEL: Then, in 2020, Dena Bravata and her colleagues published a systematic review in the Journal of General Internal Medicine. They collected sixty-two studi",
-          "range": "DANIEL: Exactly. The authors said most of that range came from how each study measured it, which questionnaire and which cutoff. What the review did find is thi",
-          "were": "DANIEL: No. And two more honest notes. First, the review says it's not a recognized psychiatric disorder. It's a pattern of thoughts, not a diagnosis. Second, a",
-          "basima": "DANIEL: Here's the second study, and it's more hopeful. In 2022, Basima Tewfik published a paper in the Academy of Management Journal. She uses the phrase \"work",
-          "into": "SENA: Well, I could paste my project notes into AI and say, \"Write me a confident introduction.\" It would write a beautiful one in five seconds.",
-          "done": "SENA: Ha. But I wouldn't believe it. The voice doesn't argue with sentences. It argues with memories. And AI doesn't have mine. It wasn't there this spring, whe",
-          "sure": "DANIEL: Very much like it. And I was sure I was only there because my manager was away. So I opened with, \"I'm just filling in, so please forgive me. I'm probab",
           "imagine": "SENA: Oh no. I can imagine saying exactly that.",
-          "change": "SENA: What did you change?",
-          "wife": "DANIEL: That night my wife asked me, \"If one of your engineers were presenting, what would you tell them?\" I said, \"Know your numbers, and own them.\" So I start",
+          "into": "SENA: Well, I could paste my project notes into AI and say, \"Write me a confident introduction.\" It would write a beautiful one in five seconds.",
           "japan": "SENA: Can I talk about Japan? Because \"just a faster spreadsheet\" sounds very Japanese to me.",
           "japanese": "SENA: Can I talk about Japan? Because \"just a faster spreadsheet\" sounds very Japanese to me.",
-          "tsumaranai": "SENA: When we give a gift in Japan, people sometimes say, \"tsumaranai mono desu ga.\" It means, \"This is a boring thing, but...\" It's polite to make your own thi",
-          "mono": "SENA: When we give a gift in Japan, people sometimes say, \"tsumaranai mono desu ga.\" It means, \"This is a boring thing, but...\" It's polite to make your own thi",
-          "desu": "SENA: When we give a gift in Japan, people sometimes say, \"tsumaranai mono desu ga.\" It means, \"This is a boring thing, but...\" It's polite to make your own thi",
-          "make": "SENA: When we give a gift in Japan, people sometimes say, \"tsumaranai mono desu ga.\" It means, \"This is a boring thing, but...\" It's polite to make your own thi",
-          "mada": "SENA: When we give a gift in Japan, people sometimes say, \"tsumaranai mono desu ga.\" It means, \"This is a boring thing, but...\" It's polite to make your own thi",
-          "taken": "SENA: So in Japan, the small words are polite, and in the US, the small words are taken literally.",
-          "someone": "DANIEL: Self-awareness. Four steps. One, notice the voice. \"They'll find out.\" Two, name it. \"That's an impostor thought.\" A thought, not a fact. Three, check t",
-          "region": "SENA: One. The monthly report took two days by hand. Since this spring, it runs in about an hour, every month. Two. After my region two mistake, I added a check",
-          "gone": "SENA: Deleting. Gone. Oh, and Ryo's fifteen minutes with Kato-san is tomorrow at eleven. I'm nervous for him.",
           "kato-san": "SENA: Deleting. Gone. Oh, and Ryo's fifteen minutes with Kato-san is tomorrow at eleven. I'm nervous for him.",
-          "pause": "DANIEL: Tell me how it goes. Now, Speaking Lab. Three sentences for owning your work. I'll say each one, and Sena repeats. Listeners, pause and say it out loud ",
+          "mada": "SENA: When we give a gift in Japan, people sometimes say, \"tsumaranai mono desu ga.\" It means, \"This is a boring thing, but...\" It's polite to make your own thi",
+          "made": "SENA: Today at lunch. We ate convenience store onigiri by the window on the twelfth floor. She said, \"Mark asked in a meeting who made the monthly report so fas",
           "main": "DANIEL: Lovely. Now, a retell. In about thirty seconds, tell me today's main points in your own words.",
-          "audio": "DANIEL: Perfect. Listeners, your turn. In forty seconds, answer this. What is one piece of work you are proud of, and what is the evidence that you did it well?"
-        }
+          "make": "SENA: When we give a gift in Japan, people sometimes say, \"tsumaranai mono desu ga.\" It means, \"This is a boring thing, but...\" It's polite to make your own thi",
+          "mine": "SENA: About an hour. But that's the computer's work, not mine.",
+          "mono": "SENA: When we give a gift in Japan, people sometimes say, \"tsumaranai mono desu ga.\" It means, \"This is a boring thing, but...\" It's polite to make your own thi",
+          "more": "SENA: Yes. \"What if they find out it was just a faster spreadsheet?\" And under it, I wrote more. \"Ryo tested it. Kenta found bugs. I only connected things that ",
+          "name": "DANIEL: That small voice has a name, and it's very common among people who are good at their jobs. By the end of this episode, you'll be able to answer it with ",
+          "nine": "SENA: Monday, nine forty at night. I'm on the Yamanote Line, standing, holding the strap with one hand. With the other hand, I open a blank slide on my phone.",
+          "open": "SENA: Monday, nine forty at night. I'm on the Yamanote Line, standing, holding the strap with one hand. With the other hand, I open a blank slide on my phone.",
+          "page": "SENA: I did. \"I want to work closer to product decisions.\" It has its own page now. And I sent Misaki a real congratulations.",
+          "pause": "DANIEL: Tell me how it goes. Now, Speaking Lab. Three sentences for owning your work. I'll say each one, and Sena repeats. Listeners, pause and say it out loud ",
+          "rain": "DANIEL: Six thirty in the morning here. Maple and I are about to walk in the rain. Last time, your challenge was to notice envy and write one sentence that star",
+          "range": "DANIEL: Exactly. The authors said most of that range came from how each study measured it, which questionnaire and which cutoff. What the review did find is thi",
+          "region": "SENA: One. The monthly report took two days by hand. Since this spring, it runs in about an hour, every month. Two. After my region two mistake, I added a check",
+          "someone": "DANIEL: Self-awareness. Four steps. One, notice the voice. \"They'll find out.\" Two, name it. \"That's an impostor thought.\" A thought, not a fact. Three, check t",
+          "sure": "DANIEL: Very much like it. And I was sure I was only there because my manager was away. So I opened with, \"I'm just filling in, so please forgive me. I'm probab",
+          "suzanne": "DANIEL: Let's see what a careful review says. The idea started in 1978. Two psychologists, Pauline Clance and Suzanne Imes, described it in high-achieving women",
+          "take": "DANIEL: Oof. That last line is harsh. How long did the monthly report take before your pipeline?",
+          "taken": "SENA: So in Japan, the small words are polite, and in the US, the small words are taken literally.",
+          "time": "DANIEL: Six thirty in the morning here. Maple and I are about to walk in the rain. Last time, your challenge was to notice envy and write one sentence that star",
+          "tokyo": "SENA: And I'm Sena Sato, an Associate in Tokyo. It's Monday, ten thirty at night here. I just got home.",
+          "tsumaranai": "SENA: When we give a gift in Japan, people sometimes say, \"tsumaranai mono desu ga.\" It means, \"This is a boring thing, but...\" It's polite to make your own thi",
+          "were": "DANIEL: No. And two more honest notes. First, the review says it's not a recognized psychiatric disorder. It's a pattern of thoughts, not a diagnosis. Second, a",
+          "wife": "DANIEL: That night my wife asked me, \"If one of your engineers were presenting, what would you tell them?\" I said, \"Know your numbers, and own them.\" So I start",
+          "women": "DANIEL: Let's see what a careful review says. The idea started in 1978. Two psychologists, Pauline Clance and Suzanne Imes, described it in high-achieving women",
+          "yamanote": "SENA: Monday, nine forty at night. I'm on the Yamanote Line, standing, holding the strap with one hand. With the other hand, I open a blank slide on my phone."
+        },
+        "episode": 22
       },
       {
-        "episode": 23,
         "candidates": {
-          "idea": "DANIEL: Mark's small idea.",
-          "region": "SENA: The small idea. \"Hey Sena, here's my small idea for Thursday! Could you also add a twelve-month breakdown for every region, by customer segment? The launc",
-          "emoji": "SENA: The small idea. \"Hey Sena, here's my small idea for Thursday! Could you also add a twelve-month breakdown for every region, by customer segment? The launc",
-          "fire": "SENA: The small idea. \"Hey Sena, here's my small idea for Thursday! Could you also add a twelve-month breakdown for every region, by customer segment? The launc",
-          "take": "DANIEL: How long would that take you?",
-          "more": "DANIEL: Good. Leave it there a few more minutes. By the end of this episode, you'll be able to say no to one request in a few clear sentences, with an alternati",
-          "episode": "DANIEL: Good. Leave it there a few more minutes. By the end of this episode, you'll be able to say no to one request in a few clear sentences, with an alternati",
-          "human": "DANIEL: Welcome back to Human Curriculum. I'm Daniel Reed, a People Manager in Seattle.",
-          "tokyo": "SENA: And I'm Sena Sato, an Associate in Tokyo. It's Tuesday, eight in the morning here.",
-          "here": "SENA: And I'm Sena Sato, an Associate in Tokyo. It's Tuesday, eight in the morning here.",
-          "rain": "DANIEL: And Monday, four in the afternoon here. Maple got her rain walk this morning, so now she's asleep on my feet. Okay. Last time, your challenge was to wri",
-          "time": "DANIEL: And Monday, four in the afternoon here. Maple got her rain walk this morning, so now she's asleep on my feet. Okay. Last time, your challenge was to wri",
-          "onto": "SENA: I copied my evidence onto page one of my Thursday notes, like I said. Facts only. The pipeline, the region two check, Wendell's review request.",
-          "page": "SENA: I copied my evidence onto page one of my Thursday notes, like I said. Facts only. The pipeline, the region two check, Wendell's review request.",
-          "made": "SENA: This morning, on the train. Twice. Then I practiced my first sentence, very quietly. \"I built the pipeline, Ryo tested it, and Kenta's review made it bett",
-          "gone": "SENA: Still there. When I opened the slides, it whispered, \"Faster spreadsheet.\" But the small letters are gone, and I didn't type them again. I read page one i",
           "again": "SENA: Still there. When I opened the slides, it whispered, \"Faster spreadsheet.\" But the small letters are gone, and I didn't type them again. I read page one i",
-          "someone": "SENA: Quieter. Like someone turned the volume down.",
-          "kato-san": "SENA: His fifteen minutes with Kato-san are at eleven. He came in early with two printed pages. I have never seen Ryo print anything.",
-          "seen": "SENA: His fifteen minutes with Kato-san are at eleven. He came in early with two printed pages. I have never seen Ryo print anything.",
+          "audio": "DANIEL: Perfect. Listeners, your turn. In forty seconds, answer this. What is one request you said yes to recently that you wish you had answered differently, a",
+          "been": "SENA: I'll start with the draft that has been sitting in my message box since last night.",
           "before": "SENA: Mark is the room. I said I want to work closer to product decisions, and Mark's team is exactly that. And two days before my first presentation to them, I",
-          "same": "DANIEL: The researchers' explanation is focus. When you say no, you think the other person will focus on the no itself. But the person who asked thinks more abo",
-          "were": "DANIEL: That's the idea. Now, the honest cautions. These were social invitations, not work requests. Many of the studies used imagined situations. And the lead ",
-          "imagine": "SENA: So the study doesn't say, \"Say no to everything.\" It says the no hurts less than I imagine.",
-          "name": "DANIEL: Ha, no, that's just the journal's name. They asked people how much free time and money they expected to have today, and a month from now. People expecte",
-          "future": "DANIEL: Ha, no, that's just the journal's name. They asked people how much free time and money they expected to have today, and a month from now. People expecte",
-          "reason": "SENA: No reason, no alternative.",
           "change": "DANIEL: Nothing. I didn't even ask what she needed it for. Six months later, my team needed Petra's team to change a data field for our own project. I sent her ",
           "data": "DANIEL: Nothing. I didn't even ask what she needed it for. Six months later, my team needed Petra's team to change a data field for our own project. I sent her ",
-          "shape": "SENA: Oh. The same shape as yours.",
-          "home": "DANIEL: Right. If I had asked, I would have learned that she needed only three numbers for one meeting. Twenty minutes of work. I burned a bridge to save twenty",
-          "wife": "DANIEL: My wife says I say yes to every neighbor. Last Saturday I helped carry a piano up two floors. My back is still talking to me about it.",
-          "piano": "DANIEL: My wife says I say yes to every neighbor. Last Saturday I helped carry a piano up two floors. My back is still talking to me about it.",
-          "japan": "SENA: Can I talk about no in Japan? Because we almost never say the word.",
-          "japanese": "SENA: In Japanese business, a direct \"no\" sounds very strong. We talked about \"zensho shimasu\" before. There are more. \"Kentou shimasu,\" which means \"we'll cons",
-          "kentou": "SENA: In Japanese business, a direct \"no\" sounds very strong. We talked about \"zensho shimasu\" before. There are more. \"Kentou shimasu,\" which means \"we'll cons",
-          "muzukashii": "SENA: In Japanese business, a direct \"no\" sounds very strong. We talked about \"zensho shimasu\" before. There are more. \"Kentou shimasu,\" which means \"we'll cons",
+          "date": "DANIEL: Today's challenge: say no to one request today, big or small, and offer one alternative with it. A smaller version, a later date, or another person who ",
           "desu": "SENA: In Japanese business, a direct \"no\" sounds very strong. We talked about \"zensho shimasu\" before. There are more. \"Kentou shimasu,\" which means \"we'll cons",
           "done": "DANIEL: Now I understand why a Tokyo partner once told me \"it's a little difficult,\" and I answered, \"Great, let me know when it's done.\"",
-          "make": "DANIEL: Roughly, though every team is different. With Mark, you're working across both. So make the no clear enough for Seattle, and warm enough for you.",
-          "pause": "DANIEL: Relationship management. Four steps. One, pause before you answer. Two, ask what the request is for, because the need is often smaller than the request.",
+          "emoji": "SENA: The small idea. \"Hey Sena, here's my small idea for Thursday! Could you also add a twelve-month breakdown for every region, by customer segment? The launc",
+          "episode": "DANIEL: Good. Leave it there a few more minutes. By the end of this episode, you'll be able to say no to one request in a few clear sentences, with an alternati",
+          "fire": "SENA: The small idea. \"Hey Sena, here's my small idea for Thursday! Could you also add a twelve-month breakdown for every region, by customer segment? The launc",
+          "future": "DANIEL: Ha, no, that's just the journal's name. They asked people how much free time and money they expected to have today, and a month from now. People expecte",
+          "gone": "SENA: Still there. When I opened the slides, it whispered, \"Faster spreadsheet.\" But the small letters are gone, and I didn't type them again. I read page one i",
+          "here": "SENA: And I'm Sena Sato, an Associate in Tokyo. It's Tuesday, eight in the morning here.",
+          "home": "DANIEL: Right. If I had asked, I would have learned that she needed only three numbers for one meeting. Twenty minutes of work. I burned a bridge to save twenty",
+          "human": "DANIEL: Welcome back to Human Curriculum. I'm Daniel Reed, a People Manager in Seattle.",
+          "idea": "DANIEL: Mark's small idea.",
+          "imagine": "SENA: So the study doesn't say, \"Say no to everything.\" It says the no hurts less than I imagine.",
           "inside": "DANIEL: Then ask inside the same message.",
-          "zero": "DANIEL: Four sorries for one task. Let's aim for zero, or one at most.",
+          "japan": "SENA: Can I talk about no in Japan? Because we almost never say the word.",
+          "japanese": "SENA: In Japanese business, a direct \"no\" sounds very strong. We talked about \"zensho shimasu\" before. There are more. \"Kentou shimasu,\" which means \"we'll cons",
+          "kato-san": "SENA: His fifteen minutes with Kato-san are at eleven. He came in early with two printed pages. I have never seen Ryo print anything.",
+          "kentou": "SENA: In Japanese business, a direct \"no\" sounds very strong. We talked about \"zensho shimasu\" before. There are more. \"Kentou shimasu,\" which means \"we'll cons",
+          "made": "SENA: This morning, on the train. Twice. Then I practiced my first sentence, very quietly. \"I built the pipeline, Ryo tested it, and Kenta's review made it bett",
           "main": "DANIEL: Nice. Now, a retell. In about thirty seconds, tell me today's main points in your own words.",
-          "audio": "DANIEL: Perfect. Listeners, your turn. In forty seconds, answer this. What is one request you said yes to recently that you wish you had answered differently, a",
+          "make": "DANIEL: Roughly, though every team is different. With Mark, you're working across both. So make the no clear enough for Seattle, and warm enough for you.",
           "mine": "SENA: Mine was a \"quick\" data pull at six on a Friday. I could have offered Monday morning.",
-          "date": "DANIEL: Today's challenge: say no to one request today, big or small, and offer one alternative with it. A smaller version, a later date, or another person who ",
-          "been": "SENA: I'll start with the draft that has been sitting in my message box since last night."
-        }
+          "more": "DANIEL: Good. Leave it there a few more minutes. By the end of this episode, you'll be able to say no to one request in a few clear sentences, with an alternati",
+          "muzukashii": "SENA: In Japanese business, a direct \"no\" sounds very strong. We talked about \"zensho shimasu\" before. There are more. \"Kentou shimasu,\" which means \"we'll cons",
+          "name": "DANIEL: Ha, no, that's just the journal's name. They asked people how much free time and money they expected to have today, and a month from now. People expecte",
+          "onto": "SENA: I copied my evidence onto page one of my Thursday notes, like I said. Facts only. The pipeline, the region two check, Wendell's review request.",
+          "page": "SENA: I copied my evidence onto page one of my Thursday notes, like I said. Facts only. The pipeline, the region two check, Wendell's review request.",
+          "pause": "DANIEL: Relationship management. Four steps. One, pause before you answer. Two, ask what the request is for, because the need is often smaller than the request.",
+          "piano": "DANIEL: My wife says I say yes to every neighbor. Last Saturday I helped carry a piano up two floors. My back is still talking to me about it.",
+          "rain": "DANIEL: And Monday, four in the afternoon here. Maple got her rain walk this morning, so now she's asleep on my feet. Okay. Last time, your challenge was to wri",
+          "reason": "SENA: No reason, no alternative.",
+          "region": "SENA: The small idea. \"Hey Sena, here's my small idea for Thursday! Could you also add a twelve-month breakdown for every region, by customer segment? The launc",
+          "same": "DANIEL: The researchers' explanation is focus. When you say no, you think the other person will focus on the no itself. But the person who asked thinks more abo",
+          "seen": "SENA: His fifteen minutes with Kato-san are at eleven. He came in early with two printed pages. I have never seen Ryo print anything.",
+          "shape": "SENA: Oh. The same shape as yours.",
+          "someone": "SENA: Quieter. Like someone turned the volume down.",
+          "take": "DANIEL: How long would that take you?",
+          "time": "DANIEL: And Monday, four in the afternoon here. Maple got her rain walk this morning, so now she's asleep on my feet. Okay. Last time, your challenge was to wri",
+          "tokyo": "SENA: And I'm Sena Sato, an Associate in Tokyo. It's Tuesday, eight in the morning here.",
+          "were": "DANIEL: That's the idea. Now, the honest cautions. These were social invitations, not work requests. Many of the studies used imagined situations. And the lead ",
+          "wife": "DANIEL: My wife says I say yes to every neighbor. Last Saturday I helped carry a piano up two floors. My back is still talking to me about it.",
+          "zero": "DANIEL: Four sorries for one task. Let's aim for zero, or one at most."
+        },
+        "episode": 23
       },
       {
-        "episode": 24,
         "candidates": {
-          "take": "SENA: Waiting for Mark. Then it buzzes. \"Three quick ones for Thursday! One, how long did the report take before? Two, could another region use it? Three, what'",
-          "before": "SENA: Waiting for Mark. Then it buzzes. \"Three quick ones for Thursday! One, how long did the report take before? Two, could another region use it? Three, what'",
-          "region": "SENA: Waiting for Mark. Then it buzzes. \"Three quick ones for Thursday! One, how long did the report take before? Two, could another region use it? Three, what'",
-          "change": "SENA: Waiting for Mark. Then it buzzes. \"Three quick ones for Thursday! One, how long did the report take before? Two, could another region use it? Three, what'",
-          "awake": "SENA: Of course I answered. At twelve forty. Long answers. And he replied in ten seconds. \"Wait, why are you awake?? Go to sleep!!\"",
-          "episode": "DANIEL: You closed the app, but you didn't close the day. By the end of this episode, you'll have a two-minute way to end your workday: one line on paper, and a",
-          "human": "DANIEL: Welcome back to Human Curriculum. I'm Daniel Reed, a People Manager in Seattle.",
-          "tokyo": "SENA: And I'm Sena Sato, an Associate in Tokyo. It's Wednesday, seven thirty in the morning here.",
-          "here": "SENA: And I'm Sena Sato, an Associate in Tokyo. It's Wednesday, seven thirty in the morning here.",
-          "time": "DANIEL: And Tuesday, three thirty in the afternoon here. Maple is asleep under my desk, so at least one of us is rested. Last time, your challenge was to say no",
-          "were": "DANIEL: And Tuesday, three thirty in the afternoon here. Maple is asleep under my desk, so at least one of us is rested. Last time, your challenge was to say no",
           "again": "SENA: The thumbs-up was real. He never asked for the twelve months again. And I put the full breakdown in my calendar for next Wednesday, so it's a promise with",
-          "date": "SENA: The thumbs-up was real. He never asked for the twelve months again. And I put the full breakdown in my calendar for next Wednesday, so it's a promise with",
-          "someone": "SENA: And I did a second one. Yesterday afternoon, someone in Osaka asked me for a \"quick\" pull of last year's numbers. I wrote, \"I can't today, but I can send ",
-          "osaka": "SENA: And I did a second one. Yesterday afternoon, someone in Osaka asked me for a \"quick\" pull of last year's numbers. I wrote, \"I can't today, but I can send ",
-          "kato-san": "DANIEL: That's the skill growing. And Ryo? Yesterday was his fifteen minutes with Kato-san.",
-          "desu": "SENA: Yes! He came back and was quiet for ten minutes. Then he said, \"Kato-san said the Osaka script can wait until January.\" That's all. But at six thirty, Ryo",
-          "seen": "SENA: Yes! He came back and was quiet for ten minutes. Then he said, \"Kato-san said the Osaka script can wait until January.\" That's all. But at six thirty, Ryo",
-          "open": "SENA: A loop. Question three, then the slides, then Wendell. His first version of region three arrives today, and I promised to review it. Then question three a",
-          "more": "DANIEL: It's more careful than that. He followed one hundred and three employees who were working on one thousand, one hundred and twenty-seven goals. At the en",
-          "been": "DANIEL: It's more careful than that. He followed one hundred and three employees who were working on one thousand, one hundred and twenty-seven goals. At the en",
-          "inside": "DANIEL: I know. Here's the useful part. In an experiment inside the study, some people took a few minutes at the end of the day to write a plan for each unfinis",
-          "some": "DANIEL: I know. Here's the useful part. In an experiment inside the study, some people took a few minutes at the end of the day to write a plan for each unfinis",
-          "into": "DANIEL: I suspected. Now, the second study takes us into a sleep lab. In 2018, Michael Scullin and his colleagues at Baylor University published a study in the ",
-          "idea": "DANIEL: That's the idea. It seems that when the task is on paper, your brain doesn't have to keep holding it. Now the cautions. Fifty-seven people is small, tho",
-          "made": "SENA: So maybe writing about finished tasks made sleep worse, instead of the to-do list making it better.",
-          "note": "DANIEL: Exactly, and the researchers say that too. One more thing. If sleep is hard for weeks, that's a conversation with a doctor, not with a sticky note.",
-          "same": "SENA: Noted. So both studies say the same thing. Don't finish everything. Write down where you'll start.",
-          "done": "SENA: Deciding that today is done. AI never gets tired, so it can't tell me when to stop. And it doesn't know which open loop is the one that will keep me awake",
-          "demo": "DANIEL: Very bad, and I made it other people's problem. When I first became a manager, I wanted my team to know I was always there. So I answered everything, an",
-          "mine": "DANIEL: Then in a one-on-one, he looked very tired, and he said, \"Daniel, you say 'no need to reply.' But you're online. So I'm online. I never know when your d",
-          "nine": "DANIEL: That sentence changed how I work. My words said \"rest,\" but my green dot said \"work.\" People follow the green dot. After that, I started writing my late",
-          "hike": "DANIEL: Slowly. The one-in-the-morning slides stopped after a few weeks. A year later he told me it was the change that mattered most to him. And I still slip. ",
-          "mountain": "DANIEL: Slowly. The one-in-the-morning slides stopped after a few weeks. A year later he told me it was the change that mattered most to him. And I still slip. ",
-          "wife": "DANIEL: Slowly. The one-in-the-morning slides stopped after a few weeks. A year later he told me it was the change that mattered most to him. And I still slip. ",
-          "japan": "SENA: Can I talk about Japan? Because leaving work here has its own words.",
-          "osaki": "SENA: When you leave before others, you say, \"Osaki ni shitsurei shimasu.\" It means something like, \"Excuse me for leaving before you.\" So even going home sound",
-          "shitsurei": "SENA: When you leave before others, you say, \"Osaki ni shitsurei shimasu.\" It means something like, \"Excuse me for leaving before you.\" So even going home sound",
-          "home": "SENA: When you leave before others, you say, \"Osaki ni shitsurei shimasu.\" It means something like, \"Excuse me for leaving before you.\" So even going home sound",
-          "routine": "DANIEL: Self-management. A shutdown routine in three steps, about two minutes. One, capture. Write every open loop on one list, so nothing lives only in your he",
-          "choose": "DANIEL: Self-management. A shutdown routine in three steps, about two minutes. One, capture. Write every open loop on one list, so nothing lives only in your he",
-          "pause": "DANIEL: Self-management. A shutdown routine in three steps, about two minutes. One, capture. Write every open loop on one list, so nothing lives only in your he",
-          "make": "SENA: No. That's a cloud. Okay. \"Today, twelve fifteen, at lunch, write three changes I'd make, and circle one.\"",
-          "main": "DANIEL: Nice. Now, a retell. In about thirty seconds, tell me today's main points in your own words.",
           "audio": "DANIEL: Perfect. Listeners, your turn. In forty seconds, answer this. What is one piece of work that often follows you home, and what first step could you write",
-          "page": "SENA: Tonight my line will be, \"Seven forty, on the train, read page one, then say my first sentence twice.\" And then the laptop closes, and Slack stays closed."
-        }
+          "awake": "SENA: Of course I answered. At twelve forty. Long answers. And he replied in ten seconds. \"Wait, why are you awake?? Go to sleep!!\"",
+          "been": "DANIEL: It's more careful than that. He followed one hundred and three employees who were working on one thousand, one hundred and twenty-seven goals. At the en",
+          "before": "SENA: Waiting for Mark. Then it buzzes. \"Three quick ones for Thursday! One, how long did the report take before? Two, could another region use it? Three, what'",
+          "change": "SENA: Waiting for Mark. Then it buzzes. \"Three quick ones for Thursday! One, how long did the report take before? Two, could another region use it? Three, what'",
+          "choose": "DANIEL: Self-management. A shutdown routine in three steps, about two minutes. One, capture. Write every open loop on one list, so nothing lives only in your he",
+          "date": "SENA: The thumbs-up was real. He never asked for the twelve months again. And I put the full breakdown in my calendar for next Wednesday, so it's a promise with",
+          "demo": "DANIEL: Very bad, and I made it other people's problem. When I first became a manager, I wanted my team to know I was always there. So I answered everything, an",
+          "desu": "SENA: Yes! He came back and was quiet for ten minutes. Then he said, \"Kato-san said the Osaka script can wait until January.\" That's all. But at six thirty, Ryo",
+          "done": "SENA: Deciding that today is done. AI never gets tired, so it can't tell me when to stop. And it doesn't know which open loop is the one that will keep me awake",
+          "episode": "DANIEL: You closed the app, but you didn't close the day. By the end of this episode, you'll have a two-minute way to end your workday: one line on paper, and a",
+          "here": "SENA: And I'm Sena Sato, an Associate in Tokyo. It's Wednesday, seven thirty in the morning here.",
+          "hike": "DANIEL: Slowly. The one-in-the-morning slides stopped after a few weeks. A year later he told me it was the change that mattered most to him. And I still slip. ",
+          "home": "SENA: When you leave before others, you say, \"Osaki ni shitsurei shimasu.\" It means something like, \"Excuse me for leaving before you.\" So even going home sound",
+          "human": "DANIEL: Welcome back to Human Curriculum. I'm Daniel Reed, a People Manager in Seattle.",
+          "idea": "DANIEL: That's the idea. It seems that when the task is on paper, your brain doesn't have to keep holding it. Now the cautions. Fifty-seven people is small, tho",
+          "inside": "DANIEL: I know. Here's the useful part. In an experiment inside the study, some people took a few minutes at the end of the day to write a plan for each unfinis",
+          "into": "DANIEL: I suspected. Now, the second study takes us into a sleep lab. In 2018, Michael Scullin and his colleagues at Baylor University published a study in the ",
+          "japan": "SENA: Can I talk about Japan? Because leaving work here has its own words.",
+          "kato-san": "DANIEL: That's the skill growing. And Ryo? Yesterday was his fifteen minutes with Kato-san.",
+          "made": "SENA: So maybe writing about finished tasks made sleep worse, instead of the to-do list making it better.",
+          "main": "DANIEL: Nice. Now, a retell. In about thirty seconds, tell me today's main points in your own words.",
+          "make": "SENA: No. That's a cloud. Okay. \"Today, twelve fifteen, at lunch, write three changes I'd make, and circle one.\"",
+          "mine": "DANIEL: Then in a one-on-one, he looked very tired, and he said, \"Daniel, you say 'no need to reply.' But you're online. So I'm online. I never know when your d",
+          "more": "DANIEL: It's more careful than that. He followed one hundred and three employees who were working on one thousand, one hundred and twenty-seven goals. At the en",
+          "mountain": "DANIEL: Slowly. The one-in-the-morning slides stopped after a few weeks. A year later he told me it was the change that mattered most to him. And I still slip. ",
+          "nine": "DANIEL: That sentence changed how I work. My words said \"rest,\" but my green dot said \"work.\" People follow the green dot. After that, I started writing my late",
+          "note": "DANIEL: Exactly, and the researchers say that too. One more thing. If sleep is hard for weeks, that's a conversation with a doctor, not with a sticky note.",
+          "open": "SENA: A loop. Question three, then the slides, then Wendell. His first version of region three arrives today, and I promised to review it. Then question three a",
+          "osaka": "SENA: And I did a second one. Yesterday afternoon, someone in Osaka asked me for a \"quick\" pull of last year's numbers. I wrote, \"I can't today, but I can send ",
+          "osaki": "SENA: When you leave before others, you say, \"Osaki ni shitsurei shimasu.\" It means something like, \"Excuse me for leaving before you.\" So even going home sound",
+          "page": "SENA: Tonight my line will be, \"Seven forty, on the train, read page one, then say my first sentence twice.\" And then the laptop closes, and Slack stays closed.",
+          "pause": "DANIEL: Self-management. A shutdown routine in three steps, about two minutes. One, capture. Write every open loop on one list, so nothing lives only in your he",
+          "region": "SENA: Waiting for Mark. Then it buzzes. \"Three quick ones for Thursday! One, how long did the report take before? Two, could another region use it? Three, what'",
+          "routine": "DANIEL: Self-management. A shutdown routine in three steps, about two minutes. One, capture. Write every open loop on one list, so nothing lives only in your he",
+          "same": "SENA: Noted. So both studies say the same thing. Don't finish everything. Write down where you'll start.",
+          "seen": "SENA: Yes! He came back and was quiet for ten minutes. Then he said, \"Kato-san said the Osaka script can wait until January.\" That's all. But at six thirty, Ryo",
+          "shitsurei": "SENA: When you leave before others, you say, \"Osaki ni shitsurei shimasu.\" It means something like, \"Excuse me for leaving before you.\" So even going home sound",
+          "some": "DANIEL: I know. Here's the useful part. In an experiment inside the study, some people took a few minutes at the end of the day to write a plan for each unfinis",
+          "someone": "SENA: And I did a second one. Yesterday afternoon, someone in Osaka asked me for a \"quick\" pull of last year's numbers. I wrote, \"I can't today, but I can send ",
+          "take": "SENA: Waiting for Mark. Then it buzzes. \"Three quick ones for Thursday! One, how long did the report take before? Two, could another region use it? Three, what'",
+          "time": "DANIEL: And Tuesday, three thirty in the afternoon here. Maple is asleep under my desk, so at least one of us is rested. Last time, your challenge was to say no",
+          "tokyo": "SENA: And I'm Sena Sato, an Associate in Tokyo. It's Wednesday, seven thirty in the morning here.",
+          "were": "DANIEL: And Tuesday, three thirty in the afternoon here. Maple is asleep under my desk, so at least one of us is rested. Last time, your challenge was to say no",
+          "wife": "DANIEL: Slowly. The one-in-the-morning slides stopped after a few weeks. A year later he told me it was the change that mattered most to him. And I still slip. "
+        },
+        "episode": 24
       },
       {
-        "episode": 25,
         "candidates": {
-          "name": "SENA: It's Wednesday, two fifty-two in the afternoon. I'm at my desk, and the file name on my screen is \"pipeline final v thirteen, really final.\"",
           "again": "SENA: Right now, I'm moving one arrow on slide four. Two pixels to the left. Then two pixels back to the right. Then left again.",
-          "more": "SENA: Eight minutes. Kenta walked behind my chair at two thirty, looked at the screen, and said, \"It's good. Honestly, send it.\" Kenta never says \"honestly.\" I ",
-          "kato-san": "SENA: A draft to Kato-san. \"I'm sorry, would it be okay if I send the slides tomorrow morning? I'd like to polish a few small things.\" My cursor is blinking aft",
-          "episode": "DANIEL: Hold that cursor. By the end of this episode, you'll be able to decide what \"good enough\" means for one task, and send it before the deadline, not after",
-          "before": "DANIEL: Hold that cursor. By the end of this episode, you'll be able to decide what \"good enough\" means for one task, and send it before the deadline, not after",
-          "human": "DANIEL: Welcome back to Human Curriculum. I'm Daniel Reed, a People Manager in Seattle.",
-          "tokyo": "SENA: And I'm Sena Sato, an Associate in Tokyo. It's Thursday, eight in the morning here. My presentation is at nine.",
-          "here": "SENA: And I'm Sena Sato, an Associate in Tokyo. It's Thursday, eight in the morning here. My presentation is at nine.",
-          "nine": "SENA: And I'm Sena Sato, an Associate in Tokyo. It's Thursday, eight in the morning here. My presentation is at nine.",
-          "time": "DANIEL: And Wednesday, four in the afternoon here. Last time, your challenge was to write tomorrow's first step in one line, then close the laptop. And you told",
-          "page": "DANIEL: And Wednesday, four in the afternoon here. Last time, your challenge was to write tomorrow's first step in one line, then close the laptop. And you told",
-          "note": "SENA: I wrote it last night at seven. A pink sticky note, exactly those words. I stuck it on my phone case so I'd see it on the train. Then I closed the laptop.",
-          "home": "SENA: Strange. My hand stayed on the lid for a second. Then I walked home a different way and took a photo of a vending machine glowing in an empty alley. No Sl",
-          "machine": "SENA: Strange. My hand stayed on the lid for a second. Then I walked home a different way and took a photo of a vending machine glowing in an empty alley. No Sl",
-          "made": "SENA: Seven forty, on the train, I read page one, and I said my first sentence twice, very quietly. \"I built the pipeline, Ryo tested it, and Kenta's review mad",
-          "open": "SENA: Seven forty, on the train, I read page one, and I said my first sentence twice, very quietly. \"I built the pipeline, Ryo tested it, and Kenta's review mad",
-          "minute": "SENA: Yes. Kato-san answered in one minute. \"Please send what you have now. Laura is waiting.\" So I sent version thirteen at three twenty-five. Twenty-five minu",
-          "some": "SENA: Yes. Kato-san answered in one minute. \"Please send what you have now. Laura is waiting.\" So I sent version thirteen at three twenty-five. Twenty-five minu",
-          "none": "SENA: Nothing. That's the problem. Since Tuesday I changed the font, recolored one chart four times, rewrote the slide three title nine times, and moved the arr",
-          "done": "DANIEL: So the part people noticed was done on Tuesday. And your apology made finished work look unfinished.",
+          "audio": "DANIEL: Perfect. Or should I say, good enough. Listeners, your turn. In forty seconds, answer this. What is one task you keep polishing, and what would good eno",
           "been": "DANIEL: That fear has been studied a lot. In 2018, Dana Harari, Brian Swider, Laurens Steed and Amy Breidenthal published a meta-analysis in the Journal of Appl",
-          "dana": "DANIEL: That fear has been studied a lot. In 2018, Dana Harari, Brian Swider, Laurens Steed and Amy Breidenthal published a meta-analysis in the Journal of Appl",
-          "harari": "DANIEL: That fear has been studied a lot. In 2018, Dana Harari, Brian Swider, Laurens Steed and Amy Breidenthal published a meta-analysis in the Journal of Appl",
-          "were": "DANIEL: Harari's team combined about four decades of research on perfectionism at work, with nearly twenty-five thousand working-age people. Perfectionists were",
-          "into": "DANIEL: Here's the surprising part. All that extra effort did not clearly turn into better job performance. The researchers called the link with performance \"eq",
-          "same": "DANIEL: The second one is about where the pressure comes from. In 2019, Thomas Curran and Andrew Hill published a paper in Psychological Bulletin. They looked a",
-          "rise": "DANIEL: Right. All three kinds of perfectionism went up. In the researchers' press release, the biggest rise was what they call socially prescribed perfectionis",
-          "rose": "DANIEL: Right. All three kinds of perfectionism went up. In the researchers' press release, the biggest rise was what they call socially prescribed perfectionis",
-          "outside": "DANIEL: That's the pattern. The expectation feels like it comes from outside, but a lot of it is written inside. Cautions: these were college students in three ",
-          "inside": "DANIEL: That's the pattern. The expectation feels like it comes from outside, but a lot of it is written inside. Cautions: these were college students in three ",
-          "media": "DANIEL: That's the pattern. The expectation feels like it comes from outside, but a lot of it is written inside. Cautions: these were college students in three ",
-          "make": "SENA: AI could fix my arrow in one second, and make fifty versions of slide three.",
-          "someone": "DANIEL: I was, in a way that hurt someone. About eight years ago, in my first year as a manager, I had to write performance reviews. One of them was for Simone,",
-          "simone": "DANIEL: I was, in a way that hurt someone. About eight years ago, in my first year as a manager, I had to write performance reviews. One of them was for Simone,",
-          "safe": "DANIEL: From a review that was ready on the first Friday. The eleven versions weren't for her. They were for me, so I would feel safe. She paid for my perfect r",
+          "before": "DANIEL: Hold that cursor. By the end of this episode, you'll be able to decide what \"good enough\" means for one task, and send it before the deadline, not after",
           "change": "SENA: What did you change after that?",
-          "wife": "DANIEL: Now I give myself one draft, one night, and one fix, and I send reviews a day early. Nobody waits in silence. And my wife says I do the same thing with ",
+          "dana": "DANIEL: That fear has been studied a lot. In 2018, Dana Harari, Brian Swider, Laurens Steed and Amy Breidenthal published a meta-analysis in the Journal of Appl",
+          "define": "DANIEL: Self-management. Here are four steps. One, define done. Who is it for, and what do they need to decide? Two, split the work. What must be right, and wha",
+          "done": "DANIEL: So the part people noticed was done on Tuesday. And your apology made finished work look unfinished.",
+          "emoji": "SENA: It's Mark. \"See you at nine! Laura loved the deck.\" A clapping emoji. And then a second message. \"Heads-up, she added ten minutes for questions at the end",
+          "episode": "DANIEL: Hold that cursor. By the end of this episode, you'll be able to decide what \"good enough\" means for one task, and send it before the deadline, not after",
+          "hachi": "SENA: Yes. But we also have an expression for food. \"Hara hachi bu.\" Eat until you're eighty percent full. Everybody knows it. We just never use it for slides.",
+          "hara": "SENA: Yes. But we also have an expression for food. \"Hara hachi bu.\" Eat until you're eighty percent full. Everybody knows it. We just never use it for slides.",
+          "harari": "DANIEL: That fear has been studied a lot. In 2018, Dana Harari, Brian Swider, Laurens Steed and Amy Breidenthal published a meta-analysis in the Journal of Appl",
+          "here": "SENA: And I'm Sena Sato, an Associate in Tokyo. It's Thursday, eight in the morning here. My presentation is at nine.",
+          "home": "SENA: Strange. My hand stayed on the lid for a second. Then I walked home a different way and took a photo of a vending machine glowing in an empty alley. No Sl",
+          "human": "DANIEL: Welcome back to Human Curriculum. I'm Daniel Reed, a People Manager in Seattle.",
+          "inside": "DANIEL: That's the pattern. The expectation feels like it comes from outside, but a lot of it is written inside. Cautions: these were college students in three ",
+          "into": "DANIEL: Here's the surprising part. All that extra effort did not clearly turn into better job performance. The researchers called the link with performance \"eq",
           "japan": "SENA: Can I talk about Japan? Because perfection is a little bit of a value here.",
           "japanese": "SENA: In many Japanese workplaces, a typo in a client document feels almost rude. Documents are checked by several people. And you often show your boss a versio",
-          "rude": "SENA: In many Japanese workplaces, a typo in a client document feels almost rude. Documents are checked by several people. And you often show your boss a versio",
-          "hara": "SENA: Yes. But we also have an expression for food. \"Hara hachi bu.\" Eat until you're eighty percent full. Everybody knows it. We just never use it for slides.",
-          "hachi": "SENA: Yes. But we also have an expression for food. \"Hara hachi bu.\" Eat until you're eighty percent full. Everybody knows it. We just never use it for slides.",
-          "define": "DANIEL: Self-management. Here are four steps. One, define done. Who is it for, and what do they need to decide? Two, split the work. What must be right, and wha",
+          "kato-san": "SENA: A draft to Kato-san. \"I'm sorry, would it be okay if I send the slides tomorrow morning? I'd like to polish a few small things.\" My cursor is blinking aft",
+          "machine": "SENA: Strange. My hand stayed on the lid for a second. Then I walked home a different way and took a photo of a vending machine glowing in an empty alley. No Sl",
+          "made": "SENA: Seven forty, on the train, I read page one, and I said my first sentence twice, very quietly. \"I built the pipeline, Ryo tested it, and Kenta's review mad",
           "main": "SENA: I was going to fix the slide three title on the way to the meeting room. Okay. Must be right: slide five, one main message, and Ryo and Kenta on the credi",
-          "pause": "DANIEL: That's normal. Now, Speaking Lab. Three sentences for sending work that's good enough. I'll say each one, and Sena repeats. Listeners, pause and say it ",
-          "audio": "DANIEL: Perfect. Or should I say, good enough. Listeners, your turn. In forty seconds, answer this. What is one task you keep polishing, and what would good eno",
+          "make": "SENA: AI could fix my arrow in one second, and make fifty versions of slide three.",
+          "media": "DANIEL: That's the pattern. The expectation feels like it comes from outside, but a lot of it is written inside. Cautions: these were college students in three ",
           "mine": "SENA: Mine is emails. I read them five times. Twice would be enough.",
-          "emoji": "SENA: It's Mark. \"See you at nine! Laura loved the deck.\" A clapping emoji. And then a second message. \"Heads-up, she added ten minutes for questions at the end",
-          "region": "SENA: It's Mark. \"See you at nine! Laura loved the deck.\" A clapping emoji. And then a second message. \"Heads-up, she added ten minutes for questions at the end"
-        }
+          "minute": "SENA: Yes. Kato-san answered in one minute. \"Please send what you have now. Laura is waiting.\" So I sent version thirteen at three twenty-five. Twenty-five minu",
+          "more": "SENA: Eight minutes. Kenta walked behind my chair at two thirty, looked at the screen, and said, \"It's good. Honestly, send it.\" Kenta never says \"honestly.\" I ",
+          "name": "SENA: It's Wednesday, two fifty-two in the afternoon. I'm at my desk, and the file name on my screen is \"pipeline final v thirteen, really final.\"",
+          "nine": "SENA: And I'm Sena Sato, an Associate in Tokyo. It's Thursday, eight in the morning here. My presentation is at nine.",
+          "none": "SENA: Nothing. That's the problem. Since Tuesday I changed the font, recolored one chart four times, rewrote the slide three title nine times, and moved the arr",
+          "note": "SENA: I wrote it last night at seven. A pink sticky note, exactly those words. I stuck it on my phone case so I'd see it on the train. Then I closed the laptop.",
+          "open": "SENA: Seven forty, on the train, I read page one, and I said my first sentence twice, very quietly. \"I built the pipeline, Ryo tested it, and Kenta's review mad",
+          "outside": "DANIEL: That's the pattern. The expectation feels like it comes from outside, but a lot of it is written inside. Cautions: these were college students in three ",
+          "page": "DANIEL: And Wednesday, four in the afternoon here. Last time, your challenge was to write tomorrow's first step in one line, then close the laptop. And you told",
+          "pause": "DANIEL: That's normal. Now, Speaking Lab. Three sentences for sending work that's good enough. I'll say each one, and Sena repeats. Listeners, pause and say it ",
+          "region": "SENA: It's Mark. \"See you at nine! Laura loved the deck.\" A clapping emoji. And then a second message. \"Heads-up, she added ten minutes for questions at the end",
+          "rise": "DANIEL: Right. All three kinds of perfectionism went up. In the researchers' press release, the biggest rise was what they call socially prescribed perfectionis",
+          "rose": "DANIEL: Right. All three kinds of perfectionism went up. In the researchers' press release, the biggest rise was what they call socially prescribed perfectionis",
+          "rude": "SENA: In many Japanese workplaces, a typo in a client document feels almost rude. Documents are checked by several people. And you often show your boss a versio",
+          "safe": "DANIEL: From a review that was ready on the first Friday. The eleven versions weren't for her. They were for me, so I would feel safe. She paid for my perfect r",
+          "same": "DANIEL: The second one is about where the pressure comes from. In 2019, Thomas Curran and Andrew Hill published a paper in Psychological Bulletin. They looked a",
+          "simone": "DANIEL: I was, in a way that hurt someone. About eight years ago, in my first year as a manager, I had to write performance reviews. One of them was for Simone,",
+          "some": "SENA: Yes. Kato-san answered in one minute. \"Please send what you have now. Laura is waiting.\" So I sent version thirteen at three twenty-five. Twenty-five minu",
+          "someone": "DANIEL: I was, in a way that hurt someone. About eight years ago, in my first year as a manager, I had to write performance reviews. One of them was for Simone,",
+          "time": "DANIEL: And Wednesday, four in the afternoon here. Last time, your challenge was to write tomorrow's first step in one line, then close the laptop. And you told",
+          "tokyo": "SENA: And I'm Sena Sato, an Associate in Tokyo. It's Thursday, eight in the morning here. My presentation is at nine.",
+          "were": "DANIEL: Harari's team combined about four decades of research on perfectionism at work, with nearly twenty-five thousand working-age people. Perfectionists were",
+          "wife": "DANIEL: Now I give myself one draft, one night, and one fix, and I send reviews a day early. Nobody waits in silence. And my wife says I do the same thing with "
+        },
+        "episode": 25
       }
     ],
     "known": [
@@ -1186,7 +1217,7 @@
       "yarikake",
       "zensho shimasu"
     ],
-    "edit_link": "https://github.com/risakwmr/claude/edit/episodes/episodes/pronunciations.json",
+    "next_episode": 22,
     "voicetest_link": "https://github.com/risakwmr/claude/actions/workflows/episodes.yml"
   }
 }

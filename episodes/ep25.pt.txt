@@ -1,0 +1,117 @@
+SENA: É quarta-feira, duas e cinquenta e dois da tarde. Estou na minha mesa, e o nome do arquivo na minha tela é "pipeline final v treze, final de verdade".
+DANIEL: Treze. De manhã era onze.
+SENA: Agora mesmo, estou mexendo uma seta no slide quatro. Dois pixels para a esquerda. Depois dois pixels de volta para a direita. Aí esquerda de novo.
+DANIEL: E as três horas do Kato-san?
+SENA: Oito minutos. O Kenta passou atrás da minha cadeira às duas e meia, olhou a tela e disse: "Está bom. Sério, manda." O Kenta nunca diz "sério". Eu respondi: "Só mais algumas coisinhas."
+DANIEL: E o que tem na sua caixa de mensagem?
+SENA: Um rascunho para o Kato-san. "Desculpa, tudo bem se eu mandar os slides amanhã de manhã? Gostaria de polir algumas coisas pequenas." O cursor está piscando depois da palavra "pequenas."
+DANIEL: Segura esse cursor. No fim deste episódio, você vai conseguir decidir o que significa "bom o bastante" para uma tarefa e enviar antes do prazo, não depois dele.
+SENA: Antes do prazo. Parece outra pessoa.
+DANIEL: Bem-vindos de volta ao Human Curriculum. Eu sou o Daniel Reed, People Manager em Seattle.
+SENA: E eu sou a Sena Sato, Associate em Tóquio. Aqui é quinta-feira, oito da manhã. Minha apresentação é às nove.
+DANIEL: E aqui é quarta-feira, quatro da tarde. Da última vez, seu desafio era escrever o primeiro passo de amanhã em uma linha e depois fechar o notebook. E você me contou a sua linha. "Sete e quarenta, no trem, ler a página um, depois dizer minha primeira frase duas vezes."
+SENA: Escrevi ontem às sete da noite. Um post-it rosa, exatamente com essas palavras. Colei na capinha do celular para ver no trem. Depois fechei o notebook.
+DANIEL: Como foi fechar?
+SENA: Estranho. Minha mão ficou na tampa por um segundo. Depois voltei para casa por outro caminho e tirei uma foto de uma máquina de vendas brilhando num beco vazio. Sem Slack. Mesmo quando o celular vibrou às onze.
+DANIEL: O Mark?
+SENA: Provavelmente. Ainda não sei. Mas peguei no sono antes da meia-noite pela primeira vez esta semana.
+DANIEL: E hoje de manhã?
+SENA: Sete e quarenta, no trem, li a página um e disse minha primeira frase duas vezes, bem baixinho. "Eu construí o pipeline, o Ryo testou, e a revisão do Kenta o deixou melhor." O bilhete já tinha decidido, então não abri os slides no trem.
+DANIEL: É o bilhete fazendo o trabalho dele. Agora, eu esperei um dia inteiro. Três horas. Não terminado, ou não perfeito?
+SENA: Não perfeito. Agora eu sei. Mas ontem eu enviei o rascunho.
+DANIEL: O rascunho do "amanhã de manhã".
+SENA: Sim. O Kato-san respondeu em um minuto. "Por favor, mande o que você tem agora. A Laura está esperando." Então enviei a versão treze às três e vinte e cinco. Vinte e cinco minutos atrasada. Com uma mensagem. "Desculpa, ainda não está terminado. As cores e alguns títulos ainda não estão certos."
+DANIEL: E depois?
+SENA: Hoje às seis da manhã, a Laura respondeu. "Obrigada, Sena. Claro e útil. O slide cinco é exatamente o que eu preciso. Mas a sua nota diz que não está terminado. Está faltando alguma coisa?"
+DANIEL: Ah. E o que estava faltando?
+SENA: Nada. Esse é o problema. Desde terça eu troquei a fonte, pintei um gráfico de outra cor quatro vezes, reescrevi o título do slide três nove vezes e mexi na seta. A Laura não falou de nada disso. Ela falou do slide cinco, que não muda desde terça. O Ryo até rodou o script de verificação dele duas vezes.
+DANIEL: Então a parte que as pessoas notaram ficou pronta na terça. E o seu pedido de desculpas fez um trabalho terminado parecer inacabado.
+SENA: Dito assim, parece bobagem. Mas na minha cabeça, um errinho pequeno significa que vão achar o pipeline inteiro descuidado. E a vozinha diz: "Viu? Uma planilha mais rápida." E eu ainda não respondi à Laura. Tenho três rascunhos.
+DANIEL: Esse medo já foi muito estudado. Em 2018, Dana Harari, Brian Swider, Laurens Steed e Amy Breidenthal publicaram uma meta-análise no Journal of Applied Psychology. O título é uma pergunta. "Is Perfect Good?"
+SENA: Tenho medo da resposta.
+DANIEL: A equipe da Harari reuniu cerca de quatro décadas de pesquisas sobre perfeccionismo no trabalho, com quase vinte e cinco mil pessoas em idade de trabalhar. Os perfeccionistas eram mais motivados, mais engajados e trabalhavam mais horas.
+SENA: Até aqui, parece bom.
+DANIEL: Agora a parte surpreendente. Todo esse esforço extra não virou, de forma clara, melhor desempenho no trabalho. Os pesquisadores chamaram a ligação com o desempenho de "equívoca". Mas a ligação com estresse, ansiedade, burnout e depressão era consistente. Os perfeccionistas tinham mais de tudo isso.
+SENA: Mais horas, mais estresse e um trabalho não claramente melhor.
+DANIEL: Essa é a versão curta. Eles também dividiram o perfeccionismo em dois tipos. Busca de excelência, padrões muito altos para si mesmo. E evitar o fracasso, principalmente medo de cometer um erro. O tipo de evitar o fracasso pareceu o mais custoso.
+SENA: A seta é de evitar o fracasso. Eu não estou melhorando a apresentação. Estou me escondendo de um erro.
+DANIEL: Que jeito certeiro de dizer. Os cuidados honestos: uma meta-análise assim combina principalmente correlações, então não prova que o perfeccionismo causa o estresse. E "incerto" também quer dizer que não é claramente pior. Padrões altos não são o inimigo.
+SENA: Tá. Qual é o segundo estudo?
+DANIEL: O segundo é sobre de onde vem a pressão. Em 2019, Thomas Curran e Andrew Hill publicaram um artigo na Psychological Bulletin. Eles analisaram cento e sessenta e quatro amostras, quarenta e um mil, seiscentos e quarenta e um universitários nos Estados Unidos, no Canadá e no Reino Unido, que responderam ao mesmo questionário entre 1989 e 2016.
+SENA: Então as mesmas perguntas, ao longo de quase trinta anos.
+DANIEL: Isso. Os três tipos de perfeccionismo aumentaram. No comunicado dos pesquisadores, o maior aumento foi o que eles chamam de perfeccionismo socialmente prescrito. A sensação de que os outros esperam que você seja perfeito. Ele subiu cerca de trinta e três por cento. Ser perfeito para si mesmo subiu cerca de dez por cento.
+SENA: "Os outros esperam que eu seja perfeita." Essa é a minha quarta-feira inteira.
+DANIEL: Deixa eu conferir. O que o Kato-san realmente pediu?
+SENA: "Você pode me mandar seus slides até as três de hoje?"
+DANIEL: Ele disse "perfeito"?
+SENA: Não. E a Laura escreveu "claro e útil". A parte do perfeito fui eu que acrescentei.
+DANIEL: Esse é o padrão. A expectativa parece vir de fora, mas boa parte dela é escrita por dentro. Cuidados: eram universitários de três países, e as razões, como as redes sociais, são interpretação dos pesquisadores, não foram testadas.
+SENA: Universitários, três países, causas não provadas. Entendi.
+DANIEL: Bom. Agora, a nossa pergunta de sempre. Por que a IA não consegue fazer isso?
+SENA: A IA poderia consertar minha seta em um segundo e fazer cinquenta versões do slide três.
+DANIEL: Poderia. Isso ajuda você?
+SENA: Não. Piora. Com a IA, sempre existe mais uma versão. Ela nunca se cansa de polir, então nunca me diz para parar.
+DANIEL: Então o que sobra para você?
+SENA: Decidir o que "pronto" significa. A IA não sabe que a equipe do Mark está decidindo qual segmento vem primeiro no lançamento. E ela não consegue ficar na frente da equipe do Mark às nove e assumir a apresentação.
+DANIEL: Exatamente. A IA pode deixar qualquer coisa mais polida. Só você pode decidir quando está bom o bastante para quem precisa. Isso é julgamento, e é seu.
+SENA: Daniel, você é perfeccionista?
+DANIEL: Eu era, de um jeito que machucou alguém. Há uns oito anos, no meu primeiro ano como gestor, eu tinha que escrever avaliações de desempenho. Uma era da Simone, a engenheira mais forte da minha equipe.
+SENA: Então a mais fácil.
+DANIEL: Você acharia. Eu queria que a avaliação dela fosse perfeita, porque ela merecia. Reescrevi onze vezes. As avaliações venciam numa sexta-feira. Adiei a dela uma semana, depois outra. Todo mundo teve a conversa de avaliação. A Simone não.
+SENA: Ai, não. Consigo imaginar o que ela pensou.
+DANIEL: Quando finalmente me sentei com ela, a avaliação era elogiosa. Ela leu, ficou em silêncio por um momento. Aí disse: "Daniel, passei duas semanas achando que ia ser demitida."
+SENA: Duas semanas de preocupação. Por causa de uma avaliação boa.
+DANIEL: Por causa de uma avaliação que estava pronta na primeira sexta. As onze versões não eram para ela. Eram para mim, para eu me sentir seguro. Ela pagou pela minha avaliação perfeita com duas semanas de medo.
+SENA: O que você mudou depois disso?
+DANIEL: Agora me dou um rascunho, uma noite e um ajuste, e envio as avaliações um dia antes. Ninguém espera em silêncio. E minha esposa diz que eu faço a mesma coisa com o curry.
+SENA: Com o curry?
+DANIEL: No domingo passado eu ficava colocando um pouco mais de sal, um pouco mais de roux, provando de novo. Por fim ela pegou a colher e disse: "Estava bom vinte minutos atrás."
+SENA: Estava bom vinte minutos atrás. Como a minha apresentação na terça.
+DANIEL: Ha. Como a sua apresentação na terça.
+SENA: Posso falar do Japão? Porque a perfeição é um pouquinho um valor aqui.
+DANIEL: Por favor.
+SENA: Em muitos locais de trabalho japoneses, um erro de digitação num documento para cliente parece quase falta de educação. Os documentos são conferidos por várias pessoas. E muitas vezes você mostra ao chefe uma versão que já está polida.
+DANIEL: Então qualidade é uma forma de respeito.
+SENA: Sim. Mas também temos uma expressão sobre comida. "Hara hachi bu." Coma até ficar oitenta por cento satisfeito. Todo mundo conhece. A gente só nunca usa isso para slides.
+DANIEL: Adorei. Hara hachi bu para slides.
+SENA: E nos Estados Unidos? Ouço muito "feito é melhor que perfeito".
+DANIEL: Essa frase é popular no mundo de tecnologia aqui. Muitas equipes lançam cedo, recebem feedback e melhoram. Mandar algo bruto no prazo respeita o tempo dos outros. Mas não é "vale tudo". Números errados ainda importam muito.
+SENA: Então no Japão a qualidade mostra respeito. Nos Estados Unidos, estar no prazo com algo bom o bastante mostra respeito.
+DANIEL: Mais ou menos, embora cada equipe seja diferente. E a sobreposição é útil. Seja japonesa nas partes que precisam estar certas. Seja americana em todo o resto.
+SENA: Qual habilidade de inteligência emocional é essa?
+DANIEL: Autogestão. Aqui vão quatro passos. Um, defina o pronto. Para quem é, e o que essa pessoa precisa decidir? Dois, divida o trabalho. O que precisa estar certo, e o que é só desejável? Três, defina uma hora de parar antes do prazo. E quatro, envie com uma linha que convide a feedback.
+SENA: Deixa eu tentar agora, com a minha resposta para a Laura. Passo um. É para a Laura, e ela precisa saber uma coisa. A apresentação está pronta para as nove?
+DANIEL: Passo dois?
+SENA: Precisa estar certo: sim, está terminada, e os números estão conferidos. Desejável: explicar as cores, a seta e pedir desculpas pela mensagem de ontem.
+DANIEL: E a apresentação em si? Tem uma versão catorze planejada antes das nove?
+SENA: Eu ia corrigir o título do slide três a caminho da sala de reunião. Tá. Precisa estar certo: slide cinco, uma mensagem principal, e o Ryo e o Kenta no slide de créditos. Tudo pronto na terça. Esses são os meus oitenta por cento. Estava pronta há dois dias.
+DANIEL: Passo três. Hora de parar?
+SENA: Oito e vinte. Quarenta minutos antes da reunião. Passo quatro. Vou apagar os três rascunhos. Mensagem nova. "Oi, Laura, não está faltando nada. Está terminado, os números estão conferidos, e posso ajustar qualquer coisa depois da reunião de hoje."
+DANIEL: Sem desculpas, um status claro e uma porta aberta. E a seta?
+SENA: A seta fica onde está. Dois pixels para a esquerda. Enviado. Oito e onze.
+DANIEL: Nove minutos antes da sua própria hora de parar.
+SENA: Meu coração está muito rápido, por um e-mail.
+DANIEL: É normal. Agora, Speaking Lab. Três frases para enviar um trabalho que está bom o bastante. Eu digo cada uma e a Sena repete. Ouvintes, pausem e digam em voz alta com ela.
+SENA: Pronta.
+DANIEL: "Esta é uma primeira versão, e posso ajustá-la com prazer."
+SENA: Esta é uma primeira versão, e posso ajustá-la com prazer.
+DANIEL: "Os números estão conferidos, e o design pode melhorar depois."
+SENA: Os números estão conferidos, e o design pode melhorar depois.
+DANIEL: "Estou enviando agora, para você ter tempo de revisar."
+SENA: Estou enviando agora, para você ter tempo de revisar.
+DANIEL: Muito bem. Agora, um resumo. Em cerca de trinta segundos, conte com as suas palavras os pontos principais de hoje.
+SENA: Tá. A Harari e a equipe dela descobriram que perfeccionistas trabalham mais horas e sentem mais estresse, mas o desempenho deles não é claramente melhor. E o Curran e a Hill descobriram que, hum, a sensação de que os outros esperam que a gente seja perfeito cresceu. Mas muitas vezes nós mesmos acrescentamos essa pressão. Então eu decido o que precisa estar certo, defino uma hora de parar e envio antes do prazo. Hara hachi bu.
+DANIEL: Perfeito. Ou devo dizer, bom o bastante. Ouvintes, a vez de vocês. Em quarenta segundos, respondam. Qual é uma tarefa que vocês não param de polir, e como seria "bom o bastante" para ela? Pausem o áudio e falem.
+SENA: A minha são e-mails. Eu leio cinco vezes. Duas seriam suficientes.
+DANIEL: O desafio de hoje: escolha uma tarefa hoje e decida entregá-la com oitenta por cento. Antes de começar, escreva o que precisa estar certo, e envie antes do prazo, não na última hora.
+SENA: Acabei de fazer o meu. O próximo é o e-mail de acompanhamento depois da reunião. Duas leituras e enviar.
+DANIEL: Duas leituras e enviar. Na próxima vez, episódio vinte e seis, "Self-Compassion at Work." O que dizer a si mesmo num dia em que algo dá errado.
+SENA: Espero que não hoje.
+DANIEL: Seu celular acabou de acender.
+SENA: É o Mark. "Te vejo às nove! A Laura adorou a apresentação." Um emoji de palmas. E aí uma segunda mensagem. "Aviso: ela acrescentou dez minutos de perguntas no final. Quer ouvir sobre a região três."
+DANIEL: Região três.
+SENA: Daniel, a região três nem está na minha apresentação. Ela está indo para a tabela padrão, e a primeira versão do Wendell só chegou ontem.
+DANIEL: E você não vai fazer a versão catorze.
+SENA: Não. Um post-it. "Região três: o que eu sei, o que ainda não sei e quando os números do Wendell vão estar prontos." Depois vou andando até a sala de reunião.
+DANIEL: Então é daí que a gente começa na próxima vez. Obrigado por ouvir o Human Curriculum. Eu sou o Daniel.
+SENA: E eu sou a Sena. Decida o que precisa estar certo, defina uma hora de parar e envie antes do prazo. Até a próxima.

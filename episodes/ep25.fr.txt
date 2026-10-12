@@ -1,0 +1,117 @@
+SENA: On est mercredi, quatorze heures cinquante-deux. Je suis à mon bureau, et le nom du fichier sur mon écran est « pipeline final v treize, vraiment final ».
+DANIEL: Treize. Ce matin, c'était onze.
+SENA: En ce moment, je déplace une flèche sur la diapo quatre. De deux pixels vers la gauche. Puis de deux pixels vers la droite. Puis encore vers la gauche.
+DANIEL: Et le rendez-vous de quinze heures avec Kato-san ?
+SENA: Dans huit minutes. Kenta est passé derrière ma chaise à quatorze heures trente, a regardé l'écran et a dit : « C'est bien. Franchement, envoie. » Kenta ne dit jamais « franchement ». J'ai répondu : « Encore quelques petites choses. »
+DANIEL: Alors, qu'est-ce qu'il y a dans ta boîte de message ?
+SENA: Un brouillon pour Kato-san. « Je suis désolée, serait-il possible que j'envoie les diapos demain matin ? J'aimerais peaufiner quelques petites choses. » Mon curseur clignote après le mot « choses ».
+DANIEL: Garde ce curseur. À la fin de cet épisode, tu sauras décider de ce que veut dire « assez bien » pour une tâche, et l'envoyer avant l'échéance, pas après.
+SENA: Avant l'échéance. On dirait une autre personne.
+DANIEL: Bienvenue dans Human Curriculum. Je suis Daniel Reed, People Manager à Seattle.
+SENA: Et moi, Sena Sato, Associate à Tokyo. Ici, nous sommes jeudi, huit heures du matin. Ma présentation est à neuf heures.
+DANIEL: Et ici, mercredi, seize heures. La dernière fois, ton défi était d'écrire la première étape de demain en une ligne, puis de fermer l'ordinateur. Et tu m'as dit ta ligne. « Sept heures quarante, dans le train, lire la page un, puis dire ma première phrase deux fois. »
+SENA: Je l'ai écrite hier soir à sept heures. Un post-it rose, exactement ces mots. Je l'ai collé sur la coque de mon téléphone pour le voir dans le train. Puis j'ai fermé l'ordinateur.
+DANIEL: Comment as-tu vécu la fermeture ?
+SENA: Bizarre. Ma main est restée une seconde sur le couvercle. Puis je suis rentrée par un autre chemin et j'ai pris en photo un distributeur qui brillait dans une ruelle vide. Pas de Slack. Même quand mon téléphone a vibré à onze heures.
+DANIEL: Mark ?
+SENA: Probablement. Je ne sais toujours pas. Mais je me suis endormie avant minuit pour la première fois cette semaine.
+DANIEL: Et ce matin ?
+SENA: Sept heures quarante, dans le train, j'ai lu la page un, et j'ai dit ma première phrase deux fois, très doucement. « J'ai construit le pipeline, Ryo l'a testé, et la relecture de Kenta l'a amélioré. » Le post-it avait déjà décidé, donc je n'ai pas ouvert les diapos dans le train.
+DANIEL: C'est le post-it qui fait son travail. Maintenant, j'ai attendu une journée entière. Quinze heures. Pas finies, ou pas parfaites ?
+SENA: Pas parfaites. Je le sais maintenant. Mais hier, j'ai envoyé le brouillon.
+DANIEL: Le brouillon « demain matin ».
+SENA: Oui. Kato-san a répondu en une minute. « Envoie ce que tu as maintenant. Laura attend. » Alors j'ai envoyé la version treize à quinze heures vingt-cinq. Avec vingt-cinq minutes de retard. Avec un message. « Désolée, ce n'est pas encore fini. Les couleurs et quelques titres ne sont toujours pas bons. »
+DANIEL: Et ensuite ?
+SENA: Ce matin à six heures, Laura a répondu. « Merci, Sena. Clair et utile. La diapo cinq est exactement ce dont j'ai besoin. Mais ta note dit que ce n'est pas fini. Il manque quelque chose ? »
+DANIEL: Ah. Alors, qu'est-ce qui manquait ?
+SENA: Rien. C'est ça, le problème. Depuis mardi, j'ai changé la police, recolorié un graphique quatre fois, réécrit le titre de la diapo trois neuf fois et déplacé la flèche. Laura n'en a mentionné aucun. Elle a parlé de la diapo cinq, inchangée depuis mardi. Ryo a même lancé son script de vérification dessus deux fois.
+DANIEL: Donc la partie que les gens ont remarquée était faite mardi. Et tes excuses ont fait paraître un travail terminé comme inachevé.
+SENA: Dit comme ça, ça paraît bête. Mais dans ma tête, une petite erreur veut dire qu'ils vont penser que tout le pipeline est bâclé. Et la voix dit : « Tu vois ? Un tableur plus rapide. » Et je n'ai toujours pas répondu à Laura. J'ai trois brouillons.
+DANIEL: Cette peur a beaucoup été étudiée. En 2018, Dana Harari, Brian Swider, Laurens Steed et Amy Breidenthal ont publié une méta-analyse dans le Journal of Applied Psychology. Le titre est une question. « Is Perfect Good? »
+SENA: J'ai peur de la réponse.
+DANIEL: L'équipe de Harari a rassemblé environ quarante ans de recherches sur le perfectionnisme au travail, avec près de vingt-cinq mille personnes en âge de travailler. Les perfectionnistes étaient plus motivés, plus engagés et travaillaient plus d'heures.
+SENA: Jusque-là, ça a l'air bien.
+DANIEL: Voici la partie surprenante. Tout cet effort en plus ne s'est pas clairement traduit par de meilleures performances au travail. Les chercheurs ont qualifié le lien avec la performance d'« équivoque ». Mais le lien avec le stress, l'anxiété, l'épuisement professionnel et la dépression était constant. Les perfectionnistes avaient plus de tout cela.
+SENA: Plus d'heures, plus de stress, et pas clairement un meilleur travail.
+DANIEL: C'est la version courte. Ils ont aussi séparé le perfectionnisme en deux types. La recherche d'excellence, des exigences très élevées envers soi-même. Et l'évitement de l'échec, surtout la peur de faire une erreur. Le type évitement de l'échec semblait le plus coûteux.
+SENA: La flèche, c'est l'évitement de l'échec. Je ne rends pas le diaporama meilleur. Je me cache d'une erreur.
+DANIEL: C'est une façon très juste de le dire. Les précautions honnêtes : une méta-analyse comme celle-ci combine surtout des corrélations, donc elle ne peut pas prouver que le perfectionnisme cause le stress. Et « pas clair » veut aussi dire « pas clairement pire ». Les exigences élevées ne sont pas l'ennemi.
+SENA: D'accord. C'est quoi, la deuxième étude ?
+DANIEL: La deuxième porte sur l'origine de la pression. En 2019, Thomas Curran et Andrew Hill ont publié un article dans Psychological Bulletin. Ils ont examiné cent soixante-quatre échantillons, quarante et un mille six cent quarante et un étudiants aux États-Unis, au Canada et au Royaume-Uni, qui ont répondu au même questionnaire entre 1989 et 2016.
+SENA: Donc les mêmes questions, sur presque trente ans.
+DANIEL: Exactement. Les trois types de perfectionnisme ont augmenté. Dans le communiqué de presse des chercheurs, la plus forte hausse concernait ce qu'ils appellent le perfectionnisme prescrit socialement. Le sentiment que les autres attendent de toi que tu sois parfait. Il a augmenté d'environ trente-trois pour cent. Le fait d'être parfait pour soi-même a augmenté d'environ dix pour cent.
+SENA: « Les autres attendent de moi que je sois parfaite. » C'est tout mon mercredi.
+DANIEL: Vérifions. Qu'est-ce que Kato-san a vraiment demandé ?
+SENA: « Peux-tu m'envoyer tes diapos avant quinze heures aujourd'hui ? »
+DANIEL: Il a dit « parfait » ?
+SENA: Non. Et Laura a écrit « clair et utile ». Le côté parfait, je l'ai ajouté moi-même.
+DANIEL: C'est le schéma. L'attente semble venir de l'extérieur, mais une bonne partie est écrite à l'intérieur. Précautions : c'étaient des étudiants dans trois pays, et les raisons, comme les réseaux sociaux, sont l'interprétation des chercheurs, pas des faits testés.
+SENA: Des étudiants, trois pays, causes non prouvées. Compris.
+DANIEL: Bien. Maintenant, notre question habituelle. Pourquoi l'IA ne peut-elle pas faire ça ?
+SENA: L'IA pourrait corriger ma flèche en une seconde et faire cinquante versions de la diapo trois.
+DANIEL: Elle le pourrait. Est-ce que ça t'aide ?
+SENA: Non. Ça empire les choses. Avec l'IA, il y a toujours une version de plus. Elle ne se lasse jamais de peaufiner, donc elle ne me dit jamais d'arrêter.
+DANIEL: Alors, que reste-t-il pour toi ?
+SENA: Décider ce que veut dire « terminé ». L'IA ne sait pas que l'équipe de Mark est en train de décider quel segment passe en premier dans le lancement. Et elle ne peut pas se tenir devant l'équipe de Mark à neuf heures et assumer le diaporama.
+DANIEL: Exactement. L'IA peut rendre n'importe quoi plus soigné. Toi seule peux décider quand c'est assez bien pour la personne qui en a besoin. C'est du jugement, et il est à toi.
+SENA: Daniel, est-ce que tu es perfectionniste ?
+DANIEL: Je l'ai été, d'une façon qui a blessé quelqu'un. Il y a environ huit ans, ma première année comme manager, j'ai dû écrire des évaluations de performance. L'une d'elles était pour Simone, l'ingénieure la plus solide de mon équipe.
+SENA: La facile, alors.
+DANIEL: On pourrait le croire. Je voulais que son évaluation soit parfaite, parce qu'elle le méritait. Je l'ai réécrite onze fois. Les évaluations étaient dues un vendredi. J'ai repoussé la sienne d'une semaine, puis d'une autre. Tous les autres ont eu leur entretien d'évaluation. Pas Simone.
+SENA: Oh non. Je devine ce qu'elle a pensé.
+DANIEL: Quand je me suis enfin assis avec elle, l'évaluation était élogieuse. Elle l'a lue, et elle est restée silencieuse un moment. Puis elle a dit : « Daniel, j'ai passé deux semaines à croire que j'allais être renvoyée. »
+SENA: Deux semaines d'inquiétude. À cause d'une bonne évaluation.
+DANIEL: À cause d'une évaluation qui était prête le premier vendredi. Les onze versions n'étaient pas pour elle. Elles étaient pour moi, pour que je me sente en sécurité. Elle a payé mon évaluation parfaite avec deux semaines de peur.
+SENA: Qu'as-tu changé après ça ?
+DANIEL: Maintenant, je m'accorde un brouillon, une nuit et une correction, et j'envoie les évaluations un jour en avance. Personne n'attend en silence. Et ma femme dit que je fais pareil avec le curry.
+SENA: Avec le curry ?
+DANIEL: Dimanche dernier, j'ai continué à ajouter un peu plus de sel, un peu plus de roux, à goûter encore. À la fin, elle m'a pris la cuillère et a dit : « C'était bon il y a vingt minutes. »
+SENA: C'était bon il y a vingt minutes. Comme mon diaporama de mardi.
+DANIEL: Ha. Comme ton diaporama de mardi.
+SENA: Je peux parler du Japon ? Parce que la perfection est un peu une valeur ici.
+DANIEL: Je t'en prie.
+SENA: Dans beaucoup de lieux de travail japonais, une faute de frappe dans un document client est presque impolie. Les documents sont vérifiés par plusieurs personnes. Et on montre souvent à son chef une version déjà soignée.
+DANIEL: Donc la qualité est une forme de respect.
+SENA: Oui. Mais nous avons aussi une expression pour la nourriture. « Hara hachi bu. » Mange jusqu'à ce que tu sois rassasié à quatre-vingts pour cent. Tout le monde la connaît. Simplement, on ne l'utilise jamais pour les diapos.
+DANIEL: J'adore. Hara hachi bu pour les diapos.
+SENA: Et aux États-Unis ? J'entends souvent « mieux vaut fait que parfait ».
+DANIEL: Cette phrase est populaire dans la tech ici. Beaucoup d'équipes livrent tôt, reçoivent des retours et s'améliorent. Envoyer quelque chose de brut à temps respecte le temps des autres. Mais ce n'est pas « tout est permis ». Les chiffres faux comptent toujours beaucoup.
+SENA: Donc au Japon, la qualité montre du respect. Aux États-Unis, être à l'heure avec quelque chose d'assez bien montre du respect.
+DANIEL: En gros, même si chaque équipe est différente. Et le point commun est utile. Sois japonaise pour les parties qui doivent être justes. Sois américaine pour tout le reste.
+SENA: C'est quelle compétence d'EQ ?
+DANIEL: La gestion de soi. Voici quatre étapes. Un, définis « terminé ». Pour qui est-ce, et que doit-il décider ? Deux, sépare le travail. Qu'est-ce qui doit être juste, et qu'est-ce qui est seulement un plus ? Trois, fixe une heure d'arrêt avant l'échéance. Et quatre, envoie avec une ligne qui invite aux retours.
+SENA: Essayons maintenant, avec ma réponse à Laura. Étape un. C'est pour Laura, et elle a besoin de savoir une seule chose. Le diaporama est-il prêt pour neuf heures ?
+DANIEL: Étape deux ?
+SENA: Doit être juste : oui, c'est terminé, et les chiffres sont vérifiés. Un plus : expliquer les couleurs, la flèche, et m'excuser pour le message d'hier.
+DANIEL: Et le diaporama lui-même ? Une version quatorze est prévue avant neuf heures ?
+SENA: J'allais corriger le titre de la diapo trois en allant vers la salle de réunion. Bon. Doit être juste : la diapo cinq, un message principal, et Ryo et Kenta sur la diapo des remerciements. Tout était fait mardi. C'est mes quatre-vingts pour cent. C'était prêt il y a deux jours.
+DANIEL: Étape trois. L'heure d'arrêt ?
+SENA: Huit heures vingt. Quarante minutes avant la réunion. Étape quatre. Je supprime les trois brouillons. Nouveau message. « Bonjour Laura, il ne manque rien. C'est terminé, les chiffres sont vérifiés, et je suis ravie d'ajuster quoi que ce soit après la réunion d'aujourd'hui. »
+DANIEL: Pas d'excuses, un état clair et une porte ouverte. Et la flèche ?
+SENA: La flèche reste où elle est. Deux pixels vers la gauche. Envoyé. Huit heures onze.
+DANIEL: Neuf minutes avant ta propre heure d'arrêt.
+SENA: Mon cœur bat très vite, pour un seul e-mail.
+DANIEL: C'est normal. Passons au Speaking Lab. Trois phrases pour envoyer un travail qui est assez bien. Je dis chacune, et Sena répète. Auditeurs, mettez en pause et dites-les à voix haute avec elle.
+SENA: Prête.
+DANIEL: « Voici une première version, et je suis ravie de l'ajuster. »
+SENA: Voici une première version, et je suis ravie de l'ajuster.
+DANIEL: « Les chiffres sont vérifiés, et le design pourra être amélioré plus tard. »
+SENA: Les chiffres sont vérifiés, et le design pourra être amélioré plus tard.
+DANIEL: « Je l'envoie maintenant, pour que vous ayez le temps de le relire. »
+SENA: Je l'envoie maintenant, pour que vous ayez le temps de le relire.
+DANIEL: Bien. Maintenant, un résumé. En trente secondes environ, dis-moi les points principaux d'aujourd'hui avec tes propres mots.
+SENA: D'accord. Harari et son équipe ont trouvé que les perfectionnistes travaillent plus d'heures et ressentent plus de stress, mais que leur performance n'est pas clairement meilleure. Et Curran et Hill ont trouvé que, euh, le sentiment que les autres attendent de nous la perfection a augmenté. Mais souvent, c'est nous qui ajoutons cette pression. Donc je décide ce qui doit être juste, je fixe une heure d'arrêt, et j'envoie avant l'échéance. Hara hachi bu.
+DANIEL: Parfait. Ou plutôt, assez bien. Auditeurs, à vous. En quarante secondes, répondez à ceci. Quelle tâche continuez-vous à peaufiner, et à quoi ressemblerait « assez bien » pour elle ? Mettez l'audio en pause et parlez.
+SENA: Pour moi, ce sont les e-mails. Je les relis cinq fois. Deux fois suffiraient.
+DANIEL: Le défi du jour : choisis une tâche aujourd'hui et décide de la livrer à quatre-vingts pour cent. Avant de commencer, écris ce qui doit être juste, et envoie-la avant l'échéance, pas à la dernière minute.
+SENA: Je viens de faire le mien. Le prochain, c'est mon e-mail de suivi après la réunion. Deux relectures et j'envoie.
+DANIEL: Deux relectures et on envoie. La prochaine fois, épisode vingt-six, « Self-Compassion at Work ». Ce qu'il faut se dire un jour où quelque chose tourne mal.
+SENA: J'espère que ce ne sera pas aujourd'hui.
+DANIEL: Ton téléphone vient de s'allumer.
+SENA: C'est Mark. « À neuf heures ! Laura a adoré le diaporama. » Un émoji qui applaudit. Et puis un deuxième message. « Petite info, elle a ajouté dix minutes de questions à la fin. Elle veut entendre parler de la région trois. »
+DANIEL: La région trois.
+SENA: Daniel, la région trois n'est pas du tout dans mon diaporama. Elle passe dans le tableau standard, et la première version de Wendell n'est arrivée qu'hier.
+DANIEL: Et tu ne fais pas de version quatorze.
+SENA: Non. Un post-it. « Région trois : ce que je sais, ce que je ne sais pas encore, et quand les chiffres de Wendell seront prêts. » Et ensuite je marche vers la salle de réunion.
+DANIEL: Alors c'est par là que nous commencerons la prochaine fois. Merci d'avoir écouté Human Curriculum. Je suis Daniel.
+SENA: Et moi, Sena. Décidez ce qui doit être juste, fixez une heure d'arrêt, et envoyez avant l'échéance. À la prochaine.

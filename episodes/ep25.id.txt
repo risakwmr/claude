@@ -1,0 +1,117 @@
+SENA: Hari Rabu, jam dua lima puluh dua siang. Aku di mejaku, dan nama file di layarku adalah "pipeline final v tiga belas, benar-benar final".
+DANIEL: Tiga belas. Tadi pagi masih sebelas.
+SENA: Saat ini aku sedang menggeser satu panah di slide empat. Dua piksel ke kiri. Lalu dua piksel kembali ke kanan. Lalu kiri lagi.
+DANIEL: Dan jam tiga dari Kato-san?
+SENA: Delapan menit lagi. Kenta lewat di belakang kursiku jam dua tiga puluh, melihat layar, dan bilang, "Sudah bagus. Sungguh, kirim saja." Kenta tidak pernah bilang "sungguh". Aku bilang, "Tinggal beberapa hal lagi."
+DANIEL: Jadi apa isi kotak pesanmu?
+SENA: Draf untuk Kato-san. "Maaf, apakah boleh kalau slide-nya saya kirim besok pagi? Saya ingin merapikan beberapa hal kecil." Kursorku berkedip setelah kata "kecil."
+DANIEL: Tahan kursor itu. Di akhir episode ini, kamu akan bisa memutuskan apa arti "cukup baik" untuk satu tugas, dan mengirimkannya sebelum tenggat, bukan sesudahnya.
+SENA: Sebelum tenggat. Kedengarannya seperti orang yang berbeda.
+DANIEL: Selamat datang kembali di Human Curriculum. Saya Daniel Reed, People Manager di Seattle.
+SENA: Dan aku Sena Sato, Associate di Tokyo. Di sini hari Kamis, jam delapan pagi. Presentasiku jam sembilan.
+DANIEL: Dan di sini hari Rabu, jam empat sore. Terakhir kali, tantanganmu adalah menulis langkah pertama besok dalam satu baris, lalu menutup laptop. Dan kamu menceritakan barismu. "Jam tujuh empat puluh, di kereta, baca halaman satu, lalu ucapkan kalimat pertamaku dua kali."
+SENA: Kutulis semalam jam tujuh. Sticky note merah muda, persis dengan kata-kata itu. Kutempel di casing ponselku supaya terlihat di kereta. Lalu aku menutup laptop.
+DANIEL: Bagaimana rasanya menutupnya?
+SENA: Aneh. Tanganku diam di atas penutupnya sesaat. Lalu aku pulang lewat jalan lain dan memotret mesin penjual otomatis yang menyala di gang kosong. Tanpa Slack. Bahkan saat ponselku bergetar jam sebelas.
+DANIEL: Mark?
+SENA: Mungkin. Aku masih belum tahu. Tapi aku tertidur sebelum tengah malam untuk pertama kalinya minggu ini.
+DANIEL: Dan tadi pagi?
+SENA: Jam tujuh empat puluh, di kereta, aku membaca halaman satu, dan mengucapkan kalimat pertamaku dua kali, pelan sekali. "Saya membangun pipeline-nya, Ryo mengujinya, dan review dari Kenta membuatnya lebih baik." Catatannya sudah memutuskan, jadi aku tidak membuka slide di kereta.
+DANIEL: Itu catatannya yang bekerja. Nah, aku sudah menunggu sehari penuh. Jam tiga. Belum selesai, atau belum sempurna?
+SENA: Belum sempurna. Sekarang aku tahu itu. Tapi kemarin, aku mengirim drafnya.
+DANIEL: Draf "besok pagi" itu.
+SENA: Ya. Kato-san menjawab dalam satu menit. "Tolong kirim yang sudah ada sekarang. Laura sedang menunggu." Jadi aku mengirim versi tiga belas jam tiga dua puluh lima. Terlambat dua puluh lima menit. Dengan sebuah pesan. "Maaf, belum selesai. Warna dan beberapa judul masih belum pas."
+DANIEL: Lalu?
+SENA: Tadi pagi jam enam, Laura membalas. "Terima kasih, Sena. Jelas dan berguna. Slide lima persis yang saya butuhkan. Tapi catatanmu bilang belum selesai. Apakah ada yang kurang?"
+DANIEL: Ah. Jadi apa yang kurang?
+SENA: Tidak ada. Itulah masalahnya. Sejak Selasa aku mengganti font, mewarnai ulang satu grafik empat kali, menulis ulang judul slide tiga sembilan kali, dan menggeser panah. Laura tidak menyebut satu pun. Dia bicara soal slide lima, yang tidak berubah sejak Selasa. Ryo bahkan menjalankan skrip pengecekannya dua kali di situ.
+DANIEL: Jadi bagian yang orang perhatikan sudah selesai di hari Selasa. Dan permintaan maafmu membuat pekerjaan yang selesai terlihat belum selesai.
+SENA: Kalau kamu bilang begitu, kedengarannya konyol. Tapi di kepalaku, satu kesalahan kecil berarti mereka akan mengira seluruh pipeline-nya ceroboh. Dan suara itu bilang, "Tuh kan? Cuma spreadsheet yang lebih cepat." Dan aku masih belum membalas Laura. Aku punya tiga draf.
+DANIEL: Ketakutan itu sudah banyak diteliti. Tahun 2018, Dana Harari, Brian Swider, Laurens Steed, dan Amy Breidenthal menerbitkan meta-analisis di Journal of Applied Psychology. Judulnya sebuah pertanyaan. "Is Perfect Good?"
+SENA: Aku takut dengan jawabannya.
+DANIEL: Tim Harari menggabungkan sekitar empat dekade penelitian tentang perfeksionisme di tempat kerja, dengan hampir dua puluh lima ribu orang usia kerja. Para perfeksionis lebih termotivasi, lebih terlibat, dan bekerja lebih banyak jam.
+SENA: Sejauh ini kedengarannya bagus.
+DANIEL: Ini bagian yang mengejutkan. Semua usaha ekstra itu tidak jelas berubah menjadi kinerja kerja yang lebih baik. Para peneliti menyebut hubungannya dengan kinerja "equivocal", tidak jelas. Tapi hubungannya dengan stres, kecemasan, burnout, dan depresi konsisten. Para perfeksionis mengalami semuanya lebih banyak.
+SENA: Lebih banyak jam, lebih banyak stres, dan hasil kerja yang tidak jelas lebih baik.
+DANIEL: Itu versi singkatnya. Mereka juga membagi perfeksionisme menjadi dua jenis. Pencari keunggulan, standar yang sangat tinggi untuk dirimu sendiri. Dan penghindar kegagalan, terutama takut membuat kesalahan. Jenis penghindar kegagalan tampak paling merugikan.
+SENA: Panah itu penghindar kegagalan. Aku tidak membuat deck-nya lebih baik. Aku bersembunyi dari sebuah kesalahan.
+DANIEL: Cara bicara yang tajam. Peringatan jujurnya: meta-analisis seperti ini kebanyakan menggabungkan korelasi, jadi tidak bisa membuktikan bahwa perfeksionisme menyebabkan stres itu. Dan "tidak jelas" juga berarti tidak jelas lebih buruk. Standar tinggi bukan musuhnya.
+SENA: Oke. Apa studi keduanya?
+DANIEL: Yang kedua tentang dari mana tekanan itu datang. Tahun 2019, Thomas Curran dan Andrew Hill menerbitkan makalah di Psychological Bulletin. Mereka meneliti seratus enam puluh empat sampel, empat puluh satu ribu enam ratus empat puluh satu mahasiswa di AS, Kanada, dan Inggris, yang menjawab kuesioner yang sama antara tahun 1989 dan 2016.
+SENA: Jadi pertanyaan yang sama, selama hampir tiga puluh tahun.
+DANIEL: Benar. Ketiga jenis perfeksionisme naik. Dalam siaran pers para peneliti, kenaikan terbesar adalah yang mereka sebut perfeksionisme yang ditentukan secara sosial. Perasaan bahwa orang lain mengharapkanmu sempurna. Naik sekitar tiga puluh tiga persen. Menjadi sempurna untuk diri sendiri naik sekitar sepuluh persen.
+SENA: "Orang lain mengharapkanku sempurna." Itu seluruh hari Rabu-ku.
+DANIEL: Coba kuperiksa. Sebenarnya apa yang diminta Kato-san?
+SENA: "Bisa kirim slide-mu ke aku sebelum jam tiga hari ini?"
+DANIEL: Apakah dia bilang "sempurna"?
+SENA: Tidak. Dan Laura menulis "jelas dan berguna". Bagian sempurnanya, aku tambahkan sendiri.
+DANIEL: Itulah polanya. Harapan itu terasa datang dari luar, tapi sebagian besarnya tertulis di dalam. Peringatan: mereka mahasiswa di tiga negara, dan alasannya, seperti media sosial, adalah tafsiran para peneliti, bukan hasil pengujian.
+SENA: Mahasiswa, tiga negara, penyebabnya belum terbukti. Paham.
+DANIEL: Bagus. Sekarang, pertanyaan kita yang biasa. Kenapa AI tidak bisa melakukan ini?
+SENA: AI bisa memperbaiki panahku dalam satu detik, dan membuat lima puluh versi slide tiga.
+DANIEL: Bisa. Apakah itu membantumu?
+SENA: Tidak. Malah memperburuk. Dengan AI, selalu ada satu versi lagi. Dia tidak pernah bosan memoles, jadi dia tidak pernah menyuruhku berhenti.
+DANIEL: Jadi apa yang tersisa untukmu?
+SENA: Memutuskan apa arti "selesai". AI tidak tahu bahwa tim Mark sedang memutuskan segmen mana yang didahulukan dalam peluncuran. Dan dia tidak bisa berdiri di depan tim Mark jam sembilan dan bertanggung jawab atas deck-nya.
+DANIEL: Tepat. AI bisa membuat apa pun lebih rapi. Hanya kamu yang bisa memutuskan kapan itu cukup baik untuk orang yang membutuhkannya. Itu penilaian, dan itu milikmu.
+SENA: Daniel, apakah kamu seorang perfeksionis?
+DANIEL: Dulu, dengan cara yang melukai seseorang. Sekitar delapan tahun lalu, di tahun pertamaku sebagai manajer, aku harus menulis evaluasi kinerja. Salah satunya untuk Simone, engineer terkuat di timku.
+SENA: Berarti yang mudah.
+DANIEL: Kamu pasti mengira begitu. Aku ingin evaluasinya sempurna, karena dia layak mendapatkannya. Aku menulis ulang sebelas kali. Evaluasi jatuh tempo hari Jumat. Aku menggesernya seminggu, lalu seminggu lagi. Semua orang lain sudah punya percakapan evaluasi. Simone belum.
+SENA: Aduh. Aku bisa menebak apa yang dia pikirkan.
+DANIEL: Saat akhirnya aku duduk bersamanya, evaluasinya sangat memuji. Dia membacanya, dan diam sejenak. Lalu dia bilang, "Daniel, selama dua minggu aku mengira aku akan dipecat."
+SENA: Dua minggu cemas. Dari evaluasi yang bagus.
+DANIEL: Dari evaluasi yang sudah siap di Jumat pertama. Sebelas versi itu bukan untuknya. Itu untukku, supaya aku merasa aman. Dia membayar evaluasi sempurnaku dengan dua minggu ketakutan.
+SENA: Apa yang kamu ubah setelah itu?
+DANIEL: Sekarang aku memberi diriku satu draf, satu malam, dan satu perbaikan, dan aku mengirim evaluasi sehari lebih awal. Tidak ada yang menunggu dalam diam. Dan istriku bilang aku melakukan hal yang sama dengan kari.
+SENA: Dengan kari?
+DANIEL: Minggu lalu aku terus menambah sedikit garam, sedikit roux, mencicipi lagi. Akhirnya dia mengambil sendoknya dan bilang, "Dua puluh menit lalu sudah enak."
+SENA: Dua puluh menit lalu sudah enak. Seperti deck-ku hari Selasa.
+DANIEL: Ha. Seperti deck-mu hari Selasa.
+SENA: Boleh aku bicara soal Jepang? Karena kesempurnaan agak menjadi nilai di sini.
+DANIEL: Silakan.
+SENA: Di banyak tempat kerja di Jepang, salah ketik di dokumen klien terasa hampir tidak sopan. Dokumen diperiksa beberapa orang. Dan kamu sering menunjukkan ke atasan versi yang sudah dipoles.
+DANIEL: Jadi kualitas adalah semacam penghormatan.
+SENA: Ya. Tapi kami juga punya ungkapan untuk makanan. "Hara hachi bu." Makanlah sampai kenyang delapan puluh persen. Semua orang tahu. Kami saja yang tidak pernah memakainya untuk slide.
+DANIEL: Aku suka itu. Hara hachi bu untuk slide.
+SENA: Bagaimana dengan AS? Aku sering mendengar "selesai lebih baik daripada sempurna".
+DANIEL: Ungkapan itu populer di dunia teknologi sini. Banyak tim merilis lebih awal, mendapat masukan, lalu memperbaiki. Mengirim sesuatu yang masih kasar tepat waktu menghargai waktu orang lain. Tapi bukan berarti "asal-asalan". Angka yang salah tetap sangat berarti.
+SENA: Jadi di Jepang, kualitas menunjukkan rasa hormat. Di AS, tepat waktu dengan sesuatu yang cukup baik menunjukkan rasa hormat.
+DANIEL: Kurang lebih, meski setiap tim berbeda. Dan irisannya berguna. Jadilah orang Jepang untuk bagian yang harus benar. Jadilah orang Amerika untuk yang lainnya.
+SENA: Ini keterampilan EQ yang mana?
+DANIEL: Manajemen diri. Ini empat langkahnya. Satu, tentukan selesai. Untuk siapa, dan apa yang perlu mereka putuskan? Dua, bagi pekerjaannya. Apa yang harus benar, dan apa yang hanya bagus kalau ada? Tiga, tetapkan waktu berhenti sebelum tenggat. Dan empat, kirim dengan satu baris yang mengundang masukan.
+SENA: Aku coba sekarang, dengan balasanku ke Laura. Langkah satu. Untuk Laura, dan dia perlu tahu satu hal. Apakah deck-nya siap untuk jam sembilan?
+DANIEL: Langkah dua?
+SENA: Harus benar: ya, sudah selesai, dan angkanya sudah diperiksa. Bagus kalau ada: menjelaskan warna, panah, dan minta maaf untuk pesan kemarin.
+DANIEL: Dan deck-nya sendiri? Apakah ada versi empat belas yang direncanakan sebelum jam sembilan?
+SENA: Aku tadinya mau memperbaiki judul slide tiga di jalan ke ruang rapat. Oke. Harus benar: slide lima, satu pesan utama, dan Ryo serta Kenta di slide kredit. Semuanya selesai hari Selasa. Itulah delapan puluh persenku. Sudah siap dua hari lalu.
+DANIEL: Langkah tiga. Waktu berhenti?
+SENA: Jam delapan dua puluh. Empat puluh menit sebelum rapat. Langkah empat. Aku menghapus ketiga draf. Pesan baru. "Hai Laura, tidak ada yang kurang. Sudah selesai, angkanya sudah diperiksa, dan saya senang menyesuaikan apa pun setelah rapat hari ini."
+DANIEL: Tanpa permintaan maaf, status yang jelas, dan pintu yang terbuka. Dan panahnya?
+SENA: Panahnya tetap di tempatnya. Dua piksel ke kiri. Terkirim. Jam delapan sebelas.
+DANIEL: Sembilan menit sebelum waktu berhentimu sendiri.
+SENA: Jantungku berdebar kencang sekali, hanya untuk satu email.
+DANIEL: Itu normal. Sekarang, Speaking Lab. Tiga kalimat untuk mengirim pekerjaan yang cukup baik. Aku ucapkan masing-masing, dan Sena mengulang. Kamu yang mendengarkan, jeda dan ucapkan juga dengan suara keras bersamanya.
+SENA: Siap.
+DANIEL: "Ini versi pertama, dan saya senang menyesuaikannya."
+SENA: Ini versi pertama, dan saya senang menyesuaikannya.
+DANIEL: "Angkanya sudah diperiksa, dan desainnya bisa diperbaiki nanti."
+SENA: Angkanya sudah diperiksa, dan desainnya bisa diperbaiki nanti.
+DANIEL: "Saya kirim sekarang, supaya Anda punya waktu untuk mengulasnya."
+SENA: Saya kirim sekarang, supaya Anda punya waktu untuk mengulasnya.
+DANIEL: Bagus. Sekarang, menceritakan ulang. Dalam sekitar tiga puluh detik, ceritakan poin utama hari ini dengan kata-katamu sendiri.
+SENA: Oke. Harari dan timnya menemukan bahwa para perfeksionis bekerja lebih banyak jam dan merasa lebih stres, tapi kinerja mereka tidak jelas lebih baik. Dan Curran dan Hill menemukan bahwa, eh, perasaan bahwa orang lain mengharapkan kita sempurna makin besar. Tapi sering kali kita sendiri yang menambah tekanan itu. Jadi aku memutuskan apa yang harus benar, menetapkan waktu berhenti, dan mengirimnya sebelum tenggat. Hara hachi bu.
+DANIEL: Sempurna. Atau lebih tepatnya, cukup baik. Sekarang giliranmu. Dalam empat puluh detik, jawab ini: tugas apa yang terus kamu poles, dan seperti apa cukup baik untuk tugas itu? Jeda audionya dan bicaralah.
+SENA: Punyaku email. Aku membacanya lima kali. Dua kali sudah cukup.
+DANIEL: Tantangan hari ini: pilih satu tugas hari ini dan putuskan untuk mengirimnya di delapan puluh persen. Sebelum mulai, tulis apa yang harus benar, dan kirim sebelum tenggat, bukan di menit terakhir.
+SENA: Aku baru saja melakukannya. Berikutnya email tindak lanjut setelah rapat. Baca dua kali dan kirim.
+DANIEL: Baca dua kali dan kirim. Episode berikutnya, episode dua puluh enam, "Self-Compassion at Work", bersikap baik pada diri sendiri di tempat kerja. Apa yang harus kamu katakan ke dirimu sendiri di hari ketika ada yang salah.
+SENA: Semoga bukan hari ini.
+DANIEL: Ponselmu baru saja menyala.
+SENA: Dari Mark. "Sampai ketemu jam sembilan! Laura suka deck-nya." Emoji tepuk tangan. Lalu pesan kedua. "Info ya, dia menambah sepuluh menit untuk tanya jawab di akhir. Dia ingin mendengar soal region tiga."
+DANIEL: Region tiga.
+SENA: Daniel, region tiga sama sekali tidak ada di deck-ku. Itu sedang dipindah ke tabel standar, dan versi pertama Wendell baru datang kemarin.
+DANIEL: Dan kamu tidak membuat versi empat belas.
+SENA: Tidak. Satu sticky note. "Region tiga: apa yang aku tahu, apa yang belum aku tahu, dan kapan angka Wendell siap." Lalu aku berjalan ke ruang rapat.
+DANIEL: Kalau begitu di situlah kita mulai lain kali. Terima kasih sudah mendengarkan Human Curriculum. Saya Daniel.
+SENA: Dan aku Sena. Tentukan apa yang harus benar, tetapkan waktu berhenti, dan kirim sebelum tenggat. Sampai jumpa lagi.

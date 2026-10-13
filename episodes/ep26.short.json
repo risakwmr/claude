@@ -1,0 +1,8 @@
+{
+  "shorts": [
+    {"kind": "highlight", "lines": [36, 39], "hook": "Three kind sentences after failing made students study 50% longer.", "title": "Does being kind to yourself make you lazy?"},
+    {"kind": "ai", "lines": [51, 54], "hook": "AI can replay your worst moment perfectly. That's the problem.", "title": "AI can replay your mistake. Only you can be kind to yourself"},
+    {"kind": "story", "lines": [58, 64], "hook": "I called myself an idiot for months. My team was listening.", "title": "How you talk about your mistakes becomes your team's rule"},
+    {"kind": "culture", "lines": [69, 74], "hook": "\"Be strict with yourself, kind to others.\" Is that the problem?", "title": "Self-compassion at work: Japan vs the US"}
+  ]
+}

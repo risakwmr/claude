@@ -1553,6 +1553,116 @@
       ],
       "thumb_cup": "Ship it at 80%",
       "thumb_pose": "sena_breathe"
+    },
+    {
+      "number": 26,
+      "script": "ep26.txt",
+      "title": "Self-Compassion at Work",
+      "short_title": "Self-Compassion at Work",
+      "summary": "Sena's ten-minute presentation to Mark's team went well (\"This is exactly what we needed\"), but in the Q&A she froze for seven seconds on one English sentence and said \"two weeks\" when Wendell's region three numbers need three, and Wendell corrected her in the chat. That night she replays the recording again and again, until Daniel asks what she would tell her friend Misaki after the same meeting. He shares Breines and Chen's experiments, where students who read three self-compassionate sentences after failing a test studied about 50% longer, and Grossmann and Kross's \"Solomon's paradox,\" where people reasoned more wisely about a friend's problem than their own until they used their own name. Daniel tells how joking about his own mistake for months taught his team that mistakes follow you, and they compare Japan's \"be strict with yourself, kind to others\" with the American \"give yourself some grace.\" Today's challenge: on a day something goes wrong, write yourself the same words you'd write to a friend.",
+      "practice": "On a day something goes wrong, write yourself the same words you'd write to a friend: three sentences, using your own name. The facts, said kindly; who else has been there; and one next step.",
+      "sources": [
+        "Breines & Chen (2012), Self-Compassion Increases Self-Improvement Motivation, Personality and Social Psychology Bulletin",
+        "Grossmann & Kross (2014), Exploring Solomon's Paradox: Self-Distancing Eliminates the Self-Other Asymmetry in Wise Reasoning About Close Relationships in Younger and Older Adults, Psychological Science",
+        "Neff (2003), Self-Compassion: An Alternative Conceptualization of a Healthy Attitude Toward Oneself, Self and Identity"
+      ],
+      "tags": [
+        "EQ",
+        "emotional intelligence",
+        "self-compassion",
+        "mistakes at work",
+        "self-talk",
+        "self-awareness",
+        "career",
+        "leadership",
+        "program manager",
+        "audiobook",
+        "English learning",
+        "English speaking"
+      ],
+      "yt_title": "Self-Compassion at Work: Talk to Yourself Like a Friend",
+      "hook": "The presentation went well, but you froze for seven seconds in the Q&A, and now you're replaying it at night.\nLearn to write yourself three kind, honest sentences after a mistake, the way you'd write to a friend.",
+      "points": [
+        "Three self-compassionate sentences after a failed test led to about 50% more study time (Breines & Chen)",
+        "\"Solomon's paradox\": we reason more wisely about a friend's problem than our own (Grossmann & Kross)",
+        "Daniel's joke about his own mistake, and what his team learned from it",
+        "\"Be strict with yourself, kind to others\" in Japan vs \"give yourself some grace\" in the US"
+      ],
+      "title_ja": "失敗した日、自分に友だちのように話しかける",
+      "hook_ja": "発表はうまくいったのに、質疑で7秒固まった。その録画を、夜に何度も再生してしまう…そんな日はありませんか？\n友だちにかけるのと同じ言葉を、自分に3つの文で書く方法を英語で学ぼう🎧（日本語字幕あり）",
+      "points_ja": [
+        "やさしい3文を読んだ学生は、約50%長く勉強した",
+        "人は友だちの悩みのほうが賢く考えられる「ソロモンのパラドックス」",
+        "自分のミスを冗談にし続けたダニエルに、部下が言った一言",
+        "「自分に厳しく、人にやさしく」と「自分に寛大に」"
+      ],
+      "summary_ja": "マークさんのチームへの10分の発表は「これこそ必要だったもの」と言われるほど好評。でも質疑で英語の一文が出てこず7秒固まり、地域3の数字を「2週間」と言ってウェンデルさんにチャットで訂正されたセナは、夜になっても録画を再生し続けます。失敗したテストのあとにセルフ・コンパッションの3文を読んだ学生のほうが長く勉強したというブラインズとチェンの実験と、人は自分より友だちの問題を賢く考えられるという、グロスマンとクロスの「ソロモンのパラドックス」を紹介。自分のミスを何か月も冗談にしてチームに「ミスはついて回る」と教えてしまったダニエルの失敗談、日本の「自分に厳しく、人にやさしく」とアメリカの「自分に寛大に」の比較も。",
+      "practice_ja": "何かがうまくいかなかった日に、友だちに書くのと同じ言葉を、自分の名前を使って3つの文で自分に書く（事実をやさしく・同じ経験をした人・次の一歩）。",
+      "thumb_accent": "Friend",
+      "thumb_sub": "Talk to Yourself Like a Friend",
+      "thumb_notes": [
+        "7 seconds",
+        "Facts, kindly",
+        "Who else?",
+        "One next step"
+      ],
+      "thumb_cup": "Write it like a friend",
+      "thumb_pose": "sena_write"
+    },
+    {
+      "number": 27,
+      "script": "ep27.txt",
+      "title": "Reading Emotions on a Video Call",
+      "short_title": "Reading Emotions on a Video Call",
+      "summary": "On Friday morning in Tokyo, Sena joins her first weekly video sync with Mark's team, and when Mark jokes \"Let's not let that become four!\" about the region three timeline, Wendell goes still, answers \"Yep\" and \"It's in the doc,\" and turns his camera off. Daniel shares Eyal, Steffel and Epley's 25 experiments, where imagining another person's perspective didn't make people more accurate but asking did, and Kraus's finding that people read emotions slightly better from the voice alone than from voice and face together. He tells the story of Nadia, who smiled on every call until she asked for a transfer, and they compare Japan's \"reading the air\" and silent canned coffee with the American habit of asking out loud. Today's challenge: notice one person whose energy changes in a meeting, then send them a short private message afterward.",
+      "practice": "In one meeting today, notice one person whose energy changes compared with their usual self (listen to their voice, not just their face). Afterward, send them a short private message: thank them for something specific, say what you noticed from your side, and ask one open question instead of guessing.",
+      "sources": [
+        "Eyal, Steffel & Epley (2018), Perspective Mistaking: Accurately Understanding the Mind of Another Requires Getting Perspective, Not Taking Perspective, Journal of Personality and Social Psychology",
+        "Kraus (2017), Voice-Only Communication Enhances Empathic Accuracy, American Psychologist"
+      ],
+      "tags": [
+        "EQ",
+        "emotional intelligence",
+        "social awareness",
+        "empathy",
+        "video calls",
+        "remote work",
+        "reading emotions",
+        "career",
+        "leadership",
+        "program manager",
+        "audiobook",
+        "English learning",
+        "English speaking"
+      ],
+      "yt_title": "How to Read Emotions on a Video Call (and What to Say After)",
+      "hook": "A coworker goes quiet and turns off their camera right after a joke in the meeting. Are they angry with you, or is it something else?\nLearn how to notice a change in someone on a call, listen to their voice, and send one short message that asks instead of guessing.",
+      "points": [
+        "In 25 experiments, imagining someone's perspective didn't make people more accurate, but asking did (Eyal, Steffel & Epley)",
+        "People read emotions slightly better from the voice alone than from voice and face (Kraus)",
+        "Daniel's analyst who smiled on every call, and what she was waiting for",
+        "Japan's \"reading the air\" and silent canned coffee vs asking \"Everything okay?\" in the US"
+      ],
+      "title_ja": "ビデオ会議で相手の気持ちを読み取るには",
+      "hook_ja": "冗談のあと、急に「はい」しか言わなくなって、カメラをオフにした同僚。…怒らせたのは私？それとも別の理由？ビデオ会議で、こんなふうに気になったことはありませんか？\n顔より声の変化に気づき、推測せずに「一言」送る方法を英語で学ぼう🎧（日本語字幕あり）",
+      "points_ja": [
+        "相手の立場で想像しても当たらない？25の実験の結論",
+        "顔が見えるより「声だけ」のほうが感情を読める？",
+        "いつも笑顔だった部下が、異動を申し出た理由",
+        "日本の「空気を読む」と缶コーヒー、アメリカの「大丈夫？」"
+      ],
+      "summary_ja": "金曜の朝、マークさんのチームのビデオ定例に初めて参加したセナ。マークさんの冗談のあと、ウェンデルさんは急に口数が減り、カメラをオフにします。相手の立場に立って想像しても感情を読む正確さは上がらず、直接聞くと上がったというエヤルたちの25の実験と、声と顔の両方より声だけのほうが少し正確に感情を読み取れたというクラウスの研究を紹介します。どの会議でも笑顔だった部下の本当の状態に気づけなかったダニエルの失敗談、「空気を読む」日本と口に出して聞くアメリカの比較も。",
+      "practice_ja": "今日の会議で、いつもと様子が変わった人を1人見つける。会議のあと、具体的なお礼と、自分の側から気づいたこと、開かれた質問を1つ入れた短い個人メッセージを送る。",
+      "thumb_accent": "Ask",
+      "thumb_sub": "Notice the Change, Then Ask",
+      "thumb_notes": [
+        "Getting, not taking",
+        "Listen to the voice",
+        "\"It won't.\" Low, flat",
+        "Kuuki wo yomu"
+      ],
+      "thumb_cup": "Notice, then ask",
+      "thumb_pose": "sena_phone"
     }
   ]
 }

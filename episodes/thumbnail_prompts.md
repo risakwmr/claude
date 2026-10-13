@@ -104,3 +104,53 @@ Use a substantially different body orientation and camera angle from recent epis
 Text, left side, large navy serif: "Perfectionism vs. Good Enough". Below in navy serif with "Enough" in coral italic: "Know When It's Good Enough". Top left small: "The Human Curriculum". Coral label: "EPISODE 25".
 Small details: handwritten notes "v13, really final", "Must be right", "Stop time 8:20"; a pink sticky note "Ship it at 80%"; three stacked books with spines "Harari et al.", "Curran & Hill", "Human Curriculum".
 ```
+
+## EP26｜Self-Compassion at Work
+
+```
+16:9 YouTube thumbnail, soft watercolor anime illustration, warm natural light, editorial collage style on cream textured paper with torn edges and coral and blue brush strokes.
+Character (keep identical in every episode): Sena, a young Japanese woman, long wavy light-brown hair, sunglasses perched on her head, small gold hoop earrings, oversized soft pink knit sweater, cream wide-leg trousers.
+Scene: a quiet Tokyo side street at night, lit warmly by a tall shop window; a three-quarter view from her front-left, camera low near knee height looking slightly up, wide-angle. Sena is stepping OUT of a giant looping strip of film that curls around her like a ribbon (each frame shows a tiny version of her frozen at a microphone, with "7 sec" stamped on it); one foot is already on the pavement outside the loop. With her body turning toward the shop window, she rises on tiptoe and presses an oversized pink letter-shaped note onto the glass, where her own reflection reaches back from the other side to take it, the reflection smiling gently. The film strip behind her starts to loosen and fall away. Her hair swings with the turn; her face is tired but softening into a small, kind smile. Visual metaphor: stepping out of the replay loop and handing herself the words she would give a friend.
+IMPORTANT: DO NOT default to a desk, laptop, coffee cup, notebook, or seated office scene.
+The protagonist must be physically active or visually interacting with the environment.
+Prioritize strong physical storytelling: walking, running, climbing stairs, opening a door, crossing a bridge, looking through a window, carrying objects, reaching, turning, balancing, following a route, standing in a large environment, interacting with oversized conceptual objects, talking while walking, or moving through a public space.
+The Mac/laptop should NOT be the main visual focus. A laptop may appear only as a secondary environmental detail when necessary.
+Avoid repetitive:
+- sitting at a desk
+- typing on a laptop
+- writing in a notebook
+- holding a coffee cup
+- video-call composition
+- pointing at text
+Every episode should communicate the concept through BODY MOVEMENT + ENVIRONMENT + VISUAL METAPHOR.
+The viewer should understand what the character is DOING, not simply what she is LOOKING AT.
+Make the pose dynamic, natural, and editorial rather than static, posed, or like a corporate illustration.
+Use a substantially different body orientation and camera angle from recent episodes.
+Text, left side, large navy serif: "Self-Compassion at Work". Below in navy serif with "Friend" in coral italic: "Talk to Yourself Like a Friend". Top left small: "The Human Curriculum". Coral label: "EPISODE 26".
+Small details: handwritten notes "Facts, kindly", "Who else?", "One next step"; a pink sticky note "Write it like a friend"; three stacked books with spines "Breines & Chen", "Grossmann & Kross", "Neff".
+```
+
+## EP27｜Reading Emotions on a Video Call
+
+```
+16:9 YouTube thumbnail, soft watercolor anime illustration, warm natural light, editorial collage style on cream textured paper with torn edges and coral and blue brush strokes.
+Character (keep identical in every episode): Sena, a young Japanese woman, long wavy light-brown hair, sunglasses perched on her head, small gold hoop earrings, oversized soft pink knit sweater, cream wide-leg trousers.
+Scene: a tall, quiet glass atrium in soft morning light; one wall is a towering grid of window-like square panels, like a building facade, eight of them glowing warm with small friendly silhouettes inside, and one panel near the floor dark and still. Camera high above, looking steeply down from overhead (bird's-eye view, slightly from behind her right shoulder): Sena drops down onto one knee in front of the dark panel, her body turned toward it, one hand cupped behind her ear as she leans in to listen, the other hand sliding a small folded paper note and a tiny canned coffee to the panel's edge. Soft blue brush-stroke sound waves drift out of the dark panel toward her ear, while the bright panels above stay silent. Her hair swings forward with the movement; her expression is gentle and attentive, not worried.
+IMPORTANT: DO NOT default to a desk, laptop, coffee cup, notebook, or seated office scene.
+The protagonist must be physically active or visually interacting with the environment.
+Prioritize strong physical storytelling: walking, running, climbing stairs, opening a door, crossing a bridge, looking through a window, carrying objects, reaching, turning, balancing, following a route, standing in a large environment, interacting with oversized conceptual objects, talking while walking, or moving through a public space.
+The Mac/laptop should NOT be the main visual focus. A laptop may appear only as a secondary environmental detail when necessary.
+Avoid repetitive:
+- sitting at a desk
+- typing on a laptop
+- writing in a notebook
+- holding a coffee cup
+- video-call composition
+- pointing at text
+Every episode should communicate the concept through BODY MOVEMENT + ENVIRONMENT + VISUAL METAPHOR.
+The viewer should understand what the character is DOING, not simply what she is LOOKING AT.
+Make the pose dynamic, natural, and editorial rather than static, posed, or like a corporate illustration.
+Use a substantially different body orientation and camera angle from recent episodes.
+Text, left side, large navy serif: "Reading Emotions on a Video Call". Below in navy serif with "Ask" in coral italic: "Notice the Change, Then Ask". Top left small: "The Human Curriculum". Coral label: "EPISODE 27".
+Small details: handwritten notes "Getting, not taking", "Listen to the voice", "Kuuki wo yomu"; a pink sticky note "Notice, then ask"; three stacked books with spines "Eyal et al.", "Kraus", "Human Curriculum".
+```

@@ -1,0 +1,115 @@
+SENA: It's Friday, eight thirty-one in the morning. Small meeting room, fourteenth floor, camera on, hair checked twice. Nine faces from Seattle on my screen. And for once, Wendell's square isn't black.
+DANIEL: His camera's on.
+SENA: He's sharing his region three numbers. Then Mark unmutes, smiling. "So, three weeks, not two, right? Let's not let that become four!" Everyone laughs. Wendell says, "It won't." Just that. Then he looks down, and his hand goes over his mouth.
+DANIEL: And then?
+SENA: Laura asks two more questions. He answers, "Yep," and, "It's in the doc." In Slack, this man writes paragraphs. At eight forty-four, Laura says, "What did we decide?" And Wendell's square is black again.
+DANIEL: And everyone else?
+SENA: Everyone says, "Great call!" and leaves. I'm still sitting there, and I've written one word in my notebook. "Wendell," with a question mark.
+DANIEL: Keep that question mark. By the end of this episode, you'll read one person on a video call a little better, and you'll have one short message to send them afterward, without guessing.
+SENA: Without guessing. That's the hard part.
+DANIEL: Welcome back to Human Curriculum. I'm Daniel Reed, a People Manager in Seattle.
+SENA: And I'm Sena Sato, an Associate in Tokyo. It's Friday, nine thirty in the morning here.
+DANIEL: And Thursday, five thirty in the evening here. Maple is at the door with her leash in her mouth. Last time, your challenge was to write to yourself the words you'd write to a friend on a bad day. And yesterday was that day.
+SENA: It was. The "two weeks" that was really three. And Wendell correcting me in the chat, in front of Laura.
+DANIEL: So what did you write?
+SENA: At eleven at night, I was replaying it again. So I opened my notebook and wrote, "Dear Sena." It felt so strange. So I imagined it was Misaki, and wrote what I'd tell her.
+DANIEL: Which was?
+SENA: "You gave a ten-minute talk to a director in your second language. One number was off by a week, and you corrected it the same day. Laura asked about region three because she cares about it, not because you failed."
+DANIEL: That's a kind friend.
+SENA: It didn't stop the replay. But the replay got shorter. I fell asleep around twelve. And this morning, I almost didn't want to join the sync. But I joined.
+DANIEL: Shorter, not gone. That's usually how it works. And then the call, and the black square. So what did you see, exactly?
+SENA: Before Mark's joke, Wendell was fine. Maybe even a little proud. "Here's the join, here's the match rate, ninety-eight percent." Talking fast, like he types in Slack.
+DANIEL: And after the joke?
+SENA: After "Let's not let that become four," his face did almost nothing. He didn't frown. He just went still. And his answers got short. Then the camera went off.
+DANIEL: So what's your guess?
+SENA: My guess? He's angry. At me. Because my "two weeks" put pressure on him in front of Laura, and Mark's joke was really about my mistake.
+DANIEL: That's one story. Is it the only one?
+SENA: No. Maybe he was embarrassed. Maybe tired, it was four in the afternoon there. Maybe his internet was bad. Maybe his dog walked in.
+DANIEL: Maple would approve of that theory. So now you have five stories, and you were sure about the first one.
+SENA: The first one is always about me.
+DANIEL: That's very human. And it's what our first study is about. In 2018, Tal Eyal, Mary Steffel and Nicholas Epley published a paper in the Journal of Personality and Social Psychology called "Perspective Mistaking."
+SENA: Not "taking." Mistaking.
+DANIEL: Mistaking. They ran twenty-five experiments. People tried to read emotions from faces and postures, tell fake smiles from real ones, spot lies, and predict what their own spouse would prefer. Some were told to put themselves in the other person's shoes.
+SENA: And the shoes helped.
+DANIEL: That's what most people expected. In a survey, a large majority believed perspective taking would make people more accurate. But the researchers found no consistent evidence that it did. If anything, accuracy got a little worse overall, while confidence sometimes went up.
+SENA: More confident, but not more accurate. That's me, with "He's angry at me."
+DANIEL: Here's the hopeful part. In the final experiment, people simply talked to the other person and asked. That did increase accuracy. In the authors' words, it requires getting perspective, not taking perspective.
+SENA: Getting, not taking. So imagining harder doesn't help. Asking does.
+DANIEL: That's the lesson. The cautions: these were lab and online tasks, often with photos or strangers, not colleagues on a Friday call. But the direction is clear. Your imagination is not a reliable window.
+SENA: Okay. But Daniel, I can't ask Wendell in the middle of the meeting, "Are you angry?"
+DANIEL: No. And the second study helps with the noticing part. In 2017, Michael Kraus at the Yale School of Management published a paper in American Psychologist: "Voice-only communication enhances empathic accuracy."
+SENA: Voice only. Like a phone call?
+DANIEL: Like a phone call. In five experiments with more than seventeen hundred people, he compared reading emotions from the voice only, the face only, or both. In one, people watched friends tease each other about a nickname. In another, strangers chatted in a lit room or a completely dark one.
+SENA: A dark room with a stranger. Sounds like a horror movie.
+DANIEL: A friendly one. They talked about films and food. And on average, people read emotions slightly more accurately from the voice alone than from voice and face together.
+SENA: Wait. Seeing the face made it worse?
+DANIEL: A little, on average. Kraus's idea is that faces are easier to control than voices, and watching a face splits your attention. The cautions: the effect was small, it wasn't significant in every analysis, and none of these were work video calls.
+SENA: Small, and not video calls. But it matches something. In my first fifteen minutes with Wendell, his camera was off at first. I heard the long silence before he said, "Honestly."
+DANIEL: So today, with nine faces on the screen, what did his voice sound like?
+SENA: Let me close my eyes. Before the joke, fast, lots of numbers. After the joke, a pause, maybe two seconds. Then, "It won't." Low and flat. Angry Wendell types in capital letters. That sounded more like tired. Or hurt.
+DANIEL: Notice what you just did. You stopped reading his face, and you listened for a change from his normal.
+SENA: His normal is fast and blunt. Today he was slow and short.
+DANIEL: That's the signal. A change from someone's own baseline, not a face that looks "angry." But it's still a guess, so the next step is asking.
+SENA: Asking.
+DANIEL: Now, our usual question. Why can't AI do this?
+SENA: Some meeting tools say they can read emotions from faces. Maybe one could put a little label next to Wendell's square. "Neutral."
+DANIEL: And would "neutral" be right?
+SENA: His face was neutral. That's the problem. A tool doesn't know that Wendell joined in September, that region three is his first big build, or that Mark's joke was about my number. And Wendell doesn't need a message from a tool. He needs one from a person who noticed.
+DANIEL: Exactly. AI can tag a face. Only a colleague can notice a change in someone they know, and care enough to ask. That part is yours.
+SENA: Have you ever read someone completely wrong on a call?
+DANIEL: Yes. In 2020, when my team moved to video calls, I had an analyst named Nadia. Camera always on, always smiling, always nodding. In every call, she'd say, "Sounds great!"
+SENA: The easy one again.
+DANIEL: I thought so. I'd tell other managers, "Nadia is doing great remotely." I worried about the people with cameras off.
+SENA: Like Wendell.
+DANIEL: Like Wendell. Then one Monday, Nadia asked for a transfer. In our last one-on-one, I asked what I had missed. She said, "Daniel, I smiled on every call because the camera was on. I was waiting for someone to ask me when it was off."
+SENA: Oh. The smile was for the camera.
+DANIEL: The smile was for the camera. She was caring for her father that year, and I never asked her one question that wasn't about the project. I read her face, and I believed it.
+SENA: What did you change after that?
+DANIEL: Two things. I stopped treating a smile on camera as proof that someone is fine. And after big calls, I send one short private message to one person whose voice changed.
+SENA: And Nadia?
+DANIEL: She's doing well on her new team. Every spring, she sends me a photo of her garden. My wife thinks it's a reminder to water ours.
+SENA: Can I talk about Japan? Because we have a phrase for this whole topic. "Kuuki wo yomu." Reading the air.
+DANIEL: Reading the air. I love that.
+SENA: In many Japanese workplaces, you're expected to notice feelings without words. And in my office, many internal calls are cameras off, so we read voices and silences. But we're better at noticing than saying. Nobody asks, "Are you okay?" Someone just leaves a canned coffee on your desk.
+DANIEL: Like Kato-san.
+SENA: Like Kato-san, after region three was stopped. I knew what it meant. But I had to guess.
+DANIEL: Here in the US, many teams expect you to say it out loud. "Hey, you seemed quiet in that meeting. Everything okay?" is a normal message between peers.
+SENA: So in Japan, people notice and stay quiet. In the US, people ask, and sometimes the answer is just "I'm fine."
+DANIEL: Right. "I'm fine" can be polite here too, and every team is different. But the best mix might be Japanese noticing and American asking.
+SENA: Read the air, then leave the coffee with a note.
+DANIEL: Exactly. This is social awareness. Three steps. One, watch for a change from the person's own normal, not for a "sad face." Two, listen to the voice; look away from the grid for a few seconds and just hear them. Three, get perspective. Afterward, send one short private message: what you noticed from your side, and one open question. No diagnosing.
+SENA: Without diagnosing. So I shouldn't write, "You looked upset."
+DANIEL: Let's see. Write your first draft now.
+SENA: Okay. "Hi Wendell, are you okay? You looked upset in the meeting. I'm so sorry about my two weeks mistake!!"
+DANIEL: What do you notice?
+SENA: "You looked upset" is my guess, not his feeling. And the sorry part makes it about me. And two exclamation marks. Also about me.
+DANIEL: And if he isn't upset, he has to manage your apology on a Thursday evening.
+SENA: Okay. Second draft. "Hi Wendell, thanks for walking us through region three. Ninety-eight percent is a strong first match. That was a lot of questions in one call. How did it feel on your side?"
+DANIEL: Much better. Specific thanks, what you saw from your side, and a real question. One more thing. Give him an easy door.
+SENA: "If there's anything I can take off your plate before the next sync, just tell me."
+DANIEL: Read it as Wendell. How does it sound?
+SENA: Like a colleague. Not a manager, and not a detective. Sent. Nine fifty-two.
+DANIEL: Nice. Now, Speaking Lab. Three sentences for checking in with someone after a meeting. I'll say each one, and Sena repeats. Listeners, pause and say it out loud with her.
+SENA: Ready.
+DANIEL: "Thanks for walking us through that. It was a lot of questions."
+SENA: Thanks for walking us through that. It was a lot of questions.
+DANIEL: "You seemed a bit quiet at the end. How are you doing?"
+SENA: You seemed a bit quiet at the end. How are you doing?
+DANIEL: "No pressure to answer, but I'm happy to listen anytime."
+SENA: No pressure to answer, but I'm happy to listen anytime.
+DANIEL: Good. Now, a retell. In about thirty seconds, tell me today's main points in your own words.
+SENA: Okay. Eyal, Steffel and Epley found that imagining someone's view doesn't make us more accurate, but asking does. Getting perspective, not taking it. And Kraus found that, um, people read emotions slightly better from the voice alone. So on a video call, I watch for a change from someone's normal, I listen to the voice, and afterward I send one short message that asks instead of guessing.
+DANIEL: That's it. Listeners, your turn. In forty seconds, answer this. What is one signal that tells you a coworker is having a hard day, and what would you say to them? Pause the audio and speak.
+SENA: For Ryo, it's his commit messages. When they get very short, he's tired. I'd say, "Ramen at lunch?"
+DANIEL: Today's challenge: in one meeting today, notice one person whose energy changes. Afterward, send them a short private message. Thank them for something specific, say what you noticed from your side, and ask one open question.
+SENA: Mine is already sent. So I'll try a second one at our Tokyo team meeting at two. Probably Kenta, if he starts to speak and stops again.
+DANIEL: Next time, episode twenty-eight, "Staying Calm When Others Aren't." What to do first when someone else's emotions are running high.
+SENA: Hopefully not today. Oh. Slack.
+DANIEL: Wendell?
+SENA: Wendell. "Honestly? Heavier than it looked. And no, it's not about your two weeks. Mark messaged me right after the call. 'Any chance of a rough cut next Friday?' I already said three weeks. Three times."
+DANIEL: And?
+SENA: A second message. "Can I call you? Voice only. Five minutes. I need to say this to someone before I say it to Mark."
+DANIEL: Voice only. Michael Kraus would be pleased.
+SENA: I'm typing, "Calling you in two minutes." Daniel, what do I say first, if he's that upset?
+DANIEL: That's exactly where we start next time. Thanks for listening to Human Curriculum. I'm Daniel.
+SENA: And I'm Sena. Notice a change, listen to the voice, and ask instead of guessing. See you next time.

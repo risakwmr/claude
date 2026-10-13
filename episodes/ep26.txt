@@ -1,0 +1,109 @@
+SENA: It's nine twenty on Thursday night. I'm on my sofa, watching the meeting recording again. I drag the bar to fourteen minutes, ten seconds.
+DANIEL: The region three question.
+SENA: Laura says, "Sena, where are we on region three?" And I say, "What I know is, the validation rules are the same. What I don't know yet is..." And then nothing. Seven seconds. Someone in Seattle is typing.
+DANIEL: Seven seconds.
+SENA: Then I say, "Wendell's numbers will be ready in two weeks." And a chat message pops up from Wendell, camera off like always in big meetings. "Small correction: three weeks, not two." Everyone saw it. I've pressed play six times tonight.
+DANIEL: Pause the video. By the end of this episode, you'll be able to write yourself three sentences after a bad moment, the same three you'd write to a friend.
+SENA: My friends didn't freeze in front of Laura.
+DANIEL: Welcome back to Human Curriculum. I'm Daniel Reed, a People Manager in Seattle.
+SENA: And I'm Sena Sato, an Associate in Tokyo. It's Thursday, nine thirty at night here.
+DANIEL: And five thirty in the morning here. Last time, your challenge was to ship one task at eighty percent. Your next one was the follow-up email after the meeting. Two reads and send.
+SENA: Done. Thanks, the slide link, and one correction. "Wendell's region three numbers will be ready in three weeks, not two as I said. Sorry for the confusion." Two reads, and sent at ten oh four.
+DANIEL: Any replies?
+SENA: Mark, in four minutes. "Thanks!! Super clear." Wendell gave it a thumbs-up. Laura didn't reply.
+DANIEL: So the email did its job. Now tell me the whole meeting, not just the seven seconds.
+SENA: Twelve faces, mostly Seattle. My first sentence, "I built the pipeline, Ryo tested it, and Kenta's review made it better." My voice shook, then it was fine. Ten minutes. When I stopped, Mark unmuted and said, "This is exactly what we needed."
+DANIEL: Out loud. Not with an emoji.
+SENA: Out loud. Then Laura asked about region three. My sticky note. What I know, fine. What I don't know yet, I wanted to say, "We haven't checked yet if the standard table counts returns the same way." I knew every word. And in English, the sentence just left.
+DANIEL: What did Laura do?
+SENA: She said, "Take your time." Very kindly. Which was worse. So I skipped it and said "two weeks." Wendell told me three on Wednesday. Then Laura asked, "What did we decide?" Mark said, "Region three in three weeks, with Sena's validation rules on top." And it was over.
+DANIEL: And since then, what's the story in your head?
+SENA: "Everyone saw me freeze." "Laura will remember the seven seconds, not the ten minutes." Kato-san said "Good job" and ran off to another call. And at lunch, Kenta found me by the coffee machine. "You froze for seven seconds. I counted. I freeze for whole meetings."
+DANIEL: Kenta, the counter.
+SENA: He meant it nicely. But he counted.
+DANIEL: Imagine Misaki had that exact meeting. Tonight she messages you, "I froze. Everyone saw." What do you write back?
+SENA: "Misaki, Mark said it was exactly what they needed. Seven seconds is nothing. You fixed the number in one email. Go eat something warm."
+DANIEL: You answered in about three seconds.
+SENA: Because it's true for her.
+DANIEL: And for you?
+SENA: For me it's different, because... Okay. I can't finish that sentence either.
+DANIEL: That gap has a name in research. Self-compassion. The psychologist Kristin Neff defined it as treating yourself with warmth and understanding in difficult times, and remembering that making mistakes is part of being human.
+SENA: But if I'm kind to myself, won't I get lazy? The strict voice in my head is why I prepare so much.
+DANIEL: That's exactly what Juliana Breines and Serena Chen tested at the University of California, Berkeley. Their paper came out in 2012 in Personality and Social Psychology Bulletin. "Self-Compassion Increases Self-Improvement Motivation." In one of their four experiments, eighty-six students took a hard vocabulary test. The average was four out of ten. Then they could study for a second test, as long as they wanted.
+SENA: So study time was the real measure.
+DANIEL: Exactly. One group first read three extra sentences. "If you had difficulty with the test you just took, you're not alone. It's common for students to have difficulty with tests like this. If you feel bad about how you did, try not to be too hard on yourself."
+SENA: That's all?
+DANIEL: That's all. A second group got a self-esteem boost instead, basically, "You must be intelligent if you got into Berkeley." A third group got nothing extra.
+SENA: I bet the Berkeley one worked. Everyone likes hearing they're smart.
+DANIEL: The self-compassion group studied the longest, about five minutes on average. The no-message group, about three and a half. Roughly fifty percent longer. The Berkeley group was in between.
+SENA: So the kind group worked harder. Not lazier.
+DANIEL: In other experiments, people wrote a short paragraph to themselves about a mistake they felt bad about, with kindness and understanding. Afterwards, they felt more motivated to make amends and not repeat it.
+SENA: And the cautions?
+DANIEL: Small groups, mostly university students, short lab tasks, not jobs. Second-test scores weren't significantly different. So more effort, in the short term. The second study explains your three-second answer. In 2014, Igor Grossmann at the University of Waterloo and Ethan Kross at the University of Michigan published a paper in Psychological Science about what they called "Solomon's paradox."
+SENA: Solomon, the wise king?
+DANIEL: Famous for wise advice, not so wise about his own life. Across three experiments with six hundred and ninety-three people, participants imagined a painful relationship problem, happening either to them or to a friend. Then they answered questions about wise reasoning, like considering other views and admitting what you don't know.
+SENA: And they were wiser about the friend.
+DANIEL: Clearly wiser. Here's the useful part. When people thought about their own problem from a distance, using their own name and "she" or "he" instead of "I," the gap disappeared. For younger adults and for people aged sixty to eighty.
+SENA: So the Misaki trick is a real trick.
+DANIEL: Close. Cautions: these were imagined conflicts, like a partner cheating, not meetings, and they measured wise reasoning, not kindness. Together, they say something simple. You're already good at this. You just do it for other people.
+SENA: So the skill is there. It's just pointed in the wrong direction.
+DANIEL: Nice. Now, our usual question. Why can't AI do this?
+SENA: Honestly, AI made tonight worse. The meeting tool made a transcript. "Fourteen ten. Sena: What I don't know yet is... um." Perfectly accurate.
+DANIEL: A perfect replay machine.
+SENA: And if I ask, it will write me something kind in one second. "Everyone has off moments. You did great!" But it doesn't know me. It doesn't know how many times I practiced on the train.
+DANIEL: That's the point. Self-compassion is the voice you use with yourself. Nobody can install that for you. You choose the words, and you choose to believe them.
+SENA: Daniel, do you replay things?
+DANIEL: I once replayed one thing for most of a year. About six years ago, I sent a launch email to around forty thousand customers. The date in the subject line was one week early.
+SENA: Oh no.
+DANIEL: We corrected it within two hours. Nothing broke. But I didn't let it go. In every stand-up, I'd joke, "Don't let me near the send button. I'm the idiot who emailed forty thousand people the wrong date." For months.
+SENA: As a joke.
+DANIEL: As a joke. Then an engineer on my team, Anika, made a mistake in a config file. A twenty-minute outage. She came to my desk, pale. And I said, easily, "It's one mistake, and it's fixed. Let's add a check. You're still one of the most careful people here."
+SENA: That's a good thing to say.
+DANIEL: She thought so too. Then she said, "Thanks, Daniel. Can I ask something? Why don't you ever say that to yourself? If that's how you talk about your mistake, what do you think about ours?"
+SENA: Ouch.
+DANIEL: Ouch. My team had heard every joke. They learned that here, a mistake follows you for months. Anika told me later she almost waited until the next morning to tell me about the outage.
+SENA: So being hard on yourself wasn't private.
+DANIEL: Not at all. The way you talk about your own mistakes becomes the rule for everyone around you. So I stopped the joke. Now I say to myself what I said to Anika. Last week my wife caught me in the kitchen saying, "Daniel, it's just burnt rice. You can make more."
+SENA: You talk to yourself about rice?
+DANIEL: In the third person, like Grossmann and Kross. Burnt rice under my curry is a serious event in our house.
+SENA: Can I talk about Japan? We have a phrase for exactly this gap.
+DANIEL: Please.
+SENA: "Jibun ni kibishiku, hito ni yasashiku." Be strict with yourself, and kind to others. Teachers say it. It sounds beautiful. But it turns the gap into a value. Being kind to myself can feel like cheating. And after a mistake, we do hansei, reflection. Good hansei is useful. But sometimes it becomes a list of everything wrong with you.
+DANIEL: In the US, you'll hear "give yourself some grace" a lot, even at work. It's kind, but it can also skip the learning, so nobody looks at what actually went wrong. And plenty of Americans are very hard on themselves in private.
+SENA: So Japan has the reflection without the kindness, and the US sometimes has the kindness without the reflection.
+DANIEL: A little simple, and every team is different. The useful mix is both. Strict about the mistake, kind about the person.
+SENA: Strict about the mistake, kind about the person. Which EQ skill is this?
+DANIEL: Self-awareness. Noticing how you talk to yourself, and whether you'd talk to a friend that way. Then a three-sentence note, built on Neff's idea. One, the facts, said kindly, no "always" and no "idiot." Two, who else has been here? Three, one next step, the way you'd say it to a friend. And use your name.
+SENA: Can I try now? I'll type it. "Sena, you froze for seven seconds on one English sentence, and you said two weeks instead of three. You fixed the number in an email within forty minutes." Is "fixed" okay? It sounds like bragging.
+DANIEL: It's a fact. Keep it. Sentence two.
+SENA: "Everyone who works in a second language has lost a sentence in a meeting. Even Kenta freezes, and Mark still said it was exactly what they needed."
+DANIEL: Good. Sentence three?
+SENA: "Tomorrow morning, say the region three sentence three times out loud, and then let this go."
+DANIEL: Now read it back as if Misaki sent it to you.
+SENA: It sounds fair. It doesn't say I was great. It just says I'm not terrible.
+DANIEL: That's self-compassion. Not "I was perfect." Just "I made one mistake and fixed it." Now, the sentence you couldn't say this morning. Try it.
+SENA: "We haven't checked yet if the standard table counts returns the same way." Oh. It came out.
+DANIEL: It always comes out at nine thirty at night. Now, Speaking Lab. Three sentences for when something goes wrong while you're speaking. I'll say each one, and Sena repeats. Listeners, pause and say it out loud with her.
+SENA: Ready.
+DANIEL: "Sorry, let me take a second to find the right words."
+SENA: Sorry, let me take a second to find the right words.
+DANIEL: "Quick correction: the numbers will be ready in three weeks."
+SENA: Quick correction: the numbers will be ready in three weeks.
+DANIEL: "That didn't go as planned, but here's what I'll do next."
+SENA: That didn't go as planned, but here's what I'll do next.
+DANIEL: Nice. The first one would have saved your seven seconds. Now, a retell. In about thirty seconds, tell me today's main points in your own words.
+SENA: Okay. We are, um, kinder to friends than to ourselves. Breines and Chen found that students who read a self-compassionate message after failing a test studied about fifty percent longer than students with no message. And Grossmann and Kross found that people reason more wisely about a friend's problem, but using your own name closes the gap. So after a mistake, I write three sentences: the facts, kindly, who else, and one next step.
+DANIEL: Lovely. Listeners, your turn. In forty seconds, answer this. What do you usually say to yourself after a mistake at work, and what would you say to a friend instead? Pause the audio and speak.
+SENA: Mine was, "Everyone saw you." To a friend I'd say, "Everyone saw your ten good minutes."
+DANIEL: Today's challenge: on a day something goes wrong, write yourself the same words you'd write to a friend. Three sentences. The facts, kindly. Who else has been there. And one next step. Use your name.
+SENA: Mine is done. It's going on a sticky note on my laptop lid. And I'm closing the recording.
+DANIEL: Good. Next time, episode twenty-seven, "Reading Emotions on a Video Call." What faces and silences tell you, and how to check what you think you saw.
+SENA: Perfect. I'm done with video calls for this week.
+DANIEL: Your phone is lighting up.
+SENA: It's Laura. Five fifty-five in the morning, her time. "Thanks for the correction, Sena. Good meeting." Oh. She did reply.
+DANIEL: There's more, isn't there?
+SENA: "I'm adding you to Mark's team's weekly video sync. Cameras on, please. First one is tomorrow, eight a.m. your time. Wendell will walk through the region three numbers."
+DANIEL: Cameras on. Everyone's.
+SENA: Including Wendell's. In a big meeting, his camera has never been on.
+DANIEL: Then that's where we start next time. Thanks for listening to Human Curriculum. I'm Daniel.
+SENA: And I'm Sena. Write the facts kindly, remember who else has been there, and choose one next step. See you next time.

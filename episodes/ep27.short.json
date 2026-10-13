@@ -1,0 +1,8 @@
+{
+  "shorts": [
+    {"kind": "highlight", "lines": [30, 37], "hook": "25 experiments: imagining someone's feelings didn't make people more accurate.", "title": "Putting yourself in their shoes doesn't work. This does."},
+    {"kind": "ai", "lines": [54, 58], "hook": "An AI tool would label his face \"neutral.\" That's the problem.", "title": "Why AI can't read your coworker on a video call"},
+    {"kind": "story", "lines": [59, 68], "hook": "She smiled on every call. Then she asked for a transfer.", "title": "Camera on and smiling doesn't mean someone is fine"},
+    {"kind": "culture", "lines": [71, 79], "hook": "In Japan, \"Are you okay?\" often comes as a canned coffee.", "title": "Reading the air: Japan vs the US"}
+  ]
+}

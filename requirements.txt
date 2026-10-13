@@ -1,4 +1,6 @@
-edge-tts>=6.1.12
+# edge-tts: Microsoft moved Edge Read Aloud to a new endpoint (Oct 2026); 7.2.8 gets 403.
+# Pinned to the fix in rany2/edge-tts PR #491 until a release after 7.2.8 ships, then go back to edge-tts>=7.2.9.
+edge-tts @ git+https://github.com/jonata/edge-tts@8a5844c3a1d33e4e8f2f3e14535542c0d75d4248
 numpy>=1.26
 Pillow>=10.0
 google-api-python-client>=2.100

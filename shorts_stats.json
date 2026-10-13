@@ -1,5 +1,5 @@
 {
-  "at": "2026-10-13T04:31:28Z",
+  "at": "2026-10-13T18:58:35Z",
   "shorts": {
     "1-ai": {
       "video_id": "IdbU6d1ox0Q",
@@ -123,7 +123,7 @@
       "title": "What \"fine\" really means at work: Japan vs the US #shorts",
       "public": true,
       "publish_at": "2026-10-10T23:00:00Z",
-      "views": 157,
+      "views": 156,
       "likes": 2,
       "comments": 0
     },
@@ -157,9 +157,9 @@
     "5-culture": {
       "video_id": "vPnkuxC0e8A",
       "title": "Feedback in Japan vs the US #shorts",
-      "public": false,
+      "public": true,
       "publish_at": "2026-10-13T09:00:00Z",
-      "views": 0,
+      "views": 8,
       "likes": 0,
       "comments": 0
     },
@@ -177,7 +177,7 @@
       "title": "My best engineer quit after a year of perfect 1:1s #shorts",
       "public": true,
       "publish_at": "2026-10-11T09:00:00Z",
-      "views": 10,
+      "views": 7,
       "likes": 0,
       "comments": 0
     },
@@ -186,7 +186,16 @@
       "title": "You're less clear than you think #shorts",
       "public": true,
       "publish_at": "2026-10-11T23:00:00Z",
-      "views": 17,
+      "views": 18,
+      "likes": 0,
+      "comments": 0
+    },
+    "7-story": {
+      "video_id": "QBnWN2SzjAo",
+      "title": "Short is not the same as clear #shorts",
+      "public": false,
+      "publish_at": "2026-10-13T23:00:00Z",
+      "views": 0,
       "likes": 0,
       "comments": 0
     },
@@ -258,7 +267,7 @@
       "title": "Does venting anger help? A punching bag study says no #shorts",
       "public": true,
       "publish_at": "2026-10-10T03:34:22Z",
-      "views": 42,
+      "views": 43,
       "likes": 0,
       "comments": 0
     },
@@ -294,7 +303,7 @@
       "title": "Envy made marathon runners set higher goals #shorts",
       "public": true,
       "publish_at": "2026-10-11T17:20:25Z",
-      "views": 12,
+      "views": 10,
       "likes": 1,
       "comments": 0
     },
@@ -312,8 +321,8 @@
       "title": "The surprising upside of impostor thoughts at work #shorts",
       "public": true,
       "publish_at": "2026-10-13T03:24:14Z",
-      "views": 5,
-      "likes": 0,
+      "views": 59,
+      "likes": 1,
       "comments": 0
     },
     "22-story": {
@@ -321,6 +330,24 @@
       "title": "I undersold myself to my VP. Here's what I changed #shorts",
       "public": true,
       "publish_at": "2026-10-13T03:24:16Z",
+      "views": 11,
+      "likes": 1,
+      "comments": 0
+    },
+    "23-highlight": {
+      "video_id": "TeT0grs7W-A",
+      "title": "Why saying no hurts less than you think #shorts",
+      "public": true,
+      "publish_at": "2026-10-13T18:58:29Z",
+      "views": 0,
+      "likes": 0,
+      "comments": 0
+    },
+    "23-story": {
+      "video_id": "RjQ07R-ZCkU",
+      "title": "I said no badly, and it came back to me #shorts",
+      "public": true,
+      "publish_at": "2026-10-13T18:58:32Z",
       "views": 0,
       "likes": 0,
       "comments": 0
@@ -337,7 +364,7 @@
     "2": {
       "video_id": "XrPylq3xOQk",
       "title": "Your Body Knows You're Upset Before You Do | Business English Podcast EP02",
-      "views": 4,
+      "views": 5,
       "likes": 0,
       "comments": 1
     },
@@ -400,7 +427,7 @@
     "11": {
       "video_id": "1cdKOJ8zr2c",
       "title": "How to Disagree in a Meeting (Without Being Rude) | Business English Podcast EP11",
-      "views": 2,
+      "views": 3,
       "likes": 0,
       "comments": 1
     },
@@ -456,7 +483,7 @@
     "19": {
       "video_id": "igbmiE3tGX4",
       "title": "Angry at Work? What to Do Before You Hit Send | Business English Podcast EP19",
-      "views": 0,
+      "views": 1,
       "likes": 0,
       "comments": 1
     },
@@ -477,9 +504,16 @@
     "22": {
       "video_id": "BaH4lhJ0le4",
       "title": "Feel Like an Impostor at Work? Answer the Voice With Evidence | Business English Podcast EP22",
-      "views": 0,
+      "views": 2,
       "likes": 0,
       "comments": 1
+    },
+    "23": {
+      "video_id": "INRo9Zitttg",
+      "title": "How to Say No at Work Without Damaging the Relationship | Business English Podcast EP23",
+      "views": 0,
+      "likes": 0,
+      "comments": 0
     }
   }
 }

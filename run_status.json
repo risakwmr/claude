@@ -68,7 +68,7 @@
     "result": "ok"
   },
   "channel": {
-    "at": "2026-10-13T02:59:46Z",
+    "at": "2026-10-13T03:06:29Z",
     "result": "Human Curriculum | Business English Podcast (UCSaZaQp7Ao--E-UrkQ4RnXg)"
   },
   "captions:hj8EgYR2ORo": {
@@ -144,8 +144,8 @@
     "result": "ok gM0GYd249T0"
   },
   "short:5-culture": {
-    "at": "2026-10-04T10:55:24Z",
-    "result": "ERROR 400 <HttpError 400 when requesting None returned \"The user has exceeded the number of videos they may upload.\". Details: \"[{'message': 'The user has exceeded the number of videos they may upload.', 'domain': 'youtube.video', 'reason': 'uploadLimitExceeded'}]\">"
+    "at": "2026-10-13T03:24:18Z",
+    "result": "ok vPnkuxC0e8A"
   },
   "report": {
     "at": "2026-10-04T13:55:25Z",
@@ -450,5 +450,45 @@
   "short:7-highlight": {
     "at": "2026-10-11T17:20:29Z",
     "result": "ok PKqpdcOO2J0"
+  },
+  "captions:BaH4lhJ0le4": {
+    "at": "2026-10-13T03:21:31Z",
+    "result": "ok"
+  },
+  "captions-en:BaH4lhJ0le4": {
+    "at": "2026-10-13T03:21:31Z",
+    "result": "ok"
+  },
+  "captions-es:BaH4lhJ0le4": {
+    "at": "2026-10-13T03:21:32Z",
+    "result": "ok"
+  },
+  "captions-pt:BaH4lhJ0le4": {
+    "at": "2026-10-13T03:21:33Z",
+    "result": "ok"
+  },
+  "captions-id:BaH4lhJ0le4": {
+    "at": "2026-10-13T03:21:33Z",
+    "result": "ok"
+  },
+  "captions-fr:BaH4lhJ0le4": {
+    "at": "2026-10-13T03:21:34Z",
+    "result": "ok"
+  },
+  "captions-zh-TW:BaH4lhJ0le4": {
+    "at": "2026-10-13T03:21:34Z",
+    "result": "ok"
+  },
+  "captions-ko:BaH4lhJ0le4": {
+    "at": "2026-10-13T03:21:35Z",
+    "result": "ok"
+  },
+  "short:22-highlight": {
+    "at": "2026-10-13T03:24:14Z",
+    "result": "ok yqbKWnn3KqE"
+  },
+  "short:22-story": {
+    "at": "2026-10-13T03:24:16Z",
+    "result": "ok VypUpxsczg8"
   }
 }

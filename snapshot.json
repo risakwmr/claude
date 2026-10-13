@@ -1,5 +1,5 @@
 {
-  "at": "2026-10-12 10:26 JST",
+  "at": "2026-10-13 12:05 JST",
   "audience": {
     "channel_id": "UCSaZaQp7Ao--E-UrkQ4RnXg",
     "new": []
@@ -34,14 +34,14 @@
         "likes": 0,
         "title": "How to Disagree in a Meeting (Without Being Rude) | Business English Podcast EP11",
         "video_id": "1cdKOJ8zr2c",
-        "views": 1
+        "views": 2
       },
       "12": {
         "comments": 1,
         "likes": 0,
         "title": "What Nobody Tells You About Becoming a Manager | Business English Podcast EP12",
         "video_id": "KCkYIsh8d3k",
-        "views": 2
+        "views": 3
       },
       "13": {
         "comments": 1,
@@ -76,7 +76,7 @@
         "likes": 0,
         "title": "Stress at Work Is a Signal: How to Read It | Business English Podcast EP17",
         "video_id": "wlikzFZjDJw",
-        "views": 0
+        "views": 1
       },
       "18": {
         "comments": 1,
@@ -104,14 +104,14 @@
         "likes": 0,
         "title": "Your Project Got Cancelled? How to Bounce Back at Work | Business English Podcast EP20",
         "video_id": "vWtKtfcEvQw",
-        "views": 7
+        "views": 9
       },
       "21": {
-        "comments": 0,
+        "comments": 1,
         "likes": 0,
         "title": "Jealous of a Coworker? What Envy Tells You About Your Goals | Business English Podcast EP21",
         "video_id": "1vlIpwaeBUg",
-        "views": 0
+        "views": 2
       },
       "3": {
         "comments": 1,
@@ -125,7 +125,7 @@
         "likes": 0,
         "title": "Stop Saying \"I'm Fine\" at Work | Business English Podcast EP04",
         "video_id": "U7qYzYkkHBI",
-        "views": 6
+        "views": 7
       },
       "5": {
         "comments": 1,
@@ -658,7 +658,7 @@
         "publish_at": "2026-10-08T05:15:54Z",
         "title": "Say it out loud: 3 English phrases for reporting a mistake #shorts",
         "video_id": "u7LcFFhbD58",
-        "views": 85
+        "views": 84
       },
       "16-story": {
         "comments": 1,
@@ -694,7 +694,7 @@
         "publish_at": "2026-10-10T03:34:22Z",
         "title": "Does venting anger help? A punching bag study says no #shorts",
         "video_id": "GBcp7xYiAG4",
-        "views": 38
+        "views": 42
       },
       "19-story": {
         "comments": 0,
@@ -703,7 +703,7 @@
         "publish_at": "2026-10-10T03:34:24Z",
         "title": "The worst email I ever sent, and what it cost #shorts",
         "video_id": "gUgbqVXafzE",
-        "views": 27
+        "views": 29
       },
       "2-ai": {
         "comments": 1,
@@ -743,12 +743,12 @@
       },
       "20-highlight": {
         "comments": 0,
-        "likes": 0,
+        "likes": 1,
         "public": true,
         "publish_at": "2026-10-10T16:49:15Z",
         "title": "Why we learn less from our own failures #shorts",
         "video_id": "3LcoZWybJu0",
-        "views": 37
+        "views": 46
       },
       "20-story": {
         "comments": 0,
@@ -757,25 +757,25 @@
         "publish_at": "2026-10-10T16:49:17Z",
         "title": "My proposal was rejected, and I disappeared #shorts",
         "video_id": "Izy88aJKsQA",
-        "views": 18
+        "views": 19
       },
       "21-highlight": {
         "comments": 0,
-        "likes": 0,
+        "likes": 1,
         "public": true,
         "publish_at": "2026-10-11T17:20:25Z",
         "title": "Envy made marathon runners set higher goals #shorts",
         "video_id": "sW9FJJUKPY4",
-        "views": 0
+        "views": 12
       },
       "21-story": {
         "comments": 0,
-        "likes": 0,
+        "likes": 1,
         "public": true,
         "publish_at": "2026-10-11T17:20:27Z",
         "title": "I was jealous of a coworker. Here's what I learned #shorts",
         "video_id": "0UALNd4um8c",
-        "views": 0
+        "views": 37
       },
       "3-ai": {
         "comments": 1,
@@ -829,7 +829,7 @@
         "publish_at": "2026-10-10T23:00:00Z",
         "title": "What \"fine\" really means at work: Japan vs the US #shorts",
         "video_id": "jcnHcpUV4mw",
-        "views": 105
+        "views": 155
       },
       "4-highlight": {
         "comments": 1,
@@ -897,11 +897,11 @@
       "7-highlight": {
         "comments": 0,
         "likes": 0,
-        "public": false,
+        "public": true,
         "publish_at": "2026-10-11T23:00:00Z",
         "title": "You're less clear than you think #shorts",
         "video_id": "PKqpdcOO2J0",
-        "views": 0
+        "views": 17
       }
     },
     "shorts": {
@@ -909,7 +909,7 @@
       "scheduled": []
     },
     "show": "Human Curriculum",
-    "stats_at": "10/12 02:20 JST",
+    "stats_at": "10/13 12:04 JST",
     "thumbnail_references": [
       "https://github.com/risakwmr/claude/blob/episodes/episodes/ep14_thumbnail.png",
       "https://github.com/risakwmr/claude/blob/episodes/episodes/ep18_thumbnail.png"
@@ -930,10 +930,27 @@
     ]
   },
   "pipeline": {
-    "errors": [
-      "short-comment:6-ai (10/09 12:38 JST): 404 <HttpError 404 when requesting https://youtube.googleapis.com/youtube/v3/commentThreads?part=snippet&alt=json returned \"The specified video could not be found. Check the value of the <code><a href"
-    ],
+    "errors": [],
     "runs": [
+      {
+        "failed_steps": [
+          "Make videos"
+        ],
+        "result": "failure",
+        "started": "10/13 11:59 JST",
+        "status": "completed",
+        "trigger": "schedule",
+        "url": "https://github.com/risakwmr/claude/actions/runs/38305153616",
+        "workflow": "Make and upload episodes"
+      },
+      {
+        "result": "success",
+        "started": "10/12 12:15 JST",
+        "status": "completed",
+        "trigger": "schedule",
+        "url": "https://github.com/risakwmr/claude/actions/runs/38199034555",
+        "workflow": "Make and upload episodes"
+      },
       {
         "result": "success",
         "started": "10/12 08:52 JST",
@@ -949,22 +966,6 @@
         "trigger": "schedule",
         "url": "https://github.com/risakwmr/claude/actions/runs/38157763597",
         "workflow": "Make and upload episodes"
-      },
-      {
-        "result": "success",
-        "started": "10/11 11:52 JST",
-        "status": "completed",
-        "trigger": "schedule",
-        "url": "https://github.com/risakwmr/claude/actions/runs/38106551752",
-        "workflow": "Make and upload episodes"
-      },
-      {
-        "result": "success",
-        "started": "10/11 01:34 JST",
-        "status": "completed",
-        "trigger": "schedule",
-        "url": "https://github.com/risakwmr/claude/actions/runs/38068245167",
-        "workflow": "Make and upload episodes"
       }
     ]
   },
@@ -978,7 +979,6 @@
           "before": "DANIEL: Oof. That last line is harsh. How long did the monthly report take before your pipeline?",
           "change": "SENA: What did you change?",
           "dena": "DANIEL: Then, in 2020, Dena Bravata and her colleagues published a systematic review in the Journal of General Internal Medicine. They collected sixty-two studi",
-          "desu": "SENA: When we give a gift in Japan, people sometimes say, \"tsumaranai mono desu ga.\" It means, \"This is a boring thing, but...\" It's polite to make your own thi",
           "done": "SENA: Ha. But I wouldn't believe it. The voice doesn't argue with sentences. It argues with memories. And AI doesn't have mine. It wasn't there this spring, whe",
           "emoji": "SENA: Then Mark's message pops up. \"Can't wait for Thursday! Everyone says your pipeline is amazing.\" With two clapping-hands emoji. And a small voice in my hea",
           "episode": "DANIEL: That small voice has a name, and it's very common among people who are good at their jobs. By the end of this episode, you'll be able to answer it with ",
@@ -992,12 +992,10 @@
           "japan": "SENA: Can I talk about Japan? Because \"just a faster spreadsheet\" sounds very Japanese to me.",
           "japanese": "SENA: Can I talk about Japan? Because \"just a faster spreadsheet\" sounds very Japanese to me.",
           "kato-san": "SENA: Deleting. Gone. Oh, and Ryo's fifteen minutes with Kato-san is tomorrow at eleven. I'm nervous for him.",
-          "mada": "SENA: When we give a gift in Japan, people sometimes say, \"tsumaranai mono desu ga.\" It means, \"This is a boring thing, but...\" It's polite to make your own thi",
           "made": "SENA: Today at lunch. We ate convenience store onigiri by the window on the twelfth floor. She said, \"Mark asked in a meeting who made the monthly report so fas",
           "main": "DANIEL: Lovely. Now, a retell. In about thirty seconds, tell me today's main points in your own words.",
           "make": "SENA: When we give a gift in Japan, people sometimes say, \"tsumaranai mono desu ga.\" It means, \"This is a boring thing, but...\" It's polite to make your own thi",
           "mine": "SENA: About an hour. But that's the computer's work, not mine.",
-          "mono": "SENA: When we give a gift in Japan, people sometimes say, \"tsumaranai mono desu ga.\" It means, \"This is a boring thing, but...\" It's polite to make your own thi",
           "more": "SENA: Yes. \"What if they find out it was just a faster spreadsheet?\" And under it, I wrote more. \"Ryo tested it. Kenta found bugs. I only connected things that ",
           "name": "DANIEL: That small voice has a name, and it's very common among people who are good at their jobs. By the end of this episode, you'll be able to answer it with ",
           "nine": "SENA: Monday, nine forty at night. I'm on the Yamanote Line, standing, holding the strap with one hand. With the other hand, I open a blank slide on my phone.",
@@ -1014,11 +1012,9 @@
           "taken": "SENA: So in Japan, the small words are polite, and in the US, the small words are taken literally.",
           "time": "DANIEL: Six thirty in the morning here. Maple and I are about to walk in the rain. Last time, your challenge was to notice envy and write one sentence that star",
           "tokyo": "SENA: And I'm Sena Sato, an Associate in Tokyo. It's Monday, ten thirty at night here. I just got home.",
-          "tsumaranai": "SENA: When we give a gift in Japan, people sometimes say, \"tsumaranai mono desu ga.\" It means, \"This is a boring thing, but...\" It's polite to make your own thi",
           "were": "DANIEL: No. And two more honest notes. First, the review says it's not a recognized psychiatric disorder. It's a pattern of thoughts, not a diagnosis. Second, a",
           "wife": "DANIEL: That night my wife asked me, \"If one of your engineers were presenting, what would you tell them?\" I said, \"Know your numbers, and own them.\" So I start",
-          "women": "DANIEL: Let's see what a careful review says. The idea started in 1978. Two psychologists, Pauline Clance and Suzanne Imes, described it in high-achieving women",
-          "yamanote": "SENA: Monday, nine forty at night. I'm on the Yamanote Line, standing, holding the strap with one hand. With the other hand, I open a blank slide on my phone."
+          "women": "DANIEL: Let's see what a careful review says. The idea started in 1978. Two psychologists, Pauline Clance and Suzanne Imes, described it in high-achieving women"
         },
         "episode": 22
       },
@@ -1031,7 +1027,6 @@
           "change": "DANIEL: Nothing. I didn't even ask what she needed it for. Six months later, my team needed Petra's team to change a data field for our own project. I sent her ",
           "data": "DANIEL: Nothing. I didn't even ask what she needed it for. Six months later, my team needed Petra's team to change a data field for our own project. I sent her ",
           "date": "DANIEL: Today's challenge: say no to one request today, big or small, and offer one alternative with it. A smaller version, a later date, or another person who ",
-          "desu": "SENA: In Japanese business, a direct \"no\" sounds very strong. We talked about \"zensho shimasu\" before. There are more. \"Kentou shimasu,\" which means \"we'll cons",
           "done": "DANIEL: Now I understand why a Tokyo partner once told me \"it's a little difficult,\" and I answered, \"Great, let me know when it's done.\"",
           "emoji": "SENA: The small idea. \"Hey Sena, here's my small idea for Thursday! Could you also add a twelve-month breakdown for every region, by customer segment? The launc",
           "episode": "DANIEL: Good. Leave it there a few more minutes. By the end of this episode, you'll be able to say no to one request in a few clear sentences, with an alternati",
@@ -1086,7 +1081,6 @@
           "choose": "DANIEL: Self-management. A shutdown routine in three steps, about two minutes. One, capture. Write every open loop on one list, so nothing lives only in your he",
           "date": "SENA: The thumbs-up was real. He never asked for the twelve months again. And I put the full breakdown in my calendar for next Wednesday, so it's a promise with",
           "demo": "DANIEL: Very bad, and I made it other people's problem. When I first became a manager, I wanted my team to know I was always there. So I answered everything, an",
-          "desu": "SENA: Yes! He came back and was quiet for ten minutes. Then he said, \"Kato-san said the Osaka script can wait until January.\" That's all. But at six thirty, Ryo",
           "done": "SENA: Deciding that today is done. AI never gets tired, so it can't tell me when to stop. And it doesn't know which open loop is the one that will keep me awake",
           "episode": "DANIEL: You closed the app, but you didn't close the day. By the end of this episode, you'll have a two-minute way to end your workday: one line on paper, and a",
           "here": "SENA: And I'm Sena Sato, an Associate in Tokyo. It's Wednesday, seven thirty in the morning here.",
@@ -1191,6 +1185,7 @@
       "Ryo",
       "Sato",
       "Sena",
+      "Yamanote",
       "daijoubu",
       "deru kugi wa utareru",
       "hansei",
@@ -1202,6 +1197,7 @@
       "kinchou shite imasu ga",
       "kinkyou",
       "kuuki wo yomu",
+      "mada mada desu",
       "meiwaku",
       "moushiwake gozaimasen",
       "nemawashi",
@@ -1214,6 +1210,7 @@
       "sugoi ne",
       "tatemae",
       "tojisha ishiki",
+      "tsumaranai mono desu ga",
       "yarikake",
       "zensho shimasu"
     ],

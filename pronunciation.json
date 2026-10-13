@@ -53,5 +53,10 @@
     "episode": 25,
     "reported": true,
     "next_reported": false
+  },
+  "jibun ni kibishiku, hito ni yasashiku": {
+    "episode": 26,
+    "reported": true,
+    "next_reported": false
   }
 }

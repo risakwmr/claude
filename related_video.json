@@ -42,5 +42,29 @@
   "21-story": {
     "episode": 21,
     "reported": true
+  },
+  "5-culture": {
+    "episode": 5,
+    "reported": true
+  },
+  "7-story": {
+    "episode": 7,
+    "reported": true
+  },
+  "22-highlight": {
+    "episode": 22,
+    "reported": true
+  },
+  "22-story": {
+    "episode": 22,
+    "reported": true
+  },
+  "23-highlight": {
+    "episode": 23,
+    "reported": true
+  },
+  "23-story": {
+    "episode": 23,
+    "reported": true
   }
 }

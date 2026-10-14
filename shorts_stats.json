@@ -1,5 +1,5 @@
 {
-  "at": "2026-10-14T02:42:34Z",
+  "at": "2026-10-14T16:29:00Z",
   "shorts": {
     "1-ai": {
       "video_id": "IdbU6d1ox0Q",
@@ -159,7 +159,7 @@
       "title": "Feedback in Japan vs the US #shorts",
       "public": true,
       "publish_at": "2026-10-13T09:00:00Z",
-      "views": 10,
+      "views": 13,
       "likes": 0,
       "comments": 0
     },
@@ -181,6 +181,15 @@
       "likes": 0,
       "comments": 0
     },
+    "6-culture": {
+      "video_id": "t3Ebwotx0qg",
+      "title": "Who owns the 1:1? Japan vs the US #shorts",
+      "public": false,
+      "publish_at": "2026-10-14T23:00:00Z",
+      "views": 0,
+      "likes": 0,
+      "comments": 0
+    },
     "7-highlight": {
       "video_id": "PKqpdcOO2J0",
       "title": "You're less clear than you think #shorts",
@@ -195,16 +204,16 @@
       "title": "Short is not the same as clear #shorts",
       "public": true,
       "publish_at": "2026-10-13T23:00:00Z",
-      "views": 1,
+      "views": 13,
       "likes": 0,
       "comments": 0
     },
     "8-highlight": {
       "video_id": "XbltgSdy220",
       "title": "Nobody sees your hard work like you do #shorts",
-      "public": false,
+      "public": true,
       "publish_at": "2026-10-14T09:00:00Z",
-      "views": 0,
+      "views": 5,
       "likes": 0,
       "comments": 0
     },
@@ -330,7 +339,7 @@
       "title": "The surprising upside of impostor thoughts at work #shorts",
       "public": true,
       "publish_at": "2026-10-13T03:24:14Z",
-      "views": 60,
+      "views": 61,
       "likes": 1,
       "comments": 0
     },
@@ -339,7 +348,7 @@
       "title": "I undersold myself to my VP. Here's what I changed #shorts",
       "public": true,
       "publish_at": "2026-10-13T03:24:16Z",
-      "views": 13,
+      "views": 14,
       "likes": 1,
       "comments": 0
     },
@@ -348,7 +357,7 @@
       "title": "Why saying no hurts less than you think #shorts",
       "public": true,
       "publish_at": "2026-10-13T18:58:29Z",
-      "views": 20,
+      "views": 23,
       "likes": 0,
       "comments": 0
     },
@@ -357,7 +366,25 @@
       "title": "I said no badly, and it came back to me #shorts",
       "public": true,
       "publish_at": "2026-10-13T18:58:32Z",
-      "views": 12,
+      "views": 13,
+      "likes": 0,
+      "comments": 0
+    },
+    "24-highlight": {
+      "video_id": "72uDey0Zwc4",
+      "title": "Write a to-do list before bed? A sleep lab tested it #shorts",
+      "public": true,
+      "publish_at": "2026-10-14T16:28:54Z",
+      "views": 0,
+      "likes": 0,
+      "comments": 0
+    },
+    "24-story": {
+      "video_id": "dLLd043bKKA",
+      "title": "My late-night messages kept my engineer online #shorts",
+      "public": true,
+      "publish_at": "2026-10-14T16:28:56Z",
+      "views": 0,
       "likes": 0,
       "comments": 0
     }
@@ -408,7 +435,7 @@
     "7": {
       "video_id": "l4uOZEjAUbw",
       "title": "Why Your Emails Aren't as Clear as You Think | Business English Podcast EP07",
-      "views": 1,
+      "views": 2,
       "likes": 0,
       "comments": 1
     },
@@ -478,7 +505,7 @@
     "17": {
       "video_id": "wlikzFZjDJw",
       "title": "Stress at Work Is a Signal: How to Read It | Business English Podcast EP17",
-      "views": 1,
+      "views": 2,
       "likes": 0,
       "comments": 1
     },
@@ -520,9 +547,16 @@
     "23": {
       "video_id": "INRo9Zitttg",
       "title": "How to Say No at Work Without Damaging the Relationship | Business English Podcast EP23",
-      "views": 1,
+      "views": 2,
       "likes": 0,
       "comments": 1
+    },
+    "24": {
+      "video_id": "8Xu4jH5O4jM",
+      "title": "Can't Stop Thinking About Work at Night? Try This 2-Minute Shutdown | Business English Podcast EP24",
+      "views": 0,
+      "likes": 0,
+      "comments": 0
     }
   }
 }

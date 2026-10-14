@@ -1,5 +1,5 @@
 {
-  "at": "2026-10-13T18:58:35Z",
+  "at": "2026-10-14T02:42:34Z",
   "shorts": {
     "1-ai": {
       "video_id": "IdbU6d1ox0Q",
@@ -159,7 +159,7 @@
       "title": "Feedback in Japan vs the US #shorts",
       "public": true,
       "publish_at": "2026-10-13T09:00:00Z",
-      "views": 8,
+      "views": 10,
       "likes": 0,
       "comments": 0
     },
@@ -186,15 +186,24 @@
       "title": "You're less clear than you think #shorts",
       "public": true,
       "publish_at": "2026-10-11T23:00:00Z",
-      "views": 18,
+      "views": 17,
       "likes": 0,
       "comments": 0
     },
     "7-story": {
       "video_id": "QBnWN2SzjAo",
       "title": "Short is not the same as clear #shorts",
-      "public": false,
+      "public": true,
       "publish_at": "2026-10-13T23:00:00Z",
+      "views": 1,
+      "likes": 0,
+      "comments": 0
+    },
+    "8-highlight": {
+      "video_id": "XbltgSdy220",
+      "title": "Nobody sees your hard work like you do #shorts",
+      "public": false,
+      "publish_at": "2026-10-14T09:00:00Z",
       "views": 0,
       "likes": 0,
       "comments": 0
@@ -321,7 +330,7 @@
       "title": "The surprising upside of impostor thoughts at work #shorts",
       "public": true,
       "publish_at": "2026-10-13T03:24:14Z",
-      "views": 59,
+      "views": 60,
       "likes": 1,
       "comments": 0
     },
@@ -330,7 +339,7 @@
       "title": "I undersold myself to my VP. Here's what I changed #shorts",
       "public": true,
       "publish_at": "2026-10-13T03:24:16Z",
-      "views": 11,
+      "views": 13,
       "likes": 1,
       "comments": 0
     },
@@ -339,7 +348,7 @@
       "title": "Why saying no hurts less than you think #shorts",
       "public": true,
       "publish_at": "2026-10-13T18:58:29Z",
-      "views": 0,
+      "views": 20,
       "likes": 0,
       "comments": 0
     },
@@ -348,7 +357,7 @@
       "title": "I said no badly, and it came back to me #shorts",
       "public": true,
       "publish_at": "2026-10-13T18:58:32Z",
-      "views": 0,
+      "views": 12,
       "likes": 0,
       "comments": 0
     }
@@ -504,16 +513,16 @@
     "22": {
       "video_id": "BaH4lhJ0le4",
       "title": "Feel Like an Impostor at Work? Answer the Voice With Evidence | Business English Podcast EP22",
-      "views": 2,
+      "views": 3,
       "likes": 0,
       "comments": 1
     },
     "23": {
       "video_id": "INRo9Zitttg",
       "title": "How to Say No at Work Without Damaging the Relationship | Business English Podcast EP23",
-      "views": 0,
+      "views": 1,
       "likes": 0,
-      "comments": 0
+      "comments": 1
     }
   }
 }

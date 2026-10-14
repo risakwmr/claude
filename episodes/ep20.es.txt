@@ -1,0 +1,103 @@
+SENA: Es jueves, cinco de la tarde. La sala de reuniones pequeña de Kato-san, la que está junto a la impresora. Tiene una lata de café en la mano, pero no la abre.
+DANIEL: Eso nunca es buena señal.
+SENA: Dice: "Laura lo decidió esta mañana. La región tres pasa a la tabla estándar el mes que viene, como piloto. El equipo de Hannah la va a construir." Luego mira por la ventana y dice: "Así que paramos nuestro dashboard de la región tres. Hoy."
+DANIEL: Tu página del dashboard.
+SENA: Tres semanas de validación. La página está casi terminada. Pensaba mostrarla el martes que viene. Y Kato-san dice: "Gracias por todo eso." Todo eso. Luego le suena el teléfono, dice: "Perdón, es Seattle", y sale.
+DANIEL: ¿Y tú sigues ahí sentada?
+SENA: Con mi cuaderno abierto. Escribí una línea en el margen. "Estómago, pesado, cinco de la tarde." Y después me quedé mirándola.
+DANIEL: Esa sensación pesada tiene nombre, y vale la pena aprenderlo. Al final de este episodio, tendrás cuatro pasos para el día después de que algo en lo que trabajaste duro no sale adelante, y una pregunta que lo convierte en algo útil.
+SENA: Algo útil. Ahora mismo solo parecen tres semanas perdidas.
+DANIEL: Guarda ese pensamiento. Bienvenidos de nuevo a Human Curriculum. Soy Daniel Reed, People Manager en Seattle.
+SENA: Y yo soy Sena Sato, asociada en Tokio. Aquí es viernes, siete y media de la mañana.
+DANIEL: Y aquí es jueves por la tarde. Gris y mojado. Antes de hablar de la región tres, la última vez tu reto fue sobre el enojo. Si un mensaje te enoja, escribe un borrador, espera veinte minutos y léelo de nuevo. ¿Tuviste oportunidad?
+SENA: Por desgracia, sí. Anoche, a las once, Mark mandó un mensaje. "¡Hola Sena! ¿Podemos tener los números de la región tres para mañana? Laura quiere ver la tendencia." Con un emoji de cohete.
+DANIEL: Ay, no. La región tres que se paró a las cinco.
+SENA: Exacto. Mark no lo sabía. Y mi primer borrador, esta vez en mi cuaderno, decía: "La región tres se canceló hace seis horas. Pregúntale a Laura." Subrayado dos veces.
+DANIEL: Puedo oír el subrayado.
+SENA: Luego preparé té y esperé veinte minutos. Después de eso, el borrador se veía muy distinto. Así que escribí: "Hola Mark, Laura decidió esta mañana pasar la región tres a la tabla estándar, así que paramos nuestra versión. Puedo mandarte la última tendencia que tengo, de septiembre, con una nota de que no es final." Él respondió: "¡Ah! No sabía. ¡Septiembre es perfecto, gracias!" Con tres corazones.
+DANIEL: Tres corazones, no una pelea. ¿Le diste las gracias a Kenta por la idea del café?
+SENA: Sí. Le compré un café abajo. Dijo: "No tenías que hacerlo. Pero lo acepto." Eso es largo, para Kenta.
+DANIEL: Kenta está saliendo de su caparazón. Bien. Volvamos a la sala de Kato-san. ¿Qué sentiste? Ponle nombre.
+SENA: Decepción. Y un poco de vergüenza, porque les conté a Ryo y a Kenta sobre mi demo.
+DANIEL: Muy buen nombre. La decepción suele vivir en la brecha entre lo que esperabas y lo que pasó. Esperabas una demo el martes. Recibiste "Gracias por todo eso."
+SENA: "Todo eso." Ni siquiera dijo qué era.
+DANIEL: Esa parte duele, lo sé. Volveremos a Kato-san. Ahora mismo, ¿qué dice la voz en tu cabeza?
+SENA: Que perdí tres semanas. Y que solo quiero olvidarme de la región tres y no volver a mirarla nunca.
+DANIEL: Esa última parte es muy humana. Y hay investigación sobre justo esa sensación. En 2019, Lauren Eskreis-Winkler y Ayelet Fishbach, de la Universidad de Chicago, publicaron un artículo en Psychological Science. El título es "Not Learning From Failure, the Greatest Failure of All."
+SENA: Qué título tan dramático.
+DANIEL: El equipo de Fishbach hizo cinco experimentos con más de mil seiscientas personas. En uno, hicieron preguntas simples con solo dos respuestas posibles. Después de cada respuesta, se les decía: "Tienes razón" o "Te equivocaste."
+SENA: Con dos respuestas, si te equivocas, igual sabes cuál es la correcta.
+DANIEL: Exacto. Una respuesta equivocada enseña tanto como una correcta. Luego volvieron a evaluar a las personas con las mismas preguntas. Y aprendieron menos de las preguntas que fallaron que de las que acertaron. Incluso recordaban menos sus propias respuestas equivocadas.
+SENA: O sea, el fracaso les dio la información y no la tomaron.
+DANIEL: Así es. Incluso cuando se les pagaba por aprender. La explicación de Fishbach es simple. Fallar no se siente bien, así que la gente se desconecta. Es el ego protegiéndose.
+SENA: Eso es justo lo que quiero hacer con la región tres. Desconectarme.
+DANIEL: Aquí viene la parte esperanzadora. Cuando las personas veían fracasar a otra persona, aprendían de eso tan bien como del éxito de otra persona. Si le quitas el fracaso a tu ego, el aprendizaje vuelve.
+SENA: Entonces tengo que mirar la región tres como si le hubiera pasado a otra persona.
+DANIEL: Esa es una forma de hacerlo. Una precaución: eran sobre todo tareas simples tipo cuestionario, no tres semanas de trabajo real. Pero el patrón encaja con lo que muchos sentimos. Ahora, el segundo estudio es sobre lo que ayuda. En 2013, Scott Tannenbaum y Christopher Cerasoli publicaron un metaanálisis en la revista Human Factors. Trataba de los debriefs.
+SENA: ¿Debriefs? ¿Como una reunión después de un proyecto?
+DANIEL: Una mirada atrás corta y estructurada a un hecho concreto. Combinaron cuarenta y seis muestras, con unas dos mil cien personas, de ámbitos militares, médicos, de aviación y otros. En promedio, los debriefs mejoraron el rendimiento entre un veinte y un veinticinco por ciento.
+SENA: ¿Veinticinco por ciento? ¿Solo por hablar de lo que pasó?
+DANIEL: Por mirar un hecho concreto, con honestidad, con el objetivo de aprender. Funcionó para equipos y para individuos. Los que tenían estructura y un facilitador parecieron funcionar mejor, aunque los autores dicen que había muy pocos estudios en algunos de esos grupos. Además, muchos de los estudios eran simulaciones, como ejercicios de entrenamiento.
+SENA: Entonces un debrief es lo contrario de desconectarse.
+DANIEL: Es una bonita forma de decirlo. Nuestra pregunta de siempre. ¿Por qué la IA no puede hacer esto?
+SENA: Mmm. Podría pedirle a la IA que escriba un documento de lecciones aprendidas sobre la región tres. Quedaría muy ordenado. Cinco puntos.
+DANIEL: ¿Y ayudaría?
+SENA: Probablemente no. No sabe qué esperaba yo, ni por qué me duele. No sabe que en la primera semana no le pregunté al equipo de Hannah por sus planes. Eso solo lo sé yo.
+DANIEL: Así es. La IA puede dar formato a las lecciones. No puede sentir la brecha, ni puede elegir mirarla en vez de apartar la vista. Esa elección es toda la habilidad.
+SENA: La elección de mirar. Vale. Daniel, ¿puedo pedirte una de tus historias? Creo que necesito oír que tú también has estado aquí.
+DANIEL: Oh, he estado aquí. Hace unos ocho años, pasé cuatro meses en una propuesta para un nuevo sistema de guardias para nuestros ingenieros. Estaba orgulloso. Luego mi directora eligió en su lugar la propuesta de otro equipo. Más simple, más barata.
+SENA: Cuatro meses.
+DANIEL: Cuatro meses. Y dije: "Bien. Tiene sentido." En la reunión sonreí. Y luego desaparecí. Dejé de ir a las reuniones de planificación del nuevo sistema. Cuando iba, me sentaba al fondo y revisaba el correo.
+SENA: Eso suena a mí queriendo olvidar la región tres.
+DANIEL: Exactamente así. Después de tres semanas, un colega llamado Felix me detuvo en el pasillo. Me dijo: "Daniel, llevas tres semanas ausente. Incluso cuando estás en la sala." Eso dolió, porque era verdad. Y en casa, mi esposa me hizo notar que había hecho curry cinco noches seguidas.
+SENA: Cinco noches. Es mucho curry.
+DANIEL: Comida reconfortante. Felix se ofreció a hacer un debrief conmigo, solo los dos, treinta minutos. Y cuando lo miramos con honestidad, la lección fue clara. Nunca le pregunté a mi directora qué necesitaba más. Asumí que era el mejor sistema. Ella necesitaba el más barato ese año, por el presupuesto.
+SENA: O sea, la propuesta no era mala. Respondía a la pregunta equivocada.
+DANIEL: Eso es. Después de eso, cada propuesta que escribí empezó con una pregunta a quien decidía: "¿Qué es lo que más te importa aquí?" Mi siguiente gran propuesta fue aprobada. Y volví a las reuniones de planificación y ayudé a lanzar el sistema del otro equipo. Tarde, pero volví.
+SENA: ¿Puedo hablar de Japón? Porque creo que manejamos la decepción de forma distinta.
+DANIEL: Por favor.
+SENA: En Japón tenemos la frase "shikata ga nai". Significa "no se puede evitar". Se dice mucho cuando una decisión viene de arriba. Ayuda a aceptar las cosas y seguir adelante en silencio. Pero a veces nadie habla de lo que podríamos aprender. Simplemente aceptamos.
+DANIEL: Aceptar ayuda. Saltarse el aprendizaje es el riesgo.
+SENA: Y el otro lado es "hansei". Reflexión. Pero a veces se convierte en culparse a uno mismo. "Lo siento, es mi culpa, me esforzaré más." Y luego nada cambia.
+DANIEL: Qué interesante. En Estados Unidos oirás "lessons learned", o un "retro", que es la forma corta de retrospectiva. Y está la frase "disagree and commit". Das tu opinión y, si la decisión va en otra dirección, la apoyas por completo. Pero tenemos nuestra propia trampa. Hay mucha presión por verse positivo muy rápido. "¡Totalmente bien, gran experiencia de aprendizaje!" Aunque todavía no esté bien.
+SENA: O sea, Japón a veces se salta el sentimiento, y Estados Unidos a veces también pasa por encima del sentimiento.
+DANIEL: En mi experiencia, sí, aunque cada equipo es distinto. Y ambas culturas pueden saltarse la parte útil del medio: una lección honesta, dicha en voz alta.
+SENA: ¿De qué habilidad de EQ se trata?
+DANIEL: Autogestión. Cuatro pasos. Uno, siéntelo y ponle nombre. Decepción, y lo que esperabas. Dos, separa la decisión de tu valor. La decisión de Laura es sobre la tabla estándar, no sobre ti. Tres, haz el debrief como si le hubiera pasado a otra persona. ¿Qué esperaba? ¿Qué pasó? ¿Cuál es una lección? Y cuatro, encuentra el siguiente paso que esté bajo tu control.
+SENA: Voy a intentarlo. Uno, decepción, porque esperaba una demo el martes. Dos, la decisión fue sobre la plataforma de Hannah y el plan de enero, no porque mi trabajo fuera malo.
+DANIEL: Bien. El tres es el difícil.
+SENA: Si esto le hubiera pasado a Kenta, ¿qué le diría? Le diría: "Lo construiste sin revisar antes los planes del equipo de plataforma." En la primera semana, pude haberle preguntado a Hannah: "¿La región tres está en tu hoja de ruta?" Un solo mensaje. Esa es mi lección. Revisa la hoja de ruta antes de construir.
+DANIEL: Concreta y real. Ahora el cuatro. ¿Qué está bajo tu control?
+SENA: Mis reglas de validación. Las comprobaciones de la región tres ya están escritas. El equipo de Hannah la construirá en la tabla estándar, pero igual tendrán que revisar los datos. Podría ofrecerles mis reglas.
+DANIEL: ¿Y quién del equipo de Hannah la está construyendo?
+SENA: Wendell. Claro que es Wendell. Y nuestros quince minutos son hoy a las ocho y media.
+DANIEL: Entonces ya tienes algo que llevar a esa llamada. Ahora, Speaking Lab. Tres frases para cuando una decisión no sale como querías. Yo digo cada una y Sena repite. Ustedes que escuchan, pausen y díganlas en voz alta con ella.
+SENA: Lista.
+DANIEL: "Estoy decepcionado, pero entiendo las razones detrás de la decisión."
+SENA: Estoy decepcionada, pero entiendo las razones detrás de la decisión.
+DANIEL: "¿Qué podríamos hacer distinto la próxima vez?"
+SENA: ¿Qué podríamos hacer distinto la próxima vez?
+DANIEL: "Esto es lo que aprendí, y esto es lo que probaré ahora."
+SENA: Esto es lo que aprendí, y esto es lo que probaré ahora.
+DANIEL: Claro y firme. Ahora, un resumen. En unos treinta segundos, cuéntame con tus palabras los puntos principales de hoy.
+SENA: Vale. Eskreis-Winkler y Fishbach encontraron que las personas aprenden menos de sus propios fracasos, porque duele, así que, eh, se desconectan. Pero aprenden bien de los fracasos de otros. Y los debriefs, una mirada atrás corta y estructurada, mejoraron el rendimiento entre un veinte y un veinticinco por ciento. Así que después de una decepción, le pongo nombre, separo la decisión de mi valor, la miro como si le hubiera pasado a una amiga y encuentro un siguiente paso.
+DANIEL: Exacto. Ustedes que escuchan, es su turno. En cuarenta segundos, respondan esto. ¿Qué es algo en el trabajo que no salió como esperaban y qué lección pueden sacar de eso? Pausen el audio y hablen.
+SENA: La mía es fácil hoy. Revisa la hoja de ruta antes de construir.
+DANIEL: El reto de hoy: elige algo que no salió como esperabas, hoy o hace poco, y escribe una lección. No lo que salió mal. Una cosa que harás distinto la próxima vez.
+SENA: Una página nueva con el título "Región tres, lo que aprendí." Una línea debajo.
+DANIEL: Una línea es suficiente. Y una cosa más. Mencionaste que Kato-san dijo: "Gracias por todo eso."
+SENA: Sí. "Todo eso."
+DANIEL: En mi experiencia, los jefes que no encuentran las palabras exactas muchas veces también se sienten mal por la noticia. Quizá le costó decirlo.
+SENA: No lo había pensado. De hecho, esta mañana había una lata de café en mi escritorio. Sin nota. Kato-san toma esa marca.
+DANIEL: Esa podría ser su forma de decirlo. ¿Y Ryo? La región tres fue su primera.
+SENA: Ryo dijo: "Perdón, fue mía antes de ser tuya." Y luego: "Sinceramente, estoy un poco aliviado. Si la región tres se acaba, puedo terminar el script de Osaka para la semana que viene. Luego hablaré con Kato-san."
+DANIEL: La semana que viene otra vez.
+SENA: La semana que viene otra vez. Se lo preguntaré hoy en el almuerzo. Directamente.
+DANIEL: Bien. La próxima vez, episodio veintiuno, "Envy as Information". Lo que un sentimiento que no te gusta puede decirte sobre lo que quieres.
+SENA: Envidia. Creo que no siento mucha envidia.
+DANIEL: Ya veremos. Oh, ¿tienes un mensaje?
+SENA: Un correo. De Laura, para todo Tokio. "Por favor, den la bienvenida a Misaki Ono, de marketing analytics, que se unirá al equipo de planificación de lanzamientos de Mark en Seattle durante tres meses, a partir de noviembre." Misaki entró a la empresa el mismo año que yo. Tuvimos la capacitación juntas.
+DANIEL: ¿Y cómo se siente eso?
+SENA: Se me acaba de caer el estómago otra vez. Y esta vez no creo que sea decepción.
+DANIEL: Anótalo. Gracias por escuchar Human Curriculum. Soy Daniel.
+SENA: Y yo soy Sena. Siéntelo, míralo, encuentra una lección. Hasta la próxima.

@@ -68,7 +68,7 @@
     "result": "ok"
   },
   "channel": {
-    "at": "2026-10-15T02:21:15Z",
+    "at": "2026-10-15T15:58:07Z",
     "result": "Human Curriculum | Business English Podcast (UCSaZaQp7Ao--E-UrkQ4RnXg)"
   },
   "captions:hj8EgYR2ORo": {
@@ -602,5 +602,49 @@
   "captions-pt:1vlIpwaeBUg": {
     "at": "2026-10-15T02:27:15Z",
     "result": "ok"
+  },
+  "captions:GmBCSsACX9c": {
+    "at": "2026-10-15T16:08:33Z",
+    "result": "ok"
+  },
+  "captions-en:GmBCSsACX9c": {
+    "at": "2026-10-15T16:08:35Z",
+    "result": "ok"
+  },
+  "captions-es:GmBCSsACX9c": {
+    "at": "2026-10-15T16:08:36Z",
+    "result": "ok"
+  },
+  "captions-pt:GmBCSsACX9c": {
+    "at": "2026-10-15T16:08:37Z",
+    "result": "ok"
+  },
+  "captions-id:GmBCSsACX9c": {
+    "at": "2026-10-15T16:08:38Z",
+    "result": "ok"
+  },
+  "captions-fr:GmBCSsACX9c": {
+    "at": "2026-10-15T16:08:39Z",
+    "result": "ok"
+  },
+  "captions-zh-TW:GmBCSsACX9c": {
+    "at": "2026-10-15T16:08:40Z",
+    "result": "ok"
+  },
+  "captions-ko:GmBCSsACX9c": {
+    "at": "2026-10-15T16:08:41Z",
+    "result": "ok"
+  },
+  "short:25-highlight": {
+    "at": "2026-10-15T16:10:39Z",
+    "result": "ok bwSsHwDcywU"
+  },
+  "short:25-story": {
+    "at": "2026-10-15T16:10:41Z",
+    "result": "ok h-o6YqDiC9o"
+  },
+  "short:9-highlight": {
+    "at": "2026-10-15T16:10:44Z",
+    "result": "ok MwphdbYX4Q0"
   }
 }

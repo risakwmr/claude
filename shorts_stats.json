@@ -1,5 +1,5 @@
 {
-  "at": "2026-10-15T02:22:17Z",
+  "at": "2026-10-15T16:10:45Z",
   "shorts": {
     "1-ai": {
       "video_id": "IdbU6d1ox0Q",
@@ -159,7 +159,7 @@
       "title": "Feedback in Japan vs the US #shorts",
       "public": true,
       "publish_at": "2026-10-13T09:00:00Z",
-      "views": 14,
+      "views": 15,
       "likes": 0,
       "comments": 0
     },
@@ -186,7 +186,7 @@
       "title": "Who owns the 1:1? Japan vs the US #shorts",
       "public": true,
       "publish_at": "2026-10-14T23:00:00Z",
-      "views": 4,
+      "views": 7,
       "likes": 0,
       "comments": 0
     },
@@ -204,7 +204,7 @@
       "title": "Short is not the same as clear #shorts",
       "public": true,
       "publish_at": "2026-10-13T23:00:00Z",
-      "views": 17,
+      "views": 23,
       "likes": 0,
       "comments": 0
     },
@@ -220,8 +220,17 @@
     "8-story": {
       "video_id": "xF66gFc4Ft8",
       "title": "Why quiet work doesn't get you promoted #shorts",
-      "public": false,
+      "public": true,
       "publish_at": "2026-10-15T09:00:00Z",
+      "views": 2,
+      "likes": 0,
+      "comments": 0
+    },
+    "9-highlight": {
+      "video_id": "MwphdbYX4Q0",
+      "title": "Keeping promises beats over-delivering #shorts",
+      "public": false,
+      "publish_at": "2026-10-15T23:00:00Z",
       "views": 0,
       "likes": 0,
       "comments": 0
@@ -393,7 +402,25 @@
       "title": "My late-night messages kept my engineer online #shorts",
       "public": true,
       "publish_at": "2026-10-14T16:28:56Z",
-      "views": 6,
+      "views": 7,
+      "likes": 0,
+      "comments": 0
+    },
+    "25-highlight": {
+      "video_id": "bwSsHwDcywU",
+      "title": "Does perfectionism make you better at work? #shorts",
+      "public": true,
+      "publish_at": "2026-10-15T16:10:39Z",
+      "views": 0,
+      "likes": 0,
+      "comments": 0
+    },
+    "25-story": {
+      "video_id": "h-o6YqDiC9o",
+      "title": "My perfect review cost her two weeks of fear #shorts",
+      "public": true,
+      "publish_at": "2026-10-15T16:10:41Z",
+      "views": 0,
       "likes": 0,
       "comments": 0
     }
@@ -528,7 +555,7 @@
     "19": {
       "video_id": "igbmiE3tGX4",
       "title": "Angry at Work? What to Do Before You Hit Send | Business English Podcast EP19",
-      "views": 1,
+      "views": 2,
       "likes": 0,
       "comments": 1
     },
@@ -542,7 +569,7 @@
     "21": {
       "video_id": "1vlIpwaeBUg",
       "title": "Jealous of a Coworker? What Envy Tells You About Your Goals | Business English Podcast EP21",
-      "views": 2,
+      "views": 4,
       "likes": 0,
       "comments": 1
     },
@@ -556,16 +583,23 @@
     "23": {
       "video_id": "INRo9Zitttg",
       "title": "How to Say No at Work Without Damaging the Relationship | Business English Podcast EP23",
-      "views": 3,
+      "views": 7,
       "likes": 0,
       "comments": 1
     },
     "24": {
       "video_id": "8Xu4jH5O4jM",
       "title": "Can't Stop Thinking About Work at Night? Try This 2-Minute Shutdown | Business English Podcast EP24",
-      "views": 1,
-      "likes": 0,
+      "views": 12,
+      "likes": 1,
       "comments": 1
+    },
+    "25": {
+      "video_id": "GmBCSsACX9c",
+      "title": "Perfectionism at Work: How to Know When It's Good Enough | Business English Podcast EP25",
+      "views": 0,
+      "likes": 0,
+      "comments": 0
     }
   }
 }

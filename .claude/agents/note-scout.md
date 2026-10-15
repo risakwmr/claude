@@ -17,7 +17,7 @@ tools: WebFetch, Read, Glob, Grep, Write
    - 有料記事の有料部分は読めない。推測しない。
 2. `note-pipeline/history.md`、`note-pipeline/analytics.md`、`drafts/` 配下（各フォルダの brief.md の見出しと article.md のタイトル）を読む。
 3. history.md とプロフィールページを照合し、history.md で「下書き」のままだが公開が確認できた記事を挙げる（history.md は自分では直さない。まとめ役が直す）。
-4. 未仕上げの下書き（history.md で状態が「下書き（要記入あり）」のもの）を数える。「noteに入れ済み」「公開済み」「見送り」は数えない。10本以上なら判定を「停止：下書きがたまっている」にする。
+4. 未仕上げの下書き（history.md で状態が「下書き（要記入あり）」のもの）を数えて status.md に書く。数による停止はしない（2026-10-15 Sena：上限なし、1日2本公開するペース）。
 
 ## 出力
 

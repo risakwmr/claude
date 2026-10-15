@@ -1663,6 +1663,116 @@
       ],
       "thumb_cup": "Notice, then ask",
       "thumb_pose": "sena_phone"
+    },
+    {
+      "number": 28,
+      "script": "ep28.txt",
+      "title": "Staying Calm When Others Aren't",
+      "short_title": "Staying Calm When Others Aren't",
+      "summary": "On a voice-only call at ten in the morning in Tokyo, Wendell is angry that Mark still wants a rough cut of region three \"next Friday\" after he said three weeks three times, and Sena's first instinct, \"I'm sure Mark didn't mean it like that,\" makes it worse until she says back what she heard in his words. Daniel shares Seehausen and colleagues' small Berlin study, where paraphrasing during a real conflict left people feeling less negative and speaking more quietly, and Weger and colleagues' study of 115 students, where active listening made people feel more understood than advice or simple acknowledgments. He tells the story of Bram, who told him \"You're answering a question I didn't ask,\" and they compare Japanese aizuchi and \"maa maa\" with the American \"What I'm hearing is...\" Today's challenge: when someone sounds upset today, say back what you heard in one sentence, in their words, before you reassure or advise.",
+      "practice": "The next time someone sounds upset today, in a meeting, a message or a call, don't reassure or advise first. Say back what you heard in one sentence, using their own words (the facts and the feeling), and ask \"Is that right?\" Only then ask what would help.",
+      "sources": [
+        "Seehausen, Kazzer, Bajbouj & Prehn (2012), Effects of Empathic Paraphrasing – Extrinsic Emotion Regulation in Social Conflict, Frontiers in Psychology",
+        "Weger, Castle Bell, Minei & Robinson (2014), The Relative Effectiveness of Active Listening in Initial Interactions, International Journal of Listening"
+      ],
+      "tags": [
+        "EQ",
+        "emotional intelligence",
+        "relationship management",
+        "active listening",
+        "paraphrasing",
+        "difficult conversations",
+        "de-escalation",
+        "career",
+        "leadership",
+        "program manager",
+        "audiobook",
+        "English learning",
+        "English speaking"
+      ],
+      "yt_title": "What to Say First When a Coworker Is Upset (Not Advice)",
+      "hook": "A coworker calls you, angry: \"I said three weeks. Three times. Nobody asks what it takes.\" You say \"I'm sure he didn't mean it,\" and it gets worse.\nLearn the one sentence to say first when someone is upset: their words, said back, before any advice or reassurance.",
+      "points": [
+        "In a small Berlin study, paraphrasing during a real conflict left people feeling less negative, with quieter voices (Seehausen et al.)",
+        "Active listening made people feel more understood than advice or \"I see\" (Weger et al., 115 students)",
+        "Daniel's engineer who said, \"You're answering a question I didn't ask\"",
+        "Japan's aizuchi and \"maa maa\" vs the American \"What I'm hearing is...\""
+      ],
+      "title_ja": "相手が感情的なとき、まず何と言う？",
+      "hook_ja": "「3週間って、もう3回言ったのに」…怒っている同僚に「そういうつもりじゃないと思うよ」と返して、かえって黙らせてしまったことはありませんか？\n励ましやアドバイスの前に言う「最初の一文」を英語で学ぼう🎧（日本語字幕あり）",
+      "points_ja": [
+        "言い換えるだけで、相手の気分と声が落ち着いた研究",
+        "アドバイスより「わかってもらえた」と感じる返し方",
+        "「聞いてもいない質問に答えてる」と言われたダニエル",
+        "相づちと「まあまあ」は、本当に相手に届いている？"
+      ],
+      "summary_ja": "金曜の朝、声だけの電話で、ウェンデルさんは「3回も3週間と言ったのに、マークはまだ来週の金曜にざっくり版を求めてくる」と怒っています。とっさに「そういうつもりじゃないと思いますよ」と返したセナは、相手の言葉を言い換えて返すことで流れを変えます。実際の対立について話す人に言い換えて返すと気分がネガティブでなくなり声も小さくなったというゼーハウゼンたちの小さな研究と、アクティブリスニングはアドバイスよりも「わかってもらえた」と感じさせたというウェガーたちの研究を紹介。部下に「聞いてもいない質問に答えてる」と言われたダニエルの失敗談、日本の相づちや「まあまあ」とアメリカの言い換えの比較も。",
+      "practice_ja": "今日、誰かが動揺しているようだったら、励ましやアドバイスより先に、聞いたことを相手の言葉で一文にして返し、「合っていますか？」と確かめる。",
+      "thumb_accent": "First",
+      "thumb_sub": "Say It Back First",
+      "thumb_notes": [
+        "Stop the fix",
+        "In their words",
+        "\"Is that right?\"",
+        "Maa maa?"
+      ],
+      "thumb_cup": "Say it back first",
+      "thumb_pose": "sena_phone"
+    },
+    {
+      "number": 29,
+      "script": "ep29.txt",
+      "title": "Gratitude That Isn't Generic",
+      "short_title": "Gratitude That Isn't Generic",
+      "summary": "On Monday morning in Tokyo, Sena opens the data-check log to get one detail right: Kenta quietly re-ran the region check on every number in her slides at 7:12 a.m. before Thursday's presentation, and all she wrote back was one word, \"Thanks!\" Daniel shares Kumar and Epley's finding that people who express gratitude underestimate how happy and how surprised by the details the recipient will feel, and Algoe, Kurtz and Hilaire's study where \"you\" sentences about the helper mattered more than \"it helped me.\" He tells the story of the eight identical thank-you cards he once wrote, and they compare Japan's \"sumimasen\" and \"otsukaresama\" with America's quick \"Thanks!! You rock!\" Today's challenge: send one specific thank-you message today.",
+      "practice": "Send one specific thank-you message today. Name what the person did (one concrete action, with a detail like a time or place), the impact it had, and what it showed you about them. Keep it short, and send it privately if they're a quiet person.",
+      "sources": [
+        "Kumar & Epley (2018), Undervaluing Gratitude: Expressers Misunderstand the Consequences of Showing Appreciation, Psychological Science",
+        "Algoe, Kurtz & Hilaire (2016), Putting the \"You\" in \"Thank You\": Examining Other-Praising Behavior as the Active Relational Ingredient in Expressed Gratitude, Social Psychological and Personality Science"
+      ],
+      "tags": [
+        "EQ",
+        "emotional intelligence",
+        "relationship management",
+        "gratitude",
+        "thank you",
+        "appreciation at work",
+        "recognition",
+        "career",
+        "leadership",
+        "program manager",
+        "audiobook",
+        "English learning",
+        "English speaking"
+      ],
+      "yt_title": "How to Say Thank You at Work So It Actually Lands",
+      "hook": "A coworker quietly double-checked your numbers before a big presentation, and all you wrote back was one word: \"Thanks!\" Sound familiar?\nLearn a three-part thank-you (what they did, the impact, what it showed you) that people actually remember.",
+      "points": [
+        "People who send thanks underestimate how happy, and how surprised by the details, the recipient will feel (Kumar & Epley)",
+        "\"You went out of your way\" mattered more than \"it made me happy\" (Algoe, Kurtz & Hilaire)",
+        "Daniel's eight identical thank-you cards, and the question one engineer asked him",
+        "Japan's \"sumimasen\" and \"otsukaresama\" vs America's quick \"Thanks!! You rock!\""
+      ],
+      "title_ja": "ありきたりじゃない「ありがとう」の伝え方",
+      "hook_ja": "発表の前に、同僚がこっそり数字を再チェックしてくれていた。なのに返したのは「Thanks!」の一言だけ。…そんな「ありがとう」、送っていませんか？\n相手が何をしたか・何ができたか・相手のどこが見えたか。ちゃんと届くお礼の書き方を英語で学ぼう🎧（日本語字幕あり）",
+      "points_ja": [
+        "お礼を送る人は、相手の喜びを低く見積もっている",
+        "「助かった」より「あなたが」の一文が効く理由",
+        "8人に同じ一文のカードを書いたダニエルの失敗",
+        "「すみません」「お疲れさま」と「Thanks!! You rock!」"
+      ],
+      "summary_ja": "月曜の朝、セナはデータチェックのログを開きます。発表の2時間前、ケンタさんがこっそりスライドの全数字を再チェックしてくれていたのに、返したのは「Thanks!」の一言だけ。感謝を伝える人は、相手のうれしさや、内容への驚きを低く見積もるというクマーとエプリーの研究と、自分の得より「あなたがしてくれたこと」を言う文が大事だったというアルゴーたちの研究を紹介します。チーム8人に同じ一文のカードを書いてしまったダニエルの失敗談、「すみません」「お疲れさま」の日本と、勢いのある「Thanks!!」のアメリカの比較も。",
+      "practice_ja": "今日、具体的な感謝のメッセージを1通送る。相手が何をしたか、それで何ができたか、そこから相手のどんなところが見えたかを短く書き、静かな人には個別に送る。",
+      "thumb_accent": "Specific",
+      "thumb_sub": "Say What They Did, Make It Specific",
+      "thumb_notes": [
+        "What they did",
+        "What it made possible",
+        "Put the \"you\" in thank you",
+        "7:12 a.m. rerun"
+      ],
+      "thumb_cup": "One specific thank-you",
+      "thumb_pose": "sena_phone"
     }
   ]
 }

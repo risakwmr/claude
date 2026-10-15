@@ -1,0 +1,8 @@
+{
+  "shorts": [
+    {"kind": "highlight", "lines": [48, 52], "hook": "When someone's upset, advice doesn't make them feel understood. This does.", "title": "Why advice doesn't calm upset people (try this first)"},
+    {"kind": "ai", "lines": [53, 57], "hook": "A chatbot can paraphrase perfectly. So why did he call a coworker?", "title": "Why AI can't calm an upset coworker"},
+    {"kind": "story", "lines": [58, 68], "hook": "\"You're answering a question I didn't ask.\" Then he walked out.", "title": "The manager mistake: fixing before listening"},
+    {"kind": "culture", "lines": [71, 79], "hook": "In Japan, \"maa maa\" calms people down. Does it make them feel heard?", "title": "Aizuchi vs \"What I'm hearing is\": Japan vs the US"}
+  ]
+}

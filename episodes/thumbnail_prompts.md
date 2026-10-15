@@ -154,3 +154,53 @@ Use a substantially different body orientation and camera angle from recent epis
 Text, left side, large navy serif: "Reading Emotions on a Video Call". Below in navy serif with "Ask" in coral italic: "Notice the Change, Then Ask". Top left small: "The Human Curriculum". Coral label: "EPISODE 27".
 Small details: handwritten notes "Getting, not taking", "Listen to the voice", "Kuuki wo yomu"; a pink sticky note "Notice, then ask"; three stacked books with spines "Eyal et al.", "Kraus", "Human Curriculum".
 ```
+
+## EP28｜Staying Calm When Others Aren't
+
+```
+16:9 YouTube thumbnail, soft watercolor anime illustration, warm natural light, editorial collage style on cream textured paper with torn edges and coral and blue brush strokes.
+Character (keep identical in every episode): Sena, a young Japanese woman, long wavy light-brown hair, sunglasses perched on her head, small gold hoop earrings, oversized soft pink knit sweater, cream wide-leg trousers.
+Scene: a breezy riverside promenade in Tokyo on an autumn morning, a long stone embankment with a railing, ginkgo leaves blowing, the river and a low bridge in the distance. Wide shot, camera at her eye level, positioned slightly behind and to her right (three-quarter rear view), so she walks diagonally away into the frame toward the left. Sena walks with steady, unhurried steps, a phone held to her left ear; out of the phone streams a wild, tangled coral-red scribble line, like an angry storm of thread whipping in the wind. With her right hand she calmly catches that line and winds it around her fingers into a small, neat ball of soft pink yarn that matches her sweater, the tangle growing smoother and calmer as it reaches her hand. Her head is tilted, listening; her expression is calm and attentive. A few tiny paper speech bubbles drift past, echoing words back.
+IMPORTANT: DO NOT default to a desk, laptop, coffee cup, notebook, or seated office scene.
+The protagonist must be physically active or visually interacting with the environment.
+Prioritize strong physical storytelling: walking, running, climbing stairs, opening a door, crossing a bridge, looking through a window, carrying objects, reaching, turning, balancing, following a route, standing in a large environment, interacting with oversized conceptual objects, talking while walking, or moving through a public space.
+The Mac/laptop should NOT be the main visual focus. A laptop may appear only as a secondary environmental detail when necessary.
+Avoid repetitive:
+- sitting at a desk
+- typing on a laptop
+- writing in a notebook
+- holding a coffee cup
+- video-call composition
+- pointing at text
+Every episode should communicate the concept through BODY MOVEMENT + ENVIRONMENT + VISUAL METAPHOR.
+The viewer should understand what the character is DOING, not simply what she is LOOKING AT.
+Make the pose dynamic, natural, and editorial rather than static, posed, or like a corporate illustration.
+Use a substantially different body orientation and camera angle from recent episodes.
+Text, left side, large navy serif: "Staying Calm When Others Aren't". Below in navy serif with "First" in coral italic: "Say It Back First". Top left small: "The Human Curriculum". Coral label: "EPISODE 28".
+Small details: handwritten notes "Stop the fix", "In their words", "Is that right?"; a pink sticky note "Say it back first"; three stacked books with spines "Seehausen et al.", "Weger et al.", "Human Curriculum".
+```
+
+## EP29｜Gratitude That Isn't Generic
+
+```
+16:9 YouTube thumbnail, soft watercolor anime illustration, warm natural light, editorial collage style on cream textured paper with torn edges and coral and blue brush strokes.
+Character (keep identical in every episode): Sena, a young Japanese woman, long wavy light-brown hair, sunglasses perched on her head, small gold hoop earrings, oversized soft pink knit sweater, cream wide-leg trousers.
+Scene: early autumn morning at a wide outdoor stone staircase leading up to a glass office building in Tokyo; dramatic worm's-eye view from the bottom step looking steeply up. Sena climbs the stairs two at a time, body turned three-quarters toward the camera, one arm raised high holding an oversized handwritten thank-you card like a small banner; the card has three neat lines on it (what you did / what it changed / what it showed). At the top of the stairs, one window glows warm. Golden ginkgo leaves swirl around her steps. Her expression is bright and a little shy.
+IMPORTANT: DO NOT default to a desk, laptop, coffee cup, notebook, or seated office scene.
+The protagonist must be physically active or visually interacting with the environment.
+Prioritize strong physical storytelling: walking, running, climbing stairs, opening a door, crossing a bridge, looking through a window, carrying objects, reaching, turning, balancing, following a route, standing in a large environment, interacting with oversized conceptual objects, talking while walking, or moving through a public space.
+The Mac/laptop should NOT be the main visual focus. A laptop may appear only as a secondary environmental detail when necessary.
+Avoid repetitive:
+- sitting at a desk
+- typing on a laptop
+- writing in a notebook
+- holding a coffee cup
+- video-call composition
+- pointing at text
+Every episode should communicate the concept through BODY MOVEMENT + ENVIRONMENT + VISUAL METAPHOR.
+The viewer should understand what the character is DOING, not simply what she is LOOKING AT.
+Make the pose dynamic, natural, and editorial rather than static, posed, or like a corporate illustration.
+Use a substantially different body orientation and camera angle from recent episodes.
+Text, left side, large navy serif: "Gratitude That Isn't Generic". Below in navy serif with "Specific" in coral italic: "Say What They Did, Make It Specific". Top left small: "The Human Curriculum". Coral label: "EPISODE 29".
+Small details: handwritten notes "What they did", "What it made possible", "Put the 'you' in thank you"; a pink sticky note "One specific thank-you"; three stacked books with spines "Kumar & Epley", "Algoe et al.", "Thank You".
+```

@@ -1,0 +1,115 @@
+SENA: It's Friday, ten oh two in the morning. Phone booth, fourteenth floor, door closed. Voice only. Wendell is talking fast, and his voice is tight.
+DANIEL: What is he saying?
+SENA: "I said three weeks. In the doc, in the presentation chat, on the call this morning. Three times. And Mark still writes, 'Any chance of a rough cut next Friday?' Nobody asks what it takes. Nobody."
+DANIEL: And you said?
+SENA: The first thing in my head. "I'm sure Mark didn't mean it like that. He's just excited about the launch." Then silence. Five seconds. Then Wendell, very flat. "Yeah. Sure. Forget it, it's fine."
+DANIEL: "It's fine."
+SENA: It was not fine. I could hear it. I tried to help, and I made it worse.
+DANIEL: Hold that moment. By the end of this episode, you'll have one sentence to say first when someone is upset, before any advice or reassurance.
+SENA: One sentence. I needed it at ten oh two.
+DANIEL: Welcome back to Human Curriculum. I'm Daniel Reed, a People Manager in Seattle.
+SENA: And I'm Sena Sato, an Associate in Tokyo. It's Friday, ten at night here.
+DANIEL: And six in the morning here. Still dark, and Maple is staring at me like the walk is overdue. Last time, your challenge was to notice one person whose energy changed in a meeting, and message them afterward. After Wendell, did you try a second?
+SENA: Yes, at our two o'clock team meeting. Kenta said, "Actually..." about chart two, and stopped.
+DANIEL: And afterward?
+SENA: I messaged him. "Thanks for your region one notes. You started to say something about chart two. What was it?" He wrote, "The date label says September, but the data ends in August. Small. I'll show you Monday."
+DANIEL: Small, but real. He wouldn't have said it in the meeting.
+SENA: No. But the big one today was Wendell.
+DANIEL: So, back to the phone booth. After "Forget it, it's fine."
+SENA: I almost said, "Let me know if you need anything," and hung up. But I remembered this morning. Ask, don't guess. I hadn't asked anything. I had answered something he didn't say.
+DANIEL: That's a good catch, in real time.
+SENA: So I said, slowly, "Wait. Let me make sure I understand. You've given the same answer three times, and it feels like nobody's hearing it."
+DANIEL: And then?
+SENA: A long breath on the line. Then, "Yes. Exactly that." And his voice changed. Slower. Lower. "It's not that I don't like Mark. He's nice. It's that every time he asks, I have to defend the same number again, in front of everyone."
+DANIEL: Did you say that back too?
+SENA: Kind of. "So it's not really about Mark. It's defending the same number in public, again and again." He said, "Right. And nobody asks what it takes." So I asked. "What does it take?"
+DANIEL: What a question.
+SENA: He talked for three minutes. Two more source tables. Old store codes that don't match. Then my validation rules, a week on their own. I just wrote it down. Nothing smart.
+DANIEL: You didn't need to. How did the call end?
+SENA: He said, "Okay. I know what to do. I'll write Mark one clear message. What a rough cut next Friday would include, and what it wouldn't." A partial view of two segments. No validation. "If he still wants that, fine. It's in writing."
+DANIEL: That's a different person from "Forget it, it's fine."
+SENA: Twelve minutes, not five. But I keep replaying my first sentence. "I'm sure Mark didn't mean it like that." I meant it kindly.
+DANIEL: Most of us do. And that's what our first study is about. In 2012, Seehausen, Kazzer, Bajbouj and Prehn, in Berlin, published "Effects of Empathic Paraphrasing: Extrinsic Emotion Regulation in Social Conflict," in Frontiers in Psychology.
+SENA: Extrinsic. From the outside?
+DANIEL: Exactly. Calming someone else's emotion. Twenty adults, each in a real, recent conflict with a partner, friend, neighbor or family member. One interviewer, trained in mediation, asked ten open questions, like, "What bothers you about the other person's behavior?"
+SENA: Ten questions about your conflict. Brave.
+DANIEL: After each answer, she either paraphrased, summarizing the facts and feelings and checking she had it right, or she just quietly took notes.
+SENA: So the same interviewer, the same conflict. Only the response changed.
+DANIEL: Right. After a paraphrase, people rated their mood as less negative, and their voices were quieter on the next answer. The surprising part: during the paraphrase itself, their heart rate and skin conductance went up, not down.
+SENA: Up? Hearing my own problem said back to me makes my body more stressed?
+DANIEL: For a moment. The authors' guess, and they call it speculative, is that hearing it said back helps people face the feeling instead of pushing it away. A short spike, then it settles.
+SENA: That matches. When I said "nobody's hearing it," there was that long breath. Then he got calmer.
+DANIEL: Cautions: only twenty people, one interviewer, and the comparison was silent note-taking, not another reply. So it can't say paraphrasing beats every response. And it measured only the next few minutes.
+SENA: So it doesn't compare paraphrasing with what I did. "I'm sure he didn't mean it."
+DANIEL: That's where the second study comes in. In 2014, Harry Weger and colleagues published "The Relative Effectiveness of Active Listening in Initial Interactions" in the International Journal of Listening.
+SENA: Initial interactions. With strangers?
+DANIEL: Yes. A hundred and fifteen undergraduates talked with trained student listeners about their weekend plans and their biggest disappointment at university. The listeners answered in one of three ways. Active listening, meaning paraphrasing and sometimes asking them to say more. Advice. Or simple acknowledgments, like "I see," or "That makes sense."
+SENA: Advice. That's my instinct. Fix it, solve it, make it better.
+DANIEL: In Weger's study, people who got active listening felt more understood than those who got advice or acknowledgments. But advice wasn't disliked. It scored about the same as active listening on satisfaction and likability, and both beat acknowledgments by a small margin.
+SENA: So advice isn't rude. It just doesn't make people feel understood.
+DANIEL: Cautions again: students, strangers, short conversations, not an angry colleague. But it lines up with Berlin. Paraphrase first. Advice can come later, if they want it.
+SENA: And "I'm sure Mark didn't mean it" isn't even advice. It's telling him his feeling is wrong.
+DANIEL: That's the trap. Weger's team notes that advice can quietly suggest the speaker's view isn't quite right. Reassurance does that too, more politely.
+SENA: Honestly, AI is good at this. If I type, "I'm so angry," a chatbot says, "It sounds like you're feeling frustrated." Every time.
+DANIEL: It's good at the words. So why did Wendell call you, and not a chatbot?
+SENA: Because I was there. I heard Mark's joke. I know "three times" is true, because one of them was him correcting me. And next Friday, I'll be on the call too.
+DANIEL: A paraphrase from a colleague means, "I heard you, and I'll be here when it matters." Wendell needed someone from that call to hear him before he wrote to Mark. AI can echo the sentence. It can't be that person.
+SENA: And it couldn't have heard his voice get slower.
+DANIEL: Let me tell you about the first time someone said I was answering the wrong question. My second year as a manager. An engineer, Bram, had spent four months on a migration. Then a reorg cancelled it in one email. He walked into my office, closed the door, and said, "Four months. Gone. Nobody even asked me."
+SENA: Oh no. What did you say?
+DANIEL: I said, "Look on the bright side. You learned a lot, and the new project is exciting." Then I listed its good parts. I was proud of that list.
+SENA: That's my "I'm sure Mark didn't mean it."
+DANIEL: Same family. Bram listened, then stood up and said, "Daniel, you're answering a question I didn't ask." And he left.
+SENA: Ouch.
+DANIEL: The next day, he went to my director instead. I had made myself the wrong person to talk to.
+SENA: Did you fix it?
+DANIEL: A week later, I went to his desk and tried again. "So you put four months into this, and it disappeared without anyone asking you. Is that right?" He said, "Yes. That's all I wanted someone to say."
+SENA: That's all.
+DANIEL: Then he talked for twenty minutes, and at the end, asked about the new project. My list was fine. It was just in the wrong order.
+SENA: The wrong order. I like that.
+DANIEL: My wife does it to me now. Last week I burned the curry again, and she said, "So you followed the box exactly, and the kitchen still betrayed you." Then she helped. The wrong order: "Just read the box."
+SENA: Can I talk about Japan? We have two habits close to this, but not the same.
+DANIEL: Tell me.
+SENA: First, aizuchi. "Hai, hai." "Naruhodo." Small sounds that show we're listening. Second, when someone's upset, we often say, "Maa maa." Like, "Now, now, calm down." Or we apologize for the other person. "Sorry, Mark-san is just like that."
+DANIEL: That's the reassurance move.
+SENA: It protects the harmony. But it doesn't say, "I understood you." And aizuchi is like the simple acknowledgments in Weger's study. Warm, but not the same as feeling understood.
+DANIEL: In the US, manager training often teaches, "What I'm hearing is..." But in a flat voice, it sounds like a script, and people roll their eyes.
+SENA: So in Japan, we listen a lot but rarely say it back. In the US, people say it back, but sometimes like a robot.
+DANIEL: Fair, though every team differs. The best version uses their words. You said "the same answer three times."
+SENA: Because he said "three times." I just gave it back to him.
+DANIEL: This is relationship management. Four steps when someone's emotions run high. One, stop your fix: no reassurance, no advice yet. Two, say back the facts and the feeling in one sentence, in their words. Three, check: "Is that right?" Let them correct you. Four, only then, ask what would help.
+SENA: And keep my own voice slow. When he was fast, I wanted to be fast too.
+DANIEL: Yes. And if someone is in real distress, not just frustrated, a paraphrase isn't enough. Help them find support: a manager they trust, or a professional.
+SENA: Understood.
+DANIEL: Let's practice. I'm an upset stakeholder. Ready? "I've asked for this dashboard twice, and it's still not done! I have a review with my VP on Monday!"
+SENA: Okay. "What I'm hearing is that you're feeling frustrated about the dashboard timeline."
+DANIEL: How does that sound?
+SENA: Like the American robot. Let me use your words. "So you've asked twice, you still don't have it, and the VP review is on Monday. Is that right?"
+DANIEL: As the stakeholder, yes. Exactly. Now I can hear your answer. What's next?
+SENA: "What do you need to show on Monday? Maybe I can get you that part first."
+DANIEL: That's the order. Hear it, check it, then help. Now, Speaking Lab. Three sentences for when someone is upset. I'll say each one, and Sena repeats. Listeners, pause and say it out loud with her.
+SENA: Ready.
+DANIEL: "So you've explained this three times, and nobody seems to hear it."
+SENA: So you've explained this three times, and nobody seems to hear it.
+DANIEL: "Let me check I've got this right before I answer."
+SENA: Let me check I've got this right before I answer.
+DANIEL: "Is that right, or am I missing something important?"
+SENA: Is that right, or am I missing something important?
+DANIEL: Good. Now, a retell. In about thirty seconds, tell me today's main points in your own words.
+SENA: Okay. When someone is upset, my instinct is to fix it or reassure them. But in Seehausen's study, paraphrasing made people feel, um, less negative, and their voices got quieter. And in Weger's study, active listening made people feel more understood than advice. Both are small studies. So first, I say back their facts and feeling in their words, I check if it's right, and only then I help.
+DANIEL: That's it. Listeners, your turn. In forty seconds, answer this. When someone is upset with you at work, what do you usually say first, and what would you like to say instead? Pause the audio and speak.
+SENA: I usually say, "Sorry, sorry." I'd like to say, "So what happened is..." first.
+DANIEL: Today's challenge: the next time someone sounds upset today, in a meeting, a message or a call, don't reassure or advise first. Say back what you heard in one sentence, using their words, and ask, "Is that right?"
+SENA: My today is almost over, but Misaki is texting me about packing for Seattle, and she sounds stressed. I'll start with her.
+DANIEL: Next time, episode twenty-nine, "Gratitude That Isn't Generic." How to thank someone so they know exactly what you noticed.
+SENA: Oh. Slack. It's Wendell.
+DANIEL: At six in the morning, his time?
+SENA: He's up early too. He forwarded Mark's reply from last night. Mark wrote, "That works. Thanks for spelling it out." With a thumbs-up.
+DANIEL: Two segments, no validation, and Mark agreed. In writing.
+SENA: And a second message. "Thanks for listening. You didn't try to fix it. That helped."
+DANIEL: Well. The second half of your call earned that.
+SENA: So specific. And now I'm thinking about Thursday. Before my presentation, Kenta came in early and quietly re-ran the region check on every number in my slides. "All clean." And I wrote back one word. "Thanks!"
+DANIEL: One word.
+SENA: With an exclamation mark. Daniel, I want to thank him properly. But I don't know how to say it without sounding like a greeting card.
+DANIEL: That's exactly where we start next time. Thanks for listening to Human Curriculum. I'm Daniel.
+SENA: And I'm Sena. Stop the fix, say it back in their words, and check before you help. See you next time.

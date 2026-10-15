@@ -1,0 +1,503 @@
+{
+ "cues": [
+  {
+   "line": 1,
+   "section": "Cold open",
+   "sena": "laptop",
+   "daniel": "listen",
+   "board": {
+    "type": "keyword",
+    "text": "7:12 a.m. Rerun. Kenta. All clean.",
+    "sub": "she opens the log to get one detail right",
+    "icons": [
+     "Ledger",
+     "Check mark button"
+    ]
+   }
+  },
+  {
+   "line": 3,
+   "sena": "shy",
+   "daniel": "notice",
+   "board": {
+    "type": "keyword",
+    "text": "Thursday: one word. \"Thanks!\"",
+    "sub": "\"Thank you so much for everything\": deleted three times",
+    "icon": "Pencil"
+   }
+  },
+  {
+   "line": 5,
+   "sena": "think",
+   "daniel": "chin",
+   "board": {
+    "type": "keyword",
+    "text": "Kenta arrives at nine",
+    "sub": "forty-eight minutes",
+    "icon": "Alarm clock"
+   }
+  },
+  {
+   "line": 6,
+   "daniel": "explain",
+   "board": {
+    "type": "list",
+    "title": "A thank-you in three parts",
+    "items": [
+     "What they did",
+     "What it made possible",
+     "What it showed you about them"
+    ]
+   }
+  },
+  {
+   "line": 8,
+   "section": "Last time",
+   "sena": "default",
+   "daniel": "dog",
+   "board": {
+    "type": "cover"
+   }
+  },
+  {
+   "line": 13,
+   "sena": "calm",
+   "daniel": "smile",
+   "board": {
+    "type": "keyword",
+    "text": "\"Packing for three months and reading forty pages\"",
+    "sub": "Misaki: \"Yes. Exactly that. Suitcase first.\"",
+    "icon": "Speech balloon"
+   }
+  },
+  {
+   "line": 15,
+   "sena": "moved",
+   "daniel": "listen",
+   "board": {
+    "type": "keyword",
+    "text": "\"You didn't try to fix it. That helped.\"",
+    "sub": "Wendell's thanks: exact, so it stayed",
+    "icon": "Notebook"
+   }
+  },
+  {
+   "line": 19,
+   "section": "Today",
+   "sena": "point",
+   "daniel": "listen",
+   "board": {
+    "type": "keyword",
+    "text": "Every number in her slides",
+    "sub": "Kenta came in early and re-ran the region check",
+    "icon": "Bar chart"
+   }
+  },
+  {
+   "line": 23,
+   "sena": "oh",
+   "daniel": "notice",
+   "board": {
+    "type": "keyword",
+    "text": "She never worried about them",
+    "sub": "because somebody checked at 7:12",
+    "icon": "Check mark button"
+   }
+  },
+  {
+   "line": 25,
+   "sena": "phone",
+   "daniel": "puzzled",
+   "board": {
+    "type": "keyword",
+    "text": "Draft one: \"You're the best!\"",
+    "sub": "\"I owe you a coffee!\"",
+    "icon": "Hot beverage"
+   }
+  },
+  {
+   "line": 28,
+   "section": "Research",
+   "sena": "listen",
+   "daniel": "research",
+   "board": {
+    "type": "study",
+    "who": "Kumar & Epley (2018)",
+    "stat": "Undervaluing Gratitude",
+    "text": "People wrote gratitude letters and predicted how the recipient would feel",
+    "note": "Psychological Science",
+    "icon": "Love letter"
+   }
+  },
+  {
+   "line": 32,
+   "sena": "surprised",
+   "daniel": "explain",
+   "board": {
+    "type": "compare",
+    "left": {
+     "title": "Writers predicted",
+     "items": [
+      "Less happy",
+      "More awkward",
+      "Not surprised by the content"
+     ]
+    },
+    "right": {
+     "title": "Recipients felt",
+     "items": [
+      "Happier",
+      "Less awkward",
+      "Surprised by what was in it"
+     ]
+    }
+   }
+  },
+  {
+   "line": 35,
+   "sena": "idea",
+   "daniel": "point",
+   "board": {
+    "type": "keyword",
+    "text": "He only knows he ran a script",
+    "sub": "the gap is in the details",
+    "icon": "Magnifying glass tilted left"
+   }
+  },
+  {
+   "line": 36,
+   "sena": "laughcry",
+   "daniel": "smile",
+   "board": {
+    "type": "keyword",
+    "text": "Nobody was grading the writing",
+    "sub": "recipients saw writers as warmer and more competent",
+    "icon": "Pencil"
+   }
+  },
+  {
+   "line": 38,
+   "sena": "think",
+   "daniel": "chin",
+   "board": {
+    "type": "keyword",
+    "text": "Feelings right after reading",
+    "sub": "not long-term team effects; not always coworkers",
+    "icon": "Hourglass done"
+   }
+  },
+  {
+   "line": 40,
+   "sena": "curious",
+   "daniel": "research",
+   "board": {
+    "type": "study",
+    "who": "Algoe, Kurtz & Hilaire (2016)",
+    "stat": "300+ couples",
+    "text": "\"Putting the 'You' in 'Thank You'\": recorded thank-you conversations",
+    "note": "Social Psychological and Personality Science",
+    "icon": "Video camera"
+   }
+  },
+  {
+   "line": 44,
+   "sena": "listen",
+   "daniel": "explain",
+   "board": {
+    "type": "compare",
+    "left": {
+     "title": "\"You\" sentences",
+     "items": [
+      "\"You went out of your way.\"",
+      "\"You're really good at that.\""
+     ]
+    },
+    "right": {
+     "title": "\"Me\" sentences",
+     "items": [
+      "\"It let me relax.\"",
+      "\"It made me happy.\""
+     ]
+    }
+   }
+  },
+  {
+   "line": 46,
+   "sena": "giggle",
+   "daniel": "chuckle",
+   "board": {
+    "type": "keyword",
+    "text": "The \"you\" sentences mattered",
+    "sub": "seen as more responsive; more positive and loving",
+    "icon": "Red heart"
+   }
+  },
+  {
+   "line": 48,
+   "sena": "chin",
+   "daniel": "think",
+   "board": {
+    "type": "keyword",
+    "text": "Couples, correlational, very positive lab",
+    "sub": "but the idea transfers",
+    "icon": "Balance scale"
+   }
+  },
+  {
+   "line": 50,
+   "sena": "oh",
+   "daniel": "point",
+   "board": {
+    "type": "keyword",
+    "text": "\"The best\" is a grade",
+    "sub": "not a description",
+    "icon": "Trophy"
+   }
+  },
+  {
+   "line": 51,
+   "section": "Why AI can't",
+   "sena": "laptop",
+   "daniel": "default",
+   "board": {
+    "type": "keyword",
+    "text": "A beautiful thank-you in two seconds",
+    "sub": "= draft one, in nicer English",
+    "icons": [
+     "Robot",
+     "Sparkles"
+    ]
+   }
+  },
+  {
+   "line": 54,
+   "sena": "point",
+   "daniel": "smile",
+   "board": {
+    "type": "keyword",
+    "text": "Specific thanks is proof of attention",
+    "sub": "AI can polish words, but it wasn't there",
+    "icon": "Eyes"
+   }
+  },
+  {
+   "line": 55,
+   "section": "Daniel's story",
+   "sena": "curious",
+   "daniel": "story",
+   "board": {
+    "type": "story",
+    "title": "Eight cards, one sentence",
+    "text": "\"Thanks for an amazing year. Couldn't have done it without you.\"",
+    "icon": "Envelope"
+   }
+  },
+  {
+   "line": 58,
+   "sena": "shock",
+   "daniel": "sheepish",
+   "board": {
+    "type": "story",
+    "title": "\"Which one of us couldn't you have done it without?\"",
+    "text": "Oscar, an engineer on his team",
+    "icon": "Flower playing cards"
+   }
+  },
+  {
+   "line": 60,
+   "sena": "moved",
+   "daniel": "sheepish",
+   "board": {
+    "type": "story",
+    "title": "Five out of eight",
+    "text": "For three people, he couldn't remember one specific thing",
+    "icon": "Thinking face"
+   }
+  },
+  {
+   "line": 64,
+   "sena": "listen",
+   "daniel": "offer",
+   "board": {
+    "type": "keyword",
+    "text": "Every Friday: one line per person",
+    "sub": "eight lines, five minutes",
+    "icon": "Spiral notepad"
+   }
+  },
+  {
+   "line": 67,
+   "section": "Japan & US",
+   "sena": "point",
+   "daniel": "listen",
+   "board": {
+    "type": "keyword",
+    "text": "\"Sumimasen\" and \"otsukaresama\"",
+    "sub": "thanks as apology; thanks for everyone",
+    "icon": "Person bowing"
+   }
+  },
+  {
+   "line": 73,
+   "sena": "shy",
+   "daniel": "notice",
+   "board": {
+    "type": "keyword",
+    "text": "Public praise can feel heavy",
+    "sub": "some people want to disappear",
+    "icon": "Shushing face"
+   }
+  },
+  {
+   "line": 76,
+   "sena": "listen",
+   "daniel": "explain",
+   "board": {
+    "type": "compare",
+    "left": {
+     "title": "Japan",
+     "items": [
+      "\"Sumimasen\": thanks + sorry",
+      "\"Otsukaresama\" for everyone",
+      "Specific praise in public feels heavy"
+     ]
+    },
+    "right": {
+     "title": "US",
+     "items": [
+      "Shout-outs, kudos channels",
+      "\"Thanks!! You rock!\"",
+      "Enthusiastic, often generic"
+     ]
+    }
+   }
+  },
+  {
+   "line": 79,
+   "sena": "think",
+   "daniel": "think",
+   "board": {
+    "type": "keyword",
+    "text": "\"Thanks for all of that.\"",
+    "sub": "Kato-san's canned coffee: what was \"that\"?",
+    "icon": "Beverage box"
+   }
+  },
+  {
+   "line": 82,
+   "section": "EQ skill",
+   "sena": "study",
+   "daniel": "explain",
+   "board": {
+    "type": "list",
+    "title": "Relationship management: specific thanks",
+    "items": [
+     "What they did (a time, a place)",
+     "The impact: what it made possible",
+     "What it showed you about them",
+     "Short, and private for quiet people"
+    ]
+   }
+  },
+  {
+   "line": 85,
+   "sena": "phone",
+   "daniel": "listen",
+   "board": {
+    "type": "list",
+    "title": "Draft two",
+    "items": [
+     "You re-ran the check on every number at 7:12",
+     "I didn't worry once about the numbers in my slides",
+     "It showed me how carefully you look out for the team",
+     "Thank you."
+    ]
+   }
+  },
+  {
+   "line": 93,
+   "sena": "relief",
+   "daniel": "grin",
+   "board": {
+    "type": "keyword",
+    "text": "No coffee. Sent. 8:38 a.m.",
+    "sub": "a thank-you, not a trade",
+    "icon": "Outbox tray"
+   }
+  },
+  {
+   "line": 94,
+   "section": "Speaking Lab",
+   "sena": "calm",
+   "daniel": "default",
+   "board": {
+    "type": "keyword",
+    "text": "Speaking Lab",
+    "sub": "a specific thank-you",
+    "icon": "Microphone"
+   }
+  },
+  {
+   "line": 102,
+   "sena": "listen",
+   "board": {
+    "type": "keyword",
+    "text": "Retell in 30 seconds",
+    "sub": "today's main points, in your own words",
+    "icon": "Stopwatch"
+   }
+  },
+  {
+   "line": 104,
+   "sena": "default",
+   "daniel": "smile",
+   "board": {
+    "type": "question",
+    "text": "Think of one person who helped you recently: what exactly did they do, and what did it make possible for you?"
+   }
+  },
+  {
+   "line": 106,
+   "section": "Today's challenge",
+   "sena": "energy",
+   "daniel": "offer",
+   "board": {
+    "type": "challenge",
+    "text": "Send one specific thank-you",
+    "sub": "What they did, the impact, what it showed you about them.",
+    "icon": "Love letter"
+   }
+  },
+  {
+   "line": 108,
+   "section": "Next time",
+   "sena": "cool",
+   "daniel": "default",
+   "board": {
+    "type": "keyword",
+    "text": "Next: Your Emotional Baseline",
+    "sub": "episode 30, the Season 2 finale",
+    "icon": "Spiral calendar"
+   }
+  },
+  {
+   "line": 113,
+   "sena": "surprised",
+   "daniel": "notice",
+   "board": {
+    "type": "keyword",
+    "text": "\"You're the first person who noticed.\"",
+    "sub": "Kenta: every report since April",
+    "icon": "Incoming envelope"
+   }
+  },
+  {
+   "line": 116,
+   "sena": "wave",
+   "daniel": "wave",
+   "board": {
+    "type": "cover"
+   }
+  }
+ ]
+}

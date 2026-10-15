@@ -82,5 +82,21 @@
   "24-story": {
     "episode": 24,
     "reported": true
+  },
+  "8-story": {
+    "episode": 8,
+    "reported": true
+  },
+  "9-highlight": {
+    "episode": 9,
+    "reported": true
+  },
+  "25-highlight": {
+    "episode": 25,
+    "reported": true
+  },
+  "25-story": {
+    "episode": 25,
+    "reported": true
   }
 }

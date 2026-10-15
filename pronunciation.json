@@ -58,5 +58,30 @@
     "episode": 26,
     "reported": true,
     "next_reported": false
+  },
+  "aizuchi": {
+    "episode": 28,
+    "reported": true,
+    "next_reported": false
+  },
+  "naruhodo": {
+    "episode": 28,
+    "reported": true,
+    "next_reported": false
+  },
+  "maa maa": {
+    "episode": 28,
+    "reported": true,
+    "next_reported": false
+  },
+  "mark-san": {
+    "episode": 28,
+    "reported": true,
+    "next_reported": false
+  },
+  "sumimasen": {
+    "episode": 29,
+    "reported": true,
+    "next_reported": false
   }
 }

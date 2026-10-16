@@ -225,3 +225,24 @@ RIGHT ~60%: a bright, sunny watercolor illustration, soft anime-style but refine
 
 Keep the warm light, the soft watercolor texture and the cheerful, hopeful mood. No other text, no logos, no watermarks.
 ```
+
+## EP31｜Small Talk Is Not Small
+
+```
+Make a YouTube thumbnail in exactly the same style and layout as the Human Curriculum reference thumbnails in this project's source files (EP14, EP18, EP19). Look at them before you start. 16:9, 1672x941.
+
+LEFT ~40%: cream paper panel with torn edges and coral and sky-blue watercolor brush splashes in the corners.
+- Top: "The Human Curriculum" in small navy serif with a thin underline.
+- A coral brush-stroke banner with white text: "EPISODE 31".
+- Main title in very large, bold navy serif (2-4 lines): "Small Talk Is Not Small"
+- A thin coral rule, then the subtitle in bold navy serif: "Two Questions, One Follow-Up, in Two Minutes", with the word "Follow-Up" in coral italics.
+- Bottom left: a stack of hardcover books (navy, pink, cream), one per name, with these names on the spines: Huang et al. / Kardas et al.
+- A pink sticky note taped on the books, handwritten in navy with a coral underline: "Ask, listen, follow up"
+
+RIGHT ~60%: a bright, sunny watercolor illustration, soft anime-style but refined (like the reference thumbnails).
+- Sena: Japanese woman in her late 20s, long wavy light-brown hair, black sunglasses pushed up on her head, small gold hoop earrings, chunky dusty-pink knit sweater, cream wide-leg trousers, white sneakers, black shoulder bag, office lanyard. Same face as in the reference thumbnails.
+- Scene: a sunny glass-roofed botanical garden path in a Tokyo park at golden-hour morning, an eye-level three-quarter front view. Sena rises on tiptoe on a mossy stone step and pours water from a small brass watering can onto a floating oversized speech bubble; from that bubble a second, smaller speech bubble has sprouted on a green stem, and a third is just budding, like a plant growing question after question (visual metaphor for follow-up questions). Her other hand cups her ear to listen. Warm sunbeams, ferns, a few ginkgo leaves drifting in. Her expression is curious and relaxed. No desk, laptop or coffee cup.
+- Around her, 4 handwritten notes in navy pen on small torn paper scraps or written in the air, each with a coral underline or a small heart: "Ask one question", "Listen for one word", "Follow up on it", "Share one thing about you"
+
+Keep the warm light, the soft watercolor texture and the cheerful, hopeful mood. No other text, no logos, no watermarks.
+```

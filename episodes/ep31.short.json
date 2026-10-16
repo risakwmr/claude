@@ -1,0 +1,40 @@
+{
+  "shorts": [
+    {
+      "kind": "highlight",
+      "lines": [
+        27,
+        31
+      ],
+      "hook": "Ask more questions, get liked more. The askers never saw it coming.",
+      "title": "Why asking more questions makes people like you"
+    },
+    {
+      "kind": "ai",
+      "lines": [
+        46,
+        49
+      ],
+      "hook": "AI can write ten small-talk questions. It can't hear her first answer.",
+      "title": "Why AI can't do your follow-up questions"
+    },
+    {
+      "kind": "story",
+      "lines": [
+        51,
+        57
+      ],
+      "hook": "\"I've learned a lot about my roadmap. I don't know one thing about you.\"",
+      "title": "The dinner where Daniel asked twelve questions"
+    },
+    {
+      "kind": "culture",
+      "lines": [
+        62,
+        65
+      ],
+      "hook": "In Japan, small talk can start with an answer-free greeting. In the US, silence is a problem.",
+      "title": "Small talk: Japan vs the US"
+    }
+  ]
+}

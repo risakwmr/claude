@@ -1773,6 +1773,61 @@
       ],
       "thumb_cup": "One specific thank-you",
       "thumb_pose": "sena_phone"
+    },
+    {
+      "number": 30,
+      "script": "ep30.txt",
+      "title": "Your Emotional Baseline",
+      "short_title": "Your Emotional Baseline",
+      "summary": "On Tuesday morning on a bench by the moat in Tokyo, Sena counts the stress signals in her notebook margins: thirty-four notes in two weeks, twenty-two about speaking English, zero about the numbers, and six workdays with no note at all, two days after telling her mother these were the hardest two weeks of her life. In the Season Two finale, Daniel shares Kahneman and colleagues' Day Reconstruction Method study, where 909 employed women rebuilt one workday scene by scene, and Diener, Lucas and Scollon's review showing that happiness set points aren't neutral, differ between people, and can change. He tells the story of the terrible March when he almost quit managing, and they compare Japan's \"daijoubu\" with America's \"Great!\" Today's challenge: write one word a day for a week and look back.",
+      "practice": "Before you leave work today, write one word for how today felt. Set a reminder for the same time every day this week. On the seventh day, read all seven words and ask: what's my usual, and what's the pattern?",
+      "sources": [
+        "Kahneman, Krueger, Schkade, Schwarz & Stone (2004), A Survey Method for Characterizing Daily Life Experience: The Day Reconstruction Method, Science",
+        "Diener, Lucas & Scollon (2006), Beyond the Hedonic Treadmill: Revising the Adaptation Theory of Well-Being, American Psychologist"
+      ],
+      "tags": [
+        "EQ",
+        "emotional intelligence",
+        "self-awareness",
+        "emotional baseline",
+        "mood tracking",
+        "mood journal",
+        "stress at work",
+        "well-being",
+        "career",
+        "program manager",
+        "audiobook",
+        "English learning",
+        "English speaking"
+      ],
+      "yt_title": "Find Your Emotional Baseline with One Word a Day",
+      "hook": "You're sure the last two weeks were the worst of your life. But can you remember the quiet days?\nLearn how one word a day shows your real emotional baseline: your usual weather, not your worst storm.",
+      "points": [
+        "Rebuilding one day scene by scene: negative feelings were relatively infrequent and mild (Kahneman et al.)",
+        "Happiness set points aren't neutral, differ between people, and can change over years (Diener, Lucas & Scollon)",
+        "Daniel's terrible March, and the director who asked how many good weeks he'd had",
+        "Japan's \"daijoubu\" vs America's \"Great!\""
+      ],
+      "title_ja": "自分の感情のベースライン",
+      "hook_ja": "「人生でいちばんきつい2週間だった」。でも、その中の静かな日を思い出せますか？\n1日1語の記録で、いちばんひどい嵐ではなく「いつものお天気」を見つける方法を英語で学ぼう🎧（日本語字幕あり）",
+      "points_ja": [
+        "1日をシーンごとに振り返ると、つらい気持ちは思ったより少なかった",
+        "幸せのセットポイントは中立じゃないし、人によって違い、変わりうる",
+        "マネジメントを辞めかけたダニエルの「最悪の3月」",
+        "日本の「大丈夫」とアメリカの「Great!」"
+      ],
+      "summary_ja": "火曜の朝、お堀沿いのベンチで、セナはノートの余白に書いたストレスのサインを数えます。2週間で34個、そのうち22個は英語で話すこと、数字のことはゼロ。そして10日の出勤日のうち6日はメモがありませんでした。シーズン2の最終回。働く女性909人に前日を1シーンずつ組み立て直してもらったカーネマンたちの研究と、幸せのセットポイントは中立ではなく、人によって違い、変わりうるというディーナーたちのレビューを紹介します。マネジメントを辞めかけたダニエルの「最悪の3月」の話、日本の「大丈夫」とアメリカの「Great!」の比較も。",
+      "practice_ja": "今日仕事を終える前に、今日の気分を1語で書く。1週間、毎日同じ時間に続け、7日目に7つの言葉を読み返して「自分の普段」と「パターン」を見つける。",
+      "thumb_accent": "Usual",
+      "thumb_sub": "One Word a Day, Find Your Usual Weather",
+      "thumb_notes": [
+        "One word a day",
+        "Usual weather, not the worst storm",
+        "Look back after a week",
+        "34 notes, 6 quiet days"
+      ],
+      "thumb_cup": "One word a day",
+      "thumb_pose": "sena_walk"
     }
   ]
 }

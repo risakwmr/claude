@@ -1,5 +1,5 @@
 {
-  "at": "2026-10-16T02:14:21Z",
+  "at": "2026-10-16T16:11:34Z",
   "shorts": {
     "1-ai": {
       "video_id": "IdbU6d1ox0Q",
@@ -186,7 +186,7 @@
       "title": "Who owns the 1:1? Japan vs the US #shorts",
       "public": true,
       "publish_at": "2026-10-14T23:00:00Z",
-      "views": 8,
+      "views": 10,
       "likes": 0,
       "comments": 0
     },
@@ -211,9 +211,9 @@
     "7-culture": {
       "video_id": "iUAR7b09CZY",
       "title": "High-context vs low-context: Japan and the US at work #shorts",
-      "public": false,
+      "public": true,
       "publish_at": "2026-10-16T09:00:00Z",
-      "views": 0,
+      "views": 4,
       "likes": 0,
       "comments": 0
     },
@@ -240,6 +240,15 @@
       "title": "Keeping promises beats over-delivering #shorts",
       "public": true,
       "publish_at": "2026-10-15T23:00:00Z",
+      "views": 2,
+      "likes": 0,
+      "comments": 0
+    },
+    "9-story": {
+      "video_id": "tlFy_LuCZs0",
+      "title": "An honest no is better than a vague yes #shorts",
+      "public": false,
+      "publish_at": "2026-10-16T23:00:00Z",
       "views": 0,
       "likes": 0,
       "comments": 0
@@ -366,7 +375,7 @@
       "title": "The surprising upside of impostor thoughts at work #shorts",
       "public": true,
       "publish_at": "2026-10-13T03:24:14Z",
-      "views": 61,
+      "views": 60,
       "likes": 1,
       "comments": 0
     },
@@ -430,6 +439,24 @@
       "public": true,
       "publish_at": "2026-10-15T16:10:41Z",
       "views": 2,
+      "likes": 0,
+      "comments": 0
+    },
+    "26-highlight": {
+      "video_id": "bnyH2pdqfgY",
+      "title": "Does being kind to yourself make you lazy? #shorts",
+      "public": true,
+      "publish_at": "2026-10-16T16:11:29Z",
+      "views": 0,
+      "likes": 0,
+      "comments": 0
+    },
+    "26-story": {
+      "video_id": "MICBdsiHm8o",
+      "title": "How you talk about your mistakes becomes your team's rule #shorts",
+      "public": true,
+      "publish_at": "2026-10-16T16:11:31Z",
+      "views": 0,
       "likes": 0,
       "comments": 0
     }
@@ -501,7 +528,7 @@
     "10": {
       "video_id": "hb4jOZuSzf4",
       "title": "How to Influence People When You're Not the Boss | Business English Podcast EP10",
-      "views": 2,
+      "views": 3,
       "likes": 0,
       "comments": 1
     },
@@ -536,7 +563,7 @@
     "15": {
       "video_id": "Rs-Wr1nrYHo",
       "title": "How to Start a Hard Conversation at Work | Business English Podcast EP15",
-      "views": 4,
+      "views": 5,
       "likes": 0,
       "comments": 1
     },
@@ -571,7 +598,7 @@
     "20": {
       "video_id": "vWtKtfcEvQw",
       "title": "Your Project Got Cancelled? How to Bounce Back at Work | Business English Podcast EP20",
-      "views": 9,
+      "views": 10,
       "likes": 0,
       "comments": 1
     },
@@ -585,7 +612,7 @@
     "22": {
       "video_id": "BaH4lhJ0le4",
       "title": "Feel Like an Impostor at Work? Answer the Voice With Evidence | Business English Podcast EP22",
-      "views": 5,
+      "views": 6,
       "likes": 0,
       "comments": 1
     },
@@ -599,16 +626,23 @@
     "24": {
       "video_id": "8Xu4jH5O4jM",
       "title": "Can't Stop Thinking About Work at Night? Try This 2-Minute Shutdown | Business English Podcast EP24",
-      "views": 14,
+      "views": 16,
       "likes": 1,
       "comments": 1
     },
     "25": {
       "video_id": "GmBCSsACX9c",
       "title": "Perfectionism at Work: How to Know When It's Good Enough | Business English Podcast EP25",
-      "views": 9,
+      "views": 12,
       "likes": 0,
       "comments": 1
+    },
+    "26": {
+      "video_id": "xDKO5T0UcWE",
+      "title": "Self-Compassion at Work: Talk to Yourself Like a Friend | Business English Podcast EP26",
+      "views": 0,
+      "likes": 0,
+      "comments": 0
     }
   }
 }

@@ -1,5 +1,5 @@
 {
-  "at": "2026-10-15T16:10:45Z",
+  "at": "2026-10-16T02:14:21Z",
   "shorts": {
     "1-ai": {
       "video_id": "IdbU6d1ox0Q",
@@ -186,7 +186,7 @@
       "title": "Who owns the 1:1? Japan vs the US #shorts",
       "public": true,
       "publish_at": "2026-10-14T23:00:00Z",
-      "views": 7,
+      "views": 8,
       "likes": 0,
       "comments": 0
     },
@@ -208,12 +208,21 @@
       "likes": 0,
       "comments": 0
     },
+    "7-culture": {
+      "video_id": "iUAR7b09CZY",
+      "title": "High-context vs low-context: Japan and the US at work #shorts",
+      "public": false,
+      "publish_at": "2026-10-16T09:00:00Z",
+      "views": 0,
+      "likes": 0,
+      "comments": 0
+    },
     "8-highlight": {
       "video_id": "XbltgSdy220",
       "title": "Nobody sees your hard work like you do #shorts",
       "public": true,
       "publish_at": "2026-10-14T09:00:00Z",
-      "views": 6,
+      "views": 7,
       "likes": 0,
       "comments": 0
     },
@@ -222,14 +231,14 @@
       "title": "Why quiet work doesn't get you promoted #shorts",
       "public": true,
       "publish_at": "2026-10-15T09:00:00Z",
-      "views": 2,
+      "views": 3,
       "likes": 0,
       "comments": 0
     },
     "9-highlight": {
       "video_id": "MwphdbYX4Q0",
       "title": "Keeping promises beats over-delivering #shorts",
-      "public": false,
+      "public": true,
       "publish_at": "2026-10-15T23:00:00Z",
       "views": 0,
       "likes": 0,
@@ -393,7 +402,7 @@
       "title": "Write a to-do list before bed? A sleep lab tested it #shorts",
       "public": true,
       "publish_at": "2026-10-14T16:28:54Z",
-      "views": 3,
+      "views": 2,
       "likes": 0,
       "comments": 0
     },
@@ -411,7 +420,7 @@
       "title": "Does perfectionism make you better at work? #shorts",
       "public": true,
       "publish_at": "2026-10-15T16:10:39Z",
-      "views": 0,
+      "views": 1,
       "likes": 0,
       "comments": 0
     },
@@ -420,7 +429,7 @@
       "title": "My perfect review cost her two weeks of fear #shorts",
       "public": true,
       "publish_at": "2026-10-15T16:10:41Z",
-      "views": 0,
+      "views": 2,
       "likes": 0,
       "comments": 0
     }
@@ -520,7 +529,7 @@
     "14": {
       "video_id": "oSt-VZY-65k",
       "title": "Why Nobody Speaks Up in Your Meetings | Business English Podcast EP14",
-      "views": 1,
+      "views": 2,
       "likes": 0,
       "comments": 1
     },
@@ -576,7 +585,7 @@
     "22": {
       "video_id": "BaH4lhJ0le4",
       "title": "Feel Like an Impostor at Work? Answer the Voice With Evidence | Business English Podcast EP22",
-      "views": 3,
+      "views": 5,
       "likes": 0,
       "comments": 1
     },
@@ -590,16 +599,16 @@
     "24": {
       "video_id": "8Xu4jH5O4jM",
       "title": "Can't Stop Thinking About Work at Night? Try This 2-Minute Shutdown | Business English Podcast EP24",
-      "views": 12,
+      "views": 14,
       "likes": 1,
       "comments": 1
     },
     "25": {
       "video_id": "GmBCSsACX9c",
       "title": "Perfectionism at Work: How to Know When It's Good Enough | Business English Podcast EP25",
-      "views": 0,
+      "views": 9,
       "likes": 0,
-      "comments": 0
+      "comments": 1
     }
   }
 }

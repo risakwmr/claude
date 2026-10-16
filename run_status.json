@@ -68,7 +68,7 @@
     "result": "ok"
   },
   "channel": {
-    "at": "2026-10-15T15:58:07Z",
+    "at": "2026-10-16T02:13:23Z",
     "result": "Human Curriculum | Business English Podcast (UCSaZaQp7Ao--E-UrkQ4RnXg)"
   },
   "captions:hj8EgYR2ORo": {
@@ -646,5 +646,25 @@
   "short:9-highlight": {
     "at": "2026-10-15T16:10:44Z",
     "result": "ok MwphdbYX4Q0"
+  },
+  "short:7-culture": {
+    "at": "2026-10-16T02:14:20Z",
+    "result": "ok iUAR7b09CZY"
+  },
+  "captions-id:vWtKtfcEvQw": {
+    "at": "2026-10-16T02:17:39Z",
+    "result": "ok"
+  },
+  "captions-id:1vlIpwaeBUg": {
+    "at": "2026-10-16T02:17:40Z",
+    "result": "ok"
+  },
+  "captions-fr:vWtKtfcEvQw": {
+    "at": "2026-10-16T02:17:41Z",
+    "result": "ok"
+  },
+  "captions-fr:1vlIpwaeBUg": {
+    "at": "2026-10-16T02:17:42Z",
+    "result": "ok"
   }
 }

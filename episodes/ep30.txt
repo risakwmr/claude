@@ -1,0 +1,114 @@
+SENA: Tuesday, seven forty in the morning. I'm on a bench by the moat near the office. A runner in a navy cap just went past, and I'm almost sure it was Kato-san. I didn't wave. I'm busy counting.
+DANIEL: Counting what?
+SENA: I'm counting the notes in the margins of my notebook. Every stress signal in my body for the last two weeks. Thirty-four notes. "Jaw, tight, ten a.m." "Shoulders, Mark, eleven forty p.m."
+DANIEL: And what do they say?
+SENA: Twenty-two are about speaking English. Four are about late messages. Zero are about the numbers. On Sunday, I told my mother, "These were the hardest two weeks of my life." But six of my ten workdays have no note at all. I don't even remember them.
+DANIEL: So the hardest two weeks of your life had six quiet days you can't remember.
+SENA: When you say it like that, it sounds like a different story.
+DANIEL: Maybe it is. By the end of this episode, you'll know how to find your emotional baseline: one word a day, one look back after a week, and one question to ask about what you see.
+DANIEL: Welcome back to Human Curriculum. I'm Daniel Reed, a People Manager in Seattle.
+SENA: And I'm Sena Sato, an Associate in Tokyo. It's Tuesday, seven forty-five in the morning here.
+DANIEL: And Monday, three forty-five in the afternoon here. Maple just came back from the groomer. She smells like a cupcake, and she's very proud of it. Last time, your challenge was to send one specific thank-you message. You'd already sent Kenta's, and you planned a second one to Ryo.
+SENA: I sent it at lunch. "Your check script is the reason Kenta could re-run every number before my presentation. Without it, there would be nothing to re-run. It showed me you build things for people you'll never see using them."
+DANIEL: That's a lovely third sentence. What did Ryo say?
+SENA: Nothing, for an hour. Then a screenshot. His very first commit message for the check script, from last year. "Add region check. Hopefully this saves someone a bad Thursday."
+DANIEL: Oh, that's wonderful.
+SENA: And under it: "Looks like it did. Thanks for telling me. I'm keeping this."
+DANIEL: He wrote a note to the future, and the future wrote back. And Kenta? Since April, every report.
+SENA: That one is still open. Yesterday afternoon I asked him, "Can I tell Kato-san about the re-runs?" He looked at his shogi game for a long time and said, "Let me think about it."
+DANIEL: And?
+SENA: Nothing yet. So I'm not doing anything. It's his work, so it's his choice.
+DANIEL: Good. Today is the last episode of Season Two, so let's look back. Season Two was emotions at work. Mistakes, stress, nerves, anger, disappointment, envy, impostor feelings, saying no, switching off, perfectionism, self-compassion, other people's feelings, staying calm, and gratitude.
+SENA: When you list them like that, it sounds like a disaster movie.
+DANIEL: That's exactly what I want to test. Is that what your notebook says?
+SENA: Honestly? My notebook says, "Thursday." Two Thursdays, two eight a.m. calls, eleven notes. Everything else is small.
+DANIEL: That's today's topic: your emotional baseline. Your baseline is your usual weather, not your worst storm. It's the level you come back to on an ordinary day.
+SENA: I've always thought my baseline was "anxious." Since university. I'm the anxious one.
+DANIEL: Let's see what the research says. Our first study is from 2004, in the journal Science, by Daniel Kahneman, Alan Krueger, David Schkade, Norbert Schwarz and Arthur Stone. They wanted to measure how people actually feel during an ordinary day.
+SENA: Not how they say they feel in general.
+DANIEL: Exactly. They asked 909 employed women in Texas, who had all worked the day before, to rebuild that day like scenes in a film. Give each scene a short name, like "commuting to work" or "lunch with a friend," write down the times, then rate how they felt in each one. On average, people found about fourteen scenes.
+SENA: Fourteen scenes in one ordinary day. And the results?
+DANIEL: Some were what you'd expect. Working and commuting had some of the lowest positive feelings. And of all the people they spent time with, the boss came with the most negative feelings.
+SENA: Poor bosses. Please don't tell Kato-san.
+DANIEL: Your secret's safe. But here's the part for you. Across the whole day, negative feelings were relatively infrequent and mild. And a scene with no positive feeling at all was rare.
+SENA: Even at work? Even commuting?
+DANIEL: Even then. The bad moments were real, but they weren't the whole day. Two things stood out. One, time pressure. People with constant pressure to work quickly enjoyed their work scenes much less. The gap was about as big as the gap between commuting to work and shopping with your partner.
+SENA: That's a big gap. And the second?
+DANIEL: Sleep. Women who rated their sleep as very bad and women who rated it as very good were far apart in how much they enjoyed time at home. More than half of the whole scale.
+SENA: So part of my "anxious" might be my sleep, not my personality.
+DANIEL: Maybe. And one more thing they noticed. When people judge a whole category, like "Do I enjoy time with my kids?", they answer from their beliefs. When they rebuild one specific day, the answer can be very different.
+SENA: "The hardest two weeks of my life" is a belief. The margins are the scenes.
+DANIEL: That's how I'd put it. The cautions: this was a convenience sample, not a random one. Only women, in one US state, one day each, remembered the next day. And the links with sleep and time pressure are correlations, not proof of cause.
+SENA: One day each. Mine is two weeks, but it's only me.
+DANIEL: Fair. Our second paper is about the baseline itself. In 2006, Ed Diener, Richard Lucas and Christie Napa Scollon published a review in American Psychologist called "Beyond the Hedonic Treadmill."
+SENA: Hedonic treadmill. Like running, but never moving.
+DANIEL: That was the old idea. Something good or bad happens, you feel up or down for a while, then you go back to neutral. The review said that idea needed five revisions. Three of them matter for you.
+SENA: Okay. Three.
+DANIEL: One, the set point isn't neutral. Most people are mildly happy most of the time. They cite an earlier review where about three quarters of the samples had more positive than negative feelings on average.
+SENA: Three quarters, above zero.
+DANIEL: Two, people have different set points, partly because of temperament. Your normal and Kenta's normal can be different, and both can be fine.
+SENA: Kenta's normal is quiet. I used to think quiet meant unhappy.
+DANIEL: And three, the set point can change. In one study they describe, people in Germany were followed for seventeen years. Comparing the first five years with the last five, twenty-four percent changed significantly, and nine percent changed by about two standard deviations or more.
+SENA: Nine percent. So "I'm the anxious one" is not a life sentence.
+DANIEL: It isn't. The cautions: it's a review, and much of it is about life satisfaction, not daily moods. The change numbers come from one long German study, and they're about years, not a week. A one-word log won't change your set point. It shows you where it is.
+SENA: So it's a map, not a medicine.
+DANIEL: Nicely put. Now, our usual question. Why can't AI do this for you?
+SENA: An app could ask me for a word every evening and draw a beautiful chart. An AI could even guess my mood from my messages.
+DANIEL: And?
+SENA: And it might guess "stressed" on Thursday. It wouldn't know the stress was the call, not the numbers. Or that "tight" on Wednesday night was Mark's message at eleven forty, and I answered anyway.
+DANIEL: Right. A tool can store the word and draw the chart. But the five seconds where you stop and ask, "What did today actually feel like?" Those five seconds are the skill, and nobody can do them for you.
+SENA: Have you ever misjudged your own baseline?
+DANIEL: Badly. My third year as a manager, I had a terrible March. Two reorganizations and a launch that slipped. One evening, I wrote to my director, Harriet, "I don't think managing is for me. Can we talk about moving me back to engineering?"
+SENA: Oh no. Did she say yes?
+DANIEL: She said, "Before we talk, tell me how many good weeks you had this year." I couldn't answer. I hadn't written anything down. Then she said, "You're describing your worst three weeks as your whole job."
+SENA: Ouch. But fair.
+DANIEL: Very fair. She asked me to write one word every evening for a month before deciding anything. And my wife had been saying for weeks, "You're not unhappy. You're tired on Sundays."
+SENA: Was she right?
+DANIEL: Annoyingly, yes. Most of my words were "busy," "steady," "fine." Two were "proud." The dark words were all on Sunday nights and in planning weeks. So I didn't quit. I moved my planning prep to Thursday afternoons, and my Sunday nights got much quieter.
+SENA: You almost changed your whole career because of three weeks.
+DANIEL: Three weeks and a bad memory. Harriet still jokes that she saved me with a spreadsheet. My wife says she saved me first, for free.
+SENA: Ha. Can I talk about Japan? I think our default word is "daijoubu."
+DANIEL: "I'm okay."
+SENA: I'm okay, no problem, don't worry about me. Kato-san says "daijoubu" with a packed calendar and no lunch. And we often talk about mood through the body or the weather. "My shoulders feel heavy." "It's that kind of grey day."
+DANIEL: So the feeling comes in sideways.
+SENA: Yes. But we also have a diary culture. Many of us kept a picture diary every summer vacation in elementary school. One page a day. Writing down the day feels normal. Writing down the feeling, not so much.
+DANIEL: In the US, the default goes the other way. "How are you?" "Great!" It's a greeting, not a report. At the same time, a lot of my friends use mood apps, and many people talk fairly openly about seeing a therapist.
+SENA: So Japan's default is "okay," and America's default is "great."
+DANIEL: And neither one is your baseline. Both are a polite cover on top of it. Every person and every team is different, of course.
+SENA: A polite cover. I think my "anxious" was a cover, too. A story I tell, so nobody expects too much.
+DANIEL: That's an honest thing to notice. This is the season finale, so today's skill uses all four EQ domains. Self-awareness: write one word for how your day felt, every day. Self-management: after a week, look for patterns you can plan for, like a hard Thursday. Social awareness: remember that other people have baselines, too. Relationship management: when someone is far from their usual, check in.
+SENA: Like Wendell, when his camera went off.
+DANIEL: Exactly. One more note. This is a tool for ordinary ups and downs. If the words stay dark for weeks, that's a reason to talk to someone you trust, or to a professional.
+SENA: Understood. Can I try the look back now? One word for each of my last ten workdays. For the days with no margin notes, I'll use my calendar.
+DANIEL: Go.
+SENA: Okay, in order. "Embarrassed." "Relieved." "Tight." "Terrified, then proud." "Flat." "Curious." "Busy." "Frozen." "Useful." "Warm."
+DANIEL: What do you see?
+SENA: Two storms, both on Thursdays. And around them, "relieved," "curious," "busy," "useful," "warm." That's not an anxious person. That's a mostly steady person who's scared of eight a.m. calls in English.
+DANIEL: That's your baseline. And the question to ask: what do I want to do about the pattern?
+SENA: Prepare for Thursday on Wednesday. And, um, practice speaking more, so Thursday gets smaller.
+DANIEL: Season Three is going to like you. Now, Speaking Lab. Three sentences for describing how your week felt. I'll say each one, and Sena repeats. Listeners, pause and say it out loud with her.
+SENA: Ready.
+DANIEL: "Overall, this week felt mostly steady."
+SENA: Overall, this week felt mostly steady.
+DANIEL: "The hardest moments came right before the English calls."
+SENA: The hardest moments came right before the English calls.
+DANIEL: "Next week, I'll prepare for Thursday on Wednesday."
+SENA: Next week, I'll prepare for Thursday on Wednesday.
+DANIEL: Good. Now, a retell. In about thirty seconds, tell me today's main points in your own words.
+SENA: Okay. Kahneman and his colleagues asked people to rebuild one day, scene by scene. Negative feelings were, um, less frequent and milder than you might think, and time pressure and sleep made a big difference. Diener and his colleagues say our set point isn't neutral, it's different for each person, and it can change over years. So, write one word a day, look back after a week, and ask what you want to do about the pattern.
+DANIEL: That's it. Listeners, your turn. In forty seconds, answer this. What one word describes your usual workday, not your best day or your worst? And why that word? Pause the audio and speak.
+SENA: For me, now, "steady." Two weeks ago, I would have said "anxious." I think "steady" is more true.
+DANIEL: Today's challenge: before you leave work today, write one word for how today felt. Set a reminder for the same time every day this week. On the seventh day, read all seven words and ask: what's my usual, and what's the pattern?
+SENA: My word for this morning is already "curious." Oh. My phone. It's Kenta.
+DANIEL: Before you read it, next time. Episode thirty-one, "Small Talk Is Not Small." Season Three begins: speaking up in English at work. We'll start with the first two minutes of a meeting.
+SENA: Season Three. Okay. Kenta says, "Okay. Tell him. But say it was the script, not me being a hero."
+DANIEL: That's very Kenta.
+SENA: I'm writing to Kato-san now. Three sentences. "Since April, Kenta has re-run Ryo's check script before every report, including mine last Thursday. It's a quiet habit, and it has kept our numbers clean. I thought you should know." Sent.
+DANIEL: And now we wait.
+SENA: Not for long. He's typing. He must be back from his run. "Thank you for telling me. I didn't know. I'll talk to Kenta today."
+DANIEL: "I didn't know." That's not nothing.
+SENA: From Kato-san, that's a lot. Wait, a second message. "Separate thing. Laura lands in Tokyo next Monday. She wants lunch with our team. Casual, no slides. In English, of course."
+DANIEL: Lunch with Laura.
+SENA: A whole hour. No slides, no script. Just small talk. With a director.
+DANIEL: Then Season Three starts right on time. And that's the end of Season Two. Thanks for listening to Human Curriculum. I'm Daniel.
+SENA: And I'm Sena. One word a day. Look for your usual weather, not your worst storm. See you in Season Three.

@@ -83,5 +83,10 @@
     "episode": 29,
     "reported": true,
     "next_reported": false
+  },
+  "shogi": {
+    "episode": 30,
+    "reported": true,
+    "next_reported": false
   }
 }

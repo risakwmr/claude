@@ -204,3 +204,24 @@ Use a substantially different body orientation and camera angle from recent epis
 Text, left side, large navy serif: "Gratitude That Isn't Generic". Below in navy serif with "Specific" in coral italic: "Say What They Did, Make It Specific". Top left small: "The Human Curriculum". Coral label: "EPISODE 29".
 Small details: handwritten notes "What they did", "What it made possible", "Put the 'you' in thank you"; a pink sticky note "One specific thank-you"; three stacked books with spines "Kumar & Epley", "Algoe et al.", "Thank You".
 ```
+
+## EP30｜Your Emotional Baseline
+
+```
+Make a YouTube thumbnail in exactly the same style and layout as the Human Curriculum reference thumbnails in this project's source files (EP14, EP18, EP19). Look at them before you start. 16:9, 1672x941.
+
+LEFT ~40%: cream paper panel with torn edges and coral and sky-blue watercolor brush splashes in the corners.
+- Top: "The Human Curriculum" in small navy serif with a thin underline.
+- A coral brush-stroke banner with white text: "EPISODE 30".
+- Main title in very large, bold navy serif (2-4 lines): "Your Emotional Baseline"
+- A thin coral rule, then the subtitle in bold navy serif: "One Word a Day, Find Your Usual Weather", with the word "Usual" in coral italics.
+- Bottom left: a stack of hardcover books (navy, pink, cream), one per name, with these names on the spines: Kahneman et al. / Diener et al.
+- A pink sticky note taped on the books, handwritten in navy with a coral underline: "One word a day"
+
+RIGHT ~60%: a bright, sunny watercolor illustration, soft anime-style but refined (like the reference thumbnails).
+- Sena: Japanese woman in her late 20s, long wavy light-brown hair, black sunglasses pushed up on her head, small gold hoop earrings, chunky dusty-pink knit sweater, cream wide-leg trousers, white sneakers, black shoulder bag, office lanyard. Same face as in the reference thumbnails.
+- Scene: an open grassy hilltop in a Tokyo park on a breezy autumn sunrise, the city rooftops small and far below. Wide shot from low on the slope, Sena in full side profile striding up onto the crest, both arms stretched wide as she pulls a long garland of seven small paper flags across the sky like a ribbon: five flags are pale sky-blue and soft gold with tiny suns, two are small grey storm clouds, and she is looking along the whole line with a relieved, surprised smile (the week is mostly sunny weather, only two storms). Wind in her hair and the grass. No desk, laptop, coffee cup, notebook or phone; she is moving through a big outdoor space.
+- Around her, 4 handwritten notes in navy pen on small torn paper scraps or written in the air, each with a coral underline or a small heart: "One word a day", "Usual weather, not the worst storm", "Look back after a week", "34 notes, 6 quiet days"
+
+Keep the warm light, the soft watercolor texture and the cheerful, hopeful mood. No other text, no logos, no watermarks.
+```

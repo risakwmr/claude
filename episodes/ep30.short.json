@@ -1,0 +1,8 @@
+{
+  "shorts": [
+    {"kind": "highlight", "lines": [3, 7], "hook": "She called it the worst two weeks of her life. Her notebook disagreed.", "title": "Your worst week might not be what you remember"},
+    {"kind": "ai", "lines": [55, 59], "hook": "An app can chart your mood. It can't do the five seconds that matter.", "title": "Why AI can't track your feelings for you"},
+    {"kind": "story", "lines": [60, 69], "hook": "He almost quit managing because of three bad weeks.", "title": "The manager who almost quit over one bad March"},
+    {"kind": "culture", "lines": [70, 78], "hook": "In Japan, everyone is \"daijoubu.\" In the US, everyone is \"great.\"", "title": "\"Daijoubu\" vs \"Great!\": Japan vs the US"}
+  ]
+}

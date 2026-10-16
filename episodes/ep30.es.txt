@@ -1,0 +1,114 @@
+SENA: Martes, siete y cuarenta de la mañana. Estoy en un banco junto al foso cerca de la oficina. Un corredor con gorra azul marino acaba de pasar, y casi seguro que era Kato-san. No lo saludé. Estoy ocupada contando.
+DANIEL: ¿Contando qué?
+SENA: Cuento las notas en los márgenes de mi cuaderno. Cada señal de estrés de mi cuerpo en las últimas dos semanas. Treinta y cuatro notas. "Mandíbula, tensa, diez de la mañana." "Hombros, Mark, once cuarenta de la noche."
+DANIEL: ¿Y qué dicen?
+SENA: Veintidós son sobre hablar inglés. Cuatro son sobre mensajes tardíos. Cero son sobre los números. El domingo le dije a mi madre: "Estas fueron las dos semanas más difíciles de mi vida." Pero seis de mis diez días de trabajo no tienen ninguna nota. Ni siquiera los recuerdo.
+DANIEL: O sea que las dos semanas más difíciles de tu vida tuvieron seis días tranquilos que no recuerdas.
+SENA: Dicho así, suena a otra historia.
+DANIEL: Quizás lo sea. Al final de este episodio sabrás cómo encontrar tu base emocional: una palabra al día, una mirada atrás después de una semana, y una pregunta para hacerte sobre lo que ves.
+DANIEL: Bienvenidos de nuevo a Human Curriculum. Soy Daniel Reed, People Manager en Seattle.
+SENA: Y yo soy Sena Sato, Associate en Tokio. Aquí es martes, siete y cuarenta y cinco de la mañana.
+DANIEL: Y aquí es lunes, tres y cuarenta y cinco de la tarde. Maple acaba de volver de la peluquería canina. Huele a cupcake y está muy orgullosa. La última vez, tu reto era enviar un mensaje de agradecimiento específico. Ya habías enviado el de Kenta, y planeabas un segundo para Ryo.
+SENA: Lo envié a la hora del almuerzo. "Tu script de verificación es la razón por la que Kenta pudo volver a ejecutar cada número antes de mi presentación. Sin él, no habría nada que volver a ejecutar. Me mostró que construyes cosas para personas que nunca verás usándolas."
+DANIEL: Qué tercera frase tan bonita. ¿Qué dijo Ryo?
+SENA: Nada, durante una hora. Luego una captura de pantalla. El mensaje de su primer commit del script de verificación, del año pasado. "Add region check. Hopefully this saves someone a bad Thursday."
+DANIEL: Ay, qué maravilla.
+SENA: Y debajo: "Parece que sí. Gracias por decírmelo. Me lo guardo."
+DANIEL: Él escribió una nota al futuro, y el futuro le respondió. ¿Y Kenta? Desde abril, cada informe.
+SENA: Ese sigue abierto. Ayer por la tarde le pregunté: "¿Puedo contarle a Kato-san lo de las re-ejecuciones?" Miró su partida de shogi un buen rato y dijo: "Déjame pensarlo."
+DANIEL: ¿Y?
+SENA: Todavía nada. Así que no estoy haciendo nada. Es su trabajo, así que es su decisión.
+DANIEL: Bien. Hoy es el último episodio de la Temporada Dos, así que miremos atrás. La Temporada Dos trató de las emociones en el trabajo. Errores, estrés, nervios, enojo, decepción, envidia, sentimientos de impostor, decir que no, desconectarse, perfeccionismo, autocompasión, los sentimientos de los demás, mantener la calma y gratitud.
+SENA: Dicho así, parece una película de desastres.
+DANIEL: Eso es justo lo que quiero comprobar. ¿Eso dice tu cuaderno?
+SENA: ¿Sinceramente? Mi cuaderno dice: "Jueves." Dos jueves, dos llamadas a las ocho de la mañana, once notas. Todo lo demás es pequeño.
+DANIEL: Ese es el tema de hoy: tu base emocional. Tu base es tu clima habitual, no tu peor tormenta. Es el nivel al que vuelves en un día normal.
+SENA: Siempre pensé que mi base era "ansiosa". Desde la universidad. Yo soy la ansiosa.
+DANIEL: Veamos qué dice la investigación. Nuestro primer estudio es de 2004, en la revista Science, de Daniel Kahneman, Alan Krueger, David Schkade, Norbert Schwarz y Arthur Stone. Querían medir cómo se sienten realmente las personas durante un día normal.
+SENA: No cómo dicen que se sienten en general.
+DANIEL: Exacto. Pidieron a 909 mujeres empleadas de Texas, que habían trabajado el día anterior, que reconstruyeran ese día como escenas de una película. Ponerle a cada escena un nombre corto, como "ir al trabajo" o "almuerzo con una amiga", anotar las horas y luego calificar cómo se sintieron en cada una. En promedio, las personas encontraron unas catorce escenas.
+SENA: Catorce escenas en un día normal. ¿Y los resultados?
+DANIEL: Algunos eran los esperados. Trabajar y trasladarse al trabajo tenían de los sentimientos positivos más bajos. Y de todas las personas con las que pasaban tiempo, el jefe traía los sentimientos más negativos.
+SENA: Pobres jefes. Por favor, no se lo digas a Kato-san.
+DANIEL: Tu secreto está a salvo. Pero aquí viene lo que te interesa. A lo largo de todo el día, los sentimientos negativos eran relativamente poco frecuentes y leves. Y una escena sin ningún sentimiento positivo era rara.
+SENA: ¿Incluso en el trabajo? ¿Incluso en el traslado?
+DANIEL: Incluso entonces. Los malos momentos eran reales, pero no eran todo el día. Destacaron dos cosas. Una, la presión del tiempo. Las personas con presión constante para trabajar rápido disfrutaban mucho menos sus escenas de trabajo. La diferencia era casi tan grande como la que hay entre ir al trabajo y salir de compras con tu pareja.
+SENA: Es una diferencia enorme. ¿Y la segunda?
+DANIEL: El sueño. Las mujeres que calificaban su sueño como muy malo y las que lo calificaban como muy bueno estaban muy lejos en cuánto disfrutaban el tiempo en casa. Más de la mitad de toda la escala.
+SENA: O sea que parte de mi "ansiedad" podría ser mi sueño, no mi personalidad.
+DANIEL: Quizás. Y una cosa más que notaron. Cuando las personas juzgan una categoría entera, como "¿Disfruto el tiempo con mis hijos?", responden desde sus creencias. Cuando reconstruyen un día específico, la respuesta puede ser muy distinta.
+SENA: "Las dos semanas más difíciles de mi vida" es una creencia. Los márgenes son las escenas.
+DANIEL: Así lo diría yo. Las precauciones: fue una muestra de conveniencia, no aleatoria. Solo mujeres, en un estado de EE. UU., un día cada una, recordado al día siguiente. Y los vínculos con el sueño y la presión del tiempo son correlaciones, no prueba de causa.
+SENA: Un día cada una. El mío son dos semanas, pero soy solo yo.
+DANIEL: Justo. Nuestro segundo artículo trata de la base misma. En 2006, Ed Diener, Richard Lucas y Christie Napa Scollon publicaron una revisión en American Psychologist llamada "Beyond the Hedonic Treadmill."
+SENA: Cinta de correr hedónica. Como correr, pero sin avanzar nunca.
+DANIEL: Esa era la idea antigua. Pasa algo bueno o malo, te sientes arriba o abajo un tiempo, y luego vuelves a lo neutral. La revisión dijo que esa idea necesitaba cinco revisiones. Tres de ellas te importan.
+SENA: Bien. Tres.
+DANIEL: Una, el punto de referencia no es neutral. La mayoría de las personas son levemente felices la mayor parte del tiempo. Citan una revisión anterior donde cerca de tres cuartas partes de las muestras tenían, en promedio, más sentimientos positivos que negativos.
+SENA: Tres cuartas partes, por encima de cero.
+DANIEL: Dos, las personas tienen distintos puntos de referencia, en parte por el temperamento. Tu normal y el normal de Kenta pueden ser distintos, y ambos pueden estar bien.
+SENA: El normal de Kenta es tranquilo. Antes pensaba que tranquilo significaba infeliz.
+DANIEL: Y tres, el punto de referencia puede cambiar. En un estudio que describen, se siguió a personas en Alemania durante diecisiete años. Comparando los primeros cinco años con los últimos cinco, el veinticuatro por ciento cambió de forma significativa, y el nueve por ciento cambió cerca de dos desviaciones estándar o más.
+SENA: Nueve por ciento. Así que "yo soy la ansiosa" no es una cadena perpetua.
+DANIEL: No lo es. Las precauciones: es una revisión, y gran parte trata de la satisfacción con la vida, no del ánimo diario. Los números del cambio vienen de un solo estudio alemán largo, y hablan de años, no de una semana. Un registro de una palabra no cambiará tu punto de referencia. Te muestra dónde está.
+SENA: O sea que es un mapa, no una medicina.
+DANIEL: Bien dicho. Ahora, nuestra pregunta de siempre. ¿Por qué la IA no puede hacer esto por ti?
+SENA: Una app podría pedirme una palabra cada noche y dibujar un gráfico precioso. Una IA incluso podría adivinar mi ánimo por mis mensajes.
+DANIEL: ¿Y?
+SENA: Y podría adivinar "estresada" el jueves. No sabría que el estrés era la llamada, no los números. O que "tensa" el miércoles por la noche era el mensaje de Mark a las once y cuarenta, y que respondí de todos modos.
+DANIEL: Correcto. Una herramienta puede guardar la palabra y dibujar el gráfico. Pero esos cinco segundos en que te detienes y preguntas: "¿Cómo se sintió realmente hoy?" Esos cinco segundos son la habilidad, y nadie puede hacerlos por ti.
+SENA: ¿Alguna vez juzgaste mal tu propia base?
+DANIEL: Muy mal. Mi tercer año como manager, tuve un marzo terrible. Dos reorganizaciones y un lanzamiento que se retrasó. Una noche, le escribí a mi directora, Harriet: "No creo que gestionar sea para mí. ¿Podemos hablar de volver a ingeniería?"
+SENA: Ay, no. ¿Dijo que sí?
+DANIEL: Dijo: "Antes de hablar, dime cuántas semanas buenas tuviste este año." No pude responder. No había anotado nada. Luego dijo: "Estás describiendo tus peores tres semanas como si fueran todo tu trabajo."
+SENA: Uf. Pero justo.
+DANIEL: Muy justo. Me pidió que escribiera una palabra cada noche durante un mes antes de decidir nada. Y mi esposa llevaba semanas diciéndome: "No eres infeliz. Estás cansado los domingos."
+SENA: ¿Tenía razón?
+DANIEL: Molestamente, sí. La mayoría de mis palabras eran "ocupado", "estable", "bien". Dos eran "orgulloso". Las palabras oscuras estaban todas en las noches de domingo y en las semanas de planificación. Así que no renuncié. Moví la preparación de la planificación a los jueves por la tarde, y mis noches de domingo se volvieron mucho más tranquilas.
+SENA: Casi cambias toda tu carrera por tres semanas.
+DANIEL: Tres semanas y una mala memoria. Harriet todavía bromea con que me salvó con una hoja de cálculo. Mi esposa dice que ella me salvó primero, gratis.
+SENA: Ja. ¿Puedo hablar de Japón? Creo que nuestra palabra por defecto es "daijoubu."
+DANIEL: "Estoy bien."
+SENA: Estoy bien, no hay problema, no te preocupes por mí. Kato-san dice "daijoubu" con la agenda llena y sin almorzar. Y a menudo hablamos del ánimo a través del cuerpo o del clima. "Siento los hombros pesados." "Es uno de esos días grises."
+DANIEL: O sea que el sentimiento llega de lado.
+SENA: Sí. Pero también tenemos una cultura del diario. Muchos de nosotros llevamos un diario ilustrado cada verano en las vacaciones de primaria. Una página al día. Escribir el día se siente normal. Escribir el sentimiento, no tanto.
+DANIEL: En EE. UU., lo habitual va al revés. "¿Cómo estás?" "¡Genial!" Es un saludo, no un informe. Al mismo tiempo, muchos de mis amigos usan apps de ánimo, y mucha gente habla con bastante apertura de ir a terapia.
+SENA: O sea que lo habitual en Japón es "bien", y lo habitual en Estados Unidos es "genial".
+DANIEL: Y ninguno es tu base. Ambos son una cubierta cortés encima de ella. Por supuesto, cada persona y cada equipo es diferente.
+SENA: Una cubierta cortés. Creo que mi "ansiosa" también era una cubierta. Una historia que cuento para que nadie espere demasiado.
+DANIEL: Es algo honesto de notar. Este es el final de temporada, así que la habilidad de hoy usa los cuatro dominios de EQ. Autoconciencia: escribe una palabra sobre cómo se sintió tu día, cada día. Autogestión: después de una semana, busca patrones para los que puedas planificar, como un jueves difícil. Conciencia social: recuerda que las demás personas también tienen bases. Gestión de relaciones: cuando alguien está lejos de lo habitual, pregúntale cómo está.
+SENA: Como con Wendell, cuando apagó la cámara.
+DANIEL: Exacto. Una nota más. Esta es una herramienta para los altibajos normales. Si las palabras siguen oscuras durante semanas, es una razón para hablar con alguien de confianza, o con un profesional.
+SENA: Entendido. ¿Puedo probar la mirada atrás ahora? Una palabra para cada uno de mis últimos diez días de trabajo. Para los días sin notas en el margen, usaré mi calendario.
+DANIEL: Adelante.
+SENA: Bien, en orden. "Avergonzada." "Aliviada." "Tensa." "Aterrada, luego orgullosa." "Plana." "Curiosa." "Ocupada." "Paralizada." "Útil." "Cálida."
+DANIEL: ¿Qué ves?
+SENA: Dos tormentas, las dos en jueves. Y alrededor, "aliviada", "curiosa", "ocupada", "útil", "cálida". Esa no es una persona ansiosa. Es una persona mayormente estable que le tiene miedo a las llamadas de las ocho de la mañana en inglés.
+DANIEL: Esa es tu base. Y la pregunta que hacerse: ¿qué quiero hacer con este patrón?
+SENA: Prepararme para el jueves el miércoles. Y, eh, practicar más a hablar, para que el jueves se haga más pequeño.
+DANIEL: A la Temporada Tres le vas a caer bien. Ahora, Speaking Lab. Tres frases para describir cómo se sintió tu semana. Yo digo cada una y Sena la repite. Oyentes, pausen y díganla en voz alta con ella.
+SENA: Lista.
+DANIEL: "Overall, this week felt mostly steady."
+SENA: Overall, this week felt mostly steady.
+DANIEL: "The hardest moments came right before the English calls."
+SENA: The hardest moments came right before the English calls.
+DANIEL: "Next week, I'll prepare for Thursday on Wednesday."
+SENA: Next week, I'll prepare for Thursday on Wednesday.
+DANIEL: Bien. Ahora, un resumen. En unos treinta segundos, cuéntame los puntos principales de hoy con tus propias palabras.
+SENA: Bien. Kahneman y sus colegas pidieron a la gente reconstruir un día, escena por escena. Los sentimientos negativos eran, eh, menos frecuentes y más leves de lo que uno pensaría, y la presión del tiempo y el sueño marcaban una gran diferencia. Diener y sus colegas dicen que nuestro punto de referencia no es neutral, es distinto para cada persona, y puede cambiar a lo largo de los años. Así que: escribe una palabra al día, mira atrás después de una semana, y pregúntate qué quieres hacer con el patrón.
+DANIEL: Eso es. Oyentes, les toca. En cuarenta segundos, respondan esto. ¿Qué palabra describe su día de trabajo habitual, no su mejor día ni el peor? ¿Y por qué esa palabra? Pausen el audio y hablen.
+SENA: Para mí, ahora, "estable". Hace dos semanas habría dicho "ansiosa". Creo que "estable" es más verdad.
+DANIEL: El reto de hoy: antes de salir del trabajo hoy, escribe una palabra sobre cómo se sintió el día. Pon un recordatorio a la misma hora todos los días de esta semana. El séptimo día, lee las siete palabras y pregúntate: ¿cuál es mi normal y cuál es el patrón?
+SENA: Mi palabra para esta mañana ya es "curiosa". Ah. Mi teléfono. Es Kenta.
+DANIEL: Antes de leerlo, la próxima vez. Episodio treinta y uno, "Small Talk Is Not Small." Empieza la Temporada Tres: hablar con seguridad en inglés en el trabajo. Empezaremos con los primeros dos minutos de una reunión.
+SENA: Temporada Tres. Bien. Kenta dice: "Está bien. Cuéntaselo. Pero di que fue el script, no que yo sea un héroe."
+DANIEL: Muy de Kenta.
+SENA: Le estoy escribiendo a Kato-san ahora. Tres frases. "Desde abril, Kenta ha vuelto a ejecutar el script de verificación de Ryo antes de cada informe, incluido el mío del jueves pasado. Es un hábito silencioso, y ha mantenido limpios nuestros números. Pensé que debía saberlo." Enviado.
+DANIEL: Y ahora esperamos.
+SENA: No por mucho. Está escribiendo. Debe de haber vuelto de correr. "Gracias por decírmelo. No lo sabía. Hablaré con Kenta hoy."
+DANIEL: "No lo sabía." Eso no es poco.
+SENA: Viniendo de Kato-san, es mucho. Espera, un segundo mensaje. "Otro tema. Laura llega a Tokio el próximo lunes. Quiere almorzar con nuestro equipo. Informal, sin diapositivas. En inglés, por supuesto."
+DANIEL: Almuerzo con Laura.
+SENA: Una hora entera. Sin diapositivas, sin guion. Solo charla trivial. Con una directora.
+DANIEL: Entonces la Temporada Tres empieza justo a tiempo. Y este es el final de la Temporada Dos. Gracias por escuchar Human Curriculum. Soy Daniel.
+SENA: Y yo soy Sena. Una palabra al día. Busca tu clima habitual, no tu peor tormenta. Nos vemos en la Temporada Tres.

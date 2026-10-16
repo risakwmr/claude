@@ -1828,6 +1828,63 @@
       ],
       "thumb_cup": "One word a day",
       "thumb_pose": "sena_walk"
+    },
+    {
+      "number": 31,
+      "script": "ep31.txt",
+      "title": "Small Talk Is Not Small",
+      "short_title": "Small Talk Is Not Small",
+      "summary": "On a Tuesday night in her kitchen, Sena rehearses small talk with her kettle and stops after eight seconds. Kato-san has told her Laura laughed when he said Sena likes to talk about work, and the team lunch is Monday at 12:15. In the first episode of Season Three, Daniel shares Huang, Yeomans, Brooks, Minson and Gino's study of 398 strangers chatting for fifteen minutes, where people who asked more questions, especially follow-up questions, were liked more and didn't expect it, and Kardas, Kumar and Epley's ten experiments showing that people expect conversations with strangers to be more awkward than they are. He tells the story of a dinner with a visiting vice president where he asked twelve work questions and no follow-up, and they compare Japan's shared greetings like \"samuku narimashita ne\" with American small talk. Today's challenge: in the first two minutes of one meeting, ask a non-task question and one follow-up.",
+      "practice": "In the first two minutes of one meeting or conversation today, ask one question that isn't about the task. After their answer, ask one follow-up question about something they just said.",
+      "sources": [
+        "Huang, Yeomans, Brooks, Minson & Gino (2017), It Doesn't Hurt to Ask: Question-Asking Increases Liking, Journal of Personality and Social Psychology",
+        "Kardas, Kumar & Epley (2022), Overly Shallow?: Miscalibrated Expectations Create a Barrier to Deeper Conversation, Journal of Personality and Social Psychology"
+      ],
+      "tags": [
+        "small talk",
+        "English speaking",
+        "English learning",
+        "follow-up questions",
+        "conversation skills",
+        "EQ",
+        "emotional intelligence",
+        "relationship management",
+        "networking",
+        "workplace English",
+        "career",
+        "program manager",
+        "audiobook"
+      ],
+      "yt_title": "Small Talk Is Not Small: Two Questions and One Follow-Up",
+      "hook": "Small talk feels like empty air until the silence arrives. But the people who ask more follow-up questions are liked more, and they don't see it coming.\nLearn two questions and one follow-up for the first two minutes of any conversation.",
+      "points": [
+        "People who asked more questions were liked more, and the askers didn't expect it (Huang et al.)",
+        "Follow-up questions signal \"I heard you\"",
+        "Strangers expect conversations to be more awkward than they are (Kardas, Kumar & Epley)",
+        "Daniel's dinner: twelve work questions, zero follow-ups",
+        "Japan's shared greetings vs American small talk"
+      ],
+      "title_ja": "雑談は、小さくない",
+      "hook_ja": "雑談はただの空気のように感じるけれど、沈黙が来ると困りますよね。実は、フォローアップ質問が多い人ほど好かれやすいのに、本人はそれに気づいていません。\nどんな会話の最初の2分でも使える「質問2つ＋フォローアップ1つ」を英語で学ぼう🎧（日本語字幕あり）",
+      "points_ja": [
+        "たくさん質問した人ほど好かれたが、質問した側はそれを予想していなかった",
+        "フォローアップ質問は「ちゃんと聞いてたよ」のサイン",
+        "知らない人との会話は、思うより気まずくない",
+        "ダニエルのディナー：仕事の質問12個、フォローアップはゼロ",
+        "日本の共通のあいさつとアメリカの雑談"
+      ],
+      "summary_ja": "火曜の夜、台所でセナはやかん相手に雑談の練習をして、8秒で止まってしまいます。加藤さんによると、セナは仕事の話が好きだと言ったらローラに笑われたそうで、チームのランチは月曜12時15分です。シーズン3の最初の回。398人の知らない人どうしが15分チャットした実験で、たくさん質問した人、特にフォローアップ質問をした人ほど好かれ、本人はそれを予想していなかったというホアンたちの研究と、知らない人との会話は思ったより気まずくないというカーダスたちの10の実験を紹介します。来訪中の副社長に仕事の質問を12個して、フォローアップを1つもしなかったダニエルの失敗談、「寒くなりましたね」のような日本の共通のあいさつとアメリカの雑談の比較も。",
+      "practice_ja": "今日、会議や会話の最初の2分に、仕事以外の質問を1つする。相手の答えのあと、相手が今言ったことについてフォローアップ質問を1つする。",
+      "thumb_accent": "Follow-Up",
+      "thumb_sub": "Two Questions, One Follow-Up, in Two Minutes",
+      "thumb_notes": [
+        "Ask one question",
+        "Listen for one word",
+        "Follow up on it",
+        "Share one thing about you"
+      ],
+      "thumb_cup": "Ask, listen, follow up",
+      "thumb_pose": "sena_garden"
     }
   ]
 }

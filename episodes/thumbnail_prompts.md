@@ -267,3 +267,47 @@ RIGHT ~60%: a bright, sunny watercolor illustration, soft anime-style but refine
 
 Keep the warm light, the soft watercolor texture and the cheerful, hopeful mood. No other text, no logos, no watermarks.
 ```
+
+## EP33｜Buying Time Before You Answer
+
+```
+Make a YouTube thumbnail in exactly the same style and layout as the Human Curriculum reference thumbnails in this project's source files (EP14, EP18, EP19). Look at them before you start. 16:9, 1672x941.
+
+LEFT ~40%: cream paper panel with torn edges and coral and sky-blue watercolor brush splashes in the corners.
+- Top: "The Human Curriculum" in small navy serif with a thin underline.
+- A coral brush-stroke banner with white text: "EPISODE 33".
+- Main title in very large, bold navy serif (2-4 lines): "Buying Time Before You Answer"
+- A thin coral rule, then the subtitle in bold navy serif: "The One Sentence for Three Seconds of Silence", with the word "Three Seconds" in coral italics.
+- Bottom left: a stack of hardcover books (navy, pink, cream), one per name, with these names on the spines: Stivers et al..
+- A pink sticky note taped on the books, handwritten in navy with a coral underline: "Label it, breathe, answer"
+
+RIGHT ~60%: a bright, sunny watercolor illustration, soft anime-style but refined (like the reference thumbnails).
+- Sena: Japanese woman in her late 20s, long wavy light-brown hair, black sunglasses pushed up on her head, small gold hoop earrings, chunky dusty-pink knit sweater, cream wide-leg trousers, white sneakers, black shoulder bag, office lanyard. Same face as in the reference thumbnails.
+- Scene: a bright Tokyo riverside boardwalk at golden-hour morning, a low three-quarter view from the side. Sena stands calmly with one hand raised palm-out and the other on her chest, taking one slow breath, while a large glowing hourglass floats beside her with its golden sand slowing into a soft ribbon and a small speech bubble reading "Let me think" rising from it (visual metaphor for buying time). Sunbeams, ginkgo leaves drifting. Her expression is calm and confident. No desk, laptop or coffee cup.
+- Around her, 4 handwritten notes in navy pen on small torn paper scraps or written in the air, each with a coral underline or a small heart: "Label the pause", "Breathe once", "Say what you know", "Name a time"
+
+Keep the warm light, the soft watercolor texture and the cheerful, hopeful mood. No other text, no logos, no watermarks.
+```
+
+
+## EP34｜Asking Clarifying Questions
+
+```
+Make a YouTube thumbnail in exactly the same style and layout as the Human Curriculum reference thumbnails in this project's source files (EP14, EP18, EP19). Look at them before you start. 16:9, 1672x941.
+
+LEFT ~40%: cream paper panel with torn edges and coral and sky-blue watercolor brush splashes in the corners.
+- Top: "The Human Curriculum" in small navy serif with a thin underline.
+- A coral brush-stroke banner with white text: "EPISODE 34".
+- Main title in very large, bold navy serif (2-4 lines): "Asking Clarifying Questions"
+- A thin coral rule, then the subtitle in bold navy serif: "Check What They Mean in One Sentence", with the word "One Sentence" in coral italics.
+- Bottom left: a stack of hardcover books (navy, pink, cream), one per name, with these names on the spines: Dingemanse et al..
+- A pink sticky note taped on the books, handwritten in navy with a coral underline: "Say it back, ask if it's right"
+
+RIGHT ~60%: a bright, sunny watercolor illustration, soft anime-style but refined (like the reference thumbnails).
+- Sena: Japanese woman in her late 20s, long wavy light-brown hair, black sunglasses pushed up on her head, small gold hoop earrings, chunky dusty-pink knit sweater, cream wide-leg trousers, white sneakers, black shoulder bag, office lanyard. Same face as in the reference thumbnails.
+- Scene: a sunny stone-paved lane in an old Tokyo shopping street (shotengai) at midday, a wide eye-level front view. Sena holds up a large hand-held magnifying glass toward a floating oversized paper note with a fuzzy cloud scribble on it; through the glass the scribble sharpens into one clear tidy sentence (visual metaphor for clarifying a vague request). Paper lanterns overhead, warm sunbeams. Her expression is curious and friendly. No desk, laptop or coffee cup.
+- Around her, 4 handwritten notes in navy pen on small torn paper scraps or written in the air, each with a coral underline or a small heart: "Say what you heard", "Be specific", "End with a question", "Fix only what's off"
+
+Keep the warm light, the soft watercolor texture and the cheerful, hopeful mood. No other text, no logos, no watermarks.
+```
+

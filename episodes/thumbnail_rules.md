@@ -7,9 +7,9 @@ Use: paste this whole file into ChatGPT once, then send the episode brief (secti
 
 ## 1. Brand core
 
-Channel: The Human Curriculum (@learnwhataicant) — learn the human skills AI can't replace: emotional intelligence, trust, feedback, influence, speaking up, leadership, global workplace English.
+Channel: The Human Curriculum (@learnwhataicant) — the human skills AI can't do, learned between two work cultures: emotional intelligence, trust, feedback, influence, speaking up, leadership, and Japan vs US work culture.
 
-Audience: mostly people outside Japan who work (or want to work) in global teams and are improving their English; also Japanese English learners.
+Audience (from Oct 2026): US / native-English professionals who want to grow their human skills (EQ, communication, leadership) and are curious how work differs in Japan and the US. Not an English-learning channel.
 
 The look: Japanese editorial magazine × Tokyo design museum × airport wayfinding × illustrated learning journal. Intelligent, warm, curious, modern. Never a generic productivity, business or self-help channel.
 
@@ -19,7 +19,7 @@ Goal: CONSISTENCY WITHOUT REPETITION. Same universe, different chapter.
 
 ## 2. Titles (how the thumbnail relates to the title)
 
-- The YouTube title is written in plain words, from the viewer's problem, so people find it in search. Example: "Why Nobody Speaks Up in Your Meetings | English Podcast EP14". It is set automatically; it is NOT written on the thumbnail.
+- The YouTube title is written in plain words, from the viewer's problem, so people find it in search. Example: "Why Nobody Speaks Up in Your Meetings | Human Curriculum EP14". It is set automatically; it is NOT written on the thumbnail.
 - The thumbnail text must ADD something the title doesn't say: the tension, a striking number, or the one memorable phrase of the episode.
   - Title "Why Nobody Speaks Up in Your Meetings" → thumbnail "10 Seconds of Silence"
   - Title "How to Start a Hard Conversation at Work" → thumbnail "How Are You, Really?"

@@ -246,3 +246,24 @@ RIGHT ~60%: a bright, sunny watercolor illustration, soft anime-style but refine
 
 Keep the warm light, the soft watercolor texture and the cheerful, hopeful mood. No other text, no logos, no watermarks.
 ```
+
+## EP32｜Explain It Without the Slides
+
+```
+Make a YouTube thumbnail in exactly the same style and layout as the Human Curriculum reference thumbnails in this project's source files (EP14, EP18, EP19). Look at them before you start. 16:9, 1672x941.
+
+LEFT ~40%: cream paper panel with torn edges and coral and sky-blue watercolor brush splashes in the corners.
+- Top: "The Human Curriculum" in small navy serif with a thin underline.
+- A coral brush-stroke banner with white text: "EPISODE 32".
+- Main title in very large, bold navy serif (2-4 lines): "Explain It Without the Slides"
+- A thin coral rule, then the subtitle in bold navy serif: "Explain Your Thinking in One Minute, No Slides", with the word "Slides" in coral italics.
+- Bottom left: a stack of hardcover books (navy, pink, cream), one per name, with these names on the spines: Hinds.
+- A pink sticky note taped on the books, handwritten in navy with a coral underline: "Three sentences, one question"
+
+RIGHT ~60%: a bright, sunny watercolor illustration, soft anime-style but refined (like the reference thumbnails).
+- Sena: Japanese woman in her late 20s, long wavy light-brown hair, black sunglasses pushed up on her head, small gold hoop earrings, chunky dusty-pink knit sweater, cream wide-leg trousers, white sneakers, black shoulder bag, office lanyard. Same face as in the reference thumbnails.
+- Scene: a quiet Tokyo wooden-house front porch (engawa) at golden hour, autumn leaves in the garden. Sena sits cross-legged on the porch boards and holds up a single big paper cutout of one smiling customer figure, as a friendly neighbour in a nurse cardigan, seen from behind, leans in to listen with a cup of tea; a tangled ball of grey technical words (arrows, boxes, tiny jargon) floats above Sena's other hand and is being untied into one clean thread. Three-quarter side view from the porch steps, camera at sitting height. Her expression is warm and clear. No desk, laptop or coffee cup
+- Around her, 4 handwritten notes in navy pen on small torn paper scraps or written in the air, each with a coral underline or a small heart: "Start with the question", "Give one example", "Say what it means for them", "Ask what didn't land"
+
+Keep the warm light, the soft watercolor texture and the cheerful, hopeful mood. No other text, no logos, no watermarks.
+```

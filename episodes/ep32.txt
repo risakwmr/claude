@@ -1,0 +1,75 @@
+SENA: Wednesday night, eleven p.m. I'm on a video call with my friend Aoi, who is a nurse. I say, "Okay, I'm practicing. Here's how I think about numbers. I check the join key, dedupe on order ID, and then reconcile against the source." Aoi looks at me for a long moment. Then she says, "Sena, I understood about four words."
+DANIEL: Four out of how many?
+SENA: Twenty-one. I counted afterwards. And that's the explanation I was going to give a director on Monday.
+DANIEL: Then you found it on Wednesday night instead of Monday at lunch. That's a good trade. By the end of this episode, you'll be able to explain your thinking to someone outside your field in about a minute, with no slides.
+DANIEL: Welcome back to Human Curriculum. I'm Daniel Reed, a People Manager in Seattle.
+SENA: And I'm Sena Sato, an Associate in Tokyo. It's Thursday, seven forty in the morning here.
+DANIEL: And Wednesday, three forty in the afternoon here. Maple is at the window, barking at a squirrel who is clearly winning. Last time, your challenge was one question that isn't about the task, and then one follow-up.
+SENA: I did it at the nine a.m. check-in. I asked Kato-san, "Anything fun this weekend, besides running?" He said, "Running." Then, after a pause, "And my daughter's science fair. A volcano."
+DANIEL: And the follow-up?
+SENA: I said, "Does it erupt?" He laughed. Daniel, he talked for almost three minutes. Baking soda, red food coloring, and he told us he had to help glue the mountain. Ryo asked how big it was. Kenta asked if there was a backup volcano. Our check-in started four minutes late and nobody minded.
+DANIEL: Notice what you did. You didn't say anything clever. You listened for the word "science fair" and asked about the volcano.
+SENA: I asked about the volcano. And the mood log: day three was "warm." Last night.
+DANIEL: Good. That's three words in three days. Now, today's problem is the opposite of small talk. Laura asked for an explanation, with no slides, of how you think about numbers.
+SENA: And my friend said she understood four words.
+DANIEL: Let's start with the research, because this is a well-studied trap. The paper is by Pamela Hinds, from Stanford, called "The Curse of Expertise." The study I'll describe was first reported in a 1998 lab report and later published in the Journal of Experimental Psychology: Applied, in 1999.
+SENA: A curse. Dramatic.
+DANIEL: Here's the setup. Forty-nine college students in non-technical majors built a thirty-nine-piece LEGO toy, a little spaceship. Half of them built it once. The other half built it five times over two sessions. Then everyone was asked: how long would it take a typical student to build this for the first time, with just the pictures?
+SENA: And the five-time builders knew the most.
+DANIEL: They did. And the real first-timers took about twelve and a half minutes on average, with a median of about twelve minutes. The people who had built it five times guessed about eight and a half. They underestimated by nearly four minutes. The people who'd built it once guessed almost thirteen, which was close.
+SENA: So knowing more made them worse at guessing.
+DANIEL: At guessing what it feels like not to know. Then they tried a fix: giving people a list of the steps and the problems novices ran into. The experts barely changed their answers, less than thirty seconds. The authors suggested that the experts could not easily get back to how hard it was at the start.
+SENA: That sounds like me with the join key. I've said "dedupe" so many times, it feels like a normal word.
+DANIEL: It does. Now the cautions. It was forty-nine students, all men, from one university, building a LEGO toy for a few minutes. "Expert" here means five builds, not twenty years. Another study in the same paper used cell-phone sellers and had a similar pattern, but we shouldn't assume the exact numbers carry over to a data analyst explaining a pipeline. And the list was a weak fix, not proof that nothing helps. Other research suggests that getting feedback from real beginners might.
+SENA: So the lesson is not "experts are bad." It's that experts can't feel the gap on their own.
+DANIEL: That's how I read it. You can't feel it from the inside. You need a person on the outside. Which brings me to the usual question. Why can't AI do this for you?
+SENA: An AI can write me a plain-English version of the pipeline. A good one, probably.
+DANIEL: And?
+SENA: And it doesn't know that Laura already knows what a dashboard is but has never opened a validation script. It doesn't see her face when I say "dedupe." Aoi's face did the work. A list of simple words isn't the same as seeing which word lost someone.
+DANIEL: Right. The calibration happens in the room, in a half-second look. That part is yours.
+SENA: Daniel, have you ever done this to someone?
+DANIEL: In a painful way. Years ago, I presented our attrition model to Leona, a finance partner, because she needed to approve my team's hiring budget. I'd spent three months on that model. I walked her through the features, the weighting, the cohort splits, the confidence intervals. Forty minutes.
+SENA: And she nodded?
+DANIEL: She nodded for forty minutes. At the end she said, "This looks great, Daniel." And then she cut my hiring request in half.
+SENA: What?
+DANIEL: I called her afterward, confused. She said, "I didn't want to be the person who didn't understand it. So I decided it was probably fine, and then I decided it was probably risky." I'd given her a lot of information and no way to say yes. She didn't know what I needed her to decide.
+SENA: So the nodding wasn't "I understand."
+DANIEL: It was "please stop." Eventually I went back with one page. It said, "If we lose two more engineers this year, here's what it costs. Here's what hiring now saves. I'm asking you to approve six roles." She approved four of the six. Not everything, but more than the three she'd cut me to.
+SENA: One page beat forty minutes.
+DANIEL: By a lot. My wife says my best explanations are the ones about the dog. "Maple needs to go out at six, eat at six thirty, and I need you to stand there while she thinks about it." She understands every word.
+SENA: Ha. Okay, can I talk about Japan and the US? Because I think this is the part for Monday.
+DANIEL: This is the centerpiece, so take your time.
+SENA: Picture a Monday report meeting in Tokyo. Ryo presents. He starts with, "First, the keii." The history of how we got here. "In March, region two changed its sign-up form. Because of that, in April we added a column. In May, the column was filled in differently by two teams. So we reviewed both." Then, somewhere around minute seven, "And so, this month's rate is four point one percent."
+DANIEL: Seven minutes before the number.
+SENA: Seven minutes. And what's interesting is that nobody is bored. Kato-san is nodding, but the nodding doesn't mean "I agree." It means "I'm following." The point of the keii is that when the number comes, nobody is surprised. Everyone's been walked there together, and later nobody can say "I didn't know that."
+DANIEL: So the background is not a delay. It's the proof that the decision will be fair.
+SENA: Yes. And often it connects to nemawashi: the quiet conversations beforehand so that the meeting itself is basically confirming. If you jump to "I recommend X" without the keii, it can feel like you skipped the people who need to feel included.
+DANIEL: Now let me give you the Seattle version. It's a Thursday, eight a.m. in your time, four p.m. here on Wednesday. Mark's call. Someone starts with, "So, a little context." Mark types in the chat, "TLDR?" Laura says, "Sorry, can I stop you there? What's the number, and what do you need from us?"
+SENA: That feels so direct.
+DANIEL: It is, and it isn't meant as rude. Many American teams treat the first minute as the listener's most valuable minute. People have back-to-back meetings. If you lead with the history, they may think you don't know your point. So we say "bottom line up front." The history is available if someone asks for it. And often they do.
+SENA: There's something else. In the US, when I stay quiet during a long explanation, people may read it as "lost." In Tokyo, quiet means "I'm listening." So I wait, and Mark thinks I'm confused.
+DANIEL: I've misread that, too. A Japanese colleague of mine once listened to my whole pitch without a word. I thought, "She's unconvinced." Actually she was following every step, and she brought up three detailed questions the next day. I almost rewrote the whole pitch for nothing.
+SENA: And in Tokyo, when someone says "So what?" in the middle of a keii, it can feel like they don't respect the process.
+DANIEL: So neither side is being lazy or rude. One is protecting the group from surprise. The other is protecting the listener's time. And these are individual differences, too. Plenty of Tokyo managers want the number first, and plenty of Seattle people love a story.
+SENA: So what do I do on Monday? Laura is American. But she's visiting a Tokyo team, and Kato-san will be listening, too.
+DANIEL: I'd try one sentence of headline, then an offer. "Short version: I check that every number counts each customer once. Want the background, or should I give you an example?"
+SENA: Oh. The offer is the bridge. It's the American headline and the Japanese keii, with the listener choosing.
+DANIEL: And if you work with Japanese teams from the US, it goes the other way. Don't cut the keii. Say, "I'd like to hear the background first. It'll help me." That's respectful, and you get what you need.
+SENA: That's a good sentence. "It'll help me."
+DANIEL: Okay. The skill today is social awareness and relationship management together. I use three moves, and I call it the front-porch explanation. Move one: the question. What question does this answer? Move two: one example, a person or a thing, not a process. Move three: what it means for them.
+SENA: Can I try it? You be Laura.
+DANIEL: Sure. "Sena, how do you think about the numbers?"
+SENA: Short version: I always ask, "Does each customer get counted once?" Because if a customer is counted twice, every number after that is wrong, and nobody sees it. For example, last spring, one region counted the same people twice, and the rate looked better than it was. So now I check that before anything else. For you, it means when I send a number, you can trust the count. What part didn't land?
+DANIEL: "That was clear. But what does 'region' mean here, a sales region?"
+SENA: Ah. A region of our customers, like Kanto or Kansai. Thank you. That's the word I didn't notice.
+DANIEL: See that? You asked, "What part didn't land?" and she showed you the word you couldn't feel. About forty seconds, no slides, and one word to fix.
+SENA: Four words for Aoi. I wonder how many now. Daniel, I want to call her back.
+DANIEL: Do it. You can use her as your test listener. Pick someone who doesn't work in your field, and ask them to stop you every time they lose the thread.
+SENA: Okay, here's my retell. Hinds found that people who'd built a LEGO toy five times guessed beginners would need about eight and a half minutes. Real beginners took about twelve and a half. And a list of tips barely helped. So when you know something well, you can't feel how it sounds to someone who doesn't, and you need someone outside to tell you.
+DANIEL: That's it. Today's challenge: pick one thing you do at work and explain it to someone outside your field in three sentences. The question it answers, one example, and what it means for them. Then ask, "What part didn't land?"
+SENA: One thing, three sentences, one honest question. I'll call Aoi at lunch. Oh, my phone buzzed. It's Kato-san.
+DANIEL: Hold that thought, because next time is episode thirty-three, "Buying Time Before You Answer." We'll look at what to say in the three seconds when someone asks you a question you can't answer yet.
+DANIEL: And I think that's a good title, given your face right now. What did Kato-san say?
+SENA: "Laura is joining the eight o'clock call. She says she has one quick question for you. No prep. Just you." Daniel. It's seven fifty-one. I have nine minutes.
+DANIEL: Then breathe. Thanks for listening to Human Curriculum. I'm Daniel.
+SENA: And I'm Sena. One thing, three sentences, and ask what didn't land. See you next time.

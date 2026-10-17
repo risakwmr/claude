@@ -1,5 +1,5 @@
 {
-  "at": "2026-10-17T02:08:11Z",
+  "at": "2026-10-17T14:50:45Z",
   "shorts": {
     "1-ai": {
       "video_id": "IdbU6d1ox0Q",
@@ -37,21 +37,21 @@
       "likes": 1,
       "comments": 1
     },
-    "2-story": {
-      "video_id": "OZoq4IaDgOg",
-      "title": "The reply I still regret as a manager #shorts",
-      "public": true,
-      "publish_at": "2026-10-04T10:55:18Z",
-      "views": 7,
-      "likes": 0,
-      "comments": 1
-    },
     "2-culture": {
       "video_id": "EiRzB8lexnM",
       "title": "Hiding a feeling is not the same as handling it #shorts",
       "public": true,
       "publish_at": "2026-10-07T23:00:00Z",
       "views": 15,
+      "likes": 0,
+      "comments": 1
+    },
+    "2-story": {
+      "video_id": "OZoq4IaDgOg",
+      "title": "The reply I still regret as a manager #shorts",
+      "public": true,
+      "publish_at": "2026-10-04T10:55:18Z",
+      "views": 7,
       "likes": 0,
       "comments": 1
     },
@@ -73,15 +73,6 @@
       "likes": 0,
       "comments": 1
     },
-    "3-story": {
-      "video_id": "iSK3dsxPs54",
-      "title": "\"Someone should fix that\" means nobody will #shorts",
-      "public": true,
-      "publish_at": "2026-10-06T23:00:00Z",
-      "views": 26,
-      "likes": 0,
-      "comments": 1
-    },
     "3-culture": {
       "video_id": "BmO7J6dItZ0",
       "title": "Ownership at work: Japan vs the US #shorts",
@@ -90,6 +81,15 @@
       "views": 91,
       "likes": 0,
       "comments": 0
+    },
+    "3-story": {
+      "video_id": "iSK3dsxPs54",
+      "title": "\"Someone should fix that\" means nobody will #shorts",
+      "public": true,
+      "publish_at": "2026-10-06T23:00:00Z",
+      "views": 26,
+      "likes": 0,
+      "comments": 1
     },
     "4-ai": {
       "video_id": "OIbZ6sh9RiE",
@@ -109,15 +109,6 @@
       "likes": 0,
       "comments": 1
     },
-    "4-story": {
-      "video_id": "QepA2gyIkew",
-      "title": "I wasn't stressed. I was lonely. #shorts",
-      "public": true,
-      "publish_at": "2026-10-08T09:00:00Z",
-      "views": 60,
-      "likes": 0,
-      "comments": 1
-    },
     "4-culture": {
       "video_id": "jcnHcpUV4mw",
       "title": "What \"fine\" really means at work: Japan vs the US #shorts",
@@ -126,6 +117,15 @@
       "views": 156,
       "likes": 2,
       "comments": 0
+    },
+    "4-story": {
+      "video_id": "QepA2gyIkew",
+      "title": "I wasn't stressed. I was lonely. #shorts",
+      "public": true,
+      "publish_at": "2026-10-08T09:00:00Z",
+      "views": 60,
+      "likes": 0,
+      "comments": 1
     },
     "5-ai": {
       "video_id": "1wCrwibGAfw",
@@ -145,21 +145,21 @@
       "likes": 0,
       "comments": 1
     },
-    "5-story": {
-      "video_id": "gM0GYd249T0",
-      "title": "How I killed feedback on my team in five minutes #shorts",
-      "public": true,
-      "publish_at": "2026-10-09T23:00:00Z",
-      "views": 23,
-      "likes": 0,
-      "comments": 0
-    },
     "5-culture": {
       "video_id": "vPnkuxC0e8A",
       "title": "Feedback in Japan vs the US #shorts",
       "public": true,
       "publish_at": "2026-10-13T09:00:00Z",
       "views": 15,
+      "likes": 0,
+      "comments": 0
+    },
+    "5-story": {
+      "video_id": "gM0GYd249T0",
+      "title": "How I killed feedback on my team in five minutes #shorts",
+      "public": true,
+      "publish_at": "2026-10-09T23:00:00Z",
+      "views": 23,
       "likes": 0,
       "comments": 0
     },
@@ -172,21 +172,21 @@
       "likes": 0,
       "comments": 0
     },
-    "6-story": {
-      "video_id": "SZPGl_h57Pc",
-      "title": "My best engineer quit after a year of perfect 1:1s #shorts",
-      "public": true,
-      "publish_at": "2026-10-11T09:00:00Z",
-      "views": 7,
-      "likes": 0,
-      "comments": 0
-    },
     "6-culture": {
       "video_id": "t3Ebwotx0qg",
       "title": "Who owns the 1:1? Japan vs the US #shorts",
       "public": true,
       "publish_at": "2026-10-14T23:00:00Z",
       "views": 10,
+      "likes": 0,
+      "comments": 0
+    },
+    "6-story": {
+      "video_id": "SZPGl_h57Pc",
+      "title": "My best engineer quit after a year of perfect 1:1s #shorts",
+      "public": true,
+      "publish_at": "2026-10-11T09:00:00Z",
+      "views": 7,
       "likes": 0,
       "comments": 0
     },
@@ -199,21 +199,21 @@
       "likes": 0,
       "comments": 0
     },
-    "7-story": {
-      "video_id": "QBnWN2SzjAo",
-      "title": "Short is not the same as clear #shorts",
-      "public": true,
-      "publish_at": "2026-10-13T23:00:00Z",
-      "views": 23,
-      "likes": 0,
-      "comments": 0
-    },
     "7-culture": {
       "video_id": "iUAR7b09CZY",
       "title": "High-context vs low-context: Japan and the US at work #shorts",
       "public": true,
       "publish_at": "2026-10-16T09:00:00Z",
-      "views": 7,
+      "views": 12,
+      "likes": 0,
+      "comments": 0
+    },
+    "7-story": {
+      "video_id": "QBnWN2SzjAo",
+      "title": "Short is not the same as clear #shorts",
+      "public": true,
+      "publish_at": "2026-10-13T23:00:00Z",
+      "views": 22,
       "likes": 0,
       "comments": 0
     },
@@ -223,6 +223,15 @@
       "public": true,
       "publish_at": "2026-10-14T09:00:00Z",
       "views": 7,
+      "likes": 0,
+      "comments": 0
+    },
+    "8-culture": {
+      "video_id": "a6u9FeCDeeI",
+      "title": "Status vs impact: how to make your work visible #shorts",
+      "public": false,
+      "publish_at": "2026-10-17T23:00:00Z",
+      "views": 0,
       "likes": 0,
       "comments": 0
     },
@@ -249,16 +258,16 @@
       "title": "An honest no is better than a vague yes #shorts",
       "public": true,
       "publish_at": "2026-10-16T23:00:00Z",
-      "views": 0,
+      "views": 9,
       "likes": 0,
       "comments": 0
     },
     "10-highlight": {
       "video_id": "4bemmHVX0UY",
       "title": "People say yes more often than you think #shorts",
-      "public": false,
+      "public": true,
       "publish_at": "2026-10-17T09:00:00Z",
-      "views": 0,
+      "views": 2,
       "likes": 0,
       "comments": 0
     },
@@ -280,15 +289,6 @@
       "likes": 0,
       "comments": 1
     },
-    "16-story": {
-      "video_id": "DnQzsR75Fgs",
-      "title": "I quietly fixed a mistake. It cost me 6 months of trust. #shorts",
-      "public": true,
-      "publish_at": "2026-10-08T05:15:51Z",
-      "views": 11,
-      "likes": 0,
-      "comments": 1
-    },
     "16-culture": {
       "video_id": "8TIGXHenBaY",
       "title": "Reporting mistakes: Japan vs the US #shorts",
@@ -304,6 +304,15 @@
       "public": true,
       "publish_at": "2026-10-08T05:15:54Z",
       "views": 84,
+      "likes": 0,
+      "comments": 1
+    },
+    "16-story": {
+      "video_id": "DnQzsR75Fgs",
+      "title": "I quietly fixed a mistake. It cost me 6 months of trust. #shorts",
+      "public": true,
+      "publish_at": "2026-10-08T05:15:51Z",
+      "views": 11,
       "likes": 0,
       "comments": 1
     },
@@ -438,7 +447,7 @@
       "title": "Does perfectionism make you better at work? #shorts",
       "public": true,
       "publish_at": "2026-10-15T16:10:39Z",
-      "views": 1,
+      "views": 2,
       "likes": 0,
       "comments": 0
     },
@@ -456,7 +465,7 @@
       "title": "Does being kind to yourself make you lazy? #shorts",
       "public": true,
       "publish_at": "2026-10-16T16:11:29Z",
-      "views": 4,
+      "views": 10,
       "likes": 0,
       "comments": 0
     },
@@ -465,7 +474,25 @@
       "title": "How you talk about your mistakes becomes your team's rule #shorts",
       "public": true,
       "publish_at": "2026-10-16T16:11:31Z",
-      "views": 4,
+      "views": 6,
+      "likes": 0,
+      "comments": 0
+    },
+    "27-highlight": {
+      "video_id": "2-T9Xee9Wjo",
+      "title": "Putting yourself in their shoes doesn't work. This does. #shorts",
+      "public": true,
+      "publish_at": "2026-10-17T14:50:40Z",
+      "views": 0,
+      "likes": 0,
+      "comments": 0
+    },
+    "27-culture": {
+      "video_id": "YkKMqzgBSQk",
+      "title": "Reading the air: Japan vs the US #shorts",
+      "public": true,
+      "publish_at": "2026-10-17T14:50:42Z",
+      "views": 0,
       "likes": 0,
       "comments": 0
     }
@@ -635,14 +662,14 @@
     "24": {
       "video_id": "8Xu4jH5O4jM",
       "title": "Can't Stop Thinking About Work at Night? Try This 2-Minute Shutdown | Business English Podcast EP24",
-      "views": 33,
+      "views": 34,
       "likes": 1,
       "comments": 1
     },
     "25": {
       "video_id": "GmBCSsACX9c",
       "title": "Perfectionism at Work: How to Know When It's Good Enough | Business English Podcast EP25",
-      "views": 13,
+      "views": 14,
       "likes": 0,
       "comments": 1
     },
@@ -652,6 +679,13 @@
       "views": 6,
       "likes": 0,
       "comments": 1
+    },
+    "27": {
+      "video_id": "mhPA1DF8TOM",
+      "title": "How to Read Emotions on a Video Call (and What to Say After) | Human Curriculum EP27",
+      "views": 0,
+      "likes": 0,
+      "comments": 0
     }
   }
 }

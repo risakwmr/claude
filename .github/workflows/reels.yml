@@ -1,0 +1,81 @@
+name: Make Instagram Reels
+
+# Renders YouTube Shorts again with src/make_short.py (same 1080x1920 video, voice and burned-in captions) and
+# attaches them to the public release "reels" with a caption sidecar (src/reels.py meta). Buffer fetches the mp4
+# from https://github.com/risakwmr/claude/releases/download/reels/epNN_short_KIND.mp4.
+# Posting to Instagram (via Buffer) is done outside GitHub by `python3 src/reels.py post` (see that file).
+
+on:
+  workflow_dispatch:
+    inputs:
+      items:
+        description: "Shorts to render, e.g. 1-highlight 1-ai, or next N (next un-rendered Shorts already on YouTube)"
+        default: "next 2"
+  schedule:
+    # Every day at 10:30 Japan time: keeps two Reels ready ahead of the daily Buffer post.
+    - cron: "30 1 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: reels
+  cancel-in-progress: false
+
+jobs:
+  reels:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    env:
+      GH_TOKEN: ${{ github.token }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: episodes
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Make sure the release exists
+        run: |
+          gh release view reels > /dev/null 2>&1 || gh release create reels --target episodes \
+            --title "Instagram Reels" --notes "Rendered Shorts for Instagram Reels (posted via Buffer). Do not delete: scheduled posts fetch these files."
+          gh release view reels --json assets -q '.assets[].name' > /tmp/have.txt || true
+
+      - name: Choose Shorts
+        id: pick
+        env:
+          ITEMS: ${{ inputs.items || 'next 2' }}
+        run: |
+          set -- $ITEMS
+          if [ "$1" = "next" ]; then
+            list=$(python src/reels.py todo "${2:-2}" /tmp/have.txt)
+          else
+            list="$ITEMS"
+          fi
+          echo "Shorts: $list" | tee -a "$GITHUB_STEP_SUMMARY"
+          echo "list=$list" >> "$GITHUB_OUTPUT"
+
+      - name: Install tools
+        if: steps.pick.outputs.list != ''
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg > /dev/null
+          pip install -q -r requirements.txt
+
+      - name: Render and attach
+        if: steps.pick.outputs.list != ''
+        env:
+          SENA_VOICE: ${{ vars.SENA_VOICE }}
+          DANIEL_VOICE: ${{ vars.DANIEL_VOICE }}
+        run: |
+          for item in ${{ steps.pick.outputs.list }}; do
+            n="${item%%-*}"; kind="${item#*-}"
+            dir="output/ep$(printf %02d "$n")"
+            stem="ep$(printf %02d "$n")_short_${kind}"
+            python src/make_short.py "$n" --kind "$kind" < /dev/null || { echo "::warning::$item could not be made"; continue; }
+            [ -f "$dir/$stem.mp4" ] || { echo "::warning::$item: no mp4"; continue; }
+            python src/reels.py meta "$n" "$kind" "$dir"
+            gh release upload reels "$dir/$stem.mp4" "$dir/$stem.reel.json" --clobber
+            echo "- $item -> https://github.com/${{ github.repository }}/releases/download/reels/$stem.mp4" >> "$GITHUB_STEP_SUMMARY"
+          done

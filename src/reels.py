@@ -1,6 +1,8 @@
 """Instagram Reels for @learnwhataicant, made from the YouTube Shorts (Buffer free plan).
 
-The Reel is the same 1080x1920 mp4 that src/make_short.py renders for YouTube (voice + burned-in captions).
+The Reel is the Instagram variant of the Short: `src/make_short.py N --kind K --ig` -> epNN_reel_KIND.mp4
+(same clip and voices as the YouTube Short, but laid out for the Reels UI: big "ig_hook" at the top, large
+subtitles in the middle, no episode thumbnail, text inside the IG safe zone; stereo AAC 44.1 kHz at -14 LUFS).
 GitHub Actions (.github/workflows/reels.yml on main) renders it and attaches it to the public release "reels",
 together with a small JSON sidecar that already holds the Instagram caption. Buffer then fetches the mp4 from the
 stable public release URL.
@@ -10,7 +12,7 @@ episode culture > highlight > lab > ai > story (culture Shorts do ~2x the others
 
 In GitHub Actions (repo checkout of the episodes branch):
   python src/reels.py todo N HAVE_FILE      next N keys ("1-highlight") whose mp4 is not in the release yet
-  python src/reels.py meta N KIND OUT_DIR   write the caption sidecar epNN_short_KIND.reel.json
+  python src/reels.py meta N KIND OUT_DIR   write the caption sidecar epNN_reel_KIND.reel.json
 
 Anywhere (Hark's daily run; needs only Python 3 stdlib, the Buffer key on api.buffer.com, and the GitHub
 connector for writing reels.json):
@@ -55,7 +57,9 @@ KIND_TAGS = {
 
 
 def stem(num, kind):
-    return f"ep{int(num):02d}_short_{kind}"
+    """File stem of the Instagram Reel render (make_short.py --ig). Older epNN_short_KIND.mp4 release assets are
+    the YouTube layout and are no longer posted."""
+    return f"ep{int(num):02d}_reel_{kind}"
 
 
 def sort_key(k):

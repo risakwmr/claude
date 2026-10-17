@@ -564,8 +564,8 @@ def board_image(num, board_key):
     elif kind in ("repeat", "question"):
         countdown = b.get("countdown")
         if kind == "repeat":
-            _label(d, (pad, 44), "YOUR TURN · SAY IT OUT LOUD" if countdown is not None else "SPEAKING LAB · REPEAT",
-                   CORAL)
+            _label(d, (pad, 44), "YOUR TURN · SAY IT OUT LOUD" if countdown is not None
+                   else (b.get("label") or "SPEAKING LAB · REPEAT"), CORAL)
         else:
             _label(d, (pad, 44), "YOUR TURN · 40 SECONDS", CORAL)
         d = ImageDraw.Draw(card_img)

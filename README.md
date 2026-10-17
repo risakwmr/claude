@@ -1,6 +1,6 @@
 # Human Curriculum
 
-An English audiobook about the skills AI can't do for you, turned into YouTube videos automatically.
+An audio drama about the human skills AI can't do for you (EQ, and Japan vs US work culture), turned into YouTube videos automatically.
 Sena (Associate, Tokyo) learns from her mentor Daniel (People Manager, Seattle).
 
 ## What happens
@@ -76,10 +76,10 @@ Every episode also becomes up to four vertical YouTube Shorts (1080×1920): a bi
 | `story` | Daniel's failure story |
 | `culture` | Japan vs the US |
 | `highlight` | The most striking moment of the episode (a surprising number, a line that hits), marked in `epNN.short.json` |
-| `lab` | Speaking Lab: the phrases, with a silent "your turn" countdown (episode 12 on) |
+| `lab` | Phrases that work at work: 2–3 phrases with a silent "your turn" countdown. EP12–31: cut from the Speaking Lab; EP32 on: `phrases` given in `epNN.short.json` |
 
 - What goes in: `episodes/epNN.short.json` (per kind: line range, hook, title, optional board; the format is at the top of `src/make_short.py`). A kind missing from that file is cut automatically when the episode has that part, so new episodes get their Shorts with no extra work.
-- When: each episode's **highlight** and **ai** Shorts go public at the same moment as the episode (00:00 / 12:00 JST). The other kinds, and Shorts of older episodes, go up one per scheduled run at **08:00 or 18:00 JST** (about 2 a day), keeping a day near 8 uploads, under YouTube's daily upload limit. Change those times with the repository variable `SHORT_SLOTS_JST`, or stop automatic Shorts with `AUTO_SHORTS` = `false`.
+- When: each episode's **highlight** and **culture** Shorts go public at the same moment as the episode (00:00 / 12:00 JST). The other kinds, and Shorts of older episodes, go up one per scheduled run at **08:00 or 18:00 JST** (about 2 a day), keeping a day near 8 uploads, under YouTube's daily upload limit. Change those times with the repository variable `SHORT_SLOTS_JST`, or stop automatic Shorts with `AUTO_SHORTS` = `false`.
 - The description starts with the full-episode link, and once a Short is public a comment with the same link is added (you can pin it in YouTube Studio). `shorts.json` keeps track of uploaded Shorts.
 - By hand: **Run workflow** → `action`: `short_make` (build only, download from **Artifacts**) or `short` (build and upload); `episode`: a number like `14`, or `next`; `short_kind`: one kind or `all`.
 - Stats: every scheduled run saves views and likes of each Short to `shorts_stats.json` (summed up by kind in the run summary); run `action`: `stats` to get them now. Retention ("viewed vs swiped away") is only in YouTube Studio.

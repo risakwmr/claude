@@ -1,1 +1,9 @@
-{}
+{
+  "1-highlight": {
+    "buffer_post_id": "6ad33e0e0a208cb32312e13a",
+    "status": "scheduled",
+    "due_at": "2026-10-17T11:00:00.000Z",
+    "video_url": "https://cdn.jsdelivr.net/gh/risakwmr/claude@reels-media/ep01_reel_highlight.mp4",
+    "created_at": "2026-10-17T09:21:19Z"
+  }
+}

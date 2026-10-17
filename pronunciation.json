@@ -62,22 +62,22 @@
   "aizuchi": {
     "episode": 28,
     "reported": true,
-    "next_reported": false
+    "next_reported": true
   },
   "naruhodo": {
     "episode": 28,
     "reported": true,
-    "next_reported": false
+    "next_reported": true
   },
   "maa maa": {
     "episode": 28,
     "reported": true,
-    "next_reported": false
+    "next_reported": true
   },
   "mark-san": {
     "episode": 28,
     "reported": true,
-    "next_reported": false
+    "next_reported": true
   },
   "sumimasen": {
     "episode": 29,
@@ -86,6 +86,21 @@
   },
   "shogi": {
     "episode": 30,
+    "reported": true,
+    "next_reported": false
+  },
+  "samuku narimashita ne": {
+    "episode": 31,
+    "reported": true,
+    "next_reported": false
+  },
+  "kanto": {
+    "episode": 32,
+    "reported": true,
+    "next_reported": false
+  },
+  "kansai": {
+    "episode": 32,
     "reported": true,
     "next_reported": false
   }

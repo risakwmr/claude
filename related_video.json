@@ -114,5 +114,21 @@
   "26-story": {
     "episode": 26,
     "reported": true
+  },
+  "8-culture": {
+    "episode": 8,
+    "reported": true
+  },
+  "10-highlight": {
+    "episode": 10,
+    "reported": true
+  },
+  "27-highlight": {
+    "episode": 27,
+    "reported": true
+  },
+  "27-culture": {
+    "episode": 27,
+    "reported": true
   }
 }

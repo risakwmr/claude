@@ -6,6 +6,13 @@ Usage:
   python src/make_short.py 14 --fake-tts       # placeholder tones, for checking the visuals
   python src/make_short.py 14 --kind lab --frame 3   # only save one still frame (line 3 of the clip) as a PNG
   python src/make_short.py 14 --list           # print the kinds this episode has
+  python src/make_short.py 1 --kind highlight --ig   # Instagram Reel variant -> output/ep01/ep01_reel_highlight.mp4
+
+Instagram variant (--ig): same clip, voices and timing, but laid out for the Reels UI: a big hook at the top
+(spec "ig_hook", falling back to "hook"), large burned-in subtitles in the middle so it reads on mute, bigger
+characters at the bottom, no episode thumbnail. All text stays inside the IG safe zone (clear of the top 220 px,
+bottom 420 px and right 150 px where Instagram draws its UI). Audio: stereo AAC 44.1 kHz 160k, -14 LUFS;
+video: H.264 High, yuv420p, 30 fps, faststart.
 
 Kinds of Short (one episode gives up to four):
   ai       "Why can't AI do this?"  (every episode)
@@ -37,6 +44,7 @@ What goes into each Short comes from episodes/epNN.short.json (epNNN for 100+):
   by "voice" (DANIEL by default, or SENA), shown big, followed by the silent "your turn" countdown.
   If the dialogue runs past max_seconds, dialogue lines are dropped from the end; the phrase drill is always kept.
 - "lines": 1-based line range in the episode script (inclusive). "hook": big text at the top from the first frame.
+  "ig_hook": optional punchier hook for the Instagram Reel (--ig); words in CAPS are drawn in yellow.
   "title": YouTube title (default: the hook). "tag": small label (default per kind). "board": center card (optional).
   "max_seconds": length limit (default per kind); lines at the end are dropped if the voices run long.
 - An old single-Short file ({"lines": ..., "hook": ...}) counts as the "ai" Short.
@@ -429,15 +437,156 @@ def end_card(num, spec, ep):
     return img.convert("RGB")
 
 
+# ---------- Instagram Reel layout (--ig) ----------
+
+IG_SAFE_TOP, IG_SAFE_BOTTOM, IG_SAFE_RIGHT = 220, 420, 150   # Instagram UI overlays (Reels header, caption, buttons)
+IG_TEXT_W = W - 2 * IG_SAFE_RIGHT                            # 780: text centered, clear of the right-side buttons
+IG_BAND = (IG_SAFE_TOP + 10, 700)                            # navy hook band (top, bottom)
+IG_SUB_BOX = (100, 730, W - 100, 1080)                        # subtitle card
+IG_BUST_FLOOR = 1930
+IG_BUST_X = {"SENA": 300, "DANIEL": 790}
+IG_BUST_SCALE = {"SENA": 1.62, "DANIEL": 1.8}               # ~1.6x the Shorts size; faces sit just above the caption area
+YELLOW = (255, 214, 102)
+
+
+def _wrap_words(d, words, font, max_w):
+    lines, cur = [], []
+    for w in words:
+        trial = cur + [w]
+        if cur and d.textlength(" ".join(trial), font=font) > max_w:
+            lines.append(cur)
+            cur = [w]
+        else:
+            cur = trial
+    if cur:
+        lines.append(cur)
+    return lines
+
+
+def _fit_words(d, text, make, max_w, max_lines, start, stop, step=4, max_h=None, lead=1.12):
+    words = text.split()
+    size = start
+    while True:
+        f = make(size)
+        lines = _wrap_words(d, words, f, max_w)
+        fits_h = max_h is None or int(size * lead) * len(lines) <= max_h
+        if (len(lines) <= max_lines and fits_h and all(d.textlength(" ".join(l), font=f) <= max_w for l in lines)) \
+                or size <= stop:
+            return f, lines, size
+        size -= step
+
+
+def _is_caps(word):
+    core = re.sub(r"[^A-Za-z]", "", word)
+    return len(core) >= 3 and core.isupper()   # "WORSE" yes, "AI" no
+
+
+def ig_base(spec):
+    img = r.paper(W, H, seed=17).convert("RGBA")
+    for box, color, seed, a in (((-80, 1180, 760, 300), r.BLUE, 3, 70), ((560, 1300, 600, 160), r.CORAL, 4, 90),
+                                ((640, 1080, 520, 120), r.BLUE, 5, 50)):
+        img.alpha_composite(r.brush(box[2:], color, seed, alpha=a), (box[0], box[1]))
+    d = ImageDraw.Draw(img)
+    # small brand above the safe zone (decoration only; fine if the Reels header covers it)
+    r.spaced(d, (W / 2, 118), "THE HUMAN CURRICULUM", r.sans(24, "SemiBold"), r.NAVY, spacing=6, anchor_center=True)
+    top, bot = IG_BAND
+    d.rectangle((0, top, W, bot), fill=r.NAVY)
+    # tag chip
+    tf = r.sans(26, "Bold")
+    tag = spec["tag"].upper()
+    tw = r.spaced_width(tag, tf, 4)
+    x0 = (W - tw - 44) / 2
+    d.rounded_rectangle((x0, top + 26, x0 + tw + 44, top + 76), radius=10, fill=r.CORAL)
+    r.spaced(d, (x0 + 22, top + 36), tag, tf, (255, 255, 255), spacing=4)
+    # hook: as big as fits in 3 lines, CAPS words in yellow
+    hook = spec["hook"]
+    area_top, area_h = top + 100, bot - top - 128
+    f, lines, size = _fit_words(d, hook, lambda s: r.sans(s, "ExtraBold"), IG_TEXT_W, 3, 140, 60, max_h=area_h)
+    step = int(size * 1.12)
+    y = area_top + max(0, (area_h - step * len(lines)) // 2) + int(size * 0.05)
+    any_caps = any(_is_caps(w) for w in hook.split())
+    space = d.textlength(" ", font=f)
+    for k, words in enumerate(lines):
+        lw = d.textlength(" ".join(words), font=f)
+        x = (W - lw) / 2
+        for w in words:
+            if any_caps:
+                fill = YELLOW if _is_caps(w) else (255, 255, 255)
+            else:
+                fill = YELLOW if k == len(lines) - 1 else (255, 255, 255)
+            d.text((x, y), w, font=f, fill=fill, stroke_width=5, stroke_fill=r.CORAL)
+            x += d.textlength(w, font=f) + space
+        y += step
+    return img
+
+
+def draw_ig(num, spec, ep_title, speaker, level, subtitle, sena, daniel, board_key, sena_face=None, daniel_face=None,
+            base_cache={}):
+    k = ("ig", num, spec["hook"])
+    if k not in base_cache:
+        base_cache.clear()
+        base_cache[k] = ig_base(spec)
+    img = base_cache[k].copy()
+    for name, pose in (("SENA", sena), ("DANIEL", daniel)):
+        active = name == speaker
+        fig = r.full_pose(name, pose, sena_face if name == "SENA" else daniel_face) if active else \
+            r.faded(name, pose, sena_face if name == "SENA" else daniel_face)
+        s = IG_BUST_SCALE[name]
+        fig = fig.resize((int(fig.width * s), int(fig.height * s)), Image.LANCZOS)
+        bob = -8 if (active and level >= 2) else 0
+        img.alpha_composite(fig, (IG_BUST_X[name] - fig.width // 2, IG_BUST_FLOOR - fig.height + bob))
+    # subtitle card in the middle (the main reading surface when muted)
+    from PIL import ImageFilter
+    x0, y0, x1, y1 = IG_SUB_BOX
+    sh = Image.new("RGBA", (x1 - x0 + 60, y1 - y0 + 60), (0, 0, 0, 0))
+    ImageDraw.Draw(sh).rounded_rectangle((30, 38, x1 - x0 + 30, y1 - y0 + 38), radius=36, fill=(60, 50, 40, 70))
+    img.alpha_composite(sh.filter(ImageFilter.GaussianBlur(12)), (x0 - 30, y0 - 30))
+    d = ImageDraw.Draw(img)
+    p = r.PEOPLE[speaker]
+    d.rounded_rectangle((x0, y0, x1, y1), radius=36, fill=(255, 255, 255), outline=p["accent"], width=6)
+    cw = d.textlength(p["first"], font=r.serif(36, "SemiBold", italic=True)) + 56
+    d.rounded_rectangle((x0 + 44, y0 - 30, x0 + 44 + cw, y0 + 30), radius=12, fill=p["accent"])
+    d.text((x0 + 44 + cw / 2, y0), p["first"], font=r.serif(36, "SemiBold", italic=True), fill=(255, 255, 255),
+           anchor="mm")
+    if subtitle:
+        f, lines, size = _fit_words(d, subtitle, lambda s: r.sans(s, "ExtraBold"), IG_TEXT_W - 40, 3, 104, 56,
+                                    max_h=y1 - y0 - 40, lead=1.18)
+        step = int(size * 1.18)
+        cy = (y0 + y1) / 2 + 8
+        for i, words in enumerate(lines):
+            d.text((W / 2, cy + (i - (len(lines) - 1) / 2) * step), " ".join(words), font=f, fill=r.NAVY, anchor="mm")
+    return img.convert("RGB")
+
+
+def encode_ig(lst, wav, mp4):
+    """Instagram-safe encode: stereo AAC 44.1 kHz at -14 LUFS (two-pass loudnorm), H.264 High yuv420p 30 fps."""
+    up = "aresample=44100,pan=stereo|c0=c0|c1=c0"   # upmix BEFORE measuring: a mono->stereo copy reads +3 LU louder
+    m = subprocess.run(["ffmpeg", "-hide_banner", "-i", wav, "-af", up + ",loudnorm=I=-14:TP=-1.5:LRA=11:print_format=json",
+                        "-f", "null", "-"], capture_output=True, text=True)
+    meas = json.loads(m.stderr[m.stderr.rindex("{"):m.stderr.rindex("}") + 1])
+    af = (up + ",loudnorm=I=-14:TP=-1.5:LRA=11:linear=true"
+          f":measured_I={meas['input_i']}:measured_TP={meas['input_tp']}:measured_LRA={meas['input_lra']}"
+          f":measured_thresh={meas['input_thresh']}:offset={meas['target_offset']},aresample=44100")
+    subprocess.run(["ffmpeg", "-y", "-f", "concat", "-safe", "0", "-i", lst, "-i", wav,
+                    "-vf", "fps=30,format=yuv420p", "-r", "30", "-c:v", "libx264", "-profile:v", "high",
+                    "-level", "4.1", "-preset", "medium", "-tune", "stillimage", "-crf", "20",
+                    "-af", af, "-c:a", "aac", "-b:a", "160k", "-ar", "44100", "-ac", "2",
+                    "-shortest", "-movflags", "+faststart", mp4],
+                   check=True, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
+
+
 # ---------- build ----------
 
-def build(num, kind="ai", fake=False, out_dir=None, frame=None):
+def build(num, kind="ai", fake=False, out_dir=None, frame=None, ig=False):
     meta, ep, lines = me.load_episode(num)
     all_specs = specs(num, ep, lines)
     if kind not in all_specs:
         print(f"EP {num:02d}: no {kind} Short in this episode, skipped", flush=True)
         return None
     spec = all_specs[kind]
+    if ig:  # Instagram Reel: optional punchier hook, own layout and file name
+        spec = dict(spec, hook=spec.get("ig_hook") or spec["hook"])
+    paint = draw_ig if ig else draw
     states, pauses = clip_states(num, ep, lines, spec)
     clip = clip_lines(lines, spec)
     icons = set()
@@ -454,17 +603,18 @@ def build(num, kind="ai", fake=False, out_dir=None, frame=None):
             print(f"  illustrations skipped: {e}", flush=True)
     out_dir = out_dir or os.path.join(ROOT, "output", f"ep{num:02d}")
     os.makedirs(out_dir, exist_ok=True)
-    stem = f"ep{num:02d}_short_{kind}"
-    print(f"EP {num:02d} {kind} short: lines {spec['start'] + 1}-{spec['end']} | {spec['hook']}", flush=True)
+    stem = f"ep{num:02d}_{'reel' if ig else 'short'}_{kind}"
+    print(f"EP {num:02d} {kind} {'reel (IG)' if ig else 'short'}: lines {spec['start'] + 1}-{spec['end']} | {spec['hook']}", flush=True)
 
     if frame is not None:
         i = max(0, min(frame - 1, len(clip) - 1))
         st = states[i]
         sub = me.chunk_text(scenes._strip_quotes(clip[i][1]) or clip[i][1], max_words=4, max_chars=26)[0]
         path = os.path.join(out_dir, f"{stem}_frame{i + 1}.png")
-        draw(num, spec, ep["title"], clip[i][0], 2, sub, st["sena"], st["daniel"],
-             json.dumps(st["board"], sort_keys=True)).save(path)
-        end_card(num, spec, ep).save(os.path.join(out_dir, f"{stem}_end.png"))
+        paint(num, spec, ep["title"], clip[i][0], 2, sub, st["sena"], st["daniel"],
+              json.dumps(st["board"], sort_keys=True)).save(path)
+        if not ig:
+            end_card(num, spec, ep).save(os.path.join(out_dir, f"{stem}_end.png"))
         print(f"  frame: {path}", flush=True)
         return {"frame": path}
 
@@ -578,7 +728,7 @@ def build(num, kind="ai", fake=False, out_dir=None, frame=None):
             continue
         if run_key not in cache:
             p = os.path.join(frames_dir, f"f{len(cache):05d}.png")
-            im = end_card(num, spec, ep) if run_key == ("END",) else draw(num, spec, ep["title"], *run_key)
+            im = end_card(num, spec, ep) if run_key == ("END",) else paint(num, spec, ep["title"], *run_key)
             im.save(p, compress_level=1)
             cache[run_key] = p
         listing.append((cache[run_key], run_len / FPS))
@@ -589,13 +739,16 @@ def build(num, kind="ai", fake=False, out_dir=None, frame=None):
             f.write(f"file '{p}'\nduration {dd:.4f}\n")
         f.write(f"file '{listing[-1][0]}'\n")
     mp4 = os.path.join(out_dir, f"{stem}.mp4")
-    subprocess.run(["ffmpeg", "-y", "-f", "concat", "-safe", "0", "-i", lst, "-i", wav,
-                    "-vf", f"fps={FPS * 2},format=yuv420p", "-c:v", "libx264", "-preset", "medium",
-                    "-tune", "stillimage", "-crf", "20", "-c:a", "aac", "-b:a", "160k", "-ar", "48000",
-                    "-shortest", "-movflags", "+faststart", mp4],
-                   check=True, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
+    if ig:
+        encode_ig(lst, wav, mp4)
+    else:
+        subprocess.run(["ffmpeg", "-y", "-f", "concat", "-safe", "0", "-i", lst, "-i", wav,
+                        "-vf", f"fps={FPS * 2},format=yuv420p", "-c:v", "libx264", "-preset", "medium",
+                        "-tune", "stillimage", "-crf", "20", "-c:a", "aac", "-b:a", "160k", "-ar", "48000",
+                        "-shortest", "-movflags", "+faststart", mp4],
+                       check=True, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
     shutil.rmtree(work, ignore_errors=True)
-    info = {"video": mp4, "kind": kind, "title": spec["title"], "hook": spec["hook"], "duration": round(total, 1),
+    info = {"video": mp4, "kind": kind, "variant": "ig" if ig else "short", "title": spec["title"], "hook": spec["hook"], "duration": round(total, 1),
             "lines": [spec["start"] + 1, spec["start"] + len(voiced) - n_drill]}
     if n_drill:
         info["phrases"] = spec["phrases"]
@@ -617,10 +770,11 @@ if __name__ == "__main__":
     ap.add_argument("--out")
     ap.add_argument("--frame", type=int)
     ap.add_argument("--list", action="store_true")
+    ap.add_argument("--ig", action="store_true", help="Instagram Reel variant (epNN_reel_KIND.mp4)")
     a = ap.parse_args()
     if a.list:
         print(" ".join(kinds_of(a.episode)))
         sys.exit(0)
     kinds = kinds_of(a.episode) if a.kind == "all" else [a.kind]
-    results = [build(a.episode, k, a.fake_tts, a.out, a.frame) for k in kinds]
+    results = [build(a.episode, k, a.fake_tts, a.out, a.frame, a.ig) for k in kinds]
     print(json.dumps([x for x in results if x], indent=2, ensure_ascii=False))

@@ -531,7 +531,12 @@ def draw_ig(num, spec, ep_title, speaker, level, subtitle, sena, daniel, board_k
         base_cache.clear()
         base_cache[k] = ig_base(spec)
     img = base_cache[k].copy()
-    for name, pose in (("SENA", sena), ("DANIEL", daniel)):
+    # z-order follows the speaker (owner feedback: "喋る時に手前にいってくれない?"): whoever speaks this line is
+    # drawn last, i.e. in front; with no speaker on screen Daniel stays in front of Sena.
+    order = [("SENA", sena), ("DANIEL", daniel)]
+    if speaker == "SENA":
+        order.reverse()
+    for name, pose in order:
         active = name == speaker
         fig = r.full_pose(name, pose, sena_face if name == "SENA" else daniel_face) if active else \
             r.faded(name, pose, sena_face if name == "SENA" else daniel_face)

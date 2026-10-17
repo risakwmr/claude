@@ -1,0 +1,8 @@
+{
+  "shorts": [
+    {"kind": "highlight", "lines": [17, 20], "hook": "The average pause before answering a question is a fifth of a second.", "title": "How long a pause feels in conversation"},
+    {"kind": "ai", "lines": [26, 27], "hook": "AI never has to sit in the silence. You do.", "title": "Why AI can't handle your awkward pause"},
+    {"kind": "culture", "lines": [44, 47], "hook": "Six seconds of silence is fine in Tokyo. On a video call, it's a frozen screen.", "title": "Silence in Tokyo vs Seattle meetings"},
+    {"kind": "lab", "lines": [57, 58], "phrases": ["Let me think about that for a second", "I don't know yet", "I'll find out and tell you by Monday"], "hook": "Three lines for the moment you can't answer yet.", "title": "What to say when you can't answer yet", "tag": "PHRASES THAT WORK AT WORK"}
+  ]
+}

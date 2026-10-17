@@ -1,8 +1,9 @@
 name: Make Instagram Reels
 
-# Renders YouTube Shorts again with src/make_short.py (same 1080x1920 video, voice and burned-in captions) and
-# attaches them to the public release "reels" with a caption sidecar (src/reels.py meta). Buffer fetches the mp4
-# from https://github.com/risakwmr/claude/releases/download/reels/epNN_short_KIND.mp4.
+# Renders the Instagram variant of each Short with `src/make_short.py N --kind K --ig` (same clip and voices,
+# Reels layout: big ig_hook, large mid-screen subtitles, IG safe zone, stereo -14 LUFS audio) and attaches it to
+# the public release "reels" with a caption sidecar (src/reels.py meta). Buffer fetches the mp4 via the jsDelivr
+# mirror of https://github.com/risakwmr/claude/releases/download/reels/epNN_reel_KIND.mp4.
 # Posting to Instagram (via Buffer) is done outside GitHub by `python3 src/reels.py post` (see that file).
 
 on:
@@ -72,8 +73,8 @@ jobs:
           for item in ${{ steps.pick.outputs.list }}; do
             n="${item%%-*}"; kind="${item#*-}"
             dir="output/ep$(printf %02d "$n")"
-            stem="ep$(printf %02d "$n")_short_${kind}"
-            python src/make_short.py "$n" --kind "$kind" < /dev/null || { echo "::warning::$item could not be made"; continue; }
+            stem="ep$(printf %02d "$n")_reel_${kind}"
+            python src/make_short.py "$n" --kind "$kind" --ig < /dev/null || { echo "::warning::$item could not be made"; continue; }
             [ -f "$dir/$stem.mp4" ] || { echo "::warning::$item: no mp4"; continue; }
             python src/reels.py meta "$n" "$kind" "$dir"
             gh release upload reels "$dir/$stem.mp4" "$dir/$stem.reel.json" --clobber

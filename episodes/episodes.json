@@ -1884,6 +1884,61 @@
       ],
       "thumb_cup": "Ask, listen, follow up",
       "thumb_pose": "sena_garden"
+    },
+    {
+      "number": 32,
+      "script": "ep32.txt",
+      "title": "Explain It Without the Slides",
+      "short_title": "Explain It Without the Slides",
+      "summary": "Sena practices explaining how she thinks about numbers to her friend Aoi, a nurse, who says she understood four words out of twenty-one. Laura has asked for an informal explanation with no slides at Monday's lunch. Daniel shares Pamela Hinds's curse-of-expertise LEGO study: people who had built the toy five times guessed first-timers would need about 8.5 minutes, while real first-timers needed about 12.5, and a list of tips barely changed their guesses. He tells the story of Leona, a finance partner who nodded through forty minutes of his attrition model and then cut his hiring request in half. In the Japan-vs-US centerpiece, Sena replays a Tokyo report meeting where the number arrives after seven minutes of keii (background) and a Seattle call where Laura says \"What's the number, and what do you need from us?\" Today's challenge: explain one thing you do to someone outside your field in three sentences, then ask what part didn't land. It ends with Kato-san's message at 7:51 a.m.: Laura has one question for Sena on the eight o'clock call, no prep.",
+      "practice": "Pick one thing you do at work and explain it to someone outside your field in three sentences: the question it answers, one example, and what it means for them. Then ask, \"What part didn't land?\"",
+      "sources": [
+        "Hinds (1999), The Curse of Expertise: The Effects of Expertise and Debiasing Methods on Prediction of Novice Performance, Journal of Experimental Psychology: Applied 5(2), 205–221; Hinds (1998), Who Should Design for Novice Users?, HP Laboratories report HPL-98-136"
+      ],
+      "tags": [
+        "explaining simply",
+        "curse of expertise",
+        "communication",
+        "EQ",
+        "emotional intelligence",
+        "social awareness",
+        "relationship management",
+        "career",
+        "program manager",
+        "audiobook",
+        "Japanese work culture",
+        "Japan vs US"
+      ],
+      "yt_title": "Experts Can't Explain Things Simply. Here's a One-Minute Fix",
+      "hook": "The more you know, the worse you are at guessing what it's like not to know. People who built a LEGO toy five times guessed beginners needed 8.5 minutes. They needed 12.5.\nLearn a three-sentence way to explain your work to anyone, no slides.",
+      "points": [
+        "Experts underestimated beginners' time by nearly four minutes (Hinds)",
+        "A list of beginner problems barely changed experts' guesses",
+        "Nodding can mean \"please stop,\" not \"I understand\"",
+        "Tokyo: background first so nobody is surprised. Seattle: bottom line first to protect time",
+        "Headline plus an offer: \"Want the background, or an example?\""
+      ],
+      "title_ja": "スライドなしで説明する",
+      "hook_ja": "よく知っている人ほど、知らない人の感覚を予想できません。レゴを5回作った人は、初心者に8.5分かかると予想しましたが、実際は12.5分でした。\nどんな人にも、スライドなしで3文で仕事を説明する方法を紹介します🎧（日本語字幕あり）",
+      "points_ja": [
+        "専門家は初心者の所要時間を4分近く短く見積もった（ハインズ）",
+        "初心者のつまずきのリストを渡しても、予想はほとんど変わらなかった",
+        "うなずきは「わかった」ではなく「もうやめて」のことも",
+        "東京は背景が先で驚きを防ぎ、シアトルは結論が先で時間を守る",
+        "結論＋提案：「背景を聞きますか？それとも例を挙げましょうか？」"
+      ],
+      "summary_ja": "セナは数字の考え方を友だちの看護師アオイに説明して、21語中4語しかわからなかったと言われます。ローラは月曜のランチで、スライドなしの気軽な説明を求めています。ダニエルは、パメラ・ハインズの「専門知識の呪い」の研究を紹介します。レゴを5回作った人は初心者に約8.5分かかると予想し、本物の初心者は約12.5分でした。ダニエルの失敗談は、財務のレオナに離職モデルを40分説明して、うなずかれたまま採用リクエストを半分に削られた話。日米の見せ場では、7分の経緯のあとにやっと数字が出る東京の報告会と、「数字はいくつで、何をしてほしいの？」と聞くシアトルの会議を比べます。今日のチャレンジは、仕事の1つを分野外の人に3文で説明し、「どの部分が伝わらなかった？」と聞くこと。最後は加藤さんから、ローラが8時の会議でセナに準備なしの質問があるという連絡で終わります。",
+      "practice_ja": "仕事で自分がやっていることを1つ選び、自分の分野の外の人に3文で説明する。それが答える問い、例を1つ、相手にとっての意味。そして「どの部分が伝わらなかった？」と聞く。",
+      "thumb_accent": "Slides",
+      "thumb_sub": "Explain Your Thinking in One Minute, No Slides",
+      "thumb_notes": [
+        "Start with the question",
+        "Give one example",
+        "Say what it means for them",
+        "Ask what didn't land"
+      ],
+      "thumb_cup": "Three sentences, one question",
+      "thumb_pose": "sena_talk"
     }
   ]
 }

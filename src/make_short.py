@@ -12,7 +12,9 @@ Kinds of Short (one episode gives up to four):
   story    Daniel's failure story
   culture  Japan vs the US
   highlight the most striking moment of the episode, marked by the writer in epNN.short.json (no automatic cut)
-  lab      Speaking Lab: say the phrases out loud, with a short silent "your turn" countdown (episode 12 on)
+  lab      Phrases that work at work: 2-3 natural phrases from the dialogue, each shown big and said once,
+           then a short silent "your turn" countdown. From EP32 the episode has no Speaking Lab, so the writer
+           specifies it in epNN.short.json ("phrases", below). EP12-31 still cut it from the Speaking Lab automatically.
 
 What goes into each Short comes from episodes/epNN.short.json (epNNN for 100+):
 
@@ -25,6 +27,15 @@ What goes into each Short comes from episodes/epNN.short.json (epNNN for 100+):
   ]
 }
 
+- Explicit "lab" Short (EP32 on; no Speaking Lab in the script):
+    {"kind": "lab", "lines": [40, 44],
+     "phrases": ["Can I push back on that a little?", "Here's what I'm seeing.", "What would make this a yes?"],
+     "hook": "3 phrases that make pushback sound like teamwork", "title": "How to push back without sounding difficult",
+     "tag": "PHRASES THAT WORK AT WORK"}
+  "lines" is the stretch of dialogue where the phrases come up naturally (played as is, each phrase card shows
+  while the line that contains it is spoken). Then each phrase (2-3, short, taken from those lines) is said once
+  by "voice" (DANIEL by default, or SENA), shown big, followed by the silent "your turn" countdown.
+  If the dialogue runs past max_seconds, dialogue lines are dropped from the end; the phrase drill is always kept.
 - "lines": 1-based line range in the episode script (inclusive). "hook": big text at the top from the first frame.
   "title": YouTube title (default: the hook). "tag": small label (default per kind). "board": center card (optional).
   "max_seconds": length limit (default per kind); lines at the end are dropped if the voices run long.
@@ -58,7 +69,8 @@ LEAD, TAIL = 0.2, 0.5   # short tail and no end card, so the Short loops straigh
 
 KINDS = ["ai", "highlight", "story", "culture", "lab"]
 TAGS = {"ai": "WHY CAN'T AI DO THIS?", "highlight": "DID YOU KNOW?", "story": "DANIEL'S STORY", "culture": "JAPAN VS THE US",
-        "lab": "SPEAKING LAB · SAY IT OUT LOUD"}
+        "lab": "PHRASES THAT WORK AT WORK"}
+LAB_CARD_LABEL = "PHRASE THAT WORKS"   # label on a phrase card (render.py board "repeat"; the countdown label stays)
 MAX_SECONDS = {"ai": 55.0, "highlight": 50.0, "story": 58.0, "culture": 60.0, "lab": 58.0}  # popular Shorts run ~30-45 s
 TARGET_WORDS = {"ai": 140, "story": 230, "culture": 190}   # rough size of an automatic clip before voicing
 
@@ -152,6 +164,29 @@ def lab_topic(lines, start):
     return None
 
 
+def lab_phrases(spec):
+    """The explicit phrases of a lab Short (list of str), or [] for the old auto-detected Speaking Lab."""
+    if spec.get("kind") != "lab":
+        return []
+    ph = spec.get("phrases") or []
+    if isinstance(ph, str):
+        ph = [ph]
+    return [str(p).strip().strip("\"“”") for p in ph if str(p).strip()][:3]
+
+
+def _norm_text(s):
+    return " ".join(re.sub(r"[^a-z0-9' ]", " ", s.lower().replace("’", "'")).split())
+
+
+def phrase_line(phrase, lines, start, end):
+    """Index of the first dialogue line in [start, end) that contains the phrase (punctuation/case ignored), or None."""
+    target = _norm_text(phrase)
+    for i in range(start, end):
+        if target and target in _norm_text(lines[i][1]):
+            return i
+    return None
+
+
 def specs(num, ep, lines):
     """All Shorts this episode has, as a dict kind -> spec."""
     data = {}
@@ -180,12 +215,14 @@ def specs(num, ep, lines):
                 continue
             start, end = rng
         topic = ep["short_title"]
+        phrases = lab_phrases(dict(spec, kind=kind))
         defaults = {
             "ai": f"Why can't AI do this? {topic}",
             "highlight": topic,
             "story": f"A manager's mistake: {topic}",
             "culture": f"Japan vs the US: {topic}",
-            "lab": f"Say it out loud: 3 English phrases for {lab_topic(lines, start) or topic.lower()}",
+            "lab": (f"{len(phrases)} phrases that work at work: {topic}" if phrases else
+                    f"Say it out loud: 3 phrases for {lab_topic(lines, start) or topic.lower()}"),
         }
         spec["kind"] = kind
         spec.setdefault("hook", defaults[kind])
@@ -193,6 +230,15 @@ def specs(num, ep, lines):
         spec.setdefault("tag", TAGS[kind])
         spec.setdefault("max_seconds", MAX_SECONDS[kind])
         spec["start"], spec["end"] = start, end
+        if phrases:
+            spec["phrases"] = phrases
+            spec.setdefault("voice", "DANIEL")
+            if spec["voice"] not in ("DANIEL", "SENA"):
+                spec["voice"] = "DANIEL"
+            for ph in phrases:
+                if phrase_line(ph, lines, start, end) is None:
+                    print(f"  WARNING: EP {num:02d} lab phrase not found in lines {start + 1}-{end}: {ph!r}",
+                          file=sys.stderr, flush=True)
         out[kind] = spec
     return out
 
@@ -206,8 +252,17 @@ def default_poses(spk_active):
             "DANIEL": "explain" if spk_active == "DANIEL" else "listen"}
 
 
+def clip_lines(lines, spec):
+    """(speaker, text) of every line in the clip: the dialogue, then for an explicit lab Short one line per phrase."""
+    clip = list(lines[spec["start"]:spec["end"]])
+    clip += [(spec.get("voice", "DANIEL"), p) for p in spec.get("phrases") or []]
+    return clip
+
+
 def clip_states(num, ep, lines, spec):
     """Poses and center card for each line of the clip, and which lines get a "your turn" pause."""
+    if spec.get("phrases"):
+        return lab_clip_states(num, ep, lines, spec)
     start, end = spec["start"], spec["end"]
     visual = scenes.has_visuals(num)
     states, repeats = scenes.line_states(num, lines, ep)
@@ -228,6 +283,44 @@ def clip_states(num, ep, lines, spec):
             poses = default_poses(spk)
         out.append({"sena": poses["SENA"], "daniel": poses["DANIEL"], "board": board})
     pauses = {i - start for i in repeats if start <= i < end}
+    return out, pauses
+
+
+def lab_clip_states(num, ep, lines, spec):
+    """Explicit lab Short: dialogue lines as usual (a phrase card shows on the line that contains it),
+    then one drill line per phrase, shown big, each followed by a "your turn" pause."""
+    start, end = spec["start"], spec["end"]
+    visual = scenes.has_visuals(num)
+    states, _ = scenes.line_states(num, lines, ep)
+    found = {}
+    for ph in spec["phrases"]:
+        k = phrase_line(ph, lines, start, end)
+        if k is not None and k not in found:
+            found[k] = ph
+    label = spec.get("card_label", LAB_CARD_LABEL)
+    out = []
+    for i in range(start, end):
+        spk = lines[i][0]
+        st = states[i]
+        if i in found:
+            board = {"type": "repeat", "text": found[i], "label": label}
+        elif spec.get("board"):
+            board = spec["board"]
+        elif not visual or st["board"].get("type") in ("none", "question", "challenge", "repeat") or not st["board"]:
+            board = {"type": "cover"}
+        else:
+            board = st["board"]
+        poses = {"SENA": st["sena"], "DANIEL": st["daniel"]} if visual else default_poses(spk)
+        out.append({"sena": poses["SENA"], "daniel": poses["DANIEL"], "board": board})
+    voice = spec.get("voice", "DANIEL")
+    n = end - start
+    for ph in spec["phrases"]:
+        poses = default_poses(voice)
+        if voice == "SENA":
+            poses["SENA"] = "point" if "point" in scenes.SENA_POSES else "default"
+        out.append({"sena": poses["SENA"], "daniel": poses["DANIEL"],
+                    "board": {"type": "repeat", "text": ph, "label": label}})
+    pauses = set(range(n, n + len(spec["phrases"])))
     return out, pauses
 
 
@@ -346,7 +439,7 @@ def build(num, kind="ai", fake=False, out_dir=None, frame=None):
         return None
     spec = all_specs[kind]
     states, pauses = clip_states(num, ep, lines, spec)
-    clip = lines[spec["start"]:spec["end"]]
+    clip = clip_lines(lines, spec)
     icons = set()
     for st in states:
         b = st["board"]
@@ -394,9 +487,20 @@ def build(num, kind="ai", fake=False, out_dir=None, frame=None):
     def length(v):
         return LEAD + sum(len(a) / me.SR + GAP + pause_len(i, a) for i, (_, _, a, _) in enumerate(v)) + TAIL
     limit = float(spec["max_seconds"])
-    # drop lines from the end to fit (never end on a question)
-    while len(voiced) > 2 and (length(voiced) > limit or voiced[-1][1].rstrip().endswith("?")):
-        voiced.pop()
+    n_drill = len(spec.get("phrases") or [])
+    if n_drill:
+        # explicit lab: keep every phrase drill line; drop dialogue lines from the end of the dialogue to fit
+        n_dia = len(voiced) - n_drill
+        pauses = {n_dia + j for j in range(n_drill)}
+        while n_dia > 1 and length(voiced) > limit:
+            n_dia -= 1
+            del voiced[n_dia]
+            del states[n_dia]
+            pauses = {n_dia + j for j in range(n_drill)}
+    else:
+        # drop lines from the end to fit (never end on a question)
+        while len(voiced) > 2 and (length(voiced) > limit or voiced[-1][1].rstrip().endswith("?")):
+            voiced.pop()
     if length(voiced) > limit:
         print(f"  WARNING: clip is {length(voiced):.0f}s, over {limit:.0f}s", flush=True)
     states = states[:len(voiced)]
@@ -492,7 +596,9 @@ def build(num, kind="ai", fake=False, out_dir=None, frame=None):
                    check=True, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
     shutil.rmtree(work, ignore_errors=True)
     info = {"video": mp4, "kind": kind, "title": spec["title"], "hook": spec["hook"], "duration": round(total, 1),
-            "lines": [spec["start"] + 1, spec["start"] + len(voiced)]}
+            "lines": [spec["start"] + 1, spec["start"] + len(voiced) - n_drill]}
+    if n_drill:
+        info["phrases"] = spec["phrases"]
     json.dump(info, open(os.path.join(out_dir, f"{stem}.json"), "w"), indent=2, ensure_ascii=False)
     print(f"  {len(cache)} unique frames, {total:.1f}s -> {mp4}", flush=True)
     return info

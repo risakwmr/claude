@@ -22,6 +22,7 @@ Drafts and scheduled posts are both recorded in reels.json (episodes branch) so 
 """
 import base64
 import json
+import re
 import os
 import subprocess
 import sys
@@ -87,10 +88,10 @@ def caption(num, kind, title, hook, ep_title, ep_url):
     if title and title.lower() != hook.lower():
         parts.append(title)
     parts.append(LINE.get(kind, ""))
-    full = f"Full episode: Human Curriculum EP{int(num):02d}"
+    full = f"Watch the full episode on YouTube: Human Curriculum EP{int(num):02d}"
     if ep_title:
         full += f" \u201c{ep_title}\u201d"
-    parts.append(full + " (link in bio)" + (f"\n{ep_url}" if ep_url else ""))
+    parts.append(full + "\n\U0001F449 Link in bio @learnwhataicant")
     parts.append("Follow for the work skills AI can't do.")
     tags = BASE_TAGS + KIND_TAGS.get(kind, [])
     return "\n\n".join(p for p in parts if p) + "\n\n" + " ".join(tags)
@@ -223,6 +224,9 @@ def cmd_post(argv):
     video_url = assets[f"{s}.mp4"]
     side = http_json(assets[f"{s}.reel.json"]) if f"{s}.reel.json" in assets else {}
     text = side.get("caption") or key
+    # Instagram captions can't link out: drop bare URLs, point to the bio instead.
+    text = re.sub(r"\n?https?://\S+", "", text)
+    text = text.replace("Full episode:", "Watch the full episode on YouTube:").replace(" (link in bio)", "\n\U0001F449 Link in bio @learnwhataicant")
     inp = {
         "text": text, "channelId": find_channel(), "schedulingType": "automatic",
         "assets": [{"video": {"url": video_url, "metadata": {"thumbnailOffset": 1000}}}],

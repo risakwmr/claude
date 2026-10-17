@@ -1,7 +1,7 @@
 """Which Shorts go up next, and when they go public.
 
 Each episode gives up to five Shorts (see src/make_short.py): ai, highlight, story, culture, lab.
-Its highlight and ai Shorts go public at the same moment as the episode (00:00 / 12:00 JST).
+Its highlight and culture Shorts (COMPANIONS) go public at the same moment as the episode.
 The rest, and Shorts of older episodes, go up one per scheduled run at 08:00 or 18:00 JST
 (SHORT_SLOTS_JST), about 2 a day, so a day stays near 8 uploads, under YouTube's daily upload limit.
 The order mixes kinds and episodes, so the same episode doesn't fill a whole day, and a Short is only made
@@ -25,7 +25,9 @@ SHORTS_FILE = os.path.join(ROOT, "shorts.json")
 LEAD = timedelta(hours=12)  # scheduled runs come at 09:00 and 21:00 JST
 # spreads an episode's Shorts over a few days. "ai" ("AI can X, not Y") Shorts drew the fewest views in the first
 # week (Oct 2026), so they come last; first-person stories, studies and practical phrases did best.
-OFFSET = {"ai": 7, "highlight": 1, "story": 2, "culture": 4, "lab": 3}
+# Oct 17 2026: "story" Shorts averaged ~17 views vs ~48 for "culture", so culture moved up (it now goes public with
+# the episode, see COMPANIONS) and story moved back, just ahead of ai.
+OFFSET = {"ai": 7, "highlight": 1, "culture": 2, "lab": 3, "story": 6}
 KIND_ORDER = list(OFFSET)
 
 
@@ -97,7 +99,8 @@ def candidates(by_time, data, published, skip=()):
     return [(n, kind) for _, n, _, kind in out]
 
 
-COMPANIONS = ["highlight", "story"]  # these go public together with their episode (first two the episode has)
+COMPANIONS = ["highlight", "culture"]  # these go public together with their episode (first two the episode has;
+# "story" was here until Oct 17 2026 and drew the fewest views, so culture took its place)
 BACKLOG_PER_RUN = 1                 # older Shorts per scheduled run (runs come twice a day -> 2 a day)
 
 
@@ -112,7 +115,7 @@ def plan(now=None):
     """[(episode, kind, when)] for this scheduled run.
 
     1. Companions: an episode that goes public within LEAD (or went public in the last hour) gets its
-       highlight and ai Shorts scheduled for the same moment, so the Shorts and the episode come out together.
+       COMPANIONS Shorts (highlight, culture) scheduled for the same moment, so the Shorts and the episode come out together.
     2. Backlog: one older Short per run, at the next 08:00 / 18:00 JST slot (SHORT_SLOTS_JST)."""
     now = now or datetime.now(timezone.utc)
     data = load_shorts()

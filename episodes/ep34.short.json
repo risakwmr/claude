@@ -1,0 +1,8 @@
+{
+  "shorts": [
+    {"kind": "highlight", "lines": [17, 19], "hook": "Someone signals \"I didn't get that\" every 1.4 minutes, in every language studied.", "title": "How often we don't understand each other"},
+    {"kind": "ai", "lines": [24, 26], "hook": "AI can draft the question. It can't tell if today is the day to ask.", "title": "Why AI can't decide when you should ask"},
+    {"kind": "culture", "lines": [36, 40], "hook": "\"Yoroshiku onegaishimasu\" can mean four different jobs. Do you ask?", "title": "Vague requests in Tokyo vs Seattle"},
+    {"kind": "lab", "lines": [55, 58], "phrases": ["Just to make sure I understand", "Is that right?", "I'll cut it to three regions"], "hook": "Three lines that clear up a vague request.", "title": "How to clarify without sounding lost", "tag": "PHRASES THAT WORK AT WORK"}
+  ]
+}

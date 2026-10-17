@@ -1,0 +1,75 @@
+SENA: Mercredi soir, vingt-trois heures. Je suis en appel vidéo avec mon amie Aoi, qui est infirmière. Je dis : « Bon, je m'entraîne. Voilà comment je pense les chiffres. Je vérifie la clé de jointure, je dédoublonne sur l'identifiant de commande, puis je rapproche avec la source. » Aoi me regarde longuement. Puis elle dit : « Sena, j'ai compris à peu près quatre mots. »
+DANIEL: Quatre sur combien ?
+SENA: Vingt et un. Je les ai comptés après. Et c'est l'explication que j'allais donner à une directrice lundi.
+DANIEL: Alors tu l'as découvert mercredi soir plutôt que lundi au déjeuner. C'est un bon échange. À la fin de cet épisode, tu sauras expliquer ta réflexion à quelqu'un qui n'est pas de ton domaine en environ une minute, sans diapositives.
+DANIEL: Bienvenue dans Human Curriculum. Je suis Daniel Reed, People Manager à Seattle.
+SENA: Et moi, c'est Sena Sato, associée à Tokyo. Ici, on est jeudi, sept heures quarante du matin.
+DANIEL: Et ici, on est mercredi, quinze heures quarante. Maple est à la fenêtre et aboie sur un écureuil qui est clairement en train de gagner. La dernière fois, ton défi était une question qui ne porte pas sur la tâche, puis une relance.
+SENA: Je l'ai fait au point de neuf heures. J'ai demandé à Kato-san : « Quelque chose d'amusant ce week-end, à part la course ? » Il a dit : « La course. » Puis, après une pause : « Et le concours de sciences de ma fille. Un volcan. »
+DANIEL: Et la relance ?
+SENA: J'ai dit : « Il entre en éruption ? » Il a ri. Daniel, il a parlé pendant presque trois minutes. Du bicarbonate, du colorant alimentaire rouge, et il nous a dit qu'il avait dû aider à coller la montagne. Ryo a demandé quelle taille il faisait. Kenta a demandé s'il y avait un volcan de secours. Notre point a commencé quatre minutes en retard et personne n'a eu de problème avec ça.
+DANIEL: Remarque ce que tu as fait. Tu n'as rien dit de brillant. Tu as écouté le mot « concours de sciences » et tu as posé une question sur le volcan.
+SENA: J'ai posé une question sur le volcan. Et le journal d'humeur : le troisième jour, c'était « chaleureuse ». Hier soir.
+DANIEL: Bien. Ça fait trois mots en trois jours. Maintenant, le problème du jour est l'inverse du small talk. Laura a demandé une explication, sans diapositives, de ta façon de penser les chiffres.
+SENA: Et mon amie a dit qu'elle avait compris quatre mots.
+DANIEL: Commençons par la recherche, parce que c'est un piège très étudié. L'article est de Pamela Hinds, de Stanford, intitulé « The Curse of Expertise ». L'étude que je vais décrire a d'abord été présentée dans un rapport de laboratoire de 1998, puis publiée dans le Journal of Experimental Psychology: Applied, en 1999.
+SENA: Une malédiction. Dramatique.
+DANIEL: Voici le dispositif. Quarante-neuf étudiants de filières non techniques ont construit un jouet LEGO de trente-neuf pièces, un petit vaisseau spatial. La moitié l'a construit une fois. L'autre moitié l'a construit cinq fois en deux séances. Ensuite, on a demandé à tous : combien de temps faudrait-il à un étudiant ordinaire pour le construire pour la première fois, avec seulement les images ?
+SENA: Et ceux qui l'avaient construit cinq fois en savaient le plus.
+DANIEL: Oui. Et les vrais débutants ont mis environ douze minutes et demie en moyenne, avec une médiane d'environ douze minutes. Ceux qui l'avaient construit cinq fois ont estimé environ huit minutes et demie. Ils ont sous-estimé de presque quatre minutes. Ceux qui l'avaient construit une fois ont estimé presque treize minutes, ce qui était proche.
+SENA: Donc en savoir plus les a rendus moins bons pour estimer.
+DANIEL: Pour estimer ce que ça fait de ne pas savoir. Ensuite ils ont essayé une solution : donner aux gens une liste des étapes et des problèmes que les débutants avaient rencontrés. Les experts ont à peine changé leurs réponses, de moins de trente secondes. Les auteurs ont suggéré que les experts ne pouvaient pas facilement retrouver à quel point c'était difficile au début.
+SENA: Ça ressemble à moi avec la clé de jointure. J'ai dit « dédoublonner » tant de fois que ça me semble un mot normal.
+DANIEL: Oui. Maintenant les réserves. C'étaient quarante-neuf étudiants, tous des hommes, d'une seule université, qui construisaient un jouet LEGO pendant quelques minutes. « Expert », ici, veut dire cinq constructions, pas vingt ans d'expérience. Une autre étude du même article utilisait des vendeurs de téléphones portables et montrait un schéma semblable, mais on ne doit pas supposer que les chiffres exacts valent pour un analyste de données qui explique un pipeline. Et la liste était une solution faible, pas la preuve que rien ne marche. D'autres recherches suggèrent que les retours de vrais débutants pourraient aider.
+SENA: Donc la leçon n'est pas « les experts sont mauvais ». C'est que les experts ne peuvent pas sentir l'écart tout seuls.
+DANIEL: C'est ainsi que je le lis. On ne peut pas le sentir de l'intérieur. Il faut une personne extérieure. Ce qui m'amène à la question habituelle. Pourquoi l'IA ne peut-elle pas faire ça pour toi ?
+SENA: Une IA peut m'écrire une version du pipeline en langage simple. Une bonne, sans doute.
+DANIEL: Et ?
+SENA: Et elle ne sait pas que Laura sait déjà ce qu'est un tableau de bord mais n'a jamais ouvert un script de validation. Elle ne voit pas son visage quand je dis « dédoublonner ». C'est le visage d'Aoi qui a fait le travail. Une liste de mots simples, ce n'est pas la même chose que voir quel mot a perdu quelqu'un.
+DANIEL: Exact. L'ajustement se fait dans la pièce, dans un regard d'une demi-seconde. Cette partie est à toi.
+SENA: Daniel, tu as déjà fait ça à quelqu'un ?
+DANIEL: De façon douloureuse. Il y a des années, j'ai présenté notre modèle d'attrition à Leona, une partenaire de la finance, parce qu'elle devait approuver le budget de recrutement de mon équipe. J'avais passé trois mois sur ce modèle. Je lui ai déroulé les variables, la pondération, les découpages par cohortes, les intervalles de confiance. Quarante minutes.
+SENA: Et elle hochait la tête ?
+DANIEL: Elle a hoché la tête pendant quarante minutes. À la fin, elle a dit : « C'est très bien, Daniel. » Et ensuite, elle a réduit ma demande de recrutement de moitié.
+SENA: Quoi ?
+DANIEL: Je l'ai appelée après, perplexe. Elle m'a dit : « Je ne voulais pas être celle qui n'avait pas compris. Alors j'ai décidé que c'était sûrement bon, puis j'ai décidé que c'était sûrement risqué. » Je lui avais donné beaucoup d'informations et aucun moyen de dire oui. Elle ne savait pas ce que j'avais besoin qu'elle décide.
+SENA: Donc le hochement de tête ne voulait pas dire « je comprends ».
+DANIEL: Il voulait dire « arrête, s'il te plaît ». Finalement, je suis revenu avec une page. Elle disait : « Si nous perdons deux ingénieurs de plus cette année, voici ce que ça coûte. Voici ce que le recrutement maintenant fait économiser. Je vous demande d'approuver six postes. » Elle en a approuvé quatre sur six. Pas tout, mais plus que les trois auxquels elle m'avait réduit.
+SENA: Une page a battu quarante minutes.
+DANIEL: De loin. Ma femme dit que mes meilleures explications sont celles sur le chien. « Maple doit sortir à six heures, manger à six heures et demie, et j'ai besoin que tu restes là pendant qu'elle réfléchit. » Elle comprend chaque mot.
+SENA: Ha. Bon, je peux parler du Japon et des États-Unis ? Parce que je crois que c'est la partie pour lundi.
+DANIEL: C'est le cœur de l'épisode, alors prends ton temps.
+SENA: Imagine une réunion de rapport du lundi à Tokyo. Ryo présente. Il commence par : « D'abord, le contexte. » L'histoire de la façon dont on en est arrivés là. « En mars, la région deux a changé son formulaire d'inscription. À cause de cela, en avril, nous avons ajouté une colonne. En mai, la colonne a été remplie différemment par deux équipes. Nous avons donc revu les deux. » Puis, vers la septième minute : « Et donc, le taux de ce mois est de quatre virgule un pour cent. »
+DANIEL: Sept minutes avant le chiffre.
+SENA: Sept minutes. Et ce qui est intéressant, c'est que personne ne s'ennuie. Kato-san hoche la tête, mais ce hochement ne veut pas dire « je suis d'accord ». Il veut dire « je suis ». Le but du contexte, c'est que quand le chiffre arrive, personne n'est surpris. Tout le monde a été amené là ensemble, et plus tard personne ne peut dire « je ne savais pas ».
+DANIEL: Donc le contexte n'est pas un retard. C'est la preuve que la décision sera juste.
+SENA: Oui. Et souvent ça se relie au nemawashi : les conversations discrètes en amont pour que la réunion elle-même soit surtout une confirmation. Si tu sautes directement à « je recommande X » sans le contexte, on peut avoir l'impression que tu as laissé de côté les gens qui ont besoin de se sentir inclus.
+DANIEL: Maintenant, je te donne la version de Seattle. On est jeudi, huit heures chez toi, seize heures ici mercredi. L'appel de Mark. Quelqu'un commence par : « Alors, un peu de contexte. » Mark écrit dans le chat : « TLDR ? » Laura dit : « Désolée, je peux vous arrêter là ? Quel est le chiffre, et qu'attendez-vous de nous ? »
+SENA: Ça paraît tellement direct.
+DANIEL: Ça l'est, et ce n'est pas voulu comme impoli. Beaucoup d'équipes américaines considèrent la première minute comme la minute la plus précieuse de l'auditeur. Les gens enchaînent les réunions. Si tu commences par l'historique, ils peuvent penser que tu ne sais pas où tu veux en venir. Alors on dit « bottom line up front », la conclusion d'abord. L'historique est disponible si quelqu'un le demande. Et souvent on le demande.
+SENA: Il y a autre chose. Aux États-Unis, quand je reste silencieuse pendant une longue explication, les gens peuvent y lire « perdue ». À Tokyo, silencieuse veut dire « j'écoute ». Alors j'attends, et Mark pense que je suis confuse.
+DANIEL: Je m'y suis trompé aussi. Une collègue japonaise a un jour écouté tout mon exposé sans un mot. J'ai pensé : « Elle n'est pas convaincue. » En fait elle suivait chaque étape, et le lendemain elle a posé trois questions très détaillées. J'ai failli réécrire tout l'exposé pour rien.
+SENA: Et à Tokyo, quand quelqu'un dit « Et alors ? » au milieu du contexte, on peut avoir l'impression qu'il ne respecte pas la démarche.
+DANIEL: Donc personne n'est paresseux ou impoli. D'un côté, on protège le groupe de la surprise. De l'autre, on protège le temps de l'auditeur. Et ce sont aussi des différences individuelles. Beaucoup de managers à Tokyo veulent le chiffre d'abord, et beaucoup de gens à Seattle adorent une histoire.
+SENA: Alors qu'est-ce que je fais lundi ? Laura est américaine. Mais elle rend visite à une équipe de Tokyo, et Kato-san écoutera aussi.
+DANIEL: J'essaierais une phrase de titre, puis une proposition. « En bref : je vérifie que chaque chiffre compte chaque client une seule fois. Vous voulez le contexte, ou je vous donne un exemple ? »
+SENA: Oh. La proposition est le pont. C'est le titre à l'américaine et l'histoire de contexte à la japonaise, avec l'auditeur qui choisit.
+DANIEL: Et si tu travailles avec des équipes japonaises depuis les États-Unis, c'est l'inverse. Ne coupe pas le contexte. Dis : « J'aimerais d'abord entendre le contexte. Ça m'aidera. » C'est respectueux, et tu obtiens ce dont tu as besoin.
+SENA: C'est une bonne phrase. « Ça m'aidera. »
+DANIEL: D'accord. La compétence du jour, c'est la conscience sociale et la gestion des relations ensemble. J'utilise trois mouvements, et j'appelle ça l'explication sur le perron. Premier mouvement : la question. À quelle question ça répond ? Deuxième mouvement : un exemple, une personne ou une chose, pas un processus. Troisième mouvement : ce que ça signifie pour eux.
+SENA: Je peux essayer ? Tu fais Laura.
+DANIEL: D'accord. « Sena, comment pensez-vous les chiffres ? »
+SENA: En bref : je me demande toujours « Chaque client est-il compté une seule fois ? » Parce que si un client est compté deux fois, tous les chiffres suivants sont faux, et personne ne le voit. Par exemple, au printemps dernier, une région a compté deux fois les mêmes personnes, et le taux paraissait meilleur qu'il n'était. Alors maintenant, je vérifie ça avant tout. Pour vous, cela veut dire que quand j'envoie un chiffre, vous pouvez faire confiance au décompte. Quelle partie n'est pas passée ?
+DANIEL: « C'était clair. Mais que veut dire "région" ici, une région commerciale ? »
+SENA: Ah. Une région de nos clients, comme Kanto ou Kansai. Merci. C'est le mot que je n'avais pas remarqué.
+DANIEL: Tu vois ? Tu as demandé : « Quelle partie n'est pas passée ? » et elle t'a montré le mot que tu ne pouvais pas sentir. Environ quarante secondes, sans diapositives, et un seul mot à corriger.
+SENA: Quatre mots pour Aoi. Je me demande combien maintenant. Daniel, j'ai envie de la rappeler.
+DANIEL: Fais-le. Tu peux en faire ton auditrice test. Choisis quelqu'un qui ne travaille pas dans ton domaine, et demande-lui de t'arrêter chaque fois qu'elle perd le fil.
+SENA: D'accord, voici mon résumé. Hinds a découvert que les gens qui avaient construit un jouet LEGO cinq fois estimaient que les débutants auraient besoin d'environ huit minutes et demie. Les vrais débutants ont mis environ douze minutes et demie. Et une liste de conseils n'a presque pas aidé. Donc quand on connaît très bien quelque chose, on ne peut pas sentir comment ça sonne pour quelqu'un qui ne le connaît pas, et il faut quelqu'un d'extérieur pour nous le dire.
+DANIEL: Voilà. Le défi du jour : choisis une chose que tu fais au travail et explique-la à quelqu'un d'extérieur à ton domaine en trois phrases. La question à laquelle elle répond, un exemple, et ce que ça signifie pour lui ou elle. Puis demande : « Quelle partie n'est pas passée ? »
+SENA: Une chose, trois phrases, une question honnête. J'appellerai Aoi à midi. Oh, mon téléphone a vibré. C'est Kato-san.
+DANIEL: Garde cette pensée, parce que la prochaine fois, c'est l'épisode trente-trois, « Buying Time Before You Answer », gagner du temps avant de répondre. On verra quoi dire pendant les trois secondes où quelqu'un te pose une question à laquelle tu ne peux pas encore répondre.
+DANIEL: Et je crois que c'est un bon titre, vu ta tête en ce moment. Qu'est-ce que Kato-san a dit ?
+SENA: « Laura rejoint l'appel de huit heures. Elle dit qu'elle a une petite question pour toi. Sans préparation. Juste toi. » Daniel. Il est sept heures cinquante et une. J'ai neuf minutes.
+DANIEL: Alors respire. Merci d'avoir écouté Human Curriculum. Je suis Daniel.
+SENA: Et moi, c'est Sena. Une chose, trois phrases, et demander quelle partie n'est pas passée. À la prochaine.

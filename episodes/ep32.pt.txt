@@ -1,0 +1,75 @@
+SENA: Quarta-feira à noite, onze horas. Estou numa chamada de vídeo com a minha amiga Aoi, que é enfermeira. Eu digo: "Certo, estou praticando. Eu penso nos números assim. Verifico a join key, removo duplicatas pelo ID do pedido e depois concilio com a fonte." A Aoi fica me olhando por um bom tempo. Aí ela diz: "Sena, eu entendi umas quatro palavras."
+DANIEL: Quatro de quantas?
+SENA: Vinte e uma. Eu contei depois. E essa era a explicação que eu ia dar a uma diretora na segunda.
+DANIEL: Então você descobriu na quarta à noite em vez de na segunda no almoço. Foi uma boa troca. No fim deste episódio, você vai conseguir explicar o seu raciocínio para alguém de fora da sua área em cerca de um minuto, sem slides.
+DANIEL: Bem-vindos de volta ao Human Curriculum. Eu sou Daniel Reed, People Manager em Seattle.
+SENA: E eu sou Sena Sato, associada em Tóquio. Aqui é quinta-feira, sete e quarenta da manhã.
+DANIEL: E aqui é quarta-feira, três e quarenta da tarde. A Maple está na janela, latindo para um esquilo que claramente está ganhando. Da última vez, o seu desafio era uma pergunta que não fosse sobre a tarefa, e depois um acompanhamento.
+SENA: Eu fiz no check-in das nove. Perguntei ao Kato-san: "Algo divertido neste fim de semana, além de correr?" Ele disse: "Correr." Depois, após uma pausa: "E a feira de ciências da minha filha. Um vulcão."
+DANIEL: E o acompanhamento?
+SENA: Eu disse: "Ele entra em erupção?" Ele riu. Daniel, ele falou por quase três minutos. Bicarbonato de sódio, corante vermelho, e ele contou que teve que ajudar a colar a montanha. O Ryo perguntou o tamanho. O Kenta perguntou se havia um vulcão reserva. O nosso check-in começou quatro minutos atrasado e ninguém se importou.
+DANIEL: Repare no que você fez. Você não disse nada de esperto. Você ouviu a palavra "feira de ciências" e perguntou sobre o vulcão.
+SENA: Perguntei sobre o vulcão. E o registro de humor: o dia três foi "calorosa". Ontem à noite.
+DANIEL: Ótimo. São três palavras em três dias. Agora, o problema de hoje é o oposto do small talk. A Laura pediu uma explicação, sem slides, de como você pensa sobre números.
+SENA: E a minha amiga disse que entendeu quatro palavras.
+DANIEL: Vamos começar pela pesquisa, porque essa é uma armadilha bem estudada. O artigo é de Pamela Hinds, de Stanford, chamado "The Curse of Expertise." O estudo que vou descrever foi relatado primeiro em um relatório de laboratório de 1998 e depois publicado no Journal of Experimental Psychology: Applied, em 1999.
+SENA: Uma maldição. Dramático.
+DANIEL: Vamos à montagem. Quarenta e nove universitários de cursos não técnicos montaram um brinquedo de LEGO de trinta e nove peças, uma nave espacialzinha espacial. Metade montou uma vez. A outra metade montou cinco vezes, em duas sessões. Depois pediram a todos: quanto tempo um estudante comum levaria para montar isso pela primeira vez, só com as imagens?
+SENA: E quem montou cinco vezes era quem sabia mais.
+DANIEL: Era. E os iniciantes de verdade levaram cerca de doze minutos e meio em média, com mediana de uns doze minutos. Quem tinha montado cinco vezes chutou cerca de oito minutos e meio. Eles subestimaram em quase quatro minutos. Quem montou uma vez chutou quase treze, o que foi perto.
+SENA: Então saber mais os deixou piores em chutar.
+DANIEL: Em chutar como é não saber. Depois tentaram uma correção: dar às pessoas uma lista dos passos e dos problemas que os iniciantes tiveram. Os especialistas quase não mudaram as respostas, menos de trinta segundos. Os autores sugeriram que os especialistas não conseguiam voltar facilmente a como era difícil no começo.
+SENA: Isso parece eu com a join key. Eu falei "dedupe" tantas vezes que parece uma palavra normal.
+DANIEL: Parece mesmo. Agora os cuidados. Eram quarenta e nove estudantes, todos homens, de uma universidade, montando um brinquedo de LEGO por alguns minutos. "Especialista" aqui significa cinco montagens, não vinte anos. Outro estudo no mesmo artigo usou vendedores de celulares e teve um padrão parecido, mas não devemos supor que os números exatos valham para uma analista de dados explicando um pipeline. E a lista foi uma correção fraca, não prova de que nada ajuda. Outras pesquisas sugerem que receber feedback de iniciantes de verdade pode ajudar.
+SENA: Então a lição não é "especialistas são ruins". É que especialistas não conseguem sentir a lacuna sozinhos.
+DANIEL: É como eu leio. Você não sente isso por dentro. Precisa de uma pessoa de fora. O que me leva à pergunta de sempre. Por que a IA não pode fazer isso por você?
+SENA: Uma IA pode escrever uma versão do pipeline em linguagem simples. Provavelmente uma boa.
+DANIEL: E?
+SENA: E ela não sabe que a Laura já sabe o que é um dashboard, mas nunca abriu um script de validação. Ela não vê o rosto da Laura quando eu digo "dedupe". O rosto da Aoi fez o trabalho. Uma lista de palavras simples não é o mesmo que ver qual palavra perdeu alguém.
+DANIEL: Certo. A calibragem acontece na sala, num olhar de meio segundo. Essa parte é sua.
+SENA: Daniel, você já fez isso com alguém?
+DANIEL: De um jeito doloroso. Anos atrás, apresentei o nosso modelo de attrition para a Leona, uma parceira de finanças, porque ela precisava aprovar o orçamento de contratação da minha equipe. Eu tinha passado três meses nesse modelo. Passei com ela pelas variáveis, pela ponderação, pelas divisões de coortes, pelos intervalos de confiança. Quarenta minutos.
+SENA: E ela balançou a cabeça concordando?
+DANIEL: Ela assentiu por quarenta minutos. No final disse: "Está ótimo, Daniel." E depois cortou o meu pedido de contratação pela metade.
+SENA: O quê?
+DANIEL: Liguei para ela depois, confuso. Ela disse: "Eu não queria ser a pessoa que não entendeu. Então decidi que provavelmente estava bom, e depois decidi que provavelmente era arriscado." Eu tinha dado muita informação e nenhum jeito de dizer sim. Ela não sabia o que eu precisava que ela decidisse.
+SENA: Então o aceno não era "eu entendi".
+DANIEL: Era "por favor, pare". Eventualmente voltei com uma página. Dizia: "Se perdermos mais dois engenheiros este ano, este é o custo. Isto é o que contratar agora economiza. Estou pedindo que você aprove seis vagas." Ela aprovou quatro das seis. Não tudo, mas mais do que as três a que ela tinha me reduzido.
+SENA: Uma página venceu quarenta minutos.
+DANIEL: E por muito. A minha esposa diz que as minhas melhores explicações são as sobre a cachorra. "A Maple precisa sair às seis, comer às seis e meia, e eu preciso que você fique lá enquanto ela pensa." Ela entende todas as palavras.
+SENA: Ha. Certo, posso falar do Japão e dos Estados Unidos? Porque acho que essa é a parte para segunda.
+DANIEL: Esse é o ponto central, então fique à vontade.
+SENA: Imagine uma reunião de relatório de segunda-feira em Tóquio. O Ryo apresenta. Ele começa com: "Primeiro, o contexto." A história de como chegamos aqui. "Em março, a região dois mudou o formulário de cadastro. Por isso, em abril adicionamos uma coluna. Em maio, a coluna foi preenchida de formas diferentes por duas equipes. Então revisamos as duas." Depois, lá pelo minuto sete: "E então, a taxa deste mês é de quatro vírgula um por cento."
+DANIEL: Sete minutos antes do número.
+SENA: Sete minutos. E o interessante é que ninguém fica entediado. O Kato-san está assentindo, mas o aceno não quer dizer "eu concordo". Quer dizer "estou acompanhando". O objetivo do contexto é que, quando o número chegar, ninguém se surpreenda. Todo mundo foi levado até lá junto, e depois ninguém pode dizer "eu não sabia disso".
+DANIEL: Então o contexto não é um atraso. É a prova de que a decisão vai ser justa.
+SENA: Isso. E muitas vezes se liga ao nemawashi: as conversas discretas antes, para que a reunião seja basicamente uma confirmação. Se você pula direto para "eu recomendo X" sem o contexto, pode parecer que você deixou de fora as pessoas que precisam se sentir incluídas.
+DANIEL: Agora deixe eu dar a versão de Seattle. É quinta-feira, oito da manhã no seu horário, quatro da tarde aqui na quarta. A call do Mark. Alguém começa com: "Então, um pouco de contexto." O Mark digita no chat: "TLDR?" A Laura diz: "Desculpe, posso interromper? Qual é o número, e o que você precisa de nós?"
+SENA: Isso parece tão direto.
+DANIEL: É, e não tem intenção de ser rude. Muitas equipes americanas tratam o primeiro minuto como o minuto mais valioso de quem ouve. As pessoas têm reuniões uma atrás da outra. Se você começa pela história, podem achar que você não sabe qual é o seu ponto. Por isso dizemos "bottom line up front". O histórico fica disponível se alguém pedir. E muitas vezes pedem.
+SENA: Tem outra coisa. Nos Estados Unidos, quando eu fico quieta durante uma explicação longa, as pessoas podem entender como "perdida". Em Tóquio, quieta quer dizer "estou ouvindo". Então eu espero, e o Mark acha que estou confusa.
+DANIEL: Eu também já interpretei isso errado. Uma colega japonesa ouviu a minha apresentação inteira sem dizer uma palavra. Pensei: "Ela não se convenceu." Na verdade ela acompanhou cada passo, e no dia seguinte trouxe três perguntas detalhadas. Quase reescrevi a apresentação toda por nada.
+SENA: E em Tóquio, quando alguém diz "E daí?" no meio do contexto, pode parecer que a pessoa não respeita o processo.
+DANIEL: Então nenhum lado é preguiçoso ou rude. Um está protegendo o grupo de surpresas. O outro está protegendo o tempo de quem ouve. E também há diferenças individuais. Muitos gestores de Tóquio querem o número primeiro, e muita gente de Seattle adora uma história.
+SENA: Então o que eu faço na segunda? A Laura é americana. Mas ela está visitando uma equipe de Tóquio, e o Kato-san também vai estar ouvindo.
+DANIEL: Eu tentaria uma frase de manchete, depois uma oferta. "Resumindo: eu verifico se cada número conta cada cliente uma única vez. Quer o contexto, ou prefere que eu dê um exemplo?"
+SENA: Ah. A oferta é a ponte. É a manchete americana e a história de contexto japonesa, com quem ouve escolhendo.
+DANIEL: E se você trabalha com equipes japonesas a partir dos Estados Unidos, é o contrário. Não corte o contexto. Diga: "Eu gostaria de ouvir o contexto primeiro. Vai me ajudar." Isso é respeitoso, e você consegue o que precisa.
+SENA: Que boa frase. "Vai me ajudar."
+DANIEL: Certo. A habilidade de hoje é consciência social e gestão de relacionamentos juntas. Eu uso três movimentos, e chamo de explicação de varanda. Movimento um: a pergunta. Que pergunta isto responde? Movimento dois: um exemplo, uma pessoa ou uma coisa, não um processo. Movimento três: o que isso significa para eles.
+SENA: Posso tentar? Você faz a Laura.
+DANIEL: Claro. "Sena, como você pensa sobre os números?"
+SENA: Resumindo: eu sempre pergunto: "Cada cliente é contado uma única vez?" Porque se um cliente é contado duas vezes, todos os números depois estão errados, e ninguém vê. Por exemplo, na primavera passada, uma região contou as mesmas pessoas duas vezes, e a taxa parecia melhor do que era. Então agora eu verifico isso antes de qualquer outra coisa. Para você, significa que, quando eu enviar um número, você pode confiar na contagem. Qual parte não ficou clara?
+DANIEL: "Foi claro. Mas o que 'região' quer dizer aqui, uma região de vendas?"
+SENA: Ah. Uma região dos nossos clientes, como Kanto ou Kansai. Obrigada. Essa é a palavra que eu não percebi.
+DANIEL: Viu? Você perguntou "Qual parte não ficou clara?" e ela mostrou a palavra que você não conseguia sentir. Cerca de quarenta segundos, sem slides, e uma palavra para consertar.
+SENA: Quatro palavras para a Aoi. Quantas serão agora. Daniel, quero ligar de volta para ela.
+DANIEL: Faça isso. Você pode usá-la como sua ouvinte de teste. Escolha alguém que não trabalhe na sua área e peça que te interrompa toda vez que perder o fio.
+SENA: Certo, aqui vai o meu resumo. A Hinds descobriu que quem montou um brinquedo de LEGO cinco vezes achava que iniciantes precisariam de cerca de oito minutos e meio. Os iniciantes de verdade levaram cerca de doze e meio. E uma lista de dicas quase não ajudou. Então, quando você conhece bem algo, não consegue sentir como soa para quem não conhece, e precisa de alguém de fora para te dizer.
+DANIEL: É isso. O desafio de hoje: escolha uma coisa que você faz no trabalho e explique para alguém de fora da sua área em três frases. A pergunta que ela responde, um exemplo e o que isso significa para a pessoa. Depois pergunte: "Qual parte não ficou clara?"
+SENA: Uma coisa, três frases, uma pergunta sincera. Vou ligar para a Aoi no almoço. Ah, o meu celular vibrou. É o Kato-san.
+DANIEL: Segure esse pensamento, porque a próxima vez é o episódio trinta e três, "Buying Time Before You Answer", ganhar tempo antes de responder. Vamos ver o que dizer nos três segundos em que alguém faz uma pergunta que você ainda não sabe responder.
+DANIEL: E acho que é um bom título, dado o seu rosto agora. O que o Kato-san disse?
+SENA: "A Laura vai entrar na call das oito. Ela diz que tem uma pergunta rápida para você. Sem preparo. Só você." Daniel. São sete e cinquenta e um. Eu tenho nove minutos.
+DANIEL: Então respire. Obrigado por ouvir o Human Curriculum. Eu sou o Daniel.
+SENA: E eu sou a Sena. Uma coisa, três frases, e pergunte qual parte não ficou clara. Até a próxima.

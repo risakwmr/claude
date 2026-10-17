@@ -1,0 +1,75 @@
+SENA: Miércoles por la noche, once de la noche. Estoy en una videollamada con mi amiga Aoi, que es enfermera. Digo: "Vale, estoy practicando. Así es como pienso sobre los números. Reviso la clave de unión, elimino duplicados por ID de pedido y luego concilio con la fuente." Aoi me mira durante un largo rato. Luego dice: "Sena, entendí como cuatro palabras."
+DANIEL: ¿Cuatro de cuántas?
+SENA: Veintiuna. Las conté después. Y esa es la explicación que iba a darle a una directora el lunes.
+DANIEL: Entonces lo descubriste el miércoles por la noche en vez del lunes en el almuerzo. Es un buen intercambio. Al final de este episodio, podrás explicar tu forma de pensar a alguien ajeno a tu campo en más o menos un minuto, sin diapositivas.
+DANIEL: Bienvenidos de nuevo a Human Curriculum. Soy Daniel Reed, People Manager en Seattle.
+SENA: Y yo soy Sena Sato, asociada en Tokio. Aquí es jueves, las siete y cuarenta de la mañana.
+DANIEL: Y aquí es miércoles, las tres y cuarenta de la tarde. Maple está en la ventana, ladrándole a una ardilla que claramente va ganando. La última vez, tu reto era una pregunta que no fuera sobre la tarea, y luego un seguimiento.
+SENA: Lo hice en la reunión de las nueve de la mañana. Le pregunté a Kato-san: "¿Algo divertido este fin de semana, aparte de correr?" Dijo: "Correr." Luego, después de una pausa: "Y la feria de ciencias de mi hija. Un volcán."
+DANIEL: ¿Y el seguimiento?
+SENA: Dije: "¿Hace erupción?" Se rio. Daniel, habló casi tres minutos. Bicarbonato, colorante rojo, y nos contó que tuvo que ayudar a pegar la montaña. Ryo preguntó qué tan grande era. Kenta preguntó si había un volcán de repuesto. Nuestra reunión empezó cuatro minutos tarde y a nadie le importó.
+DANIEL: Fíjate en lo que hiciste. No dijiste nada ingenioso. Escuchaste la palabra "feria de ciencias" y preguntaste por el volcán.
+SENA: Pregunté por el volcán. Y el registro de ánimo: el día tres fue "cálida". Anoche.
+DANIEL: Bien. Son tres palabras en tres días. Ahora, el problema de hoy es lo opuesto a la charla casual. Laura pidió una explicación, sin diapositivas, de cómo piensas sobre los números.
+SENA: Y mi amiga dijo que entendió cuatro palabras.
+DANIEL: Empecemos con la investigación, porque esta es una trampa muy estudiada. El artículo es de Pamela Hinds, de Stanford, y se titula "The Curse of Expertise". El estudio que voy a describir se reportó primero en un informe de laboratorio de 1998 y luego se publicó en el Journal of Experimental Psychology: Applied, en 1999.
+SENA: Una maldición. Qué dramático.
+DANIEL: Este es el planteamiento. Cuarenta y nueve estudiantes universitarios de carreras no técnicas armaron un juguete LEGO de treinta y nueve piezas, una pequeña nave espacial. La mitad lo armó una vez. La otra mitad lo armó cinco veces en dos sesiones. Luego a todos les preguntaron: ¿cuánto tardaría un estudiante típico en armarlo por primera vez, solo con las imágenes?
+SENA: Y los que lo armaron cinco veces sabían más.
+DANIEL: Así es. Y los que realmente lo armaban por primera vez tardaron unos doce minutos y medio en promedio, con una mediana de unos doce minutos. Los que lo habían armado cinco veces calcularon unos ocho minutos y medio. Subestimaron por casi cuatro minutos. Los que lo habían armado una vez calcularon casi trece, que estuvo cerca.
+SENA: O sea que saber más los hizo peores para calcular.
+DANIEL: Para calcular cómo se siente no saber. Luego probaron una solución: darles una lista de los pasos y de los problemas que tuvieron los principiantes. Los expertos casi no cambiaron sus respuestas, menos de treinta segundos. Los autores sugirieron que a los expertos les costaba volver a lo difícil que era al principio.
+SENA: Eso suena a mí con la clave de unión. He dicho "eliminar duplicados" tantas veces que me parece una palabra normal.
+DANIEL: Así es. Ahora las advertencias. Eran cuarenta y nueve estudiantes, todos hombres, de una sola universidad, armando un juguete LEGO durante unos minutos. "Experto" aquí significa cinco armados, no veinte años de experiencia. Otro estudio del mismo artículo usó vendedores de teléfonos celulares y mostró un patrón parecido, pero no deberíamos suponer que los números exactos se aplican a un analista de datos que explica un pipeline. Y la lista fue una solución débil, no una prueba de que nada ayuda. Otras investigaciones sugieren que recibir comentarios de principiantes de verdad podría ayudar.
+SENA: Entonces la lección no es "los expertos son malos". Es que los expertos no pueden sentir la brecha por sí solos.
+DANIEL: Así lo leo yo. No se puede sentir desde dentro. Hace falta una persona desde fuera. Lo que me lleva a la pregunta de siempre. ¿Por qué la IA no puede hacer esto por ti?
+SENA: Una IA puede escribirme una versión en lenguaje sencillo del pipeline. Probablemente una buena.
+DANIEL: ¿Y?
+SENA: Y no sabe que Laura ya sabe qué es un panel de control, pero nunca ha abierto un script de validación. No ve su cara cuando digo "eliminar duplicados". La cara de Aoi hizo el trabajo. Una lista de palabras simples no es lo mismo que ver qué palabra hizo perder a alguien.
+DANIEL: Así es. El ajuste ocurre en la sala, en una mirada de medio segundo. Esa parte es tuya.
+SENA: Daniel, ¿alguna vez le hiciste esto a alguien?
+DANIEL: De una forma dolorosa. Hace años, le presenté nuestro modelo de rotación de personal a Leona, una socia de finanzas, porque necesitaba aprobar el presupuesto de contratación de mi equipo. Había pasado tres meses en ese modelo. Le expliqué las variables, la ponderación, las divisiones por cohorte, los intervalos de confianza. Cuarenta minutos.
+SENA: ¿Y ella asentía?
+DANIEL: Asintió durante cuarenta minutos. Al final dijo: "Esto se ve genial, Daniel." Y luego recortó a la mitad mi solicitud de contrataciones.
+SENA: ¿Qué?
+DANIEL: La llamé después, confundido. Dijo: "No quería ser la persona que no lo entendía. Así que decidí que probablemente estaba bien, y luego decidí que probablemente era arriesgado." Yo le di mucha información y ninguna manera de decir que sí. Ella no sabía qué necesitaba yo que decidiera.
+SENA: Entonces el asentir no era "entiendo".
+DANIEL: Era "por favor, para". Al final volví con una sola página. Decía: "Si perdemos dos ingenieros más este año, esto es lo que cuesta. Esto es lo que ahorra contratar ahora. Te pido que apruebes seis puestos." Aprobó cuatro de los seis. No todo, pero más que los tres a los que me había reducido.
+SENA: Una página le ganó a cuarenta minutos.
+DANIEL: Por mucho. Mi esposa dice que mis mejores explicaciones son las que hago sobre el perro. "Maple tiene que salir a las seis, comer a las seis y media, y necesito que te quedes ahí parado mientras lo piensa." Ella entiende cada palabra.
+SENA: Ja. Vale, ¿puedo hablar de Japón y Estados Unidos? Porque creo que esta es la parte para el lunes.
+DANIEL: Esta es la pieza central, así que tómate tu tiempo.
+SENA: Imagina una reunión de informes de lunes en Tokio. Presenta Ryo. Empieza con: "Primero, los antecedentes." La historia de cómo llegamos aquí. "En marzo, la región dos cambió su formulario de inscripción. Por eso, en abril añadimos una columna. En mayo, dos equipos llenaron la columna de forma distinta. Así que revisamos ambos." Luego, hacia el minuto siete: "Y por eso, la tasa de este mes es de cuatro coma uno por ciento."
+DANIEL: Siete minutos antes del número.
+SENA: Siete minutos. Y lo interesante es que nadie se aburre. Kato-san asiente, pero ese asentir no significa "estoy de acuerdo". Significa "te sigo". El sentido de los antecedentes es que cuando llega el número, nadie se sorprende. A todos los llevaron hasta ahí juntos, y después nadie puede decir "yo no sabía eso".
+DANIEL: O sea que los antecedentes no son una demora. Son la prueba de que la decisión será justa.
+SENA: Sí. Y muchas veces se conecta con el nemawashi: las conversaciones tranquilas de antemano para que la reunión sea básicamente una confirmación. Si saltas a "recomiendo X" sin los antecedentes, puede sentirse como si hubieras dejado fuera a las personas que necesitan sentirse incluidas.
+DANIEL: Ahora te doy la versión de Seattle. Es jueves, las ocho de la mañana en tu hora, las cuatro de la tarde aquí el miércoles. La llamada de Mark. Alguien empieza con: "Bueno, un poco de contexto." Mark escribe en el chat: "¿TLDR?" Laura dice: "Perdona, ¿puedo interrumpirte? ¿Cuál es el número y qué necesitas de nosotros?"
+SENA: Eso se siente tan directo.
+DANIEL: Lo es, y no se dice con mala intención. Muchos equipos estadounidenses consideran el primer minuto como el minuto más valioso del oyente. La gente tiene reuniones una tras otra. Si empiezas con la historia, pueden pensar que no sabes cuál es tu punto. Por eso decimos "la conclusión primero". La historia está disponible si alguien la pide. Y muchas veces la piden.
+SENA: Hay algo más. En Estados Unidos, cuando me quedo callada durante una explicación larga, la gente puede interpretarlo como "está perdida". En Tokio, callar significa "estoy escuchando". Así que espero, y Mark piensa que estoy confundida.
+DANIEL: Yo también lo he interpretado mal. Una colega japonesa escuchó toda mi propuesta sin decir palabra. Pensé: "No está convencida." En realidad seguía cada paso, y al día siguiente planteó tres preguntas muy detalladas. Casi reescribí toda la propuesta para nada.
+SENA: Y en Tokio, cuando alguien dice "¿Y qué?" en medio de los antecedentes, puede sentirse como una falta de respeto al proceso.
+DANIEL: Así que ninguno de los dos lados es perezoso ni grosero. Uno protege al grupo de las sorpresas. El otro protege el tiempo del oyente. Y además son diferencias individuales. Muchos jefes de Tokio quieren el número primero, y a mucha gente de Seattle le encanta una buena historia.
+SENA: Entonces, ¿qué hago el lunes? Laura es estadounidense. Pero visita a un equipo de Tokio, y Kato-san también va a escuchar.
+DANIEL: Yo probaría una frase de titular, y luego una oferta. "Versión corta: reviso que cada número cuente a cada cliente una sola vez. ¿Quiere los antecedentes, o le doy un ejemplo?"
+SENA: Ah. La oferta es el puente. Es el titular estadounidense y la historia de antecedentes japonesa, y quien escucha elige.
+DANIEL: Y si trabajas con equipos japoneses desde Estados Unidos, va al revés. No recortes los antecedentes. Di: "Me gustaría escuchar primero los antecedentes. Me ayudará." Es respetuoso, y consigues lo que necesitas.
+SENA: Esa es una buena frase. "Me ayudará."
+DANIEL: Bien. La habilidad de hoy es conciencia social y gestión de relaciones juntas. Uso tres movimientos, y lo llamo la explicación del porche. Movimiento uno: la pregunta. ¿Qué pregunta responde esto? Movimiento dos: un ejemplo, una persona o una cosa, no un proceso. Movimiento tres: qué significa para ellos.
+SENA: ¿Puedo probar? Tú eres Laura.
+DANIEL: Claro. "Sena, ¿cómo piensas sobre los números?"
+SENA: Versión corta: siempre me pregunto: "¿Cada cliente se cuenta una sola vez?" Porque si un cliente se cuenta dos veces, todos los números que vienen después están mal, y nadie lo ve. Por ejemplo, la primavera pasada, una región contó a las mismas personas dos veces, y la tasa se veía mejor de lo que era. Así que ahora reviso eso antes que nada. Para usted, significa que cuando le mando un número, puede confiar en el conteo. ¿Qué parte no quedó clara?
+DANIEL: "Estuvo claro. Pero ¿qué significa 'región' aquí, una región de ventas?"
+SENA: Ah. Una región de nuestros clientes, como Kanto o Kansai. Gracias. Esa es la palabra que no noté.
+DANIEL: ¿Ves? Preguntaste: "¿Qué parte no quedó clara?" y ella te mostró la palabra que no podías sentir. Unos cuarenta segundos, sin diapositivas, y una palabra que arreglar.
+SENA: Cuatro palabras para Aoi. Me pregunto cuántas serían ahora. Daniel, quiero volver a llamarla.
+DANIEL: Hazlo. Puedes usarla como oyente de prueba. Elige a alguien que no trabaje en tu campo y pídele que te pare cada vez que pierda el hilo.
+SENA: Vale, aquí va mi resumen. Hinds descubrió que las personas que habían armado un juguete LEGO cinco veces calcularon que los principiantes necesitarían unos ocho minutos y medio. Los principiantes de verdad tardaron unos doce y medio. Y una lista de consejos casi no ayudó. Así que cuando sabes algo muy bien, no puedes sentir cómo suena para alguien que no lo sabe, y necesitas que alguien de fuera te lo diga.
+DANIEL: Eso es. El reto de hoy: elige algo que hagas en el trabajo y explícaselo a alguien ajeno a tu campo en tres frases. La pregunta que responde, un ejemplo y qué significa para esa persona. Luego pregunta: "¿Qué parte no quedó clara?"
+SENA: Una cosa, tres frases, una pregunta sincera. Llamaré a Aoi a la hora del almuerzo. Ah, mi teléfono vibró. Es Kato-san.
+DANIEL: Guarda ese pensamiento, porque la próxima vez es el episodio treinta y tres, "Buying Time Before You Answer", ganar tiempo antes de responder. Veremos qué decir en los tres segundos cuando alguien te hace una pregunta que todavía no sabes responder.
+DANIEL: Y creo que es un buen título, viendo tu cara ahora mismo. ¿Qué dijo Kato-san?
+SENA: "Laura se une a la llamada de las ocho. Dice que tiene una pregunta rápida para ti. Sin preparación. Solo tú." Daniel. Son las siete cincuenta y uno. Tengo nueve minutos.
+DANIEL: Entonces respira. Gracias por escuchar Human Curriculum. Soy Daniel.
+SENA: Y yo soy Sena. Una cosa, tres frases, y pregunta qué parte no quedó clara. Hasta la próxima.

@@ -1,0 +1,75 @@
+SENA: Rabu malam, jam sebelas. Aku sedang video call dengan temanku Aoi, seorang perawat. Aku bilang, "Oke, aku sedang latihan. Begini caraku memikirkan angka. Aku mengecek join key, melakukan dedupe berdasarkan order ID, lalu merekonsiliasi dengan sumbernya." Aoi menatapku lama sekali. Lalu dia bilang, "Sena, aku cuma mengerti sekitar empat kata."
+DANIEL: Empat dari berapa?
+SENA: Dua puluh satu. Aku menghitungnya setelah itu. Dan itulah penjelasan yang tadinya akan kuberikan kepada direktur hari Senin.
+DANIEL: Berarti kamu menemukannya Rabu malam, bukan Senin saat makan siang. Itu pertukaran yang bagus. Di akhir episode ini, kamu akan bisa menjelaskan cara berpikirmu kepada orang di luar bidangmu dalam sekitar satu menit, tanpa slide.
+DANIEL: Selamat datang kembali di Human Curriculum. Saya Daniel Reed, People Manager di Seattle.
+SENA: Dan aku Sena Sato, Associate di Tokyo. Di sini hari Kamis, jam tujuh empat puluh pagi.
+DANIEL: Dan di sini hari Rabu, jam tiga empat puluh sore. Maple ada di jendela, menggonggong pada seekor tupai yang jelas-jelas sedang menang. Terakhir kali, tantanganmu adalah satu pertanyaan yang bukan tentang tugas, lalu satu pertanyaan lanjutan.
+SENA: Aku melakukannya di check-in jam sembilan pagi. Aku bertanya pada Kato-san, "Ada acara seru akhir pekan ini, selain lari?" Dia bilang, "Lari." Lalu, setelah jeda, "Dan pameran sains anakku. Sebuah gunung berapi."
+DANIEL: Dan pertanyaan lanjutannya?
+SENA: Aku bilang, "Apa bisa meletus?" Dia tertawa. Daniel, dia bicara hampir tiga menit. Soda kue, pewarna makanan merah, dan dia cerita harus membantu menempelkan gunungnya. Ryo bertanya sebesar apa. Kenta bertanya apakah ada gunung berapi cadangan. Check-in kami mulai terlambat empat menit dan tidak ada yang keberatan.
+DANIEL: Perhatikan apa yang kamu lakukan. Kamu tidak mengatakan hal yang pintar. Kamu mendengarkan kata "pameran sains" dan bertanya tentang gunung berapinya.
+SENA: Aku bertanya tentang gunung berapi. Dan catatan suasana hati: hari ketiga adalah "hangat". Tadi malam.
+DANIEL: Bagus. Itu tiga kata dalam tiga hari. Nah, masalah hari ini kebalikan dari small talk. Laura meminta penjelasan, tanpa slide, tentang bagaimana kamu memikirkan angka.
+SENA: Dan temanku bilang dia mengerti empat kata.
+DANIEL: Mari mulai dari penelitiannya, karena ini jebakan yang sudah banyak dipelajari. Makalahnya oleh Pamela Hinds, dari Stanford, berjudul "The Curse of Expertise." Studi yang akan kujelaskan pertama kali dilaporkan dalam laporan laboratorium tahun 1998 dan kemudian diterbitkan di Journal of Experimental Psychology: Applied, tahun 1999.
+SENA: Kutukan. Dramatis.
+DANIEL: Begini rancangannya. Empat puluh sembilan mahasiswa dari jurusan non-teknis menyusun mainan LEGO tiga puluh sembilan keping, sebuah pesawat luar angkasa kecil. Separuh dari mereka menyusunnya sekali. Separuh lainnya menyusunnya lima kali dalam dua sesi. Lalu semuanya ditanya: berapa lama waktu yang dibutuhkan mahasiswa biasa untuk menyusunnya pertama kali, hanya dengan gambar?
+SENA: Dan yang menyusun lima kali paling tahu.
+DANIEL: Benar. Dan para pemula sungguhan butuh sekitar dua belas setengah menit rata-rata, dengan median sekitar dua belas menit. Orang yang sudah menyusunnya lima kali menebak sekitar delapan setengah. Mereka meremehkan hampir empat menit. Orang yang menyusunnya sekali menebak hampir tiga belas, yang mendekati.
+SENA: Jadi tahu lebih banyak membuat mereka lebih buruk dalam menebak.
+DANIEL: Dalam menebak bagaimana rasanya tidak tahu. Lalu mereka mencoba perbaikan: memberi orang daftar langkah-langkah dan masalah yang dihadapi para pemula. Para ahli hampir tidak mengubah jawaban mereka, kurang dari tiga puluh detik. Para penulis berpendapat bahwa para ahli tidak mudah kembali ke seberapa sulitnya di awal.
+SENA: Itu seperti aku dengan join key. Aku sudah mengucapkan "dedupe" begitu sering, rasanya seperti kata biasa.
+DANIEL: Memang begitu. Sekarang catatan kehati-hatiannya. Pesertanya empat puluh sembilan mahasiswa, semuanya laki-laki, dari satu universitas, menyusun mainan LEGO selama beberapa menit. "Ahli" di sini artinya lima kali menyusun, bukan dua puluh tahun. Studi lain dalam makalah yang sama memakai penjual ponsel dan menunjukkan pola serupa, tapi kita tidak boleh berasumsi angka persisnya berlaku untuk analis data yang menjelaskan pipeline. Dan daftar itu perbaikan yang lemah, bukan bukti bahwa tidak ada yang membantu. Penelitian lain menyarankan bahwa masukan dari pemula sungguhan mungkin membantu.
+SENA: Jadi pelajarannya bukan "ahli itu buruk". Tapi ahli tidak bisa merasakan jaraknya sendiri.
+DANIEL: Begitulah caraku membacanya. Kamu tidak bisa merasakannya dari dalam. Kamu butuh orang dari luar. Itu membawaku ke pertanyaan yang biasa. Kenapa AI tidak bisa melakukan ini untukmu?
+SENA: AI bisa menuliskan versi bahasa sederhana dari pipeline-ku. Mungkin yang bagus.
+DANIEL: Lalu?
+SENA: Lalu AI tidak tahu bahwa Laura sudah tahu apa itu dashboard tapi belum pernah membuka validation script. AI tidak melihat wajahnya saat aku bilang "dedupe". Wajah Aoi yang bekerja. Daftar kata-kata sederhana tidak sama dengan melihat kata mana yang membuat seseorang tersesat.
+DANIEL: Benar. Penyesuaiannya terjadi di ruangan, dalam tatapan setengah detik. Bagian itu milikmu.
+SENA: Daniel, pernahkah kamu melakukan ini pada seseorang?
+DANIEL: Dengan cara yang menyakitkan. Bertahun-tahun lalu, aku mempresentasikan model attrition kami kepada Leona, rekan di bagian keuangan, karena dia harus menyetujui anggaran perekrutan timku. Aku sudah menghabiskan tiga bulan untuk model itu. Aku menjelaskan fitur-fiturnya, pembobotannya, pembagian kohortnya, interval kepercayaannya. Empat puluh menit.
+SENA: Dan dia mengangguk?
+DANIEL: Dia mengangguk selama empat puluh menit. Di akhir dia bilang, "Ini kelihatan bagus, Daniel." Lalu dia memotong permintaan perekrutanku setengahnya.
+SENA: Apa?
+DANIEL: Aku meneleponnya setelah itu, bingung. Dia bilang, "Aku tidak mau jadi orang yang tidak paham. Jadi aku memutuskan ini mungkin baik-baik saja, lalu aku memutuskan ini mungkin berisiko." Aku memberinya banyak informasi dan tidak ada jalan untuk berkata ya. Dia tidak tahu apa yang kuminta untuk dia putuskan.
+SENA: Jadi anggukan itu bukan "aku mengerti".
+DANIEL: Itu artinya "tolong berhenti". Akhirnya aku kembali dengan satu halaman. Isinya, "Kalau kita kehilangan dua insinyur lagi tahun ini, inilah biayanya. Inilah yang dihemat kalau merekrut sekarang. Saya meminta Anda menyetujui enam posisi." Dia menyetujui empat dari enam. Tidak semuanya, tapi lebih dari tiga yang tadi dia potong.
+SENA: Satu halaman mengalahkan empat puluh menit.
+DANIEL: Jauh sekali. Istriku bilang penjelasan terbaikku adalah yang tentang anjing. "Maple harus keluar jam enam, makan jam enam tiga puluh, dan aku butuh kamu berdiri di sana sementara dia berpikir." Dia mengerti setiap kata.
+SENA: Ha. Oke, boleh aku bicara tentang Jepang dan Amerika? Karena kurasa ini bagian untuk hari Senin.
+DANIEL: Ini bagian utamanya, jadi santai saja.
+SENA: Bayangkan rapat laporan hari Senin di Tokyo. Ryo mempresentasikan. Dia mulai dengan, "Pertama, latar belakang." Kisah bagaimana kita sampai di sini. "Di bulan Maret, wilayah dua mengubah formulir pendaftarannya. Karena itu, di bulan April kami menambahkan kolom. Di bulan Mei, kolom itu diisi secara berbeda oleh dua tim. Jadi kami meninjau keduanya." Lalu, sekitar menit ketujuh, "Dan jadi, angka bulan ini adalah empat koma satu persen."
+DANIEL: Tujuh menit sebelum angkanya.
+SENA: Tujuh menit. Dan yang menarik, tidak ada yang bosan. Kato-san mengangguk, tapi anggukan itu tidak berarti "aku setuju". Artinya "aku mengikuti". Tujuan latar belakang adalah agar saat angkanya muncul, tidak ada yang terkejut. Semua sudah dibawa ke sana bersama-sama, dan nanti tidak ada yang bisa bilang "aku tidak tahu itu".
+DANIEL: Jadi latar belakang bukan penundaan. Itu bukti bahwa keputusannya akan adil.
+SENA: Ya. Dan sering kali itu terhubung dengan nemawashi: percakapan diam-diam sebelumnya sehingga rapatnya sendiri pada dasarnya hanya konfirmasi. Kalau kamu langsung loncat ke "Saya merekomendasikan X" tanpa latar belakang, bisa terasa seperti melewatkan orang-orang yang perlu merasa dilibatkan.
+DANIEL: Sekarang kuberikan versi Seattle. Hari Kamis, jam delapan pagi waktumu, jam empat sore di sini hari Rabu. Telepon Mark. Seseorang mulai dengan, "Jadi, sedikit konteks." Mark mengetik di chat, "TLDR?" Laura bilang, "Maaf, boleh saya potong di sini? Berapa angkanya, dan apa yang Anda butuhkan dari kami?"
+SENA: Itu terasa sangat langsung.
+DANIEL: Memang, dan itu tidak dimaksudkan kasar. Banyak tim Amerika menganggap menit pertama sebagai menit paling berharga bagi pendengar. Orang punya rapat beruntun. Kalau kamu mulai dengan sejarah, mereka mungkin mengira kamu tidak tahu intinya. Makanya kami bilang "bottom line up front". Sejarahnya tersedia kalau ada yang bertanya. Dan sering kali mereka bertanya.
+SENA: Ada hal lain. Di Amerika, kalau aku diam selama penjelasan panjang, orang mungkin mengartikannya "bingung". Di Tokyo, diam berarti "aku mendengarkan". Jadi aku menunggu, dan Mark mengira aku bingung.
+DANIEL: Aku juga pernah salah membacanya. Seorang kolega Jepang pernah mendengarkan seluruh pitch-ku tanpa sepatah kata. Kupikir, "Dia tidak yakin." Ternyata dia mengikuti setiap langkah, dan keesokan harinya dia mengajukan tiga pertanyaan yang sangat rinci. Aku nyaris menulis ulang seluruh pitch-nya tanpa perlu.
+SENA: Dan di Tokyo, kalau seseorang bilang "Jadi apa?" di tengah latar belakang, bisa terasa seperti mereka tidak menghargai prosesnya.
+DANIEL: Jadi tidak ada pihak yang malas atau kasar. Yang satu melindungi kelompok dari kejutan. Yang lain melindungi waktu pendengar. Dan ini juga perbedaan individu. Banyak manajer Tokyo yang ingin angkanya dulu, dan banyak orang Seattle yang suka cerita.
+SENA: Jadi apa yang kulakukan hari Senin? Laura orang Amerika. Tapi dia mengunjungi tim Tokyo, dan Kato-san juga akan mendengarkan.
+DANIEL: Aku akan mencoba satu kalimat judul, lalu sebuah tawaran. "Singkatnya: saya memastikan setiap angka menghitung tiap pelanggan satu kali. Mau latar belakangnya, atau saya berikan contoh?"
+SENA: Oh. Tawaran itu jembatannya. Itu judul ala Amerika dan cerita latar belakang ala Jepang, dengan pendengar yang memilih.
+DANIEL: Dan kalau kamu bekerja dengan tim Jepang dari Amerika, arahnya sebaliknya. Jangan potong latar belakangnya. Katakan, "Saya ingin mendengar latar belakangnya dulu. Itu akan membantu saya." Itu sopan, dan kamu mendapatkan yang kamu butuhkan.
+SENA: Itu kalimat yang bagus. "Itu akan membantu saya."
+DANIEL: Oke. Keterampilan hari ini adalah kesadaran sosial dan manajemen hubungan sekaligus. Aku memakai tiga langkah, dan aku menyebutnya penjelasan beranda depan. Langkah satu: pertanyaan. Pertanyaan apa yang dijawab ini? Langkah dua: satu contoh, seseorang atau sesuatu, bukan proses. Langkah tiga: apa artinya bagi mereka.
+SENA: Boleh aku coba? Kamu jadi Laura.
+DANIEL: Boleh. "Sena, bagaimana kamu memikirkan angka?"
+SENA: Singkatnya: aku selalu bertanya, "Apakah setiap pelanggan dihitung satu kali?" Karena kalau seorang pelanggan dihitung dua kali, setiap angka sesudahnya salah, dan tidak ada yang melihatnya. Misalnya, musim semi lalu, satu wilayah menghitung orang yang sama dua kali, dan angkanya kelihatan lebih bagus dari kenyataan. Jadi sekarang aku mengecek itu sebelum yang lain. Bagi Anda, artinya saat saya mengirim angka, Anda bisa percaya hitungannya. Bagian mana yang belum jelas?
+DANIEL: "Itu jelas. Tapi apa arti 'region' di sini, wilayah penjualan?"
+SENA: Ah. Wilayah pelanggan kami, seperti Kanto atau Kansai. Terima kasih. Itu kata yang tidak kusadari.
+DANIEL: Lihat itu? Kamu bertanya, "Bagian mana yang belum jelas?" dan dia menunjukkan kata yang tidak bisa kamu rasakan. Sekitar empat puluh detik, tanpa slide, dan satu kata untuk diperbaiki.
+SENA: Empat kata untuk Aoi. Aku penasaran sekarang berapa. Daniel, aku mau meneleponnya lagi.
+DANIEL: Lakukan. Kamu bisa menjadikannya pendengar ujianmu. Pilih seseorang yang tidak bekerja di bidangmu, dan minta mereka menghentikanmu setiap kali mereka kehilangan alurnya.
+SENA: Oke, ini retell-ku. Hinds menemukan bahwa orang yang pernah menyusun mainan LEGO lima kali menebak pemula akan butuh sekitar delapan setengah menit. Pemula sungguhan butuh sekitar dua belas setengah. Dan daftar tips hampir tidak membantu. Jadi kalau kita menguasai sesuatu dengan baik, kita tidak bisa merasakan bagaimana kedengarannya bagi orang yang tidak menguasainya, dan kita butuh orang luar untuk memberi tahu.
+DANIEL: Itu dia. Tantangan hari ini: pilih satu hal yang kamu kerjakan di kantor dan jelaskan kepada orang di luar bidangmu dalam tiga kalimat. Pertanyaan yang dijawabnya, satu contoh, dan apa artinya bagi mereka. Lalu tanyakan, "Bagian mana yang belum jelas?"
+SENA: Satu hal, tiga kalimat, satu pertanyaan jujur. Aku akan menelepon Aoi saat makan siang. Oh, ponselku bergetar. Dari Kato-san.
+DANIEL: Tahan dulu, karena lain kali episode tiga puluh tiga, "Buying Time Before You Answer." Kita akan membahas apa yang harus dikatakan dalam tiga detik saat seseorang menanyakan sesuatu yang belum bisa kamu jawab.
+DANIEL: Dan kurasa itu judul yang bagus, melihat wajahmu sekarang. Apa kata Kato-san?
+SENA: "Laura bergabung di telepon jam delapan. Dia bilang ada satu pertanyaan cepat untukmu. Tanpa persiapan. Hanya kamu." Daniel. Sekarang jam tujuh lima puluh satu. Aku punya sembilan menit.
+DANIEL: Kalau begitu tarik napas. Terima kasih sudah mendengarkan Human Curriculum. Saya Daniel.
+SENA: Dan aku Sena. Satu hal, tiga kalimat, dan tanyakan bagian mana yang belum jelas. Sampai jumpa lain kali.

@@ -1,0 +1,67 @@
+SENA: Thursday, eight a.m. sharp, on the call. Laura's camera is on, and she's sitting in a hotel room in Seattle with a mug in her hands. She says, "Sena, quick question. If we moved the region three dashboard up by two weeks, what breaks first?" And the whole call goes quiet. Eleven faces, all waiting for me.
+DANIEL: And what did you do with that silence?
+SENA: I said something I have never said in a meeting before. I'll tell you in a minute. It took about three seconds, and it felt like a month.
+DANIEL: By the end of this episode, you'll have one sentence for the three seconds after a question you can't answer yet, and a way to keep it from sounding like a stall.
+DANIEL: Welcome back to Human Curriculum. I'm Daniel Reed, a People Manager in Seattle.
+SENA: And I'm Sena Sato, an Associate in Tokyo. It's Friday, seven forty in the morning here.
+DANIEL: And Thursday, three forty in the afternoon here. Maple is asleep on my feet, so I'm not moving for anyone. Last time, your challenge was to explain one thing you do to someone outside your field, in three sentences, and then ask, "What part didn't land?"
+SENA: I called Aoi at lunch yesterday. I said, "I check that every customer is counted once. For example, last spring one region counted the same people twice. For you, it means my numbers can be trusted." Then I asked, "What part didn't land?"
+DANIEL: And?
+SENA: She said, "All of it landed except 'region.' I thought you meant, like, a place on the map." Which is exactly what you said Laura would ask. I fixed one word, and then she repeated my explanation back to me. Better than four words out of twenty-one.
+DANIEL: That's the whole exercise. And your mood log?
+SENA: Day four, last night: "wired." Because of the call. I'll get to it.
+DANIEL: Okay. Let's get to the call, but first the research, because I think this one will change how that silence feels.
+SENA: Please.
+DANIEL: In 2009, Tanya Stivers and a large team of researchers published a paper in the Proceedings of the National Academy of Sciences. They filmed informal conversations in ten languages, from Danish and Japanese to English, Korean, Italian, and some small languages like Tzeltal in Mexico and Yélî-Dnye in Papua New Guinea. Then they measured how long people waited before answering a yes-or-no question.
+SENA: How long was it?
+DANIEL: On average, about two hundred milliseconds. A fifth of a second. The average across the whole data set was two hundred and eight milliseconds. Danish was the slowest, at about four hundred and seventy. Japanese was the fastest, at about seven.
+SENA: Seven milliseconds. That's basically no gap.
+DANIEL: In casual talk, yes. And here's the part that matters for you. In every one of the ten languages, answers came faster than non-answers, like "I don't know" or a change of subject. And in all of them, "yes" came faster than "no."
+SENA: So a slow answer already says something, even before you speak.
+DANIEL: That's how the researchers read it: speakers are tuned to tiny delays, and a longer gap carries a signal. Now the cautions. These were relaxed conversations, not meetings with a director. It was yes-or-no questions only. And the study measured timing, not how people judged a pause. It does not tell us that a three-second pause hurts you at work. It tells us that a three-second pause is very long compared with what listeners are used to, so it is noticed.
+SENA: So the problem is not that I need time. Everybody needs time. The problem is that the silence is unlabeled.
+DANIEL: I like that. Unlabeled. The listener fills in the meaning for you, and under pressure they usually fill in something worse than "she's thinking."
+SENA: Okay, so, why can't AI do this for me? I could ask an AI for ten ways to say "I need a moment."
+DANIEL: It can give you the sentences. It's great at that.
+SENA: But an AI never has to sit in the silence. It answers instantly, so it has no idea what three seconds costs, or how a room feels at second two versus second four. And it can't tell whether Laura wants a fast, rough answer or a careful one. I read that from her face and her mug.
+DANIEL: Right. And it doesn't have a reputation to protect. You do, so the call about whether to pause, and for how long, is yours.
+SENA: Daniel, have you ever blurted out a fast answer you regretted?
+DANIEL: Yes, and it cost seven weeks. Years ago, a VP named Warren stopped me in a hallway before a planning meeting and asked, "Can your team ship the billing migration by March?" I didn't want to look unsure in front of him. So within a second I said, "Yes, sure."
+SENA: One second.
+DANIEL: One second. I hadn't checked the work, my best engineer was going on leave, and two other projects needed the same people. We shipped in late April. Seven weeks late. In the meantime I pushed the team through three weekends, and I sent Warren an update every Friday that started with, "Slight delay, but on track."
+SENA: "On track."
+DANIEL: It wasn't on track, and he knew. The day we shipped, Warren said, "Daniel, when I asked you in that hallway, I wasn't asking for a promise. I was asking what you thought. I'd have taken 'I don't know yet.'"
+SENA: Oh. He would have accepted a pause.
+DANIEL: He'd have preferred it. My wife says I do the same thing with directions. I've never once said, "I'm not sure how to get there."
+SENA: That's very Daniel.
+DANIEL: Maple knows. She just looks at me in the car. Okay. Japan and the US. This is the centerpiece, so tell me the Tokyo version.
+SENA: Picture a Monday meeting in Tokyo. Kato-san asks, "Kenta, how long would region four take?" Kenta looks at his screen. Five seconds. Six. Nobody moves. Ryo is looking at his notebook. Then Kenta says, "Sou desu ne," which is something like "Well, let me see," and then, "Chotto kakunin shite mo ii desu ka?" Can I check something? And Kato-san says, "Of course."
+DANIEL: Six seconds, and nobody looked uncomfortable?
+SENA: Not at all. In many Tokyo meetings, a silence after a question means someone is taking it seriously. A fast answer can feel careless, almost like you didn't respect the question. "Sou desu ne" is the sound of someone thinking, and it buys time politely. Everyone knows what it means.
+DANIEL: And the other side of it?
+SENA: There's a phrase that can be harder for Seattle ears. If a Tokyo colleague says, "Kentou shimasu," literally "I'll consider it," it can mean anything from "yes, probably" to "this is a polite no." The listener is expected to read which one from the tone and the timing.
+DANIEL: That's where it gets expensive, because many American managers hear "I'll look into it" and write down "yes."
+SENA: And then in Seattle, I do the opposite. It's Mark's call, and he asks, "Can you do Friday?" and I take four seconds. He says, "Sena? You frozen?" And then, "Hello?" And then he types, "lol is she there??" with three emoji.
+DANIEL: That's Mark. He's kind, but silence on a video call is hard. He can't see you thinking. All he gets is a frozen face and no sound, so he has no information, and he may fear the connection died.
+SENA: That's the part I never thought about. In Tokyo, the room can see me thinking. On a call, my silence is just silence.
+DANIEL: And in a US meeting, a pause is usually fine if it comes with a label. "Good question, let me think about that for a second." The listener now knows it's thinking, not freezing, not refusing. And the second part matters even more: after the pause, give a time. "I'll have that by three tomorrow." In the US, a "let me check" without a time often sounds like "no."
+SENA: So the Tokyo habit and the Seattle habit are both about the same thing: showing the other person what the silence means.
+DANIEL: That's how I see it. In Tokyo the setting shows it. In a video call, you have to say it. And these are tendencies. Plenty of Tokyo managers want an answer in the room, and plenty of Seattle people love a long pause. Laura is American, but she's lived with Japanese teams for years. She might be more patient than Mark.
+SENA: Which is what happened. Do you want to hear the call?
+DANIEL: Yes, finally.
+SENA: She asked, "What breaks first?" Silence. I could feel my jaw. And I said, "Good question. Let me think about that for a second." Then I counted in my head, one, two, three. I looked at my notes, and I said, "The first thing that breaks is Wendell's validation. His numbers aren't final, so I can't promise a date until I've talked with him. I'll message you by end of day Friday with what I find." And Laura said, "That's the answer I was hoping for. Thank you."
+DANIEL: You said what breaks, what you don't know, and when you'd know.
+SENA: And she wrote it in her notes. I saw her write.
+DANIEL: Not bad for three seconds. The skill today is self-management with social awareness. I call it label, breathe, answer. Label: say what you're doing. "Let me think about that for a second." Breathe: one slow breath, actually count it, one, two. Answer: either give the answer, or say what you do know, what you don't, and when you'll come back.
+SENA: Can I try it? Give me a hard one.
+DANIEL: Sure. "Sena, what would you cut if the budget dropped by twenty percent?"
+SENA: Good question. Let me think about that for a second. I'd cut the weekly extra charts first, because only two people open them. I don't know yet about the monthly report, because I need to ask Mark whether he uses the region view. I'll find out and tell you by Monday.
+DANIEL: Beautiful. You paused, you didn't flail, and you gave me a time.
+SENA: Okay, my retell, because I want to practice that, too. Stivers and her team found that in casual conversation, people in ten languages answer yes-or-no questions in about a fifth of a second, and slower answers tend to signal that something is off. It doesn't prove a pause hurts you at work, but it means a long one gets noticed. So I label it.
+DANIEL: Exactly. Today's challenge: the next time someone asks you something you can't answer yet, say, "Let me think about that for a second." Take one breath. Then answer, or tell them what you know, what you don't, and when you'll know.
+SENA: One sentence, one breath, one time. I can do that. Daniel, there's a Slack message. It's Mark. It came in last night at ten forty, and I only just saw it.
+DANIEL: Hold that thought, because next time is episode thirty-four, "Asking Clarifying Questions." We'll look at how to say "I don't understand" without sounding like you weren't paying attention.
+DANIEL: And I have a feeling about that message. What does it say?
+SENA: "Quick one! Can you make the dashboard more actionable by Monday? Laura will love it!!" And then a rocket emoji. Daniel, I don't know what "actionable" means.
+DANIEL: Then you're about to get some practice. Thanks for listening to Human Curriculum. I'm Daniel.
+SENA: And I'm Sena. Label it, breathe, and give a time. See you next time.

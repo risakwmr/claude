@@ -450,19 +450,20 @@ def short_description(meta, ep, episode_vid):
 # shown to viewers whose YouTube language is <lang>.
 SHORT_DESCRIPTIONS = {
     "fr": ("Épisode complet sur la chaîne.\n\n"
-           "Apprends l'anglais du travail avec Sena (Tokyo) et Daniel (Seattle), et découvre les différences entre "
-           "la culture du travail au Japon et aux États-Unis. Anglais à vitesse naturelle, sous-titres en français.\n"
+           "Les compétences humaines que l'IA ne remplace pas : intelligence émotionnelle, confiance, feedback. "
+           "Sena (Tokyo) et Daniel (Seattle) comparent le même moment de travail au Japon et aux États-Unis. "
+           "Sous-titres en français.\n"
            "Sena et Daniel sont des personnages fictifs. Leurs voix sont générées par IA.\n\n"
-           "#shorts #Japon #ApprendreLAnglais #AnglaisDesAffaires"),
+           "#shorts #Japon #CultureDuTravail #IntelligenceÉmotionnelle"),
     "zh-TW": ("完整集數請看頻道。\n\n"
-              "跟著東京的 Sena 和西雅圖的 Daniel 學職場英文，看懂日本和美國職場文化的不同。自然語速英文，附中文字幕。\n"
+              "AI 做不到的職場軟實力：情緒智商、信任、回饋。東京的 Sena 和西雅圖的 Daniel，比較同一個工作場景在日本和美國怎麼發生。附中文字幕。\n"
               "Sena 和 Daniel 是虛構角色，聲音由 AI 生成。\n\n"
-              "#shorts #職場英文 #學英文 #日本"),
+              "#shorts #職場 #日本職場文化 #情緒智商"),
     "ko": ("전체 에피소드는 채널에서 볼 수 있어요.\n\n"
-           "도쿄의 Sena와 시애틀의 Daniel과 함께 비즈니스 영어를 배우고, 일본과 미국의 직장 문화 차이도 알아보세요. "
-           "자연스러운 속도의 영어, 한국어 자막 제공.\n"
+           "AI가 대신할 수 없는 일의 기술: 감성지능, 신뢰, 피드백. 도쿄의 Sena와 시애틀의 Daniel이 "
+           "같은 직장 상황이 일본과 미국에서 어떻게 다른지 비교합니다. 한국어 자막 제공.\n"
            "Sena와 Daniel은 가상의 인물이며, 목소리는 AI로 생성되었습니다.\n\n"
-           "#shorts #비즈니스영어 #영어공부 #일본"),
+           "#shorts #직장생활 #일본직장문화 #감성지능"),
 }
 
 

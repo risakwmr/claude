@@ -106,13 +106,15 @@ def record_short_by_title(item):
 
 
 def video_title(meta, ep, num):
-    """The viewer's problem first, in plain words (yt_title); "Business English Podcast" and the episode number at the end.
+    """The viewer's problem first, in plain words (yt_title); the show name and the episode number at the end.
 
-    "Business English" is what the audience (people who work in English) searches for, and what the episodes are.
+    The audience is US / native-English professionals (workplace human skills, EQ, Japan vs US work culture), so the
+    suffix is just the show name ("Human Curriculum"), not a language-learning label. (Before Oct 2026 the suffix
+    was "Business English Podcast"; changing this only affects new uploads and the manual "organize" action.)
 
     Popular channels put the topic in the first ~40 characters (mobile and search cut titles at about 70)."""
     main = ep.get("yt_title") or ep["title"]
-    title = f"{main} | Business English Podcast EP{num:02d}"
+    title = f"{main} | Human Curriculum EP{num:02d}"
     if len(title) > 100:
         title = f"{main[:88]} | EP{num:02d}"
     return title
@@ -214,7 +216,7 @@ def localizations(meta, ep, num, chapters=None):
     if points:
         lines += ["📌 この回でわかること", *[f"・{p}" for p in points], ""]
     if phrases:
-        lines += ["🗣 今日の英語フレーズ（声に出してみよう）"]
+        lines += ["🗣 職場で使えるフレーズ"]
         for en, ja in phrases:
             lines += [en, f"→ {ja}" if ja else ""]
         lines += [""]
@@ -232,13 +234,13 @@ def localizations(meta, ep, num, chapters=None):
         *[f"- {x}" for x in ep["sources"]],
         "",
         "――",
-        f"{meta['show']}｜AIにできない人間の力（EQ）を、英語で。",
-        "東京で働くセナが、シアトルのメンター・ダニエルと一緒に、毎日少しずつ成長していく英語オーディオブックです。"
-        "字幕（CC）で日本語訳を表示できます。",
+        f"{meta['show']}｜AIにできない人間の力（EQ）を、ふたつの働き方の文化のあいだで。",
+        "東京で働くセナが、シアトルでチームを率いるダニエルと一緒に、毎日少しずつ成長していくオーディオドラマです。"
+        "日本とアメリカの職場文化の違いも。字幕（CC）で日本語訳を表示できます。",
         "※セナとダニエルは架空の人物で、声はAIです。",
         "イラスト：Fluent Emoji by Microsoft（MIT License）",
         "",
-        "#英語学習 #EQ #キャリア",
+        "#EQ #キャリア #働き方",
     ]
     return {"ja": {"title": title, "description": "\n".join(lines)[:4900]}}
 
@@ -316,7 +318,7 @@ def description(meta, ep, chapters=None):
     if points:
         lines += ["📌 In this episode", *[f"• {p}" for p in points], ""]
     if phrases:
-        lines += ["🗣 Say it out loud: today's English phrases", *[f"• {en}" for en, _ in phrases], ""]
+        lines += ["🗣 Phrases that work at work", *[f"• {en}" for en, _ in phrases], ""]
     lines += ["✅ Try it today", ep["practice"], ""]
     if chapters:
         lines += ["⏱ Chapters", chapters.strip(), ""]
@@ -331,14 +333,14 @@ def description(meta, ep, chapters=None):
         *[f"- {x}" for x in ep["sources"]],
         "",
         "――",
-        f"{meta['show']} | Learn what AI can't do, in natural English.",
-        "An English audio drama for people who work in global teams, or want to. Sena, an Associate in Tokyo, "
-        "learns from her mentor Daniel, a People Manager in Seattle. Natural-speed English with captions, "
-        "real research, and one challenge you can try at work today.",
+        f"{meta['show']} | The human skills AI can't do, learned between two work cultures.",
+        "An audio drama about EQ and the human side of work. Sena works in Tokyo; her mentor Daniel manages a team "
+        "in Seattle. Real research explained simply, Japan vs US work culture, and one challenge you can try at "
+        "work today.",
         "Sena and Daniel are fictional characters. Their voices are AI-generated.",
         "Illustrations: Fluent Emoji by Microsoft (MIT License).",
         "",
-        "#BusinessEnglish #EnglishListening #EnglishPodcast",
+        "#EmotionalIntelligence #SoftSkills #WorkCulture",
     ]
     return "\n".join(lines)[:4900]
 
@@ -431,15 +433,15 @@ def short_description(meta, ep, episode_vid):
     lines = [
         f"Full episode → https://youtu.be/{episode_vid}" if episode_vid else "Full episode on the channel.",
         "",
-        f"From \"{ep.get('yt_title') or ep['title']}\", an episode of {meta['show']}: an English audiobook about the human skills "
-        "AI can't do for you. Sena, an Associate in Tokyo, learns from her mentor Daniel, a People Manager in Seattle.",
+        f"From \"{ep.get('yt_title') or ep['title']}\", an episode of {meta['show']}: an audio drama about the human skills "
+        "AI can't do for you. Sena works in Tokyo; her mentor Daniel manages a team in Seattle.",
         "",
         f"Try it today: {ep['practice']}",
         "",
-        "Listen in natural-speed English and grow your EQ and your career at the same time.",
+        "Grow your EQ and your career, one small challenge at a time, and see how work culture differs in Japan and the US.",
         "Sena and Daniel are fictional characters. Their voices are AI-generated.",
         "",
-        "#shorts #EQ #EmotionalIntelligence #CareerGrowth #LearnEnglish #SoftSkills #HumanCurriculum",
+        "#shorts #EQ #EmotionalIntelligence #CareerGrowth #SoftSkills #WorkCulture #HumanCurriculum",
     ]
     return "\n".join(lines)[:4900]
 
@@ -654,7 +656,7 @@ def episode_comments():
             done[n] = "no question"
             continue
         text = (f"🗣 Your turn (40 seconds): {q}\n\n"
-                "Pause, say your answer out loud, then write it here. Any level of English is welcome. 💬")
+                "Pause, think it through, then share your answer here. Every workplace is different, so we'd love to hear yours. 💬")
         try:
             r = yt.commentThreads().insert(part="snippet", body={"snippet": {
                 "videoId": pub[n]["video_id"], "topLevelComment": {"snippet": {"textOriginal": text}}}}).execute()

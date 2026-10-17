@@ -444,8 +444,12 @@ IG_TEXT_W = W - 2 * IG_SAFE_RIGHT                            # 780: text centere
 IG_BAND = (IG_SAFE_TOP + 10, 700)                            # navy hook band (top, bottom)
 IG_SUB_BOX = (100, 730, W - 100, 1080)                        # subtitle card
 IG_BUST_FLOOR = 1930
-IG_BUST_X = {"SENA": 300, "DANIEL": 790}
-IG_BUST_SCALE = {"SENA": 1.62, "DANIEL": 1.8}               # ~1.6x the Shorts size; faces sit just above the caption area
+IG_BUST_X = {"SENA": 290, "DANIEL": 800}
+# Rendered figure heights (px, feet/bottom on IG_BUST_FLOOR). Sena is drawn smaller than Daniel (owner feedback,
+# EP01 Reel: "Sena is too big"), so Daniel's head sits clearly higher; both scale from their art's actual height.
+IG_DANIEL_H = 720                                            # ~1.6x the Shorts size
+IG_SENA_RATIO = 0.86                                         # Sena's height as a share of Daniel's
+IG_BUST_H = {"SENA": int(IG_DANIEL_H * IG_SENA_RATIO), "DANIEL": IG_DANIEL_H}
 YELLOW = (255, 214, 102)
 
 
@@ -531,10 +535,14 @@ def draw_ig(num, spec, ep_title, speaker, level, subtitle, sena, daniel, board_k
         active = name == speaker
         fig = r.full_pose(name, pose, sena_face if name == "SENA" else daniel_face) if active else \
             r.faded(name, pose, sena_face if name == "SENA" else daniel_face)
-        s = IG_BUST_SCALE[name]
+        s = IG_BUST_H[name] / fig.height
         fig = fig.resize((int(fig.width * s), int(fig.height * s)), Image.LANCZOS)
         bob = -8 if (active and level >= 2) else 0
-        img.alpha_composite(fig, (IG_BUST_X[name] - fig.width // 2, IG_BUST_FLOOR - fig.height + bob))
+        # keep the drawn figure (its opaque pixels) fully inside the frame width
+        bb = fig.getchannel("A").point(lambda v: 255 if v > 24 else 0).getbbox() or (0, 0, fig.width, fig.height)
+        x = IG_BUST_X[name] - fig.width // 2
+        x = max(-bb[0] + 8, min(x, W - 8 - bb[2]))
+        img.alpha_composite(fig, (x, IG_BUST_FLOOR - fig.height + bob))
     # subtitle card in the middle (the main reading surface when muted)
     from PIL import ImageFilter
     x0, y0, x1, y1 = IG_SUB_BOX

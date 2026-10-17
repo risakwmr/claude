@@ -186,6 +186,60 @@ def gh_put(path, obj, sha, message):
         print("WARNING: reels.json not saved: " + (r.stderr or r.stdout)[:300])
 
 
+MEDIA_BRANCH = "reels-media"
+
+
+def _apicall_inproc(args):
+    """Run apicall in-process (an mp4 as base64 is too long for one argv string)."""
+    import io, contextlib, runpy, shutil
+    old = sys.argv
+    sys.argv = ["apicall"] + args
+    out = io.StringIO()
+    try:
+        with contextlib.redirect_stdout(out):
+            runpy.run_path(shutil.which("apicall"), run_name="__main__")
+    except SystemExit:
+        pass
+    finally:
+        sys.argv = old
+    return out.getvalue()
+
+
+def media_url(stem_name, release_url):
+    """Buffer can't preview GitHub release assets (302 + octet-stream download). Mirror the mp4 to the
+    reels-media branch and hand Buffer the jsDelivr URL (200, video/mp4, no redirect)."""
+    name = f"{stem_name}.mp4"
+    cdn = f"https://cdn.jsdelivr.net/gh/{OWNER}/{REPO}@{MEDIA_BRANCH}/{name}"
+    api = f"https://api.github.com/repos/{OWNER}/{REPO}/contents/{name}?ref={MEDIA_BRANCH}"
+    try:
+        http_json(api, headers={"Accept": "application/vnd.github+json"})
+        exists = True
+    except urllib.error.HTTPError as e:
+        if e.code != 404:
+            raise
+        exists = False
+    if not exists:
+        with urllib.request.urlopen(release_url, timeout=120) as r:
+            data = r.read()
+        out = _apicall_inproc(["github", "contents_put", f"owner={OWNER}", f"repo={REPO}", f"path={name}",
+                               f"message=reels media: {name}", "content=" + base64.b64encode(data).decode(),
+                               f"branch={MEDIA_BRANCH}"])
+        if '"commit"' not in out:
+            print("WARNING: media mirror failed, using release URL: " + out[:200])
+            return release_url
+    import time
+    for _ in range(6):
+        try:
+            req = urllib.request.Request(cdn, method="HEAD")
+            with urllib.request.urlopen(req, timeout=30) as r:
+                if r.status == 200 and "video" in r.headers.get("Content-Type", ""):
+                    return cdn
+        except Exception:
+            pass
+        time.sleep(10)
+    return release_url
+
+
 def release_assets():
     d = http_json(f"https://api.github.com/repos/{OWNER}/{REPO}/releases/tags/{TAG}",
                   headers={"Accept": "application/vnd.github+json"})
@@ -221,7 +275,7 @@ def cmd_post(argv):
     s = stem(*key.split("-", 1))
     if f"{s}.mp4" not in assets:
         raise SystemExit(f"{s}.mp4 is not in release '{TAG}' yet")
-    video_url = assets[f"{s}.mp4"]
+    video_url = media_url(s, assets[f"{s}.mp4"])
     side = http_json(assets[f"{s}.reel.json"]) if f"{s}.reel.json" in assets else {}
     text = side.get("caption") or key
     # Instagram captions can't link out: drop bare URLs, point to the bio instead.

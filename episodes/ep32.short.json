@@ -1,0 +1,8 @@
+{
+  "shorts": [
+    {"kind": "highlight", "lines": [17, 21], "hook": "Experts guessed beginners need 8 minutes. Beginners needed 12.", "title": "Why experts can't explain things simply"},
+    {"kind": "ai", "lines": [28, 29], "hook": "AI can write the simple version. It can't see who just got lost.", "title": "Why AI can't read your audience for you"},
+    {"kind": "culture", "lines": [42, 45], "hook": "In Tokyo, the number comes at minute seven. In Seattle, minute one.", "title": "Background first or number first: Japan vs the US"},
+    {"kind": "lab", "lines": [55, 58], "phrases": ["Want the background, or should I give you an example?", "I'd like to hear the background first.", "It'll help me."], "hook": "Three lines that work in both Tokyo and Seattle meetings.", "title": "Phrases for explaining without slides", "tag": "PHRASES THAT WORK AT WORK"}
+  ]
+}

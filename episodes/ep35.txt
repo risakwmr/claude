@@ -1,0 +1,76 @@
+SENA: Kato-san says, "Probably seasonal," to help. Ryo is frozen mid-sentence, Laura is already nodding, and slide five is coming.
+DANIEL: And you know it isn't seasonal.
+SENA: I know exactly what it is. I have maybe three seconds. If I wait for a quiet moment, the meeting moves on without me.
+DANIEL: Then you have two problems. Your manager just guessed in front of his boss, and the teammate you want to help is the one presenting.
+SENA: And in a lot of Tokyo meetings, you don't cut in while a teammate is presenting, and you really don't correct your manager in front of his director.
+DANIEL: By the end of this episode, you'll have a short way to step into a fast conversation without stepping on anyone.
+DANIEL: Welcome back to Human Curriculum. I'm Daniel, in Seattle.
+SENA: And I'm Sena, in Tokyo.
+DANIEL: It's Sunday evening for me, seven ten, and Maple is begging for dinner. I'm ignoring her, so this had better be good. Back up. How did slide four get here?
+SENA: It's Monday, eleven ten, here. The meeting ended forty minutes ago and my hands are still a little shaky. Okay. Saturday, I messaged Ryo: "Slide four says 4.1, the April report says 4.7. Can we look before ten on Monday?" He doesn't read work messages on weekends, which is very healthy of him. So on Sunday night I opened the old April file myself, and I found it. April counted returned orders. Since February, Ryo's check script leaves them out.
+DANIEL: So both numbers are right.
+SENA: Both right, answering different questions. But the slide didn't say so. Monday, nine fifty-five, Laura arrives early. Ten o'clock, Ryo presents first, and he's calm and careful until slide four. Laura says, "That's lower than April. What happened?" Ryo says, "I'd like to check that." And Kato-san, trying to help, says, "Probably seasonal." And Laura nods.
+DANIEL: That's the moment from the start. What did you do with your three seconds?
+SENA: First, the wrong thing. I waited. I looked for a gap, and there were three, but every one closed before I'd even breathed in. The conversation moved like a train, and I was standing on the platform.
+SENA: Then I remembered the sentence I'd practiced on my kettle on Sunday night. I looked at Ryo, not at Laura, and said, "Ryo, can I add something?" He looked at me like I'd thrown him a rope. He nodded.
+DANIEL: You asked the person you were about to interrupt.
+SENA: I asked Ryo, not the room. Then I said, "One thing on slide four. The April report counted returned orders. Since February, the check leaves them out. On the old definition, this number is 4.7. So I don't think it's a drop. I think it's two definitions." And I stopped. About ten seconds.
+DANIEL: And Laura?
+SENA: She said, "Thank you. Ryo, can you show both numbers, with a footnote?" Ryo said, "Right now." And then, of course: "What did we decide?" And Ryo said it himself: "Both numbers on slide four, footnote, updated deck by noon." Laura wrote it down. And she said, "Sena, I got your Friday note about Wendell's date. Thank you."
+SENA: After the meeting Kato-san stopped me at the door. He said, "Slide four. The footnote. Thank you. I guessed, and I shouldn't have." Daniel, that's the second time he's named the exact thing.
+DANIEL: Two. I'm keeping count. And Ryo?
+SENA: Ryo said, "I froze. Thank you for not taking over."
+DANIEL: That's the part to hold on to, because the same ten seconds can land very differently. A Stanford linguist, Katherine Hilton, studied exactly that, in a 2016 paper called "The Perception of Overlapping Speech."
+SENA: So people disagree about what an interruption even is?
+DANIEL: Five hundred native American English speakers each heard one twenty-five-second restaurant chat, word for word the same. Only the timing and loudness of the second voice changed. When it came in over the first at a matching volume, listeners were more likely to say the first speaker felt interrupted. But it depended on the listener. Those who said overlap shows interest were less likely to hear an interruption. Those who called overlap rude were more likely to, even in the gentle version.
+SENA: So it's not only what I say. It's whose ears.
+DANIEL: Her later survey of about five thousand American English speakers, as the Stanford news story describes it, found two broad styles. High-intensity speakers who dislike silence and feel overlap is engagement. Low-intensity speakers who find talking at once rude. Most of us sit in between. And in clips almost everyone called interrupting, where the person changed the subject or raised their voice, male listeners rated a woman who did it as ruder, less friendly and less intelligent than a man reading the same script.
+SENA: I'm going to write that down twice. It's not a surprise, but it's strange to see it measured.
+DANIEL: The cautions. Scripted clips, online listeners, American English only, a restaurant chat rather than a director's meeting. It measures what listeners think they heard, not what happens in your office, and the five-thousand figure comes from the Stanford write-up, not a paper I've read in full. So it's not a rule. It's a warning: the same words are heard differently, so make your intent easy to hear. A flag, a short length, the same topic, and no louder voice.
+SENA: I did ask an AI for the sentence, by the way. Two seconds. "Can I add something?" It's perfect.
+DANIEL: So why can't AI do this for you?
+SENA: Because it can't be in the room. It can't see that Ryo is about to drown, or that Laura's pen just stopped. It can't tell if this is the moment to step in or the moment for a private message. That's reading the room in real time, and the room is mine.
+DANIEL: My story is the opposite of yours, and I'm not proud of it. In my second year as a manager, I was in a planning meeting with eleven people. A VP named Tobias was about to lock a launch date. I knew that date landed in our holiday code freeze, so my team would be shipping on a day nobody was allowed to deploy. I had the sentence ready. And I waited for a pause, because that's what polite people do.
+SENA: And the pause never came.
+DANIEL: It never comes. Tobias said, "Great, we're set." Three people said, "Perfect." The next topic started. I said nothing. My team spent two weekends getting a freeze exception approved, and I spent a week apologizing to the operations team.
+SENA: Did you tell Tobias?
+DANIEL: In the hallway, afterwards. He said, "Daniel, I'd have stopped the meeting for that. Why didn't you just say, hold on, one thing?" I said, "It didn't seem like the right time." He said, "There's no right time. There's before the decision and after." My wife says I'm the only person who waits for the green light at an empty four-way stop.
+SENA: Okay, Japan and the US. I want to get this one right.
+DANIEL: Take your time. This is the center of the episode.
+SENA: Picture a Tokyo team meeting. Kato-san is talking budget, and Ryo has a number that changes it. You wait until the speaker finishes. Then a little longer, to show you listened. Then, softly, "Sumimasen, hitotsu dake yoroshii deshou ka?" May I add one thing? And you wait for "Douzo." Speak before that, and it can sound like you're saying the speaker was wrong, in front of everyone.
+DANIEL: That's a lot of steps. What happens to Ryo's number?
+SENA: Sometimes the meeting ends first. Then it's a message afterward, and if Laura's in the room, the decision is already made.
+DANIEL: And what about all the "hai, hai" I hear on your calls?
+SENA: That's called aizuchi. It means "I'm following you," and in Tokyo it often lands right on top of the speaker's words. Nobody counts it as interrupting. The line is your own full sentence.
+DANIEL: So "hai, hai" is a green light for the speaker, and your own sentence is the red one.
+SENA: Yes, exactly.
+DANIEL: Now Seattle. Thursday call. Mark is walking through the launch plan, and Wendell, camera off, says, "Mark, quick add, can I jump in?" Mark says, "Please." Wendell says, "The validation isn't final until Wednesday." Mark says, "Oh, good catch." Six seconds. Nobody blinked.
+SENA: Wendell. With his camera off.
+DANIEL: Camera off, hand up. And in a lot of American meetings the gap really doesn't come, which is why people use a flag: "Can I jump in," "Quick add," "Sorry, one thing." The flag says: this is on purpose, it's short, and I'll give it back. Without a flag, it can be called rude. With one, it's called contributing. But Hilton's work says not everyone hears it that way, so even in Seattle you ask, keep it short, stay on topic, and don't get louder.
+SENA: So the risks are opposite. In Tokyo, I wait too long and the meeting ends. In Seattle, the person who waits for a quiet moment never speaks.
+DANIEL: Fair. And one more for any Americans listening who run meetings with Tokyo teams. Don't wait for them to knock. Leave a gap after your point, and ask by name: "Sena, what would you add?" You've opened the door they were too polite to open.
+SENA: Kato-san would remember you forever.
+DANIEL: I'd like that. And you?
+SENA: Seattle's flag, Tokyo's manners. I turned to Ryo first. I asked him, not the room. That part came with me from Tokyo.
+DANIEL: That's the best of both. So the skill today is self-management. Three moves. One, flag it, to a person: "Ryo, can I add something?" Two, one thing, about ten seconds, same topic, no louder voice, then stop. Three, hand it back: "That's all. Back to you."
+SENA: Can I try it? You be Mark.
+DANIEL: Say I'm Mark and I'm moving fast: "Region three launches on the fifteenth, everything's on track, the dashboard's ready, and..."
+SENA: Mark, can I add something?
+DANIEL: Please!
+SENA: One thing: Wendell's validation isn't final until Wednesday, so "on track" means "on track if Wednesday holds." That's all. Back to you.
+DANIEL: "Oh, good catch!" Ten seconds, and a launch date that's honest.
+DANIEL: Last time's challenge was to say, "Just to make sure I understand, you want X by Y. Is that right?" once. How did it go?
+SENA: Saturday, with Mark on Slack, I wrote, "Just to make sure I understand, you want one recommended next step per region, on one page, for Monday. Is that right?" Four seconds later: "YES!! Exactly!! But four regions, not three. Region three is Laura's favorite 😅." You were close, Daniel. It saved me a day anyway.
+DANIEL: Four. I'm filing a complaint with Mark.
+SENA: And my mood log, day six, Sunday night: "braced."
+DANIEL: Braced for Monday. Let's see if the log gets a kinder word tomorrow.
+DANIEL: Today's challenge: once today, in a meeting, a call or a group chat, step in with "Can I add something?" Say one thing, about ten seconds, then hand it back. If a meeting feels too big, start in a chat.
+SENA: One flag, one thing, one handback. Okay. Though I'm already nervous about my next thing.
+DANIEL: Because next time is episode thirty-six, "Listen, Summarize, Then Speak." What's your next thing?
+SENA: Lunch. Twelve fifteen, six of us, and Laura asked that I sit next to her. Oh. Daniel, my phone. Kato-san.
+DANIEL: What does it say?
+SENA: "Laura says no small talk today. She wants to hear what people really think about the region three plan. She'll ask you first."
+DANIEL: First. In an hour.
+SENA: No small talk, and I'm first. Thanks for listening to Human Curriculum.
+DANIEL: I'm Daniel.
+SENA: And I'm Sena. Flag it, say one thing, hand it back. See you next time.

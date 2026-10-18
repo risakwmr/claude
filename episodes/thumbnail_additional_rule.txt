@@ -1,0 +1,112 @@
+14. RECURRING CHARACTER IDENTITY LOCK
+
+The Human Curriculum has one recurring female protagonist.
+
+She must feel like the SAME PERSON across every episode, even when her clothing, pose, environment, camera angle, hairstyle details, and activity change dramatically.
+
+Do not create a new woman for each episode.
+
+However, do not make every episode look like the same portrait or the same character pose.
+
+CHARACTER DNA — KEEP CONSISTENT
+
+Maintain these recognizable traits across episodes:
+
+* Same overall facial identity and facial proportions
+* Same general age impression: intelligent young professional woman
+* Same elegant, thoughtful, slightly curious personality
+* Same overall hair color and recognizable hair silhouette
+* Same general eye shape and facial expression language
+* Same refined, understated appearance
+* Same sophisticated Japanese/global editorial character feeling
+* Same balance of warmth, intelligence, curiosity, and ambition
+
+The character should feel like the protagonist of an illustrated editorial series, not a different model appearing in each episode.
+
+WHAT MAY CHANGE
+
+Freely vary:
+
+* Hairstyle details
+* Hair movement
+* Clothing
+* Colors of clothing
+* Accessories
+* Makeup details
+* Expression
+* Body orientation
+* Pose
+* Gesture
+* Activity
+* Camera angle
+* Camera distance
+* Environment
+* Lighting
+* Supporting objects
+* Visual metaphor
+
+These changes should make each episode feel like a different chapter of the same character’s life.
+
+CHARACTER CONTINUITY RULE
+
+Think:
+
+“SAME WOMAN, DIFFERENT DAY.”
+
+Not:
+
+“DIFFERENT WOMAN, SAME ART STYLE.”
+
+Her identity should be recognizable through subtle recurring visual characteristics rather than through repeating the same pose, outfit, facial expression, or composition.
+
+STYLE CONTINUITY
+
+Keep the same illustration language across all episodes:
+
+* sophisticated Japanese editorial illustration
+* hand-painted digital texture
+* slightly imperfect paper and brush texture
+* refined contemporary magazine aesthetic
+* premium educational media design
+* warm human atmosphere
+* navy / sky blue / cream foundation
+* coral / dusty pink / warm yellow accents
+* restrained use of color
+* elegant editorial typography
+* global / travel / cultural atmosphere
+
+Avoid making the character photorealistic.
+
+Avoid generic AI beauty.
+
+Avoid fashion-model perfection.
+
+Avoid anime, manga, chibi, corporate stock illustration, or generic cartoon styling.
+
+The character should look like a beautifully illustrated editorial protagonist with a distinct human personality.
+
+EPISODE-TO-EPISODE VARIATION
+
+Before generating each new thumbnail:
+
+1. Preserve the protagonist’s core visual identity.
+2. Choose a completely new physical action.
+3. Choose a substantially different body orientation.
+4. Choose a different camera angle.
+5. Choose a different environment.
+6. Choose a different visual metaphor.
+7. Choose different clothing details.
+8. Choose a different emotional expression.
+9. Change the character’s position within the composition.
+10. Make sure the result feels like a new chapter rather than a redesigned version of the previous thumbnail.
+
+The goal is:
+
+SAME CHARACTER
+
+* SAME VISUAL UNIVERSE
+* DIFFERENT SCENE
+* DIFFERENT ACTION
+* DIFFERENT EMOTIONAL MOMENT
+
+Every episode should feel immediately recognizable as The Human Curriculum while still being visually surprising.

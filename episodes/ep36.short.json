@@ -1,0 +1,8 @@
+{
+  "shorts": [
+    {"kind": "highlight", "lines": [25, 26], "hook": "Does saying \"I understand\" weaken your point?", "title": "Does saying \"I understand\" cost you anything?"},
+    {"kind": "ai", "lines": [28, 30], "hook": "AI can summarize. Can it hear what mattered?", "title": "Why AI can't hear what mattered to someone"},
+    {"kind": "culture", "lines": [40, 42], "hook": "Is repeating back the same as listening?", "title": "Repeating back in Tokyo vs Seattle"},
+    {"kind": "lab", "lines": [54, 56], "phrases": ["Let me check I've got this", "Did I get that right?", "Here's where I land"], "hook": "Three lines that show you listened.", "title": "How to show you listened before you disagree", "tag": "PHRASES THAT WORK AT WORK"}
+  ]
+}

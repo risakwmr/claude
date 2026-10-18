@@ -1,0 +1,8 @@
+{
+  "shorts": [
+    {"kind": "highlight", "lines": [25, 26], "hook": "Same words. Why does one sound rude?", "title": "Same words, different ears: what counts as rude"},
+    {"kind": "ai", "lines": [30, 32], "hook": "Can AI pick the right second?", "title": "Why AI can't pick the moment to speak up"},
+    {"kind": "culture", "lines": [40, 42], "hook": "Do you wait, or jump in?", "title": "Interrupting in Tokyo vs Seattle meetings"},
+    {"kind": "lab", "lines": [57, 60], "phrases": ["Can I add something?", "One thing", "That's all. Back to you."], "hook": "Three lines to step in politely.", "title": "How to jump into a meeting without being rude", "tag": "PHRASES THAT WORK AT WORK"}
+  ]
+}

@@ -1,6 +1,6 @@
 """Choose when the next episode goes public on YouTube.
 
-Episodes go public one at a time, in order, at 00:00 and 12:00 Japan time. Each new
+Episodes go public one at a time, in order, at 00:00 and 09:00 Japan time. Each new
 episode takes the first slot after the last one already scheduled in published.json.
 
 python src/slot.py          prints a UTC time like 2026-10-08T03:00:00Z,
@@ -15,7 +15,7 @@ from datetime import datetime, timedelta, timezone
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 JST = timezone(timedelta(hours=9))
-SLOTS_JST = (0, 12)  # hours of the day in Japan time
+SLOTS_JST = (0, 9)  # 2026-10-18: 09:00 JST = US evening (was 12)  # hours of the day in Japan time
 LEAD = timedelta(hours=6)  # scheduled runs start about 3 hours before a slot
 
 
@@ -28,7 +28,7 @@ def parse(s):
 
 
 def first_slot(t):
-    """First 00:00 / 12:00 JST at or after t."""
+    """First 00:00 / 09:00 JST at or after t."""
     t = t.astimezone(JST)
     for day in range(2):
         for hour in SLOTS_JST:
@@ -53,8 +53,8 @@ def next_free(now, published, skip=()):
     """(slot, from_queue): the next free slot, and whether it follows an already scheduled episode."""
     earliest = now + timedelta(minutes=15)
     last = last_scheduled(published, skip)
-    if last and last + timedelta(hours=11) > earliest:
-        return first_slot(last + timedelta(hours=11)), True
+    if last and last + timedelta(hours=8) > earliest:
+        return first_slot(last + timedelta(hours=8)), True
     return first_slot(earliest), False
 
 

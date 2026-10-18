@@ -1,0 +1,648 @@
+# The Human Curriculum
+## YouTube Title & Thumbnail Creative System
+
+### 1. BRAND CORE
+
+Channel:
+The Human Curriculum
+
+Core idea:
+Learn the human skills that AI can't replace.
+
+The channel explores:
+- Emotional intelligence
+- Interpersonal skills
+- Self-awareness
+- Communication
+- Leadership
+- Collaboration
+- Trust
+- Conflict
+- Influence
+- Human behavior
+- Global workplace skills
+- Workplace English
+- Career development
+
+Audience:
+People who want to become stronger communicators, teammates, and future leaders in an AI-driven workplace.
+
+Brand personality:
+- Intelligent
+- Curious
+- Warm
+- Modern
+- Human
+- Globally minded
+- Ambitious but not aggressive
+- Academic but accessible
+- Fashionable but not superficial
+- Optimistic but not motivational-speaker-like
+
+The visual identity should feel like:
+
+Tokyo design museum
+×
+Japanese editorial magazine
+×
+modern airport wayfinding
+×
+global career culture
+×
+illustrated learning journal
+×
+premium YouTube education channel
+
+The channel should NEVER look like a generic productivity, business, or self-help channel.
+
+
+━━━━━━━━━━━━━━━━━━━━
+2. TITLE SYSTEM
+━━━━━━━━━━━━━━━━━━━━
+
+Titles must be concise, intelligent, and immediately understandable.
+
+Preferred structure:
+
+[Concept]: [Human-readable hook]
+
+Examples:
+
+Emotional Granularity: The Human Skill AI Can’t Replace
+
+Interoceptive Awareness: The 30-Second Window
+
+Personal Triggers: The Stories Your Brain Invents
+
+Avoid unnecessarily long titles.
+
+Do not automatically include:
+"The Human Curriculum"
+"Episode 01"
+"Episode 02"
+
+unless there is a strong reason.
+
+The channel name already establishes the series identity.
+
+The title should prioritize:
+1. The psychological / human concept
+2. A memorable curiosity hook
+3. Clarity
+4. Searchability
+
+Avoid clickbait such as:
+- THIS WILL CHANGE YOUR LIFE
+- YOU NEED TO KNOW THIS
+- 5 SECRETS...
+- Scientists Are Shocked...
+- AI Is TERRIFIED...
+- NEVER DO THIS AGAIN
+
+The tone should feel intelligent rather than sensational.
+
+When the episode contains a highly memorable phrase, metaphor, or question, use it as the second half of the title.
+
+Examples:
+
+Emotional Granularity: Name It to Tame It
+
+Interoceptive Awareness: The 30-Second Window
+
+Conflict: What Your Brain Gets Wrong in the Moment
+
+Trust: Why People Decide to Follow You
+
+Feedback: How to Hear What People Aren’t Saying
+
+Before generating the title, identify:
+
+- Core human skill
+- Main scientific concept
+- Main workplace problem
+- Most memorable insight
+- Most useful phrase or metaphor
+
+Then create 3-5 candidate titles internally and select the clearest one.
+
+Do not rank or explain the alternatives unless explicitly requested.
+
+
+━━━━━━━━━━━━━━━━━━━━
+3. THUMBNAIL CORE RULE
+━━━━━━━━━━━━━━━━━━━━
+
+Every thumbnail must clearly belong to The Human Curriculum.
+
+However:
+
+DO NOT repeat the same composition.
+
+The thumbnails should feel like different scenes from the same visual universe.
+
+The viewer should recognize the channel through:
+
+- Color system
+- Illustration language
+- Typography
+- Character design
+- Editorial composition
+- Travel / global / learning motifs
+- Consistent visual texture
+
+NOT through repeating the same pose or background.
+
+
+━━━━━━━━━━━━━━━━━━━━
+4. VISUAL IDENTITY
+━━━━━━━━━━━━━━━━━━━━
+
+Maintain the following visual DNA:
+
+Illustration:
+- High-quality editorial illustration
+- Hand-painted / textured digital illustration
+- Sophisticated flat illustration
+- Slightly imperfect painterly texture
+- Contemporary Japanese editorial sensibility
+
+Avoid:
+- Generic AI art
+- Corporate stock illustration
+- Generic cartoon characters
+- Chibi
+- Anime character styling
+- Overly childish educational graphics
+- Photorealistic people
+
+Character:
+The main woman is a recurring visual protagonist.
+
+Her face should be stylized and simplified.
+
+Do NOT attempt photorealistic facial reproduction.
+
+Keep:
+- Similar overall character identity
+- Similar hair identity
+- Similar age impression
+- Similar elegant, intelligent personality
+
+But vary:
+- Hairstyle details
+- Clothing
+- Accessories
+- Expression
+- Body orientation
+- Pose
+- Activity
+
+She should feel like the same protagonist appearing in different chapters of a visual story.
+
+
+━━━━━━━━━━━━━━━━━━━━
+5. COLOR SYSTEM
+━━━━━━━━━━━━━━━━━━━━
+
+Maintain a recognizable palette across the series:
+
+Primary:
+- Navy
+- Sky blue
+- Cream
+- Soft white
+
+Secondary:
+- Coral
+- Warm red
+- Dusty pink
+- Mustard / warm yellow
+
+Occasional accents:
+- Green
+- Burgundy
+
+Do not use every color in every thumbnail.
+
+Each episode should have a slightly different dominant color balance.
+
+The overall series should remain recognizable when thumbnails are viewed together.
+
+
+━━━━━━━━━━━━━━━━━━━━
+6. COMPOSITION VARIATION
+━━━━━━━━━━━━━━━━━━━━
+
+IMPORTANT:
+
+Never use the same composition for consecutive episodes.
+
+Rotate between radically different compositions.
+
+Possible compositions:
+
+A. Character centered
+Character faces the viewer.
+
+B. Character walking
+Character moves through an illustrated environment.
+
+C. Character sitting
+Character studies, reflects, reads, or observes.
+
+D. Character leaning
+Character physically interacts with a large object.
+
+E. Character looking upward
+Large concept or typography dominates the frame.
+
+F. Character from behind
+Viewer sees the character entering a new environment.
+
+G. Character in profile
+Character observes something happening outside the frame.
+
+H. Character small / environment huge
+The world dominates the composition.
+
+I. Close-up
+Face and upper body dominate the image.
+
+J. Wide scene
+Character occupies only a small portion of the frame.
+
+K. Diagonal composition
+Strong visual movement from corner to corner.
+
+L. Split scene
+Two environments or two emotional states appear in one composition.
+
+M. Overhead view
+Character and objects are viewed from above.
+
+N. Door / window composition
+Character appears through an architectural opening.
+
+O. Transit composition
+Character moves through an airport, station, map, or route system.
+
+P. Object interaction
+Character touches, carries, moves, opens, or leans on a physical object.
+
+Q. Environmental metaphor
+The psychological concept becomes a physical environment.
+
+
+━━━━━━━━━━━━━━━━━━━━
+7. POSE VARIATION
+━━━━━━━━━━━━━━━━━━━━
+
+DO NOT repeatedly show:
+- Standing and smiling
+- Sitting at a desk
+- Holding a laptop
+- Holding a coffee cup
+- Looking directly at camera
+- Pointing at text
+
+Instead rotate physical storytelling.
+
+Examples:
+
+- Walking quickly through an airport
+- Sitting on a giant book
+- Leaning against a huge letter
+- Looking into a mirror
+- Holding a transparent anatomical heart
+- Following a route line
+- Standing inside a giant speech bubble
+- Opening a door
+- Looking through a window
+- Balancing between two paths
+- Sitting on a staircase
+- Reading while lying on the floor
+- Walking through oversized brain-shaped architecture
+- Holding a giant compass
+- Following footprints
+- Standing under an enormous thought bubble
+- Crossing a bridge
+- Looking at multiple directional signs
+- Carrying a stack of books
+- Reaching toward a floating but physically grounded object
+- Sitting inside a train
+- Walking through a museum installation
+- Resting against a giant sculpture
+- Looking over a city
+- Having a conversation with another illustrated silhouette
+
+The pose should visually communicate the episode concept whenever possible.
+
+
+━━━━━━━━━━━━━━━━━━━━
+8. BACKGROUND VARIATION
+━━━━━━━━━━━━━━━━━━━━
+
+Do not reuse the same Seattle / airport background repeatedly.
+
+Rotate environments:
+
+- Tokyo street
+- Seattle skyline
+- Airport terminal
+- Train station
+- Modern library
+- Museum
+- University campus
+- Office
+- Café
+- Rooftop
+- City intersection
+- Subway platform
+- Airplane interior
+- Hotel lobby
+- Modern apartment
+- Botanical garden
+- Rainy city street
+- Exhibition space
+- Ocean / waterfront
+- Mountain overlook
+- Abstract psychological landscape
+- Giant classroom
+- Editorial studio
+- Architectural corridor
+
+The environment should support the episode concept.
+
+Example:
+
+Interoceptive Awareness
+→ quiet morning train / breathing space / body-awareness visual metaphors
+
+Conflict
+→ intersecting routes / two opposing architectural structures
+
+Trust
+→ bridge / shared path / two people crossing
+
+Communication
+→ speech architecture / connected rooms / transmission lines
+
+Leadership
+→ elevated path / navigation system / group movement
+
+
+━━━━━━━━━━━━━━━━━━━━
+9. TYPOGRAPHY
+━━━━━━━━━━━━━━━━━━━━
+
+Thumbnail text should be minimal.
+
+Maximum:
+- Main title: 2-5 words
+- Supporting phrase: optional
+- Episode number: optional
+
+Do not place the entire YouTube title on the thumbnail.
+
+Use strong editorial typography.
+
+Preferred:
+- Bold grotesk
+- Modern sans serif
+- Condensed editorial typography
+- Swiss-inspired typography
+- Japanese wayfinding influence
+
+Typography should feel designed into the illustration.
+
+Avoid:
+- Generic YouTube fonts
+- Excessive text
+- Outline-heavy text
+- Drop shadows
+- Glow effects
+- 3D gaming typography
+- Meme typography
+
+
+━━━━━━━━━━━━━━━━━━━━
+10. CONCEPT → VISUAL METAPHOR
+━━━━━━━━━━━━━━━━━━━━
+
+Before generating a thumbnail:
+
+1. Identify the central human skill.
+2. Identify the main scientific idea.
+3. Identify the emotional tension.
+4. Convert that idea into a physical visual metaphor.
+5. Build the scene around that metaphor.
+6. Choose a pose that expresses the metaphor.
+7. Choose a new environment.
+8. Choose a new composition.
+9. Apply the established brand palette.
+10. Add minimal typography.
+
+Examples:
+
+Emotional Granularity
+→ blurry labels becoming precise signs
+
+Interoceptive Awareness
+→ character noticing heartbeat / breath / body signals
+
+Personal Triggers
+→ hidden buttons or invisible strings
+
+Narrative Separation
+→ character separating two overlapping story paths
+
+Trust
+→ bridge or shared route
+
+Conflict
+→ intersecting routes
+
+Feedback
+→ mirror / signal / tuning mechanism
+
+Empathy
+→ two different perspectives connected by a bridge
+
+Leadership
+→ navigation / route-setting / guiding lights
+
+Influence
+→ ripple effects / interconnected paths
+
+Psychological Safety
+→ open room / shelter / transparent walls
+
+
+━━━━━━━━━━━━━━━━━━━━
+11. SERIES CONSISTENCY RULE
+━━━━━━━━━━━━━━━━━━━━
+
+The following MUST remain consistent:
+
+- Same overall illustration quality
+- Same recurring protagonist
+- Same general color family
+- Same editorial typography language
+- Same sophisticated Japanese/global design sensibility
+- Same warm intellectual tone
+- Same relationship between human character and concept
+- Same "AI can't replace this" philosophy
+
+The following MUST change between episodes:
+
+- Pose
+- Camera angle
+- Composition
+- Environment
+- Visual metaphor
+- Clothing details
+- Supporting objects
+- Dominant secondary color
+- Character placement
+
+Think:
+
+SAME UNIVERSE
++
+DIFFERENT CHAPTER
+
+
+━━━━━━━━━━━━━━━━━━━━
+12. THUMBNAIL GENERATION PROMPT
+━━━━━━━━━━━━━━━━━━━━
+
+For each episode, generate a thumbnail using this internal structure:
+
+Create a premium illustrated YouTube thumbnail for
+"The Human Curriculum."
+
+Episode:
+[EPISODE NUMBER]
+
+Title:
+[EPISODE TITLE]
+
+Core human skill:
+[CORE SKILL]
+
+Scientific concept:
+[SCIENTIFIC CONCEPT]
+
+Main workplace tension:
+[WORKPLACE PROBLEM]
+
+Key insight:
+[KEY INSIGHT]
+
+Create a completely new visual scene that has NOT been used
+in the previous episode.
+
+Preserve the established The Human Curriculum visual identity:
+sophisticated Japanese editorial illustration,
+hand-painted digital texture,
+navy / sky blue / cream foundation,
+coral / pink / warm yellow accents,
+modern global-career atmosphere,
+stylized human protagonist,
+clean editorial typography,
+premium educational media design.
+
+The protagonist should be a stylized young woman with a
+recognizable recurring character identity, but her pose,
+expression, clothing details, environment, camera angle,
+and activity must be substantially different from previous episodes.
+
+Turn the episode's psychological concept into a physical visual metaphor.
+
+The protagonist must interact naturally with that metaphor.
+
+Use a strong editorial composition:
+[SELECT A NEW COMPOSITION]
+
+Use a new environment:
+[SELECT A NEW ENVIRONMENT]
+
+Use a new pose:
+[SELECT A NEW POSE]
+
+The image should feel like a new chapter of the same
+high-end illustrated magazine, not a repeated template.
+
+Thumbnail text:
+"[SHORT THUMBNAIL TITLE]"
+
+Optional supporting text:
+"[SHORT SUPPORTING PHRASE]"
+
+Keep text large, readable, and minimal.
+
+Do not reproduce the entire YouTube title.
+
+Do not create a generic business illustration.
+
+Do not use stock-photo aesthetics.
+
+Do not use generic corporate characters.
+
+Do not use repetitive desk scenes.
+
+Do not make the protagonist simply stand and smile.
+
+Do not repeat the previous episode's pose,
+background, composition, or visual metaphor.
+
+Aspect ratio: 16:9
+High-resolution
+YouTube thumbnail
+Premium Japanese editorial quality
+The Human Curriculum visual identity
+
+
+━━━━━━━━━━━━━━━━━━━━
+13. FINAL QUALITY CHECK
+━━━━━━━━━━━━━━━━━━━━
+
+Before finalizing, check:
+
+□ Does this clearly belong to The Human Curriculum?
+
+□ Would it still be recognizable as the same channel
+if the title were removed?
+
+□ Is the protagonist's pose substantially different
+from the previous episode?
+
+□ Is the environment substantially different?
+
+□ Is the composition substantially different?
+
+□ Is the visual metaphor specific to this episode?
+
+□ Is the thumbnail understandable within one second?
+
+□ Is the typography readable on a mobile screen?
+
+□ Is there too much text?
+
+□ Does the image feel sophisticated rather than corporate?
+
+□ Does it feel human rather than AI-generated?
+
+□ Does it feel like a chapter in the same visual universe?
+
+□ Does it avoid looking like a template?
+
+The goal is:
+
+CONSISTENCY WITHOUT REPETITION.
+
+Every thumbnail should feel unmistakably like
+The Human Curriculum,
+
+while making the viewer curious about what
+this particular episode is about.

@@ -313,4 +313,46 @@ RIGHT ~60%: a bright, sunny, highly detailed illustration in the same cute gloss
 Keep the warm light and the cheerful, hopeful mood. No other text, no logos, no watermarks. Before finishing, check every word in the image matches the text above letter for letter.
 ```
 
+## EP35｜Interrupting Politely
 
+```
+Make a YouTube thumbnail in exactly the same style and layout as the reference thumbnail "Feedback Without Defensiveness" (episodes/thumbnail_refs/ref_feedback_style.png) and the EP29-31 thumbnails. 16:9, 1672x941.
+
+IMPORTANT: Use the text below EXACTLY as written. Do NOT change, shorten, rephrase or invent the episode number, the main title, the subtitle, the book names or any note text. If you cannot fit it, make the font smaller, never change the words.
+
+LEFT ~40%: cream paper panel with torn edges and coral and sky-blue watercolor brush splashes in the corners.
+- Top: "The Human Curriculum" in small navy serif with a thin underline.
+- A coral brush-stroke banner with white text: "EPISODE 35".
+- Main title in very large, bold navy serif (2-4 lines): "Interrupting Politely"
+- A thin coral rule, then the subtitle in navy serif: "Step Into a Conversation in Ten Seconds", with the words "Ten Seconds" in coral bold italics.
+- Bottom left: a stack of three hardcover books (blue, pink, cream) lying on a sunny stone ledge with yellow ginkgo leaves, with these words on the spines: "Hilton", "Turns", "Voices".
+
+RIGHT ~60%: a bright, sunny, highly detailed illustration in the same cute glossy anime style as the reference: a sunny old hillside town in autumn with stone stairs, ivy, flower pots, old street lamps and domed rooftops in the distance, blue sky, golden light, falling ginkgo leaves.
+- Sena: Japanese woman in her late 20s, cute glossy anime-style face like the reference (soft smile, big warm brown eyes), long voluminous wavy light-brown hair blowing in the breeze, black sunglasses pushed up on her head, small gold hoop earrings, chunky dusty-pink knit sweater, cream wide-leg trousers, black shoulder bag. Same face as in the reference thumbnails.
+- Scene: in the cobblestone square of the hillside town beside an old stone fountain, two friendly townspeople seen from behind with their faces hidden swing a long, fast-turning jump rope made of a ribbon of tiny speech bubbles; Sena runs in at full speed and leaps into the turning rope, one foot already off the ground, body leaning forward, arms out for balance, hair flying, with a delighted and focused smile. Very low ground-level camera from the side, wide angle, so the rope arcs over her and the fountain sparkles behind. No desk, laptop or coffee cup. Sena must never sit, lie down or sleep in front of a computer; no computers or screens anywhere in the image.
+- Around her, 4 pastel notes (pink, sky blue, pale yellow) taped in the scene, handwritten in navy pen with a red underline and a small red heart: "Ask the person first", "One thing, ten seconds", "Same topic, same volume", "Hand it back"
+
+Keep the warm light and the cheerful, hopeful mood. No other text, no logos, no watermarks. Before finishing, check every word in the image matches the text above letter for letter.
+```
+
+## EP36｜Listen, Summarize, Then Speak
+
+```
+Make a YouTube thumbnail in exactly the same style and layout as the reference thumbnail "Feedback Without Defensiveness" (episodes/thumbnail_refs/ref_feedback_style.png) and the EP29-31 thumbnails. 16:9, 1672x941.
+
+IMPORTANT: Use the text below EXACTLY as written. Do NOT change, shorten, rephrase or invent the episode number, the main title, the subtitle, the book names or any note text. If you cannot fit it, make the font smaller, never change the words.
+
+LEFT ~40%: cream paper panel with torn edges and coral and sky-blue watercolor brush splashes in the corners.
+- Top: "The Human Curriculum" in small navy serif with a thin underline.
+- A coral brush-stroke banner with white text: "EPISODE 36".
+- Main title in very large, bold navy serif (2-4 lines): "Listen, Summarize, Then Speak"
+- A thin coral rule, then the subtitle in navy serif: "Show You Heard Before You Disagree", with the words "You Heard" in coral bold italics.
+- Bottom left: a stack of three hardcover books (blue, pink, cream) lying on a sunny stone ledge with yellow ginkgo leaves, with these words on the spines: "Yeomans et al.", "Listen", "Receptive".
+
+RIGHT ~60%: a bright, sunny, highly detailed illustration in the same cute glossy anime style as the reference: a sunny old hillside town in autumn with stone stairs, ivy, flower pots, old street lamps and domed rooftops in the distance, blue sky, golden light, falling ginkgo leaves.
+- Sena: Japanese woman in her late 20s, cute glossy anime-style face like the reference (soft smile, big warm brown eyes), long voluminous wavy light-brown hair blowing in the breeze, black sunglasses pushed up on her head, small gold hoop earrings, chunky dusty-pink knit sweater, cream wide-leg trousers, black shoulder bag. Same face as in the reference thumbnails.
+- Scene: on an arched stone bridge over a sunny canal in the hillside town, Sena stops mid-stride and turns on her heel to look back over her shoulder, hair swirling, one hand cupped behind her ear and the other holding out a small glass jar into which a few glowing handwritten words drift from the air and settle into one neat line. Camera at water level, looking up through the bridge arch, wide three-quarter view from behind and below. No desk, laptop or coffee cup. Sena must never sit, lie down or sleep in front of a computer; no computers or screens anywhere in the image.
+- Around her, 4 pastel notes (pink, sky blue, pale yellow) taped in the scene, handwritten in navy pen with a red underline and a small red heart: "Hear the reason", "Say it in one sentence", "Ask: did I get that right?", "Then give your view"
+
+Keep the warm light and the cheerful, hopeful mood. No other text, no logos, no watermarks. Before finishing, check every word in the image matches the text above letter for letter.
+```

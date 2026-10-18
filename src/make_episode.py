@@ -33,7 +33,7 @@ SR = 24000
 FPS = 12
 RATE = "+0%"      # speaking rate for new episodes (natural native speed)
 GAP = 0.12        # silence between turns (s) for new episodes: native conversation pace
-LEAD, TAIL = 0.8, 1.6
+LEAD, TAIL = 0.3, 1.6
 
 VOICES = {  # change here to swap voices
     "SENA": os.environ.get("SENA_VOICE") or "en-US-AvaNeural",
@@ -206,6 +206,12 @@ def chunk_text(text, max_words=9, max_chars=58):
         end_punct = re.search(r"[.?!:;]\"?$", tok)
         soft = re.search(r",\"?$", tok) and len(cur) >= 5
         if end_punct or soft or len(cur) >= max_words or len(joined) >= max_chars:
+            if not (end_punct or soft):
+                # don't leave 1-2 words of the same sentence alone on screen ("on" / "it."): keep them here
+                rest = tokens[i + 1:i + 3]
+                k = next((j for j, t in enumerate(rest) if re.search(r"[.?!:;,]\"?$", t)), None)
+                if k is not None and len(" ".join(cur + rest[:k + 1])) <= max_chars + 10:
+                    continue
             chunks.append(cur)
             cur = []
     if cur:
@@ -397,7 +403,7 @@ def build(num, fake=False, limit=None, out_dir=None, audio_only=False):
             a = decode(mp3)
         dur = len(a) / SR
         segments.append((t, t + dur, spk))
-        for s, e, c in time_chunks(chunk_text(text), words, dur):
+        for s, e, c in time_chunks(chunk_text(text, max_words=6, max_chars=40), words, dur):
             subs.append((t + s, t + e, spk, c))
         audio += [a, np.zeros(int(gap * SR), np.float32)]
         t += dur + gap

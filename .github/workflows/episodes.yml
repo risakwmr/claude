@@ -17,18 +17,18 @@ on:
         options: [all, ai, highlight, story, culture, lab]
         default: all
       visibility:
-        description: "For upload / short: schedule (next free slot: episodes 00:00 / 12:00 JST, Shorts 08:00 / 18:00 / 22:00 JST), public, or private"
+        description: "For upload / short: schedule (next free slot: episodes 00:00 / 09:00 JST, Shorts 04:00 / 08:00 / 22:00 JST), public, or private"
         type: choice
         options: [schedule, public, private]
         default: schedule
   schedule:
-    # Twice a day at 21:00 and 09:00 Japan time (12:00 and 00:00 UTC), about 3 hours before a slot.
-    # Episodes go public one at a time, in order, at 00:00 / 12:00 JST (see src/slot.py).
+    # Twice a day at 21:00 and 06:00 Japan time (12:00 and 21:00 UTC), about 3 hours before a slot.
+    # Episodes go public one at a time, in order, at 00:00 / 09:00 JST (see src/slot.py).
     # A run uploads the next episode only when its slot is the coming one, otherwise it waits.
     # Runs only when the repository variable AUTO_UPLOAD is "true".
-    # The same runs also queue Shorts, one per slot (08:00 / 18:00 / 22:00 JST, see src/shorts.py);
+    # The same runs also queue Shorts, one per slot (04:00 / 08:00 / 22:00 JST, see src/shorts.py);
     # set the repository variable AUTO_SHORTS to "false" to stop that.
-    - cron: "0 0,12 * * *"
+    - cron: "0 12,21 * * *"
 
 permissions:
   contents: write
@@ -257,7 +257,7 @@ jobs:
           ACTION: ${{ inputs.action }}
           KIND: ${{ inputs.short_kind }}
           VISIBILITY: ${{ inputs.visibility }}
-          SHORT_SLOTS_JST: ${{ vars.SHORT_SLOTS_JST }}
+          SHORT_SLOTS_JST: "4,8,22"  # 2026-10-18: US afternoon / evening / morning
         run: |
           # No link comments on Shorts: links in Shorts comments can't be clicked. The owner sets "Related video" in Studio.
           python src/upload.py short-localize || echo "French Short titles skipped"

@@ -625,7 +625,7 @@ def draw_scene_frame(ep_num, ep_title, speaker, level, subtitle, sena_pose, dani
                      sena_face=None, daniel_face=None):
     img = scene_base(ep_num, ep_title).copy()
     d = ImageDraw.Draw(img)
-    if section:
+    if section and section.strip().lower() != "cold open":   # don't show viewers a "COLD OPEN" label
         _label(d, (82, 168), section.upper(), NAVY)
     board = board_image(ep_num, board_key)
     if board is not None:
@@ -653,11 +653,16 @@ def draw_scene_frame(ep_num, ep_title, speaker, level, subtitle, sena_pose, dani
     d.rounded_rectangle((bx0 + 40, by0 - 24, bx0 + 210, by0 + 20), radius=8, fill=p["accent"])
     d.text((bx0 + 125, by0 - 2), p["first"], font=serif(30, "SemiBold", italic=True), fill=(255, 255, 255), anchor="mm")
     if subtitle:
-        f = sans(44, "SemiBold")
-        lines = wrap(d, subtitle, f, 1640, max_lines=2)
+        # big and heavy so it reads on a phone: 64 px ExtraBold, down to 58 px for a long chunk (~6 words/40 chars)
+        f, lines, size = _fit_font(d, subtitle, lambda s: sans(s, "ExtraBold"), bx1 - bx0 - 80, 2, 64, 58, step=2)
         cy = (by0 + by1) / 2 + 4
+        step = int(size * 1.08)
+        if len(lines) > 1:   # rare long chunk: 58 px, tight leading, kept below the name chip
+            f, lines, size = _fit_font(d, subtitle, lambda s: sans(s, "ExtraBold"), bx1 - bx0 - 80, 2, 58, 58)
+            step = size
+            cy = (by0 + 24 + by1) / 2
         for i, line in enumerate(lines):
-            d.text((W / 2, cy + (i - (len(lines) - 1) / 2) * 58), line, font=f, fill=NAVY, anchor="mm")
+            d.text((W / 2, cy + (i - (len(lines) - 1) / 2) * step), line, font=f, fill=NAVY, anchor="mm")
     return img.convert("RGB")
 
 

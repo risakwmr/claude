@@ -1,5 +1,5 @@
 {
-  "at": "2026-10-17T14:50:45Z",
+  "at": "2026-10-18T02:25:32Z",
   "shorts": {
     "1-ai": {
       "video_id": "IdbU6d1ox0Q",
@@ -229,9 +229,9 @@
     "8-culture": {
       "video_id": "a6u9FeCDeeI",
       "title": "Status vs impact: how to make your work visible #shorts",
-      "public": false,
+      "public": true,
       "publish_at": "2026-10-17T23:00:00Z",
-      "views": 0,
+      "views": 2,
       "likes": 0,
       "comments": 0
     },
@@ -253,12 +253,21 @@
       "likes": 0,
       "comments": 0
     },
+    "9-culture": {
+      "video_id": "bc596F5aVsg",
+      "title": "How trust works at work in Japan vs the US #shorts",
+      "public": false,
+      "publish_at": "2026-10-18T09:00:00Z",
+      "views": 0,
+      "likes": 0,
+      "comments": 0
+    },
     "9-story": {
       "video_id": "tlFy_LuCZs0",
       "title": "An honest no is better than a vague yes #shorts",
       "public": true,
       "publish_at": "2026-10-16T23:00:00Z",
-      "views": 9,
+      "views": 17,
       "likes": 0,
       "comments": 0
     },
@@ -447,7 +456,7 @@
       "title": "Does perfectionism make you better at work? #shorts",
       "public": true,
       "publish_at": "2026-10-15T16:10:39Z",
-      "views": 2,
+      "views": 4,
       "likes": 0,
       "comments": 0
     },
@@ -456,7 +465,7 @@
       "title": "My perfect review cost her two weeks of fear #shorts",
       "public": true,
       "publish_at": "2026-10-15T16:10:41Z",
-      "views": 3,
+      "views": 2,
       "likes": 0,
       "comments": 0
     },
@@ -474,7 +483,7 @@
       "title": "How you talk about your mistakes becomes your team's rule #shorts",
       "public": true,
       "publish_at": "2026-10-16T16:11:31Z",
-      "views": 6,
+      "views": 8,
       "likes": 0,
       "comments": 0
     },
@@ -483,7 +492,7 @@
       "title": "Putting yourself in their shoes doesn't work. This does. #shorts",
       "public": true,
       "publish_at": "2026-10-17T14:50:40Z",
-      "views": 0,
+      "views": 1,
       "likes": 0,
       "comments": 0
     },
@@ -492,6 +501,24 @@
       "title": "Reading the air: Japan vs the US #shorts",
       "public": true,
       "publish_at": "2026-10-17T14:50:42Z",
+      "views": 6,
+      "likes": 0,
+      "comments": 0
+    },
+    "28-highlight": {
+      "video_id": "YHnSI3MB9f8",
+      "title": "Why advice doesn't calm upset people (try this first) #shorts",
+      "public": false,
+      "publish_at": "2026-10-18T03:00:00Z",
+      "views": 0,
+      "likes": 0,
+      "comments": 0
+    },
+    "28-culture": {
+      "video_id": "8t0SI_FyUGY",
+      "title": "Aizuchi vs \"What I'm hearing is\": Japan vs the US #shorts",
+      "public": false,
+      "publish_at": "2026-10-18T03:00:00Z",
       "views": 0,
       "likes": 0,
       "comments": 0
@@ -599,7 +626,7 @@
     "15": {
       "video_id": "Rs-Wr1nrYHo",
       "title": "How to Start a Hard Conversation at Work | Business English Podcast EP15",
-      "views": 5,
+      "views": 7,
       "likes": 0,
       "comments": 1
     },
@@ -634,14 +661,14 @@
     "20": {
       "video_id": "vWtKtfcEvQw",
       "title": "Your Project Got Cancelled? How to Bounce Back at Work | Business English Podcast EP20",
-      "views": 10,
+      "views": 11,
       "likes": 0,
       "comments": 1
     },
     "21": {
       "video_id": "1vlIpwaeBUg",
       "title": "Jealous of a Coworker? What Envy Tells You About Your Goals | Business English Podcast EP21",
-      "views": 4,
+      "views": 5,
       "likes": 0,
       "comments": 1
     },
@@ -662,27 +689,34 @@
     "24": {
       "video_id": "8Xu4jH5O4jM",
       "title": "Can't Stop Thinking About Work at Night? Try This 2-Minute Shutdown | Business English Podcast EP24",
-      "views": 34,
+      "views": 45,
       "likes": 1,
       "comments": 1
     },
     "25": {
       "video_id": "GmBCSsACX9c",
       "title": "Perfectionism at Work: How to Know When It's Good Enough | Business English Podcast EP25",
-      "views": 14,
+      "views": 15,
       "likes": 0,
       "comments": 1
     },
     "26": {
       "video_id": "xDKO5T0UcWE",
       "title": "Self-Compassion at Work: Talk to Yourself Like a Friend | Business English Podcast EP26",
-      "views": 6,
+      "views": 7,
       "likes": 0,
       "comments": 1
     },
     "27": {
       "video_id": "mhPA1DF8TOM",
       "title": "How to Read Emotions on a Video Call (and What to Say After) | Human Curriculum EP27",
+      "views": 1,
+      "likes": 0,
+      "comments": 0
+    },
+    "28": {
+      "video_id": "Nh9VQB39Hkg",
+      "title": "What to Say First When a Coworker Is Upset (Not Advice) | Human Curriculum EP28",
       "views": 0,
       "likes": 0,
       "comments": 0

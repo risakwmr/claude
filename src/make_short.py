@@ -79,7 +79,7 @@ KINDS = ["ai", "highlight", "story", "culture", "lab"]
 TAGS = {"ai": "WHY CAN'T AI DO THIS?", "highlight": "DID YOU KNOW?", "story": "DANIEL'S STORY", "culture": "JAPAN VS THE US",
         "lab": "PHRASES THAT WORK AT WORK"}
 LAB_CARD_LABEL = "PHRASE THAT WORKS"   # label on a phrase card (render.py board "repeat"; the countdown label stays)
-MAX_SECONDS = {"ai": 55.0, "highlight": 50.0, "story": 58.0, "culture": 60.0, "lab": 58.0}  # popular Shorts run ~30-45 s
+MAX_SECONDS = {"ai": 35.0, "highlight": 35.0, "story": 40.0, "culture": 40.0, "lab": 35.0}  # shorter = higher view rate and loops
 TARGET_WORDS = {"ai": 140, "story": 230, "culture": 190}   # rough size of an automatic clip before voicing
 
 HOOK_TOP, HOOK_SPACE = 280, 330     # hook text block (centered vertically in this space)
@@ -97,6 +97,9 @@ NEXT_PART = re.compile(r"\bstor(y|ies)\b|failure|confession|mistake of mine|hold
                        r"about japan", re.I)
 AI_QUESTION = re.compile(r"why can.?t ai|why is this (a skill|something) ai can.?t|ai can.?t do (this|that) for", re.I)
 LAB_TOPIC = re.compile(r"(?:three|3) (?:sentences|phrases) (?:for|to) ([^.]+)\.", re.I)
+# The first line of a Short must stand on its own (a question, a conflict or a surprising number; see plan.md)
+WEAK_OPENER = re.compile(r"^\W*(okay|ok|and|it|so|yeah)\b", re.I)
+MIN_OPEN_WORDS = 8
 
 
 def short_path(num):
@@ -247,6 +250,13 @@ def specs(num, ep, lines):
                 if phrase_line(ph, lines, start, end) is None:
                     print(f"  WARNING: EP {num:02d} lab phrase not found in lines {start + 1}-{end}: {ph!r}",
                           file=sys.stderr, flush=True)
+        first = scenes._strip_quotes(lines[start][1]) or lines[start][1] if start < len(lines) else ""
+        n_words = len(first.split())
+        if WEAK_OPENER.match(first) or n_words < MIN_OPEN_WORDS:
+            why = "starts with a filler word" if WEAK_OPENER.match(first) else f"only {n_words} words"
+            print(f"  WARNING: EP {num:02d} {kind} Short: first line (line {start + 1}) {why}; it must make sense "
+                  f"on its own (a question, a conflict or a surprising number): {lines[start][1][:70]!r}",
+                  file=sys.stderr, flush=True)
         out[kind] = spec
     return out
 
@@ -341,25 +351,32 @@ def base(spec, ep_title):
         s = r.brush(box[2:], color, seed, alpha=a)
         img.alpha_composite(s, (box[0], box[1]))
     d = ImageDraw.Draw(img)
-    r.spaced(d, (W / 2, 92), "THE", r.sans(20, "SemiBold"), r.NAVY, spacing=6, anchor_center=True)
-    d.text((W / 2, 116), "Human Curriculum", font=r.serif(52, "Bold"), fill=r.NAVY, anchor="ma")
-    # tag
-    tf = r.sans(24, "SemiBold")
+    # small brand + kind tag at the very top (the Shorts UI may cover this strip; decoration only)
+    r.spaced(d, (W / 2, 58), "THE", r.sans(15, "SemiBold"), r.NAVY, spacing=5, anchor_center=True)
+    d.text((W / 2, 76), "Human Curriculum", font=r.serif(36, "Bold"), fill=r.NAVY, anchor="ma")
+    tf = r.sans(19, "SemiBold")
     tag = spec["tag"].upper()
     tw = r.spaced_width(tag, tf, 4)
-    x0 = (W - tw - 40) / 2
-    d.rounded_rectangle((x0, 196, x0 + tw + 40, 242), radius=8, fill=r.CORAL)
-    r.spaced(d, (x0 + 20, 205), tag, tf, (255, 255, 255), spacing=4)
-    # hook: big, heavy and high-contrast (like popular Shorts), on a navy band so it reads at a glance
-    band_top, band_h = 262, 360
-    d.rectangle((0, band_top, W, band_top + band_h), fill=r.NAVY)
-    f, lines, size = r._fit_font(d, spec["hook"], lambda s: r.sans(s, "ExtraBold"), W - 90, 3, 96, 56)
-    step = int(size * 1.16)
-    y = band_top + max(16, (band_h - step * len(lines)) // 2)
+    x0 = (W - tw - 32) / 2
+    d.rounded_rectangle((x0, 128, x0 + tw + 32, 164), radius=7, fill=r.CORAL)
+    r.spaced(d, (x0 + 16, 135), tag, tf, (255, 255, 255), spacing=4)
+    # hook: as big as fits (up to 3 lines), heavy and high-contrast, on a navy band so it reads at a glance.
+    # The band ends above the center card (BOARD_BOX top 640); text keeps 60 px side margins.
+    band_top, band_bot = 186, 622
+    band_h = band_bot - band_top
+    d.rectangle((0, band_top, W, band_bot), fill=r.NAVY)
+    max_w, pad = W - 120, 28
+    size = 136
+    while True:
+        f, lines, size = r._fit_font(d, spec["hook"], lambda s: r.sans(s, "ExtraBold"), max_w, 3, size, 56)
+        step = int(size * 1.14)
+        if step * len(lines) <= band_h - 2 * pad or size <= 56:
+            break
+        size -= 4
+    y = band_top + (band_h - step * len(lines)) // 2 + int(size * 0.06)
     for k, line in enumerate(lines):
-        fill = (255, 255, 255) if k < len(lines) - 1 or len(lines) == 1 else (255, 214, 102)
-        if len(lines) == 1:
-            fill = (255, 214, 102)
+        last = k == len(lines) - 1
+        fill = (255, 214, 102) if last else (255, 255, 255)
         d.text((W / 2, y), line, font=f, fill=fill, anchor="ma", stroke_width=6, stroke_fill=r.CORAL)
         y += step
     return img

@@ -1,0 +1,74 @@
+SENA: "So, Sena, what do you think?" Laura just talked for four minutes straight, and I'm holding my answer like a hot plate.
+DANIEL: You had an answer ready.
+SENA: I had five. One for every worry she listed. I wanted to fix all of them, in order, right there at the table.
+DANIEL: And instead?
+SENA: Instead I said one sentence, and Laura put down her chopsticks.
+DANIEL: By the end of this episode, you'll have a one-sentence way to show someone they've been heard, before you say a word of your own opinion.
+DANIEL: Welcome back to Human Curriculum. I'm Daniel, in Seattle.
+SENA: And I'm Sena, in Tokyo. It's Tuesday, seven forty in the morning here.
+DANIEL: And Monday, three forty in the afternoon here. Maple has claimed the sunny spot under my desk, so I can't move my chair. Take me to lunch.
+SENA: Monday, twelve fifteen. A small restaurant near the office, one long table, six of us: Laura at the head, Kato-san across from me, Ryo, Kenta, Misaki, and me next to Laura, like she asked. I had prepared six follow-up questions for small talk. I used zero. The food hadn't even come when Laura said, "Can I be honest? I'm worried about region three."
+DANIEL: And then she talked.
+SENA: Four minutes. The launch date. Wendell's validation not being final. Mark asking for something new every week. Hannah's team's calendar. Whether Tokyo has enough people. Everyone was looking at their water glasses.
+DANIEL: Five worries in one breath. What was happening in your head?
+SENA: A vending machine. Every worry had a fix: move the cutoff, ask Wendell, batch Mark's requests. I was ready to give five answers in thirty seconds. Then Laura said, "So, Sena, what do you think?"
+DANIEL: And the vending machine?
+SENA: I took one breath, like in episode thirty-three. Then I said, "Let me check I've got this. I don't think the date is the real worry. I think it's that nobody owns the word 'ready.' If Wendell's numbers slip, Mark could launch anyway, and nobody would stop him. Did I get that right?"
+DANIEL: And?
+SENA: Silence. Laura put her chopsticks down and said, "Yes. That's it. Nobody has said that back to me all week." Then, "Go on, what would you do?" And I only had one answer to give, because only one question was left. "One name per decision. Wendell says when the numbers are ready. Ryo's check says whether they're clean. You and Mark decide the launch, on one page." Laura said, "Kato-san, write that down." And he wrote it in the notebook.
+DANIEL: The notebook again.
+SENA: The notebook again. And across the table, Misaki smiled at me with her whole face.
+DANIEL: That's the move. And there's a paper that tests something close to it. In 2020, Michael Yeomans, Julia Minson and colleagues, mostly at Harvard, published "Conversational receptiveness" in the journal Organizational Behavior and Human Decision Processes. They asked: what language makes you sound like you're really engaging with a view you disagree with?
+SENA: And what does?
+DANIEL: In one study, 771 people recruited online wrote a reply to a statement they disagreed with, on two political topics. Some read a four-part recipe first: use positive statements instead of negations, say outright that you understand, point out what you agree on, and soften your claims with a hedge. Then 1,548 raters, who disagreed with the writers, read the replies without knowing who'd had the recipe.
+SENA: And did the recipe work?
+DANIEL: Saying you understand first didn't cost anyone. Raters who disagreed with the writers rated those replies as more receptive, said they'd be more willing to work with the writers, and found them a bit more persuasive, which surprised the authors. The writers, though, said the recipe was harder to use than their usual way.
+SENA: So "I understand" doesn't weaken my point.
+DANIEL: In this study it didn't. The cautions: strangers, online, a couple of minutes of writing about political topics, not coworkers at lunch. The raters judged the writing, not what anyone did afterward. And a recipe sounds fake if you read it like a recipe. In episode twenty-eight we said it back to calm someone down. This is the same move for a disagreement.
+SENA: Afterwards I gave an AI my notes of what Laura said. It gave me five tidy bullets, one per worry.
+DANIEL: So why can't AI do this for you?
+SENA: Because "five worries" isn't what she said. What she meant was "nobody owns ready," and she never used the word "owner." To hear that, I had to know how Wendell sounded on Thursday, and that Laura ends everything with "What did we decide?" A summary shortens what was said. Hearing is choosing the part that mattered to her.
+DANIEL: That's the difference between a transcript and understanding. And my story is about a summary that went wrong. Years ago I led a design meeting where two engineers, Dmitri and Soraya, argued for forty minutes about whether to build a reporting tool or buy one. Dmitri said buy. Soraya said build. Both smart, both tired. So I did what I thought leaders do. I said, "Let me summarize. We've heard both sides, and I think the strongest point is owning our data. So, build." Everyone nodded, because the meeting was over.
+SENA: A summary.
+DANIEL: A summary of what I already thought. I left out Dmitri's best argument completely, which was the three-year cost. He said nothing. Two weeks later, at stand-up, he said, almost casually, "By the way, I have a vendor demo on Thursday." He'd decided my meeting hadn't had room for his point.
+SENA: So the team ran two plans.
+DANIEL: For almost three weeks. When I finally asked Dmitri why he hadn't just said something, he said, "Your summary was the shortest version of what you already thought." My wife says I summarize movies the same way. Everything ends how I'd have ended it.
+SENA: That's a very you thing to say.
+DANIEL: And it was the lesson. A summary isn't mine to shape. It has to be in the other person's words, with their reason, and they get to say no. If I'd said, "Dmitri, let me say back your point, and tell me where I'm wrong," I'd have known in thirty seconds.
+SENA: Okay. Japan and the US. This one is close to home, because Tokyo does this all day.
+DANIEL: Take your time. This is the center of the episode.
+SENA: Picture a Tokyo tonkatsu restaurant. The waiter takes your order, and says it back every time: "Tonkatsu teishoku, hitotsu, kashikomarimashita." It has a name, fukushou, repeating back. The taxi driver repeats your address, and Kato-san ends every call with Seattle by saying "Kakunin sasete kudasai," let me confirm.
+DANIEL: So repeating back is built in. In my office, we mostly do it after something goes wrong.
+SENA: But fukushou repeats words. "Region three, Wednesday, Wendell," everyone says "Hai," and nobody asks: Wednesday in whose time zone? It checks the facts, not the worry.
+DANIEL: And Seattle is almost the reverse. In a lot of American meetings, people answer with their own view first. A summary is rare, and when it comes, it often comes in a phrase: "What I'm hearing is..." Some people hear that as technique, like therapy talk. I've seen eyes roll. And it can be used to win: "So what you're saying is you don't care about quality?" That's a summary built to lose someone an argument.
+SENA: But Laura does it constantly. "What did we decide?"
+DANIEL: She does, and that's the senior version: a summary of the outcome, not of the person. It tells everyone where the meeting ended. It doesn't tell anyone they were heard. That's the piece you added at lunch.
+SENA: So what do I take from each side?
+DANIEL: From Tokyo, the habit: say it back every time, quickly. Then add what Tokyo often skips, the meaning: "You're worried about X because Y." From Seattle, the question: "Did I get that right?" and mean it, so they can say no. And use plain words. "Let me check I've got this" beats "What I'm hearing is."
+SENA: And for a Seattle person working with Tokyo colleagues?
+DANIEL: Don't hear "hai" as "I agree." It often means "I'm following you." Say it back in your own words and ask, "Where did I get it wrong?" It's much easier for someone to correct a summary than to correct you.
+SENA: So a summary is a polite way to be corrected.
+DANIEL: That's the best way I've heard it said. Let's make it a skill. It's social awareness, and it has three moves. Hear the reason under the words. Say it in one sentence, in your words, with their reason: "You're worried about X because Y." Ask, "Did I get that right?" Only then: "Here's where I land."
+SENA: Let me try it. You be someone who hates the Monday status meeting.
+DANIEL: "These status meetings are a waste of time. We go through the same slides every week. I'm done."
+SENA: Let me check I've got this. You're frustrated because an hour of your Monday goes to things you could read in five minutes. Did I get that right?
+DANIEL: "Yes! And nobody reads the doc anyway."
+SENA: That's the real problem. Here's where I land: ten minutes, doc sent the night before.
+DANIEL: I'd say yes to that. And notice you found the real problem, "nobody reads the doc," only because I got to correct you.
+DANIEL: Last time's challenge was to step in once with "Can I add something?" Besides slide four, how did it go?
+SENA: I saved the best for now. Later at lunch, while Laura and Kato-san were still talking about Wendell, Kenta said, very quietly, "Can I add something?" Ryo had told him about the morning. Laura said, "Please." And Kenta said, "The check log shows who reviewed every number, and when. If Wendell's numbers go through the same log, we'd know who said ready." Kato-san said, "Kenta, say that again. I want to write it down exactly."
+DANIEL: Kenta, who always starts to speak and stops.
+SENA: He didn't stop.
+DANIEL: And day seven of the mood log?
+SENA: "Heard." Which is funny, because I'm the one who did the hearing. And my look back at seven days: proud, nervous, warm, wired, stretched, braced, heard. The hard words, "wired," "stretched," "braced," came right before something. The good ones came after. So the worst part is the dread, and it comes first.
+DANIEL: That's a real finding about your own weeks. Next time you write "braced," you can remind yourself it's a day-before word. It usually ends in "heard."
+DANIEL: Today's challenge: once today, before you give your opinion, say the other person's point in one sentence, with their reason, and ask, "Did I get that right?" Then say your view.
+SENA: Their reason, not only their words. One sentence, one question, then mine.
+DANIEL: Next time is episode thirty-seven, "Retell in 30 Seconds."
+SENA: And I think it just started. Daniel, my phone. Kato-san, seven fifty-one in the morning.
+DANIEL: What does it say?
+SENA: "Laura asked me to tell you: Wednesday's leadership sync, eight a.m. She'd like thirty seconds from you on where region three stands. Her words: 'Not Mark. Sena.'"
+DANIEL: Thirty seconds, to a leadership team.
+SENA: My whole last month, in thirty seconds. And eight a.m. Wednesday is tomorrow morning. Thanks for listening to Human Curriculum.
+DANIEL: I'm Daniel.
+SENA: And I'm Sena. Hear the reason, say it back, then speak. See you next time.

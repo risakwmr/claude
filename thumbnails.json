@@ -17,6 +17,16 @@
     "reported": true
   },
   "32": {
+    "reported": true,
+    "urgent_reported": true
+  },
+  "34": {
+    "reported": true
+  },
+  "35": {
+    "reported": true
+  },
+  "36": {
     "reported": true
   }
 }

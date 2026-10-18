@@ -130,5 +130,29 @@
   "27-culture": {
     "episode": 27,
     "reported": true
+  },
+  "9-culture": {
+    "episode": 9,
+    "reported": true
+  },
+  "10-culture": {
+    "episode": 10,
+    "reported": true
+  },
+  "28-highlight": {
+    "episode": 28,
+    "reported": true
+  },
+  "28-culture": {
+    "episode": 28,
+    "reported": true
+  },
+  "29-highlight": {
+    "episode": 29,
+    "reported": true
+  },
+  "29-culture": {
+    "episode": 29,
+    "reported": true
   }
 }

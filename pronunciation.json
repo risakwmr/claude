@@ -87,7 +87,7 @@
   "shogi": {
     "episode": 30,
     "reported": true,
-    "next_reported": false
+    "next_reported": true
   },
   "samuku narimashita ne": {
     "episode": 31,
@@ -101,6 +101,11 @@
   },
   "kansai": {
     "episode": 32,
+    "reported": true,
+    "next_reported": false
+  },
+  "kono shiryou": {
+    "episode": 34,
     "reported": true,
     "next_reported": false
   }

@@ -2051,6 +2051,117 @@
       ],
       "thumb_cup": "Say it back, ask if it's right",
       "thumb_pose": "sena_ask"
+    },
+    {
+      "number": 35,
+      "script": "ep35.txt",
+      "title": "Interrupting Politely",
+      "short_title": "Interrupting Politely",
+      "summary": "At a Monday meeting in Tokyo with Laura in the room, Kato-san guesses \"probably seasonal\" about slide four while Ryo freezes, and Sena has about three seconds to step in. She waits for a gap that never comes, then asks Ryo, not the room, \"Can I add something?\" and explains in ten seconds that the April report and the new check count returned orders differently. Daniel shares Katherine Hilton's Stanford research on how American English listeners hear overlapping speech differently (500 listeners; a later survey of about 5,000 as reported by Stanford), with honest limits. He tells the story of Tobias, a VP who locked a launch date into the holiday code freeze while Daniel waited politely for a pause that never came. Japan vs the US: the soft \"Sumimasen, hitotsu dake yoroshii deshou ka?\" and aizuchi in Tokyo, the \"quick add\" flag in Seattle, and how Americans can open the door for Tokyo colleagues. Today's challenge: step in once with \"Can I add something?\", say one thing in about ten seconds, then hand it back.",
+      "practice": "Once today, in a meeting, a call or a group chat, step in with \"Can I add something?\" Say one thing, about ten seconds, on the same topic and at the same volume, then hand it back: \"That's all. Back to you.\"",
+      "sources": [
+        "Hilton (2016), The Perception of Overlapping Speech: Effects of Speaker Prosody and Listener Attitudes, Proceedings of Interspeech 2016",
+        "Stanford Report (May 2, 2018), Stanford researcher examines how people perceive interruptions in conversation (Hilton's survey of about 5,000 American English speakers)"
+      ],
+      "tags": [
+        "interrupting politely",
+        "speaking up in meetings",
+        "meeting etiquette",
+        "overlapping speech",
+        "conversation skills",
+        "EQ",
+        "emotional intelligence",
+        "career",
+        "program manager",
+        "audiobook",
+        "Japanese work culture",
+        "Japan vs US"
+      ],
+      "yt_title": "Can't Get a Word In? How to Jump In Without Being Rude",
+      "hook": "The conversation moves faster than your courage. You wait for a gap, and the meeting moves on.\nHere is a ten-second way to step in without stepping on anyone, and what research says about who hears an interruption.",
+      "points": [
+        "The same words are heard as rude or engaged depending on the listener (Hilton, Stanford)",
+        "Ask the person you are about to interrupt, not the room",
+        "One thing, about ten seconds, same topic, no louder voice, then hand it back",
+        "Daniel's wait for a pause that never came, and the code freeze",
+        "Tokyo's soft ask and aizuchi vs Seattle's \"quick add\" flag"
+      ],
+      "title_ja": "割って入る、感じよく",
+      "hook_ja": "会話は、あなたの勇気より速く進む。すき間を待つあいだに、会議は先へ行ってしまう。\n誰の足も踏まずに入る、10秒の方法と、誰が割り込みと感じるのかについての研究を紹介します。",
+      "points_ja": [
+        "同じ言葉でも、聞き手しだいで失礼にも前向きにも聞こえる（ヒルトン、スタンフォード）",
+        "割り込む相手に、部屋ではなくその人に聞く",
+        "ひとつだけ、10秒くらい、同じ話題で、声は大きくせず、そして返す",
+        "ダニエルが来ない間を待った話と、コード凍結",
+        "東京のやわらかい一言とあいづち、シアトルの「quick add」という合図"
+      ],
+      "summary_ja": "東京での月曜の会議。ローラさんが同席する中、4枚目のスライドについて加藤さんが「たぶん季節要因」と推測を言い、リョウさんが固まります。セナに使える時間は約3秒。来ないすき間を待ったあと、部屋ではなくリョウさんに「Can I add something?」と聞き、4月のレポートと新しいチェックで返品の数え方が違うことを10秒で説明します。ダニエルは、アメリカ英語の聞き手が重なる発話をどう聞くかについての、スタンフォードのキャサリン・ヒルトンの研究を紹介します（500人の実験と、スタンフォードの記事で報じられた約5000人の調査。限界も正直に）。そして、年末のコード凍結期間にリリース日を確定させたVP、トバイアスの前で、来ない間を礼儀正しく待ち続けた自分の失敗談。日本とアメリカでは、東京のそっと入る「ひとつだけよろしいでしょうか」とあいづち、シアトルの「quick add」という合図、そしてアメリカの人が東京の同僚のためにドアを開ける方法を比べます。今日のチャレンジ：「Can I add something?」で一度入り、10秒でひとつ話して、返す。",
+      "practice_ja": "今日一度、会議でも通話でもグループチャットでも、「Can I add something?」で入る。同じ話題で、同じ声の大きさで、ひとつだけ10秒ほど話して、返す。「以上です。お返しします。」",
+      "thumb_accent": "Ten Seconds",
+      "thumb_sub": "Step Into a Conversation in Ten Seconds",
+      "thumb_notes": [
+        "Ask the person first",
+        "One thing, ten seconds",
+        "Same topic, same volume",
+        "Hand it back"
+      ],
+      "thumb_cup": "Can I add something?",
+      "thumb_pose": "sena_jump_in"
+    },
+    {
+      "number": 36,
+      "script": "ep36.txt",
+      "title": "Listen, Summarize, Then Speak",
+      "short_title": "Listen, Summarize, Then Speak",
+      "summary": "At a Monday lunch in Tokyo, Laura talks for four minutes about her worries over region three and then asks Sena what she thinks. Instead of giving five fixes, Sena takes a breath and says back the worry underneath, that nobody owns the word \"ready,\" and asks \"Did I get that right?\" Daniel shares Yeomans, Minson and colleagues' 2020 study of conversational receptiveness (771 writers, 1,548 raters): replies that acknowledged understanding, found agreement and hedged were rated more receptive and a bit more persuasive, with honest limits about online strangers and political topics. He tells the story of Dmitri and Soraya, where his summary of a forty-minute debate was really his own view and cost the team three weeks. Japan vs the US: fukushou, repeating back, in Tokyo restaurants and phone calls, which checks facts but not worries, versus \"What I'm hearing is...\" in Seattle, which can sound like technique, and how Laura's \"What did we decide?\" summarizes the outcome but not the person. Today's challenge: before you give your opinion, say the other person's point with their reason in one sentence and ask \"Did I get that right?\"",
+      "practice": "Once today, before you give your opinion, say the other person's point in one sentence, with their reason (\"You're worried about X because Y\"), and ask, \"Did I get that right?\" Then say your view.",
+      "sources": [
+        "Yeomans, Minson, Collins, Chen & Gino (2020), Conversational receptiveness: Improving engagement with opposing views, Organizational Behavior and Human Decision Processes 160, 131–148"
+      ],
+      "tags": [
+        "active listening",
+        "summarizing",
+        "disagreeing respectfully",
+        "conversational receptiveness",
+        "communication",
+        "EQ",
+        "emotional intelligence",
+        "career",
+        "program manager",
+        "audiobook",
+        "Japanese work culture",
+        "Japan vs US"
+      ],
+      "yt_title": "Want Your Pushback to Land? Say Their Point First",
+      "hook": "You have the answer ready, and so does everyone else. Before you give it, there is one sentence that shows you were listening.\nHere is how to say someone's point back, with their reason, and what research says it does for how you are heard.",
+      "points": [
+        "Replies that said \"I understand\" first were rated more receptive and a bit more persuasive (Yeomans et al., 771 writers, 1,548 raters)",
+        "Say their reason, not only their words: \"You're worried about X because Y\"",
+        "Daniel's summary that was really his own opinion, and Dmitri's quiet vendor demo",
+        "Tokyo's fukushou checks facts, not worries; Seattle's \"What I'm hearing is\" can sound like technique",
+        "Then ask \"Did I get that right?\" and let them say no"
+      ],
+      "title_ja": "聞いて、要約して、それから話す",
+      "hook_ja": "答えは用意できている。ほかのみんなも同じ。それを言う前に、「聞いていた」と伝える一文があります。\n相手の話を、相手の理由と一緒に言い返す方法と、それが伝わり方にもたらすことについての研究を紹介します。",
+      "points_ja": [
+        "先に「わかります」と言った返信は、より受け入れる姿勢があり、説得力も少し高いと評価された（ヨーマンズたち、書き手771人・評価者1548人）",
+        "言葉だけでなく理由を言う。「Yが理由で、Xが心配なんですね」",
+        "ダニエルの、実は自分の意見だった要約と、ドミトリの静かなベンダーデモ",
+        "東京の復唱は事実を確かめ、心配は確かめない。シアトルの「What I'm hearing is」はテクニックに聞こえることがある",
+        "最後に「合っていますか？」と聞いて、相手が「違う」と言えるようにする"
+      ],
+      "summary_ja": "月曜の東京でのランチ。ローラさんがリージョン3の不安を4分間話し、セナに「どう思う？」と聞きます。セナは5つの解決策を出す代わりに、一呼吸おいて、その下にある心配、「誰も『準備できた』を持っていない」ことを言い返し、「合っていますか？」と聞きます。ダニエルは、ヨーマンズ、ミンソンたちの2020年の研究「Conversational receptiveness」（書き手771人、評価者1548人）を紹介します。「わかります」と伝え、同意できる点を見つけ、ぼかして書いた返信は、より受け入れる姿勢があり、説得力も少し高いと評価されました（相手はオンラインの見知らぬ人で政治的なテーマ、という限界も正直に）。そして、40分の議論の要約が実は自分の意見で、チームに3週間のむだをさせた、ドミトリとソラヤの話。日本とアメリカでは、東京のお店や電話での「復唱」が事実は確かめても心配は確かめないこと、シアトルの「What I'm hearing is…」がテクニックに聞こえうること、ローラさんの「What did we decide?」が結果は要約しても人は要約しないことを比べます。今日のチャレンジ：自分の意見を言う前に、相手の話を理由と一緒に一文で言い、「合っていますか？」と聞く。",
+      "practice_ja": "今日一度、自分の意見を言う前に、相手の話を、相手の理由と一緒に一文で言う（「Yが理由で、Xが心配なんですね」）。そして「Did I get that right?」と聞く。そのあとで、自分の考えを言う。",
+      "thumb_accent": "You Heard",
+      "thumb_sub": "Show You Heard Before You Disagree",
+      "thumb_notes": [
+        "Hear the reason",
+        "Say it in one sentence",
+        "Ask: did I get that right?",
+        "Then give your view"
+      ],
+      "thumb_cup": "Say their point first",
+      "thumb_pose": "sena_turn"
     }
   ]
 }

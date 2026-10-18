@@ -2,7 +2,7 @@
 
 Each episode gives up to five Shorts (see src/make_short.py): ai, highlight, story, culture, lab.
 Its highlight and culture Shorts (COMPANIONS) go public at the same moment as the episode.
-The rest, and Shorts of older episodes, go up one per scheduled run at 08:00 or 18:00 JST
+The rest, and Shorts of older episodes, go up one per scheduled run at 04:00, 08:00 or 22:00 JST
 (SHORT_SLOTS_JST), about 2 a day, so a day stays near 8 uploads, under YouTube's daily upload limit.
 The order mixes kinds and episodes, so the same episode doesn't fill a whole day, and a Short is only made
 for an episode that is public by the time the Short goes public, so its "Full episode" link works.
@@ -22,7 +22,7 @@ from slot import JST, fmt, parse  # noqa: E402
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SHORTS_FILE = os.path.join(ROOT, "shorts.json")
-LEAD = timedelta(hours=12)  # scheduled runs come at 09:00 and 21:00 JST
+LEAD = timedelta(hours=12)  # scheduled runs come at 06:00 and 21:00 JST
 # spreads an episode's Shorts over a few days. "ai" ("AI can X, not Y") Shorts drew the fewest views in the first
 # week (Oct 2026), so they come last; first-person stories, studies and practical phrases did best.
 # Oct 17 2026: "story" Shorts averaged ~17 views vs ~48 for "culture", so culture moved up (it now goes public with
@@ -32,9 +32,9 @@ KIND_ORDER = list(OFFSET)
 
 
 def slots_jst():
-    raw = os.environ.get("SHORT_SLOTS_JST") or "8,18"
+    raw = os.environ.get("SHORT_SLOTS_JST") or "4,8,22"
     hours = sorted({int(h) % 24 for h in raw.replace(" ", "").split(",") if h.strip()})
-    return hours or [8, 18]
+    return hours or [4, 8, 22]
 
 
 def load(path):
@@ -116,7 +116,7 @@ def plan(now=None):
 
     1. Companions: an episode that goes public within LEAD (or went public in the last hour) gets its
        COMPANIONS Shorts (highlight, culture) scheduled for the same moment, so the Shorts and the episode come out together.
-    2. Backlog: one older Short per run, at the next 08:00 / 18:00 JST slot (SHORT_SLOTS_JST)."""
+    2. Backlog: one older Short per run, at the next 04:00 / 08:00 / 22:00 JST slot (SHORT_SLOTS_JST)."""
     now = now or datetime.now(timezone.utc)
     data = load_shorts()
     published = load(os.path.join(ROOT, "published.json"))

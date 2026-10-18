@@ -68,7 +68,7 @@
     "result": "ok"
   },
   "channel": {
-    "at": "2026-10-18T02:06:27Z",
+    "at": "2026-10-18T15:11:00Z",
     "result": "Human Curriculum | Work Skills AI Can't Do (UCSaZaQp7Ao--E-UrkQ4RnXg)"
   },
   "captions:hj8EgYR2ORo": {
@@ -834,5 +834,49 @@
   "captions-ko:igbmiE3tGX4": {
     "at": "2026-10-18T02:32:31Z",
     "result": "ok"
+  },
+  "captions:jDssD1EDbt8": {
+    "at": "2026-10-18T15:27:03Z",
+    "result": "ok"
+  },
+  "captions-en:jDssD1EDbt8": {
+    "at": "2026-10-18T15:27:04Z",
+    "result": "ok"
+  },
+  "captions-es:jDssD1EDbt8": {
+    "at": "2026-10-18T15:27:05Z",
+    "result": "ok"
+  },
+  "captions-pt:jDssD1EDbt8": {
+    "at": "2026-10-18T15:27:06Z",
+    "result": "ok"
+  },
+  "captions-id:jDssD1EDbt8": {
+    "at": "2026-10-18T15:27:07Z",
+    "result": "ok"
+  },
+  "captions-fr:jDssD1EDbt8": {
+    "at": "2026-10-18T15:27:07Z",
+    "result": "ok"
+  },
+  "captions-zh-TW:jDssD1EDbt8": {
+    "at": "2026-10-18T15:27:08Z",
+    "result": "ok"
+  },
+  "captions-ko:jDssD1EDbt8": {
+    "at": "2026-10-18T15:27:09Z",
+    "result": "ok"
+  },
+  "short:29-highlight": {
+    "at": "2026-10-18T15:29:24Z",
+    "result": "ok GS0RIhBtVqc"
+  },
+  "short:29-culture": {
+    "at": "2026-10-18T15:29:27Z",
+    "result": "ok 0-EuKs6PDGE"
+  },
+  "short:10-culture": {
+    "at": "2026-10-18T15:29:29Z",
+    "result": "ok bM6OnDaSzL0"
   }
 }

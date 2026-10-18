@@ -283,7 +283,7 @@ LEFT ~40%: cream paper panel with torn edges and coral and sky-blue watercolor b
 
 RIGHT ~60%: a bright, sunny watercolor illustration, soft anime-style but refined (like the reference thumbnails).
 - Sena: Japanese woman in her late 20s, long wavy light-brown hair, black sunglasses pushed up on her head, small gold hoop earrings, chunky dusty-pink knit sweater, cream wide-leg trousers, white sneakers, black shoulder bag, office lanyard. Same face as in the reference thumbnails.
-- Scene: a bright Tokyo riverside boardwalk at golden-hour morning, a low three-quarter view from the side. Sena stands calmly with one hand raised palm-out and the other on her chest, taking one slow breath, while a large glowing hourglass floats beside her with its golden sand slowing into a soft ribbon and a small speech bubble reading "Let me think" rising from it (visual metaphor for buying time). Sunbeams, ginkgo leaves drifting. Her expression is calm and confident. No desk, laptop or coffee cup.
+- Scene: a quiet modern museum exhibition hall in soft afternoon light, pale walls and a polished floor. A giant glass hourglass, twice her height, stands in the middle of the hall; Sena sits ON TOP of its wooden frame, legs dangling over the edge and crossed at the ankles, leaning slightly forward with one hand raised in a gentle "one moment" gesture and the other resting on the frame beside her. Inside, the golden sand slows into a soft ribbon, and a small speech bubble reading "Let me think" floats up from it (visual metaphor for buying time). Worm's-eye view from the floor, three-quarter from her left, camera looking steeply up. Her expression is calm, relaxed and confident. No desk, laptop or coffee cup.
 - Around her, 4 handwritten notes in navy pen on small torn paper scraps or written in the air, each with a coral underline or a small heart: "Label the pause", "Breathe once", "Say what you know", "Name a time"
 
 Keep the warm light, the soft watercolor texture and the cheerful, hopeful mood. No other text, no logos, no watermarks.
@@ -305,9 +305,10 @@ LEFT ~40%: cream paper panel with torn edges and coral and sky-blue watercolor b
 
 RIGHT ~60%: a bright, sunny watercolor illustration, soft anime-style but refined (like the reference thumbnails).
 - Sena: Japanese woman in her late 20s, long wavy light-brown hair, black sunglasses pushed up on her head, small gold hoop earrings, chunky dusty-pink knit sweater, cream wide-leg trousers, white sneakers, black shoulder bag, office lanyard. Same face as in the reference thumbnails.
-- Scene: a sunny stone-paved lane in an old Tokyo shopping street (shotengai) at midday, a wide eye-level front view. Sena holds up a large hand-held magnifying glass toward a floating oversized paper note with a fuzzy cloud scribble on it; through the glass the scribble sharpens into one clear tidy sentence (visual metaphor for clarifying a vague request). Paper lanterns overhead, warm sunbeams. Her expression is curious and friendly. No desk, laptop or coffee cup.
+- Scene: a tall old Tokyo library reading room with wooden shelves up to the ceiling and warm sunbeams through high windows. Sena stands two-thirds of the way up a rolling library ladder, one foot on a rung and the other lifted behind her, leaning far out sideways from the ladder in a strong diagonal, one hand gripping the rail and the other stretching out a large magnifying glass toward a floating oversized paper note with a fuzzy cloud scribble on it; through the glass the scribble sharpens into one clear tidy sentence (visual metaphor for clarifying a vague request). Low angle from the foot of the ladder, side view, her hair and sweater swinging with the lean. Her expression is curious and focused. No desk, laptop or coffee cup.
 - Around her, 4 handwritten notes in navy pen on small torn paper scraps or written in the air, each with a coral underline or a small heart: "Say what you heard", "Be specific", "End with a question", "Fix only what's off"
 
 Keep the warm light, the soft watercolor texture and the cheerful, hopeful mood. No other text, no logos, no watermarks.
 ```
+
 

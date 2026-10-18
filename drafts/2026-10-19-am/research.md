@@ -1,10 +1,97 @@
-# research-b｜2026-10-19-am
+# research｜2026-10-19-am（問い1・2・5＝担当A、問い3・4＝担当B を合わせたもの）
 
+確認日：2026-10-19。数値はすべて担当者が論文本文・報告書・公的文書で確かめたもの。
+注：AI事業者ガイドラインには「従業員は会社のルールを確認すること」という文言はない。「ガイドラインがそう求めている」とは書かない。サービスの設定（学習に使わない設定など）は未確認で、使うなら公開直前に確認日を付ける。
+
+## 担当Aの全体注意
+担当：brief.md「リサーチ係への問い」の 1・2・5（3・4 は別担当）
+調査日：2026-10-18
+
+## 担当Bの全体注意
 担当：brief.md「リサーチ係への問い」の **3・4 のみ**（1・2・5 は別の担当の research.md）。
 調べた日：2026-10-18（日本時間）。
 
-## 問いごとの答え
+## 問い1・2・5（担当A）
+### 問い1：会社の方針に反する使い方をした人、会社の情報を外部のAIに入れた人はどのくらいいるか（KPMG × メルボルン大学 2025）
 
+- 分かっていること：
+  - 47か国の働く人を対象にした大きな調査で、職場でAIを使う人のおよそ半分が、少なくとも一度は「会社の方針・ガイドラインに反する使い方」や「会社の情報を公開AIツールにアップロード」をしたと答えている。
+  - **brief の疑問への答え**：記事で広く引用される「ほぼ半数が方針に反する」「57%が隠して使う」は**47か国全体の値**。**分母は「職場でAIを使っている従業員」**（全回答者ではない）。報告書の本文に "Almost one in two employees who use AI admit to doing so in ways that contravene organizational policies and guidelines" とある。
+  - **「48%」には「まれに（Rarely）」が含まれる**。設問は "At your work, how often have you…" の頻度で、答えは「Never／Rarely／Sometimes〜Very often」に分けて報告されている。「アップロードした」48% は、Rarely 14% と Sometimes〜Very often 34% を足した値。「日常的に入れている人が半分」とは読めない。
+  - 同じ調査で、「許されているか分からないまま職場でAIツールを使った」が 56%。勤め先に生成AIの方針・ガイダンスがあると答えた人は約4割（34%＋禁止の方針6%）で、19% は「分からない」と答えている。→ 記事の前提（ルールを知らないまま使っている人が多い）に一番近いデータ。
+  - 報告書は、「生成AIを禁止している」と答えた人の職場（67%）や、方針がある職場（56%）のほうが、方針がない職場（33%）や方針があるか分からない人（38%）より、こうした行動が多いとも書いている。著者は「禁止だけでは効かない可能性」と解釈しているが、相関であり因果は分からない。
+  - **日本の数値あり**（KPMG の日本版スナップショット）：「方針やガイドラインに反する使い方をした」37%、「AIの出力を正確か確かめずに使った」56%、「AIが作った内容を自分のものとして出した」42%。ただし、**日本版には「会社の情報を公開AIに入れた」の値は載っていない**（見つからなかった）。
+- 根拠：Gillespie, N., Lockey, S., Ward, T., Macdade, A., & Hassed, G. (2025). *Trust, attitudes and use of artificial intelligence: A global study 2025.* The University of Melbourne and KPMG. DOI 10.26188/28822919（種類：調査報告／**査読なし**。メルボルン大学の研究チームが設計・分析し、KPMG とメルボルン大学が資金を出している）
+  - 確認した場所：
+    - 報告書本文 PDF：https://assets.kpmg.com/content/dam/kpmgsites/xx/pdf/2025/05/trust-attitudes-and-use-of-ai-global-report.pdf（p.6, 13, 15, 71, 75, 76, 107 を読んだ）
+    - 日本版スナップショット PDF：https://assets.kpmg.com/content/dam/kpmgsites/xx/pdf/2025/05/trust-attitudes-and-use-of-ai-japan-snapshot.pdf（p.2「Workplace indicators」）
+    - KPMG の要約版（The age of Intelligence）PDF：https://kpmg.com/kpmg-us/content/dam/kpmg/pdf/2025/trust-attitudes-artificial-intelligence-executive-summary.pdf（p.8, 12）
+  - 調査の概要（確認済み）：オンライン調査。2024年11月〜2025年1月中旬。47か国で 48,340人（各国 1,001〜1,098人）。年齢・性別・地域は各国の人口に合わせた調査パネル。そのうち働いている人 32,352人が職場のAIの設問に答えた。
+  - 使える数値（いずれも47か国全体）：
+    - 「会社の情報（財務・営業・顧客情報など）を公開AIツールにアップロードした」：**48%**（Rarely 14%＋Sometimes〜Very often 34%。p.75–76 Figure 44。設問 "Uploaded company information into a public AI tool"）（確認済み）
+    - 「方針・ガイドラインに反する使い方をした」：**44%**（Rarely 13%＋Sometimes〜Very often 31%。設問 "Used AI in ways that contravene policies or guidelines"）（確認済み）
+    - 「許されているか分からないまま、職場でAIツールを使った」：**56%**（Rarely 18%＋Sometimes〜Very often 38%。設問 "Used AI tools at work without knowing whether it is allowed"）（確認済み）
+    - 「AIを使ったことを言わなかった」：**61%**（Rarely 19%＋Sometimes〜Very often 42%。設問 "Avoided revealing when you've used AI tools in your work"）（確認済み）
+    - 「AIが作った内容を自分のものとして出した」：**55%**（Rarely 16%＋Sometimes〜Very often 39%）（確認済み。Figure 44 の値の足し算。報告書の文章は、言わなかった・自分のものとして出したを合わせて「Over half (57%)」と書いている）
+    - 生成AIの方針・ガイダンス（本人の回答）：方針あり 34%／禁止の方針あり 6%／なし 41%／分からない 19%（p.71 Figure 41。設問 "Has your organization put in place a policy or provided guidance on the use of generative AI at work?"）（確認済み）
+    - 仕事で使うAIの入手方法：無料の公開ツール 70%／会社が用意したツール 42%／有料の公開ツール 18%（p.71 Figure 40。複数回答）（確認済み）
+    - 職場でAIを（数か月に1回以上）使っている人：全体 58%、日本 44%（p.73 Figure 43）（確認済み）
+    - 日本：「方針やガイドラインに反する使い方をした」**37%**（日本版 p.2）（確認済み）
+- 限界・注意：
+  - **調査報告で、査読を受けた論文ではない**。調査に関わった会社（KPMG）はAIのガバナンス支援も仕事にしている。
+  - 本人の申告で、行動を観察したものではない。報告書自身が「匿名にしたが、言いにくい行動なので少なめに出ている可能性がある（social desirability bias）」と書いている。
+  - 「Rarely（まれに）」も含めた割合。「会社の情報」の中身（どの程度の機密か）は分からない。「方針に反する」も本人の認識。
+  - 日本版の 37% が全体版と同じ集計（Rarely 込み・AIを使う従業員が分母）かどうかは、日本版のページに書かれていない。全体版の 44% と同じ設問の国別の値と考えられるが、**分母の明記はない**。日本の「職場でAIを使う」は、日本版では 55%（intentionally use AI at work）、全体版の国別グラフでは 44%（数か月に1回以上）で、定義が違うらしく一致しない。記事で日本の利用率を出すなら、どちらの定義か書く。
+  - 調査は2024年末〜2025年初め。会社の方針や社内AIの導入は速く変わっているので、「2024年末〜2025年初めの調査」と時点を書く。
+  - 平均の傾向で、読者の職場や本人に当てはまるとは限らない。
+
+### 問い2：「シャドーAI」「BYOAI」の査読済み研究・レビューはあるか。なぜ人は会社のルールを確かめずに使うのか
+
+- 分かっていること：
+  - **シャドーAIそのものの査読済み研究は、まだ少ない**。見つかったのは小規模な混合研究1本（Silic ら 2025）と、文献を分析した学会論文1本（Perozzo ら 2025、査読の有無は未確認）。数字の多くは企業・ベンダーの調査で、このテーマの meta-analysis や systematic review は見つからなかった。
+  - Silic, Silic & Kind-Trüller（2025、Strategic Change、査読誌）：専門職 140人へのアンケートと経営層 10人へのインタビュー。シャドーAI（会社が認めていないAIツールを使うこと）を「技術だけでなく組織の仕組みの問題（ガバナンスの失敗）」と位置づけた。「方針が形だけあって、現場で効いていない状態（governance drift zone）」がある、と述べている。対策の案は、使ってよいAIツールの一覧（registry）、役割に合わせた研修、社内監査、相談・報告ルート（escalation protocol）など。※確認できたのは抄録（Crossref のデータ）だけで、本文の数値は読んでいない。
+  - **「なぜ確かめずに使うのか」を直接、量的に調べた査読済み研究は見つからなかった**。間接的に関係する根拠は次のとおり：
+    - **ルールを知らない・分からない**：KPMG 2025（査読なし）で、職場でAIを使う人の 56% が「許されているか分からないまま使った」と答え、19% は会社に方針があるか「分からない」と答えた（問い1）。
+    - **使ったと言いにくい（聞きにくさにつながる可能性）**：Reif, Larrick & Soll（2025、PNAS、査読済み）の事前登録した4つの実験（合計 N=4,439）で、仕事でAIを使う人は「能力ややる気を低く見られる」と予想しており、実際にそう評価されていた。研究1では、AIツールを使う場面を想像した人のほうが、AIでないツールの場面の人より、上司や同僚に使ったことを伝えたがらなかった。ただし、これは「伝えるか」の実験で、「ルールを聞くか」を調べたものではない。記事でつなげるなら「聞きにくさの背景の一つかもしれない」程度にとどめる。
+    - **仕事量・自分で何とかする**：Microsoft・LinkedIn の Work Trend Index 2024（企業の調査、査読なし）で、AIを使う人の 78% が自分のAIツールを職場に持ち込んでいる（BYOAI）。Microsoft は背景として、仕事量の多さと、会社にAIの方針・計画がないこと（リーダーの 60%）を挙げている。同じ調査で、AIを使う人の 52% が「一番大事な仕事でAIを使っていると認めたがらない」と答えた。
+  - BYOAI と「ルール違反」は同じではない。自分のツールを持ち込むことを会社が認めている場合もあるので、「78%が違反」とは書かない。
+- 根拠：
+  - Silic, M., Silic, D., & Kind-Trüller, K. (2025). From Shadow IT to Shadow AI: Threats, Risks and Opportunities for Organizations. *Strategic Change*. https://doi.org/10.1002/jsc.2682（種類：混合研究（アンケート＋インタビュー）／査読済み）
+    - 確認した場所：Crossref の書誌データと抄録 https://api.crossref.org/works/10.1002/jsc.2682（Wiley のページは 403 で開けなかった）
+    - 使える数値：「専門職 140人のアンケート、経営層 10人のインタビュー」（確認済み・抄録）。結果の割合は**未確認**（本文を読めていない）
+  - Reif, J. A., Larrick, R. P., & Soll, J. B. (2025). Evidence of a social evaluation penalty for using AI. *PNAS*, 122. https://doi.org/10.1073/pnas.2426766122（種類：事前登録した実験4つ／査読済み）
+    - 確認した場所：本文（PMC）https://pmc.ncbi.nlm.nih.gov/articles/PMC12088386/
+    - 使える数値：「4つの事前登録実験、N = 4,439」（確認済み）。研究1（分析対象 497人）：上司に伝えたい気持ち 4.91 対 5.25（p=0.016）、同僚に 4.85 対 5.17（p=0.026）（確認済み。点数の差は小さいので、記事では数値より「伝えたがらない傾向があった」と書くほうが誤解が少ない）
+  - Microsoft & LinkedIn (2024). *2024 Work Trend Index Annual Report: AI at Work Is Here. Now Comes the Hard Part.*（種類：企業の調査／査読なし。調査は Edelman Data & Intelligence）
+    - 確認した場所：https://www.microsoft.com/en-us/worklab/work-trend-index/ai-at-work-is-here-now-comes-the-hard-part ／ プレスリリース https://news.microsoft.com/source/?p=19728（2024-05-08）
+    - 使える数値：「AIを使う人の 78% が自分のAIツールを職場に持ち込んでいる（BYOAI）」「AIを使う人の 52% が、一番大事な仕事でAIを使っていると認めたがらない」「53% が、大事な仕事でAIを使うと自分が替えのきく人に見えると心配している」（確認済み）。調査：31の国・地域、ナレッジワーカー 31,000人（各市場 1,000人）、2024年2月15日〜3月28日（確認済み）
+  - （参考・数値なし）Perozzo, H., Ravarini, A., Strada, E., & Valentini, J. (2025). From Shadows to Syntax: Tracing the Evolution from Shadow IT to Shadow Generative AI in Organizations. ITAIS 2025 Proceedings, 35.（種類：文献ネットワーク分析／学会論文、査読の有無は**未確認**）
+    - 確認した場所：https://aisel.aisnet.org/itais2025/35（抄録）。シャドーIT からシャドー生成AIへのつながりを整理したもので、理由を量的に調べたものではない
+- 限界・注意：
+  - シャドーAIの研究は始まったばかりで、査読済みの量的研究はほぼない。「研究で、人がルールを確かめない理由が分かっている」とは**書けない**。
+  - Reif らは米国のオンラインパネル（Prolific など）の実験で、実際の職場ではない。著者も、AIが普及すると変わる可能性があると書いている。
+  - Microsoft はAIツールを売る会社で、BYOAI のリスクを強調するのは自社に有利な面がある。
+  - 記事では「研究で分かっていること」（KPMG：分からないまま使う人が多い／Reif：使ったと言いにくい）と、「Claudeの提案」（確かめる手順を決めておく）を分けて書く。
+
+### 問い5（任意）：忙しいとき・疲れているときに、ルールの確認や慎重な判断を省きやすくなるか
+
+- 分かっていること：
+  - **AIの利用や情報の入力を対象にした研究は見つからなかった**。近い分野の研究が2つある。
+  - 医療の現場の観察研究（Dai ら 2015、査読済み）：米国 35病院の介護・医療スタッフ 4,157人以上のデータで、手指衛生のルールを守る割合は、12時間勤務の始めから終わりにかけて平均 8.7 ポイント下がった（回帰による推定）。仕事が立て込んでいるほど下がり方が大きく、勤務の間の休みが長いと次の勤務で守る割合が戻った。「長く働いて疲れると、分かっているルールでも守りにくくなる」ことを、実際の職場の大きなデータで示した研究。
+  - サイバーセキュリティ行動の systematic review（Chowdhury ら 2019、査読済み）：時間に追われる（time pressure）とセキュリティ行動にどう影響するかを、21本の研究から整理した。抄録には、時間に追われると認知的な負担やストレスが増え、行動に悪い影響が出うるとあり、研究はまだ少ないとも書かれている。効果の大きさをまとめた meta-analysis ではない。
+- 根拠：
+  - Dai, H., Milkman, K. L., Hofmann, D. A., & Staats, B. R. (2015). The impact of time at work and time off from work on rule compliance: The case of hand hygiene in health care. *Journal of Applied Psychology*, 100(3), 846–862. https://doi.org/10.1037/a0038067（種類：観察研究（縦断データ）／査読済み）
+    - 確認した場所：抄録（Europe PMC、PMID 25365728）https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI:10.1037/a0038067&resultType=core&format=json ／ 米国 AHRQ（公的機関）の要約 https://psnet.ahrq.gov/issue/impact-time-work-and-time-work-rule-compliance-case-hand-hygiene-health-care
+    - 使える数値：「35病院・4,157人以上」「12時間勤務の始めから終わりにかけて、平均 8.7 ポイント低下（回帰による推定）」（確認済み・抄録）。「最初の1時間の遵守率は約43%、12時間勤務の最後の1時間は35%」（確認済み・AHRQ の要約）
+  - Chowdhury, N. H., Adam, M. T. P., & Skinner, G. (2019). The impact of time pressure on cybersecurity behaviour: a systematic literature review. *Behaviour & Information Technology*, 38(12), 1290–1308. https://doi.org/10.1080/0144929X.2019.1583769（種類：systematic review／査読済み）
+    - 確認した場所：抄録（RePEc/IDEAS）https://ideas.repec.org/a/taf/tbitxx/v38y2019i12p1290-1308.html
+    - 使える数値：「21本の研究を整理」（確認済み）。効果の大きさの数値はない
+- 限界・注意：
+  - Dai らは医療現場の手洗いで、オフィスワークやAIへの情報の入力ではない。記事では「別の分野だが」と断ってから「疲れると、分かっているルールでも守りにくくなる傾向が報告されている」程度に使う。
+  - 研究が対象にしているのは「時間・疲れ」で、うつ・ADHD・PMDD などの「調子が低い日」を調べたものではない。**研究からSena個人や特定の病気・特性の人について推測しない**。
+  - 「調子が低い日は『迷ったら入れない』を初期値にする」は**Claudeの提案**として書き、「研究が示したものではない」と明記する（RULES 5.5）。
+
+## 問い3・4（担当B）
 ### 問い3：生成AIに入力した情報が、学習や出力を通じて外に出る可能性（研究で分かっていること・分かっていないこと）
 
 - 分かっていること：
@@ -100,6 +187,11 @@
   - 外資系企業で働く読者の場合、会社のルールは本社の方針や海外の法令にも基づくことが多く、日本のガイドラインはあくまで参考の一つ。
 
 ## 分かっていないこと
+- 「どんな理由で、人は会社のAIルールを確かめずに使うのか」を、査読済みの量的研究で直接調べたものは見つからなかった（ルールを知らない、確認が面倒、聞きにくい、などの割合）。
+- 「会社の情報を公開AIに入れた」日本の割合（KPMG の日本版にはない）。日本の他の調査（総務省の白書や民間調査など）は今回は調べていない。
+- 公開AIに会社の情報を入れたことで、実際にどのくらい情報が漏れたり問題になったりしたか（KPMG は行動の割合だけで、その結果は調べていない）。
+- 疲れ・時間に追われることと「AIに何を入れるか」の判断の関係（直接の研究なし）。
+- 会社に「方針がある」と「守られる」の関係は、KPMG では相関しか分からない（禁止している職場ほど違反の申告が多いが、原因と結果は分からない）。
 
 - 普通に使っている利用者が仕事の情報を入力したとき、それが別の利用者への回答に出てくる**確率**。研究は「攻撃したら何が出るか」が中心で、日常の使い方でのリスクの大きさは分かっていない。
 - 利用者がチャットに入力した内容（社内資料など）が、学習を経て別の利用者に出てきたことを示した**査読研究**（今回の検索では見つからなかった）。
@@ -107,7 +199,15 @@
 - 「学習に使わない」設定や法人向けプランで、実際にどの程度リスクが下がるかを第三者が検証した研究（見つからなかった。事業者の説明はあるが研究ではない）。
 - 日本の公的文書で、**従業員個人に向けて**「入力してよい情報／いけない情報」を具体的に列挙したもの（見つからなかった。公的文書は事業者向けで、具体的な線引きは各社に委ねている）。
 
-## 使わないほうがよい情報（理由つき）
+## 使わないほうがよい情報
+- 「57%の従業員がAIの使用を隠している」：メルボルン大学のニュースリリースや多くの記事で出ている数字だが、**報告書の「57%」は「言わなかった」と「自分のものとして出した」を合わせた non-transparent use の値**。要約版では「61% avoid revealing」とも書かれていて、媒体によって数字が違う。使うなら報告書の Figure 44 の個別の値（言わなかった 61%）と設問文を添える。単に「57%が隠す」とは書かない。
+- 「従業員の40%しか、職場に方針があると言っていない」：方針あり 34%＋禁止 6% を足した値。要約版は「34%」と書いていて混乱しやすい。使うなら「方針（禁止を含む）があると答えたのは約4割、19%は分からない」と書く。
+- 「48%の従業員が会社の機密データを ChatGPT に入れている」のような言い換え：設問は「公開AIツール」で ChatGPT に限らない。「機密」かどうかも聞いていない。Rarely 込みの値。ニュース記事で広まっている言い方で、誤解されやすい。
+- ベンダー・セキュリティ企業の「シャドーAI」調査の数値（ManageEngine「93%が承認なしに情報を入力」、UpGuard「81%」、BlackFog「49%」、1Password「37%が方針を守らない」、CybSafe「38%が機密を共有」など）：**孫引きで、原典を読んでいない（未確認）**。サンプルや設問がそれぞれ違い、自社製品の販売につながる調査が多い。
+- Deel のブログが引用している「Computers & Security の 433人の研究（方針が明確だと抜け道を使う意図が減り、方針が多すぎると増える）」：原典を見つけられなかった（**未確認**）。
+- Haag & Eckhardt 2015（PACIS）「Justifying Shadow IT Usage」：研究の計画（research-in-progress）で、結果は出ていない。根拠には使えない。
+- 「意志の力は使うと減る（ego depletion）」や「判事は昼食前に厳しくなる（Danziger ら 2011）」：「疲れると判断が雑になる」話でよく引用されるが、ego depletion は大規模な追試で効果がほぼ見られなかった（Hagger ら 2016 の多施設の追試など）。判事の研究には事件の順番などによる別の説明が出されている。どちらも議論が続いているので使わない（今回は原典を読み直していない）。
+- 「日本で職場でAIを使う人は55%」と「44%」：KPMG の日本版と全体版で定義が違うらしく値が違う。使うならどちらの定義か書くか、使わない。
 
 - **「サムスンの社員がChatGPTに社内のソースコードを入力して漏えいした」（2023年）**：報道で広く知られているが、今回は一次資料（会社の発表や報道の原文）を確認していない＝未確認。また「学習を通じて外に出た」と誤解されやすい（報道の多くは、外部サービスに社外秘を入れたこと自体を問題にしている）。使うなら報道元を確認し、「漏えいした」ではなく「社内で問題になり、利用を制限した」程度の言い方にする。
 - **ChatGPT の不具合（2023年3月）で「ChatGPT Plus の有料会員の1.2%の支払い情報が見えた可能性」**：検索結果の要約に出てきた数値。OpenAI の公式ページ（https://openai.com/index/march-20-chatgpt-outage/ ）が 403 で直接読めなかったため未確認。使うなら書き手が公式ページを直接確認する。
@@ -118,12 +218,18 @@
 - **第1.0版・第1.1版の内容を引用した解説記事**：古い版の可能性がある。引用は第1.2版の本文から。
 
 ## 参考文献（記事末尾にそのまま使える形）
-
-- Carlini, N., Tramèr, F., Wallace, E., Jagielski, M., Herbert-Voss, A., Lee, K., Roberts, A., Brown, T., Song, D., Erlingsson, Ú., Oprea, A., & Raffel, C. (2021). Extracting Training Data from Large Language Models. *30th USENIX Security Symposium*. https://www.usenix.org/conference/usenixsecurity21/presentation/carlini-extracting
 - Carlini, N., Ippolito, D., Jagielski, M., Lee, K., Tramèr, F., & Zhang, C. (2023). Quantifying Memorization Across Neural Language Models. *International Conference on Learning Representations (ICLR 2023)*. https://arxiv.org/abs/2202.07646
-- Nasr, M., Rando, J., Carlini, N., Hayase, J., Jagielski, M., Cooper, A. F., Ippolito, D., Choquette-Choo, C. A., Tramèr, F., & Lee, K. (2025). Scalable Extraction of Training Data from Aligned, Production Language Models. *ICLR 2025*. https://proceedings.iclr.cc/paper_files/paper/2025/hash/cce0e917b050208170151f77b497fc71-Abstract-Conference.html （査読前版：https://arxiv.org/abs/2311.17035 ）
-- Sander, T., Jayaraman, B., Ibrahim, M., Chaudhuri, K., & Guo, C. (2025). Rethinking the Role of Verbatim Memorization in LLM Privacy. *NeurIPS 2025*. https://neurips.cc/virtual/2025/poster/117464
+- Carlini, N., Tramèr, F., Wallace, E., Jagielski, M., Herbert-Voss, A., Lee, K., Roberts, A., Brown, T., Song, D., Erlingsson, Ú., Oprea, A., & Raffel, C. (2021). Extracting Training Data from Large Language Models. *30th USENIX Security Symposium*. https://www.usenix.org/conference/usenixsecurity21/presentation/carlini-extracting
+- Chowdhury, N. H., Adam, M. T. P., & Skinner, G. (2019). The impact of time pressure on cybersecurity behaviour: a systematic literature review. *Behaviour & Information Technology*, 38(12), 1290–1308. https://doi.org/10.1080/0144929X.2019.1583769
+- Dai, H., Milkman, K. L., Hofmann, D. A., & Staats, B. R. (2015). The impact of time at work and time off from work on rule compliance: The case of hand hygiene in health care. *Journal of Applied Psychology*, 100(3), 846–862. https://doi.org/10.1037/a0038067
+- Gillespie, N., Lockey, S., Ward, T., Macdade, A., & Hassed, G. (2025). *Trust, attitudes and use of artificial intelligence: A global study 2025.* The University of Melbourne and KPMG. https://doi.org/10.26188/28822919 （調査報告・査読なし）
+- KPMG & The University of Melbourne (2025). *Trust, attitudes and use of artificial intelligence: A global study 2025 — Japan insights.* https://assets.kpmg.com/content/dam/kpmgsites/xx/pdf/2025/05/trust-attitudes-and-use-of-ai-japan-snapshot.pdf （調査報告・査読なし）
+- Microsoft & LinkedIn (2024). *2024 Work Trend Index Annual Report: AI at Work Is Here. Now Comes the Hard Part.* https://www.microsoft.com/en-us/worklab/work-trend-index/ai-at-work-is-here-now-comes-the-hard-part （企業の調査・査読なし）
 - Miranda, M., Ruzzetti, E. S., Santilli, A., Zanzotto, F. M., Bratières, S., & Rodolà, E. (2025). Preserving Privacy in Large Language Models: A Survey on Current Threats and Solutions. *Transactions on Machine Learning Research*. https://mlanthology.org/tmlr/2025/miranda2025tmlr-preserving
+- Nasr, M., Rando, J., Carlini, N., Hayase, J., Jagielski, M., Cooper, A. F., Ippolito, D., Choquette-Choo, C. A., Tramèr, F., & Lee, K. (2025). Scalable Extraction of Training Data from Aligned, Production Language Models. *ICLR 2025*. https://proceedings.iclr.cc/paper_files/paper/2025/hash/cce0e917b050208170151f77b497fc71-Abstract-Conference.html （査読前版：https://arxiv.org/abs/2311.17035 ）
+- Reif, J. A., Larrick, R. P., & Soll, J. B. (2025). Evidence of a social evaluation penalty for using AI. *Proceedings of the National Academy of Sciences*, 122. https://doi.org/10.1073/pnas.2426766122
+- Sander, T., Jayaraman, B., Ibrahim, M., Chaudhuri, K., & Guo, C. (2025). Rethinking the Role of Verbatim Memorization in LLM Privacy. *NeurIPS 2025*. https://neurips.cc/virtual/2025/poster/117464
+- Silic, M., Silic, D., & Kind-Trüller, K. (2025). From Shadow IT to Shadow AI: Threats, Risks and Opportunities for Organizations. *Strategic Change*. https://doi.org/10.1002/jsc.2682
 - Zhang, Z., Jia, M., Lee, H.-P., Yao, B., Das, S., Lerner, A., Wang, D., & Li, T. (2024). "It's a Fair Game", or Is It? Examining How Users Navigate Disclosure Risks and Benefits When Using LLM-Based Conversational Agents. *CHI 2024*. https://doi.org/10.1145/3613904.3642385
 - 個人情報保護委員会（2023年6月2日）「生成AIサービスの利用に関する注意喚起等」 https://www.ppc.go.jp/news/careful_information/230602_AI_utilize_alert/
 - 総務省・経済産業省（2026年3月31日）「AI事業者ガイドライン（第1.2版）」本編 https://www.soumu.go.jp/main_content/001064279.pdf ／別添（付属資料） https://www.soumu.go.jp/main_content/001064286.pdf

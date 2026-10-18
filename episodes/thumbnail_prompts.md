@@ -250,22 +250,23 @@ Keep the warm light, the soft watercolor texture and the cheerful, hopeful mood.
 ## EP32｜Explain It Without the Slides
 
 ```
-Make a YouTube thumbnail in exactly the same style and layout as the Human Curriculum reference thumbnails in this project's source files (EP14, EP18, EP19). Look at them before you start. 16:9, 1672x941.
+Make a YouTube thumbnail in exactly the same style and layout as the reference thumbnail "Feedback Without Defensiveness" (episodes/thumbnail_refs/ref_feedback_style.png) and the EP29-31 thumbnails. 16:9, 1672x941.
+
+IMPORTANT: Use the text below EXACTLY as written. Do NOT change, shorten, rephrase or invent the episode number, the main title, the subtitle, the book names or any note text. If you cannot fit it, make the font smaller, never change the words.
 
 LEFT ~40%: cream paper panel with torn edges and coral and sky-blue watercolor brush splashes in the corners.
 - Top: "The Human Curriculum" in small navy serif with a thin underline.
 - A coral brush-stroke banner with white text: "EPISODE 32".
 - Main title in very large, bold navy serif (2-4 lines): "Explain It Without the Slides"
-- A thin coral rule, then the subtitle in bold navy serif: "Explain Your Thinking in One Minute, No Slides", with the word "Slides" in coral italics.
-- Bottom left: a stack of hardcover books (navy, pink, cream), one per name, with these names on the spines: Hinds.
-- A pink sticky note taped on the books, handwritten in navy with a coral underline: "Three sentences, one question"
+- A thin coral rule, then the subtitle in navy serif: "Explain Your Thinking in One Minute, No Slides", with the words "No Slides" in coral bold italics.
+- Bottom left: a stack of three hardcover books (blue, pink, cream) lying on a sunny stone ledge with yellow ginkgo leaves, with these words on the spines: "Hinds et al.", "Clarity", "Explain".
 
-RIGHT ~60%: a bright, sunny watercolor illustration, soft anime-style but refined (like the reference thumbnails).
-- Sena: Japanese woman in her late 20s, long wavy light-brown hair, black sunglasses pushed up on her head, small gold hoop earrings, chunky dusty-pink knit sweater, cream wide-leg trousers, white sneakers, black shoulder bag, office lanyard. Same face as in the reference thumbnails.
-- Scene: a quiet Tokyo wooden-house front porch (engawa) at golden hour, autumn leaves in the garden. Sena sits cross-legged on the porch boards and holds up a single big paper cutout of one smiling customer figure, as a friendly neighbour in a nurse cardigan, seen from behind, leans in to listen with a cup of tea; a tangled ball of grey technical words (arrows, boxes, tiny jargon) floats above Sena's other hand and is being untied into one clean thread. Three-quarter side view from the porch steps, camera at sitting height. Her expression is warm and clear. No desk, laptop or coffee cup
-- Around her, 4 handwritten notes in navy pen on small torn paper scraps or written in the air, each with a coral underline or a small heart: "Start with the question", "Give one example", "Say what it means for them", "Ask what didn't land"
+RIGHT ~60%: a bright, sunny, highly detailed illustration in the same cute glossy anime style as the reference: a sunny old hillside town in autumn with stone stairs, ivy, flower pots, old street lamps and domed rooftops in the distance, blue sky, golden light, falling ginkgo leaves.
+- Sena: Japanese woman in her late 20s, cute glossy anime-style face like the reference (soft smile, big warm brown eyes), long voluminous wavy light-brown hair blowing in the breeze, black sunglasses pushed up on her head, small gold hoop earrings, chunky dusty-pink knit sweater, cream wide-leg trousers, black shoulder bag. Same face as in the reference thumbnails.
+- Scene: Sena sits on a sunlit stone step of the hillside stairs, leaning forward toward the viewer with a friendly smile, holding out one big hand-drawn card toward the camera (strong foreshortening, her hand close to the viewer) that shows one simple smiling-customer sketch and one clean arrow; with her other hand she lets a tangled ball of grey jargon (tiny boxes, arrows, acronyms) unwind into one clean thread drifting away. Eye-level camera on the steps, three-quarter front view. No desk, laptop or coffee cup.
+- Around her, 4 pastel notes (pink, sky blue, pale yellow) taped in the scene, handwritten in navy pen with a red underline and a small red heart: "Start with the question", "Give one example", "Say what it means for them", "Ask what didn't land"
 
-Keep the warm light, the soft watercolor texture and the cheerful, hopeful mood. No other text, no logos, no watermarks.
+Keep the warm light and the cheerful, hopeful mood. No other text, no logos, no watermarks. Before finishing, check every word in the image matches the text above letter for letter.
 ```
 
 ## EP33｜Buying Time Before You Answer
@@ -293,22 +294,23 @@ Keep the warm light, the soft watercolor texture and the cheerful, hopeful mood.
 ## EP34｜Asking Clarifying Questions
 
 ```
-Make a YouTube thumbnail in exactly the same style and layout as the Human Curriculum reference thumbnails in this project's source files (EP14, EP18, EP19). Look at them before you start. 16:9, 1672x941.
+Make a YouTube thumbnail in exactly the same style and layout as the reference thumbnail "Feedback Without Defensiveness" (episodes/thumbnail_refs/ref_feedback_style.png) and the EP29-31 thumbnails. 16:9, 1672x941.
+
+IMPORTANT: Use the text below EXACTLY as written. Do NOT change, shorten, rephrase or invent the episode number, the main title, the subtitle, the book names or any note text. If you cannot fit it, make the font smaller, never change the words.
 
 LEFT ~40%: cream paper panel with torn edges and coral and sky-blue watercolor brush splashes in the corners.
 - Top: "The Human Curriculum" in small navy serif with a thin underline.
 - A coral brush-stroke banner with white text: "EPISODE 34".
 - Main title in very large, bold navy serif (2-4 lines): "Asking Clarifying Questions"
-- A thin coral rule, then the subtitle in bold navy serif: "Check What They Mean in One Sentence", with the word "One Sentence" in coral italics.
-- Bottom left: a stack of hardcover books (navy, pink, cream), one per name, with these names on the spines: Dingemanse et al..
-- A pink sticky note taped on the books, handwritten in navy with a coral underline: "Say it back, ask if it's right"
+- A thin coral rule, then the subtitle in navy serif: "Check What They Mean in One Sentence", with the words "One Sentence" in coral bold italics.
+- Bottom left: a stack of three hardcover books (blue, pink, cream) lying on a sunny stone ledge with yellow ginkgo leaves, with these words on the spines: "Dingemanse et al.", "Questions", "Clarity".
 
-RIGHT ~60%: a bright, sunny watercolor illustration, soft anime-style but refined (like the reference thumbnails).
-- Sena: Japanese woman in her late 20s, long wavy light-brown hair, black sunglasses pushed up on her head, small gold hoop earrings, chunky dusty-pink knit sweater, cream wide-leg trousers, white sneakers, black shoulder bag, office lanyard. Same face as in the reference thumbnails.
-- Scene: a tall old Tokyo library reading room with wooden shelves up to the ceiling and warm sunbeams through high windows. Sena stands two-thirds of the way up a rolling library ladder, one foot on a rung and the other lifted behind her, leaning far out sideways from the ladder in a strong diagonal, one hand gripping the rail and the other stretching out a large magnifying glass toward a floating oversized paper note with a fuzzy cloud scribble on it; through the glass the scribble sharpens into one clear tidy sentence (visual metaphor for clarifying a vague request). Low angle from the foot of the ladder, side view, her hair and sweater swinging with the lean. Her expression is curious and focused. No desk, laptop or coffee cup.
-- Around her, 4 handwritten notes in navy pen on small torn paper scraps or written in the air, each with a coral underline or a small heart: "Say what you heard", "Be specific", "End with a question", "Fix only what's off"
+RIGHT ~60%: a bright, sunny, highly detailed illustration in the same cute glossy anime style as the reference: a sunny old hillside town in autumn with stone stairs, ivy, flower pots, old street lamps and domed rooftops in the distance, blue sky, golden light, falling ginkgo leaves.
+- Sena: Japanese woman in her late 20s, cute glossy anime-style face like the reference (soft smile, big warm brown eyes), long voluminous wavy light-brown hair blowing in the breeze, black sunglasses pushed up on her head, small gold hoop earrings, chunky dusty-pink knit sweater, cream wide-leg trousers, black shoulder bag. Same face as in the reference thumbnails.
+- Scene: Sena crouches on one knee on the stone stairs, body leaning diagonally forward, holding a large brass magnifying glass up to her eye so her eye looks huge and playful through it; through the glass, a floating paper note with a fuzzy cloud scribble sharpens into one clear tidy sentence. Low camera from two steps below, side three-quarter view, her hair swinging with the movement. No desk, laptop or coffee cup.
+- Around her, 4 pastel notes (pink, sky blue, pale yellow) taped in the scene, handwritten in navy pen with a red underline and a small red heart: "Say what you heard", "Be specific", "End with a question", "Fix only what's off"
 
-Keep the warm light, the soft watercolor texture and the cheerful, hopeful mood. No other text, no logos, no watermarks.
+Keep the warm light and the cheerful, hopeful mood. No other text, no logos, no watermarks. Before finishing, check every word in the image matches the text above letter for letter.
 ```
 
 

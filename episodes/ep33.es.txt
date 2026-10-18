@@ -1,0 +1,67 @@
+SENA: Jueves, ocho de la mañana en punto, en la llamada. Laura tiene la cámara encendida, sentada en una habitación de hotel en Seattle con una taza en las manos. Dice: "Sena, una pregunta rápida. Si adelantáramos el panel de la región tres dos semanas, ¿qué se rompería primero?" Y toda la llamada se queda en silencio. Once caras, todas esperándome a mí.
+DANIEL: ¿Y qué hiciste con ese silencio?
+SENA: Dije algo que nunca había dicho en una reunión. Te lo cuento en un minuto. Duró unos tres segundos, y se sintió como un mes.
+DANIEL: Al final de este episodio tendrás una frase para los tres segundos después de una pregunta que todavía no sabes responder, y una forma de que no suene como que estás ganando tiempo.
+DANIEL: Bienvenidos de nuevo a Human Curriculum. Soy Daniel Reed, People Manager en Seattle.
+SENA: Y yo soy Sena Sato, Associate en Tokio. Aquí es viernes, las siete y cuarenta de la mañana.
+DANIEL: Y aquí es jueves, las tres y cuarenta de la tarde. Maple duerme sobre mis pies, así que no me muevo por nadie. La última vez, tu reto fue explicarle a alguien ajeno a tu campo algo que haces, en tres frases, y luego preguntar: "¿Qué parte no se entendió?"
+SENA: Ayer a la hora del almuerzo llamé a Aoi. Le dije: "Verifico que cada cliente se cuente una sola vez. Por ejemplo, la primavera pasada una región contó a las mismas personas dos veces. Para ti, significa que mis números son confiables." Luego le pregunté: "¿Qué parte no se entendió?"
+DANIEL: ¿Y?
+SENA: Dijo: "Todo se entendió menos 'región'. Pensé que hablabas de, no sé, un lugar en el mapa." Justo lo que tú dijiste que preguntaría Laura. Cambié una palabra, y luego ella me repitió mi explicación. Mejor que cuatro palabras de veintiuna.
+DANIEL: Ese es todo el ejercicio. ¿Y tu registro de ánimo?
+SENA: Día cuatro, anoche: "acelerada". Por la llamada. Ya llego a eso.
+DANIEL: Bien. Vamos a la llamada, pero primero la investigación, porque creo que esta cambiará cómo se siente ese silencio.
+SENA: Por favor.
+DANIEL: En 2009, Tanya Stivers y un gran equipo de investigadores publicaron un artículo en Proceedings of the National Academy of Sciences. Filmaron conversaciones informales en diez idiomas, desde el danés y el japonés hasta el inglés, el coreano y el italiano, y algunos idiomas pequeños como el tzeltal en México y el Yélî Dnye en Papúa Nueva Guinea. Luego midieron cuánto esperaba la gente antes de responder una pregunta de sí o no.
+SENA: ¿Cuánto fue?
+DANIEL: En promedio, unos doscientos milisegundos. Una quinta parte de un segundo. El promedio de todo el conjunto de datos fue de doscientos ocho milisegundos. El danés fue el más lento, con unos cuatrocientos setenta. El japonés fue el más rápido, con unos siete.
+SENA: Siete milisegundos. Eso es prácticamente ninguna pausa.
+DANIEL: En una charla informal, sí. Y aquí viene lo que te importa. En los diez idiomas, las respuestas llegaban más rápido que las no respuestas, como "no sé" o un cambio de tema. Y en todos, el "sí" llegaba más rápido que el "no".
+SENA: O sea que una respuesta lenta ya dice algo, incluso antes de hablar.
+DANIEL: Así lo interpretan los investigadores: los hablantes están sintonizados con retrasos diminutos, y una pausa más larga lleva una señal. Ahora, las advertencias. Eran conversaciones relajadas, no reuniones con una directora. Solo eran preguntas de sí o no. Y el estudio midió el tiempo, no cómo juzgaba la gente una pausa. No nos dice que una pausa de tres segundos te perjudique en el trabajo. Nos dice que una pausa de tres segundos es muy larga comparada con lo que los oyentes están acostumbrados, así que se nota.
+SENA: Entonces el problema no es que yo necesite tiempo. Todo el mundo necesita tiempo. El problema es que el silencio no tiene etiqueta.
+DANIEL: Me gusta eso. Sin etiqueta. El oyente le pone el significado por ti, y bajo presión suele poner algo peor que "está pensando".
+SENA: Bueno, entonces, ¿por qué no puede hacerlo la IA por mí? Podría pedirle a una IA diez formas de decir "necesito un momento".
+DANIEL: Puede darte las frases. Eso lo hace muy bien.
+SENA: Pero una IA nunca tiene que quedarse en el silencio. Responde al instante, así que no sabe lo que cuestan tres segundos, ni cómo se siente una sala en el segundo dos frente al segundo cuatro. Y no puede saber si Laura quiere una respuesta rápida y aproximada o una cuidadosa. Eso lo leo en su cara y en su taza.
+DANIEL: Exacto. Y tampoco tiene una reputación que proteger. Tú sí, así que decidir si hacer una pausa, y por cuánto tiempo, es cosa tuya.
+SENA: Daniel, ¿alguna vez soltaste una respuesta rápida de la que te arrepentiste?
+DANIEL: Sí, y me costó siete semanas. Hace años, un VP llamado Warren me paró en un pasillo antes de una reunión de planificación y me preguntó: "¿Puede tu equipo entregar la migración de facturación para marzo?" No quería parecer inseguro frente a él. Así que en un segundo dije: "Sí, claro."
+SENA: Un segundo.
+DANIEL: Un segundo. No había revisado el trabajo, mi mejor ingeniero se iba de licencia, y otros dos proyectos necesitaban a la misma gente. Entregamos a finales de abril. Siete semanas tarde. Mientras tanto empujé al equipo durante tres fines de semana, y le mandé a Warren una actualización cada viernes que empezaba con: "Un pequeño retraso, pero vamos bien."
+SENA: "Vamos bien."
+DANIEL: No íbamos bien, y él lo sabía. El día que entregamos, Warren me dijo: "Daniel, cuando te pregunté en ese pasillo, no te pedía una promesa. Te preguntaba qué pensabas. Me habría bastado un 'todavía no lo sé'."
+SENA: Ay. Habría aceptado una pausa.
+DANIEL: La habría preferido. Mi esposa dice que hago lo mismo con las direcciones. Nunca, ni una sola vez, he dicho: "No estoy seguro de cómo llegar."
+SENA: Muy de Daniel.
+DANIEL: Maple lo sabe. Solo me mira en el coche. Bien. Japón y Estados Unidos. Esta es la parte central, así que cuéntame la versión de Tokio.
+SENA: Imagina una reunión de lunes en Tokio. Kato-san pregunta: "Kenta, ¿cuánto tardaría la región cuatro?" Kenta mira su pantalla. Cinco segundos. Seis. Nadie se mueve. Ryo mira su cuaderno. Entonces Kenta dice: "Sou desu ne", que es algo como "A ver, déjame pensar", y luego: "Chotto kakunin shite mo ii desu ka?" ¿Puedo verificar algo? Y Kato-san dice: "Claro."
+DANIEL: ¿Seis segundos y nadie parecía incómodo?
+SENA: Para nada. En muchas reuniones de Tokio, un silencio después de una pregunta significa que alguien se la está tomando en serio. Una respuesta rápida puede parecer descuidada, casi como si no respetaras la pregunta. "Sou desu ne" es el sonido de alguien pensando, y gana tiempo con cortesía. Todos saben lo que significa.
+DANIEL: ¿Y el otro lado?
+SENA: Hay una frase que puede ser más difícil para oídos de Seattle. Si un colega de Tokio dice "Kentou shimasu", literalmente "lo consideraré", puede significar cualquier cosa, desde "sí, probablemente" hasta "este es un no educado". Se espera que el oyente lo deduzca por el tono y el momento.
+DANIEL: Ahí es donde sale caro, porque muchos jefes estadounidenses oyen "lo voy a revisar" y anotan "sí".
+SENA: Y luego en Seattle yo hago lo contrario. Es la llamada de Mark, y pregunta: "¿Puedes hacerlo el viernes?" y yo tardo cuatro segundos. Dice: "¿Sena? ¿Te congelaste?" Y luego: "¿Hola?" Y luego escribe: "jaja ¿está ahí??" con tres emojis.
+DANIEL: Ese es Mark. Es amable, pero el silencio en una videollamada es difícil. No puede verte pensar. Solo recibe una cara congelada y ningún sonido, así que no tiene información, y quizá teme que se haya caído la conexión.
+SENA: Eso nunca lo había pensado. En Tokio, la sala puede verme pensar. En una llamada, mi silencio es solo silencio.
+DANIEL: Y en una reunión en EE. UU., una pausa suele estar bien si viene con una etiqueta. "Buena pregunta, déjame pensarlo un segundo." Ahora el oyente sabe que estás pensando, no congelada, no rechazando. Y la segunda parte importa todavía más: después de la pausa, da una hora. "Lo tendré mañana a las tres." En EE. UU., un "voy a revisar" sin hora muchas veces suena a "no".
+SENA: O sea que el hábito de Tokio y el de Seattle tratan de lo mismo: mostrarle a la otra persona qué significa el silencio.
+DANIEL: Así lo veo yo. En Tokio lo muestra el entorno. En una videollamada, hay que decirlo. Y son tendencias. Muchos jefes de Tokio quieren una respuesta en la sala, y a mucha gente de Seattle le encanta una pausa larga. Laura es estadounidense, pero ha trabajado años con equipos japoneses. Puede ser más paciente que Mark.
+SENA: Que es lo que pasó. ¿Quieres oír la llamada?
+DANIEL: Sí, por fin.
+SENA: Preguntó: "¿Qué se rompe primero?" Silencio. Sentía la mandíbula. Y dije: "Buena pregunta. Déjame pensarlo un segundo." Luego conté en mi cabeza: uno, dos, tres. Miré mis notas y dije: "Lo primero que se rompe es la validación de Wendell. Sus números no son definitivos, así que no puedo prometer una fecha hasta hablar con él. Te escribo antes del final del viernes con lo que encuentre." Y Laura dijo: "Esa es la respuesta que esperaba. Gracias."
+DANIEL: Dijiste qué se rompe, lo que no sabes y cuándo lo sabrías.
+SENA: Y ella lo anotó. La vi escribir.
+DANIEL: Nada mal para tres segundos. La habilidad de hoy es autogestión con conciencia social. Yo la llamo etiquetar, respirar, responder. Etiquetar: di lo que estás haciendo. "Déjame pensarlo un segundo." Respirar: una respiración lenta, cuéntala de verdad, uno, dos. Responder: o das la respuesta, o dices lo que sabes, lo que no sabes y cuándo volverás.
+SENA: ¿Puedo probar? Dame una difícil.
+DANIEL: Claro. "Sena, ¿qué recortarías si el presupuesto bajara un veinte por ciento?"
+SENA: Buena pregunta. Déjame pensarlo un segundo. Recortaría primero los gráficos extra semanales, porque solo dos personas los abren. Todavía no sé qué pasa con el informe mensual, porque tengo que preguntarle a Mark si usa la vista por región. Lo averiguo y te aviso el lunes.
+DANIEL: Precioso. Hiciste una pausa, no te desesperaste y me diste una hora.
+SENA: Bien, mi resumen, porque quiero practicar eso también. Stivers y su equipo encontraron que, en una conversación informal, la gente en diez idiomas responde preguntas de sí o no en aproximadamente una quinta parte de un segundo, y las respuestas más lentas tienden a indicar que algo anda mal. No prueba que una pausa te perjudique en el trabajo, pero significa que una pausa larga se nota. Así que la etiqueto.
+DANIEL: Exacto. El reto de hoy: la próxima vez que alguien te pregunte algo que todavía no sabes responder, di: "Déjame pensarlo un segundo." Respira una vez. Luego responde, o cuéntales lo que sabes, lo que no sabes y cuándo lo sabrás.
+SENA: Una frase, una respiración, una hora. Eso puedo hacerlo. Daniel, hay un mensaje de Slack. Es de Mark. Llegó anoche a las diez y cuarenta, y apenas lo vi.
+DANIEL: Guarda ese pensamiento, porque la próxima vez es el episodio treinta y cuatro, "Asking Clarifying Questions". Veremos cómo decir "no entiendo" sin que suene a que no estabas prestando atención.
+DANIEL: Y tengo un presentimiento sobre ese mensaje. ¿Qué dice?
+SENA: "¡Algo rápido! ¿Puedes hacer el panel más 'actionable' para el lunes? ¡¡A Laura le va a encantar!!" Y luego un emoji de cohete. Daniel, no sé qué significa "actionable".
+DANIEL: Entonces estás a punto de practicar. Gracias por escuchar Human Curriculum. Soy Daniel.
+SENA: Y yo soy Sena. Etiqueta, respira y da una hora. Hasta la próxima.

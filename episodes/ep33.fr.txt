@@ -1,0 +1,67 @@
+SENA: Jeudi, huit heures pile, pendant l'appel. La caméra de Laura est allumée, elle est dans une chambre d'hôtel à Seattle, un mug entre les mains. Elle dit : « Sena, une question rapide. Si on avançait de deux semaines le tableau de bord de la région trois, qu'est-ce qui casserait en premier ? » Et tout l'appel devient silencieux. Onze visages, qui m'attendent tous.
+DANIEL: Et qu'as-tu fait de ce silence ?
+SENA: J'ai dit quelque chose que je n'avais jamais dit en réunion. Je te le dis dans une minute. Ça a duré environ trois secondes, et ça m'a paru durer un mois.
+DANIEL: À la fin de cet épisode, tu auras une phrase pour les trois secondes qui suivent une question à laquelle tu ne sais pas encore répondre, et une façon d'éviter que ça ressemble à de la temporisation.
+DANIEL: Bienvenue de nouveau dans Human Curriculum. Je suis Daniel Reed, People Manager à Seattle.
+SENA: Et moi, Sena Sato, Associate à Tokyo. Ici, on est vendredi, sept heures quarante du matin.
+DANIEL: Et ici, jeudi, quinze heures quarante. Maple dort sur mes pieds, donc je ne bouge pour personne. La dernière fois, ton défi était d'expliquer une chose que tu fais à quelqu'un d'extérieur à ton domaine, en trois phrases, puis de demander : « Quelle partie n'est pas passée ? »
+SENA: J'ai appelé Aoi hier à midi. J'ai dit : « Je vérifie que chaque client est compté une seule fois. Par exemple, au printemps dernier, une région a compté les mêmes personnes deux fois. Pour toi, ça veut dire que mes chiffres sont fiables. » Ensuite j'ai demandé : « Quelle partie n'est pas passée ? »
+DANIEL: Et alors ?
+SENA: Elle a dit : « Tout est passé sauf "région". Je pensais que tu parlais, genre, d'un endroit sur la carte. » Exactement ce que tu avais dit que Laura demanderait. J'ai corrigé un mot, et ensuite elle m'a répété mon explication. Mieux que quatre mots sur vingt et un.
+DANIEL: C'est tout l'exercice. Et ton journal d'humeur ?
+SENA: Jour quatre, hier soir : « survoltée ». À cause de l'appel. J'y viens.
+DANIEL: D'accord. On va y venir, mais d'abord la recherche, parce que je pense que celle-ci va changer la façon dont ce silence se vit.
+SENA: Je t'en prie.
+DANIEL: En 2009, Tanya Stivers et une grande équipe de chercheurs ont publié un article dans les Proceedings of the National Academy of Sciences. Ils ont filmé des conversations informelles dans dix langues, du danois et du japonais à l'anglais, au coréen et à l'italien, et quelques petites langues comme le tzeltal au Mexique et le Yélî Dnye en Papouasie-Nouvelle-Guinée. Ensuite, ils ont mesuré combien de temps les gens attendaient avant de répondre à une question fermée, de type oui ou non.
+SENA: Combien de temps ?
+DANIEL: En moyenne, environ deux cents millisecondes. Un cinquième de seconde. La moyenne sur l'ensemble des données était de deux cent huit millisecondes. Le danois était le plus lent, à environ quatre cent soixante-dix. Le japonais était le plus rapide, à environ sept.
+SENA: Sept millisecondes. C'est pratiquement aucun intervalle.
+DANIEL: Dans une conversation décontractée, oui. Et voici la partie qui compte pour toi. Dans chacune des dix langues, les réponses arrivaient plus vite que les non-réponses, comme « je ne sais pas » ou un changement de sujet. Et dans toutes, le « oui » arrivait plus vite que le « non ».
+SENA: Donc une réponse lente dit déjà quelque chose, avant même qu'on parle.
+DANIEL: C'est ainsi que les chercheurs l'interprètent : les locuteurs sont réglés sur de minuscules délais, et un intervalle plus long porte un signal. Maintenant, les précautions. C'étaient des conversations détendues, pas des réunions avec une directrice. C'étaient seulement des questions oui ou non. Et l'étude a mesuré le temps, pas la façon dont les gens jugeaient une pause. Elle ne nous dit pas qu'une pause de trois secondes te dessert au travail. Elle nous dit qu'une pause de trois secondes est très longue par rapport à ce à quoi les auditeurs sont habitués, donc elle se remarque.
+SENA: Donc le problème, ce n'est pas que j'aie besoin de temps. Tout le monde a besoin de temps. Le problème, c'est que le silence n'a pas d'étiquette.
+DANIEL: J'aime ça. Sans étiquette. L'auditeur donne le sens à ta place, et sous pression, il met en général quelque chose de pire que « elle réfléchit ».
+SENA: Bon, alors pourquoi l'IA ne peut pas faire ça pour moi ? Je pourrais demander à une IA dix façons de dire « j'ai besoin d'un instant ».
+DANIEL: Elle peut te donner les phrases. Elle est excellente pour ça.
+SENA: Mais une IA n'a jamais à rester dans le silence. Elle répond instantanément, donc elle n'a aucune idée de ce que coûtent trois secondes, ni de ce que ressent une salle à la seconde deux par rapport à la seconde quatre. Et elle ne peut pas savoir si Laura veut une réponse rapide et approximative ou une réponse soignée. Moi, je le lis sur son visage et à son mug.
+DANIEL: Exactement. Et elle n'a pas de réputation à protéger. Toi, si, donc la décision de faire une pause, et pour combien de temps, t'appartient.
+SENA: Daniel, t'est-il déjà arrivé de lâcher une réponse rapide que tu as regrettée ?
+DANIEL: Oui, et ça m'a coûté sept semaines. Il y a des années, un VP nommé Warren m'a arrêté dans un couloir avant une réunion de planification et m'a demandé : « Votre équipe peut livrer la migration de la facturation d'ici mars ? » Je ne voulais pas avoir l'air incertain devant lui. Alors en une seconde, j'ai dit : « Oui, bien sûr. »
+SENA: Une seconde.
+DANIEL: Une seconde. Je n'avais pas vérifié le travail, mon meilleur ingénieur partait en congé, et deux autres projets avaient besoin des mêmes personnes. On a livré fin avril. Sept semaines de retard. Entre-temps, j'ai poussé l'équipe pendant trois week-ends, et j'ai envoyé à Warren un point chaque vendredi qui commençait par : « Léger retard, mais on est dans les temps. »
+SENA: « Dans les temps ».
+DANIEL: On n'était pas dans les temps, et il le savait. Le jour de la livraison, Warren m'a dit : « Daniel, quand je vous ai posé la question dans ce couloir, je ne demandais pas une promesse. Je demandais ce que vous en pensiez. Je me serais contenté d'un "je ne sais pas encore". »
+SENA: Oh. Il aurait accepté une pause.
+DANIEL: Il l'aurait préférée. Ma femme dit que je fais pareil avec les itinéraires. Je n'ai jamais dit une seule fois : « Je ne suis pas sûr de savoir comment y aller. »
+SENA: Ça, c'est tout Daniel.
+DANIEL: Maple le sait. Elle me regarde juste en voiture. Bon. Le Japon et les États-Unis. C'est le cœur de l'épisode, alors raconte-moi la version de Tokyo.
+SENA: Imagine une réunion du lundi à Tokyo. Kato-san demande : « Kenta, combien de temps prendrait la région quatre ? » Kenta regarde son écran. Cinq secondes. Six. Personne ne bouge. Ryo regarde son carnet. Puis Kenta dit : « Sou desu ne », qui veut dire à peu près « Voyons voir », et ensuite : « Chotto kakunin shite mo ii desu ka? » Je peux vérifier quelque chose ? Et Kato-san dit : « Bien sûr. »
+DANIEL: Six secondes, et personne n'avait l'air mal à l'aise ?
+SENA: Pas du tout. Dans beaucoup de réunions à Tokyo, un silence après une question signifie que quelqu'un la prend au sérieux. Une réponse rapide peut paraître désinvolte, presque comme si on ne respectait pas la question. « Sou desu ne », c'est le son de quelqu'un qui réfléchit, et ça fait gagner du temps poliment. Tout le monde sait ce que ça veut dire.
+DANIEL: Et l'envers de la médaille ?
+SENA: Il y a une expression qui peut être plus difficile pour des oreilles de Seattle. Si un collègue de Tokyo dit « Kentou shimasu », littéralement « je vais l'envisager », ça peut vouloir dire n'importe quoi, de « oui, probablement » à « c'est un non poli ». On attend de l'auditeur qu'il devine lequel d'après le ton et le moment.
+DANIEL: C'est là que ça coûte cher, parce que beaucoup de managers américains entendent « je vais regarder » et notent « oui ».
+SENA: Et à Seattle, je fais l'inverse. C'est l'appel de Mark, il demande : « Tu peux faire vendredi ? » et je prends quatre secondes. Il dit : « Sena ? Tu es figée ? » Puis : « Allô ? » Puis il tape : « mdr elle est là ?? » avec trois emojis.
+DANIEL: Ça, c'est Mark. Il est gentil, mais le silence en appel vidéo, c'est dur. Il ne peut pas te voir réfléchir. Tout ce qu'il reçoit, c'est un visage figé et aucun son, donc il n'a aucune information, et il craint peut-être que la connexion ait coupé.
+SENA: C'est la partie à laquelle je n'avais jamais pensé. À Tokyo, la salle peut me voir réfléchir. En appel, mon silence n'est que du silence.
+DANIEL: Et dans une réunion aux États-Unis, une pause est généralement correcte si elle s'accompagne d'une étiquette. « Bonne question, laissez-moi y réfléchir une seconde. » L'auditeur sait maintenant que tu réfléchis, que tu n'es pas figée, que tu ne refuses pas. Et la deuxième partie compte encore plus : après la pause, donne une heure. « Je vous réponds demain à quinze heures. » Aux États-Unis, un « je vais vérifier » sans heure sonne souvent comme un « non ».
+SENA: Donc l'habitude de Tokyo et celle de Seattle visent la même chose : montrer à l'autre ce que le silence signifie.
+DANIEL: C'est comme ça que je le vois. À Tokyo, le cadre le montre. Dans un appel vidéo, il faut le dire. Et ce sont des tendances. Beaucoup de managers de Tokyo veulent une réponse sur-le-champ, et beaucoup de gens à Seattle adorent une longue pause. Laura est américaine, mais elle travaille avec des équipes japonaises depuis des années. Elle est peut-être plus patiente que Mark.
+SENA: Ce qui est exactement ce qui s'est passé. Tu veux entendre l'appel ?
+DANIEL: Oui, enfin.
+SENA: Elle a demandé : « Qu'est-ce qui casse en premier ? » Silence. Je sentais ma mâchoire. Et j'ai dit : « Bonne question. Laissez-moi y réfléchir une seconde. » Puis j'ai compté dans ma tête, un, deux, trois. J'ai regardé mes notes, et j'ai dit : « La première chose qui casse, c'est la validation de Wendell. Ses chiffres ne sont pas définitifs, donc je ne peux pas promettre de date avant d'avoir parlé avec lui. Je vous écris d'ici la fin de journée vendredi avec ce que j'aurai trouvé. » Et Laura a dit : « C'est la réponse que j'espérais. Merci. »
+DANIEL: Tu as dit ce qui casse, ce que tu ne sais pas, et quand tu le saurais.
+SENA: Et elle l'a noté. Je l'ai vue écrire.
+DANIEL: Pas mal pour trois secondes. La compétence du jour, c'est la maîtrise de soi avec conscience sociale. Je l'appelle étiqueter, respirer, répondre. Étiqueter : dis ce que tu fais. « Laissez-moi y réfléchir une seconde. » Respirer : une respiration lente, compte-la vraiment, un, deux. Répondre : soit tu donnes la réponse, soit tu dis ce que tu sais, ce que tu ne sais pas, et quand tu reviendras.
+SENA: Je peux essayer ? Donne-m'en une difficile.
+DANIEL: Bien sûr. « Sena, que couperais-tu si le budget baissait de vingt pour cent ? »
+SENA: Bonne question. Laissez-moi y réfléchir une seconde. Je couperais d'abord les graphiques supplémentaires hebdomadaires, parce que seulement deux personnes les ouvrent. Je ne sais pas encore pour le rapport mensuel, parce que je dois demander à Mark s'il utilise la vue par région. Je me renseigne et je vous dis ça d'ici lundi.
+DANIEL: Magnifique. Tu as fait une pause, tu ne t'es pas affolée, et tu m'as donné une heure.
+SENA: Bon, mon résumé, parce que je veux m'entraîner à ça aussi. Stivers et son équipe ont constaté que, dans une conversation décontractée, les gens, dans dix langues, répondent aux questions oui ou non en environ un cinquième de seconde, et que les réponses plus lentes tendent à signaler que quelque chose cloche. Ça ne prouve pas qu'une pause te dessert au travail, mais ça veut dire qu'une longue pause se remarque. Alors je l'étiquette.
+DANIEL: Exactement. Le défi du jour : la prochaine fois que quelqu'un te pose une question à laquelle tu ne peux pas encore répondre, dis : « Laissez-moi y réfléchir une seconde. » Prends une respiration. Puis réponds, ou dis ce que tu sais, ce que tu ne sais pas, et quand tu le sauras.
+SENA: Une phrase, une respiration, une heure. Ça, je peux le faire. Daniel, il y a un message Slack. C'est Mark. Il est arrivé hier soir à vingt-deux heures quarante, et je viens seulement de le voir.
+DANIEL: Garde cette idée, parce que la prochaine fois, c'est l'épisode trente-quatre, « Asking Clarifying Questions ». On verra comment dire « je ne comprends pas » sans avoir l'air de ne pas avoir écouté.
+DANIEL: Et j'ai comme un pressentiment sur ce message. Qu'est-ce qu'il dit ?
+SENA: « Petite demande ! Tu peux rendre le tableau de bord plus "actionable" d'ici lundi ? Laura va adorer !! » Et ensuite un emoji de fusée. Daniel, je ne sais pas ce que veut dire « actionable ».
+DANIEL: Alors tu vas avoir de quoi t'entraîner. Merci d'avoir écouté Human Curriculum. Moi, c'est Daniel.
+SENA: Et moi, Sena. Étiquette, respire et donne une heure. À la prochaine.

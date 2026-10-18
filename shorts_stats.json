@@ -1,5 +1,5 @@
 {
-  "at": "2026-10-18T15:29:30Z",
+  "at": "2026-10-18T23:00:02Z",
   "shorts": {
     "1-ai": {
       "video_id": "IdbU6d1ox0Q",
@@ -231,7 +231,7 @@
       "title": "Status vs impact: how to make your work visible #shorts",
       "public": true,
       "publish_at": "2026-10-17T23:00:00Z",
-      "views": 10,
+      "views": 11,
       "likes": 0,
       "comments": 0
     },
@@ -258,7 +258,7 @@
       "title": "How trust works at work in Japan vs the US #shorts",
       "public": true,
       "publish_at": "2026-10-18T09:00:00Z",
-      "views": 6,
+      "views": 7,
       "likes": 0,
       "comments": 0
     },
@@ -267,7 +267,7 @@
       "title": "An honest no is better than a vague yes #shorts",
       "public": true,
       "publish_at": "2026-10-16T23:00:00Z",
-      "views": 26,
+      "views": 30,
       "likes": 0,
       "comments": 0
     },
@@ -276,16 +276,16 @@
       "title": "People say yes more often than you think #shorts",
       "public": true,
       "publish_at": "2026-10-17T09:00:00Z",
-      "views": 2,
+      "views": 1,
       "likes": 0,
       "comments": 0
     },
     "10-culture": {
       "video_id": "bM6OnDaSzL0",
       "title": "Nemawashi: the Japanese secret to influence #shorts",
-      "public": false,
+      "public": true,
       "publish_at": "2026-10-18T19:00:00Z",
-      "views": 0,
+      "views": 1,
       "likes": 0,
       "comments": 0
     },
@@ -510,7 +510,7 @@
       "title": "Reading the air: Japan vs the US #shorts",
       "public": true,
       "publish_at": "2026-10-17T14:50:42Z",
-      "views": 12,
+      "views": 14,
       "likes": 0,
       "comments": 0
     },
@@ -528,8 +528,8 @@
       "title": "Aizuchi vs \"What I'm hearing is\": Japan vs the US #shorts",
       "public": true,
       "publish_at": "2026-10-18T03:00:00Z",
-      "views": 2,
-      "likes": 0,
+      "views": 4,
+      "likes": 1,
       "comments": 0
     },
     "29-highlight": {
@@ -537,7 +537,7 @@
       "title": "Your thank-you matters more than you think #shorts",
       "public": true,
       "publish_at": "2026-10-18T15:29:24Z",
-      "views": 0,
+      "views": 7,
       "likes": 0,
       "comments": 0
     },
@@ -546,6 +546,24 @@
       "title": "How people say thanks at work: Japan vs the US #shorts",
       "public": true,
       "publish_at": "2026-10-18T15:29:27Z",
+      "views": 6,
+      "likes": 0,
+      "comments": 0
+    },
+    "30-highlight": {
+      "video_id": "akt-aEGoUdE",
+      "title": "Your worst week might not be what you remember #shorts",
+      "public": false,
+      "publish_at": "2026-10-19T00:00:00Z",
+      "views": 0,
+      "likes": 0,
+      "comments": 0
+    },
+    "30-culture": {
+      "video_id": "MF76WcXTnjc",
+      "title": "\"Daijoubu\" vs \"Great!\": Japan vs the US #shorts",
+      "public": false,
+      "publish_at": "2026-10-19T00:00:00Z",
       "views": 0,
       "likes": 0,
       "comments": 0
@@ -730,14 +748,14 @@
     "26": {
       "video_id": "xDKO5T0UcWE",
       "title": "Self-Compassion at Work: Talk to Yourself Like a Friend | Business English Podcast EP26",
-      "views": 9,
+      "views": 10,
       "likes": 1,
       "comments": 1
     },
     "27": {
       "video_id": "mhPA1DF8TOM",
       "title": "How to Read Emotions on a Video Call (and What to Say After) | Human Curriculum EP27",
-      "views": 3,
+      "views": 2,
       "likes": 0,
       "comments": 1
     },
@@ -746,11 +764,18 @@
       "title": "What to Say First When a Coworker Is Upset (Not Advice) | Human Curriculum EP28",
       "views": 1,
       "likes": 0,
-      "comments": 0
+      "comments": 1
     },
     "29": {
       "video_id": "jDssD1EDbt8",
       "title": "How to Say Thank You at Work So It Actually Lands | Human Curriculum EP29",
+      "views": 0,
+      "likes": 0,
+      "comments": 1
+    },
+    "30": {
+      "video_id": "QAcOWCeOfQs",
+      "title": "Find Your Emotional Baseline with One Word a Day | Human Curriculum EP30",
       "views": 0,
       "likes": 0,
       "comments": 0

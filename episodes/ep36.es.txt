@@ -1,0 +1,74 @@
+SENA: "Entonces, Sena, ¿qué piensas?" Laura acaba de hablar cuatro minutos seguidos, y yo sostengo mi respuesta como un plato caliente.
+DANIEL: Tenías una respuesta lista.
+SENA: Tenía cinco. Una por cada preocupación de su lista. Quería arreglarlas todas, en orden, ahí mismo en la mesa.
+DANIEL: ¿Y en cambio?
+SENA: En cambio dije una sola frase, y Laura dejó los palillos.
+DANIEL: Al final de este episodio tendrás una forma, en una sola frase, de mostrarle a alguien que lo escuchaste, antes de decir una palabra de tu propia opinión.
+DANIEL: Bienvenidos de nuevo a Human Curriculum. Soy Daniel, en Seattle.
+SENA: Y yo soy Sena, en Tokio. Aquí es martes, las siete y cuarenta de la mañana.
+DANIEL: Y aquí es lunes, las tres y cuarenta de la tarde. Maple se ha adueñado del rincón soleado debajo de mi escritorio, así que no puedo mover la silla. Llévame al almuerzo.
+SENA: Lunes, doce y cuarto. Un restaurante pequeño cerca de la oficina, una mesa larga, seis personas: Laura en la cabecera, Kato-san frente a mí, Ryo, Kenta, Misaki, y yo junto a Laura, como ella pidió. Había preparado seis preguntas de seguimiento para la charla trivial. Usé cero. Ni siquiera había llegado la comida cuando Laura dijo: "¿Puedo ser sincera? Me preocupa la región tres."
+DANIEL: Y entonces habló.
+SENA: Cuatro minutos. La fecha de lanzamiento. La validación de Wendell que no es definitiva. Mark pidiendo algo nuevo cada semana. El calendario del equipo de Hannah. Si Tokio tiene suficiente gente. Todos miraban sus vasos de agua.
+DANIEL: Cinco preocupaciones de un tirón. ¿Qué pasaba en tu cabeza?
+SENA: Una máquina expendedora. Cada preocupación tenía su arreglo: mover la fecha de corte, preguntarle a Wendell, agrupar las peticiones de Mark. Estaba lista para dar cinco respuestas en treinta segundos. Entonces Laura dijo: "Entonces, Sena, ¿qué piensas?"
+DANIEL: ¿Y la máquina expendedora?
+SENA: Respiré hondo, como en el episodio treinta y tres. Luego dije: "Déjame confirmar que lo entendí. No creo que la fecha sea la verdadera preocupación. Creo que es que nadie es dueño de la palabra 'listo'. Si los números de Wendell se retrasan, Mark podría lanzar de todos modos, y nadie lo detendría. ¿Lo entendí bien?"
+DANIEL: ¿Y?
+SENA: Silencio. Laura dejó los palillos y dijo: "Sí. Eso es. Nadie me lo había repetido así en toda la semana." Luego: "Sigue, ¿tú qué harías?" Y yo solo tenía una respuesta que dar, porque solo quedaba una pregunta. "Un nombre por decisión. Wendell dice cuándo están listos los números. La verificación de Ryo dice si están limpios. Tú y Mark deciden el lanzamiento, en una sola página." Laura dijo: "Kato-san, anota eso." Y lo escribió en la libreta.
+DANIEL: La libreta otra vez.
+SENA: La libreta otra vez. Y al otro lado de la mesa, Misaki me sonrió con toda la cara.
+DANIEL: Ese es el movimiento. Y hay un estudio que prueba algo parecido. En 2020, Michael Yeomans, Julia Minson y colegas, sobre todo de Harvard, publicaron "Conversational receptiveness" en la revista Organizational Behavior and Human Decision Processes. Se preguntaron: ¿qué lenguaje hace que suenes como alguien que de verdad se toma en serio una opinión con la que no está de acuerdo?
+SENA: ¿Y cuál es?
+DANIEL: En un estudio, 771 personas reclutadas en línea escribieron una respuesta a una afirmación con la que no estaban de acuerdo, sobre dos temas políticos. Algunas leyeron antes una receta de cuatro partes: usar afirmaciones positivas en lugar de negaciones, decir abiertamente que entiendes, señalar en qué coinciden y suavizar tus afirmaciones con un matiz. Luego 1,548 evaluadores, que no coincidían con los autores, leyeron las respuestas sin saber quién había recibido la receta.
+SENA: ¿Y funcionó la receta?
+DANIEL: Decir primero que entiendes no le costó nada a nadie. Los evaluadores que no coincidían con los autores calificaron esas respuestas como más receptivas, dijeron que estarían más dispuestos a trabajar con los autores y las encontraron un poco más persuasivas, lo cual sorprendió a los investigadores. Los autores, eso sí, dijeron que la receta era más difícil de usar que su manera habitual.
+SENA: Entonces "entiendo" no debilita mi punto.
+DANIEL: En este estudio no. Las salvedades: desconocidos, en línea, un par de minutos escribiendo sobre temas políticos, no compañeros de trabajo en un almuerzo. Los evaluadores juzgaron la escritura, no lo que alguien hizo después. Y una receta suena falsa si la lees como receta. En el episodio veintiocho lo repetimos para calmar a alguien. Este es el mismo movimiento para un desacuerdo.
+SENA: Después le di a una IA mis notas de lo que dijo Laura. Me devolvió cinco viñetas ordenadas, una por preocupación.
+DANIEL: Entonces, ¿por qué la IA no puede hacer esto por ti?
+SENA: Porque "cinco preocupaciones" no es lo que ella dijo. Lo que quiso decir fue "nadie es dueño de listo", y nunca usó la palabra "dueño". Para oír eso, tuve que saber cómo sonó Wendell el jueves, y que Laura termina todo con "¿Qué decidimos?" Un resumen acorta lo que se dijo. Escuchar es elegir la parte que le importó a ella.
+DANIEL: Esa es la diferencia entre una transcripción y comprender. Y mi historia es sobre un resumen que salió mal. Hace años dirigí una reunión de diseño donde dos ingenieros, Dmitri y Soraya, discutieron cuarenta minutos sobre si construir una herramienta de reportes o comprar una. Dmitri dijo comprar. Soraya dijo construir. Los dos inteligentes, los dos cansados. Así que hice lo que yo creía que hacen los líderes. Dije: "Permítanme resumir. Hemos oído las dos posturas, y creo que el punto más fuerte es ser dueños de nuestros datos. Así que, construir." Todos asintieron, porque la reunión se había acabado.
+SENA: Un resumen.
+DANIEL: Un resumen de lo que yo ya pensaba. Dejé fuera por completo el mejor argumento de Dmitri, que era el costo a tres años. Él no dijo nada. Dos semanas después, en la reunión diaria, dijo, casi de pasada: "Por cierto, el jueves tengo una demostración de un proveedor." Había decidido que mi reunión no tenía espacio para su punto.
+SENA: Entonces el equipo manejó dos planes.
+DANIEL: Durante casi tres semanas. Cuando por fin le pregunté a Dmitri por qué no había dicho algo, me dijo: "Tu resumen fue la versión más corta de lo que ya pensabas." Mi esposa dice que yo resumo las películas igual. Todo termina como yo lo habría terminado.
+SENA: Eso es muy de ti.
+DANIEL: Y esa fue la lección. Un resumen no me corresponde darle forma a mí. Tiene que estar en las palabras de la otra persona, con su razón, y ella tiene derecho a decir que no. Si yo hubiera dicho: "Dmitri, déjame repetir tu punto, y dime en qué me equivoco", lo habría sabido en treinta segundos.
+SENA: Bien. Japón y Estados Unidos. Este me toca de cerca, porque Tokio hace esto todo el día.
+DANIEL: Tómate tu tiempo. Este es el centro del episodio.
+SENA: Imagina un restaurante de tonkatsu en Tokio. El mesero toma tu pedido y lo repite siempre: "Tonkatsu teishoku, hitotsu, kashikomarimashita." Tiene nombre, fukushou, repetir lo dicho. El taxista repite tu dirección, y Kato-san termina cada llamada con Seattle diciendo "Kakunin sasete kudasai", déjenme confirmar.
+DANIEL: O sea que repetir viene incorporado. En mi oficina, casi siempre lo hacemos después de que algo sale mal.
+SENA: Pero el fukushou repite palabras. "Región tres, miércoles, Wendell", todos dicen "Hai", y nadie pregunta: ¿miércoles en la zona horaria de quién? Verifica los hechos, no la preocupación.
+DANIEL: Y Seattle es casi lo contrario. En muchas reuniones estadounidenses, la gente responde primero con su propia opinión. Un resumen es raro, y cuando llega, suele llegar en una frase hecha: "Lo que estoy oyendo es..." Hay quien lo oye como técnica, como lenguaje de terapia. He visto poner los ojos en blanco. Y se puede usar para ganar: "¿O sea que lo que dices es que no te importa la calidad?" Eso es un resumen construido para hacer perder a alguien una discusión.
+SENA: Pero Laura lo hace todo el tiempo. "¿Qué decidimos?"
+DANIEL: Sí, y esa es la versión de alto nivel: un resumen del resultado, no de la persona. Dice a todos dónde terminó la reunión. No le dice a nadie que lo escucharon. Esa es la pieza que añadiste en el almuerzo.
+SENA: Entonces, ¿qué me llevo de cada lado?
+DANIEL: De Tokio, el hábito: repetirlo siempre, rápido. Luego añadir lo que Tokio a menudo omite, el significado: "Te preocupa X porque Y." De Seattle, la pregunta: "¿Lo entendí bien?" y que sea en serio, para que puedan decir que no. Y usa palabras sencillas. "Déjame confirmar que lo entendí" gana a "Lo que estoy oyendo es".
+SENA: ¿Y para alguien de Seattle que trabaja con colegas de Tokio?
+DANIEL: No oigas "hai" como "estoy de acuerdo". Muchas veces significa "te estoy siguiendo". Dilo con tus propias palabras y pregunta: "¿En qué me equivoqué?" Es mucho más fácil que alguien corrija un resumen que corregirte a ti.
+SENA: Entonces un resumen es una manera educada de que te corrijan.
+DANIEL: Es la mejor forma en que lo he oído decir. Convirtámoslo en una habilidad. Es conciencia social, y tiene tres movimientos. Escucha la razón debajo de las palabras. Dila en una frase, con tus palabras, con su razón: "Te preocupa X porque Y." Pregunta: "¿Lo entendí bien?" Solo entonces: "Esto es lo que pienso yo."
+SENA: Déjame probar. Tú eres alguien que odia la reunión de estado del lunes.
+DANIEL: "Estas reuniones de estado son una pérdida de tiempo. Repasamos las mismas diapositivas cada semana. Ya no más."
+SENA: Déjame confirmar que lo entendí. Estás frustrado porque una hora de tu lunes se va en cosas que podrías leer en cinco minutos. ¿Lo entendí bien?
+DANIEL: "¡Sí! Y de todos modos nadie lee el documento."
+SENA: Ese es el verdadero problema. Esto es lo que pienso yo: diez minutos, documento enviado la noche anterior.
+DANIEL: A eso le diría que sí. Y fíjate que encontraste el verdadero problema, "nadie lee el documento", solo porque me dejaste corregirte.
+DANIEL: El reto de la vez pasada era intervenir una vez con "¿Puedo añadir algo?" Además de la diapositiva cuatro, ¿cómo te fue?
+SENA: Guardé lo mejor para ahora. Más tarde, en el almuerzo, mientras Laura y Kato-san seguían hablando de Wendell, Kenta dijo, muy bajito: "¿Puedo añadir algo?" Ryo le había contado lo de la mañana. Laura dijo: "Por favor." Y Kenta dijo: "El registro de verificación muestra quién revisó cada número, y cuándo. Si los números de Wendell pasan por el mismo registro, sabríamos quién dijo listo." Kato-san dijo: "Kenta, repítelo. Quiero anotarlo exactamente."
+DANIEL: Kenta, que siempre empieza a hablar y se detiene.
+SENA: Esta vez no se detuvo.
+DANIEL: ¿Y el día siete del registro de ánimo?
+SENA: "Escuchada." Lo cual es gracioso, porque la que escuchó fui yo. Y mi repaso de siete días: orgullosa, nerviosa, cálida, acelerada, estirada, en guardia, escuchada. Las palabras difíciles, "acelerada", "estirada", "en guardia", llegaron justo antes de algo. Las buenas llegaron después. O sea que lo peor es el temor, y viene primero.
+DANIEL: Eso es un hallazgo real sobre tus propias semanas. La próxima vez que escribas "en guardia", puedes recordarte que es una palabra de víspera. Casi siempre termina en "escuchada".
+DANIEL: El reto de hoy: una vez hoy, antes de dar tu opinión, di el punto de la otra persona en una frase, con su razón, y pregunta: "¿Lo entendí bien?" Luego di lo que piensas.
+SENA: Su razón, no solo sus palabras. Una frase, una pregunta, y luego la mía.
+DANIEL: El próximo episodio es el treinta y siete, "Retell in 30 Seconds".
+SENA: Y creo que acaba de empezar. Daniel, mi teléfono. Kato-san, siete cincuenta y uno de la mañana.
+DANIEL: ¿Qué dice?
+SENA: "Laura me pidió que te avisara: reunión de sincronización de liderazgo el miércoles, ocho de la mañana. Quiere treinta segundos tuyos sobre cómo va la región tres. Sus palabras: 'Mark no. Sena.'"
+DANIEL: Treinta segundos, para un equipo de liderazgo.
+SENA: Todo mi último mes, en treinta segundos. Y el miércoles a las ocho de la mañana es mañana por la mañana. Gracias por escuchar Human Curriculum.
+DANIEL: Soy Daniel.
+SENA: Y yo soy Sena. Escucha la razón, repítela, y luego habla. Hasta la próxima.

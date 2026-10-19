@@ -1,0 +1,74 @@
+SENA: "Jadi, Sena, menurutmu bagaimana?" Laura baru saja bicara empat menit tanpa henti, dan aku memegang jawabanku seperti piring panas.
+DANIEL: Kamu sudah punya jawaban.
+SENA: Aku punya lima. Satu untuk setiap kekhawatiran yang dia sebutkan. Aku ingin memperbaiki semuanya, berurutan, di meja itu juga.
+DANIEL: Dan ternyata?
+SENA: Ternyata aku mengucapkan satu kalimat, dan Laura meletakkan sumpitnya.
+DANIEL: Di akhir episode ini, kamu akan punya cara satu kalimat untuk menunjukkan bahwa seseorang sudah didengar, sebelum kamu mengucapkan sepatah kata pun dari pendapatmu sendiri.
+DANIEL: Selamat datang kembali di Human Curriculum. Saya Daniel, di Seattle.
+SENA: Dan aku Sena, di Tokyo. Di sini Selasa, jam tujuh empat puluh pagi.
+DANIEL: Dan di sini Senin, jam tiga empat puluh sore. Maple menguasai tempat berjemur di bawah mejaku, jadi aku tidak bisa menggeser kursi. Ajak aku ke makan siang itu.
+SENA: Senin, jam dua belas lima belas. Restoran kecil dekat kantor, satu meja panjang, enam orang: Laura di ujung, Kato-san di seberangku, Ryo, Kenta, Misaki, dan aku di sebelah Laura, seperti permintaannya. Aku sudah menyiapkan enam pertanyaan lanjutan untuk basa-basi. Yang kupakai nol. Makanannya bahkan belum datang ketika Laura bilang, "Boleh jujur? Saya khawatir soal region tiga."
+DANIEL: Lalu dia bicara.
+SENA: Empat menit. Tanggal peluncuran. Validasi Wendell yang belum final. Mark yang meminta hal baru setiap minggu. Kalender tim Hannah. Apakah Tokyo punya cukup orang. Semua orang menatap gelas air mereka.
+DANIEL: Lima kekhawatiran dalam satu napas. Apa yang terjadi di kepalamu?
+SENA: Mesin penjual otomatis. Setiap kekhawatiran ada solusinya: geser batas waktu, tanya Wendell, kelompokkan permintaan Mark. Aku siap memberi lima jawaban dalam tiga puluh detik. Lalu Laura bilang, "Jadi, Sena, menurutmu bagaimana?"
+DANIEL: Dan mesin penjual otomatisnya?
+SENA: Aku menarik satu napas, seperti di episode tiga puluh tiga. Lalu aku bilang, "Biar aku pastikan aku paham. Menurutku tanggalnya bukan kekhawatiran yang sebenarnya. Menurutku masalahnya, tidak ada yang memiliki kata 'siap'. Kalau angka Wendell mundur, Mark bisa tetap meluncurkan, dan tidak ada yang menghentikannya. Apa aku benar?"
+DANIEL: Lalu?
+SENA: Hening. Laura meletakkan sumpitnya dan bilang, "Ya. Itu dia. Tidak ada yang mengatakannya kembali kepada saya sepanjang minggu ini." Lalu, "Lanjutkan, apa yang akan kamu lakukan?" Dan aku hanya punya satu jawaban untuk diberikan, karena hanya satu pertanyaan yang tersisa. "Satu nama untuk satu keputusan. Wendell yang bilang kapan angkanya siap. Pengecekan Ryo yang bilang apakah angkanya bersih. Kamu dan Mark memutuskan peluncuran, dalam satu halaman." Laura bilang, "Kato-san, tuliskan itu." Dan dia menulisnya di buku catatan.
+DANIEL: Buku catatan itu lagi.
+SENA: Buku catatan itu lagi. Dan di seberang meja, Misaki tersenyum kepadaku dengan seluruh wajahnya.
+DANIEL: Itulah langkahnya. Dan ada makalah yang menguji sesuatu yang mirip. Pada 2020, Michael Yeomans, Julia Minson, dan rekan-rekannya, sebagian besar di Harvard, menerbitkan "Conversational receptiveness" di jurnal Organizational Behavior and Human Decision Processes. Mereka bertanya: bahasa apa yang membuatmu terdengar benar-benar menanggapi pandangan yang tidak kamu setujui?
+SENA: Dan apa jawabannya?
+DANIEL: Dalam satu studi, 771 orang yang direkrut daring menulis balasan untuk pernyataan yang tidak mereka setujui, pada dua topik politik. Sebagian membaca resep empat bagian dulu: pakai kalimat positif, bukan negasi; katakan terang-terangan bahwa kamu paham; tunjukkan apa yang kamu setujui; dan lunakkan klaimmu dengan kata yang berhati-hati. Lalu 1.548 penilai, yang tidak sependapat dengan para penulis, membaca balasan itu tanpa tahu siapa yang pakai resep.
+SENA: Dan resepnya berhasil?
+DANIEL: Mengatakan kamu paham lebih dulu tidak merugikan siapa pun. Penilai yang tidak sependapat dengan penulis menilai balasan itu lebih reseptif, bilang mereka lebih bersedia bekerja sama dengan penulisnya, dan menganggapnya sedikit lebih meyakinkan, yang mengejutkan para penulis makalah. Tapi para penulis balasan bilang resep itu lebih sulit dipakai daripada cara biasa mereka.
+SENA: Jadi "aku paham" tidak melemahkan poinku.
+DANIEL: Dalam studi ini, tidak. Catatannya: orang asing, daring, menulis beberapa menit soal topik politik, bukan rekan kerja saat makan siang. Penilai menilai tulisannya, bukan apa yang dilakukan orang sesudahnya. Dan resep terdengar palsu kalau dibacakan seperti resep. Di episode dua puluh delapan kita mengulang ucapan untuk menenangkan seseorang. Ini langkah yang sama untuk perbedaan pendapat.
+SENA: Setelahnya aku memberi catatanku tentang ucapan Laura ke AI. Hasilnya lima poin rapi, satu untuk tiap kekhawatiran.
+DANIEL: Jadi kenapa AI tidak bisa melakukan ini untukmu?
+SENA: Karena "lima kekhawatiran" bukan yang dia katakan. Maksudnya adalah "tidak ada yang memiliki kata siap", dan dia tidak pernah memakai kata "pemilik". Untuk mendengar itu, aku harus tahu bagaimana nada Wendell hari Kamis, dan bahwa Laura menutup segalanya dengan "Apa yang kita putuskan?" Ringkasan memperpendek apa yang dikatakan. Mendengar adalah memilih bagian yang penting bagi dirinya.
+DANIEL: Itulah beda antara transkrip dan pemahaman. Dan ceritaku tentang ringkasan yang salah. Bertahun-tahun lalu aku memimpin rapat desain di mana dua insinyur, Dmitri dan Soraya, berdebat empat puluh menit soal membuat alat pelaporan sendiri atau membelinya. Dmitri bilang beli. Soraya bilang buat. Keduanya pintar, keduanya lelah. Jadi aku melakukan apa yang kukira dilakukan pemimpin. Aku bilang, "Biar saya ringkas. Kita sudah mendengar kedua sisi, dan menurut saya poin terkuat adalah memiliki data kita sendiri. Jadi, buat." Semua mengangguk, karena rapatnya sudah selesai.
+SENA: Sebuah ringkasan.
+DANIEL: Ringkasan dari apa yang sudah kupikirkan. Aku sama sekali melewatkan argumen terbaik Dmitri, yaitu biaya tiga tahun. Dia tidak berkata apa-apa. Dua minggu kemudian, saat stand-up, dia berkata, hampir santai, "Omong-omong, Kamis saya ada demo vendor." Dia memutuskan rapatku tidak punya ruang untuk poinnya.
+SENA: Jadi tim menjalankan dua rencana.
+DANIEL: Hampir tiga minggu. Waktu akhirnya aku bertanya kenapa dia tidak bilang saja, Dmitri berkata, "Ringkasan Anda adalah versi terpendek dari apa yang sudah Anda pikirkan." Istriku bilang aku meringkas film dengan cara yang sama. Semuanya berakhir seperti yang akan kuakhiri.
+SENA: Itu sangat kamu sekali.
+DANIEL: Dan itulah pelajarannya. Ringkasan bukan milikku untuk dibentuk. Harus dengan kata-kata orang itu, dengan alasannya, dan mereka boleh bilang tidak. Kalau aku bilang, "Dmitri, biar saya ulangi poinmu, dan katakan di mana saya salah," aku akan tahu dalam tiga puluh detik.
+SENA: Oke. Jepang dan Amerika. Yang ini dekat dengan keseharianku, karena Tokyo melakukan ini sepanjang hari.
+DANIEL: Pelan-pelan saja. Ini inti episodenya.
+SENA: Bayangkan restoran tonkatsu di Tokyo. Pelayan mencatat pesananmu, dan mengulanginya setiap kali: "Tonkatsu teishoku, hitotsu, kashikomarimashita." Ada namanya, fukushou, mengulang kembali. Sopir taksi mengulang alamatmu, dan Kato-san menutup setiap telepon dengan Seattle dengan "Kakunin sasete kudasai," izinkan saya konfirmasi.
+DANIEL: Jadi mengulang itu sudah bawaan. Di kantorku, kami biasanya melakukannya setelah ada yang salah.
+SENA: Tapi fukushou mengulang kata-kata. "Region tiga, Rabu, Wendell," semua bilang "Hai," dan tidak ada yang bertanya: Rabu di zona waktu siapa? Itu memeriksa fakta, bukan kekhawatiran.
+DANIEL: Dan Seattle hampir kebalikannya. Di banyak rapat Amerika, orang menjawab dengan pandangannya sendiri dulu. Ringkasan jarang, dan kalau muncul, sering lewat satu frasa: "What I'm hearing is..." Sebagian orang mendengarnya sebagai teknik, seperti bahasa terapi. Aku pernah melihat mata berputar. Dan bisa dipakai untuk menang: "Jadi maksudmu kamu tidak peduli kualitas?" Itu ringkasan yang dibuat supaya seseorang kalah berdebat.
+SENA: Tapi Laura melakukannya terus-menerus. "Apa yang kita putuskan?"
+DANIEL: Benar, dan itu versi seniornya: ringkasan hasil, bukan ringkasan orangnya. Itu memberi tahu semua orang di mana rapat berakhir. Itu tidak memberi tahu siapa pun bahwa mereka didengar. Itulah bagian yang kamu tambahkan saat makan siang.
+SENA: Jadi apa yang kuambil dari tiap sisi?
+DANIEL: Dari Tokyo, kebiasaannya: ulangi setiap kali, dengan cepat. Lalu tambahkan apa yang sering dilewatkan Tokyo, yaitu maknanya: "Kamu khawatir soal X karena Y." Dari Seattle, pertanyaannya: "Apa saya benar?" dan sungguh-sungguh, supaya mereka bisa bilang tidak. Dan pakai kata-kata sederhana. "Biar saya pastikan saya paham" lebih baik daripada "What I'm hearing is."
+SENA: Dan untuk orang Seattle yang bekerja dengan rekan Tokyo?
+DANIEL: Jangan dengar "hai" sebagai "saya setuju." Sering artinya "saya mengikuti Anda." Ulangi dengan kata-katamu sendiri dan tanya, "Di mana saya salah?" Jauh lebih mudah bagi seseorang untuk mengoreksi ringkasan daripada mengoreksi kamu.
+SENA: Jadi ringkasan adalah cara sopan untuk dikoreksi.
+DANIEL: Itu cara terbaik yang pernah kudengar. Mari jadikan keterampilan. Ini kesadaran sosial, dan ada tiga langkah. Dengar alasan di balik kata-katanya. Katakan dalam satu kalimat, dengan kata-katamu, beserta alasannya: "Kamu khawatir soal X karena Y." Tanya, "Apa aku benar?" Baru setelah itu: "Ini posisiku."
+SENA: Biar aku coba. Kamu jadi orang yang benci rapat status hari Senin.
+DANIEL: "Rapat status ini buang-buang waktu. Kita membahas slide yang sama setiap minggu. Saya sudah muak."
+SENA: Biar aku pastikan aku paham. Kamu kesal karena satu jam hari Senin-mu habis untuk hal yang bisa dibaca dalam lima menit. Apa aku benar?
+DANIEL: "Ya! Dan toh tidak ada yang membaca dokumennya."
+SENA: Itu masalah sebenarnya. Ini posisiku: sepuluh menit, dokumen dikirim malam sebelumnya.
+DANIEL: Aku akan bilang ya untuk itu. Dan perhatikan, kamu menemukan masalah sebenarnya, "tidak ada yang membaca dokumennya," hanya karena aku boleh mengoreksimu.
+DANIEL: Tantangan kemarin adalah masuk satu kali dengan "Boleh saya menambahkan sesuatu?" Selain slide empat, bagaimana hasilnya?
+SENA: Aku simpan yang terbaik untuk sekarang. Nanti saat makan siang, ketika Laura dan Kato-san masih membahas Wendell, Kenta berkata, sangat pelan, "Boleh saya menambahkan sesuatu?" Ryo sudah menceritakan kejadian pagi itu kepadanya. Laura bilang, "Silakan." Dan Kenta bilang, "Log pengecekan menunjukkan siapa yang meninjau setiap angka, dan kapan. Kalau angka Wendell melewati log yang sama, kita akan tahu siapa yang bilang siap." Kato-san bilang, "Kenta, ulangi lagi. Saya ingin menuliskannya persis."
+DANIEL: Kenta, yang selalu mulai bicara lalu berhenti.
+SENA: Dia tidak berhenti.
+DANIEL: Dan hari ketujuh catatan suasana hati?
+SENA: "Didengar." Yang lucu, karena akulah yang melakukan pendengaran. Dan tinjauanku atas tujuh hari: bangga, gugup, hangat, tegang, kewalahan, siaga, didengar. Kata-kata yang berat, "tegang," "kewalahan," "siaga," datang tepat sebelum sesuatu. Yang baik datang sesudahnya. Jadi bagian terburuknya adalah rasa takut, dan itu datang lebih dulu.
+DANIEL: Itu temuan nyata tentang minggu-minggumu sendiri. Lain kali kamu menulis "siaga," kamu bisa mengingatkan dirimu bahwa itu kata hari sebelumnya. Biasanya berakhir dengan "didengar."
+DANIEL: Tantangan hari ini: satu kali hari ini, sebelum menyampaikan pendapatmu, katakan poin orang lain dalam satu kalimat, beserta alasannya, dan tanya, "Apa aku benar?" Baru sampaikan pandanganmu.
+SENA: Alasannya, bukan hanya kata-katanya. Satu kalimat, satu pertanyaan, baru milikku.
+DANIEL: Episode berikutnya adalah episode tiga puluh tujuh, "Retell in 30 Seconds."
+SENA: Dan sepertinya itu baru saja dimulai. Daniel, ponselku. Kato-san, jam tujuh lima puluh satu pagi.
+DANIEL: Apa isinya?
+SENA: "Laura meminta saya menyampaikan: sinkronisasi pimpinan hari Rabu, jam delapan pagi. Dia ingin tiga puluh detik darimu tentang posisi region tiga. Katanya: 'Bukan Mark. Sena.'"
+DANIEL: Tiga puluh detik, untuk tim pimpinan.
+SENA: Seluruh bulan terakhirku, dalam tiga puluh detik. Dan Rabu jam delapan pagi itu besok pagi. Terima kasih sudah mendengarkan Human Curriculum.
+DANIEL: Saya Daniel.
+SENA: Dan aku Sena. Dengar alasannya, ulangi, lalu bicara. Sampai jumpa lagi.

@@ -1,0 +1,32 @@
+{
+  "cues": [
+    {"line": 1, "section": "Cold open", "sena": "worried", "daniel": "listen", "board": {"type": "keyword", "text": "\"Monday, 9 a.m. your time!!\"", "sub": "eleven hours, no answer", "icon": "Alarm clock"}},
+    {"line": 3, "sena": "sheepish", "daniel": "notice", "board": {"type": "keyword", "text": "\"Yes, sure.\"", "sub": "the draft Daniel would delete", "icon": "Wastebasket"}},
+    {"line": 6, "sena": "default", "daniel": "explain", "board": {"type": "list", "title": "By the end of this episode", "items": ["A three-part reply to a deadline you can't meet", "A quick way to guess how long it really takes"]}},
+    {"line": 9, "section": "Today", "sena": "default", "daniel": "dog", "board": {"type": "cover"}},
+    {"line": 12, "sena": "curious", "daniel": "listen", "board": {"type": "keyword", "text": "Four days, plus one", "sub": "Kenta's notebook, region two", "icon": "Notebook"}},
+    {"line": 14, "sena": "oh", "daniel": "chuckle", "board": {"type": "keyword", "text": "\"Nothing never breaks.\"", "sub": "Ryo: two days planned, six taken", "icon": "Hourglass not done"}},
+    {"line": 16, "sena": "think", "daniel": "calm", "board": {"type": "keyword", "text": "\"I would have said yes.\"", "sub": "Kato-san, then: \"Send it.\"", "icon": "Memo"}},
+    {"line": 18, "sena": "energy", "daniel": "offer", "board": {"type": "list", "title": "Sena's reply", "items": ["A one-page preview by Tuesday 9 a.m.", "Or the full view after Wednesday", "Which helps more on Wednesday?"]}},
+    {"line": 20, "sena": "relief", "daniel": "happy", "board": {"type": "keyword", "text": "Four seconds", "sub": "\"One page!! Yes!!\"", "icon": "Stopwatch"}},
+    {"line": 23, "section": "Research", "sena": "curious", "daniel": "research", "board": {"type": "keyword", "text": "The planning fallacy", "sub": "Buehler, Griffin & Ross, 1994", "icon": "Books"}},
+    {"line": 25, "sena": "oh", "daniel": "research", "board": {"type": "study", "who": "Buehler, Griffin & Ross, Study 1", "stat": "33.9 days vs 55.5", "text": "Predicted vs actual days to hand in an honors thesis. 29.7% finished by their best guess; 10.8% by the optimistic date.", "note": "37 psychology students, University of Waterloo", "icon": "Pencil"}},
+    {"line": 27, "sena": "think", "daniel": "notice", "board": {"type": "list", "title": "Cautions", "items": ["Students, one big project, 1994", "Observers judging others guessed too long", "Not every estimate is off by 60%", "Your own guess skips the filter that breaks"]}},
+    {"line": 28, "section": "Why AI can't", "sena": "think", "daniel": "explain", "board": {"type": "keyword", "text": "\"One to two days\"", "sub": "confident, and missing Kenta's notebook", "icon": "Robot"}},
+    {"line": 31, "section": "Daniel's story", "sena": "curious", "daniel": "sheepish", "board": {"type": "story", "title": "Odette's two weeks", "text": "Daniel said two weeks. The last export took five. It took thirty-four days.", "icon": "Calendar"}},
+    {"line": 35, "sena": "oh", "daniel": "sheepish", "board": {"type": "keyword", "text": "\"I planned around your two.\"", "sub": "Odette", "icon": "Memo"}},
+    {"line": 36, "sena": "relief", "daniel": "notice", "board": {"type": "keyword", "text": "How long it actually took", "sub": "two columns: what I said, what happened", "icon": "Notebook"}},
+    {"line": 37, "section": "Japan & US", "sena": "curious", "daniel": "explain", "board": {"type": "keyword", "text": "Japan and the US", "sub": "a deadline you can't meet", "icon": "Globe showing Asia-Australia"}},
+    {"line": 38, "sena": "think", "daniel": "listen", "board": {"type": "keyword", "text": "\"Kentou shimasu.\"", "sub": "I'll consider it: a polite no, heard as yes", "icon": "Envelope"}},
+    {"line": 40, "sena": "oh", "daniel": "notice", "board": {"type": "keyword", "text": "\"Nantoka shimasu.\"", "sub": "I'll make it work: yes, with a hidden cost", "icon": "Hourglass not done"}},
+    {"line": 42, "sena": "curious", "daniel": "explain", "board": {"type": "keyword", "text": "\"What happens if it's Tuesday?\"", "sub": "Laura likes a counteroffer", "icon": "Speech balloon"}},
+    {"line": 43, "sena": "oh", "daniel": "happy", "board": {"type": "compare", "left": {"title": "Tokyo: \"Nantoka shimasu\"", "items": ["Yes before checking"]}, "right": {"title": "Seattle: \"Sure, no problem!\"", "items": ["Yes before checking"]}}},
+    {"line": 45, "section": "EQ skill", "sena": "energy", "daniel": "offer", "board": {"type": "list", "title": "Push back with an offer", "items": ["What I can do, and by when", "What has to move, or what I can't do", "What matters most?"]}},
+    {"line": 46, "sena": "default", "daniel": "happy", "board": {"type": "keyword", "text": "Practice round", "sub": "\"Can you have it by Monday?\"", "icon": "Clapper board"}},
+    {"line": 50, "section": "Last time", "sena": "delighted", "daniel": "smile", "board": {"type": "keyword", "text": "\"I read it twice.\"", "sub": "Kato-san, four words", "icon": "Memo"}},
+    {"line": 53, "section": "Today's challenge", "sena": "energy", "daniel": "offer", "board": {"type": "challenge", "text": "Check last time's number, then offer what you can do", "sub": "Before you say yes to a deadline, look up how long the last similar task took. Answer with what you can do by when.", "icon": "Stopwatch"}},
+    {"line": 55, "section": "Next time", "sena": "cool", "daniel": "default", "board": {"type": "keyword", "text": "Next: Saying \"I Don't Know\"", "sub": "episode 41", "icon": "Speech balloon"}},
+    {"line": 56, "sena": "shock", "daniel": "notice", "board": {"type": "keyword", "text": "\"Please don't guess.\"", "sub": "Laura's last line, three questions for Wednesday", "icon": "Incoming envelope"}},
+    {"line": 60, "sena": "wave", "daniel": "wave", "board": {"type": "cover"}}
+  ]
+}

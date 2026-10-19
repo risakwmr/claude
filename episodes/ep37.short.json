@@ -1,0 +1,8 @@
+{
+  "shorts": [
+    {"kind": "highlight", "lines": [31, 32], "hook": "Reread it, or retell it?", "title": "Rereading your notes feels ready. It isn't."},
+    {"kind": "ai", "lines": [34, 36], "hook": "Can AI know what matters this week?", "title": "Why AI can't pick what matters to your boss"},
+    {"kind": "culture", "lines": [49, 50], "hook": "Is \"Bottom line?\" rude, or just busy?", "title": "Bottom line first? Tokyo vs Seattle updates"},
+    {"kind": "lab", "lines": [58, 58], "phrases": ["Here's where it stands", "Here's what could break", "Here's what I need from you"], "hook": "Three lines that make any update clear.", "title": "How to give a 30-second update that lands", "tag": "PHRASES THAT WORK AT WORK"}
+  ]
+}

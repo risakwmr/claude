@@ -1,0 +1,8 @@
+{
+  "shorts": [
+    {"kind": "highlight", "lines": [23, 24], "hook": "Do your nerves really show?", "title": "Your nerves show less than you think"},
+    {"kind": "ai", "lines": [28, 30], "hook": "Can AI write an opener that lands?", "title": "Why an AI opener won't make the room laugh"},
+    {"kind": "culture", "lines": [43, 44], "hook": "Does a quiet room mean no ideas?", "title": "Silence in Tokyo vs Seattle meetings"},
+    {"kind": "lab", "lines": [52, 53], "phrases": ["Can I start with one thing?", "Here's a rough thought", "Does that work for everyone?"], "hook": "Three lines to speak up early.", "title": "How to speak up early when you're not ready", "tag": "PHRASES THAT WORK AT WORK"}
+  ]
+}

@@ -400,3 +400,47 @@ RIGHT ~60%: a bright, sunny, highly detailed illustration in the same cute gloss
 
 Keep the warm light and the cheerful, hopeful mood. No other text, no logos, no watermarks. Before finishing, check every word in the image matches the text above letter for letter.
 ```
+
+## EP39｜Presenting with a Story
+
+```
+Make a YouTube thumbnail in exactly the same style and layout as the reference thumbnail "Feedback Without Defensiveness" (episodes/thumbnail_refs/ref_feedback_style.png) and the EP29-31 thumbnails. 16:9, 1672x941.
+
+IMPORTANT: Use the text below EXACTLY as written. Do NOT change, shorten, rephrase or invent the episode number, the main title, the subtitle, the book names or any note text. If you cannot fit it, make the font smaller, never change the words.
+
+LEFT ~40%: cream paper panel with torn edges and coral and sky-blue watercolor brush splashes in the corners.
+- Top: "The Human Curriculum" in small navy serif with a thin underline.
+- A coral brush-stroke banner with white text: "EPISODE 39".
+- Main title in very large, bold navy serif (2-4 lines): "Presenting with a Story"
+- A thin coral rule, then the subtitle in navy serif: "Open Your Talk with One Real Person", with the words "One Real Person" in coral bold italics.
+- Bottom left: a stack of three hardcover books (blue, pink, cream) lying on a sunny stone ledge with yellow ginkgo leaves, with these words on the spines: "Small", "Story", "Person".
+
+RIGHT ~60%: a bright, sunny, highly detailed illustration in the same cute glossy anime style as the reference: a sunny old hillside town in autumn with stone stairs, ivy, flower pots, old street lamps and domed rooftops in the distance, blue sky, golden light, falling ginkgo leaves.
+- Sena: Japanese woman in her late 20s, cute glossy anime-style face like the reference (soft smile, big warm brown eyes), long voluminous wavy light-brown hair blowing in the breeze, black sunglasses pushed up on her head, small gold hoop earrings, chunky dusty-pink knit sweater, cream wide-leg trousers, black shoulder bag. Same face as in the reference thumbnails.
+- Scene: on a sunny rooftop terrace of the hillside town with laundry lines, flower pots and domed rooftops behind, Sena strides forward mid-step with both arms thrown wide and her chin up, one hand holding a pastel sticky note high in the air, a small crowd of friendly townspeople seen from behind (faces hidden) turning toward her, golden ginkgo leaves swirling around her. Camera is low on the terrace floor in front of her, looking up in wide angle so the blue sky and domes fill the background. No desk, laptop or coffee cup. Sena must never sit, lie down or sleep in front of a computer; no computers or screens anywhere in the image.
+- Around her, 4 pastel notes (pink, sky blue, pale yellow) taped in the scene, handwritten in navy pen with a red underline and a small red heart: "A name", "A place and a moment", "One detail only they gave you", "Then your number"
+
+Keep the warm light and the cheerful, hopeful mood. No other text, no logos, no watermarks. Before finishing, check every word in the image matches the text above letter for letter.
+```
+
+## EP40｜Pushing Back on Deadlines
+
+```
+Make a YouTube thumbnail in exactly the same style and layout as the reference thumbnail "Feedback Without Defensiveness" (episodes/thumbnail_refs/ref_feedback_style.png) and the EP29-31 thumbnails. 16:9, 1672x941.
+
+IMPORTANT: Use the text below EXACTLY as written. Do NOT change, shorten, rephrase or invent the episode number, the main title, the subtitle, the book names or any note text. If you cannot fit it, make the font smaller, never change the words.
+
+LEFT ~40%: cream paper panel with torn edges and coral and sky-blue watercolor brush splashes in the corners.
+- Top: "The Human Curriculum" in small navy serif with a thin underline.
+- A coral brush-stroke banner with white text: "EPISODE 40".
+- Main title in very large, bold navy serif (2-4 lines): "Pushing Back on Deadlines"
+- A thin coral rule, then the subtitle in navy serif: "Say No to the Date, Offer What You Can Do", with the words "Offer What You Can Do" in coral bold italics.
+- Bottom left: a stack of three hardcover books (blue, pink, cream) lying on a sunny stone ledge with yellow ginkgo leaves, with these words on the spines: "Buehler", "Deadline", "Offer".
+
+RIGHT ~60%: a bright, sunny, highly detailed illustration in the same cute glossy anime style as the reference: a sunny old hillside town in autumn with stone stairs, ivy, flower pots, old street lamps and domed rooftops in the distance, blue sky, golden light, falling ginkgo leaves.
+- Sena: Japanese woman in her late 20s, cute glossy anime-style face like the reference (soft smile, big warm brown eyes), long voluminous wavy light-brown hair blowing in the breeze, black sunglasses pushed up on her head, small gold hoop earrings, chunky dusty-pink knit sweater, cream wide-leg trousers, black shoulder bag. Same face as in the reference thumbnails.
+- Scene: on a steep sunny cobbled lane of the hillside town lined with market stalls, Sena braces both feet wide and leans her whole body forward, both palms pressed against a giant round clock face made of painted wood that is rolling down the slope toward her, hair swept back, a determined smile, a few townspeople watching from the stalls with faces hidden. A small sticky-note-shaped sign hangs on the clock. Camera is at ground level from the side, telephoto compression, so the clock, Sena and the long lane fill the frame. No desk, laptop or coffee cup. Sena must never sit, lie down or sleep in front of a computer; no computers or screens anywhere in the image.
+- Around her, 4 pastel notes (pink, sky blue, pale yellow) taped in the scene, handwritten in navy pen with a red underline and a small red heart: "Check the last real time", "What I can do, by when", "What has to move", "What matters most?"
+
+Keep the warm light and the cheerful, hopeful mood. No other text, no logos, no watermarks. Before finishing, check every word in the image matches the text above letter for letter.
+```

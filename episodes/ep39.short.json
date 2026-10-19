@@ -1,0 +1,8 @@
+{
+  "shorts": [
+    {"kind": "highlight", "lines": [27, 29], "hook": "Where does your customer story go?", "title": "Why the customer story shouldn't be on slide thirteen"},
+    {"kind": "ai", "lines": [24, 26], "hook": "Can AI invent your customer story?", "title": "Why an AI-written customer story falls apart"},
+    {"kind": "culture", "lines": [36, 38], "hook": "Why is the customer \"Customer A\"?", "title": "Customer A in Tokyo vs a name in Seattle"},
+    {"kind": "lab", "lines": [48, 48], "phrases": ["Let me start with one person", "Here's why she matters"], "hook": "Open with one person, not a chart.", "title": "How to open a presentation with a person", "tag": "PHRASES THAT WORK AT WORK"}
+  ]
+}

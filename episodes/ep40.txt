@@ -1,0 +1,60 @@
+SENA: "Monday, 9 a.m. your time!!" Daniel, it's been eleven hours and I still haven't answered Mark.
+DANIEL: Eleven hours? What does your draft say?
+SENA: Two words. "Yes, sure."
+DANIEL: That's the draft I'd delete.
+SENA: I know it's the wrong answer. My thumb knows it too. It keeps hovering over "send."
+DANIEL: By the end of this episode, you'll have a three-part reply for a deadline you can't meet, and a quick way to guess how long something will really take.
+DANIEL: Welcome back to Human Curriculum. I'm Daniel, in Seattle.
+SENA: And I'm Sena, in Tokyo. It's Friday, nine at night here.
+DANIEL: And it's five in the morning here. Maple is standing at the door with his leash in his mouth, so I have until he gives up. Tell me about your day.
+SENA: After the call with you, I read Mark's message four more times. Three days of work, due Monday morning, and I'd promised Tanabe-san a call on Sunday. So I did what I do with every hard question. I asked someone who's already done it.
+DANIEL: Who did you ask?
+SENA: Kenta. I said, "How long did the region two view take you?" He opened his notebook, which of course has dates in it, and said, "Four days, and then one more day to fix a filter." Five days. For a region I already understood.
+DANIEL: And you'd guessed?
+SENA: Three days, if nothing broke. Then Ryo walked by and said, "Nothing never breaks." He said the Osaka script was supposed to take two days, and it took six.
+DANIEL: Both of them just handed you your baseline.
+SENA: Then I showed Kato-san what I wanted to write to Mark. And he said, very kindly, "I would have said yes." And then, a few seconds later, "But I think what you wrote is better. Send it."
+DANIEL: What did you write?
+SENA: "Mark, Monday 9 a.m. isn't realistic for the full region three view. Here's what I can do. A one-page region three preview, built on Wendell's final numbers, by Tuesday 9 a.m. my time. That's Monday 5 p.m. for you, a day before the review. Or the full view after Wednesday. Which would help more on Wednesday?"
+DANIEL: And Mark?
+SENA: Four seconds. "OH. One page!! Yes!! I was thinking way too big 😅"
+DANIEL: Four seconds. He was waiting for a smaller question the whole time.
+SENA: I'd spent eleven hours imagining he'd be upset.
+DANIEL: There's research behind that eleven hours. In 1994, Roger Buehler, Dale Griffin and Michael Ross published "Exploring the Planning Fallacy" in the Journal of Personality and Social Psychology. In Study 1, they called 37 psychology students at the University of Waterloo who were finishing their honors thesis, and asked when they'd hand it in.
+SENA: And?
+DANIEL: Thirty-seven students predicted they'd finish their thesis in 33.9 days. They took 55.5. Only 29.7 percent finished by their own best guess, and even when asked about everything going perfectly, only 10.8 percent made that date.
+SENA: Even when they pictured everything going right, almost nobody made it.
+DANIEL: The cautions: students, one big project, an honors thesis, and it was 1994. The paper also found that observers judging someone else's task guessed too long, which is why asking Kenta and Ryo was smart. I'm not saying every estimate is off by sixty percent. I'm saying the guess about your own work is the one most likely to leave out the filter that breaks.
+SENA: I also asked an AI. It said, "A region three view typically takes one to two days." Confident. Wrong.
+DANIEL: Why can't AI answer this one for you?
+SENA: Because the AI doesn't know Kenta's notebook says five days, or that Ryo's script took six, or that every region has its own odd filter. The true answer lives in our history, not in the average.
+DANIEL: Which brings me to my own failure. Years ago, a program manager on a partner team, Odette, asked, "How long will it take to export the support data?" I said, "Two weeks." The last export had taken five.
+SENA: You knew that.
+DANIEL: I knew it and I said two anyway, because she looked worried and I wanted her to feel better in the moment. She told her VP two weeks. On day fourteen I wrote, "A few more days." It was day thirty-four.
+SENA: What did she say?
+DANIEL: "If you'd said five weeks, I'd have planned around five. I planned around your two." That's when I started a list called "How long it actually took." Two columns: what I said and what happened.
+SENA: A deadline you say out loud isn't just your time. It's other people's plan.
+DANIEL: Right. And Tokyo and Seattle handle a deadline you can't meet very differently, so tell me about Osaka.
+SENA: Kato-san told me about a Friday when he was a team lead in Osaka. A sales director asked, "Can you get me this by Friday?" Kato-san thought about it and said, "Kentou shimasu." I'll consider it.
+DANIEL: And the director heard?
+SENA: A yes. And Kato-san meant a no, a polite one. So Friday morning, the director walked over and said, "Where is it?" In Japan there's a second version too: "Nantoka shimasu," I'll make it work somehow. That one means yes, and the cost is hidden. Kato-san said a direct "I can't" sounds like you're refusing the person, not the date.
+DANIEL: And in Seattle?
+SENA: Laura asks, "What's the real deadline? What happens if it's Tuesday?" And she's happy when someone answers, "Monday's tight. I can do Tuesday, and here's what you'd get Friday." In many US teams, a counteroffer isn't a no. It's a way of working the problem with you. But the Seattle version of the same mistake is the cheerful "Sure, no problem!" that hides the real answer.
+DANIEL: So Tokyo's "Nantoka shimasu" and Seattle's "Sure, no problem" are cousins. Both say yes before checking.
+SENA: And what each side can borrow: Tokyo can borrow the Seattle counteroffer, and Seattle can borrow Tokyo's care about the relationship. I said "Which would help more on Wednesday?" That's the question that keeps Mark's goal in the middle.
+DANIEL: Let's turn it into a skill. It's relationship management, pushing back with an offer. Three parts. One, what you can do and by when. Two, what has to move to make room, or what you can't do. Three, a question about what matters most. Before you answer, look up how long the last similar thing really took.
+SENA: Let me try it. You're Mark. "Can you have it by Monday?"
+DANIEL: "Can you have it by Monday?"
+SENA: Mark, Monday's not realistic for all of it. Here's what I can do by Tuesday: the one-page preview. The full view would push the Osaka call. Which matters most for Wednesday?
+DANIEL: "The preview, definitely." Notice you didn't apologize once.
+SENA: Okay, last time's challenge was to open with one real person. I did it in my email to Kato-san this morning. I began with Tanabe-san's Tuesday typed twice, at eleven p.m.
+DANIEL: What did Kato-san say?
+SENA: He wrote back four words. "I read it twice." And that's from a man who reads everything once.
+DANIEL: Mine was a note to my VP, which I opened with Soren, an engineer on my team who rebuilt our on-call rotation over a weekend. She answered in ten minutes. Okay, today's challenge: before you say yes to a deadline, find out how long the last similar thing really took. Then answer with what you can do by when, and ask what matters most.
+SENA: Last time's number, then what I can do, then what matters most. And Daniel, I have one more thing. Kato-san forwarded a message from Laura an hour ago, and I haven't told anyone.
+DANIEL: Next time is episode forty-one, "Saying 'I Don't Know.'" What does it say?
+SENA: "For Wednesday, please be ready for three questions. One: why only region one? Two: when does region three launch? Three: how many stores still build their numbers by hand?"
+DANIEL: Can you answer all three?
+SENA: One and two, almost. Three, nobody knows. And the last line of her note says, "Please don't guess." Thanks for listening to Human Curriculum.
+DANIEL: I'm Daniel.
+SENA: And I'm Sena. Check the last number, offer what you can, ask what matters. See you next time.

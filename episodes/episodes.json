@@ -2162,6 +2162,119 @@
       ],
       "thumb_cup": "Say their point first",
       "thumb_pose": "sena_turn"
+    },
+    {
+      "number": 37,
+      "script": "ep37.txt",
+      "title": "Retell in 30 Seconds",
+      "short_title": "Retell in 30 Seconds",
+      "summary": "Laura asks Sena for thirty seconds on region three at a leadership sync. The night before, Sena had read her fourteen pages six times and felt ready, but when she closed the notebook and retold the month from memory she couldn't say Wendell's date. Kato-san's hallway question, \"what to worry about this week, and what to do about it,\" turns it into three sentences: where it stands, what could break, what I need. Daniel shares Roediger and Karpicke's 2006 testing-effect study (120 and 180 undergraduates): retelling from memory beat rereading after two days and a week even though rereading won at five minutes, with honest limits about students, short passages and written recall. He tells the story of Hector, a director who asked \"Is the project late?\" after Daniel saved the bad news for the end of a day-by-day update. Japan vs the US: \"ketsuron kara itte\" versus keii, the background that comes first in Tokyo emails, versus bottom line up front in many American companies, plus Laura's one-line \"Bottom line?\" and Kato-san's twelve-words-on-top fix. Today's challenge: after one meeting, close your notes and say the main point out loud in thirty seconds, record it, then check what you dropped and added.",
+      "practice": "After one meeting or call today, close your notes and say the main point out loud in thirty seconds: where it stands, what could break, what you need. Record it on your phone, then open your notes and see what you dropped and what you added.",
+      "sources": [
+        "Roediger & Karpicke (2006), Test-Enhanced Learning: Taking Memory Tests Improves Long-Term Retention, Psychological Science 17(3), 249–255"
+      ],
+      "tags": [
+        "30-second update",
+        "status update",
+        "summarizing a meeting",
+        "testing effect",
+        "bottom line up front",
+        "communication",
+        "EQ",
+        "emotional intelligence",
+        "career",
+        "program manager",
+        "audiobook",
+        "Japanese work culture",
+        "Japan vs US"
+      ],
+      "yt_title": "Asked for a Quick Update? Say It in 30 Seconds",
+      "hook": "Someone says \"Give me the quick version,\" and your whole month tries to come out at once. You have thirty seconds and fourteen pages.\nHere is a three-sentence way to retell any meeting or project, and a simple test for what you actually remember.",
+      "points": [
+        "Rereading felt better at five minutes; retelling from memory won at two days and a week (Roediger & Karpicke, 120 and 180 students)",
+        "Close your notes and say it out loud: you find what you really know",
+        "Where it stands, what could break, what I need (with a name and a day)",
+        "Daniel's day-by-day update and Hector's \"Is the project late?\"",
+        "Tokyo's background first vs Seattle's bottom line first: put the conclusion on top and the background underneath"
+      ],
+      "title_ja": "30秒で話し直す",
+      "hook_ja": "「ざっくり教えて」と言われて、1か月ぶんが一度に出てこようとする。30秒しかなくて、ノートは14ページ。\nどんな会議やプロジェクトも話し直せる三つの文の型と、自分が本当に覚えていることを確かめる簡単なテストを紹介します。",
+      "points_ja": [
+        "読み直しは5分後は有利でも、記憶から話し直すほうが、2日後と1週間後に勝った（ローディガーとカーピキ、学生120人と180人）",
+        "ノートを閉じて声に出す。本当に知っていることが見える",
+        "いまどこか、何が崩れうるか、何が必要か（名前と日付つきで）",
+        "ダニエルの日ごとの報告と、ヘクターの「プロジェクトは遅れてるのか？」",
+        "東京の経緯が先と、シアトルの結論が先。結論を上に、経緯を下に置く"
+      ],
+      "summary_ja": "リーダーシップ会議で、ローラさんがセナにリージョン3について30秒を求めます。前の晩、セナは14ページを6回読んで準備できたと思っていたのに、ノートを閉じて1か月ぶんを記憶から話し直したら、ウェンデルさんの日付が出てきませんでした。加藤さんが廊下で言った「今週何を心配すべきか、そしてそれにどうするか」を手がかりに、三つの文、いまどこまで来たか、何が崩れうるか、何が必要か、にまとめます。ダニエルは、ローディガーとカーピキの2006年のテスト効果の研究（学部生120人と180人）を紹介します。読み直しは5分後には勝ったのに、記憶から話し直したほうが2日後と1週間後に勝ちました（学生、短い文章、書いて思い出す形という限界も正直に）。そして、日ごとの報告の最後に悪い知らせをとっておいて、ディレクターのヘクターに「プロジェクトは遅れてるのか？」と聞かれた話。日本とアメリカでは、「結論から言って」と、東京のメールで先に来る経緯、アメリカの多くの会社の「結論を先に」を比べ、ローラさんの一行の「Bottom line?」と、加藤さんの「上に12語、下に参考」という工夫も紹介します。今日のチャレンジ：ひとつ会議のあと、ノートを閉じて要点を30秒で声に出し、録音して、何を落として何を足したか確認する。",
+      "practice_ja": "今日、会議か通話をひとつ終えたら、ノートを閉じて、要点を30秒で声に出す。いまどこか、何が崩れうるか、何が必要か。スマホで録音して、そのあとノートを開き、何を落として何を足したかを見てみる。",
+      "thumb_accent": "30 Seconds",
+      "thumb_sub": "Retell Any Meeting in 30 Seconds",
+      "thumb_notes": [
+        "Close your notes",
+        "Where it stands",
+        "What could break",
+        "What I need from you"
+      ],
+      "thumb_cup": "Say it from memory",
+      "thumb_pose": "sena_window_lean"
+    },
+    {
+      "number": 38,
+      "script": "ep38.txt",
+      "title": "Speaking Before You Feel Ready",
+      "short_title": "Speaking Before You Feel Ready",
+      "summary": "Thursday's call has Mark's whole launch team, eleven people Sena has never met, and Laura wants her to open it. After a perfect three-paragraph opening that begins with an apology, Sena writes only one specific first sentence, rates her nerves in the margin (7 at midnight, 8 at 7:58), and opens with a line about marketing's banner. Her nerves go to 5 after the sentence and 3 by minute ten. Daniel shares Savitsky and Gilovich's 2003 illusion-of-transparency studies: 40 Cornell students rated themselves as looking more nervous (6.55) than their partners did (5.25), and speakers told about the illusion were rated more composed and gave better speeches than speakers who got nothing or plain reassurance (77 speakers), with honest limits, including a 2011 master's thesis with 31 anxious students that found no significant differences. He tells the story of Lucia, who said his on-call idea half-baked in minute three while he waited for his numbers. Japan vs the US: \"Nanika goiken wa arimasu ka?\" and a seven-second silence in Tokyo, where the meeting confirms and nemawashi does the thinking, versus \"Strawman\" and \"half-baked, but...\" in Seattle, and why \"ready\" means two different things. Today's challenge: say one sentence in the first minute of your next meeting and write your nerves, 1 to 10, before and after.",
+      "practice": "In your next meeting, say one sentence in the first minute, before you feel ready. Write your nerves from one to ten before and after, and use a rough opener if you need one: \"Here's a rough thought,\" or \"Can I start with one thing?\"",
+      "sources": [
+        "Savitsky & Gilovich (2003), The illusion of transparency and the alleviation of speech anxiety, Journal of Experimental Social Psychology 39(6), 618–625",
+        "Gloth (2011), The Illusion of Transparency and Public Speaking: A Study of Social Anxiety, master's thesis, Minnesota State University, Mankato (small replication attempt, 31 participants)"
+      ],
+      "tags": [
+        "speaking up in meetings",
+        "speaking first",
+        "nervousness",
+        "illusion of transparency",
+        "meeting openers",
+        "communication",
+        "EQ",
+        "emotional intelligence",
+        "career",
+        "program manager",
+        "audiobook",
+        "Japanese work culture",
+        "Japan vs US"
+      ],
+      "yt_title": "Waiting to Feel Ready to Speak Up? Say One Sentence First",
+      "hook": "You are waiting to feel ready before you speak in the meeting, and the room keeps moving. Your heart is loud, and you are sure everyone can see it.\nHere is why the first minute is the easiest time to speak, a one-sentence opener, and what research says about how nervous you really look.",
+      "points": [
+        "People think they look more nervous than they do: 6.55 vs 5.25 (Savitsky & Gilovich, 40 students)",
+        "Speakers told about the illusion were rated more composed and gave better speeches than speakers who were just told not to worry",
+        "Write only the first sentence, with one detail only you have, and say it in the first minute",
+        "Daniel waited for his numbers; Lucia said a half-baked version of his idea in minute three",
+        "Tokyo's silence is often groundwork elsewhere; \"ready\" means two different things"
+      ],
+      "title_ja": "準備できる前に話す",
+      "hook_ja": "準備できたと感じるまで待っているうちに、会議は先へ進む。心臓の音は大きくて、全員に見えている気がする。\n最初の1分がいちばん話しやすい理由と、一文のオープナー、そして実際どれくらい緊張して見えているのかについての研究を紹介します。",
+      "points_ja": [
+        "人は、実際より緊張して見えていると思っている：6.55対5.25（サヴィツキーとギロビッチ、学生40人）",
+        "この錯覚を教えられた人は、ただ「心配しないで」と言われた人より、落ち着いて見え、スピーチも良いと評価された",
+        "最初の一文だけを書く。自分しか知らない細かい情報をひとつ入れて、最初の1分で言う",
+        "数字を待っていたダニエルと、3分目に彼のアイデアの粗いバージョンを言ったルシア",
+        "東京の沈黙は、根回しが別の場所にあることも多い。「準備できた」はふたつの意味を持つ"
+      ],
+      "summary_ja": "木曜の会議には、マークさんのリリースチーム、セナが会ったことのない11人が入ってきて、ローラさんはセナに口火を切ってほしいと言います。謝罪で始まる完璧な3段落のオープニングを書いたあと、セナは、具体的な最初の一文だけを書き、余白に緊張を記録します（夜中は7、7時58分は8）。そして、マーケティングのバナーの話で始めます。緊張は、その一文のあとに5、10分後には3。ダニエルは、サヴィツキーとギロビッチの2003年の「透明性の錯覚」の研究を紹介します。コーネル大学の学生40人は、自分のほうが相手より緊張して見えたと評価し（6.55対5.25）、この錯覚を教えられた話し手は、何も言われなかった人やただ安心させられた人より、落ち着いて見え、スピーチも良いと評価されました（話し手77人）。限界も正直に、2011年のミネソタの修士論文（不安の強い学生31人）は有意な差を見つけませんでした。そして、数字を待っているあいだに、3分目にルシアが彼のオンコール案を粗い形で言ってしまった話。日本とアメリカでは、東京の「何かご意見はありませんか？」と7秒の沈黙（会議は確認の場で、考える作業は根回しで）と、シアトルの「Strawman」「まだ半分ですが…」を比べ、「準備できた」がふたつの意味を持つことを見ます。今日のチャレンジ：次の会議の最初の1分で一文を言い、緊張を1から10で前後に記録する。",
+      "practice_ja": "次の会議で、準備できた気持ちになる前に、最初の1分で一文を言う。緊張を、1から10で、前と後に書く。必要なら、粗い始め方を使う。「Here's a rough thought」や「Can I start with one thing?」。",
+      "thumb_accent": "Before You're Ready",
+      "thumb_sub": "Speak in the First Minute, Before You're Ready",
+      "thumb_notes": [
+        "Write only the first sentence",
+        "Add one detail only you have",
+        "Say it in the first minute",
+        "Rate your nerves, 1 to 10"
+      ],
+      "thumb_cup": "First sentence first",
+      "thumb_pose": "sena_door_push"
     }
   ]
 }

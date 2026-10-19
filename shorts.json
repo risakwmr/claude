@@ -228,6 +228,11 @@
       "zh-TW"
     ]
   },
+  "11-highlight": {
+    "video_id": "LyWknyo0J78",
+    "uploaded_at": "2026-10-19T18:38:18+00:00",
+    "publish_at": "2026-10-19T19:00:00Z"
+  },
   "16-ai": {
     "video_id": "wpHzHItUs9A",
     "uploaded_at": "2026-10-08T05:15:48+00:00",
@@ -410,6 +415,21 @@
     "video_id": "MF76WcXTnjc",
     "uploaded_at": "2026-10-18T23:00:01+00:00",
     "publish_at": "2026-10-19T00:00:00Z",
+    "localized": [
+      "fr",
+      "ko",
+      "zh-TW"
+    ]
+  },
+  "31-highlight": {
+    "video_id": "36Ex-WmNttI",
+    "uploaded_at": "2026-10-19T18:38:14+00:00",
+    "publish_at": "2026-10-20T00:00:00Z"
+  },
+  "31-culture": {
+    "video_id": "L-ru464ZX8o",
+    "uploaded_at": "2026-10-19T18:38:16+00:00",
+    "publish_at": "2026-10-20T00:00:00Z",
     "localized": [
       "fr",
       "ko",

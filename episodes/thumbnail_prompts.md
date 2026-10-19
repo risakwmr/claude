@@ -356,3 +356,47 @@ RIGHT ~60%: a bright, sunny, highly detailed illustration in the same cute gloss
 
 Keep the warm light and the cheerful, hopeful mood. No other text, no logos, no watermarks. Before finishing, check every word in the image matches the text above letter for letter.
 ```
+
+## EP37｜Retell in 30 Seconds
+
+```
+Make a YouTube thumbnail in exactly the same style and layout as the reference thumbnail "Feedback Without Defensiveness" (episodes/thumbnail_refs/ref_feedback_style.png) and the EP29-31 thumbnails. 16:9, 1672x941.
+
+IMPORTANT: Use the text below EXACTLY as written. Do NOT change, shorten, rephrase or invent the episode number, the main title, the subtitle, the book names or any note text. If you cannot fit it, make the font smaller, never change the words.
+
+LEFT ~40%: cream paper panel with torn edges and coral and sky-blue watercolor brush splashes in the corners.
+- Top: "The Human Curriculum" in small navy serif with a thin underline.
+- A coral brush-stroke banner with white text: "EPISODE 37".
+- Main title in very large, bold navy serif (2-4 lines): "Retell in 30 Seconds"
+- A thin coral rule, then the subtitle in navy serif: "Retell Any Meeting in 30 Seconds", with the words "30 Seconds" in coral bold italics.
+- Bottom left: a stack of three hardcover books (blue, pink, cream) lying on a sunny stone ledge with yellow ginkgo leaves, with these words on the spines: "Roediger", "Retrieve", "Recall".
+
+RIGHT ~60%: a bright, sunny, highly detailed illustration in the same cute glossy anime style as the reference: a sunny old hillside town in autumn with stone stairs, ivy, flower pots, old street lamps and domed rooftops in the distance, blue sky, golden light, falling ginkgo leaves.
+- Sena: Japanese woman in her late 20s, cute glossy anime-style face like the reference (soft smile, big warm brown eyes), long voluminous wavy light-brown hair blowing in the breeze, black sunglasses pushed up on her head, small gold hoop earrings, chunky dusty-pink knit sweater, cream wide-leg trousers, black shoulder bag. Same face as in the reference thumbnails.
+- Scene: from a stone house on a sunny lane in the hillside town, Sena leans far out of an open arched window with one foot up on the sill, snapping a big closed notebook shut in one hand while the other hand is cupped at her mouth as she calls out cheerfully to the town below; a single neat line of thirty tiny glowing speech dots streams out of her mouth and arcs across the rooftops. Ivy, flower boxes and shutters frame the window. Camera is across the lane on a flower-box balcony, slightly above eye level, medium shot with a long lens so the domes behind her feel close. No desk, laptop or coffee cup. Sena must never sit, lie down or sleep in front of a computer; no computers or screens anywhere in the image.
+- Around her, 4 pastel notes (pink, sky blue, pale yellow) taped in the scene, handwritten in navy pen with a red underline and a small red heart: "Close your notes", "Where it stands", "What could break", "What I need from you"
+
+Keep the warm light and the cheerful, hopeful mood. No other text, no logos, no watermarks. Before finishing, check every word in the image matches the text above letter for letter.
+```
+
+## EP38｜Speaking Before You Feel Ready
+
+```
+Make a YouTube thumbnail in exactly the same style and layout as the reference thumbnail "Feedback Without Defensiveness" (episodes/thumbnail_refs/ref_feedback_style.png) and the EP29-31 thumbnails. 16:9, 1672x941.
+
+IMPORTANT: Use the text below EXACTLY as written. Do NOT change, shorten, rephrase or invent the episode number, the main title, the subtitle, the book names or any note text. If you cannot fit it, make the font smaller, never change the words.
+
+LEFT ~40%: cream paper panel with torn edges and coral and sky-blue watercolor brush splashes in the corners.
+- Top: "The Human Curriculum" in small navy serif with a thin underline.
+- A coral brush-stroke banner with white text: "EPISODE 38".
+- Main title in very large, bold navy serif (2-4 lines): "Speaking Before You Feel Ready"
+- A thin coral rule, then the subtitle in navy serif: "Speak in the First Minute, Before You're Ready", with the words "Before You're Ready" in coral bold italics.
+- Bottom left: a stack of three hardcover books (blue, pink, cream) lying on a sunny stone ledge with yellow ginkgo leaves, with these words on the spines: "Savitsky", "Nerves", "Open".
+
+RIGHT ~60%: a bright, sunny, highly detailed illustration in the same cute glossy anime style as the reference: a sunny old hillside town in autumn with stone stairs, ivy, flower pots, old street lamps and domed rooftops in the distance, blue sky, golden light, falling ginkgo leaves.
+- Sena: Japanese woman in her late 20s, cute glossy anime-style face like the reference (soft smile, big warm brown eyes), long voluminous wavy light-brown hair blowing in the breeze, black sunglasses pushed up on her head, small gold hoop earrings, chunky dusty-pink knit sweater, cream wide-leg trousers, black shoulder bag. Same face as in the reference thumbnails.
+- Scene: at the top of a worn stone lane in the hillside town, Sena shoulders open a heavy arched wooden door with both hands, leaning in mid-step with one foot already over the threshold, hair swept forward, a bold excited smile, warm golden light pouring out of the doorway onto the cobblestones and a few friendly townspeople seen from behind inside, faces hidden. A small sticky-note-shaped sign hangs on the door. Camera is inside the doorway looking out at her, wide angle with a slightly tilted horizon, so the bright lane and domes glow behind her. No desk, laptop or coffee cup. Sena must never sit, lie down or sleep in front of a computer; no computers or screens anywhere in the image.
+- Around her, 4 pastel notes (pink, sky blue, pale yellow) taped in the scene, handwritten in navy pen with a red underline and a small red heart: "Write only the first sentence", "Add one detail only you have", "Say it in the first minute", "Rate your nerves, 1 to 10"
+
+Keep the warm light and the cheerful, hopeful mood. No other text, no logos, no watermarks. Before finishing, check every word in the image matches the text above letter for letter.
+```

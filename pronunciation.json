@@ -97,12 +97,12 @@
   "kanto": {
     "episode": 32,
     "reported": true,
-    "next_reported": false
+    "next_reported": true
   },
   "kansai": {
     "episode": 32,
     "reported": true,
-    "next_reported": false
+    "next_reported": true
   },
   "kono shiryou": {
     "episode": 34,

@@ -1,0 +1,60 @@
+SENA: "No chart on slide one. Start with a person." Daniel, Laura wants three minutes from me, and I don't have a person.
+DANIEL: You have fourteen pages on region three and no person?
+SENA: I have columns. Rows. One very good filter. Zero people.
+DANIEL: Who's the person in your numbers?
+SENA: That's what I asked myself at midnight, with the kettle.
+DANIEL: By the end of this episode, you'll have a four-part way to open any talk with one real person, and a test for whether your story is true enough to tell.
+DANIEL: Welcome back to Human Curriculum. I'm Daniel, in Seattle.
+SENA: And I'm Sena, in Tokyo. It's Friday, nine in the morning, and I've already made one phone call in Japanese before breakfast.
+DANIEL: It's Thursday, five in the afternoon here, and Maple is asleep on my feet. Start from last night.
+SENA: Thursday night I told Kato-san, "I only have a manager in Osaka who builds her weekly numbers by hand. Tanabe-san. I've never met her." He didn't say anything for a few seconds. Then he said, "Call her. Not email. I'll ask Osaka sales to introduce you."
+DANIEL: A phone call. Kato-san, giving advice with no packed calendar in sight.
+SENA: At seven forty this morning, before her store opened, I called. I had a note on my phone: three questions, and the first one was, "Can I use your name?" My heart was at a six.
+DANIEL: And she said?
+SENA: She said, "Use it. Say I'm tired of Sundays." Then she told me the whole thing. Every Sunday night, after her kids are in bed, she opens the register export and copies six days of sales into a spreadsheet by hand. It takes about ninety minutes. Last Sunday, at eleven, she found she'd typed Tuesday twice.
+DANIEL: Tuesday twice. That's the double-count Kenta found in March, from the other side of the screen.
+SENA: I know! I had the exact same bug in my pipeline, and I never saw the person typing it. I had it as a filter. She has it as eleven o'clock on a Sunday night.
+DANIEL: Hold onto that sentence, because there's research on exactly why one person lands harder than a chart. In 2007, Deborah Small, George Loewenstein and Paul Slovic published a paper called "Sympathy and callousness" in Organizational Behavior and Human Decision Processes.
+SENA: So, charity?
+DANIEL: Yes, so keep the limits in mind. In Study 3, 159 people on a Pennsylvania campus each earned five dollars for a short survey, then could give any of it to Save the Children. Some read about Rokia, a seven-year-old girl in Mali. Some read statistics, like three million children affected by food shortages in Malawi. Rokia got an average of $2.38. The statistics got $1.14.
+SENA: So one little girl got more than twice the money.
+DANIEL: And here's the part I'd tell any presenter. A third group read Rokia's story and the statistics. They gave $1.43, no better than the statistics alone. The authors think the numbers can remind people how big the problem is and weaken the feeling that one person's story creates.
+SENA: But that was charity. Laura's product review isn't a charity.
+DANIEL: Right, so here are the cautions. Students and passersby, a five-dollar donation, a story about a child in need, not a work meeting. And in 2024, researchers ran a pre-registered replication of studies 1 and 3, with hypothetical donations, and found no support for the effect. The identifiable victim effect may be smaller than that famous result. So I'm not telling you a story always beats a number. I'm saying a specific person is a better first sentence than a chart nobody can picture yet. That part is my judgment, not the paper's.
+SENA: Last night I also asked an AI for my opening. It wrote, "Meet Maria, a store manager in Osaka who spends her Sundays buried in spreadsheets." Warm. Specific. Completely invented.
+DANIEL: Which is why AI can't do this part for you.
+SENA: Right. The detail that stopped me was "Tuesday, twice, at eleven p.m." The AI would have given her a name. It couldn't have given me her Sunday. And if Laura asked, "Where is she?" I'd have nothing.
+DANIEL: Let me tell you why the ordering matters, with my own failure. A few years ago I presented our support-quality results to my VP's staff. Fourteen slides. A retention chart first, a customer on slide thirteen.
+SENA: Slide thirteen?
+DANIEL: I saved the human part for dessert. By slide four, half the room was checking their phones. Pilar, who ran support for the whole region, finally said, "Daniel, whose ticket is that?" I didn't know what she meant.
+SENA: Because the chart had no ticket in it.
+DANIEL: Exactly. On slide thirteen I finally told them about a retired teacher, Mr. Okafor, who spent forty minutes looking for the export button and then wrote, "I felt stupid." The room went quiet. Pilar said, "That's the one I'll remember. Why wasn't that the first slide?"
+SENA: What did you say?
+DANIEL: I said, "Because the chart felt safer." It was true. A person can be questioned. A chart just sits there.
+SENA: Chart as a shield.
+DANIEL: Always. And now the segment I think you'll like. Tokyo and Seattle open presentations differently.
+SENA: Kato-san showed me an old Osaka deck. Slide one, title. Slide two, agenda. Slide three, market background. The customer comes last, under "Okyakusama no koe," the voice of the customer, with two quotes. The company is "Customer A."
+DANIEL: Customer A.
+SENA: He said naming a customer in Japan can feel like exposing them. So you protect the person: Customer A. And the background first shows the audience you did your homework.
+DANIEL: Which is generous. And what happens in Seattle?
+SENA: Kato-san told me what Laura did last spring at the Seattle review, when a team opened with an agenda slide. She said, "Skip that. Who are we building this for?" Then she asked, "What's her name? What did she do last Tuesday?" Not because she wants gossip. Because a name and a Tuesday make the room picture the same thing at the same time.
+DANIEL: That's what I'd tell a US manager: a name and a specific day make a story easy to repeat. And the Tokyo habit has something to teach too. Getting permission first, which you did.
+SENA: Because I know the cost of putting a real person on a slide. If Tanabe-san is on slide one and I get her wrong, she has to live with it in Osaka.
+DANIEL: So that's the test I promised. Is the story true, and did the person say yes? Three checks: you heard it from them, you can say it in their words, and they've agreed to be named. If one fails, change the name or the story, and say so.
+SENA: I'd add one more. Tell the audience why the person matters before you tell them the number.
+DANIEL: Let's make it a skill. It's relationship management: opening with one real person. Four moves. One, a name. Two, a place and a moment. Three, one detail only they could have given you. Four, then your number, and what it means for them.
+SENA: Let me try it. You're Laura. "Sena, you have three minutes."
+DANIEL: "Sena, you have three minutes."
+SENA: Let me start with one person. Every Sunday at nine p.m., Tanabe-san, a store manager in Osaka, copies six days of sales into a spreadsheet by hand. Last week, at eleven, she found she'd typed Tuesday twice. Here's why she matters: our pipeline takes that ninety minutes down to about one minute, and today only region one gets it.
+DANIEL: "Why only region one?" And notice, you gave Laura a question to ask. That's what a person does for a room.
+SENA: Okay, last time's challenge was one sentence in the first minute, and write my nerves before and after.
+DANIEL: How did it go?
+SENA: Thursday's check-in with Kato-san. I said, "Can I start with one thing? The Osaka manager." Before: six. After: three. And this morning on the phone with Tanabe-san, before: six, after: two, because she laughed.
+DANIEL: Mine was Wednesday's staff meeting. I opened with, "I'll start with the thing I'm least sure about." Before: five. After: three. Nobody gasped. Okay, today's challenge: open your next talk, update or email with one real person. A name, a place, a moment, then your number. And check that they said yes.
+SENA: A name, a place, a moment, then the number. And Daniel, my phone buzzed during that. Mark, nine twenty-one, a Slack message.
+DANIEL: Next time is episode forty, "Pushing Back on Deadlines." What did he write?
+SENA: "Love the Osaka idea!! Could you ALSO add a region three view to the dashboard before Wednesday's review? Need it by Monday, 9 a.m. your time!! 🙏"
+DANIEL: Monday 9 a.m. in Tokyo is Sunday evening here. How long does a region three view take?
+SENA: Three days if nothing breaks. It's Friday. And I already told Tanabe-san I'd call her back on Sunday. Thanks for listening to Human Curriculum.
+DANIEL: I'm Daniel.
+SENA: And I'm Sena. Start with a person, say it plainly, and ask first. See you next time.

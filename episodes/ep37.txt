@@ -1,0 +1,72 @@
+SENA: "Sena, thirty seconds. Where does region three stand?" Laura asks, and every tile on the leadership call turns toward me.
+DANIEL: Thirty seconds. How much did you have ready?
+SENA: Four minutes and ten seconds. I timed it Tuesday night, out loud, in my kitchen, to the kettle.
+DANIEL: And the plan was to talk fast?
+SENA: The plan was to cut it. And the thing that finally cut it was one question Kato-san asked me in a hallway.
+DANIEL: By the end of this episode, you'll have a three-part way to retell any meeting or project in thirty seconds, and a quick test for what you actually remember.
+DANIEL: Welcome back to Human Curriculum. I'm Daniel, in Seattle.
+SENA: And I'm Sena, in Tokyo. It's Wednesday, nine ten in the morning here, and my hands are still a little shaky.
+DANIEL: And Tuesday, five ten in the afternoon here. Maple just dropped a tennis ball on my keyboard, which is her review of this episode so far. Start with Tuesday morning.
+SENA: Tuesday, eight a.m. I read Kato-san's message and did what I always do. I opened my notebook. Fourteen pages on region three since the pilot started.
+DANIEL: And you read them.
+SENA: Six times. By Tuesday night I could say the whole story in order: the pilot decision, Wendell's first version, my correction email, Mark's weekly asks, Monday's lunch. Four minutes ten. I felt completely ready.
+DANIEL: And then?
+SENA: Then I closed the notebook, set my phone to record, and said it again from memory. Eleven seconds in, I heard myself say, "So, region three, um, what was Wendell's date?"
+DANIEL: Six reads, and you didn't have the date.
+SENA: It was in the notebook, page nine. It just wasn't in me. And the recording showed something else: I skipped the thing that mattered most, and I spent forty seconds on a Slack thread that changed nothing.
+DANIEL: So the recording showed you what you'd actually learned, not what you'd looked at.
+SENA: Exactly. So I took the problem to Kato-san, in the hallway, next to the canned coffee machine. I said, "What does Laura want in thirty seconds?" He thought for a while. Then he said, "She doesn't want the month. She wants to know what to worry about this week, and what to do about it."
+DANIEL: That's a good question to ask your manager. What did you build from it?
+SENA: Three sentences. One: where it stands. Two: what could break. Three: what I need, with a name and a day. Then Wednesday, eight a.m. Kato-san on camera at the top, Laura, Mark, Hannah, and nine other people I only know as tiles. Misaki gave me a tiny thumbs-up. Laura said, "Sena, thirty seconds."
+DANIEL: And you said?
+SENA: "Region three is on track for next Thursday, if Wendell's numbers are final by Friday. What could break is the numbers changing after Mark has them. What I need: Laura and Mark to agree today that nothing ships until Ryo's check says clean. And Kenta's idea: put Wendell's numbers through the same check log, so we can see who said ready." Twenty-nine seconds on my phone's timer.
+DANIEL: And the room?
+SENA: Two seconds of silence, which on a video call feels like a week. Then Laura said, "Thank you. That's what I needed. Mark?" And Mark, with no exclamation point for the first time in his life, said, "Agreed. Clean first." Then Laura said, "Kato-san, who's Kenta?" And Kato-san said, "Kenta reviews every report. I'll tell him." And he wrote it in the notebook.
+DANIEL: Mark, without an exclamation point.
+SENA: I checked the chat. Zero emoji for an hour. I think he was nervous too.
+DANIEL: Your notebook experiment has a name: the testing effect. In 2006, Henry Roediger and Jeffrey Karpicke at Washington University in St. Louis published "Test-enhanced learning" in Psychological Science. In their first experiment, 120 undergraduates read two short science passages. One passage they read again. The other they put away and wrote down everything they could remember, with no feedback and no peeking.
+SENA: And the rereading won?
+DANIEL: Five minutes later, yes: they recalled 81 percent of the ideas, against 75. But two days later, the retelling group recalled 68 percent against 54. And after a week, 56 against 42.
+SENA: So rereading feels better for five minutes, and then it's gone.
+DANIEL: Read it four times, or read it once and write it from memory three times. Which sticks for a week? In the second experiment, with 180 students, the retelling group recalled 61 percent and the rereaders 40. The retellers read the passage 3.4 times on average, the rereaders 14.2. And the rereaders were the more confident ones.
+SENA: Confident. That's me on Tuesday night.
+DANIEL: The cautions: undergraduates, short science passages, written recall, not meetings. Nobody tested retelling a month of project work out loud. There was no feedback, so it doesn't say a retelling makes a good retelling, only that retrieving helps you remember. And if your meeting starts in five minutes, rereading is fine. It won the five-minute test.
+SENA: I asked an AI to turn my fourteen pages into thirty seconds. It was tidy. It said, "Region three is on track."
+DANIEL: So why can't AI do this for you?
+SENA: Because Wendell wrote "on track," and on the call he said "if." The AI only had the writing. It couldn't know which of my fourteen facts Laura would act on, or how sure I was.
+DANIEL: A summary on a screen isn't in your head. That connects to my story, and it's about order. Early in my first manager job, I gave a five-minute weekly update to my skip-level, a senior director named Hector. I did what felt natural. Monday, this happened. Tuesday, that happened. Four minutes in, Hector held up one hand and said, "Daniel, is the project late?"
+SENA: Was it?
+DANIEL: Since Monday. I knew. But opening with bad news felt rude, so I'd saved it for the end, like dessert. Hector said, "I asked how it's going, and you told me what happened. Those are different questions." He'd already heard about the slip from another team the day before. He'd been waiting to see if I would say it.
+SENA: Ouch.
+DANIEL: I'd used the order I lived it in, because that's the easiest order to remember. First this, then that. But the listener doesn't live in my order. Their questions are: what's the answer, how sure are you, and what do you need from me? My wife says I tell hikes the same way. Hers take ten seconds. Mine start in the parking lot.
+SENA: Maple isn't even in the parking lot part.
+DANIEL: Not yet. Hector wrote one line on my notes: "Start where you ended." That's the lesson. The order you lived it in is the easiest to remember, and the hardest to listen to.
+SENA: Okay. Japan and the US. And this one is very close to my desk.
+DANIEL: Take your time. This is the center of the episode.
+SENA: In Tokyo, new employees get one sentence drilled into them in the first month: "Ketsuron kara itte." Conclusion first. Every training book has it. And people still forget, because another habit is stronger: keii. The background. Kato-san's emails to Seattle start with "Itsumo osewa ni natte orimasu," then the background, and the conclusion arrives in paragraph four.
+DANIEL: Why does the background come first?
+SENA: Because it shows I did my homework, and it lets the other person see where I came from before the hard news arrives. Skip it, and a conclusion can sound blunt, even rude. So the order isn't laziness. It's care. It's just care that costs the reader four paragraphs.
+DANIEL: In many American companies, the habit is bottom line up front: the answer first, the background only if you ask.
+SENA: Last month, Kato-san sent Laura an update. Four paragraphs, very polite. Laura answered in one line: "Bottom line?" He read it as anger, and checked in with me twice that afternoon. It wasn't anger. She gets dozens of updates a week. The headline lets her decide whether to read more.
+DANIEL: And what did Kato-san do next time?
+SENA: The best thing. He wrote the bottom line in twelve words at the top, and put the four paragraphs underneath, with "for reference." Laura replied in four minutes: "Perfect."
+DANIEL: That hybrid is worth stealing. The conclusion on top, the background underneath, available but not first. But Seattle people make the opposite mistake: a headline with no "how sure." "We're green." Green according to whom?
+SENA: Which is what Tokyo's background carries: what we checked, what we didn't. So my "if" in the thirty seconds, "if Wendell's numbers are final by Friday"...
+DANIEL: ...is the background, shrunk to a clause. That's the move. And for a Seattle person working with Tokyo colleagues: when you ask "What's the bottom line?", also ask, "What are you least sure about?" It lets the background come out in one sentence, and it makes it safe to admit the uncertain part.
+SENA: So it's not Tokyo order against Seattle order. It's the same message, in the order the reader needs.
+DANIEL: That's it. Let's make it a skill. It's self-awareness: knowing what you actually know versus what you've only looked at. Three moves. One, close your notes and say it out loud from memory. Two, compare: what did you drop, and what did you add by accident? That's your real priorities. Three, cut it to three sentences: here's where it stands, here's what could break, here's what I need from you.
+SENA: Let me try it on Monday's lunch. Here's where it stands: Laura's worry is that nobody owns the word "ready." Here's what could break: Wendell's numbers slip and Mark launches anyway. Here's what I need from you: one name per decision, in writing, by Friday.
+DANIEL: Eighteen seconds. I'd give you the rest of the week off from notes.
+SENA: Don't tempt me. Okay, last time's challenge was to say their point back, with their reason, and ask, "Did I get that right?"
+DANIEL: How did it go?
+SENA: Tuesday at noon, I tried it on Mark. He wrote, "Region three needs to go out Thursday!!" I wrote, "You're worried that waiting makes us look slow, because Laura told you Thursday. Did I get that right?" He wrote, "YES. Also marketing already has a banner 😅." I would never have known about the banner.
+DANIEL: Mine was at home. My wife said, "You never plan our trips." I said, "You're frustrated because you do all the planning, and it feels like I'm along for the ride. Did I get that right?" She stared at me for a second. Then she said, "Who taught you that?" I said, "A mentee in Tokyo." She said, "Tell her thank you. And book the hotel."
+SENA: Tell her you're welcome. Please book the hotel.
+DANIEL: Today's challenge: after one meeting or call, close your notes and say the main point out loud in thirty seconds. Where it stands, what could break, what you need. Record it on your phone. Then open your notes and see what you dropped and what you added.
+SENA: Notes closed, thirty seconds, record, then check. And I think the next episode just started, because my phone just buzzed. Kato-san, nine-oh-two, right after the call.
+DANIEL: Next time is episode thirty-eight, "Speaking Before You Feel Ready." What does it say?
+SENA: "Laura liked the thirty seconds. Thursday's call has Mark's whole launch team, eleven people you haven't met. She wants you to open it. Not item two. The first minute."
+DANIEL: What did you type back?
+SENA: I typed "Of course." Then I deleted it. Then I typed "Of course" again, and my thumb wouldn't press send. Thanks for listening to Human Curriculum.
+DANIEL: I'm Daniel.
+SENA: And I'm Sena. Close the notes, say it out loud, start where you ended. See you next time.

@@ -108,5 +108,10 @@
     "episode": 34,
     "reported": true,
     "next_reported": false
+  },
+  "chotto kakunin shite mo ii desu ka": {
+    "episode": 33,
+    "reported": true,
+    "next_reported": true
   }
 }

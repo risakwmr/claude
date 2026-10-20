@@ -2388,6 +2388,64 @@
       ],
       "thumb_cup": "Offer, don't just say yes",
       "thumb_pose": "sena_clock_push"
+    },
+    {
+      "number": 41,
+      "script": "ep41.txt",
+      "title": "Saying \"I Don't Know\"",
+      "short_title": "Saying \"I Don't Know\"",
+      "summary": "Laura's note ends \"Please don't guess,\" and Sena has been guessing for nine hours: at 4 a.m. she wrote \"about thirty\" stores in her notebook for question three, with no source. Kenta, on a Saturday morning, tells her the check log only sees stores that send a file; nineteen sent nothing in September and he can't tell why, then apologizes: \"This isn't the answer.\" Ryo calls: \"Please don't write thirty. Once a number's written down, somebody plans around it.\" Daniel shares two studies. Tenney, MacCoun, Spellman and Hastie (2007): in Experiment 1, 48 undergraduates read a mock trial summary; when the eyewitness was wrong, the confident one scored 4.6 out of 7 on credibility and the one who said he wasn't certain scored 5.2 (with no error, 5.7 vs 5.0). In Experiment 2, 103 undergraduates judged two car-accident witnesses: before any error 75.5% believed the sure one, after each was wrong about one small detail 58.4% believed the careful one. Gaertig and Simmons (2018): 11 studies, 4,806 people rating advice on sports, weather and stocks; \"I'm not sure, but I think\" was rated lower than confident advice, but \"about a 57 percent chance\" was not rated lower than flat certainty, and more than eight in ten chose the advisor who gave a chance. He gives the limits (strangers rating written descriptions, students and online panels, not workplaces; people may prefer certainty when they want to be persuaded) and says the conclusion that a wrong flat guess costs more than it saves is his judgment. Why AI can't: it offers \"roughly thirty to forty percent\" with no survey named, and isn't in the room on Wednesday. Daniel's failure story: Corinne, head of operations at his biggest customer, asked what percent of tickets are solved in one touch; he said \"eighty percent\" in six seconds, she put it on a slide for her CEO, and five weeks later the dashboard said sixty-one: \"What else did you tell me that was a guess?\" Japan vs the US: Kato-san's \"Kakunin shimasu\" to his division head with no date (the question returned three weeks later as \"Re: Re: old report\"; \"a promise with no date\") and why \"Wakarimasen\" can sound unprepared, vs Laura's \"Is that a number or a guess?\" and Hannah's \"I don't know yet. I'll know Thursday at noon.\" The skill: say it plainly, say what you do know with a label (known, estimated or guess), say how and when you'll find out. Last challenge recap, today's one-day challenge, and a cliffhanger: Kato-san is in Osaka until Thursday and Laura wants Sena to run Tuesday's 9 a.m. prep call, eleven people, four items from Mark, no agenda, title \"Sync.\"",
+      "practice": "The next time someone asks you something you can't answer, say \"I don't know yet,\" then one thing you do know, and then exactly when you'll find out: a day and a time, not \"soon.\"",
+      "sources": [
+        "Tenney, MacCoun, Spellman & Hastie (2007), Calibration Trumps Confidence as a Basis for Witness Credibility, Psychological Science 18(1), 46–50",
+        "Gaertig & Simmons (2018), Do People Inherently Dislike Uncertain Advice?, Psychological Science 29(4), 504–520"
+      ],
+      "tags": [
+        "saying I don't know",
+        "uncertainty",
+        "credibility",
+        "honesty",
+        "calibration",
+        "communication",
+        "executive communication",
+        "EQ",
+        "emotional intelligence",
+        "career",
+        "program manager",
+        "audiobook",
+        "Japanese work culture",
+        "Japan vs US"
+      ],
+      "yt_title": "Asked Something You Can't Answer? Say This Instead of Guessing",
+      "hook": "\"Please don't guess.\" Your director's note ends there, and you're one question away from writing a number you made up.\nHere is a three-part way to say \"I don't know yet\" without losing anyone's trust, and what two studies say about sounding sure.",
+      "points": [
+        "Confident witnesses who were wrong scored 4.6 out of 7 for credibility; unsure ones who were wrong scored 5.2 (Tenney et al., 48 students)",
+        "Before any mistake 75.5% believed the sure witness; after one small error each, 58.4% believed the careful one (103 students)",
+        "\"About a 57 percent chance\" wasn't rated lower than certainty; \"I'm not sure, but\" was (Gaertig & Simmons, 4,806 people)",
+        "Daniel's \"eighty percent\" that was sixty-one: \"What else did you tell me that was a guess?\"",
+        "Tokyo's \"Kakunin shimasu\" with no date and Seattle's cheerful number both skip the honest gap. Say it plainly, say what you know, say when"
+      ],
+      "title_ja": "「分かりません」と言う",
+      "hook_ja": "「推測はしないでください。」ディレクターのメモはそこで終わっていて、あなたは、自分で作った数字を書く一歩手前にいる。\n信頼を失わずに「まだ分かりません」と言う三つの部分からなる方法と、自信ありげに話すことについての二つの研究を紹介します。",
+      "points_ja": [
+        "間違えた自信満々の目撃者の信頼度は7点満点で4.6、確かではないと言っていた目撃者は5.2（テニーら、学生48人）",
+        "間違いが出る前は75.5%が自信満々の目撃者を信じ、小さな間違いが出たあとは58.4%が慎重な目撃者を信じた（学生103人）",
+        "「約57%の確率」は断言より低く評価されなかったが、「よく分からないけど」は低く評価された（ガーティグとシモンズ、4,806人）",
+        "ダニエルの「80%」は実際61%だった：「ほかにも、推測で話したことはある？」",
+        "日にちのない東京の「確認します」も、陽気なシアトルの数字も、正直な空白を飛ばしている。はっきり言う、分かることを言う、いつ分かるかを言う"
+      ],
+      "summary_ja": "ローラさんのメモは「推測はしないでください」で終わっていて、セナは9時間、推測し続けています。朝4時、三つ目の質問のために、根拠なしで「30店くらい」とノートに書きました。土曜の朝、ケンタさんが、チェックのログに見えるのはファイルを送ってくる店だけで、9月に何も送ってこなかった店が19店あるけれど理由は分からない、と教えてくれて、そのあと「ごめん。これは答えじゃない」と謝ります。リョウさんからも電話。「30って書かないで。数字は一度書かれたら、誰かがそれを前提に計画する。」ダニエルは二つの研究を紹介します。テニー、マクーン、スペルマン、ヘイスティ（2007年）：実験1では、学部生48人が模擬裁判の要約を読み、目撃者が間違っていたとき、自信満々の目撃者の信頼度は7点満点で4.6、確かではないと言っていた目撃者は5.2（間違いがなければ5.7対5.0）。実験2では、学部生103人が車の事故の二人の目撃者を評価し、間違いが出る前は75.5%が自信満々の目撃者を信じ、二人とも小さな細部で間違っていたと分かると58.4%が慎重な目撃者を信じました。ガーティグとシモンズ（2018年）：スポーツ、天気、株についての助言を4,806人が評価した11の研究で、「よく分からないけど、たぶん」は自信のある助言より低く評価されましたが、「約57%の確率」は断言より低く評価されず、8割以上が、確率を言う助言者を選びました。限界も正直に。知らない人が書かれた説明を評価したもので、学生とオンラインのパネルが対象、職場ではありません。説得してほしいときは断言が好まれるかもしれません。外れた断言は得よりも損が大きい、というのは、ダニエル自身の判断です。AIが答えられない理由：調査の名前なしで「おおよそ30〜40%」と言うけれど、水曜の会議室にはいません。ダニエルの失敗談：一番大きなお客さんの運用責任者コリンヌに、一回の対応で解決するチケットの割合を聞かれ、6秒で「80%」と答えたら、彼女がCEO向けスライドに載せ、5週間後ダッシュボードは61%。「ほかにも、推測で話したことはある？」日本とアメリカでは、加藤さんの、日にちのない「確認します」（3週間後に「Re: Re: 古いレポート」というメールで質問が戻ってきた。「期限のない約束」）と、「分かりません」が準備不足に聞こえる理由を、ローラさんの「それは数字？それとも推測？」、ハンナさんの「まだ分かりません。木曜の正午には分かります」と比べます。スキルは、はっきり言う、分かっていることをラベルつきで言う（確か、見積もり、推測）、どうやって、いつ分かるかを言うこと。前回のチャレンジの振り返りと、今日のチャレンジ、そして最後は、加藤さんが木曜まで大阪にいて、ローラさんが火曜朝9時の準備会議をセナに回してほしいと言っている、という引きです。11人、マークさんが追加した議題が4つ、議題はなく、タイトルはただ「Sync」。",
+      "practice_ja": "次に誰かから、答えられないことを聞かれたら、「まだ分かりません」と言って、分かっていることを一つ言って、いつ分かるかを、「そのうち」ではなく日と時間で伝える。",
+      "thumb_accent": "Keep Their Trust",
+      "thumb_sub": "Say I Don't Know Yet, Keep Their Trust",
+      "thumb_notes": [
+        "I don't know yet",
+        "What I do know",
+        "Known, estimated, or guess",
+        "When I'll find out"
+      ],
+      "thumb_cup": "Say it plainly",
+      "thumb_pose": "sena_well_lantern"
     }
   ]
 }

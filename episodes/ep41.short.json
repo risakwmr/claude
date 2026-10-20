@@ -1,0 +1,8 @@
+{
+  "shorts": [
+    {"kind": "highlight", "lines": [21, 23], "hook": "Does sounding sure make you credible?", "title": "Why one confident mistake costs you credibility"},
+    {"kind": "ai", "lines": [28, 30], "hook": "Can AI give you the number?", "title": "Why you can't paste an AI's number into your report"},
+    {"kind": "culture", "lines": [40, 42], "hook": "Is \"I'll confirm\" a promise?", "title": "\"I'll confirm\" in Tokyo vs a date in Seattle"},
+    {"kind": "lab", "lines": [53, 53], "phrases": ["I don't know yet", "I'll have a first count by Tuesday", "I'll tell you how sure I am"], "hook": "Say \"I don't know\" without losing trust.", "title": "How to say \"I don't know yet\" at work", "tag": "PHRASES THAT WORK AT WORK"}
+  ]
+}

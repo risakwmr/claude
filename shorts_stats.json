@@ -1,5 +1,5 @@
 {
-  "at": "2026-10-20T16:23:47Z",
+  "at": "2026-10-20T23:34:42Z",
   "shorts": {
     "1-ai": {
       "video_id": "IdbU6d1ox0Q",
@@ -285,7 +285,7 @@
       "title": "Nemawashi: the Japanese secret to influence #shorts",
       "public": true,
       "publish_at": "2026-10-18T19:00:00Z",
-      "views": 15,
+      "views": 16,
       "likes": 0,
       "comments": 0
     },
@@ -301,7 +301,7 @@
     "11-culture": {
       "video_id": "LqbMoC5f11s",
       "title": "Read the air vs disagree and commit #shorts",
-      "public": false,
+      "public": true,
       "publish_at": "2026-10-20T19:00:00Z",
       "views": 0,
       "likes": 0,
@@ -591,7 +591,7 @@
       "title": "Why asking more questions makes people like you #shorts",
       "public": true,
       "publish_at": "2026-10-20T00:00:00Z",
-      "views": 2,
+      "views": 3,
       "likes": 0,
       "comments": 0
     },
@@ -600,7 +600,7 @@
       "title": "Small talk: Japan vs the US #shorts",
       "public": true,
       "publish_at": "2026-10-20T00:00:00Z",
-      "views": 16,
+      "views": 17,
       "likes": 0,
       "comments": 0
     },
@@ -609,7 +609,7 @@
       "title": "Why experts can't explain things simply #shorts",
       "public": true,
       "publish_at": "2026-10-20T16:23:40Z",
-      "views": 0,
+      "views": 5,
       "likes": 0,
       "comments": 0
     },
@@ -618,7 +618,7 @@
       "title": "Background first or number first: Japan vs the US #shorts",
       "public": true,
       "publish_at": "2026-10-20T16:23:43Z",
-      "views": 0,
+      "views": 3,
       "likes": 0,
       "comments": 0
     }
@@ -823,7 +823,7 @@
     "29": {
       "video_id": "jDssD1EDbt8",
       "title": "How to Say Thank You at Work So It Actually Lands | Human Curriculum EP29",
-      "views": 2,
+      "views": 3,
       "likes": 0,
       "comments": 1
     },
@@ -846,7 +846,7 @@
       "title": "Experts Can't Explain Things Simply. Here's a One-Minute Fix | Human Curriculum EP32",
       "views": 0,
       "likes": 0,
-      "comments": 0
+      "comments": 1
     }
   }
 }

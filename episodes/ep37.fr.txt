@@ -1,0 +1,72 @@
+SENA: « Sena, trente secondes. Où en est la région trois ? » demande Laura, et toutes les vignettes de l'appel de direction se tournent vers moi.
+DANIEL: Trente secondes. Combien en avais-tu de prêt ?
+SENA: Quatre minutes dix. Je l'ai chronométré mardi soir, à voix haute, dans ma cuisine, devant la bouilloire.
+DANIEL: Et le plan, c'était de parler vite ?
+SENA: Le plan, c'était de couper. Et ce qui a fini par couper, c'est une question que Kato-san m'a posée dans un couloir.
+DANIEL: À la fin de cet épisode, vous aurez une méthode en trois parties pour raconter n'importe quelle réunion ou n'importe quel projet en trente secondes, et un test rapide pour savoir ce dont vous vous souvenez vraiment.
+DANIEL: Bienvenue de nouveau dans Human Curriculum. Moi, c'est Daniel, à Seattle.
+SENA: Et moi, c'est Sena, à Tokyo. Ici, nous sommes mercredi, neuf heures dix du matin, et mes mains tremblent encore un peu.
+DANIEL: Et ici, mardi, dix-sept heures dix. Maple vient de laisser tomber une balle de tennis sur mon clavier, ce qui est son avis sur cet épisode jusqu'ici. Commence par mardi matin.
+SENA: Mardi, huit heures. J'ai lu le message de Kato-san et j'ai fait ce que je fais toujours. J'ai ouvert mon carnet. Quatorze pages sur la région trois depuis le début du pilote.
+DANIEL: Et tu les as lues.
+SENA: Six fois. Mardi soir, je pouvais raconter toute l'histoire dans l'ordre : la décision du pilote, la première version de Wendell, mon e-mail de correction, les demandes hebdomadaires de Mark, le déjeuner de lundi. Quatre minutes dix. Je me sentais totalement prête.
+DANIEL: Et ensuite ?
+SENA: Ensuite, j'ai fermé le carnet, j'ai lancé l'enregistrement sur mon téléphone et je l'ai redit de mémoire. Au bout de onze secondes, je me suis entendue dire : « Alors, région trois, euh, c'était quoi, la date de Wendell ? »
+DANIEL: Six lectures, et tu n'avais pas la date.
+SENA: Elle était dans le carnet, page neuf. Mais elle n'était pas dans ma tête. Et l'enregistrement a montré autre chose : j'ai sauté ce qui comptait le plus, et j'ai passé quarante secondes sur un fil Slack qui n'a rien changé.
+DANIEL: Donc l'enregistrement t'a montré ce que tu avais vraiment appris, pas ce que tu avais regardé.
+SENA: Exactement. Alors j'ai apporté le problème à Kato-san, dans le couloir, à côté de la machine à café en canette. J'ai dit : « Qu'est-ce que Laura veut en trente secondes ? » Il a réfléchi un moment. Puis il a dit : « Elle ne veut pas le mois. Elle veut savoir ce qui doit l'inquiéter cette semaine, et ce qu'on fait. »
+DANIEL: C'est une bonne question à poser à son manager. Qu'est-ce que tu en as tiré ?
+SENA: Trois phrases. Une : où on en est. Deux : ce qui pourrait casser. Trois : ce dont j'ai besoin, avec un nom et un jour. Puis mercredi, huit heures. Kato-san à la caméra, tout en haut, Laura, Mark, Hannah, et neuf autres personnes que je ne connais que comme des vignettes. Misaki m'a fait un tout petit pouce levé. Laura a dit : « Sena, trente secondes. »
+DANIEL: Et tu as dit quoi ?
+SENA: « La région trois est dans les temps pour jeudi prochain, si les chiffres de Wendell sont définitifs vendredi. Ce qui pourrait casser, c'est que les chiffres changent après que Mark les a reçus. Ce dont j'ai besoin : que Laura et Mark s'accordent aujourd'hui pour que rien ne parte tant que la vérification de Ryo n'a pas dit que c'est propre. Et l'idée de Kenta : faire passer les chiffres de Wendell dans le même journal de vérification, pour voir qui a dit que c'était prêt. » Vingt-neuf secondes sur le minuteur de mon téléphone.
+DANIEL: Et la salle ?
+SENA: Deux secondes de silence, ce qui, en appel vidéo, paraît durer une semaine. Puis Laura a dit : « Merci. C'est ce qu'il me fallait. Mark ? » Et Mark, sans point d'exclamation pour la première fois de sa vie, a dit : « D'accord. D'abord propre. » Puis Laura a dit : « Kato-san, qui est Kenta ? » Et Kato-san a dit : « Kenta relit tous les rapports. Je le préviens. » Et il l'a noté dans le carnet.
+DANIEL: Mark, sans point d'exclamation.
+SENA: J'ai vérifié le chat. Zéro emoji pendant une heure. Je crois qu'il était nerveux lui aussi.
+DANIEL: Ton expérience avec le carnet a un nom : l'effet de test. En 2006, Henry Roediger et Jeffrey Karpicke, de la Washington University à Saint-Louis, ont publié « Test-enhanced learning » dans Psychological Science. Dans leur première expérience, 120 étudiants ont lu deux courts textes scientifiques. Un texte, ils l'ont relu. L'autre, ils l'ont mis de côté et ils ont écrit tout ce dont ils se souvenaient, sans retour et sans tricher.
+SENA: Et la relecture a gagné ?
+DANIEL: Cinq minutes plus tard, oui : ils se rappelaient 81 pour cent des idées, contre 75. Mais deux jours plus tard, le groupe qui avait raconté se rappelait 68 pour cent contre 54. Et après une semaine, 56 contre 42.
+SENA: Donc relire donne une meilleure impression pendant cinq minutes, et ensuite tout disparaît.
+DANIEL: Lire quatre fois, ou lire une fois et écrire de mémoire trois fois. Qu'est-ce qui reste une semaine ? Dans la deuxième expérience, avec 180 étudiants, le groupe qui racontait se rappelait 61 pour cent, et ceux qui relisaient, 40. Ceux qui racontaient ont lu le texte 3,4 fois en moyenne, ceux qui relisaient, 14,2. Et ceux qui relisaient étaient les plus confiants.
+SENA: Confiante. C'est moi, mardi soir.
+DANIEL: Les réserves : des étudiants, de courts textes scientifiques, un rappel écrit, pas des réunions. Personne n'a testé le fait de raconter à voix haute un mois de travail sur un projet. Il n'y avait pas de retour, donc cela ne dit pas qu'un récit fait un bon récit, seulement que se rappeler aide à retenir. Et si ta réunion commence dans cinq minutes, relire, c'est très bien. Ça a gagné le test des cinq minutes.
+SENA: J'ai demandé à une IA de transformer mes quatorze pages en trente secondes. C'était propre. Elle disait : « La région trois est dans les temps. »
+DANIEL: Alors pourquoi l'IA ne peut-elle pas faire ça pour toi ?
+SENA: Parce que Wendell a écrit « dans les temps », et pendant l'appel il a dit « si ». L'IA n'avait que l'écrit. Elle ne pouvait pas savoir lequel de mes quatorze faits Laura utiliserait pour agir, ni à quel point j'étais sûre.
+DANIEL: Un résumé sur un écran n'est pas dans ta tête. Ça rejoint mon histoire, qui parle d'ordre. Au début de mon premier poste de manager, je faisais un point hebdomadaire de cinq minutes à mon N+2, un directeur senior qui s'appelait Hector. J'ai fait ce qui me semblait naturel. Lundi, il s'est passé ceci. Mardi, il s'est passé cela. Au bout de quatre minutes, Hector a levé une main et a dit : « Daniel, est-ce que le projet est en retard ? »
+SENA: Il l'était ?
+DANIEL: Depuis lundi. Je le savais. Mais commencer par les mauvaises nouvelles me paraissait impoli, alors je les avais gardées pour la fin, comme le dessert. Hector a dit : « Je t'ai demandé comment ça se passe, et tu m'as raconté ce qui s'est passé. Ce sont deux questions différentes. » Il avait déjà appris le retard par une autre équipe la veille. Il attendait de voir si je le dirais.
+SENA: Aïe.
+DANIEL: J'avais utilisé l'ordre dans lequel je l'avais vécu, parce que c'est le plus facile à retenir. D'abord ceci, puis cela. Mais celui qui écoute ne vit pas dans mon ordre. Ses questions sont : quelle est la réponse, à quel point es-tu sûr, et de quoi as-tu besoin de ma part ? Ma femme dit que je raconte mes randonnées de la même façon. Les siennes durent dix secondes. Les miennes commencent sur le parking.
+SENA: Maple n'en est même pas encore à la partie du parking.
+DANIEL: Pas encore. Hector a écrit une ligne sur mes notes : « Commence par où tu as fini. » Voilà la leçon. L'ordre dans lequel tu l'as vécu est le plus facile à retenir, et le plus difficile à écouter.
+SENA: D'accord. Le Japon et les États-Unis. Et celui-ci est très proche de mon bureau.
+DANIEL: Prends ton temps. C'est le cœur de l'épisode.
+SENA: À Tokyo, les nouveaux employés se font marteler une phrase pendant le premier mois : « Ketsuron kara itte. » La conclusion d'abord. Tous les manuels de formation le disent. Et pourtant on oublie, parce qu'une autre habitude est plus forte : keii. Le contexte. Les e-mails de Kato-san à Seattle commencent par « Itsumo osewa ni natte orimasu », puis le contexte, et la conclusion arrive au quatrième paragraphe.
+DANIEL: Pourquoi le contexte vient-il en premier ?
+SENA: Parce que ça montre que j'ai fait mes devoirs, et ça laisse l'autre voir d'où je viens avant l'arrivée de la mauvaise nouvelle. Si on le saute, une conclusion peut sembler brutale, voire impolie. Donc cet ordre n'est pas de la paresse. C'est de l'attention. Mais une attention qui coûte quatre paragraphes au lecteur.
+DANIEL: Dans beaucoup d'entreprises américaines, l'habitude, c'est le « bottom line up front » : la réponse d'abord, le contexte seulement si on le demande.
+SENA: Le mois dernier, Kato-san a envoyé un point d'avancement à Laura. Quatre paragraphes, très polis. Laura a répondu en une ligne : « Bottom line ? » Il l'a pris pour de la colère, et il est venu me voir deux fois cet après-midi-là. Ce n'était pas de la colère. Elle reçoit des dizaines de points d'avancement par semaine. Le titre lui permet de décider si elle lit la suite.
+DANIEL: Et qu'est-ce que Kato-san a fait la fois d'après ?
+SENA: Le mieux possible. Il a écrit la conclusion en douze mots en haut, et il a mis les quatre paragraphes en dessous, avec « pour référence ». Laura a répondu en quatre minutes : « Parfait. »
+DANIEL: Ce format hybride mérite d'être copié. La conclusion en haut, le contexte en dessous, disponible mais pas en premier. Mais les gens de Seattle font l'erreur inverse : un titre sans le « à quel point je suis sûr ». « On est au vert. » Au vert selon qui ?
+SENA: Ce qui est justement ce que porte le contexte à la tokyoïte : ce qu'on a vérifié, ce qu'on n'a pas vérifié. Donc mon « si » dans les trente secondes, « si les chiffres de Wendell sont définitifs vendredi »...
+DANIEL: ...c'est le contexte, réduit à une proposition. Voilà le geste. Et pour quelqu'un de Seattle qui travaille avec des collègues de Tokyo : quand tu demandes « Quelle est la conclusion ? », demande aussi : « De quoi es-tu le moins sûr ? » Le contexte sort alors en une phrase, et ça permet d'admettre sans risque la part d'incertitude.
+SENA: Donc ce n'est pas l'ordre de Tokyo contre l'ordre de Seattle. C'est le même message, dans l'ordre dont le lecteur a besoin.
+DANIEL: Voilà. Faisons-en une compétence. C'est de la conscience de soi : savoir ce que tu sais vraiment, par opposition à ce que tu as seulement regardé. Trois gestes. Un, ferme tes notes et dis-le à voix haute de mémoire. Deux, compare : qu'as-tu oublié, et qu'as-tu ajouté sans le vouloir ? Ce sont tes vraies priorités. Trois, réduis-le à trois phrases : voici où on en est, voici ce qui pourrait casser, voici ce dont j'ai besoin de toi.
+SENA: Je vais essayer avec le déjeuner de lundi. Où on en est : l'inquiétude de Laura, c'est que personne n'est responsable du mot « prêt ». Ce qui pourrait casser : les chiffres de Wendell prennent du retard et Mark lance quand même. Ce dont j'ai besoin de toi : un nom par décision, par écrit, d'ici vendredi.
+DANIEL: Dix-huit secondes. Je te dispenserais de notes pour le reste de la semaine.
+SENA: Ne me tente pas. Bon, le défi de la dernière fois, c'était de redire le point de l'autre, avec sa raison, et de demander : « J'ai bien compris ? »
+DANIEL: Comment ça s'est passé ?
+SENA: Mardi à midi, j'ai essayé avec Mark. Il a écrit : « La région trois doit partir jeudi !! » J'ai écrit : « Tu as peur qu'attendre nous fasse paraître lents, parce que Laura t'a dit jeudi. J'ai bien compris ? » Il a écrit : « OUI. En plus, le marketing a déjà une bannière 😅. » Je n'aurais jamais su pour la bannière.
+DANIEL: Le mien, c'était à la maison. Ma femme a dit : « Tu ne prépares jamais nos voyages. » J'ai dit : « Tu es frustrée parce que c'est toi qui organises tout, et tu as l'impression que je suis juste du voyage. J'ai bien compris ? » Elle m'a regardé fixement une seconde. Puis elle a dit : « Qui t'a appris ça ? » J'ai dit : « Une mentorée à Tokyo. » Elle a dit : « Remercie-la. Et réserve l'hôtel. »
+SENA: Dis-lui de rien. Réserve l'hôtel, s'il te plaît.
+DANIEL: Le défi du jour : après une réunion ou un appel, ferme tes notes et dis l'essentiel à voix haute en trente secondes. Où on en est, ce qui pourrait casser, ce dont tu as besoin. Enregistre-toi sur ton téléphone. Puis ouvre tes notes et regarde ce que tu as oublié et ce que tu as ajouté.
+SENA: Notes fermées, trente secondes, enregistrer, puis vérifier. Et je crois que le prochain épisode vient de commencer, parce que mon téléphone vient de vibrer. Kato-san, neuf heures deux, juste après l'appel.
+DANIEL: La prochaine fois, c'est l'épisode trente-huit, « Speaking Before You Feel Ready ». Qu'est-ce que ça dit ?
+SENA: « Laura a aimé les trente secondes. L'appel de jeudi réunit toute l'équipe de lancement de Mark, onze personnes que vous ne connaissez pas. Elle veut que vous l'ouvriez. Pas le point deux. La première minute. »
+DANIEL: Qu'as-tu répondu ?
+SENA: J'ai tapé « Bien sûr. » Puis je l'ai effacé. Puis j'ai tapé « Bien sûr » de nouveau, et mon pouce ne voulait pas appuyer sur envoyer. Merci d'avoir écouté Human Curriculum.
+DANIEL: Moi, c'est Daniel.
+SENA: Et moi, Sena. Fermez les notes, dites-le à voix haute, commencez par où vous avez fini. À la prochaine.

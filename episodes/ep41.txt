@@ -1,0 +1,62 @@
+SENA: "Please don't guess." Daniel, the note ends with that, and I've been guessing for nine hours.
+DANIEL: Guessing what?
+SENA: Question three. "How many stores still build their numbers by hand?" At four a.m. I wrote "about thirty" in my notebook.
+DANIEL: Where did thirty come from?
+SENA: Nowhere. It just sounded like a number a person who knows would say.
+DANIEL: By the end of this episode, you'll have a way to say "I don't know yet" that makes people trust everything else you say.
+DANIEL: Welcome back to Human Curriculum. I'm Daniel, in Seattle.
+SENA: And I'm Sena, in Tokyo. It's Saturday morning, nine o'clock.
+DANIEL: And it's Friday, five in the afternoon here. There's a pot of curry on the stove, and Maple is guarding it like it's his. Tell me about your night.
+SENA: Not great. I read Laura's note nine more times. "About thirty" felt so much better than "nobody knows." So at six this morning I did what I do now. I asked someone who'd know. I messaged Kenta: "Does the check log know which stores build their numbers by hand?"
+DANIEL: Kenta, on a Saturday morning?
+SENA: Seven minutes. "The log only sees stores that send us a file. Nineteen sent nothing in September. I can't tell if that means by hand, or closed for renovation, or a different system." And then a second message: "Sorry. This isn't the answer."
+DANIEL: He apologized for giving you something true.
+SENA: I told him it was the best message I'd had all week. Then Ryo called me, which he never does, and said, "Please don't write thirty. Once a number's written down, somebody plans around it."
+DANIEL: Ryo has lived that, with his Osaka script.
+SENA: So I have one store I know for sure, nineteen I can't explain, and a number I made up. What do I say to Laura?
+DANIEL: Hold that thought. There's research on exactly this, and it surprised me.
+DANIEL: In 2007, Elizabeth Tenney, Robert MacCoun, Barbara Spellman and Reid Hastie published "Calibration Trumps Confidence as a Basis for Witness Credibility" in Psychological Science. In Experiment 1, 48 undergraduates read a trial summary of a dorm break-in. The eyewitness said he saw the defendant leave at about seven. The victim hadn't left his room until 8:15.
+DANIEL: When the witness was wrong, the confident one scored 4.6 out of 7 for credibility. The one who'd said "I'm not certain" scored 5.2. With no mistake, the confident witness won, 5.7 to 5.0.
+SENA: So confidence only wins until you're wrong.
+DANIEL: Picture two witnesses to a car accident: one sure about everything, one careful. In Experiment 2, 103 undergraduates judged them. Before any mistakes, 75.5 percent believed the sure one. Then each was shown wrong about one small detail, and 58.4 percent believed the careful one.
+SENA: One wrong "absolutely," and people doubt the rest.
+DANIEL: The authors put it better. If you sound sure about everything and you're wrong once, "the 13th stroke of the clock will cast the other 12 in doubt."
+DANIEL: Second study. In 2018, Celia Gaertig and Joseph Simmons ran eleven studies with 4,806 people rating advice about sports, weather and stocks. Advisors who said "I'm not sure, but I think" were rated lower than confident ones. But advisors who said "There's about a 57 percent chance" were not rated lower than ones who sounded certain.
+DANIEL: And when people chose between two advisors who agreed, more than eight in ten picked the one who gave a chance over the one who gave certainty.
+SENA: So "I'm not sure" hurts, but a number for what you don't know doesn't.
+DANIEL: The difference is between sounding shaky and being precise about the gap. Cautions: both studies are strangers rating written descriptions, students and online panels, sports and car accidents, not Laura in a Wednesday review. The 2018 authors also say people may prefer certainty when they want to be persuaded. So I'm not saying "I don't know" always wins. My judgment is that a flat guess that turns out wrong costs more than it saves.
+SENA: I also asked an AI, of course. "How many retail stores still build their weekly reports by hand?" It said, "Industry surveys suggest roughly thirty to forty percent." No survey named.
+DANIEL: Confident, specific, and about somebody else's stores.
+SENA: It would've been so easy to paste that into my email. But the AI isn't in the room on Wednesday. If the number's wrong, I'm the one Laura looks at.
+DANIEL: An AI can make a number sound true. It can't carry what happens to your name when the number is wrong.
+DANIEL: Which brings me to Corinne, head of operations at our biggest customer. At a quarterly review in a hotel conference room, early in my years as a manager, she asked, "What percent of your tickets get solved in one touch?"
+SENA: And you knew.
+DANIEL: I didn't. I thought it was somewhere in the high seventies. I said, "Eighty percent." Round, confident, about six seconds.
+SENA: What happened?
+DANIEL: She put "80% one-touch resolution" on a slide for her own CEO. Five weeks later our dashboard said sixty-one. She called me. She wasn't angry. She said, "Daniel, what else did you tell me that was a guess?"
+SENA: The thirteenth stroke of the clock.
+DANIEL: It took three months of sending her sources to win the other twelve back. My wife heard the story over dinner and said, "You didn't want to be the person who didn't know." She was right. Six seconds of looking unsure would have cost me almost nothing.
+DANIEL: Now, Tokyo and Seattle. When somebody senior asks a question you can't answer, what happens?
+SENA: Kato-san's division head once asked in a meeting, "How many people still use the old report?" He didn't know, so he said, "Kakunin shimasu." I'll confirm.
+DANIEL: And did he?
+SENA: In two days. Forty-one people. But nobody had set a date, the meeting had moved on, and he never told the division head. Three weeks later the question came back in an email, "Re: Re: old report." He told me, "Kakunin shimasu without a date is a promise with no date."
+SENA: And he told me why people say it. "Wakarimasen," I don't know, said flatly to someone senior, can sound like you didn't prepare. "Kakunin shimasu" sounds like a plan, even when the plan isn't made yet.
+DANIEL: And Seattle?
+SENA: Mark told me about last spring. In a review he said, "Around forty percent of users do this." Laura wrote forty on the slide. Two weeks later it was thirty-one. Now she asks, "Is that a number or a guess?" And when Hannah says, "I don't know yet. I'll know Thursday at noon," Laura writes "Thursday noon" in her notebook and says, "Thank you."
+DANIEL: So Tokyo's trap is the confirmation with no date. And Seattle's?
+SENA: The cheerful number. "About forty percent!" It sounds helpful in the moment, and then it lives on a slide. Both are protecting something. Tokyo protects the room from an unfinished answer, and Seattle protects the decision from a wrong one.
+DANIEL: What can each side borrow?
+SENA: Seattle can borrow Tokyo's care about not leaving anyone hanging. Tokyo can borrow the date. "Kakunin shimasu, by Monday noon." Add four words and it's a promise.
+DANIEL: Let's turn it into a skill. It's self-awareness: knowing where your knowledge stops, and saying so. Three parts. One, say it plainly: "I don't know yet." Two, say what you do know, and label it: known, estimated, or a guess. Three, say how and when you'll find out. A day and a time, not "soon."
+SENA: Let me try it on Laura's third question. You're Laura. "How many stores still build their numbers by hand?"
+DANIEL: "How many stores still build their numbers by hand?"
+SENA: I don't know yet. I know one store for certain, and nineteen sent us no file in September, but I can't tell why. I'll have a first count by Tuesday nine a.m. my time, and I'll tell you how sure I am.
+DANIEL: "Thank you. Tuesday works." Notice what you did with nineteen. You didn't hide it, and you didn't sell it.
+SENA: Okay, last time's challenge was to check how long the last similar thing took before saying yes. Friday afternoon Ryo asked me to review his deck "tonight." My last review of his took ninety minutes, so I said, "Tomorrow at noon. Which slides worry you most?" He sent me three slide numbers in a minute.
+DANIEL: Mine was my VP asking for a hiring plan by Monday. My "How long it actually took" list said the last one took five working days. I said Wednesday. She said, "Wednesday's fine." A year ago I'd have said Monday.
+DANIEL: Okay, today's challenge. The next time someone asks you something you can't answer, say "I don't know yet," then one thing you do know, and then exactly when you'll find out.
+SENA: "I don't know yet. Here's what I know. I'll tell you by Tuesday." And Daniel, I have to tell you what Kato-san texted at ten past eight this morning.
+DANIEL: Next time is episode forty-two, "Running a Short Meeting." What did he say?
+SENA: "Laura asked that you run Tuesday's prep call for Wednesday's review. Nine a.m., thirty minutes, eleven people. Mark added four items to the invite, and I'm in Osaka until Thursday." The invite has no agenda. The title is just "Sync." Thanks for listening to Human Curriculum.
+DANIEL: I'm Daniel.
+SENA: And I'm Sena. Say what you know, say what you don't, say when. See you next time.

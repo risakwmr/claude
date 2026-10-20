@@ -1,5 +1,5 @@
 {
-  "at": "2026-10-20T00:04:11Z",
+  "at": "2026-10-20T16:23:47Z",
   "shorts": {
     "1-ai": {
       "video_id": "IdbU6d1ox0Q",
@@ -285,7 +285,7 @@
       "title": "Nemawashi: the Japanese secret to influence #shorts",
       "public": true,
       "publish_at": "2026-10-18T19:00:00Z",
-      "views": 10,
+      "views": 15,
       "likes": 0,
       "comments": 0
     },
@@ -294,6 +294,15 @@
       "title": "Why 85% of people stay quiet at work #shorts",
       "public": true,
       "publish_at": "2026-10-19T19:00:00Z",
+      "views": 1,
+      "likes": 0,
+      "comments": 0
+    },
+    "11-culture": {
+      "video_id": "LqbMoC5f11s",
+      "title": "Read the air vs disagree and commit #shorts",
+      "public": false,
+      "publish_at": "2026-10-20T19:00:00Z",
       "views": 0,
       "likes": 0,
       "comments": 0
@@ -555,7 +564,7 @@
       "title": "How people say thanks at work: Japan vs the US #shorts",
       "public": true,
       "publish_at": "2026-10-18T15:29:27Z",
-      "views": 12,
+      "views": 15,
       "likes": 0,
       "comments": 0
     },
@@ -564,7 +573,7 @@
       "title": "Your worst week might not be what you remember #shorts",
       "public": true,
       "publish_at": "2026-10-19T00:00:00Z",
-      "views": 6,
+      "views": 7,
       "likes": 0,
       "comments": 0
     },
@@ -582,7 +591,7 @@
       "title": "Why asking more questions makes people like you #shorts",
       "public": true,
       "publish_at": "2026-10-20T00:00:00Z",
-      "views": 0,
+      "views": 2,
       "likes": 0,
       "comments": 0
     },
@@ -591,6 +600,24 @@
       "title": "Small talk: Japan vs the US #shorts",
       "public": true,
       "publish_at": "2026-10-20T00:00:00Z",
+      "views": 16,
+      "likes": 0,
+      "comments": 0
+    },
+    "32-highlight": {
+      "video_id": "YApX8osxHjY",
+      "title": "Why experts can't explain things simply #shorts",
+      "public": true,
+      "publish_at": "2026-10-20T16:23:40Z",
+      "views": 0,
+      "likes": 0,
+      "comments": 0
+    },
+    "32-culture": {
+      "video_id": "gCv54Ya5omo",
+      "title": "Background first or number first: Japan vs the US #shorts",
+      "public": true,
+      "publish_at": "2026-10-20T16:23:43Z",
       "views": 0,
       "likes": 0,
       "comments": 0
@@ -663,14 +690,14 @@
     "10": {
       "video_id": "hb4jOZuSzf4",
       "title": "How to Influence People When You're Not the Boss | Business English Podcast EP10",
-      "views": 3,
+      "views": 4,
       "likes": 0,
       "comments": 1
     },
     "11": {
       "video_id": "1cdKOJ8zr2c",
       "title": "How to Disagree in a Meeting (Without Being Rude) | Business English Podcast EP11",
-      "views": 3,
+      "views": 4,
       "likes": 0,
       "comments": 1
     },
@@ -782,7 +809,7 @@
     "27": {
       "video_id": "mhPA1DF8TOM",
       "title": "How to Read Emotions on a Video Call (and What to Say After) | Human Curriculum EP27",
-      "views": 3,
+      "views": 4,
       "likes": 0,
       "comments": 1
     },
@@ -803,13 +830,20 @@
     "30": {
       "video_id": "QAcOWCeOfQs",
       "title": "Find Your Emotional Baseline with One Word a Day | Human Curriculum EP30",
-      "views": 3,
+      "views": 5,
       "likes": 0,
       "comments": 1
     },
     "31": {
       "video_id": "7iadEpodP6Y",
       "title": "Small Talk Is Not Small: Two Questions and One Follow-Up | Human Curriculum EP31",
+      "views": 0,
+      "likes": 0,
+      "comments": 1
+    },
+    "32": {
+      "video_id": "rYwhDug1Hio",
+      "title": "Experts Can't Explain Things Simply. Here's a One-Minute Fix | Human Curriculum EP32",
       "views": 0,
       "likes": 0,
       "comments": 0

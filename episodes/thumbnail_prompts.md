@@ -466,3 +466,25 @@ RIGHT ~60%: a bright, sunny, highly detailed illustration in the same cute gloss
 
 Keep the warm light and the cheerful, hopeful mood. No other text, no logos, no watermarks. Before finishing, check every word in the image matches the text above letter for letter.
 ```
+
+## EP42｜Running a Short Meeting
+
+```
+Make a YouTube thumbnail in exactly the same style and layout as the reference thumbnail "Feedback Without Defensiveness" (episodes/thumbnail_refs/ref_feedback_style.png) and the EP29-31 thumbnails. 16:9, 1672x941.
+
+IMPORTANT: Use the text below EXACTLY as written. Do NOT change, shorten, rephrase or invent the episode number, the main title, the subtitle, the book names or any note text. If you cannot fit it, make the font smaller, never change the words.
+
+LEFT ~40%: cream paper panel with torn edges and coral and sky-blue watercolor brush splashes in the corners.
+- Top: "The Human Curriculum" in small navy serif with a thin underline.
+- A coral brush-stroke banner with white text: "EPISODE 42".
+- Main title in very large, bold navy serif (2-4 lines): "Running a Short Meeting"
+- A thin coral rule, then the subtitle in navy serif: "Open With Purpose, End on Time", with the words "End on Time" in coral bold italics.
+- Bottom left: a stack of three hardcover books (blue, pink, cream) lying on a sunny stone ledge with yellow ginkgo leaves, with these words on the spines: "Bluedorn", "Kauffeld", "Decided".
+
+RIGHT ~60%: a bright, sunny, highly detailed illustration in the same cute glossy anime style as the reference: a sunny old hillside town in autumn with stone stairs, ivy, flower pots, old street lamps and domed rooftops in the distance, blue sky, golden light, falling ginkgo leaves.
+- Sena: Japanese woman in her late 20s, cute glossy anime-style face like the reference (soft smile, big warm brown eyes), long voluminous wavy light-brown hair blowing in the breeze, black sunglasses pushed up on her head, small gold hoop earrings, chunky dusty-pink knit sweater, cream wide-leg trousers, black shoulder bag. Same face as in the reference thumbnails.
+- Scene: at the top of an old stone bell tower in the hillside town, Sena hangs her whole weight on a thick bell rope with both hands, leaning far back with one foot lifted off the floor, her hair swirling, laughing as a big brass bell swings above her to ring the end of the hour. Camera is directly above the bell looking straight down in wide angle, so the rope, the spiral stone stairs and Sena's swirling hair form a whirl, with the blue sky, domed rooftops and falling ginkgo leaves seen through the open arches around her. No desk, laptop or coffee cup. Sena must never sit, lie down or sleep in front of a computer; no computers or screens anywhere in the image.
+- Around her, 4 pastel notes (pink, sky blue, pale yellow) taped on the wooden beams and hanging from the rope, handwritten in navy pen with a red underline and a small red heart: "Purpose", "The decision", "End time", "Park it"
+
+Keep the warm light and the cheerful, hopeful mood. No other text, no logos, no watermarks. Before finishing, check every word in the image matches the text above letter for letter.
+```

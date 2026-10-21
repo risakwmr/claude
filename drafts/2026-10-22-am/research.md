@@ -245,7 +245,7 @@
 - 分かっていること：
   1. **drafts/2026-10-21-am と同じ2本でよい**。今回、抄録・本文で数字を読み直し、一致を確認した。
      - Peters & Chin-Yee（2025）：10のモデル、4,900件の要約。「正確に」と指示しても、多くのモデルが原文より広く言い切る要約を作った。一部のモデルで26〜73%。人の要約と比べたオッズ比4.85（95%CI 3.06〜7.70）（抄録）。→ **言い過ぎ**の根拠。
-     - Asgari ら（2025）：GPT-4 に診察の会話記録から診療メモを作らせ、医師が12,999文を確認。ハルシネーション（記録にない内容）1.47%、**抜け落ち（omission：元の文書にある大事な情報を落とすこと）3.45%**。指示の出し方を変えると重大な抜け落ちが減った（抄録・本文）。→ **取りこぼし**の根拠として、今回の記事には 10-21-am よりこちらの「抜け落ち」のほうが合う。
+     - Asgari ら（2025）：GPT-4 に診察の会話記録から診療メモを作らせ、医師が確認。ハルシネーション（記録にない内容）は**作られたメモの12,999文のうち1.47%（191文）**、**抜け落ち（omission：元の会話記録の情報がメモに入っていないこと）は元の会話記録の49,590文のうち3.45%（1,712文）**（2026-10-22 review-facts の指摘で分母を修正）。指示の出し方を変えると重大な抜け落ちが減った（抄録・本文）。→ **取りこぼし**の根拠として、今回の記事には 10-21-am よりこちらの「抜け落ち」のほうが合う。
   2. **メールから依頼や期日を抜き出すAIの正確さ（取りこぼし・誤り）を測った査読済み研究は、今回の検索では見つからなかった**。自閉スペクトラムの人の仕事を助けるために、メールからタスクと期日を抜き出すAIの研究（2025年、学会論文集）はあったが、確認できた範囲では抜き出しの正確さの数字はなく、本文も読んでいないので使わない。
 
 - 記事での書き方（書き手への提案）：
@@ -258,7 +258,7 @@
     - 使える数値：「10モデル、4,900件の要約」「一部のモデルで26〜73%」「人の要約と比べてオッズ比4.85（95%CI 3.06〜7.70）」（確認済み・抄録）
   - Asgari, E., Montaña-Brown, N., Dubois, M., Khalil, S., Balloch, J., Au Yeung, J., & Pimenta, D. 2025『A framework to assess clinical safety and hallucination rates of LLMs for medical text summarisation』npj Digital Medicine, 8, 274（種類：個別研究・評価実験／査読済み）
     - 確認した場所：本文 https://pmc.ncbi.nlm.nih.gov/articles/PMC12075489/
-    - 使える数値：「医師が確認した12,999文」「ハルシネーション1.47%、抜け落ち3.45%」（確認済み・抄録）。「指示の出し方を変えると重大な抜け落ちが24件から10件に減った」（確認済み・本文。条件の比較で、一般化しない）
+    - 使える数値：「ハルシネーション：メモの12,999文のうち1.47%」「抜け落ち：元の会話記録の49,590文のうち3.45%（1,712文）」（確認済み・本文。12,999文は抜け落ちの分母ではない。2026-10-22 review-facts で修正）。「指示の出し方を変えると重大な抜け落ちが24件から10件に減った」（確認済み・本文。条件の比較で、一般化しない）
 
 - 限界・注意：
   - どちらもメールではない（科学論文・診療記録）。入力の長さも違う。
@@ -320,8 +320,6 @@
 - Fuermaier, A. B. M., Tucha, L., Butzbach, M., Weisbrod, M., Aschenbrenner, S., & Tucha, O. (2021). ADHD at the workplace: ADHD symptoms, diagnostic status, and work-related functioning. *Journal of Neural Transmission*, 128(7), 1021–1031. https://pmc.ncbi.nlm.nih.gov/articles/PMC8295111/
 - Oscarsson, M., Nelson, M., Rozental, A., Ginsberg, Y., Carlbring, P., & Jönsson, F. (2022). Stress and work-related mental illness among working adults with ADHD: a qualitative study. *BMC Psychiatry*, 22, 751. https://pmc.ncbi.nlm.nih.gov/articles/PMC9714234/
 - Giurge, L. M., & Bohns, V. K. (2021). You don't need to answer right away! Receivers overestimate how quickly senders expect responses to non-urgent work emails. *Organizational Behavior and Human Decision Processes*, 167, 114–128. https://doi.org/10.1016/j.obhdp.2021.08.002
-
-注：Journal of Neural Transmission の巻号・ページ（128(7), 1021–1031）は書誌情報として載せたが、今回のフェッチでは巻号を直接確認していない。仕上げでPMCのページの書誌欄を一度見てほしい。
 
 - Asgari, E., Montaña-Brown, N., Dubois, M., Khalil, S., Balloch, J., Au Yeung, J., & Pimenta, D. (2025). A framework to assess clinical safety and hallucination rates of LLMs for medical text summarisation. *npj Digital Medicine*, 8, 274. https://doi.org/10.1038/s41746-025-01670-7
 - Barber, L. K., Conlin, A. L., & Santuzzi, A. M. (2019). Workplace telepressure and work–life balance outcomes: The role of work recovery experiences. *Stress and Health*, 35(3), 350–362. https://doi.org/10.1002/smi.2864

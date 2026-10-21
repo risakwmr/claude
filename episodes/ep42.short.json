@@ -1,0 +1,8 @@
+{
+  "shorts": [
+    {"kind": "highlight", "lines": [22, 23], "hook": "Would a meeting be shorter standing up?", "title": "Standing meetings ran 34% shorter. Same decisions."},
+    {"kind": "ai", "lines": [30, 32], "hook": "Can AI run your meeting agenda?", "title": "Why an AI agenda can't run your meeting"},
+    {"kind": "culture", "lines": [40, 41], "hook": "Does naming the decision upfront feel rude?", "title": "Stating the decision first: Tokyo vs Seattle"},
+    {"kind": "lab", "lines": [48, 48], "phrases": ["This meeting is to plan hiring", "By the end, we need to pick", "so you get fifteen minutes back"], "hook": "How do you open a meeting well?", "title": "Three sentences that open any meeting", "tag": "PHRASES THAT WORK AT WORK"}
+  ]
+}

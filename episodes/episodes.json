@@ -2446,6 +2446,64 @@
       ],
       "thumb_cup": "Say it plainly",
       "thumb_pose": "sena_well_lantern"
+    },
+    {
+      "number": 42,
+      "script": "ep42.txt",
+      "title": "Running a Short Meeting",
+      "short_title": "Running a Short Meeting",
+      "summary": "Tuesday's prep call, run by Sena for the first time: eleven people, thirty minutes, an invite titled \"Sync\" and four items from Mark (\"Region three timing??\", \"The banner\", \"Weekly asks\", \"Anything else!!\"). Before changing the invite she sent Mark and Laura a draft of three decisions, one per Laura question, and suggested \"Anything else\" move to Slack (Mark: \"OMG yes!!\"; Laura: \"Please end at nine twenty-five if you can\"). On Sunday she called Tanabe-san back (\"You called. Most people say they will.\"); Kenta, Ryo and Sena split the nineteen silent stores, and her first count for Laura's question three was ten stores confirmed building by hand, two on another system, eight unreachable. She opened with three sentences (purpose, decision, time: \"so you all get five minutes back\"), parked Mark's detour at minute eleven with \"Let's park that and pick it up in Slack right after,\" closed with what was decided and who does what by when, and ended at 9:24; Laura: \"I always ask what we decided. Today I didn't have to.\" Daniel's research: Bluedorn, Turban and Love (1999, Journal of Applied Psychology): 555 undergraduates in 111 groups of five ranked fifteen moon-crash survival items, half standing and half sitting; sitting groups took 788 seconds on average vs 589 (34% longer) with no better rankings, but were a little more satisfied (5.91 vs 5.68 on a 7-point scale). Kauffeld and Lehmann-Willenbrock (2012, Small Group Research): 92 videotaped team meetings from 20 medium-sized companies; per hour about 31 complaining statements vs about 2 action-planning statements; more action planning went with higher meeting satisfaction and, in 30 teams with productivity data, higher productivity. Limits: students, ten-minute tasks and one puzzle; industrial teams, mostly men, correlations, productivity data from two companies; neither tested an opening statement, so that part is Daniel's judgment. Why AI can't: it writes a minute-by-minute agenda with an icebreaker, but not the room (Laura wants five minutes back, Wendell speaks when named, Mark's \"Totally!!\" is a yes) or the person who says \"let's park that\" and then does pick it up. Daniel's failure story: Hollis, director of engineering on a partner team; he invited fourteen people to \"Q3 alignment,\" went around for updates (forty-nine minutes), raised the real question about the data migration with eleven minutes left, said \"Let's follow up offline,\" and the migration slipped a month; Hollis: \"I gave you fifty minutes of my Thursday. What did you need from me?\" Now he finishes \"At the end, we will have decided...\" before sending an invite. Japan vs the US: Kato-san on nemawashi (decisions made in the hallway; a manager's \"Today we have to decide this by three o'clock\" drew \"He didn't talk to us first\") and Tokyo's strict start and soft end (60 minutes on the invite, often 85), vs Seattle's soft start and strict end (Hannah's \"Sorry, I have to jump\"), Mark declining \"Sync\" invites, Laura's \"What did we decide?\"; Seattle can borrow the hallway message, Tokyo the end time said as consideration (omoiyari): \"so you get five minutes back,\" a sentence Kato-san said he would steal. The skill: open with purpose, decision and time; close with what was decided and who does what by when. Last challenge recap, today's one-day challenge, and a cliffhanger: Mark posted a recording of the call to a channel of forty-seven people, and Sena hasn't pressed play.",
+      "practice": "Before your next meeting, finish the sentence \"At the end, we will have decided...\" Then open with the purpose, the decision and the end time. If you can't finish the sentence, send a message instead.",
+      "sources": [
+        "Bluedorn, Turban & Love (1999), The effects of stand-up and sit-down meeting formats on meeting outcomes, Journal of Applied Psychology 84(2), 277–285",
+        "Kauffeld & Lehmann-Willenbrock (2012), Meetings Matter: Effects of Team Meetings on Team and Organizational Success, Small Group Research 43(2), 130–158"
+      ],
+      "tags": [
+        "running a meeting",
+        "short meetings",
+        "meeting agenda",
+        "meeting facilitation",
+        "time management",
+        "decisions",
+        "communication",
+        "EQ",
+        "emotional intelligence",
+        "career",
+        "program manager",
+        "audiobook",
+        "Japanese work culture",
+        "Japan vs US"
+      ],
+      "yt_title": "Meetings Run Long and Decide Nothing? Open With These 3 Sentences",
+      "hook": "Eleven people, thirty minutes, and an invite called \"Sync.\" You have to run it.\nHere are three sentences that open any meeting, one line that parks a detour, and what two studies say about time limits and action planning.",
+      "points": [
+        "Sit-down groups took 34% longer than standing groups (788 vs 589 seconds) with no better rankings (Bluedorn et al., 555 students)",
+        "In 92 team meetings, about 31 statements an hour were complaining and about 2 were action planning (Kauffeld & Lehmann-Willenbrock)",
+        "Hollis: fourteen updates in forty-nine minutes, and the real question came with eleven minutes left",
+        "Tokyo: strict start, soft end, decisions made beforehand (nemawashi). Seattle: soft start, strict end, decisions in the room",
+        "Open with purpose, decision and time (\"so you get five minutes back\"); park detours; close with who does what by when"
+      ],
+      "title_ja": "短い会議を回す",
+      "hook_ja": "11人、30分、タイトルは「Sync」という招待。あなたが回さなければならない。\nどんな会議でも使える三つの開始の文、脱線を置いておく一言、そして時間の制限と行動計画についての二つの研究を紹介します。",
+      "points_ja": [
+        "座って行った会議は、立って行った会議より34%長くかかり（788秒対589秒）、順位づけの質は変わらなかった（ブルードーンら、学生555人）",
+        "92回のチーム会議で、1時間あたり約31回が不満の発言、約2回が行動計画の発言だった（カウフェルドとレーマン=ヴィレンブロック）",
+        "ホリス：14人の報告に49分。本当の問いが出たのは残り11分",
+        "東京：始まりに厳しく、終わりに柔らかく、決定は事前（根回し）。シアトル：始まりに柔らかく、終わりに厳しく、決定はその場",
+        "目的、決めること、時間で始める（「5分が戻ってきます」）。脱線は置いておく。終わりは、誰がいつまでに何をするかで閉じる"
+      ],
+      "summary_ja": "セナが初めて回した火曜の準備会議。11人、30分、タイトルは「Sync」、マークさんの項目は四つ（「リージョン3の時期？？」「バナー」「毎週の依頼」「ほかに何か！！」）。招待を変える前に、セナはマークさんとローラさんに下書きを送りました。決めることは三つ、ローラさんの質問ひとつにつきひとつ。「ほかに何か」はSlackへ（マークさん：「やった、お願い！！」、ローラさん：「できれば9時25分に終わらせてください」）。日曜には田辺さんに電話をかけ直しました（「本当にかけてくれたのね。みんな、かけるって言うだけなのに。」）。ケンタさん、リョウさん、セナの三人で、ファイルを送ってこなかった19店を分担し、ローラさんの三つ目の質問への最初の数は、手作業が確認できたのが10店、別のシステムが2店、連絡がつかなかったのが8店でした。会議は三つの文（目的、決めること、時間：「皆さんの5分が戻ってきます」）で開始。11分目にマークさんが脱線しかけたときは「それは一旦置いて、あとでSlackで続けましょう」と言い、最後に決まったことと、誰がいつまでに何をするかを言って、9時24分に終了。ローラさん：「私はいつも、何が決まったかを聞くんです。今日は聞かなくてよかった。」ダニエルの研究：ブルードーン、ターバン、ラブ（1999年、Journal of Applied Psychology）では、学部生555人が5人ずつ111のグループで、月への墜落事故後の15の生存用品を順位づけ。半分は立ったまま、半分は座って。座ったグループは平均788秒、立ったグループは589秒で、34%長くかかったのに順位づけは良くならず、満足度は少し高かった（7点満点で5.91対5.68）。カウフェルドとレーマン=ヴィレンブロック（2012年、Small Group Research）では、中規模企業20社の92回のチーム会議をビデオに撮り、1時間あたり約31回が不満の発言、約2回が行動計画の発言。行動計画が多いほど会議の満足度が高く、生産性データのあった30チームでは生産性も高かった。限界：学生、10分ほどの課題、パズル一つ。製造業のチーム、ほとんど男性、相関で、生産性データは2社のみ。どちらの研究も開始時の宣言は試しておらず、その部分はダニエルの判断です。AIにできないこと：分刻みの議題とアイスブレイクは書けるが、会議室の空気（ローラさんは5分戻ってくるほうがいい、ウェンデルさんは名前を呼ばれると話す、マークさんの「もちろん！！」は本当のイエス）は分からず、「置いておきましょう」と言って、実際にあとで拾う人にはなれない。ダニエルの失敗談：パートナーチームのエンジニアリング・ディレクター、ホリス。14人を「第3四半期のすり合わせ」に招待し、近況の共有で49分、データ移行の本当の問いを出したのは残り11分、「あとで個別にフォローしましょう」と言い、移行は1か月遅れた。ホリス：「私の木曜の50分を差し上げました。私に何が必要だったんですか？」今は、招待を送る前に「終わるころには、○○を決めている」を完成させます。日本とアメリカでは、加藤さんの根回し（決定は廊下で。管理職の「今日は三時までにこれを決めなければなりません」に「先に話をしてくれなかった」）と、東京の始まりに厳しく終わりに柔らかい会議（招待は60分、実際は85分のことも）を、シアトルの始まりに柔らかく終わりに厳しい会議（ハンナさんの「ごめん、抜けます」）、「Sync」の招待を断るマークさん、ローラさんの「何が決まりましたか？」と比べます。シアトルは廊下のメッセージを、東京は終了時間を、思いやりとして（「5分が戻ってきます」。加藤さんが盗むと言った一文）借りられる。スキルは、目的、決めること、時間で始めて、決まったことと誰がいつまでに何をするかで閉じること。前回のチャレンジの振り返りと、今日のチャレンジ、そして最後は、マークさんが47人のチャンネルに会議の録画を投稿し、セナはまだ再生していない、という引きです。",
+      "practice_ja": "次の会議の前に、「終わるころには、○○を決めている」という文を完成させる。そして、目的、決めること、終了時間で会議を始める。文が完成できなければ、メッセージを送る。",
+      "thumb_accent": "End on Time",
+      "thumb_sub": "Open With Purpose, End on Time",
+      "thumb_notes": [
+        "Purpose",
+        "The decision",
+        "End time",
+        "Park it"
+      ],
+      "thumb_cup": "Ends 9:25",
+      "thumb_pose": "sena_bell_rope"
     }
   ]
 }

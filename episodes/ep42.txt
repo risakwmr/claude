@@ -1,0 +1,57 @@
+SENA: Minute eleven. Mark says, "Quick one before we move on!" and I watch eleven people start to lose twenty minutes.
+DANIEL: And what did you say?
+SENA: Eleven words. Mark wrote back "Totally!!" Two exclamation points, so I think it worked.
+DANIEL: I want those eleven words. And I want the three sentences you said before them.
+DANIEL: By the end of this episode, you'll have three sentences that open any meeting, and one line that stops a detour without making anyone feel dropped.
+DANIEL: Welcome back to Human Curriculum. I'm Daniel, in Seattle.
+SENA: And I'm Sena, in Tokyo. It's Tuesday morning, a little past eleven. The call ended at nine twenty-four.
+DANIEL: And it's Monday evening, ten past seven here. My wife is making dinner, which is the safest option for everyone, and Maple is pretending he can't smell it. Walk me back to the beginning. The title was "Sync."
+SENA: Saturday I opened the invite properly. Four items from Mark: "Region three timing," two question marks. "The banner," smiley face. "Weekly asks." And "Anything else," two exclamation points. Eleven people, thirty minutes, and no goal anywhere.
+DANIEL: "Anything else" as an agenda item is an open door. Everyone walks through it.
+SENA: That was my fear. So I did something that felt very Tokyo. I didn't change the invite first. I sent Mark and Laura a draft: three decisions, one for each of Laura's questions, and a suggestion that "Anything else" move to Slack. Mark replied in four seconds: "OMG yes!! I only wrote Sync because I didn't know what else to call it." Laura wrote one line: "Thank you. Please end at nine twenty-five if you can."
+SENA: Then I renamed the invite: "Wednesday review prep: three decisions, ends nine twenty-five." And Sunday I called Tanabe-san back, like I promised. Four minutes. She said, "You called. Most people say they will."
+DANIEL: I'm keeping that sentence.
+SENA: Then the count. Kenta said, "I'm better on the phone than on video," and took six stores. Ryo took six. I took seven. By eight-forty this morning: ten stores confirmed building their numbers by hand, including Tanabe-san's. Two on another system. Eight I couldn't reach. I sent Laura all three numbers and how sure I was about each.
+DANIEL: Kenta volunteered for phone calls.
+SENA: He did. I almost fell off my chair. Then nine o'clock came. I said, "Thanks for joining. This call is to get ready for Wednesday's review. By the end, we need three decisions: who answers each of Laura's questions. We finish at nine twenty-five, so you all get five minutes back."
+DANIEL: Purpose, decision, time. And that last sentence is a gift.
+SENA: Minute eleven, Mark said, "Quick one before we move on!" Hannah looked at her second screen. I said, "Let's park that and pick it up in Slack right after." Mark said, "Totally!!"
+SENA: At nine twenty-one I said, "Here's what we decided, and who does what by when." Then Laura unmuted. "I always ask what we decided. Today I didn't have to." We ended at nine twenty-four. And at nine twenty-six I posted Mark's question in Slack.
+DANIEL: That last part matters more than it looks. Hold that thought. There's research behind both of those moves, and it says less than you'd hope, and more.
+DANIEL: In 1999, Allen Bluedorn, Daniel Turban and Mary Sue Love published "The effects of stand-up and sit-down meeting formats on meeting outcomes" in the Journal of Applied Psychology.
+DANIEL: Picture 555 undergraduates in 111 groups of five, ranking fifteen survival items after a crash on the moon. Half the groups stood in a room with no chairs. Half sat at a table.
+DANIEL: The sitting groups took 788 seconds on average, about thirteen minutes. The standing groups took 589, about ten. That's 34 percent longer, and the rankings were no better.
+SENA: So the chairs bought three extra minutes and nothing else.
+DANIEL: Almost. The sitting groups used more of the task information and were a little more satisfied, 5.91 versus 5.68 on a seven-point scale. Shorter wasn't free.
+DANIEL: Second study. In 2012, Simone Kauffeld and Nale Lehmann-Willenbrock videotaped 92 regular team meetings from 20 medium-sized companies, in industries like automotive parts, metal and chemicals, and coded every statement. In an average hour, about 31 statements were complaining. About two were action planning: someone saying who will do what next.
+SENA: Thirty-one to two.
+DANIEL: Teams with more action planning were more satisfied with their meetings. And in the thirty teams where the researchers had productivity numbers, they were more productive. Complaining went with lower satisfaction.
+DANIEL: Cautions. Bluedorn used students, ten-minute tasks and one puzzle with a right answer, and the authors say we don't know if standing works for longer, messier meetings. Kauffeld's teams were industrial, mostly men, and the numbers are correlations. The productivity data came from just two companies. And neither study tested opening with a purpose, a decision and an end time. That part is my judgment: an end time shrinks a meeting, and a named decision aims it.
+SENA: Of course I asked an AI first. "Write an agenda for a thirty-minute prep call, eleven people, four items." It gave me a lovely minute-by-minute schedule, with a three-minute icebreaker.
+DANIEL: What did it miss?
+SENA: The room. It didn't know Laura would rather have five minutes back than an icebreaker, or that Wendell talks when someone says his name, or that "Totally!!" from Mark is a real yes. It can write an agenda. It can't be the person who says "let's park that."
+DANIEL: And the sentence only works because Mark knew you'd pick it up in Slack. You did, at nine twenty-six. That is what makes the next "park that" work.
+DANIEL: Which brings me to Hollis, a director of engineering on a partner team. Some years ago I invited fourteen people to a sixty-minute meeting called "Q3 alignment." I opened with, "Let's go around and share updates."
+SENA: Oh no.
+DANIEL: Fourteen updates, forty-nine minutes. With eleven minutes left, I finally said, "The real question is whether we move the data migration." People looked at their watches. I said, "Let's follow up offline." The follow-up took three weeks, and the migration slipped a month.
+DANIEL: The next day Hollis sent me one line: "I gave you fifty minutes of my Thursday. What did you need from me?" The answer was one yes, and it would have taken ninety seconds. My wife heard the story and said, "You invited fourteen people to find out what you wanted."
+DANIEL: Now, before I send any invite, I finish one sentence: "At the end, we will have decided..." If I can't finish it, I write an email instead.
+DANIEL: Now, Tokyo and Seattle. You said messaging first felt very Tokyo. What is the Tokyo logic?
+SENA: Kato-san called from his hotel in Osaka on Saturday night and said, "In many Tokyo meetings, the decision is already made. We make it in the hallway, the week before. Nemawashi. The meeting is where we say it out loud together." Last spring a manager opened a meeting with, "Today we have to decide this by three o'clock." Two section chiefs looked at the table. Afterward one said, "He didn't talk to us first."
+DANIEL: So a stated decision can sound like a surprise.
+SENA: And the end is soft. Kato-san's Tuesday meeting is sixty minutes on the invite and often eighty-five in real life. Nobody looks at a clock, because looking would mean "I want to leave." But the start is strict. People are in their seats at two minutes to.
+DANIEL: And Seattle is the mirror?
+SENA: Often. Mark told me he declines invites called "Sync" with no agenda, except mine, because mine had a name. Hannah leaves at the exact end time, mid-sentence, with "Sorry, I have to jump." Nobody takes it personally. And a lot of our calls start with two minutes of "Can everyone hear me?" So Tokyo is strict about the start, soft about the end, and decides before. Seattle is soft about the start, strict about the end, and decides in the room.
+DANIEL: What can each side borrow?
+SENA: Seattle can borrow the hallway: one message before the meeting. Tokyo can borrow the end time, but the Tokyo way. Not "I have a hard stop." It's "We finish at nine twenty-five, so you get five minutes back." Same fact, but it's consideration for other people. Omoiyari. And Kato-san read my notes and said, "'So you get five minutes back.' I would never have thought to say that. I'm stealing it."
+DANIEL: Kato-san named the exact sentence. Let's turn this into a skill. It's relationship management: respecting everyone's time is a way of respecting them. Open with three sentences. One, the purpose: "This meeting is to..." Two, the decision: "By the end, we need to..." Three, the time: "We finish at..., so you get... back." Close with "Here's what we decided, and who does what by when."
+SENA: Let me try it on your Thursday team meeting, thirty minutes, with two roles to pick. "Thanks, everyone. This meeting is to plan hiring. By the end, we need to pick the first two roles to open. We finish at ten forty-five, so you get fifteen minutes back."
+DANIEL: Fifteen minutes back. My team will check my temperature.
+SENA: Okay, last time's challenge was to say "I don't know yet," then one thing you know, then when. Saturday night Mark asked, "Does the banner need region three numbers?" I said, "I don't know yet. I know the banner text has no numbers. I'll ask Dana by Monday noon." He wrote, "Perfect!!" and never asked again.
+DANIEL: Mine was a new hire asking if the budget covers a ninth person. I said, "I don't know yet. The finance review is Thursday. I'll tell you Friday morning." She said, "Thank you for not guessing."
+DANIEL: Okay, today's challenge. Before your next meeting, finish this sentence: "At the end, we will have decided..." Then open with the purpose, the decision, and the end time. If you can't finish the sentence, send a message instead.
+SENA: Purpose, decision, time. And Daniel, I have to tell you what Mark posted at nine thirty-one, one minute after the call.
+DANIEL: Next time is episode forty-three, "Learning from Your Own Recording." What did he post?
+SENA: "Great call!! I recorded it, link here. Laura asked me to share it with the whole Seattle review group." At nine, Mark had said, "I'll hit record for anyone who can't make it," and I forgot by nine-oh-two. Forty-seven people are in that channel. Thirty minutes of my English, and I haven't pressed play. Thanks for listening to Human Curriculum.
+DANIEL: I'm Daniel.
+SENA: And I'm Sena. Purpose, decision, time. See you next time.

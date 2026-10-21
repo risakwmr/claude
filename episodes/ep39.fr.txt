@@ -1,0 +1,60 @@
+SENA: « Pas de graphique sur la première diapo. Commence par une personne. » Daniel, Laura veut trois minutes de ma part, et je n'ai pas de personne.
+DANIEL: Tu as quatorze pages sur la région trois et pas une seule personne ?
+SENA: J'ai des colonnes. Des lignes. Un très bon filtre. Zéro personne.
+DANIEL: Qui est la personne derrière tes chiffres ?
+SENA: C'est ce que je me suis demandé à minuit, avec la bouilloire.
+DANIEL: À la fin de cet épisode, tu auras une méthode en quatre temps pour ouvrir n'importe quelle présentation avec une vraie personne, et un test pour savoir si ton histoire est assez vraie pour être racontée.
+DANIEL: Bienvenue de nouveau dans Human Curriculum. Je suis Daniel, à Seattle.
+SENA: Et moi, c'est Sena, à Tokyo. On est vendredi, neuf heures du matin, et j'ai déjà passé un coup de fil en japonais avant le petit-déjeuner.
+DANIEL: Ici, c'est jeudi, dix-sept heures, et Maple dort sur mes pieds. Reprends à partir d'hier soir.
+SENA: Jeudi soir, j'ai dit à Kato-san : « Je n'ai qu'une gérante à Osaka qui fait ses chiffres hebdomadaires à la main. Tanabe-san. Je ne l'ai jamais rencontrée. » Il n'a rien dit pendant quelques secondes. Puis il a dit : « Appelle-la. Pas d'e-mail. Je vais demander aux ventes d'Osaka de te présenter. »
+DANIEL: Un coup de téléphone. Kato-san qui donne un conseil sans agenda surchargé en vue.
+SENA: À sept heures quarante ce matin, avant l'ouverture de son magasin, je l'ai appelée. J'avais une note sur mon téléphone : trois questions, et la première était : « Puis-je utiliser votre nom ? » Mon cœur était à six.
+DANIEL: Et elle a répondu quoi ?
+SENA: Elle a dit : « Utilisez-le. Dites que j'en ai assez des dimanches. » Ensuite elle m'a tout raconté. Chaque dimanche soir, quand ses enfants sont couchés, elle ouvre l'export de la caisse et recopie à la main six jours de ventes dans un tableur. Ça lui prend environ quatre-vingt-dix minutes. Dimanche dernier, à onze heures, elle s'est aperçue qu'elle avait tapé mardi deux fois.
+DANIEL: Mardi deux fois. C'est le double comptage que Kenta a trouvé en mars, vu de l'autre côté de l'écran.
+SENA: Je sais ! J'avais exactement le même bug dans mon pipeline, et je n'ai jamais vu la personne qui le tapait. Pour moi, c'était un filtre. Pour elle, c'est onze heures un dimanche soir.
+DANIEL: Garde cette phrase en tête, parce qu'il existe une recherche sur la raison pour laquelle une seule personne frappe plus qu'un graphique. En 2007, Deborah Small, George Loewenstein et Paul Slovic ont publié un article intitulé « Sympathy and callousness » dans Organizational Behavior and Human Decision Processes.
+SENA: Donc, de la charité ?
+DANIEL: Oui, alors garde les limites en tête. Dans l'Étude 3, 159 personnes sur un campus de Pennsylvanie ont chacune gagné cinq dollars pour un court sondage, puis pouvaient en donner une partie à Save the Children. Certains ont lu l'histoire de Rokia, une fillette de sept ans au Mali. D'autres ont lu des statistiques, comme trois millions d'enfants touchés par les pénuries alimentaires au Malawi. Rokia a reçu en moyenne 2,38 $. Les statistiques, 1,14 $.
+SENA: Donc une seule petite fille a reçu plus du double d'argent.
+DANIEL: Et voici la partie que je dirais à n'importe quel présentateur. Un troisième groupe a lu l'histoire de Rokia et les statistiques. Ils ont donné 1,43 $, pas mieux qu'avec les statistiques seules. Les auteurs pensent que les chiffres peuvent rappeler l'ampleur du problème et affaiblir l'émotion que crée l'histoire d'une seule personne.
+SENA: Mais c'était de la charité. La revue produit de Laura, ce n'est pas de la charité.
+DANIEL: Exact, alors voici les réserves. Des étudiants et des passants, un don de cinq dollars, une histoire d'enfant dans le besoin, pas une réunion de travail. Et en 2024, des chercheurs ont mené une réplication préenregistrée des études 1 et 3, avec des dons hypothétiques, et n'ont trouvé aucun soutien pour l'effet. L'effet de la victime identifiable est peut-être plus faible que ce célèbre résultat. Donc je ne dis pas qu'une histoire bat toujours un chiffre. Je dis qu'une personne précise est une meilleure première phrase qu'un graphique que personne ne peut encore se représenter. Cette partie, c'est mon avis, pas celui de l'article.
+SENA: Hier soir, j'ai aussi demandé à une IA d'écrire mon ouverture. Elle a écrit : « Voici Maria, gérante d'un magasin à Osaka qui passe ses dimanches enterrée sous les tableurs. » Chaleureux. Précis. Complètement inventé.
+DANIEL: C'est pour ça que l'IA ne peut pas faire cette partie à ta place.
+SENA: Exactement. Le détail qui m'a arrêtée, c'était « mardi, deux fois, à vingt-trois heures ». L'IA lui aurait donné un nom. Elle n'aurait pas pu me donner son dimanche. Et si Laura demandait : « Où est-elle ? », je n'aurais rien.
+DANIEL: Laisse-moi te dire pourquoi l'ordre compte, avec un de mes échecs. Il y a quelques années, j'ai présenté nos résultats de qualité du support à l'équipe de mon VP. Quatorze diapos. Un graphique de rétention d'abord, un client à la diapo treize.
+SENA: La diapo treize ?
+DANIEL: J'avais gardé la partie humaine pour le dessert. À la diapo quatre, la moitié de la salle regardait son téléphone. Pilar, qui dirigeait le support de toute la région, a fini par dire : « Daniel, c'est le ticket de qui ? » Je n'ai pas compris ce qu'elle voulait dire.
+SENA: Parce que le graphique ne contenait aucun ticket.
+DANIEL: Exactement. À la diapo treize, j'ai enfin parlé d'un enseignant à la retraite, M. Okafor, qui avait passé quarante minutes à chercher le bouton d'export avant d'écrire : « Je me suis senti bête. » La salle est devenue silencieuse. Pilar a dit : « C'est celui dont je me souviendrai. Pourquoi ce n'était pas la première diapo ? »
+SENA: Qu'est-ce que tu as répondu ?
+DANIEL: J'ai dit : « Parce que le graphique me semblait plus sûr. » C'était vrai. Une personne, on peut lui poser des questions. Un graphique reste juste là.
+SENA: Le graphique comme bouclier.
+DANIEL: Toujours. Et maintenant, le segment que je pense que tu vas aimer. Tokyo et Seattle n'ouvrent pas les présentations de la même façon.
+SENA: Kato-san m'a montré une ancienne présentation d'Osaka. Diapo un, le titre. Diapo deux, l'ordre du jour. Diapo trois, le contexte du marché. Le client arrive en dernier, sous « Okyakusama no koe », la voix du client, avec deux citations. L'entreprise s'appelle « Client A ».
+DANIEL: Client A.
+SENA: Il m'a dit que nommer un client au Japon peut donner l'impression de l'exposer. Donc on protège la personne : Client A. Et le contexte d'abord montre au public qu'on a fait ses devoirs.
+DANIEL: Ce qui est généreux. Et à Seattle, que se passe-t-il ?
+SENA: Kato-san m'a raconté ce que Laura a fait au printemps dernier à la revue de Seattle, quand une équipe a ouvert avec une diapo d'ordre du jour. Elle a dit : « Passez ça. Pour qui construit-on ça ? » Puis elle a demandé : « Comment elle s'appelle ? Qu'est-ce qu'elle a fait mardi dernier ? » Pas parce qu'elle veut des potins. Mais parce qu'un nom et un mardi font imaginer la même chose à toute la salle en même temps.
+DANIEL: C'est ce que je dirais à un manager américain : un nom et un jour précis rendent une histoire facile à répéter. Et l'habitude de Tokyo a aussi quelque chose à nous apprendre. Demander la permission d'abord, ce que tu as fait.
+SENA: Parce que je connais le prix de mettre une vraie personne sur une diapo. Si Tanabe-san est sur la diapo un et que je me trompe sur elle, c'est elle qui devra le vivre à Osaka.
+DANIEL: Alors voici le test que j'ai promis. L'histoire est-elle vraie, et la personne a-t-elle dit oui ? Trois vérifications : tu l'as entendue de leur bouche, tu peux la dire avec leurs mots, et ils ont accepté d'être nommés. Si l'une échoue, change le nom ou l'histoire, et dis-le.
+SENA: J'en ajouterais une. Explique au public pourquoi cette personne compte avant de donner le chiffre.
+DANIEL: Faisons-en une compétence. C'est de la gestion des relations : ouvrir avec une vraie personne. Quatre temps. Un, un nom. Deux, un lieu et un moment. Trois, un détail que seule cette personne a pu te donner. Quatre, ensuite ton chiffre, et ce qu'il signifie pour elle.
+SENA: Laisse-moi essayer. Tu es Laura. « Sena, tu as trois minutes. »
+DANIEL: « Sena, tu as trois minutes. »
+SENA: Je vais commencer par une personne. Chaque dimanche à vingt et une heures, Tanabe-san, gérante d'un magasin à Osaka, recopie à la main six jours de ventes dans un tableur. La semaine dernière, à onze heures, elle s'est aperçue qu'elle avait tapé mardi deux fois. Voici pourquoi elle compte : notre pipeline ramène ces quatre-vingt-dix minutes à environ une minute, et aujourd'hui seule la région un en profite.
+DANIEL: « Pourquoi seulement la région un ? » Et remarque, tu as donné une question à poser à Laura. C'est ce que fait une personne pour une salle.
+SENA: Bon, le défi de la dernière fois, c'était une phrase dans la première minute, et noter ma nervosité avant et après.
+DANIEL: Comment ça s'est passé ?
+SENA: Le point de jeudi avec Kato-san. J'ai dit : « Puis-je commencer par une chose ? La gérante d'Osaka. » Avant : six. Après : trois. Et ce matin au téléphone avec Tanabe-san, avant : six, après : deux, parce qu'elle a ri.
+DANIEL: Le mien, c'était la réunion d'équipe de mercredi. J'ai ouvert avec : « Je vais commencer par ce dont je suis le moins sûr. » Avant : cinq. Après : trois. Personne n'a sursauté. Bon, le défi d'aujourd'hui : ouvre ta prochaine présentation, mise à jour ou e-mail avec une vraie personne. Un nom, un lieu, un moment, puis ton chiffre. Et vérifie qu'elle a dit oui.
+SENA: Un nom, un lieu, un moment, puis le chiffre. Et Daniel, mon téléphone a vibré pendant qu'on parlait. Mark, neuf heures vingt et une, un message Slack.
+DANIEL: La prochaine fois, c'est l'épisode quarante, « Pushing Back on Deadlines ». Qu'est-ce qu'il a écrit ?
+SENA: « J'adore l'idée d'Osaka !! Pourrais-tu AUSSI ajouter une vue région trois au dashboard avant la revue de mercredi ? Il me la faut pour lundi, 9 h, heure de chez toi !! 🙏 »
+DANIEL: Lundi 9 h à Tokyo, c'est dimanche soir ici. Combien de temps faut-il pour une vue région trois ?
+SENA: Trois jours si rien ne casse. On est vendredi. Et j'ai déjà dit à Tanabe-san que je la rappellerais dimanche. Merci d'avoir écouté Human Curriculum.
+DANIEL: Je suis Daniel.
+SENA: Et moi, Sena. Commence par une personne, dis-le simplement, et demande d'abord. À la prochaine.

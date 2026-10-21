@@ -1,0 +1,60 @@
+SENA: "Senin, jam 9 pagi waktumu!!" Daniel, sudah sebelas jam dan aku masih belum membalas Mark.
+DANIEL: Sebelas jam? Draf kamu tulis apa?
+SENA: Dua kata. "Ya, tentu."
+DANIEL: Itu draf yang akan kuhapus.
+SENA: Aku tahu itu jawaban yang salah. Jempolku juga tahu. Dia terus melayang di atas tombol "kirim."
+DANIEL: Di akhir episode ini, kamu akan punya balasan tiga bagian untuk tenggat yang tidak bisa kamu penuhi, dan cara cepat untuk memperkirakan berapa lama sesuatu benar-benar akan memakan waktu.
+DANIEL: Selamat datang kembali di Human Curriculum. Aku Daniel, di Seattle.
+SENA: Dan aku Sena, di Tokyo. Di sini hari Jumat, jam sembilan malam.
+DANIEL: Dan di sini jam lima pagi. Maple berdiri di pintu sambil menggigit tali lehernya, jadi aku punya waktu sampai dia menyerah. Ceritakan harimu.
+SENA: Setelah telepon denganmu, aku membaca pesan Mark empat kali lagi. Pekerjaan tiga hari, tenggatnya Senin pagi, dan aku sudah berjanji menelepon Tanabe-san hari Minggu. Jadi aku melakukan apa yang selalu kulakukan untuk pertanyaan sulit. Aku bertanya kepada orang yang sudah pernah melakukannya.
+DANIEL: Kamu bertanya kepada siapa?
+SENA: Kenta. Aku bilang, "Tampilan region dua kemarin butuh berapa lama?" Dia membuka buku catatannya, yang tentu saja ada tanggalnya, dan bilang, "Empat hari, lalu satu hari lagi untuk memperbaiki satu filter." Lima hari. Untuk region yang sudah kupahami.
+DANIEL: Dan kamu sendiri memperkirakan berapa?
+SENA: Tiga hari, kalau tidak ada yang rusak. Lalu Ryo lewat dan bilang, "Tidak ada yang rusak itu tidak pernah terjadi." Katanya skrip Osaka seharusnya dua hari, ternyata enam hari.
+DANIEL: Keduanya baru saja memberimu patokan.
+SENA: Lalu aku menunjukkan ke Kato-san apa yang ingin kutulis untuk Mark. Dan dia bilang, dengan sangat baik, "Kalau aku, aku akan bilang ya." Lalu beberapa detik kemudian, "Tapi kurasa yang kamu tulis lebih baik. Kirim saja."
+DANIEL: Apa yang kamu tulis?
+SENA: "Mark, Senin jam 9 pagi tidak realistis untuk tampilan region tiga yang lengkap. Ini yang bisa saya lakukan. Pratinjau region tiga satu halaman, berdasarkan angka final dari Wendell, paling lambat Selasa jam 9 pagi waktu saya. Itu Senin jam 5 sore waktumu, sehari sebelum rapat tinjauan. Atau tampilan lengkapnya setelah Rabu. Mana yang lebih membantu pada hari Rabu?"
+DANIEL: Dan Mark?
+SENA: Empat detik. "OH. Satu halaman!! Ya!! Aku tadi mikirnya terlalu besar 😅"
+DANIEL: Empat detik. Dia menunggu pertanyaan yang lebih kecil dari tadi.
+SENA: Aku menghabiskan sebelas jam membayangkan dia akan kesal.
+DANIEL: Ada penelitian di balik sebelas jam itu. Tahun 1994, Roger Buehler, Dale Griffin, dan Michael Ross menerbitkan "Exploring the Planning Fallacy" di Journal of Personality and Social Psychology. Di Studi 1, mereka menelepon 37 mahasiswa psikologi di University of Waterloo yang sedang menyelesaikan skripsi honors, dan bertanya kapan mereka akan menyerahkannya.
+SENA: Lalu?
+DANIEL: Tiga puluh tujuh mahasiswa itu memperkirakan akan selesai dalam 33,9 hari. Kenyataannya 55,5 hari. Hanya 29,7 persen yang selesai sesuai perkiraan terbaik mereka, dan bahkan ketika ditanya kalau semuanya berjalan sempurna, hanya 10,8 persen yang mencapai tanggal itu.
+SENA: Bahkan saat membayangkan semuanya lancar, hampir tidak ada yang berhasil.
+DANIEL: Catatannya: mahasiswa, satu proyek besar, skripsi honors, dan itu tahun 1994. Makalah itu juga menemukan bahwa pengamat yang menilai tugas orang lain memperkirakan terlalu lama, makanya bertanya ke Kenta dan Ryo itu pintar. Aku tidak bilang setiap perkiraan meleset enam puluh persen. Yang kumaksud, tebakan tentang pekerjaan sendiri adalah yang paling mungkin melupakan filter yang rusak.
+SENA: Aku juga bertanya ke AI. Katanya, "Tampilan region tiga biasanya butuh satu sampai dua hari." Yakin sekali. Dan salah.
+DANIEL: Kenapa AI tidak bisa menjawab ini untukmu?
+SENA: Karena AI tidak tahu buku catatan Kenta bilang lima hari, atau skrip Ryo butuh enam hari, atau setiap region punya filter anehnya sendiri. Jawaban yang benar ada di riwayat kita, bukan di rata-rata.
+DANIEL: Yang membawaku ke kesalahanku sendiri. Beberapa tahun lalu, seorang program manager di tim mitra, Odette, bertanya, "Berapa lama mengekspor data dukungan?" Aku bilang, "Dua minggu." Ekspor terakhir butuh lima.
+SENA: Kamu tahu itu.
+DANIEL: Aku tahu, dan tetap bilang dua, karena dia kelihatan cemas dan aku ingin dia merasa lebih tenang saat itu juga. Dia bilang ke VP-nya dua minggu. Di hari keempat belas aku menulis, "Beberapa hari lagi." Ternyata hari ketiga puluh empat.
+SENA: Dia bilang apa?
+DANIEL: "Kalau kamu bilang lima minggu, aku akan merencanakan untuk lima. Aku merencanakan untuk dua versimu." Saat itulah aku mulai membuat daftar bernama "Berapa lama sebenarnya." Dua kolom: apa yang kubilang dan apa yang terjadi.
+SENA: Tenggat yang kamu ucapkan keras-keras bukan cuma waktumu. Itu rencana orang lain.
+DANIEL: Betul. Dan Tokyo dan Seattle menangani tenggat yang tidak bisa dipenuhi dengan cara yang sangat berbeda, jadi ceritakan tentang Osaka.
+SENA: Kato-san bercerita tentang suatu hari Jumat saat dia masih jadi ketua tim di Osaka. Seorang direktur penjualan bertanya, "Bisa kasih saya ini hari Jumat?" Kato-san berpikir dan bilang, "Kentou shimasu." Akan saya pertimbangkan.
+DANIEL: Dan direktur itu mendengar apa?
+SENA: Ya. Padahal Kato-san maksudnya tidak, tidak yang sopan. Jadi Jumat pagi, direktur itu datang dan bilang, "Mana?" Di Jepang ada versi kedua juga: "Nantoka shimasu," akan saya usahakan bagaimanapun caranya. Itu artinya ya, dan biayanya disembunyikan. Kato-san bilang "tidak bisa" yang langsung terdengar seperti menolak orangnya, bukan tanggalnya.
+DANIEL: Dan di Seattle?
+SENA: Laura bertanya, "Tenggat sebenarnya kapan? Apa yang terjadi kalau Selasa?" Dan dia senang kalau ada yang menjawab, "Senin mepet. Saya bisa Selasa, dan ini yang Anda dapat hari Jumat." Di banyak tim di Amerika, penawaran balik bukan penolakan. Itu cara mengerjakan masalahnya bersamamu. Tapi versi Seattle dari kesalahan yang sama adalah "Tentu, tidak masalah!" yang ceria dan menyembunyikan jawaban sebenarnya.
+DANIEL: Jadi "Nantoka shimasu" dari Tokyo dan "Tentu, tidak masalah" dari Seattle itu saudara sepupu. Keduanya bilang ya sebelum memeriksa.
+SENA: Dan apa yang bisa dipinjam masing-masing: Tokyo bisa meminjam penawaran balik ala Seattle, dan Seattle bisa meminjam perhatian Tokyo pada hubungan. Aku bilang, "Mana yang lebih membantu pada hari Rabu?" Itu pertanyaan yang menjaga tujuan Mark tetap di tengah.
+DANIEL: Mari kita jadikan keterampilan. Ini manajemen hubungan, menolak dengan membawa tawaran. Tiga bagian. Satu, apa yang bisa kamu lakukan dan kapan selesai. Dua, apa yang harus digeser untuk memberi ruang, atau apa yang tidak bisa kamu lakukan. Tiga, pertanyaan tentang apa yang paling penting. Sebelum menjawab, cari tahu berapa lama hal serupa yang terakhir benar-benar memakan waktu.
+SENA: Aku coba. Kamu jadi Mark. "Bisa selesai hari Senin?"
+DANIEL: "Bisa selesai hari Senin?"
+SENA: Mark, Senin tidak realistis untuk semuanya. Ini yang bisa saya lakukan sampai Selasa: pratinjau satu halaman. Tampilan lengkapnya akan menggeser telepon Osaka. Mana yang paling penting untuk hari Rabu?
+DANIEL: "Pratinjaunya, pasti." Perhatikan, kamu tidak minta maaf sekali pun.
+SENA: Oke, tantangan episode lalu adalah membuka dengan satu orang nyata. Aku sudah melakukannya di email ke Kato-san pagi ini. Aku mulai dengan hari Selasa Tanabe-san yang diketik dua kali, jam sebelas malam.
+DANIEL: Kato-san bilang apa?
+SENA: Dia membalas dengan empat kata. "Saya baca dua kali." Dan itu dari orang yang membaca segalanya cuma sekali.
+DANIEL: Punyaku catatan untuk VP-ku, yang kubuka dengan Soren, seorang insinyur di timku yang membangun ulang giliran on-call kami dalam satu akhir pekan. Dia membalas dalam sepuluh menit. Oke, tantangan hari ini: sebelum kamu bilang ya pada sebuah tenggat, cari tahu berapa lama hal serupa yang terakhir benar-benar memakan waktu. Lalu jawab dengan apa yang bisa kamu lakukan dan kapan, dan tanyakan apa yang paling penting.
+SENA: Angka yang terakhir dulu, lalu apa yang bisa kulakukan, lalu apa yang paling penting. Dan Daniel, aku punya satu hal lagi. Kato-san meneruskan pesan dari Laura sejam lalu, dan aku belum cerita ke siapa pun.
+DANIEL: Episode berikutnya adalah episode empat puluh satu, "Saying 'I Don't Know.'" Isi pesannya apa?
+SENA: "Untuk hari Rabu, tolong siap untuk tiga pertanyaan. Satu: kenapa hanya region satu? Dua: kapan region tiga diluncurkan? Tiga: berapa toko yang masih menyusun angkanya secara manual?"
+DANIEL: Kamu bisa menjawab ketiganya?
+SENA: Satu dan dua, hampir. Tiga, tidak ada yang tahu. Dan baris terakhir catatannya bilang, "Tolong jangan menebak." Terima kasih sudah mendengarkan Human Curriculum.
+DANIEL: Aku Daniel.
+SENA: Dan aku Sena. Periksa angka terakhir, tawarkan apa yang bisa kamu lakukan, tanyakan apa yang penting. Sampai jumpa.

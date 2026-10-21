@@ -1,0 +1,60 @@
+SENA: "Segunda, 9h, no seu horário!!" Daniel, já faz onze horas e eu ainda não respondi o Mark.
+DANIEL: Onze horas? O que diz o seu rascunho?
+SENA: Duas palavras. "Sim, claro."
+DANIEL: Esse é o rascunho que eu apagaria.
+SENA: Eu sei que é a resposta errada. Meu dedão também sabe. Ele fica pairando em cima do "enviar".
+DANIEL: No fim deste episódio, você vai ter uma resposta em três partes para um prazo que você não consegue cumprir, e um jeito rápido de estimar quanto tempo algo vai levar de verdade.
+DANIEL: Bem-vindos de volta ao Human Curriculum. Eu sou o Daniel, em Seattle.
+SENA: E eu sou a Sena, em Tóquio. Aqui é sexta-feira, nove da noite.
+DANIEL: E aqui são cinco da manhã. O Maple está na porta com a guia na boca, então eu tenho até ele desistir. Me conta como foi o seu dia.
+SENA: Depois da ligação com você, li a mensagem do Mark mais quatro vezes. Três dias de trabalho, para segunda de manhã, e eu tinha prometido uma ligação para a Tanabe-san no domingo. Então fiz o que faço com toda pergunta difícil. Perguntei para alguém que já fez.
+DANIEL: Quem você perguntou?
+SENA: O Kenta. Eu disse: "Quanto tempo você levou na visão da região dois?" Ele abriu o caderno, que é claro que tem datas, e disse: "Quatro dias, e mais um dia para consertar um filtro." Cinco dias. Para uma região que eu já entendia.
+DANIEL: E você tinha estimado?
+SENA: Três dias, se nada quebrasse. Aí o Ryo passou e disse: "Nada nunca deixa de quebrar." Ele contou que o script de Osaka devia levar dois dias e levou seis.
+DANIEL: Os dois acabaram de te dar a sua referência.
+SENA: Depois mostrei ao Kato-san o que eu queria escrever para o Mark. E ele disse, com muita gentileza: "Eu teria dito sim." E, alguns segundos depois: "Mas acho que o que você escreveu é melhor. Manda."
+DANIEL: O que você escreveu?
+SENA: "Mark, segunda às 9h não é realista para a visão completa da região três. Aqui está o que eu consigo fazer. Uma prévia de uma página da região três, baseada nos números finais do Wendell, até terça às 9h no meu horário. Isso é segunda às 17h para você, um dia antes da revisão. Ou a visão completa depois de quarta. O que ajudaria mais na quarta?"
+DANIEL: E o Mark?
+SENA: Quatro segundos. "AH. Uma página!! Sim!! Eu estava pensando grande demais 😅"
+DANIEL: Quatro segundos. Ele estava esperando uma pergunta menor o tempo todo.
+SENA: Eu passei onze horas imaginando que ele ficaria chateado.
+DANIEL: Tem pesquisa por trás dessas onze horas. Em 1994, Roger Buehler, Dale Griffin e Michael Ross publicaram "Exploring the Planning Fallacy" no Journal of Personality and Social Psychology. No Estudo 1, eles ligaram para 37 estudantes de psicologia da Universidade de Waterloo que estavam terminando o trabalho de conclusão com honras, e perguntaram quando iam entregar.
+SENA: E aí?
+DANIEL: Os trinta e sete estudantes previram que terminariam em 33,9 dias. Levaram 55,5. Só 29,7 por cento terminaram dentro da própria melhor estimativa, e mesmo quando perguntaram sobre tudo dando perfeitamente certo, só 10,8 por cento cumpriram essa data.
+SENA: Mesmo imaginando que tudo daria certo, quase ninguém conseguiu.
+DANIEL: As ressalvas: estudantes, um projeto grande, um trabalho de conclusão, e era 1994. O artigo também achou que observadores julgando a tarefa de outra pessoa estimavam tempo demais, e é por isso que perguntar para o Kenta e o Ryo foi esperto. Não estou dizendo que toda estimativa erra em sessenta por cento. Estou dizendo que o palpite sobre o seu próprio trabalho é o que mais provavelmente deixa de fora o filtro que quebra.
+SENA: Eu também perguntei para uma IA. Ela disse: "Uma visão da região três normalmente leva de um a dois dias." Confiante. Errada.
+DANIEL: Por que a IA não consegue responder isso por você?
+SENA: Porque a IA não sabe que o caderno do Kenta diz cinco dias, nem que o script do Ryo levou seis, nem que cada região tem o seu filtro esquisito. A resposta verdadeira está na nossa história, não na média.
+DANIEL: O que me leva ao meu próprio erro. Anos atrás, uma gerente de programa de uma equipe parceira, a Odette, perguntou: "Quanto tempo vai levar para exportar os dados de suporte?" Eu disse: "Duas semanas." A última exportação tinha levado cinco.
+SENA: Você sabia disso.
+DANIEL: Eu sabia e disse duas mesmo assim, porque ela parecia preocupada e eu queria que ela se sentisse melhor na hora. Ela disse ao VP dela duas semanas. No dia catorze eu escrevi: "Mais alguns dias." Era o dia trinta e quatro.
+SENA: O que ela disse?
+DANIEL: "Se você tivesse dito cinco semanas, eu teria planejado para cinco. Eu planejei para as suas duas." Foi aí que comecei uma lista chamada "Quanto tempo realmente levou". Duas colunas: o que eu disse e o que aconteceu.
+SENA: Um prazo que você diz em voz alta não é só o seu tempo. É o plano de outras pessoas.
+DANIEL: Isso. E Tóquio e Seattle lidam de jeitos bem diferentes com um prazo impossível, então me conta de Osaka.
+SENA: O Kato-san me contou de uma sexta-feira em que ele era líder de equipe em Osaka. Um diretor de vendas perguntou: "Você consegue me entregar isso até sexta?" O Kato-san pensou e disse: "Kentou shimasu." Vou considerar.
+DANIEL: E o diretor entendeu o quê?
+SENA: Um sim. E o Kato-san queria dizer um não, educado. Então, na sexta de manhã, o diretor foi até ele e disse: "Cadê?" No Japão existe também uma segunda versão: "Nantoka shimasu", eu dou um jeito. Essa significa sim, e o custo fica escondido. O Kato-san disse que um "não consigo" direto soa como se você estivesse recusando a pessoa, não a data.
+DANIEL: E em Seattle?
+SENA: A Laura pergunta: "Qual é o prazo real? O que acontece se for terça?" E ela fica feliz quando alguém responde: "Segunda está apertado. Posso na terça, e isto é o que você teria na sexta." Em muitas equipes nos EUA, uma contraproposta não é um não. É um jeito de trabalhar o problema com você. Mas a versão de Seattle do mesmo erro é o alegre "Claro, sem problema!" que esconde a resposta real.
+DANIEL: Então o "Nantoka shimasu" de Tóquio e o "Claro, sem problema" de Seattle são primos. Os dois dizem sim antes de verificar.
+SENA: E o que cada lado pode pegar emprestado: Tóquio pode pegar a contraproposta de Seattle, e Seattle pode pegar o cuidado de Tóquio com a relação. Eu disse "O que ajudaria mais na quarta?" Essa é a pergunta que mantém o objetivo do Mark no centro.
+DANIEL: Vamos transformar isso numa habilidade. É gestão de relacionamento, responder com uma oferta. Três partes. Um, o que você consegue fazer e até quando. Dois, o que precisa mudar para abrir espaço, ou o que você não consegue fazer. Três, uma pergunta sobre o que mais importa. Antes de responder, descubra quanto tempo a última coisa parecida realmente levou.
+SENA: Deixa eu tentar. Você é o Mark. "Dá para entregar até segunda?"
+DANIEL: "Dá para entregar até segunda?"
+SENA: Mark, segunda não é realista para tudo. Aqui está o que consigo fazer até terça: a prévia de uma página. A visão completa atrasaria a ligação de Osaka. O que importa mais para quarta?
+DANIEL: "A prévia, com certeza." Repare que você não pediu desculpa nenhuma vez.
+SENA: Certo, o desafio da última vez era abrir com uma pessoa real. Fiz isso no meu e-mail para o Kato-san hoje de manhã. Comecei com a terça da Tanabe-san, digitada duas vezes, às onze da noite.
+DANIEL: O que o Kato-san disse?
+SENA: Ele respondeu com quatro palavras. "Li duas vezes." E isso vem de um homem que lê tudo uma vez só.
+DANIEL: O meu foi um recado para a minha VP, que abri com o Soren, um engenheiro da minha equipe que refez nosso rodízio de plantão num fim de semana. Ela respondeu em dez minutos. Certo, o desafio de hoje: antes de dizer sim a um prazo, descubra quanto tempo a última coisa parecida realmente levou. Depois responda com o que você consegue fazer e até quando, e pergunte o que mais importa.
+SENA: O número da última vez, depois o que eu consigo fazer, depois o que mais importa. E Daniel, tenho mais uma coisa. O Kato-san encaminhou uma mensagem da Laura uma hora atrás, e eu ainda não contei para ninguém.
+DANIEL: O próximo episódio é o quarenta e um, "Saying 'I Don't Know'". O que diz a mensagem?
+SENA: "Para quarta, fiquem prontos para três perguntas. Um: por que só a região um? Dois: quando a região três é lançada? Três: quantas lojas ainda montam seus números à mão?"
+DANIEL: Você consegue responder as três?
+SENA: A um e a dois, quase. A três, ninguém sabe. E a última linha da mensagem diz: "Por favor, não chutem." Obrigada por ouvir o Human Curriculum.
+DANIEL: Eu sou o Daniel.
+SENA: E eu sou a Sena. Confira o último número, ofereça o que você consegue, pergunte o que importa. Até a próxima.

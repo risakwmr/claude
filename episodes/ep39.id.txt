@@ -1,0 +1,60 @@
+SENA: "Jangan pakai grafik di slide pertama. Mulailah dengan seseorang." Daniel, Laura minta tiga menit dariku, dan aku tidak punya seseorang.
+DANIEL: Kamu punya empat belas halaman tentang wilayah tiga dan tidak ada satu orang pun?
+SENA: Aku punya kolom. Baris. Satu filter yang sangat bagus. Nol orang.
+DANIEL: Siapa orang di balik angka-angkamu?
+SENA: Itu yang kutanyakan pada diriku sendiri tengah malam, ditemani ketel.
+DANIEL: Di akhir episode ini, kamu akan punya cara empat bagian untuk membuka presentasi apa pun dengan satu orang nyata, dan satu tes untuk menilai apakah ceritamu cukup benar untuk diceritakan.
+DANIEL: Selamat datang kembali di Human Curriculum. Aku Daniel, di Seattle.
+SENA: Dan aku Sena, di Tokyo. Sekarang hari Jumat, jam sembilan pagi, dan aku sudah menelepon satu kali dalam bahasa Jepang sebelum sarapan.
+DANIEL: Di sini hari Kamis, jam lima sore, dan Maple tidur di atas kakiku. Mulai dari tadi malam.
+SENA: Kamis malam aku bilang ke Kato-san, "Aku cuma punya satu manajer di Osaka yang menyusun angka mingguannya dengan tangan. Tanabe-san. Aku belum pernah bertemu dia." Dia diam beberapa detik. Lalu dia bilang, "Telepon dia. Jangan email. Aku akan minta tim penjualan Osaka memperkenalkanmu."
+DANIEL: Telepon. Kato-san memberi saran tanpa jadwal padat di depan mata.
+SENA: Jam tujuh empat puluh pagi ini, sebelum tokonya buka, aku menelepon. Aku punya catatan di ponsel: tiga pertanyaan, dan yang pertama, "Boleh saya pakai nama Anda?" Jantungku di angka enam.
+DANIEL: Dan dia bilang apa?
+SENA: Dia bilang, "Pakai saja. Bilang saja aku capek dengan hari Minggu." Lalu dia menceritakan semuanya. Setiap Minggu malam, setelah anak-anaknya tidur, dia membuka ekspor data kasir dan menyalin penjualan enam hari ke spreadsheet dengan tangan. Butuh sekitar sembilan puluh menit. Minggu lalu, jam sebelas, dia sadar sudah mengetik hari Selasa dua kali.
+DANIEL: Selasa dua kali. Itu penghitungan ganda yang ditemukan Kenta bulan Maret, dilihat dari sisi lain layar.
+SENA: Aku tahu! Bug-nya persis sama dengan yang ada di pipeline-ku, dan aku tidak pernah melihat orang yang mengetiknya. Bagiku itu sebuah filter. Bagi dia itu jam sebelas malam di hari Minggu.
+DANIEL: Ingat kalimat itu, karena ada riset tentang kenapa satu orang lebih menyentuh daripada grafik. Pada tahun 2007, Deborah Small, George Loewenstein, dan Paul Slovic menerbitkan makalah berjudul "Sympathy and callousness" di Organizational Behavior and Human Decision Processes.
+SENA: Jadi, soal amal?
+DANIEL: Ya, jadi ingat batasannya. Di Studi 3, 159 orang di kampus Pennsylvania masing-masing mendapat lima dolar karena mengisi survei singkat, lalu boleh menyumbangkan sebagian untuk Save the Children. Sebagian membaca tentang Rokia, anak perempuan tujuh tahun di Mali. Sebagian membaca statistik, seperti tiga juta anak terdampak kekurangan pangan di Malawi. Rokia mendapat rata-rata $2,38. Statistik mendapat $1,14.
+SENA: Jadi satu anak perempuan kecil mendapat lebih dari dua kali lipat uangnya.
+DANIEL: Nah, ini bagian yang akan kukatakan ke presenter mana pun. Kelompok ketiga membaca cerita Rokia dan statistiknya. Mereka menyumbang $1,43, tidak lebih baik daripada statistik saja. Para penulis menduga angka bisa mengingatkan orang betapa besar masalahnya dan melemahkan perasaan yang diciptakan cerita satu orang.
+SENA: Tapi itu soal amal. Review produk Laura bukan amal.
+DANIEL: Betul, jadi ini beberapa catatannya. Mahasiswa dan orang yang lewat, donasi lima dolar, cerita tentang anak yang membutuhkan, bukan rapat kerja. Dan pada 2024, peneliti menjalankan replikasi pra-terdaftar dari studi 1 dan 3, dengan donasi hipotetis, dan tidak menemukan dukungan untuk efek itu. Efek korban teridentifikasi mungkin lebih kecil daripada hasil terkenal itu. Jadi aku tidak bilang cerita selalu mengalahkan angka. Aku bilang satu orang yang spesifik adalah kalimat pembuka yang lebih baik daripada grafik yang belum bisa dibayangkan siapa pun. Bagian itu penilaianku, bukan penilaian makalahnya.
+SENA: Tadi malam aku juga minta AI menulis pembukaanku. Hasilnya, "Kenalkan Maria, manajer toko di Osaka yang menghabiskan hari Minggunya tenggelam di spreadsheet." Hangat. Spesifik. Sepenuhnya karangan.
+DANIEL: Makanya AI tidak bisa mengerjakan bagian ini untukmu.
+SENA: Benar. Detail yang menghentikanku adalah "Selasa, dua kali, jam sebelas malam." AI mungkin akan memberinya nama. Tapi tidak bisa memberiku hari Minggunya. Dan kalau Laura bertanya, "Dia di mana?" aku tidak punya apa-apa.
+DANIEL: Biar kuceritakan kenapa urutan itu penting, lewat kegagalanku sendiri. Beberapa tahun lalu aku mempresentasikan hasil kualitas dukungan pelanggan ke staf VP-ku. Empat belas slide. Grafik retensi dulu, dan seorang pelanggan di slide ketiga belas.
+SENA: Slide ketiga belas?
+DANIEL: Aku menyimpan bagian manusianya untuk hidangan penutup. Di slide keempat, separuh ruangan sudah mengecek ponsel. Pilar, yang memimpin dukungan untuk seluruh wilayah, akhirnya bilang, "Daniel, itu tiket siapa?" Aku tidak mengerti maksudnya.
+SENA: Karena grafiknya tidak punya tiket di dalamnya.
+DANIEL: Tepat. Di slide ketiga belas aku akhirnya bercerita tentang seorang guru pensiunan, Pak Okafor, yang menghabiskan empat puluh menit mencari tombol ekspor lalu menulis, "Saya merasa bodoh." Ruangan jadi hening. Pilar bilang, "Itu yang akan kuingat. Kenapa itu bukan slide pertama?"
+SENA: Kamu jawab apa?
+DANIEL: Aku bilang, "Karena grafik terasa lebih aman." Itu benar. Orang bisa ditanyai. Grafik cuma diam di situ.
+SENA: Grafik sebagai perisai.
+DANIEL: Selalu. Dan sekarang segmen yang kurasa kamu suka. Tokyo dan Seattle membuka presentasi dengan cara berbeda.
+SENA: Kato-san menunjukkan padaku presentasi lama dari Osaka. Slide satu, judul. Slide dua, agenda. Slide tiga, latar belakang pasar. Pelanggan datang paling akhir, di bawah "Okyakusama no koe", suara pelanggan, dengan dua kutipan. Perusahaannya disebut "Pelanggan A".
+DANIEL: Pelanggan A.
+SENA: Katanya menyebut nama pelanggan di Jepang bisa terasa seperti membuka identitas mereka. Jadi kamu melindungi orangnya: Pelanggan A. Dan latar belakang di awal menunjukkan ke audiens bahwa kamu sudah mengerjakan pekerjaan rumahmu.
+DANIEL: Yang itu murah hati. Lalu apa yang terjadi di Seattle?
+SENA: Kato-san menceritakan apa yang dilakukan Laura musim semi lalu di review Seattle, saat sebuah tim membuka dengan slide agenda. Dia bilang, "Lewati itu. Kita membuat ini untuk siapa?" Lalu dia bertanya, "Siapa namanya? Apa yang dia lakukan Selasa lalu?" Bukan karena dia mau gosip. Tapi karena sebuah nama dan satu hari Selasa membuat seisi ruangan membayangkan hal yang sama pada saat yang sama.
+DANIEL: Itu yang akan kukatakan ke manajer Amerika: nama dan hari yang spesifik membuat cerita mudah diulang. Dan kebiasaan Tokyo juga punya pelajaran. Minta izin dulu, seperti yang kamu lakukan.
+SENA: Karena aku tahu risikonya menaruh orang sungguhan di sebuah slide. Kalau Tanabe-san ada di slide satu dan aku salah menggambarkannya, dia yang harus menanggungnya di Osaka.
+DANIEL: Nah, itu tes yang kujanjikan. Apakah ceritanya benar, dan apakah orangnya bilang ya? Tiga pemeriksaan: kamu mendengarnya dari mereka, kamu bisa menceritakannya dengan kata-kata mereka, dan mereka setuju namanya disebut. Kalau satu gagal, ganti namanya atau ceritanya, dan katakan terus terang.
+SENA: Aku tambahkan satu lagi. Beri tahu audiens kenapa orang itu penting sebelum menyebut angkanya.
+DANIEL: Mari kita jadikan ini sebuah skill. Ini manajemen hubungan: membuka dengan satu orang nyata. Empat langkah. Satu, sebuah nama. Dua, tempat dan momen. Tiga, satu detail yang hanya bisa diberikan oleh dia. Empat, baru angkamu, dan artinya bagi dia.
+SENA: Aku coba ya. Kamu jadi Laura. "Sena, kamu punya tiga menit."
+DANIEL: "Sena, kamu punya tiga menit."
+SENA: Izinkan aku mulai dengan satu orang. Setiap Minggu jam sembilan malam, Tanabe-san, manajer toko di Osaka, menyalin penjualan enam hari ke spreadsheet dengan tangan. Minggu lalu, jam sebelas, dia sadar sudah mengetik hari Selasa dua kali. Inilah kenapa dia penting: pipeline kami memangkas sembilan puluh menit itu jadi sekitar satu menit, dan hari ini baru wilayah satu yang memakainya.
+DANIEL: "Kenapa hanya wilayah satu?" Dan perhatikan, kamu memberi Laura pertanyaan untuk diajukan. Itulah yang dilakukan satu orang untuk sebuah ruangan.
+SENA: Oke, tantangan terakhir kali adalah satu kalimat di menit pertama, dan menulis tingkat gugupku sebelum dan sesudah.
+DANIEL: Bagaimana hasilnya?
+SENA: Check-in hari Kamis dengan Kato-san. Aku bilang, "Boleh saya mulai dengan satu hal? Manajer di Osaka." Sebelum: enam. Sesudah: tiga. Dan pagi ini di telepon dengan Tanabe-san, sebelum: enam, sesudah: dua, karena dia tertawa.
+DANIEL: Punyaku rapat tim hari Rabu. Aku membuka dengan, "Aku mulai dari hal yang paling tidak kupastikan." Sebelum: lima. Sesudah: tiga. Tidak ada yang kaget. Oke, tantangan hari ini: buka presentasi, pembaruan, atau email berikutnya dengan satu orang nyata. Nama, tempat, momen, baru angkamu. Dan pastikan mereka bilang ya.
+SENA: Nama, tempat, momen, baru angkanya. Dan Daniel, ponselku bergetar waktu kita bicara tadi. Mark, jam sembilan dua puluh satu, pesan Slack.
+DANIEL: Episode berikutnya adalah episode empat puluh, "Pushing Back on Deadlines". Dia menulis apa?
+SENA: "Suka banget ide Osaka!! Bisa TOLONG tambahkan juga tampilan wilayah tiga ke dashboard sebelum review hari Rabu? Butuh hari Senin, jam 9 pagi waktumu!! 🙏"
+DANIEL: Senin jam 9 pagi di Tokyo itu Minggu sore di sini. Berapa lama tampilan wilayah tiga dikerjakan?
+SENA: Tiga hari kalau tidak ada yang rusak. Ini hari Jumat. Dan aku sudah bilang ke Tanabe-san akan menelepon balik hari Minggu. Terima kasih sudah mendengarkan Human Curriculum.
+DANIEL: Aku Daniel.
+SENA: Dan aku Sena. Mulailah dengan seseorang, katakan dengan jelas, dan minta izin dulu. Sampai jumpa lagi.

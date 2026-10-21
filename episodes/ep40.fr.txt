@@ -1,0 +1,60 @@
+SENA: « Lundi, 9 h, heure de chez toi !! » Daniel, ça fait onze heures et je n'ai toujours pas répondu à Mark.
+DANIEL: Onze heures ? Qu'est-ce qu'il y a dans ton brouillon ?
+SENA: Deux mots. « Oui, bien sûr. »
+DANIEL: C'est le brouillon que je supprimerais.
+SENA: Je sais que c'est la mauvaise réponse. Mon pouce le sait aussi. Il reste suspendu au-dessus de « envoyer ».
+DANIEL: À la fin de cet épisode, tu auras une réponse en trois parties pour une échéance que tu ne peux pas tenir, et une façon rapide d'estimer combien de temps quelque chose va vraiment prendre.
+DANIEL: Bienvenue de nouveau dans Human Curriculum. Moi, c'est Daniel, à Seattle.
+SENA: Et moi, c'est Sena, à Tokyo. Ici, on est vendredi, neuf heures du soir.
+DANIEL: Et ici, il est cinq heures du matin. Maple est devant la porte avec sa laisse dans la gueule, donc j'ai jusqu'à ce qu'il abandonne. Raconte-moi ta journée.
+SENA: Après notre appel, j'ai relu le message de Mark quatre fois de plus. Trois jours de travail, pour lundi matin, et j'avais promis un appel à Tanabe-san dimanche. Alors j'ai fait ce que je fais pour toutes les questions difficiles. J'ai demandé à quelqu'un qui l'a déjà fait.
+DANIEL: À qui as-tu demandé ?
+SENA: Kenta. J'ai dit : « La vue de la région deux, ça t'a pris combien de temps ? » Il a ouvert son carnet, qui contient évidemment des dates, et il a dit : « Quatre jours, puis un jour de plus pour réparer un filtre. » Cinq jours. Pour une région que je comprenais déjà.
+DANIEL: Et toi, tu avais estimé ?
+SENA: Trois jours, si rien ne cassait. Puis Ryo est passé et a dit : « Rien ne casse jamais, ça n'existe pas. » Il a dit que le script d'Osaka devait prendre deux jours, et qu'il en avait pris six.
+DANIEL: Les deux viennent de te donner ta base de référence.
+SENA: Ensuite, j'ai montré à Kato-san ce que je voulais écrire à Mark. Et il a dit, très gentiment : « Moi, j'aurais dit oui. » Et quelques secondes plus tard : « Mais je pense que ce que tu as écrit est mieux. Envoie. »
+DANIEL: Qu'est-ce que tu as écrit ?
+SENA: « Mark, lundi 9 h n'est pas réaliste pour la vue complète de la région trois. Voici ce que je peux faire. Un aperçu d'une page de la région trois, basé sur les chiffres finaux de Wendell, d'ici mardi 9 h, heure de chez moi. Ça fait lundi 17 h chez toi, un jour avant la revue. Ou la vue complète après mercredi. Qu'est-ce qui t'aiderait le plus mercredi ? »
+DANIEL: Et Mark ?
+SENA: Quatre secondes. « OH. Une page !! Oui !! Je voyais beaucoup trop grand 😅 »
+DANIEL: Quatre secondes. Il attendait une question plus petite depuis le début.
+SENA: J'ai passé onze heures à imaginer qu'il serait fâché.
+DANIEL: Il y a une étude derrière ces onze heures. En 1994, Roger Buehler, Dale Griffin et Michael Ross ont publié « Exploring the Planning Fallacy » dans le Journal of Personality and Social Psychology. Dans l'étude 1, ils ont appelé 37 étudiants en psychologie de l'université de Waterloo qui terminaient leur mémoire de fin d'études, et leur ont demandé quand ils le rendraient.
+SENA: Et alors ?
+DANIEL: Les trente-sept étudiants ont prédit qu'ils finiraient leur mémoire en 33,9 jours. Ils ont mis 55,5 jours. Seulement 29,7 pour cent ont terminé à la date de leur meilleure estimation, et même quand on leur demandait de supposer que tout se passait parfaitement, seulement 10,8 pour cent ont tenu cette date.
+SENA: Même en imaginant que tout se passe bien, presque personne n'y est arrivé.
+DANIEL: Les réserves : des étudiants, un seul gros projet, un mémoire, et c'était en 1994. L'article a aussi trouvé que les observateurs qui jugeaient la tâche de quelqu'un d'autre estimaient trop long, et c'est pour ça que demander à Kenta et à Ryo était malin. Je ne dis pas que toute estimation se trompe de soixante pour cent. Je dis que l'estimation de son propre travail est celle qui oublie le plus probablement le filtre qui casse.
+SENA: J'ai aussi demandé à une IA. Elle m'a répondu : « Une vue de la région trois prend généralement un à deux jours. » Sûre d'elle. Et fausse.
+DANIEL: Pourquoi l'IA ne peut-elle pas répondre à ça à ta place ?
+SENA: Parce que l'IA ne sait pas que le carnet de Kenta dit cinq jours, ni que le script de Ryo en a pris six, ni que chaque région a son filtre bizarre. La vraie réponse est dans notre historique, pas dans la moyenne.
+DANIEL: Ce qui m'amène à mon propre échec. Il y a des années, une program manager d'une équipe partenaire, Odette, m'a demandé : « Combien de temps pour exporter les données du support ? » J'ai répondu : « Deux semaines. » La dernière exportation en avait pris cinq.
+SENA: Tu le savais.
+DANIEL: Je le savais et j'ai dit deux quand même, parce qu'elle avait l'air inquiète et que je voulais qu'elle se sente mieux sur le moment. Elle a dit deux semaines à son VP. Au quatorzième jour, j'ai écrit : « Encore quelques jours. » On était au trente-quatrième.
+SENA: Qu'est-ce qu'elle a dit ?
+DANIEL: « Si tu avais dit cinq semaines, j'aurais planifié sur cinq. J'ai planifié sur tes deux. » C'est là que j'ai commencé une liste appelée « Combien de temps ça a vraiment pris ». Deux colonnes : ce que j'ai dit et ce qui s'est passé.
+SENA: Une échéance qu'on annonce à voix haute, ce n'est pas seulement notre temps. C'est le plan des autres.
+DANIEL: Exactement. Et Tokyo et Seattle gèrent très différemment une échéance impossible à tenir, alors parle-moi d'Osaka.
+SENA: Kato-san m'a raconté un vendredi où il était chef d'équipe à Osaka. Un directeur commercial lui a demandé : « Vous pouvez me sortir ça pour vendredi ? » Kato-san a réfléchi et a dit : « Kentou shimasu. » Je vais y réfléchir.
+DANIEL: Et le directeur a entendu quoi ?
+SENA: Un oui. Alors que Kato-san voulait dire non, un non poli. Alors le vendredi matin, le directeur est venu et a dit : « Il est où ? » Au Japon, il existe aussi une deuxième version : « Nantoka shimasu », je vais me débrouiller. Celle-là veut dire oui, et le coût est caché. Kato-san a dit qu'un « je ne peux pas » direct sonne comme si on refusait la personne, pas la date.
+DANIEL: Et à Seattle ?
+SENA: Laura demande : « C'est quoi, la vraie échéance ? Qu'est-ce qui se passe si c'est mardi ? » Et elle est contente quand quelqu'un répond : « Lundi, c'est serré. Je peux faire mardi, et voilà ce que vous auriez vendredi. » Dans beaucoup d'équipes américaines, une contre-proposition n'est pas un non. C'est une façon de travailler le problème avec toi. Mais la version de Seattle de la même erreur, c'est le joyeux « Bien sûr, pas de problème ! » qui cache la vraie réponse.
+DANIEL: Donc le « Nantoka shimasu » de Tokyo et le « Bien sûr, pas de problème » de Seattle sont cousins. Tous les deux disent oui avant de vérifier.
+SENA: Et ce que chaque côté peut emprunter : Tokyo peut emprunter la contre-proposition de Seattle, et Seattle peut emprunter l'attention de Tokyo pour la relation. J'ai dit : « Qu'est-ce qui t'aiderait le plus mercredi ? » C'est la question qui garde l'objectif de Mark au centre.
+DANIEL: Transformons ça en compétence. C'est de la gestion de relation : refuser avec une offre. Trois parties. Un, ce que tu peux faire et pour quand. Deux, ce qui doit bouger pour faire de la place, ou ce que tu ne peux pas faire. Trois, une question sur ce qui compte le plus. Avant de répondre, regarde combien de temps la dernière chose similaire a vraiment pris.
+SENA: Je vais essayer. Tu es Mark. « Tu peux l'avoir pour lundi ? »
+DANIEL: « Tu peux l'avoir pour lundi ? »
+SENA: Mark, lundi n'est pas réaliste pour tout. Voici ce que je peux faire d'ici mardi : l'aperçu d'une page. La vue complète repousserait l'appel d'Osaka. Qu'est-ce qui compte le plus pour mercredi ?
+DANIEL: « L'aperçu, sans hésiter. » Remarque que tu ne t'es pas excusée une seule fois.
+SENA: Bon, le défi de la dernière fois, c'était d'ouvrir avec une vraie personne. Je l'ai fait dans mon e-mail à Kato-san ce matin. J'ai commencé par le mardi de Tanabe-san, tapé deux fois, à onze heures du soir.
+DANIEL: Qu'est-ce que Kato-san a dit ?
+SENA: Il a répondu en quatre mots. « Je l'ai lu deux fois. » Et ça vient d'un homme qui lit tout une seule fois.
+DANIEL: Le mien, c'était un mot à ma VP, que j'ai ouvert avec Soren, un ingénieur de mon équipe qui a refait notre rotation d'astreinte pendant un week-end. Elle a répondu en dix minutes. Bon, le défi d'aujourd'hui : avant de dire oui à une échéance, découvre combien de temps la dernière chose similaire a vraiment pris. Puis réponds avec ce que tu peux faire et pour quand, et demande ce qui compte le plus.
+SENA: Le chiffre de la dernière fois, puis ce que je peux faire, puis ce qui compte le plus. Et Daniel, j'ai encore une chose. Kato-san m'a transféré un message de Laura il y a une heure, et je n'en ai parlé à personne.
+DANIEL: Le prochain épisode est le quarante et unième, « Saying 'I Don't Know' ». Qu'est-ce qu'il dit ?
+SENA: « Pour mercredi, soyez prêts pour trois questions. Un : pourquoi seulement la région un ? Deux : quand la région trois sera-t-elle lancée ? Trois : combien de magasins construisent encore leurs chiffres à la main ? »
+DANIEL: Tu peux répondre aux trois ?
+SENA: La un et la deux, presque. La trois, personne ne sait. Et la dernière ligne de son message dit : « Ne devinez pas, s'il vous plaît. » Merci d'avoir écouté Human Curriculum.
+DANIEL: Moi, c'est Daniel.
+SENA: Et moi, c'est Sena. Vérifie le dernier chiffre, propose ce que tu peux faire, demande ce qui compte. À la prochaine.

@@ -1,0 +1,60 @@
+SENA: «¡Lunes, 9 a. m., hora tuya!». Daniel, han pasado once horas y todavía no le he contestado a Mark.
+DANIEL: ¿Once horas? ¿Qué dice tu borrador?
+SENA: Dos palabras. «Sí, claro».
+DANIEL: Ese es el borrador que yo borraría.
+SENA: Ya sé que es la respuesta equivocada. Mi pulgar también lo sabe. Se queda flotando sobre «enviar».
+DANIEL: Al final de este episodio, tendrás una respuesta en tres partes para una fecha límite que no puedes cumplir, y una forma rápida de calcular cuánto tardará realmente algo.
+DANIEL: Bienvenidos de nuevo a Human Curriculum. Soy Daniel, desde Seattle.
+SENA: Y yo soy Sena, desde Tokio. Aquí es viernes, nueve de la noche.
+DANIEL: Y aquí son las cinco de la mañana. Maple está en la puerta con la correa en la boca, así que tengo hasta que se rinda. Cuéntame cómo te fue el día.
+SENA: Después de la llamada contigo, leí el mensaje de Mark cuatro veces más. Tres días de trabajo, para el lunes por la mañana, y yo le había prometido a Tanabe-san una llamada el domingo. Así que hice lo que hago con toda pregunta difícil: le pregunté a alguien que ya lo hizo.
+DANIEL: ¿A quién le preguntaste?
+SENA: A Kenta. Le dije: «¿Cuánto te tomó la vista de la región dos?». Abrió su cuaderno, que por supuesto tiene fechas, y dijo: «Cuatro días, y luego un día más para arreglar un filtro». Cinco días. Para una región que yo ya entendía.
+DANIEL: ¿Y tú habías calculado?
+SENA: Tres días, si no se rompía nada. Entonces pasó Ryo y dijo: «Nunca es que nada se rompa». Dijo que el script de Osaka debía tomar dos días y tomó seis.
+DANIEL: Los dos acaban de darte tu base de comparación.
+SENA: Luego le mostré a Kato-san lo que quería escribirle a Mark. Y él dijo, muy amablemente: «Yo habría dicho que sí». Y unos segundos después: «Pero creo que lo que escribiste es mejor. Envíalo».
+DANIEL: ¿Qué escribiste?
+SENA: «Mark, el lunes a las 9 a. m. no es realista para la vista completa de la región tres. Esto es lo que puedo hacer. Una vista previa de una página de la región tres, basada en los números finales de Wendell, para el martes a las 9 a. m. mi hora. Eso es el lunes a las 5 p. m. para ti, un día antes de la revisión. O la vista completa después del miércoles. ¿Cuál ayudaría más el miércoles?».
+DANIEL: ¿Y Mark?
+SENA: Cuatro segundos. «¡¡AH. Una página!! ¡¡Sí!! Estaba pensando en algo demasiado grande 😅».
+DANIEL: Cuatro segundos. Estuvo esperando una pregunta más pequeña todo el tiempo.
+SENA: Yo pasé once horas imaginando que se enojaría.
+DANIEL: Hay investigación detrás de esas once horas. En 1994, Roger Buehler, Dale Griffin y Michael Ross publicaron «Exploring the Planning Fallacy» en el Journal of Personality and Social Psychology. En el Estudio 1, llamaron a 37 estudiantes de psicología de la Universidad de Waterloo que estaban terminando su tesis de honor, y les preguntaron cuándo la entregarían.
+SENA: ¿Y?
+DANIEL: Los treinta y siete estudiantes predijeron que terminarían la tesis en 33,9 días. Tardaron 55,5. Solo el 29,7 por ciento terminó en la fecha de su mejor estimación, e incluso cuando se les preguntó por el caso en que todo salía perfecto, solo el 10,8 por ciento llegó a esa fecha.
+SENA: Incluso cuando imaginaron que todo salía bien, casi nadie lo logró.
+DANIEL: Las precauciones: eran estudiantes, un proyecto grande, una tesis de honor, y era 1994. El artículo también encontró que los observadores que juzgaban la tarea de otra persona calculaban de más, por eso preguntarle a Kenta y a Ryo fue inteligente. No digo que toda estimación falle en un sesenta por ciento. Digo que la estimación sobre tu propio trabajo es la que más probablemente deja fuera el filtro que se rompe.
+SENA: Yo también le pregunté a una IA. Me dijo: «Una vista de la región tres normalmente toma de uno a dos días». Muy segura. Y equivocada.
+DANIEL: ¿Por qué la IA no puede responder esto por ti?
+SENA: Porque la IA no sabe que el cuaderno de Kenta dice cinco días, ni que el script de Ryo tomó seis, ni que cada región tiene su propio filtro raro. La respuesta verdadera está en nuestra historia, no en el promedio.
+DANIEL: Lo que me lleva a mi propio error. Hace años, una program manager de un equipo socio, Odette, me preguntó: «¿Cuánto tardará exportar los datos de soporte?». Dije: «Dos semanas». La última exportación había tomado cinco.
+SENA: Tú lo sabías.
+DANIEL: Lo sabía y dije dos de todos modos, porque ella se veía preocupada y quise que se sintiera mejor en ese momento. Ella le dijo a su VP que dos semanas. El día catorce escribí: «Unos días más». Era el día treinta y cuatro.
+SENA: ¿Y qué dijo ella?
+DANIEL: «Si hubieras dicho cinco semanas, habría planeado para cinco. Planeé para tus dos». Ahí empecé una lista llamada «Cuánto tardó en realidad». Dos columnas: lo que dije y lo que pasó.
+SENA: Una fecha límite que dices en voz alta no es solo tu tiempo. Es el plan de otras personas.
+DANIEL: Exacto. Y Tokio y Seattle manejan de forma muy distinta una fecha que no puedes cumplir, así que cuéntame de Osaka.
+SENA: Kato-san me contó de un viernes cuando era líder de equipo en Osaka. Un director de ventas le preguntó: «¿Me lo puedes tener para el viernes?». Kato-san lo pensó y dijo: «Kentou shimasu». Lo voy a considerar.
+DANIEL: ¿Y el director entendió?
+SENA: Un sí. Y Kato-san quería decir un no, uno educado. Así que el viernes por la mañana, el director se acercó y dijo: «¿Dónde está?». En Japón hay también una segunda versión: «Nantoka shimasu», lo resolveré de alguna manera. Esa significa sí, y el costo queda oculto. Kato-san dijo que un «no puedo» directo suena como si rechazaras a la persona, no la fecha.
+DANIEL: ¿Y en Seattle?
+SENA: Laura pregunta: «¿Cuál es la fecha límite real? ¿Qué pasa si es el martes?». Y se pone contenta cuando alguien responde: «El lunes es justo. Puedo el martes, y esto es lo que tendrías el viernes». En muchos equipos de Estados Unidos, una contraoferta no es un no. Es una manera de trabajar el problema contigo. Pero la versión de Seattle del mismo error es el alegre «¡Claro, sin problema!» que esconde la respuesta real.
+DANIEL: O sea que el «Nantoka shimasu» de Tokio y el «Claro, sin problema» de Seattle son primos. Los dos dicen que sí antes de revisar.
+SENA: Y lo que cada lado puede tomar prestado: Tokio puede tomar la contraoferta de Seattle, y Seattle puede tomar el cuidado de Tokio por la relación. Yo dije «¿Cuál ayudaría más el miércoles?». Esa es la pregunta que mantiene la meta de Mark en el centro.
+DANIEL: Convirtámoslo en una habilidad. Es manejo de relaciones: responder con una oferta. Tres partes. Una, qué puedes hacer y para cuándo. Dos, qué tiene que moverse para hacer espacio, o qué no puedes hacer. Tres, una pregunta sobre qué importa más. Antes de responder, averigua cuánto tardó realmente la última cosa parecida.
+SENA: Déjame probar. Tú eres Mark. «¿Puedes tenerlo para el lunes?».
+DANIEL: «¿Puedes tenerlo para el lunes?».
+SENA: Mark, el lunes no es realista para todo. Esto es lo que puedo hacer para el martes: la vista previa de una página. La vista completa retrasaría la llamada de Osaka. ¿Qué importa más para el miércoles?
+DANIEL: «La vista previa, sin duda». Fíjate que no te disculpaste ni una vez.
+SENA: Bien, el reto de la última vez era empezar con una persona real. Lo hice en mi correo a Kato-san esta mañana. Empecé con el martes de Tanabe-san, escrito dos veces, a las once de la noche.
+DANIEL: ¿Qué dijo Kato-san?
+SENA: Me respondió con cuatro palabras. «Lo leí dos veces». Y eso viene de un hombre que lo lee todo una sola vez.
+DANIEL: El mío fue una nota a mi VP, que abrí con Soren, un ingeniero de mi equipo que rehízo nuestra rotación de guardias en un fin de semana. Ella respondió en diez minutos. Bien, el reto de hoy: antes de decir que sí a una fecha límite, averigua cuánto tardó realmente la última cosa parecida. Luego responde con lo que puedes hacer y para cuándo, y pregunta qué importa más.
+SENA: Primero el número de la última vez, luego lo que puedo hacer, luego lo que más importa. Y Daniel, tengo una cosa más. Kato-san reenvió un mensaje de Laura hace una hora, y no se lo he dicho a nadie.
+DANIEL: El próximo episodio es el cuarenta y uno, «Saying 'I Don't Know'». ¿Qué dice?
+SENA: «Para el miércoles, prepárense para tres preguntas. Uno: ¿por qué solo la región uno? Dos: ¿cuándo se lanza la región tres? Tres: ¿cuántas tiendas todavía arman sus números a mano?».
+DANIEL: ¿Puedes responder las tres?
+SENA: La uno y la dos, casi. La tres, nadie lo sabe. Y la última línea de su nota dice: «Por favor, no adivinen». Gracias por escuchar Human Curriculum.
+DANIEL: Soy Daniel.
+SENA: Y yo soy Sena. Revisa el último número, ofrece lo que puedes, pregunta qué importa. Hasta la próxima.

@@ -186,5 +186,17 @@
   "32-culture": {
     "episode": 32,
     "reported": true
+  },
+  "12-highlight": {
+    "episode": 12,
+    "reported": true
+  },
+  "33-highlight": {
+    "episode": 33,
+    "reported": true
+  },
+  "33-culture": {
+    "episode": 33,
+    "reported": true
   }
 }

@@ -25,7 +25,8 @@
     "urgent_reported": true
   },
   "35": {
-    "reported": true
+    "reported": true,
+    "urgent_reported": true
   },
   "36": {
     "reported": true
@@ -40,6 +41,9 @@
     "reported": true
   },
   "40": {
+    "reported": true
+  },
+  "41": {
     "reported": true
   }
 }

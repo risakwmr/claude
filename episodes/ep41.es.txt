@@ -1,0 +1,62 @@
+SENA: "Por favor, no adivines". Daniel, la nota termina así, y llevo nueve horas adivinando.
+DANIEL: ¿Adivinando qué?
+SENA: La pregunta tres. "¿Cuántas tiendas todavía arman sus números a mano?" A las cuatro de la mañana escribí "unas treinta" en mi cuaderno.
+DANIEL: ¿De dónde salió el treinta?
+SENA: De ningún lado. Solo sonaba como un número que diría alguien que sabe.
+DANIEL: Al final de este episodio, tendrás una forma de decir "todavía no lo sé" que hace que la gente confíe en todo lo demás que dices.
+DANIEL: Bienvenidos de nuevo a Human Curriculum. Soy Daniel, desde Seattle.
+SENA: Y yo soy Sena, desde Tokio. Es sábado por la mañana, las nueve.
+DANIEL: Y aquí es viernes, cinco de la tarde. Hay una olla de curry en la estufa, y Maple la cuida como si fuera suya. Cuéntame de tu noche.
+SENA: No muy buena. Leí la nota de Laura nueve veces más. "Unas treinta" se sentía mucho mejor que "nadie sabe". Así que a las seis de esta mañana hice lo que hago ahora. Le pregunté a alguien que sabría. Le escribí a Kenta: "¿El registro de revisión sabe qué tiendas arman sus números a mano?"
+DANIEL: ¿Kenta, un sábado por la mañana?
+SENA: Siete minutos. "El registro solo ve las tiendas que nos mandan un archivo. Diecinueve no mandaron nada en septiembre. No puedo saber si significa que lo hacen a mano, o que están cerradas por remodelación, o que usan otro sistema." Y luego un segundo mensaje: "Perdón. Esta no es la respuesta."
+DANIEL: Se disculpó por darte algo verdadero.
+SENA: Le dije que era el mejor mensaje que había recibido en toda la semana. Luego Ryo me llamó, algo que nunca hace, y me dijo: "Por favor, no pongas treinta. Cuando un número queda escrito, alguien planea a partir de él."
+DANIEL: Ryo ya lo vivió, con su script de Osaka.
+SENA: Así que tengo una tienda que sé con seguridad, diecinueve que no puedo explicar y un número que inventé. ¿Qué le digo a Laura?
+DANIEL: Guarda esa idea. Hay investigación justo sobre esto, y me sorprendió.
+DANIEL: En 2007, Elizabeth Tenney, Robert MacCoun, Barbara Spellman y Reid Hastie publicaron "Calibration Trumps Confidence as a Basis for Witness Credibility" en Psychological Science. En el Experimento 1, 48 estudiantes universitarios leyeron el resumen de un juicio por un robo en una residencia estudiantil. El testigo dijo que vio salir al acusado a eso de las siete. La víctima no había salido de su cuarto hasta las 8:15.
+DANIEL: Cuando el testigo se equivocaba, el seguro obtuvo 4.6 sobre 7 en credibilidad. El que había dicho "no estoy seguro" obtuvo 5.2. Sin error, el testigo seguro ganó, 5.7 contra 5.0.
+SENA: O sea que la seguridad solo gana hasta que te equivocas.
+DANIEL: Imagina dos testigos de un accidente de auto: uno seguro de todo, otro cuidadoso. En el Experimento 2, 103 estudiantes universitarios los evaluaron. Antes de cualquier error, el 75.5 por ciento le creyó al seguro. Luego se mostró que cada uno se equivocaba en un detalle pequeño, y el 58.4 por ciento le creyó al cuidadoso.
+SENA: Un solo "absolutamente" equivocado, y la gente duda del resto.
+DANIEL: Los autores lo dicen mejor. Si suenas seguro de todo y te equivocas una vez, "la campanada número 13 del reloj pondrá en duda las otras 12".
+DANIEL: Segundo estudio. En 2018, Celia Gaertig y Joseph Simmons hicieron once estudios con 4,806 personas que calificaban consejos sobre deportes, clima y bolsa. Los asesores que decían "no estoy seguro, pero creo que" recibieron una calificación más baja que los seguros. Pero los que decían "hay una probabilidad de más o menos 57 por ciento" no recibieron una calificación más baja que los que sonaban totalmente seguros.
+DANIEL: Y cuando la gente elegía entre dos asesores que coincidían, más de ocho de cada diez escogían al que daba una probabilidad en vez de una certeza.
+SENA: O sea que "no estoy seguro" perjudica, pero un número para lo que no sabes, no.
+DANIEL: La diferencia está entre sonar inseguro y ser preciso sobre lo que falta. Ojo con las limitaciones: en ambos estudios, desconocidos califican descripciones escritas, con estudiantes y paneles en línea, con deportes y accidentes de auto, no con Laura en una revisión de los miércoles. Los autores de 2018 también dicen que la gente puede preferir la certeza cuando quiere ser persuadida. Así que no digo que "no sé" siempre gane. Mi opinión es que una adivinanza firme que resulta equivocada cuesta más de lo que ahorra.
+SENA: Yo también le pregunté a una IA, claro. "¿Cuántas tiendas minoristas todavía arman a mano sus informes semanales?" Respondió: "Las encuestas del sector sugieren que más o menos entre el treinta y el cuarenta por ciento". Sin nombrar ninguna encuesta.
+DANIEL: Segura, específica y sobre las tiendas de otros.
+SENA: Habría sido tan fácil pegar eso en mi correo. Pero la IA no está en la sala el miércoles. Si el número está mal, a quien Laura mira es a mí.
+DANIEL: Una IA puede hacer que un número suene verdadero. No puede cargar con lo que le pasa a tu nombre cuando el número es incorrecto.
+DANIEL: Lo cual me lleva a Corinne, directora de operaciones de nuestro cliente más grande. En una revisión trimestral en la sala de conferencias de un hotel, al principio de mis años como gerente, me preguntó: "¿Qué porcentaje de sus tickets se resuelve en un solo contacto?"
+SENA: Y tú lo sabías.
+DANIEL: No. Pensaba que estaba por los setenta y tantos. Dije: "Ochenta por ciento". Redondo, seguro, unos seis segundos.
+SENA: ¿Y qué pasó?
+DANIEL: Ella puso "80% de resolución en un solo contacto" en una diapositiva para su propio director general. Cinco semanas después, nuestro tablero decía sesenta y uno. Me llamó. No estaba enojada. Me dijo: "Daniel, ¿qué más me dijiste que era una adivinanza?"
+SENA: La campanada número trece.
+DANIEL: Me tomó tres meses mandándole fuentes recuperar las otras doce. Mi esposa escuchó la historia durante la cena y me dijo: "No querías ser la persona que no sabía". Tenía razón. Seis segundos de parecer inseguro me habrían costado casi nada.
+DANIEL: Ahora, Tokio y Seattle. Cuando alguien de rango superior te hace una pregunta que no puedes responder, ¿qué pasa?
+SENA: Una vez, el jefe de división de Kato-san preguntó en una reunión: "¿Cuánta gente todavía usa el informe viejo?" Él no sabía, así que dijo: "Kakunin shimasu". Lo confirmaré.
+DANIEL: ¿Y lo hizo?
+SENA: En dos días. Cuarenta y una personas. Pero nadie había puesto una fecha, la reunión siguió adelante y nunca se lo dijo al jefe de división. Tres semanas después la pregunta volvió en un correo, "Re: Re: informe viejo". Él me dijo: "Kakunin shimasu sin fecha es una promesa sin fecha".
+SENA: Y me explicó por qué la gente lo dice. "Wakarimasen", no lo sé, dicho a secas a alguien de rango superior, puede sonar como que no te preparaste. "Kakunin shimasu" suena como un plan, aunque el plan todavía no exista.
+DANIEL: ¿Y en Seattle?
+SENA: Mark me contó lo del año pasado en primavera. En una revisión dijo: "Alrededor del cuarenta por ciento de los usuarios hace esto". Laura escribió cuarenta en la diapositiva. Dos semanas después era treinta y uno. Ahora ella pregunta: "¿Eso es un número o una adivinanza?" Y cuando Hannah dice: "Todavía no lo sé. Lo sabré el jueves al mediodía", Laura anota "jueves mediodía" en su cuaderno y dice: "Gracias".
+DANIEL: Entonces la trampa de Tokio es la confirmación sin fecha. ¿Y la de Seattle?
+SENA: El número alegre. "¡Alrededor del cuarenta por ciento!" Suena útil en el momento, y después vive en una diapositiva. Los dos protegen algo. Tokio protege a la sala de una respuesta sin terminar, y Seattle protege la decisión de una respuesta equivocada.
+DANIEL: ¿Qué puede tomar prestado cada lado?
+SENA: Seattle puede tomar prestado el cuidado de Tokio por no dejar a nadie colgado. Tokio puede tomar prestada la fecha. "Kakunin shimasu, para el lunes al mediodía". Agrega cuatro palabras y es una promesa.
+DANIEL: Convirtámoslo en una habilidad. Es autoconciencia: saber dónde termina tu conocimiento y decirlo. Tres partes. Una, dilo claramente: "Todavía no lo sé". Dos, di lo que sí sabes y etiquétalo: conocido, estimado o una suposición. Tres, di cómo y cuándo lo vas a averiguar. Un día y una hora, no "pronto".
+SENA: Déjame probarlo con la tercera pregunta de Laura. Tú eres Laura. "¿Cuántas tiendas todavía arman sus números a mano?"
+DANIEL: "¿Cuántas tiendas todavía arman sus números a mano?"
+SENA: Todavía no lo sé. Conozco una tienda con certeza, y diecinueve no nos mandaron ningún archivo en septiembre, pero no puedo saber por qué. Tendré un primer conteo para el martes a las nueve de la mañana, hora mía, y te diré qué tan segura estoy.
+DANIEL: "Gracias. El martes me funciona". Fíjate en lo que hiciste con las diecinueve. No las escondiste, y no las vendiste.
+SENA: Bien, el reto de la vez pasada era revisar cuánto tardó la última cosa parecida antes de decir que sí. El viernes por la tarde Ryo me pidió revisar su presentación "esta noche". Mi última revisión de una suya me tomó noventa minutos, así que le dije: "Mañana al mediodía. ¿Qué diapositivas te preocupan más?" Me mandó tres números de diapositiva en un minuto.
+DANIEL: El mío fue mi vicepresidenta pidiéndome un plan de contratación para el lunes. Mi lista "Cuánto tardó en realidad" decía que el último tomó cinco días laborales. Dije el miércoles. Ella dijo: "El miércoles está bien". Hace un año habría dicho el lunes.
+DANIEL: Bien, el reto de hoy. La próxima vez que alguien te pregunte algo que no puedes responder, di "Todavía no lo sé", luego una cosa que sí sabes y luego exactamente cuándo lo averiguarás.
+SENA: "Todavía no lo sé. Esto es lo que sé. Te digo el martes". Y Daniel, tengo que contarte lo que Kato-san me escribió hoy a las ocho y diez de la mañana.
+DANIEL: La próxima vez es el episodio cuarenta y dos, "Running a Short Meeting". ¿Qué dijo?
+SENA: "Laura pidió que tú dirijas la llamada de preparación del martes para la revisión del miércoles. Nueve de la mañana, treinta minutos, once personas. Mark agregó cuatro puntos a la invitación, y yo estoy en Osaka hasta el jueves". La invitación no tiene agenda. El título es solo "Sync". Gracias por escuchar Human Curriculum.
+DANIEL: Soy Daniel.
+SENA: Y yo soy Sena. Di lo que sabes, di lo que no sabes, di cuándo. Hasta la próxima.

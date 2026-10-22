@@ -1,0 +1,62 @@
+SENA: "Tolong jangan menebak." Daniel, catatannya diakhiri dengan itu, dan aku sudah menebak selama sembilan jam.
+DANIEL: Menebak apa?
+SENA: Pertanyaan tiga. "Berapa banyak toko yang masih menyusun angkanya dengan tangan?" Jam empat pagi aku menulis "sekitar tiga puluh" di buku catatanku.
+DANIEL: Dari mana angka tiga puluh itu?
+SENA: Dari mana-mana tidak. Kedengarannya saja seperti angka yang akan disebut orang yang tahu.
+DANIEL: Di akhir episode ini, kamu akan punya cara untuk bilang "aku belum tahu" yang membuat orang percaya pada semua hal lain yang kamu katakan.
+DANIEL: Selamat datang kembali di Human Curriculum. Aku Daniel, di Seattle.
+SENA: Dan aku Sena, di Tokyo. Sekarang Sabtu pagi, jam sembilan.
+DANIEL: Dan di sini Jumat, jam lima sore. Ada sepanci kari di atas kompor, dan Maple menjaganya seperti miliknya sendiri. Ceritakan malammu.
+SENA: Tidak bagus. Aku membaca catatan Laura sembilan kali lagi. "Sekitar tiga puluh" terasa jauh lebih enak daripada "tidak ada yang tahu". Jadi jam enam pagi tadi aku melakukan apa yang sekarang kulakukan. Aku bertanya pada orang yang pasti tahu. Aku kirim pesan ke Kenta: "Apakah log pengecekan tahu toko mana yang menyusun angkanya dengan tangan?"
+DANIEL: Kenta, di Sabtu pagi?
+SENA: Tujuh menit. "Log hanya melihat toko yang mengirim file ke kami. Sembilan belas toko tidak mengirim apa pun di bulan September. Aku tidak bisa tahu apakah artinya dengan tangan, atau tutup karena renovasi, atau pakai sistem lain." Lalu pesan kedua: "Maaf. Ini bukan jawabannya."
+DANIEL: Dia minta maaf karena memberimu sesuatu yang benar.
+SENA: Aku bilang itu pesan terbaik yang kuterima minggu ini. Lalu Ryo meneleponku, yang tidak pernah dia lakukan, dan bilang, "Tolong jangan tulis tiga puluh. Begitu sebuah angka tertulis, ada yang akan membuat rencana berdasarkan angka itu."
+DANIEL: Ryo sudah mengalaminya sendiri, dengan skrip Osaka-nya.
+SENA: Jadi aku punya satu toko yang pasti kutahu, sembilan belas yang tidak bisa kujelaskan, dan satu angka karangan. Apa yang harus kukatakan pada Laura?
+DANIEL: Tahan dulu pikiran itu. Ada penelitian tentang hal ini, dan itu mengejutkanku.
+DANIEL: Pada 2007, Elizabeth Tenney, Robert MacCoun, Barbara Spellman, dan Reid Hastie menerbitkan "Calibration Trumps Confidence as a Basis for Witness Credibility" di Psychological Science. Di Eksperimen 1, 48 mahasiswa membaca ringkasan sidang tentang pembobolan asrama. Saksi mata mengatakan dia melihat terdakwa pergi sekitar jam tujuh. Korban baru keluar dari kamarnya jam 8:15.
+DANIEL: Ketika saksi itu salah, saksi yang yakin mendapat nilai kredibilitas 4,6 dari 7. Yang tadi bilang "aku tidak yakin" mendapat 5,2. Tanpa kesalahan, saksi yang yakin menang, 5,7 lawan 5,0.
+SENA: Jadi keyakinan hanya menang sampai kamu salah.
+DANIEL: Bayangkan dua saksi kecelakaan mobil: satu yakin soal semuanya, satu berhati-hati. Di Eksperimen 2, 103 mahasiswa menilai mereka. Sebelum ada kesalahan, 75,5 persen percaya pada yang yakin. Lalu masing-masing ditunjukkan salah dalam satu detail kecil, dan 58,4 persen percaya pada yang berhati-hati.
+SENA: Satu "pasti" yang salah, dan orang meragukan sisanya.
+DANIEL: Para penulisnya mengatakannya lebih baik. Kalau kamu terdengar yakin soal semuanya dan salah sekali, "dentang ke-13 jam itu akan membuat 12 dentang lainnya diragukan".
+DANIEL: Studi kedua. Pada 2018, Celia Gaertig dan Joseph Simmons menjalankan sebelas studi dengan 4.806 orang yang menilai saran tentang olahraga, cuaca, dan saham. Penasihat yang bilang "aku tidak yakin, tapi kurasa" dinilai lebih rendah daripada yang yakin. Tapi penasihat yang bilang "ada kemungkinan sekitar 57 persen" tidak dinilai lebih rendah daripada yang terdengar pasti.
+DANIEL: Dan ketika orang memilih di antara dua penasihat yang sependapat, lebih dari delapan dari sepuluh memilih yang memberi kemungkinan daripada yang memberi kepastian.
+SENA: Jadi "aku tidak yakin" merugikan, tapi angka untuk hal yang tidak kamu ketahui tidak.
+DANIEL: Bedanya ada pada terdengar goyah dan tepat soal kekurangannya. Catatan: kedua studi itu berisi orang asing yang menilai deskripsi tertulis, mahasiswa dan panel online, olahraga dan kecelakaan mobil, bukan Laura di rapat tinjauan hari Rabu. Penulis 2018 juga bilang orang mungkin lebih suka kepastian saat ingin dibujuk. Jadi aku tidak bilang "aku tidak tahu" selalu menang. Penilaianku, tebakan mentah yang ternyata salah lebih mahal daripada yang dihemat.
+SENA: Aku juga bertanya pada AI, tentu saja. "Berapa banyak toko ritel yang masih menyusun laporan mingguannya dengan tangan?" Jawabnya, "Survei industri menunjukkan sekitar tiga puluh sampai empat puluh persen." Tanpa menyebut survei mana pun.
+DANIEL: Yakin, spesifik, dan tentang toko orang lain.
+SENA: Akan sangat mudah menempelkan itu ke emailku. Tapi AI tidak ada di ruangan pada hari Rabu. Kalau angkanya salah, akulah yang dilihat Laura.
+DANIEL: AI bisa membuat sebuah angka terdengar benar. Dia tidak bisa menanggung apa yang terjadi pada namamu saat angkanya salah.
+DANIEL: Itu membawaku ke Corinne, kepala operasional di pelanggan terbesar kami. Di tinjauan kuartalan di ruang konferensi hotel, di awal tahun-tahunku sebagai manajer, dia bertanya, "Berapa persen tiket kalian yang selesai dalam satu kali sentuhan?"
+SENA: Dan kamu tahu.
+DANIEL: Tidak. Kupikir sekitar tujuh puluhan tinggi. Aku bilang, "Delapan puluh persen." Bulat, yakin, sekitar enam detik.
+SENA: Lalu apa yang terjadi?
+DANIEL: Dia menaruh "80% penyelesaian satu sentuhan" di slide untuk CEO-nya sendiri. Lima minggu kemudian dasbor kami menunjukkan enam puluh satu. Dia meneleponku. Dia tidak marah. Dia bilang, "Daniel, apa lagi yang kamu katakan padaku yang ternyata tebakan?"
+SENA: Dentang ketiga belas jam itu.
+DANIEL: Butuh tiga bulan mengiriminya sumber data untuk merebut kembali yang dua belas lainnya. Istriku mendengar ceritanya saat makan malam dan bilang, "Kamu tidak mau jadi orang yang tidak tahu." Dia benar. Enam detik terlihat tidak yakin hampir tidak akan merugikanku.
+DANIEL: Sekarang, Tokyo dan Seattle. Saat atasan bertanya sesuatu yang tidak bisa kamu jawab, apa yang terjadi?
+SENA: Kepala divisi Kato-san pernah bertanya dalam rapat, "Berapa orang yang masih memakai laporan lama?" Dia tidak tahu, jadi dia bilang, "Kakunin shimasu." Saya akan memastikan.
+DANIEL: Dan dia memastikan?
+SENA: Dalam dua hari. Empat puluh satu orang. Tapi tidak ada yang menetapkan tanggal, rapat sudah berlanjut, dan dia tidak pernah memberi tahu kepala divisi. Tiga minggu kemudian pertanyaan itu kembali lewat email, "Re: Re: laporan lama". Dia bilang padaku, "Kakunin shimasu tanpa tanggal adalah janji tanpa tanggal."
+SENA: Dan dia menjelaskan kenapa orang mengatakannya. "Wakarimasen", saya tidak tahu, diucapkan datar pada atasan, bisa terdengar seperti kamu tidak bersiap. "Kakunin shimasu" terdengar seperti rencana, bahkan ketika rencananya belum dibuat.
+DANIEL: Dan di Seattle?
+SENA: Mark bercerita tentang musim semi lalu. Dalam sebuah rapat tinjauan dia bilang, "Sekitar empat puluh persen pengguna melakukan ini." Laura menulis empat puluh di slide. Dua minggu kemudian ternyata tiga puluh satu. Sekarang dia bertanya, "Itu angka atau tebakan?" Dan ketika Hannah bilang, "Aku belum tahu. Aku akan tahu hari Kamis jam dua belas siang," Laura menulis "Kamis siang" di buku catatannya dan bilang, "Terima kasih."
+DANIEL: Jadi jebakan Tokyo adalah konfirmasi tanpa tanggal. Dan Seattle?
+SENA: Angka yang ceria. "Sekitar empat puluh persen!" Terdengar membantu saat itu, lalu hidup selamanya di sebuah slide. Keduanya melindungi sesuatu. Tokyo melindungi ruangan dari jawaban yang belum selesai, dan Seattle melindungi keputusan dari jawaban yang salah.
+DANIEL: Apa yang bisa dipinjam masing-masing pihak?
+SENA: Seattle bisa meminjam kepedulian Tokyo agar tidak membiarkan siapa pun menggantung. Tokyo bisa meminjam tanggalnya. "Kakunin shimasu, paling lambat Senin jam dua belas siang." Tambahkan beberapa kata dan itu jadi janji.
+DANIEL: Mari kita ubah jadi keterampilan. Ini kesadaran diri: tahu di mana pengetahuanmu berhenti, dan mengatakannya. Tiga bagian. Satu, katakan dengan jelas: "Aku belum tahu." Dua, katakan apa yang kamu tahu, dan beri label: diketahui, diperkirakan, atau tebakan. Tiga, katakan bagaimana dan kapan kamu akan mencari tahu. Hari dan jam, bukan "sebentar lagi".
+SENA: Coba aku praktikkan di pertanyaan ketiga Laura. Kamu jadi Laura. "Berapa banyak toko yang masih menyusun angkanya dengan tangan?"
+DANIEL: "Berapa banyak toko yang masih menyusun angkanya dengan tangan?"
+SENA: Aku belum tahu. Aku tahu satu toko dengan pasti, dan sembilan belas tidak mengirim file pada September, tapi aku tidak bisa tahu kenapa. Aku akan punya hitungan pertama paling lambat Selasa jam sembilan pagi waktuku, dan aku akan bilang seberapa yakin aku.
+DANIEL: "Terima kasih. Selasa bisa." Perhatikan apa yang kamu lakukan dengan sembilan belas itu. Kamu tidak menyembunyikannya, dan tidak menjualnya.
+SENA: Oke, tantangan terakhir adalah memeriksa berapa lama hal serupa yang terakhir memakan waktu sebelum bilang ya. Jumat sore Ryo memintaku mengecek deck-nya "malam ini". Pengecekan terakhirku untuk deck-nya memakan sembilan puluh menit, jadi aku bilang, "Besok jam dua belas siang. Slide mana yang paling kamu khawatirkan?" Dalam semenit dia mengirim tiga nomor slide.
+DANIEL: Punyaku, VP-ku meminta rencana perekrutan paling lambat Senin. Daftar "Berapa lama sebenarnya" milikku menunjukkan yang terakhir memakan lima hari kerja. Aku bilang Rabu. Dia bilang, "Rabu tidak apa-apa." Setahun lalu aku pasti bilang Senin.
+DANIEL: Oke, tantangan hari ini. Lain kali ada yang bertanya sesuatu yang tidak bisa kamu jawab, katakan "Aku belum tahu," lalu satu hal yang kamu tahu, lalu kapan tepatnya kamu akan mencari tahu.
+SENA: "Aku belum tahu. Ini yang kutahu. Aku kabari paling lambat Selasa." Dan Daniel, aku harus cerita apa yang dikirim Kato-san jam delapan lewat sepuluh pagi tadi.
+DANIEL: Lain kali episode empat puluh dua, "Running a Short Meeting". Apa katanya?
+SENA: "Laura meminta kamu memimpin telepon persiapan hari Selasa untuk tinjauan hari Rabu. Jam sembilan pagi, tiga puluh menit, sebelas orang. Mark menambahkan empat poin ke undangan, dan saya di Osaka sampai Kamis." Undangannya tidak punya agenda. Judulnya cuma "Sync". Terima kasih sudah mendengarkan Human Curriculum.
+DANIEL: Aku Daniel.
+SENA: Dan aku Sena. Katakan apa yang kamu tahu, katakan apa yang tidak kamu tahu, katakan kapan. Sampai jumpa lagi.

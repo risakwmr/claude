@@ -1,0 +1,62 @@
+SENA: « Merci de ne pas deviner. » Daniel, la note se termine comme ça, et ça fait neuf heures que je devine.
+DANIEL: Que tu devines quoi ?
+SENA: La question trois. « Combien de magasins construisent encore leurs chiffres à la main ? » À quatre heures du matin, j'ai écrit « une trentaine » dans mon carnet.
+DANIEL: D'où vient ce trente ?
+SENA: De nulle part. Ça sonnait juste comme un chiffre que dirait quelqu'un qui sait.
+DANIEL: À la fin de cet épisode, tu auras une façon de dire « je ne sais pas encore » qui donne confiance à tout ce que tu dis d'autre.
+DANIEL: Bon retour dans Human Curriculum. Je suis Daniel, à Seattle.
+SENA: Et moi, Sena, à Tokyo. Il est neuf heures, samedi matin.
+DANIEL: Et ici, c'est vendredi, cinq heures de l'après-midi. Il y a une marmite de curry sur le feu, et Maple la surveille comme si elle était à lui. Raconte-moi ta nuit.
+SENA: Pas terrible. J'ai relu la note de Laura neuf fois de plus. « Une trentaine » faisait tellement plus de bien que « personne ne sait ». Alors à six heures ce matin, j'ai fait ce que je fais maintenant. J'ai demandé à quelqu'un qui saurait. J'ai écrit à Kenta : « Est-ce que le journal de vérification sait quels magasins construisent leurs chiffres à la main ? »
+DANIEL: Kenta, un samedi matin ?
+SENA: Sept minutes. « Le journal ne voit que les magasins qui nous envoient un fichier. Dix-neuf n'ont rien envoyé en septembre. Je ne peux pas dire si c'est parce qu'ils font à la main, ou qu'ils sont fermés pour travaux, ou qu'ils ont un autre système. » Puis un deuxième message : « Désolé. Ce n'est pas la réponse. »
+DANIEL: Il s'est excusé de t'avoir donné quelque chose de vrai.
+SENA: Je lui ai dit que c'était le meilleur message que j'avais reçu de la semaine. Ensuite Ryo m'a appelée, ce qu'il ne fait jamais, et il m'a dit : « Surtout n'écris pas trente. Une fois qu'un chiffre est écrit, quelqu'un fait des plans dessus. »
+DANIEL: Ryo a déjà vécu ça, avec son script d'Osaka.
+SENA: Donc j'ai un magasin dont je suis sûre, dix-neuf que je ne sais pas expliquer, et un chiffre que j'ai inventé. Qu'est-ce que je dis à Laura ?
+DANIEL: Garde cette pensée. Il existe une recherche exactement là-dessus, et elle m'a surpris.
+DANIEL: En 2007, Elizabeth Tenney, Robert MacCoun, Barbara Spellman et Reid Hastie ont publié « Calibration Trumps Confidence as a Basis for Witness Credibility » dans Psychological Science. Dans l'expérience 1, 48 étudiants ont lu le résumé d'un procès pour un cambriolage dans une résidence universitaire. Le témoin disait avoir vu l'accusé partir vers sept heures. La victime n'avait quitté sa chambre qu'à 8 h 15.
+DANIEL: Quand le témoin se trompait, celui qui était sûr de lui obtenait 4,6 sur 7 en crédibilité. Celui qui avait dit « je ne suis pas certain » obtenait 5,2. Sans erreur, le témoin sûr de lui gagnait, 5,7 contre 5,0.
+SENA: Donc l'assurance ne gagne que jusqu'à la première erreur.
+DANIEL: Imagine deux témoins d'un accident de voiture : un sûr de tout, un prudent. Dans l'expérience 2, 103 étudiants les ont jugés. Avant toute erreur, 75,5 pour cent croyaient celui qui était sûr. Puis on a montré que chacun se trompait sur un petit détail, et 58,4 pour cent ont cru le prudent.
+SENA: Un « absolument » faux, et les gens doutent du reste.
+DANIEL: Les auteurs le disent mieux. Si tu parais sûr de tout et que tu te trompes une fois, « le treizième coup de l'horloge mettra les douze autres en doute ».
+DANIEL: Deuxième étude. En 2018, Celia Gaertig et Joseph Simmons ont mené onze études avec 4 806 personnes qui évaluaient des conseils sur le sport, la météo et la Bourse. Les conseillers qui disaient « je ne suis pas sûr, mais je pense » étaient moins bien notés que les assurés. Mais ceux qui disaient « il y a environ 57 pour cent de chances » n'étaient pas moins bien notés que ceux qui paraissaient certains.
+DANIEL: Et quand les gens devaient choisir entre deux conseillers qui étaient d'accord, plus de huit sur dix préféraient celui qui donnait une probabilité à celui qui donnait une certitude.
+SENA: Donc « je ne suis pas sûr » fait mal, mais un chiffre pour ce qu'on ne sait pas, non.
+DANIEL: La différence est entre paraître hésitant et être précis sur ce qui manque. Précautions : dans les deux études, des inconnus évaluent des descriptions écrites, des étudiants et des panels en ligne, du sport et des accidents de voiture, pas Laura dans une revue du mercredi. Les auteurs de 2018 disent aussi que les gens peuvent préférer la certitude quand ils veulent être convaincus. Je ne dis donc pas que « je ne sais pas » gagne toujours. Mon avis, c'est qu'une supposition péremptoire qui se révèle fausse coûte plus qu'elle ne rapporte.
+SENA: J'ai aussi demandé à une IA, bien sûr. « Combien de magasins de détail construisent encore leurs rapports hebdomadaires à la main ? » Elle a répondu : « Des enquêtes sectorielles suggèrent environ trente à quarante pour cent. » Aucune enquête citée.
+DANIEL: Assuré, précis, et sur les magasins de quelqu'un d'autre.
+SENA: Ça aurait été si facile de coller ça dans mon e-mail. Mais l'IA ne sera pas dans la salle mercredi. Si le chiffre est faux, c'est moi que Laura regardera.
+DANIEL: Une IA peut rendre un chiffre crédible. Elle ne peut pas porter ce qui arrive à ton nom quand le chiffre est faux.
+DANIEL: Ce qui m'amène à Corinne, directrice des opérations de notre plus gros client. Lors d'une revue trimestrielle dans une salle de conférence d'hôtel, au début de mes années de manager, elle m'a demandé : « Quel pourcentage de vos tickets est résolu en un seul contact ? »
+SENA: Et tu le savais.
+DANIEL: Non. Je pensais que c'était quelque part dans les soixante-dix et quelques. J'ai dit : « Quatre-vingts pour cent. » Rond, assuré, six secondes environ.
+SENA: Et alors ?
+DANIEL: Elle a mis « 80 % de résolution au premier contact » sur une diapo pour son propre PDG. Cinq semaines plus tard, notre tableau de bord affichait soixante et un. Elle m'a appelé. Elle n'était pas en colère. Elle a dit : « Daniel, qu'est-ce que vous m'avez dit d'autre qui était une supposition ? »
+SENA: Le treizième coup de l'horloge.
+DANIEL: Il m'a fallu trois mois à lui envoyer des sources pour regagner les douze autres. Ma femme a entendu l'histoire au dîner et m'a dit : « Tu ne voulais pas être celui qui ne savait pas. » Elle avait raison. Six secondes à avoir l'air incertain ne m'auraient presque rien coûté.
+DANIEL: Maintenant, Tokyo et Seattle. Quand quelqu'un de plus haut placé pose une question à laquelle tu ne peux pas répondre, que se passe-t-il ?
+SENA: Un jour, le chef de division de Kato-san a demandé en réunion : « Combien de personnes utilisent encore l'ancien rapport ? » Il ne savait pas, alors il a dit : « Kakunin shimasu. » Je vais vérifier.
+DANIEL: Et il l'a fait ?
+SENA: En deux jours. Quarante et une personnes. Mais personne n'avait fixé de date, la réunion était passée à autre chose, et il ne l'a jamais dit au chef de division. Trois semaines plus tard, la question est revenue dans un e-mail, « Re : Re : ancien rapport ». Il m'a dit : « Kakunin shimasu sans date, c'est une promesse sans date. »
+SENA: Et il m'a expliqué pourquoi on le dit. « Wakarimasen », je ne sais pas, dit sèchement à quelqu'un de plus haut placé, peut donner l'impression que tu ne t'es pas préparé. « Kakunin shimasu » sonne comme un plan, même quand le plan n'est pas encore fait.
+DANIEL: Et à Seattle ?
+SENA: Mark m'a raconté ce qui s'est passé au printemps dernier. Dans une revue, il a dit : « Environ quarante pour cent des utilisateurs font ça. » Laura a écrit quarante sur la diapo. Deux semaines plus tard, c'était trente et un. Maintenant elle demande : « C'est un chiffre ou une supposition ? » Et quand Hannah dit : « Je ne sais pas encore. Je le saurai jeudi à midi », Laura note « jeudi midi » dans son carnet et dit : « Merci. »
+DANIEL: Donc le piège de Tokyo, c'est la vérification sans date. Et celui de Seattle ?
+SENA: Le chiffre enjoué. « Environ quarante pour cent ! » Sur le moment, ça paraît utile, et après il vit sur une diapo. Les deux protègent quelque chose. Tokyo protège la salle d'une réponse inachevée, et Seattle protège la décision d'une réponse fausse.
+DANIEL: Que peut emprunter chaque côté ?
+SENA: Seattle peut emprunter à Tokyo le souci de ne laisser personne en suspens. Tokyo peut emprunter la date. « Kakunin shimasu, d'ici lundi midi. » Ajoute quatre mots et c'est une promesse.
+DANIEL: Transformons ça en compétence. C'est la conscience de soi : savoir où s'arrêtent tes connaissances, et le dire. Trois parties. Un, dis-le simplement : « Je ne sais pas encore. » Deux, dis ce que tu sais, et étiquette-le : connu, estimé ou supposé. Trois, dis comment et quand tu le sauras. Un jour et une heure, pas « bientôt ».
+SENA: Laisse-moi essayer sur la troisième question de Laura. Tu es Laura. « Combien de magasins construisent encore leurs chiffres à la main ? »
+DANIEL: « Combien de magasins construisent encore leurs chiffres à la main ? »
+SENA: Je ne sais pas encore. Je connais un magasin avec certitude, et dix-neuf ne nous ont envoyé aucun fichier en septembre, mais je ne peux pas dire pourquoi. J'aurai un premier décompte mardi à neuf heures, heure de chez moi, et je te dirai à quel point j'en suis sûre.
+DANIEL: « Merci. Mardi, ça marche. » Remarque ce que tu as fait des dix-neuf. Tu ne les as pas cachés, et tu ne les as pas vendus.
+SENA: Bon, le défi de la dernière fois, c'était de vérifier combien de temps avait pris la dernière chose semblable avant de dire oui. Vendredi après-midi, Ryo m'a demandé de relire sa présentation « ce soir ». Ma dernière relecture des siennes avait pris quatre-vingt-dix minutes, alors j'ai dit : « Demain à midi. Quelles diapos t'inquiètent le plus ? » Il m'a envoyé trois numéros de diapo en une minute.
+DANIEL: Le mien, c'était ma VP qui me demandait un plan de recrutement pour lundi. Ma liste « Combien de temps ça a vraiment pris » disait que le dernier avait pris cinq jours ouvrés. J'ai dit mercredi. Elle a répondu : « Mercredi, ça va. » Il y a un an, j'aurais dit lundi.
+DANIEL: Bon, le défi d'aujourd'hui. La prochaine fois que quelqu'un te pose une question à laquelle tu ne peux pas répondre, dis « Je ne sais pas encore », puis une chose que tu sais, puis exactement quand tu le sauras.
+SENA: « Je ne sais pas encore. Voilà ce que je sais. Je vous dis ça d'ici mardi. » Et Daniel, il faut que je te raconte ce que Kato-san m'a écrit ce matin à huit heures dix.
+DANIEL: La prochaine fois, c'est l'épisode quarante-deux, « Running a Short Meeting ». Qu'est-ce qu'il a dit ?
+SENA: « Laura demande que tu animes l'appel de préparation de mardi pour la revue de mercredi. Neuf heures, trente minutes, onze personnes. Mark a ajouté quatre points à l'invitation, et je suis à Osaka jusqu'à jeudi. » L'invitation n'a pas d'ordre du jour. Le titre, c'est juste « Sync ». Merci d'avoir écouté Human Curriculum.
+DANIEL: Moi, c'est Daniel.
+SENA: Et moi, Sena. Dis ce que tu sais, dis ce que tu ne sais pas, dis quand. À la prochaine.

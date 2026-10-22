@@ -1,0 +1,62 @@
+SENA: "Por favor, não chute." Daniel, o bilhete termina assim, e eu estou chutando há nove horas.
+DANIEL: Chutando o quê?
+SENA: A pergunta três. "Quantas lojas ainda montam os números à mão?" Às quatro da manhã eu escrevi "umas trinta" no meu caderno.
+DANIEL: De onde veio o trinta?
+SENA: De lugar nenhum. Só soava como um número que uma pessoa que sabe falaria.
+DANIEL: No fim deste episódio, você vai ter um jeito de dizer "ainda não sei" que faz as pessoas confiarem em tudo o mais que você diz.
+DANIEL: Bem-vindos de volta ao Human Curriculum. Eu sou o Daniel, em Seattle.
+SENA: E eu sou a Sena, em Tóquio. É sábado de manhã, nove horas.
+DANIEL: E aqui é sexta, cinco da tarde. Tem uma panela de curry no fogão, e o Maple está vigiando como se fosse dele. Me conta da sua noite.
+SENA: Não foi boa. Li o bilhete da Laura mais nove vezes. "Umas trinta" parecia muito melhor do que "ninguém sabe". Então, às seis da manhã de hoje, fiz o que eu faço agora. Perguntei para alguém que saberia. Mandei mensagem para o Kenta: "O registro de verificação sabe quais lojas montam os números à mão?"
+DANIEL: O Kenta, num sábado de manhã?
+SENA: Sete minutos. "O registro só enxerga as lojas que nos mandam um arquivo. Dezenove não mandaram nada em setembro. Não sei dizer se isso quer dizer à mão, ou fechada para reforma, ou outro sistema." E depois uma segunda mensagem: "Desculpa. Essa não é a resposta."
+DANIEL: Ele pediu desculpa por te dar uma coisa verdadeira.
+SENA: Eu disse que era a melhor mensagem que eu tinha recebido a semana toda. Aí o Ryo me ligou, o que ele nunca faz, e disse: "Por favor, não escreva trinta. Depois que um número é escrito, alguém planeja em cima dele."
+DANIEL: O Ryo já viveu isso, com o script de Osaka.
+SENA: Então eu tenho uma loja que eu sei com certeza, dezenove que eu não consigo explicar e um número que eu inventei. O que eu digo para a Laura?
+DANIEL: Segura essa ideia. Existe pesquisa exatamente sobre isso, e me surpreendeu.
+DANIEL: Em 2007, Elizabeth Tenney, Robert MacCoun, Barbara Spellman e Reid Hastie publicaram "Calibration Trumps Confidence as a Basis for Witness Credibility" na Psychological Science. No Experimento 1, 48 universitários leram o resumo de um julgamento sobre um arrombamento num dormitório. A testemunha disse que viu o réu sair por volta das sete. A vítima só tinha saído do quarto às 8h15.
+DANIEL: Quando a testemunha errava, a confiante teve 4,6 de 7 em credibilidade. A que tinha dito "não tenho certeza" teve 5,2. Sem erro, a testemunha confiante ganhou, 5,7 a 5,0.
+SENA: Então a confiança só ganha até você errar.
+DANIEL: Imagine duas testemunhas de um acidente de carro: uma segura de tudo, outra cuidadosa. No Experimento 2, 103 universitários julgaram as duas. Antes de qualquer erro, 75,5 por cento acreditaram na segura. Aí mostraram cada uma errando um detalhe pequeno, e 58,4 por cento passaram a acreditar na cuidadosa.
+SENA: Um "com certeza" errado, e as pessoas duvidam do resto.
+DANIEL: Os autores dizem melhor. Se você soa seguro de tudo e erra uma vez, "a 13ª badalada do relógio vai colocar as outras 12 em dúvida".
+DANIEL: Segundo estudo. Em 2018, Celia Gaertig e Joseph Simmons fizeram onze estudos com 4.806 pessoas avaliando conselhos sobre esportes, clima e ações. Conselheiros que diziam "não tenho certeza, mas acho que" foram avaliados abaixo dos confiantes. Mas os que diziam "há cerca de 57 por cento de chance" não foram avaliados abaixo dos que soavam certos.
+DANIEL: E quando as pessoas escolhiam entre dois conselheiros que concordavam, mais de oito em cada dez escolhiam o que dava uma chance em vez de uma certeza.
+SENA: Então "não tenho certeza" machuca, mas um número para o que você não sabe não machuca.
+DANIEL: A diferença está entre soar inseguro e ser preciso sobre a lacuna. Ressalvas: nos dois estudos, desconhecidos avaliam descrições escritas, com estudantes e painéis online, esportes e acidentes de carro, não a Laura numa revisão de quarta-feira. Os autores de 2018 também dizem que as pessoas podem preferir a certeza quando querem ser persuadidas. Então não estou dizendo que "não sei" sempre ganha. Na minha avaliação, um chute seco que se revela errado custa mais do que economiza.
+SENA: Eu também perguntei a uma IA, claro. "Quantas lojas de varejo ainda montam à mão os relatórios semanais?" Ela respondeu: "Pesquisas do setor sugerem aproximadamente trinta a quarenta por cento." Nenhuma pesquisa citada.
+DANIEL: Confiante, específica e sobre as lojas dos outros.
+SENA: Teria sido tão fácil colar isso no meu e-mail. Mas a IA não está na sala na quarta-feira. Se o número estiver errado, sou eu quem a Laura vai olhar.
+DANIEL: Uma IA consegue fazer um número parecer verdadeiro. Ela não consegue carregar o que acontece com o seu nome quando o número está errado.
+DANIEL: O que me leva à Corinne, diretora de operações do nosso maior cliente. Numa revisão trimestral numa sala de conferência de hotel, no começo dos meus anos como gerente, ela perguntou: "Que porcentagem dos seus chamados é resolvida num único contato?"
+SENA: E você sabia.
+DANIEL: Não sabia. Achava que estava lá pelos setenta e tantos. Eu disse: "Oitenta por cento." Redondo, confiante, uns seis segundos.
+SENA: O que aconteceu?
+DANIEL: Ela pôs "80% de resolução em um contato" num slide para o próprio CEO dela. Cinco semanas depois, nosso painel mostrava sessenta e um. Ela me ligou. Não estava brava. Disse: "Daniel, o que mais você me contou que era chute?"
+SENA: A décima terceira badalada do relógio.
+DANIEL: Levei três meses mandando fontes para ela para reconquistar as outras doze. Minha esposa ouviu a história no jantar e disse: "Você não queria ser a pessoa que não sabia." Ela tinha razão. Seis segundos parecendo inseguro teriam me custado quase nada.
+DANIEL: Agora, Tóquio e Seattle. Quando alguém sênior faz uma pergunta que você não consegue responder, o que acontece?
+SENA: O chefe de divisão do Kato-san perguntou uma vez numa reunião: "Quantas pessoas ainda usam o relatório antigo?" Ele não sabia, então disse: "Kakunin shimasu." Vou confirmar.
+DANIEL: E ele confirmou?
+SENA: Em dois dias. Quarenta e uma pessoas. Mas ninguém tinha marcado uma data, a reunião seguiu em frente, e ele nunca contou ao chefe de divisão. Três semanas depois a pergunta voltou num e-mail, "Re: Re: relatório antigo". Ele me disse: "Kakunin shimasu sem data é uma promessa sem data."
+SENA: E ele me explicou por que as pessoas dizem isso. "Wakarimasen", não sei, dito secamente para alguém sênior, pode soar como se você não tivesse se preparado. "Kakunin shimasu" soa como um plano, mesmo quando o plano ainda não foi feito.
+DANIEL: E em Seattle?
+SENA: O Mark me contou sobre a primavera passada. Numa revisão ele disse: "Cerca de quarenta por cento dos usuários fazem isso." A Laura escreveu quarenta no slide. Duas semanas depois era trinta e um. Agora ela pergunta: "Isso é um número ou um chute?" E quando a Hannah diz: "Ainda não sei. Vou saber quinta ao meio-dia," a Laura anota "quinta meio-dia" no caderno e diz: "Obrigada."
+DANIEL: Então a armadilha de Tóquio é a confirmação sem data. E a de Seattle?
+SENA: O número animado. "Uns quarenta por cento!" Soa útil na hora, e depois fica morando num slide. Os dois estão protegendo alguma coisa. Tóquio protege a sala de uma resposta inacabada, e Seattle protege a decisão de uma resposta errada.
+DANIEL: O que cada lado pode pegar emprestado?
+SENA: Seattle pode pegar emprestado o cuidado de Tóquio para não deixar ninguém pendurado. Tóquio pode pegar emprestada a data. "Kakunin shimasu, até segunda ao meio-dia." Acrescente algumas palavras e vira uma promessa.
+DANIEL: Vamos transformar isso numa habilidade. É autoconsciência: saber onde termina o seu conhecimento e dizer isso. Três partes. Um, diga com clareza: "Ainda não sei." Dois, diga o que você sabe e classifique: conhecido, estimado ou chute. Três, diga como e quando você vai descobrir. Um dia e uma hora, não "em breve".
+SENA: Deixa eu testar na terceira pergunta da Laura. Você é a Laura. "Quantas lojas ainda montam os números à mão?"
+DANIEL: "Quantas lojas ainda montam os números à mão?"
+SENA: Ainda não sei. Sei de uma loja com certeza, e dezenove não nos mandaram arquivo em setembro, mas não consigo dizer por quê. Vou ter uma primeira contagem até terça, nove da manhã no meu horário, e vou te dizer o quanto tenho de certeza.
+DANIEL: "Obrigada. Terça funciona." Repare no que você fez com os dezenove. Você não escondeu, e não vendeu.
+SENA: Certo, o desafio da última vez era conferir quanto tempo levou a última coisa parecida antes de dizer sim. Na sexta à tarde o Ryo me pediu para revisar o slide deck dele "hoje à noite". Minha última revisão de um dele levou noventa minutos, então eu disse: "Amanhã ao meio-dia. Quais slides preocupam mais você?" Ele me mandou três números de slide em um minuto.
+DANIEL: O meu foi minha VP pedindo um plano de contratação para segunda. Minha lista "Quanto tempo realmente levou" dizia que o último levou cinco dias úteis. Eu disse quarta. Ela disse: "Quarta está ótimo." Um ano atrás eu teria dito segunda.
+DANIEL: Certo, o desafio de hoje. Da próxima vez que alguém te perguntar algo que você não sabe responder, diga "Ainda não sei", depois uma coisa que você sabe, e depois exatamente quando vai descobrir.
+SENA: "Ainda não sei. Aqui está o que eu sei. Te aviso até terça." E, Daniel, preciso te contar o que o Kato-san mandou hoje de manhã às oito e dez.
+DANIEL: Da próxima vez é o episódio quarenta e dois, "Running a Short Meeting". O que ele disse?
+SENA: "A Laura pediu que você conduza a call de preparação de terça para a revisão de quarta. Nove da manhã, trinta minutos, onze pessoas. O Mark acrescentou quatro itens ao convite, e eu estou em Osaka até quinta." O convite não tem pauta. O título é só "Sync". Obrigada por ouvir o Human Curriculum.
+DANIEL: Eu sou o Daniel.
+SENA: E eu sou a Sena. Diga o que você sabe, diga o que não sabe, diga quando. Até a próxima.

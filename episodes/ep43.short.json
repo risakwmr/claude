@@ -1,0 +1,8 @@
+{
+  "shorts": [
+    {"kind": "highlight", "lines": [22, 23], "hook": "Can you grade your own presentation?", "title": "Why you can't grade your own presentation"},
+    {"kind": "ai", "lines": [27, 29], "hook": "Can AI review your recorded call?", "title": "What AI feedback on your call misses"},
+    {"kind": "culture", "lines": [36, 38], "hook": "Do the minutes match what was said?", "title": "Meeting minutes vs recordings: Tokyo vs Seattle"},
+    {"kind": "lab", "lines": [44, 44], "phrases": ["Keep one, change one", "I cut you off", "Your point was the one we needed"], "hook": "How do you apologize without saying sorry?", "title": "Apologize without piling on the sorries", "tag": "PHRASES THAT WORK AT WORK"}
+  ]
+}

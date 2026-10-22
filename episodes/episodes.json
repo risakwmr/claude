@@ -2504,6 +2504,66 @@
       ],
       "thumb_cup": "Ends 9:25",
       "thumb_pose": "sena_bell_rope"
+    },
+    {
+      "number": 43,
+      "script": "ep43.txt",
+      "title": "Learning from Your Own Recording",
+      "short_title": "Learning from Your Own Recording",
+      "summary": "Tuesday night in Tokyo, 6 a.m. in Seattle. After keeping Mark's recording link closed all day (Kenta: \"I listen to mine every April. It is less scary than waiting.\"), Sena listened to all thirty-one minutes of her prep call on her kitchen floor with a pen. She found three kinds of things: what she remembered wrong (a ten-second freeze at minute eleven was two seconds, and her \"Let's park that\" sounded calm), what she never noticed (\"sorry\" seven times, \"I just wanted to\" eleven times, and at minute fourteen she cut off Hannah, whose \"Oh. Okay.\" was followed at minute fifteen by the answer to Laura's data question), and what she did well (an off-microphone \"Oh, nice\" after \"so you get five minutes back\"). Daniel's research: Ritchie (2016, Active Learning in Higher Education): biology students were recorded giving two PowerPoint presentations; the section required to complete a self-assessment rubric on the first video scored higher on the second presentation (content explanation, timing, speech skills), and peer scores matched the instructor's moderately well while students' own scores did not. Rodebaugh, Heimberg, Schultz and Blackmore (2010, Journal of Anxiety Disorders): 26 adults with social anxiety disorder (22 finished) gave a speech; those who first wrote what they expected to see and then watched the video rated themselves better right afterward; the effect was smaller and not significant on a second speech 6 to 14 days later (d = 0.73), helped most those with the harshest first impressions, and overall anxiety did not change. Limits: one biology course with sections not randomized; 26 people all with a diagnosis; neither tested listening to your own work call (that part is Daniel's judgment). Why AI can't: an AI counted her sorries and justs correctly, but a transcript can't hear Hannah's \"Oh. Okay.\" as a door closing, or choose who she wants to be in the room. Daniel's failure story: Ambrose, a director two levels above him; Daniel never watched recordings of himself (\"I can't stand my own voice\"), then Ambrose watched his recorded ninety-minute onboarding session at 1.5x and told him he said \"Does that make sense?\" every ninety seconds, nobody answered, and he checked his phone twice; his wife: \"You've had a mirror in the hallway your whole career, and you walk past it.\" He now watches the first two minutes of every recorded session once with a pen and asks one person for one observation. Japan vs the US: in Tokyo the record is usually the minutes (gijiroku), written by the newest person and edited by the manager (\"Kentou shimasu\" becomes \"to be considered\"); Kato-san listened to a Seattle call recording for the first time: the minutes said Seattle \"agreed in principle,\" Laura said \"I think so, but I'm not sure yet\"; an unasked recording can feel like evidence, so people ask formally first, while Seattle records without asking and Laura watches at 1.5x on her walk. Seattle can borrow the asking sentence (Mark did say it; Sena was reading notes), Tokyo can borrow the mirror (Kato-san: \"A recording is not a witness. If you play it first for yourself, it is a mirror\"). The skill: listen once, ask three questions (what did I remember wrong, never notice, do well), keep one and change one, ask one person what they heard, and say so before you record others. Last challenge recap (Sena's store-count call: \"At the end, we will have decided who calls the eight stores we couldn't reach,\" fourteen minutes; Daniel's Thursday invite accepted by three people before he finished his tea), today's one-day challenge, and a cliffhanger: Laura's direct message at 9:41 p.m.: Graham Whitfield joins tomorrow's review for the first time, has about one minute for the store count, reads the first line of everything and not the second; she wants Sena's answer in one sentence by noon Seattle time, and Sena's answer is four paragraphs and a table.",
+      "practice": "Record two minutes of a real moment in your day after telling everyone on it you are recording. Listen once with a pen, write one thing to keep and one to change, then ask one person what they heard.",
+      "sources": [
+        "Ritchie (2016), Self-assessment of video-recorded presentations: Does it improve skills?, Active Learning in Higher Education 17(3), 207–221",
+        "Rodebaugh, Heimberg, Schultz & Blackmore (2010), The Moderated Effects of Video Feedback for Social Anxiety Disorder, Journal of Anxiety Disorders 24(7), 663–671"
+      ],
+      "tags": [
+        "self-awareness",
+        "recording yourself",
+        "video feedback",
+        "meeting recordings",
+        "meeting minutes",
+        "communication",
+        "feedback",
+        "EQ",
+        "emotional intelligence",
+        "career",
+        "program manager",
+        "audiobook",
+        "Japanese work culture",
+        "Japan vs US"
+      ],
+      "yt_title": "Never Heard How You Sound in Meetings? Try This 2-Minute Review",
+      "hook": "You probably have never listened to your own meetings, and your coworkers might have.\nHere is how to review a recording of yourself, what two studies say, and why you need a second pair of ears.",
+      "points": [
+        "Students who completed a self-assessment rubric on their first recorded presentation scored higher on the second (Ritchie, 2016)",
+        "Peers' scores matched the instructor's moderately well; students' own scores did not",
+        "26 adults watched their own speech after writing what they expected to see: better self-ratings at first, a weaker effect 6 to 14 days later (Rodebaugh et al., 2010)",
+        "Ambrose watched Daniel's recorded session at 1.5x: \"Does that make sense?\" every ninety seconds",
+        "Tokyo: minutes (gijiroku) remember kindly; a recording doesn't. Ask first, and play it for yourself like a mirror",
+        "Listen once; what did I remember wrong, never notice, do well; keep one, change one; ask one person"
+      ],
+      "title_ja": "自分の録音から学ぶ",
+      "hook_ja": "自分の会議の録音を一度も聞いたことがない人は多いはず。でも、同僚はもう見ているかもしれません。\n自分の録音を振り返る方法、二つの研究が言うこと、そしてなぜもう一人の耳が必要なのかを紹介します。",
+      "points_ja": [
+        "最初の録画発表でチェック表による自己評価をしたグループは、2回目の発表の得点が高かった（リッチー、2016年）",
+        "仲間の点数は先生の点数とそこそこ合っていたが、学生自身の点数は合っていなかった",
+        "社交不安障害のある成人26人が、見る前に「何が映るか」を書いてから自分のスピーチを見た：直後は自己評価が上がり、6〜14日後は効果が弱まった（ロデボーら、2010年）",
+        "アンブローズは、ダニエルの録画研修を1.5倍速で見た：90秒ごとの「わかりましたか？」",
+        "東京：議事録はやさしく覚える。録音はそうじゃない。先に断り、まず自分のために鏡として再生する",
+        "一度だけ聞く。記憶ちがい、気づかなかったこと、うまくできたこと。一つ残して一つ変える。誰か一人に聞く"
+      ],
+      "summary_ja": "火曜の夜の東京、シアトルは朝6時。マークさんの録画リンクを一日中開けなかったセナ（ケンタさん：「ぼくは毎年4月に聞いてる。待っているより怖くないよ」）は、台所の床でペンを持って、準備会議の31分をすべて聞きました。見つかったのは三種類。記憶ちがい（11分目の10秒の沈黙は2秒だった。「それは置いておきましょう」は落ち着いて聞こえた）、気づかなかったこと（「すみません」7回、「ちょっとだけ〜したくて」11回、14分目にハンナさんをさえぎった。ハンナさんの「ああ。わかった」のあと、15分目にローラさんのデータの質問への答えが出た）、うまくできたこと（「5分お返しします」のあと、マイクの外から「お、いいね」）。ダニエルの研究：リッチー（2016年、Active Learning in Higher Education）は、生物学の学生が2回の発表を録画され、最初の動画にチェック表で自己評価をしたクラスの方が2回目の得点が高かったこと（内容の説明、時間配分、話し方）、仲間の点数は先生とそこそこ合ったが学生自身の点数は合わなかったこと。ロデボーら（2010年、Journal of Anxiety Disorders）は、社交不安障害の成人26人（22人が完了）で、見る前に何が映ると思うかを書いてから動画を見たグループは直後に自己評価が良くなり、6〜14日後の2回目では効果は小さく有意ではなく（d=0.73）、最初の印象がいちばん厳しい人ほど効果があり、不安全体は変わりませんでした。限界：一つの生物学の授業でくじ引きではない、26人は全員診断あり、自分の仕事の通話の録音は試されていない（そこはダニエルの判断）。AIにできないこと：「すみません」と「just」の数は正しく数えたが、ハンナさんの「ああ。わかった」がドアの閉まる音だとは聞こえず、あの部屋でどんな人でいたいかも選べない。ダニエルの失敗談：二つ上の階層のディレクター、アンブローズ。ダニエルは「自分の声が耐えられない」と言って録画を見ずにいたが、アンブローズが90分の新人研修の録画を1.5倍速で見て、「わかりましたか？」を90秒ごとに言う、誰も答えない、スマホを2回見たと伝えた。妻：「廊下にずっと鏡があったのに、その前を通りすぎていたのね」。いまは録画された研修の最初の2分をペンを持って一度だけ見て、一人に一つ教えてもらう。日本とアメリカ：東京では記録といえば議事録で、一番新しい人が書き、上司が直す（「検討します」が「検討予定」に）。加藤さんはシアトルの通話の録音を初めて聞き、議事録は「原則同意」、ローラさんは「そう思うけど、まだ確信はない」だった。断りのない録音は証拠に感じられるので、東京は先に丁寧に聞く。シアトルは聞かずに録り、ローラさんは散歩中に1.5倍速で見る。シアトルは「先に聞く一文」を、東京は「鏡」を借りられる（加藤さん：「録音は証人じゃない。最初に自分で再生すれば、鏡だ」）。スキル：一度だけ聞く、三つの問い、一つ残して一つ変える、一人に聞く、人を録るときは先に伝える。前回のチャレンジの振り返り（セナの店舗数の通話は14分、ダニエルの木曜の招待は3人が即承諾）、今日のチャレンジ、そして引き：ローラさんから午後9時41分のDM。グラハム・ウィットフィールドが明日のレビューに初参加、店舗数の持ち時間は1分、1行目だけ読む人。シアトルの正午までに1文で答えを送ってほしい。セナの答えは今、4段落と1つの表。",
+      "practice_ja": "今日の本当の場面を2分間、参加者全員に録音すると伝えてから録音する。ペンを持って一度だけ聞き、残すことを一つ、変えることを一つ書く。そして誰か一人に何が聞こえたかを聞く。",
+      "thumb_accent": "Change One",
+      "thumb_sub": "Keep One, Change One",
+      "thumb_notes": [
+        "Listen once",
+        "Remembered wrong",
+        "Never noticed",
+        "Did well"
+      ],
+      "thumb_cup": "Keep 1, change 1",
+      "thumb_pose": "sena_stepping_stones_mirror"
     }
   ]
 }

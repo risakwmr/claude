@@ -1,5 +1,5 @@
 {
-  "at": "2026-10-21T23:52:02Z",
+  "at": "2026-10-22T16:25:46Z",
   "shorts": {
     "1-ai": {
       "video_id": "IdbU6d1ox0Q",
@@ -190,6 +190,15 @@
       "likes": 0,
       "comments": 0
     },
+    "7-ai": {
+      "video_id": "yeMKZMn2JGg",
+      "title": "AI can fix your sentences, not your message #shorts",
+      "public": false,
+      "publish_at": "2026-10-22T19:00:00Z",
+      "views": 0,
+      "likes": 0,
+      "comments": 0
+    },
     "7-highlight": {
       "video_id": "PKqpdcOO2J0",
       "title": "You're less clear than you think #shorts",
@@ -276,7 +285,7 @@
       "title": "People say yes more often than you think #shorts",
       "public": true,
       "publish_at": "2026-10-17T09:00:00Z",
-      "views": 3,
+      "views": 4,
       "likes": 0,
       "comments": 0
     },
@@ -285,7 +294,7 @@
       "title": "Nemawashi: the Japanese secret to influence #shorts",
       "public": true,
       "publish_at": "2026-10-18T19:00:00Z",
-      "views": 16,
+      "views": 17,
       "likes": 0,
       "comments": 0
     },
@@ -303,7 +312,7 @@
       "title": "Read the air vs disagree and commit #shorts",
       "public": true,
       "publish_at": "2026-10-20T19:00:00Z",
-      "views": 3,
+      "views": 4,
       "likes": 0,
       "comments": 0
     },
@@ -627,7 +636,7 @@
       "title": "Background first or number first: Japan vs the US #shorts",
       "public": true,
       "publish_at": "2026-10-20T16:23:43Z",
-      "views": 3,
+      "views": 4,
       "likes": 0,
       "comments": 0
     },
@@ -645,7 +654,7 @@
       "title": "Silence in Tokyo vs Seattle meetings #shorts",
       "public": true,
       "publish_at": "2026-10-21T16:37:41Z",
-      "views": 4,
+      "views": 6,
       "likes": 0,
       "comments": 0
     }
@@ -864,7 +873,7 @@
     "31": {
       "video_id": "7iadEpodP6Y",
       "title": "Small Talk Is Not Small: Two Questions and One Follow-Up | Human Curriculum EP31",
-      "views": 1,
+      "views": 2,
       "likes": 0,
       "comments": 1
     },

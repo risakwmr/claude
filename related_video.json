@@ -198,5 +198,9 @@
   "33-culture": {
     "episode": 33,
     "reported": true
+  },
+  "7-ai": {
+    "episode": 7,
+    "reported": true
   }
 }

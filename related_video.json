@@ -202,5 +202,9 @@
   "7-ai": {
     "episode": 7,
     "reported": true
+  },
+  "12-culture": {
+    "episode": 12,
+    "reported": true
   }
 }

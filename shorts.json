@@ -253,6 +253,16 @@
     "uploaded_at": "2026-10-21T16:37:44+00:00",
     "publish_at": "2026-10-21T19:00:00Z"
   },
+  "12-culture": {
+    "video_id": "1EoZTPY325Y",
+    "uploaded_at": "2026-10-23T16:14:23+00:00",
+    "publish_at": "2026-10-23T19:00:00Z",
+    "localized": [
+      "fr",
+      "ko",
+      "zh-TW"
+    ]
+  },
   "16-ai": {
     "video_id": "wpHzHItUs9A",
     "uploaded_at": "2026-10-08T05:15:48+00:00",

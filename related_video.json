@@ -206,5 +206,9 @@
   "12-culture": {
     "episode": 12,
     "reported": true
+  },
+  "13-highlight": {
+    "episode": 13,
+    "reported": true
   }
 }

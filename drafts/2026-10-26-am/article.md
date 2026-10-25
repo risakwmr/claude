@@ -1,6 +1,6 @@
 # 作業時間の見積もりが、いつも甘い人へ ― 気合いで直さず「実際にかかった時間」から自分の倍率を決める（研究で分かっていること）｜特性と私
 
-> 状態：下書き（要記入6・確認3あり）。有料化版（RULES 5.5／5.6 に合わせて作成）。シリーズ番号は公開用メモの要記入で確認。公開前にこの状態の行ごと削除する。
+> 状態：下書き（要記入6・確認3あり）。有料化版（RULES 5.5／5.6 に合わせて作成）。シリーズ番号は公開用メモの要記入で確認。（2026-10-26 校閲の指摘で修正）公開前にこの状態の行ごと削除する。
 
 こんにちは、セナです。
 
@@ -45,15 +45,15 @@
 でした。
 
 ちょっと面白いのは、「最悪の場合はどれくらいかかりそう？」とも聞いていたことです。
-最悪の場合の見積もりも平均48.6日で、実際より短かった。
-その期間内に終えた人も48.7%で、半分に届いていません。
+最悪の場合の見積もりも平均48.6日で、実際より短めでした（この差は、はっきりした差とまでは言えないそうです）。
+ただ、その最悪の場合の期間内に終えた人も48.7%で、半分に届いていません。
 
 最悪を想定しても、まだ足りない。
 ……なかなかです。
 
 ### 見積もるとき、何を考えているか
 
-同じ論文の別の研究（Study 3）では、見積もるときに頭に浮かんだことを書き出してもらっています。
+同じ論文の別の研究（Study 3）では、見積もるあいだ、頭に浮かんだことを声に出して話してもらい、その中身を分類しています。
 「これからどう進めるか」の筋書きが74%で、「似たことを前にやったときの経験」は7%でした。
 
 つまり、見積もるときは「この作業をこう進める」という先の話ばかり考えていて、「前は実際どれくらいかかったか」をあまり使っていない、という見方です。
@@ -88,10 +88,8 @@
 - 似た課題の過去の経験を思い出して書いてから見積もる
 - 思い出したうえで、「いつもどおりなら今回はいつ終わるか」を書いてから見積もる
 
-見積もりどおりに終えた人は、29.3%、38.1%、60.0%でした（はじめの2つには有意な差なし）。
-3つ目の条件でだけ、短く見積もる偏りが消えています。
-
-ただし、見積もりと実際のずれの大きさは、1.8日、2.0日、1.9日で、どの条件でもほとんど変わりませんでした。
+3つ目の条件でだけ、短く見積もる偏りは消えました。
+でも、見積もりと実際のずれの大きさは、どの条件でもほとんど変わりませんでした（数字は有料部分の最後の整理に入れています）。
 偏りは消えたけど、正確になったわけではない、ということです。
 
 それからこの研究では、学生たちは「いつも締切の約1日前に終えている」と自分で答えていました。
@@ -107,17 +105,15 @@
 
 ### 記憶の中の時間も、ずれることがある
 
-もう一つ、別の見方もあります。
-「人は過去の記憶から未来の時間を予測するけど、その記憶自体が実際より短い。だから未来も短く見積もる」という説明です（Roy, Christenfeld & McKenzie, 2005）。
-
-ただ、これには計画錯誤の研究者からの反論もあって（Griffin & Buehler, 2005）、どちらが主な原因かは決着していません。両方ありうる、というのが今のところです。
+「過去の記憶そのものが実際より短いから、未来も短く見積もる」という説明もあります（Roy, Christenfeld & McKenzie, 2005）。
+計画錯誤の研究者からの反論があり（Griffin & Buehler, 2005）、決着はしていません。再反論した側は、原因はおそらく複数で、両方ありうる、としています（Roy ら, 2005 の再反論）。
 
 ### 測った時間を見せると、予測が良くなった
 
-近い実験として、前回の似た作業に「実際に測った時間」を伝えてから予測してもらうと、予測の正確さが上がった、という研究があります（Roy, Mitten & Christenfeld, 2008。3つの実験）。
-著者は、記憶の中の時間より、測った時間を頼りにしたほうがよく予測できる、とまとめています。
+前回の似た作業に実際にかかった時間や、他の人の平均時間を伝えてから予測してもらうと、3つの実験すべてで予測の正確さが上がった、という研究があります（Roy, Mitten & Christenfeld, 2008）。
+著者は、記憶の中の時間より、測った時間（自分のでも他人のでも）を頼りにしたほうがよく予測できる、とまとめています。
 
-ただし、紙を数える・作文を書く、といった短い作業の実験です。
+ただし、紙を数える・作文を書く、といった短い作業の実験です（3つ目は、一般の人に他の人の平均時間を伝えた実験）。
 何時間・何日もかかる仕事でも同じかは、確かめられていません。
 
 ⸻
@@ -156,20 +152,19 @@
 ## 04｜私の場合
 
 私はADHDの診断を受けていて、知能検査の結果も記事に書いています【🔗リンクを貼る：知能検査の記事】。
-苦手なことの一つは「コツコツ正確に続けること」。
+苦手なことの一つは「コツコツ正確に続けること」（これも、見積もりとは別の話です）。
 全体としては、ADHDでそれほど困っていない、というのが今の私の立場です。
 
 ただ、この記事で「ADHDだから見積もりが甘い」とは書きません。
 
-大人のADHDの時間の感じ方の研究はありますが、調べたものは数秒から長くても数分の「いま経過している時間」を答える実験で、結果もそろっていません（Mette, 2023）。
+大人のADHDの時間の感じ方の研究はありますが、2012〜2022年の大人の研究をまとめたレビューに入ったのは9本と少なく、どれも数秒から長くても数分の「いま経過している時間」を答える実験で、結果もそろっていません（Mette, 2023）。
 何時間・何日かかる仕事の見積もりとは、測っているものが違います。
-知能検査の処理速度と、日常の作業の見積もりのずれを結びつけた研究も、調べた範囲では見つかりませんでした（近い研究では、はっきりした関係は出ていません。Ebaid & Crewther, 2018）。【🟡確認：知能検査で処理速度が低かったことは、この記事では書いていません。「処理速度」という言葉自体を出すかどうか、この段落の書き方で合うか確認してください。出したくなければ、この（ ）ごと削除して「知能検査の結果と〜」に直します】
+知能検査の処理速度と、日常の作業の見積もりのずれを結びつけた研究も、調べた範囲では見つかりませんでした（近いものとして、85秒の課題をあとから振り返って見積もる実験では、処理速度の検査とのはっきりした関係は出ていません。ADHDの研究ではありません。Ebaid & Crewther, 2018）。【🟡確認：知能検査で処理速度が低かったことは、この記事では書いていません。「処理速度」という言葉自体を出すかどうか、この段落の書き方で合うか確認してください。出したくなければ、この（ ）ごと削除して「知能検査の結果と〜」に直します】
 
-01で見たとおり、見積もりのずれ自体は診断の有無に関係なく報告されています。
+01の研究は、診断の有無を問わない一般の学生などが対象で、その人たちにも見積もりのずれは繰り返し報告されています。
 なので、ここは「ADHDの私の話」というより、「見積もりがずれることがある、働く一人の話」として読んでもらえたらと思います。【🟡確認：この線引きがSenaの立場に合うか。違えば、研究の線引きと自分の受け止めを分けて書き直してください】
 
-働き方で言うと、前の会社では、毎日コンスタントな結果を求められていました。
-プロジェクト管理のような、締切を自分で調整できる部署にいたこともあります。
+これまでの働き方で言うと、毎日コンスタントな結果を求められていたこともあれば、プロジェクト管理のような、締切を自分で調整できる部署にいたこともあります。
 
 【✏️要記入：締切の決まり方で、見積もりのつらさが違ったか。（ガイド：「自分で締切を決められるときは〜」「毎日結果が見られるときは〜」のように、働き方の種類だけで十分です。どの会社・チーム・上司だったかは書かない。「あまり違わなかった」でも大丈夫です）】
 
@@ -195,7 +190,7 @@
 ポイントは2つあります。
 
 - 予測は、始める前に書く。終わってから「たぶん1時間くらいだと思ってた」と書くと、記憶で書くことになるので
-- 実際の時間は、その作業が終わったときに書く。1日の終わりにまとめて思い出すと、02の「記憶の中の時間もずれる」話に戻ってしまうので
+- 実際の時間は、その作業が終わったときに書く。1日の終わりにまとめて思い出すと、記憶の中の時間はずれることがある、という研究もあるので
 
 1回だけだと、たまたまかもしれません。
 でも、「予測」と「実際」が並んでいるのを1回見るだけでも、
@@ -416,7 +411,7 @@ Quick update: I'm about halfway through, and [Thursday] still looks realistic.
 
 研究で分かっていることを先に。
 対話型AIが、個人の日々の作業の時間を人より正確に見積もれる、という研究は見つかりませんでした。
-チームのソフトウェア開発で、AIの見積もりツールを使った実験では、作業を分けたり計画したりする支えとしては役に立った、と報告されています（Pavlič ら, 2024）。
+チームのソフトウェア開発で、AIの見積もりツールを使った実験では、作業を分けたり計画したりする支えとしては役に立った一方で、見積もりの正確さは業界の基準には不十分だった、と著者は書いています（Pavlič ら, 2024）。
 
 なので、この記事の線引きは、AIには「抜けを見つける」「計算する」を手伝ってもらって、時間は自分の記録で決める、です（提案です）。
 
@@ -429,7 +424,7 @@ Quick update: I'm about halfway through, and [Thursday] still looks realistic.
 
 〔手順を箇条書きで貼る〕
 
-この手順で抜けていそうなこと（確認、待ち時間、やり直しなど）を、私への質問の形で3つ出してください。
+この手順で抜けていそうなこと（確認、待ち時間、やり直しなど）について、私に3つ質問してください。
 所要時間は書かないでください。手順も書き直さないでください。
 ```
 
@@ -465,17 +460,17 @@ Quick update: I'm about halfway through, and [Thursday] still looks realistic.
 
 ### 分かっていること
 
-- 卒業論文に取り組む学生37人に聞いた研究で、論文を出し終えた33人の見積もりは平均33.9日、実際は55.5日。見積もった期間内に終えたのは29.7%。「最悪の場合」の見積もりでも実際より短かった（Buehler ら, 1994。カナダの心理学の学生）
-- 見積もるときに考えるのは先の筋書きが中心で、過去の経験はあまり使われていなかった（同上 Study 3）
-- 過去を思い出すだけでは変わらず、思い出して今回と結びつけると偏りは消えたが、ずれの大きさは変わらなかった（同上 Study 4）
+- 卒業論文に取り組む学生37人に聞いた研究で、論文を出し終えた33人の見積もりは平均33.9日、実際は55.5日。見積もった期間内に終えたのは29.7%。「最悪の場合」の見積もり（平均48.6日）も実際より短めで（この差は有意ではない）、その期間内に終えたのは48.7%（Buehler ら, 1994。カナダの心理学の学生）
+- 見積もるあいだに声に出して話した内容は、先の筋書きが74%、過去の経験が7%（同上 Study 3）
+- 学生123人の実験で、見積もりどおりに終えたのは、何もしない29.3%、過去を思い出す38.1%（この2つに有意差なし）、思い出して今回と結びつける60.0%。結びつけた条件で偏りは消えたが、ずれの大きさは1.8日・2.0日・1.9日で変わらなかった（同上 Study 4）
 - 悲観的な筋書きを考えさせても、予測は変わらなかった（Newby-Clark ら, 2000）
-- 実際に測った時間を伝えると、予測が良くなった（Roy, Mitten & Christenfeld, 2008。短い作業の実験）
+- 前回の自分の作業の実際の時間や、他の人の平均時間を伝えると、予測が良くなった（Roy, Mitten & Christenfeld, 2008。短い作業の3実験）
 - 見積もりを振り返る時間をとっても、見積もりは正確にならなかった（Jørgensen & Gruschke, 2009。ソフトウェアの専門職20人）
 - 短く見積もる傾向は、いつも起きるわけではない（Halkjelsvik & Jørgensen, 2012／2分未満の作業は長めに見積もられた：Roy & Christenfeld, 2008）
 
 ### 分かっていないこと
 
-- 記憶の中の時間のずれと、計画錯誤のどちらが主な原因か（議論が続いている：Roy ら, 2005／Griffin & Buehler, 2005）
+- 記憶の中の時間のずれと、計画錯誤のどちらが主な原因か（議論が続いている：Roy ら, 2005／Griffin & Buehler, 2005。再反論した側は「両方ありうる」としている）
 - 何時間・何日かかる個人の仕事の作業で、記録を見せる効果が同じように出るか
 - 「自分の倍率」を出す方法や、「2週間」記録することの効果（調べた研究は見つからなかった）
 - 手順に細かく分けると正確になるか（結果がそろっていない）
@@ -495,7 +490,7 @@ Quick update: I'm about halfway through, and [Thursday] still looks realistic.
 
 ## おわりに
 
-見積もりを正確にする方法、を探して調べ始めたんですが、
+この記事は、見積もりを正確にする方法を探すところから始めたんですが、
 研究を読むほど、「正確にする」は思っていたより難しそうだ、という話になりました。
 
 思い出しても、反省しても、最悪を考えても、ずれの大きさはあまり変わらない。
@@ -530,13 +525,14 @@ Quick update: I'm about halfway through, and [Thursday] still looks realistic.
 - Newby-Clark, I. R., Ross, M., Buehler, R., Koehler, D. J., & Griffin, D. (2000). People focus on optimistic scenarios and disregard pessimistic scenarios while predicting task completion times. *Journal of Experimental Psychology: Applied, 6*(3), 171–182.
 - Roy, M. M., Christenfeld, N. J. S., & McKenzie, C. R. M. (2005). Underestimating the duration of future events: Memory incorrectly used or memory bias? *Psychological Bulletin, 131*(5), 738–756.
 - Griffin, D., & Buehler, R. (2005). Biases and fallacies, memories and predictions: Comment on Roy, Christenfeld, and McKenzie (2005). *Psychological Bulletin, 131*(5), 757–760.
+- Roy, M. M., Christenfeld, N. J. S., & McKenzie, C. R. M. (2005). Griffin & Buehler (2005) への再反論. *Psychological Bulletin, 131*(5), 761–762.
 - Roy, M. M., Mitten, S. T., & Christenfeld, N. J. S. (2008). Correcting memory improves accuracy of predicted task duration. *Journal of Experimental Psychology: Applied, 14*(3), 266–275.
-- Jørgensen, M., & Gruschke, T. M. (2009). The Impact of Lessons-Learned Sessions on Effort Estimation and Uncertainty Assessments. *IEEE Transactions on Software Engineering*, 35(3), 368–383. https://doi.org/10.1109/TSE.2009.2
-- Mette, C. (2023). Time Perception in Adult ADHD: Findings from a Decade—A Review. *International Journal of Environmental Research and Public Health*, 20(4), 3098. https://doi.org/10.3390/ijerph20043098
-- Ebaid, D., & Crewther, S. G. (2018). Temporal Aspects of Memory: A Comparison of Memory Performance, Processing Speed and Time Estimation Between Young and Older Adults. *Frontiers in Aging Neuroscience*, 10, 352. https://doi.org/10.3389/fnagi.2018.00352
+- Jørgensen, M., & Gruschke, T. M. (2009). The Impact of Lessons-Learned Sessions on Effort Estimation and Uncertainty Assessments. *IEEE Transactions on Software Engineering, 35*(3), 368–383.
+- Mette, C. (2023). Time Perception in Adult ADHD: Findings from a Decade—A Review. *International Journal of Environmental Research and Public Health, 20*(4), 3098.
+- Ebaid, D., & Crewther, S. G. (2018). Temporal Aspects of Memory: A Comparison of Memory Performance, Processing Speed and Time Estimation Between Young and Older Adults. *Frontiers in Aging Neuroscience, 10*, 352.
 - Wiese, J., Buehler, R., & Griffin, D. (2016). Backward planning: Effects of planning direction on predictions of task completion time. *Judgment and Decision Making, 11*(2), 147–167.
 - Jørgensen, M. (2004). A review of studies on expert estimation of software development effort. *Journal of Systems and Software, 70*(1–2), 37–60.
-- Pavlič, L., Saklamaeva, V., & Beranič, T. (2024). Can Large-Language Models Replace Humans in Agile Effort Estimation? Lessons from a Controlled Experiment. *Applied Sciences*, 14(24), 12006. https://doi.org/10.3390/app142412006
+- Pavlič, L., Saklamaeva, V., & Beranič, T. (2024). Can Large-Language Models Replace Humans in Agile Effort Estimation? Lessons from a Controlled Experiment. *Applied Sciences, 14*(24), 12006.
 
 ⸻
 
@@ -560,7 +556,8 @@ Quick update: I'm about halfway through, and [Thursday] still looks realistic.
   - Moløkken 2003 はプロジェクト単位と明記。Standish の数字、税金還付の例、Kruger & Evans の数値、Pavlič の16%、Buehler ら 2010 の章の中身、学会抄録は使っていません
   - 倍率・2週間・件数はすべて「この記事の提案・目安」と明記。計算例の数字は架空と明記し、1.5倍は避けています
   - 「計画錯誤」の名前の由来（Kahneman & Tversky 1979）は原典未読のため書いていません
-- 公開前の確認：印なしで使ったSenaの事実は、ADHDの診断、知能検査の結果を記事に書いていること、苦手なことの一つが「コツコツ正確に続けること」、「ADHDでそれほど困っていない」という立場、前の会社で毎日コンスタントな結果を求められていたこと、締切を自分で調整できる部署にいたこと（RULES.md の「Senaについて」）だけです
+- 公開前の確認：印なしで使ったSenaの事実は、ADHDの診断、知能検査の結果を記事に書いていること、苦手なことの一つが「コツコツ正確に続けること」、「ADHDでそれほど困っていない」という立場、毎日コンスタントな結果を求められていたことがあること、締切を自分で調整できる部署にいたことがあること（RULES.md の「Senaについて」）だけです。RULES.md では部署が「どちらの会社かは公開記事で書かれていない」ため、04では「前の会社」を外し、会社と部署を結びつけない書き方にしています（校閲の指摘で修正）
+- 参考文献：DOI は research.md で全件そろっていないため、すべて外して形式をそろえました。Roy ら 2005 の再反論は research.md に題名がないため、題名の代わりに「Griffin & Buehler (2005) への再反論」と書いています。公開前に題名を確かめられれば差し替えてください
 - 関連記事の案内（`## 次に読むなら`）は note-related-guide が入れた（related.md）。終業前5分は本文からはリンクせず、記録のタイミングが違う「1日の終わりに閉じる」記事として案内だけに入れている。知能検査の記事は本文のリンクと重ねないよう案内に入れていない
 - 関連記事の案内は有料部分の最後にある。無料の読者にも見せたいときは【ここから有料】の直前に移す
 

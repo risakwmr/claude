@@ -210,5 +210,9 @@
   "13-highlight": {
     "episode": 13,
     "reported": true
+  },
+  "8-ai": {
+    "episode": 8,
+    "reported": true
   }
 }

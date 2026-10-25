@@ -1,0 +1,96 @@
+DANIEL: Bienvenue dans Human Curriculum. Je suis Daniel Reed, People Manager à Seattle.
+SENA: Et moi, c'est Sena Sato, associée à Tokyo. La dernière fois, on a parlé de donner du feedback avec SBI. Situation, comportement, impact. Et aujourd'hui, c'était uniquement des compliments, sans « mais ».
+DANIEL: Et aujourd'hui, on parle de sécurité psychologique. Mais d'abord, le défi. Tu devais aller au bureau de Ryo avant le déjeuner. Comment ça s'est passé ?
+SENA: J'ai failli ne pas le faire. Je me suis levée deux fois et je me suis rassise. Puis je me suis dit : « Ce sont trois phrases, Sena. Tu peux dire trois phrases. »
+DANIEL: Te parler à toi-même par ton prénom. J'aime bien.
+SENA: Alors j'y suis allée et je l'ai dit doucement. « Hier matin, avant le lancement, tu es arrivé à sept heures et tu as lancé ton script de vérification. Tu as trouvé le problème dans la région deux et tu l'as corrigé. Grâce à ça, le dashboard a été lancé sans aucun chiffre faux, et j'ai enfin pu arrêter de m'inquiéter. »
+DANIEL: Et qu'est-ce que Ryo a fait ?
+SENA: Au début, il a fait le coup japonais. « Non, non, ce n'était rien. » Mais ensuite il s'est arrêté et a demandé : « Comment tu savais pour la région deux ? » J'ai dit : « J'ai lu ton message de commit. » Et il a ri et il a dit : « Personne ne lit ça. »
+DANIEL: Maintenant, quelqu'un les lit.
+SENA: Ensuite, j'ai envoyé les trois mêmes phrases dans un message. Environ une heure plus tard, il a répondu. Il a dit qu'il allait les mettre dans ses notes pour son évaluation de mi-année. Un pouce levé hier, et une vraie réponse aujourd'hui.
+DANIEL: C'est ça, la différence entre « beau travail » et un compliment précis. Il peut utiliser le tien. Et Sena, comment tu t'es sentie, toi ?
+SENA: Boothby et Bohns avaient raison. J'étais nerveuse avant, et après, je me suis sentie heureuse tout le reste de la matinée. Plus que je ne l'imaginais.
+DANIEL: Bien. Garde cette sensation. Parce que le sujet d'aujourd'hui demande aussi un peu de courage. Alors, qu'est-ce qui s'est passé ?
+SENA: Cet après-midi, Kato-san a organisé un court bilan du lancement. Quinze minutes, toute l'équipe. Il a commencé par dire : « Le lancement s'est bien passé. Y a-t-il eu des problèmes, ou des choses à faire autrement pour les prochaines régions ? »
+DANIEL: Une bonne question.
+SENA: Une très bonne question. Et puis il y a eu un silence. Dix secondes, peut-être. On aurait dit une minute. Tout le monde regardait son ordinateur. Puis Kato-san a dit : « Bon, il semble que tout se soit bien passé », et on est passés au planning.
+DANIEL: Et tout s'était bien passé ?
+SENA: Non. Pas tout. J'ai fait une erreur. Dans les notes de lancement que j'ai envoyées à Mark à Seattle, j'ai écrit la mauvaise période pour la région deux. J'ai écrit le premier septembre, mais les données commencent en réalité le huit septembre. Je l'ai remarqué le lendemain matin et j'ai corrigé le document discrètement. Je crois que personne ne l'a vu.
+DANIEL: Donc tu avais une petite erreur, et le moment parfait pour la mentionner. Et tu es restée silencieuse.
+SENA: Oui. Et c'est pire, parce que je n'étais pas la seule. Kenta, le collègue qui relit mes analyses, a ouvert la bouche comme s'il voulait dire quelque chose. Puis il l'a refermée. Je l'ai vu. Et après la réunion, il m'a dit : « Il y avait un truc bizarre dans les filtres de la région un, mais ce n'est probablement rien. »
+DANIEL: Donc il y avait au moins deux choses dont l'équipe pouvait tirer des leçons, et la réunion en a entendu zéro.
+SENA: Exactement. Et je n'arrête pas de me demander pourquoi. Kato-san ne fait pas peur. Personne ne nous crierait dessus. Mais personne n'a parlé.
+DANIEL: C'est une excellente question, et ce qui manquait dans cette salle a un nom. La sécurité psychologique. Laisse-moi te présenter deux études.
+SENA: Mon carnet est prêt.
+DANIEL: La première est d'Amy Edmondson, professeure à la Harvard Business School. En 1999, elle a publié un article dans Administrative Science Quarterly intitulé « Psychological Safety and Learning Behavior in Work Teams. » Elle a étudié cinquante et une équipes de travail dans une entreprise industrielle.
+SENA: C'est quoi exactement, la sécurité psychologique ? Les gens utilisent beaucoup cette expression.
+DANIEL: Edmondson la décrit comme une croyance partagée dans une équipe qu'il est sans danger de prendre des risques relationnels. Des risques comme poser une question qui pourrait sembler bête, admettre une erreur, ou dire : « Je pense que quelque chose ne va pas. »
+SENA: Donc il ne s'agit pas d'être gentils les uns avec les autres.
+DANIEL: Exact. Une équipe peut être très polie et pourtant ne pas être sûre. Ton équipe aujourd'hui y ressemble. Des gens gentils, personne qui crie, et pourtant, le silence.
+SENA: Qu'est-ce qu'elle a trouvé ?
+DANIEL: Les équipes avec plus de sécurité psychologique montraient plus de comportements d'apprentissage. Demander du feedback, parler des erreurs, tester leurs hypothèses. Et ces comportements d'apprentissage étaient liés à une meilleure performance de l'équipe. Elle a aussi regardé le sentiment d'efficacité collective, c'est-à-dire la confiance de l'équipe dans sa capacité à faire le travail. Une fois la sécurité psychologique prise en compte, la confiance seule n'était pas liée à l'apprentissage.
+SENA: Donc une équipe confiante n'apprend pas automatiquement. Une équipe en sécurité, si.
+DANIEL: C'est l'idée. Maintenant, la prudence. C'était une seule entreprise, et une grande partie venait de questionnaires à un seul moment. Cela montre donc un lien fort, pas la preuve que la sécurité cause l'apprentissage. Mais depuis, c'est l'une des idées les plus influentes de la recherche sur le travail d'équipe.
+SENA: D'accord. Mais comment on rend une équipe sûre ? Je ne suis pas la manager. Je ne peux pas changer la culture.
+DANIEL: C'est là qu'intervient la deuxième étude. Bradley Owens, Michael Johnson et Terence Mitchell l'ont publiée en 2013 dans Organization Science. Le titre est « Expressed Humility in Organizations. » Dans l'une de leurs études, sept cent quatre employés ont évalué deux cent dix-huit dirigeants.
+SENA: L'humilité. Comme être modeste ?
+DANIEL: Un peu plus précis que ça. Ils décrivent l'humilité exprimée comme trois choses. Être prêt à se voir avec justesse, ce qui inclut admettre ses limites et ses erreurs. Apprécier les forces des autres. Et être ouvert à l'apprentissage, prêt à apprendre des autres.
+SENA: Et qu'est-ce que les dirigeants humbles obtenaient ?
+DANIEL: Leurs équipes rapportaient une orientation vers l'apprentissage plus forte et, grâce à elle, un engagement plus élevé. Leurs collaborateurs étaient aussi plus satisfaits de leur travail, et moins susceptibles de partir. Encore une fois, c'est une corrélation. Ils n'ont pas rendu certains dirigeants humbles au hasard. Mais le schéma est clair.
+SENA: Mais Daniel, c'étaient des dirigeants. Moi, je suis associée.
+DANIEL: C'est vrai. L'étude portait sur des dirigeants, et je l'étire un peu. Mais pense à ce qui s'est passé dans ta réunion. Tout le monde attendait. Attendait de voir s'il était vraiment sûr de dire quelque chose. À ce moment-là, la première personne qui admet une erreur change la salle. Et cette personne n'a pas besoin d'un titre.
+SENA: Donc quelqu'un doit passer en premier.
+DANIEL: Quelqu'un doit passer en premier. Et souvent, la personne qui remarque le silence est la bonne.
+SENA: D'accord. Notre question habituelle. Pourquoi l'IA ne peut pas faire ça ? L'IA est très douée pour admettre ses erreurs. Elle s'excuse tout le temps.
+DANIEL: Oui. Et c'est justement mon point. Quand l'IA dit « j'ai fait une erreur », ça ne coûte rien. Personne dans la réunion ne pense moins bien d'elle, et elle n'est pas nerveuse. Quand c'est toi qui le dis, ça coûte quelque chose. Un peu d'amour-propre, un peu de risque. Et c'est exactement pour ça que ça marche. Tes collègues te voient prendre le risque et t'en sortir. Pour eux, c'est la preuve qu'on peut le faire sans danger.
+SENA: Donc le courage, c'est le message.
+DANIEL: Exactement. Et il y a une deuxième partie. L'IA n'était pas dans la salle. Elle n'a pas vu Kenta ouvrir la bouche puis la refermer. Remarquer ça, c'est la conscience sociale. C'est lire ce que le silence signifie, pas seulement l'entendre.
+SENA: Tu as une histoire d'échec là-dessus ? J'ai l'impression que oui.
+DANIEL: Oui, et ce n'est pas mon moment le plus glorieux. Ma première année comme manager, j'ai dit à mon équipe : « Ma porte est toujours ouverte. Apportez-moi n'importe quel problème. » Je l'ai dit dès ma toute première réunion d'équipe. J'en étais fier.
+SENA: Ça sonne bien.
+DANIEL: Les mots étaient bons. Quelques semaines plus tard, une ingénieure junior nommée Grace m'a dit pendant une réunion d'équipe qu'un test échouait depuis une semaine, et qu'elle ne l'avait pas signalé. Et j'ai dit, devant tout le monde : « Une semaine ? Comment ça a pu passer la revue ? »
+SENA: Oh non.
+DANIEL: Je n'ai pas crié. J'ai juste eu l'air surpris et un peu agacé. Et j'ai pensé que l'affaire était close. Mais après ça, plus personne ne m'apportait de petits problèmes. Pendant trois mois, chaque point d'avancement était au vert. Tout allait bien.
+SENA: Jusqu'à ce que non.
+DANIEL: Jusqu'à ce qu'un release échoue un vendredi soir, à cause d'un problème que deux personnes avaient remarqué des semaines avant. L'une d'elles m'a dit plus tard : « Après ce qui s'est passé avec Grace, je ne voulais pas être la suivante. »
+SENA: Une phrase, et toute l'équipe a appris la règle.
+DANIEL: Une réaction. Les équipes n'apprennent pas de ce que tu dis sur une diapo. Elles apprennent de ce qui arrive à la première personne qui prend un risque. Ma porte était ouverte, mais mon visage était fermé.
+SENA: Qu'est-ce que tu as changé ?
+DANIEL: Deux choses. Je me suis excusé auprès de Grace et de l'équipe. Et j'ai commencé chaque rétrospective en partageant d'abord une erreur à moi. Des petites. Une réunion planifiée à la mauvaise heure. Un message écrit trop vite. En un mois, les gens ont commencé à ajouter les leurs.
+SENA: C'est très intéressant, parce que je pense que c'est encore plus difficile au Japon. Je peux t'expliquer ?
+DANIEL: Je t'en prie.
+SENA: Dans beaucoup d'entreprises japonaises, une erreur peut donner l'impression de causer des ennuis à tout le groupe. On appelle ça meiwaku. Alors on s'excuse beaucoup. « Moushiwake gozaimasen. » Mais de grandes excuses, ce n'est pas la même chose qu'un compte rendu utile. Parfois, après une erreur, les gens disent pardon plein de fois, mais personne ne parle de la raison pour laquelle c'est arrivé.
+DANIEL: Donc les excuses peuvent en fait mettre fin à la conversation.
+SENA: Oui. Et en réunion, les juniors attendent souvent que les seniors parlent en premier. Alors quand le manager demande : « Des problèmes ? », les juniors attendent les seniors, et les seniors attendent le manager. Tout le monde attend.
+DANIEL: Ce sont les dix secondes que tu as ressenties.
+SENA: Exactement. Mais on a aussi une forte tradition de réflexion après un projet. Hansei. Quand c'est bien fait, c'est très puissant.
+DANIEL: Aux États-Unis, je pense qu'on a le problème inverse, d'une certaine manière. Les gens adorent dire « fail fast » et « on célèbre l'échec ». C'est sur des affiches. Mais ensuite viennent les évaluations de performance, et les gens apprennent à cacher tout ce qui a l'air mauvais. Donc les mots sont courageux, et le comportement est prudent.
+SENA: Donc au Japon, on s'excuse beaucoup. Aux États-Unis, vous dites beaucoup « fail fast ». Et dans les deux endroits, les gens cachent les petites erreurs.
+DANIEL: C'est un peu simpliste, et chaque équipe est différente. Mais je pense que c'est vrai assez souvent. Et dans les deux cas, la solution est la même. Quelqu'un passe en premier, avec quelque chose de petit et de vrai.
+SENA: Alors, c'est quelle compétence d'EQ ? J'ai l'impression que ça pourrait être plusieurs.
+DANIEL: Aujourd'hui, je dirais la conscience sociale. Lire le climat d'un groupe. Remarquer qui se tait, et pourquoi. Remarquer que le silence ne veut pas dire « tout va bien », mais « personne ne veut passer en premier ». Et ensuite, ton action, passer en premier, construit aussi le côté relationnel.
+SENA: La conscience sociale. Lire le silence, pas seulement les mots.
+DANIEL: Joliment dit. Maintenant, Speaking Lab. Trois phrases pour passer en premier en réunion. Je dis chacune, et tu la répètes. Vous qui écoutez, mettez en pause et dites-la à voix haute avec Sena.
+SENA: Prête.
+DANIEL: « Je vais commencer. Voici une petite erreur que j'ai faite cette semaine. »
+SENA: Je vais commencer. Voici une petite erreur que j'ai faite cette semaine.
+DANIEL: « J'ai écrit la mauvaise période, et je l'ai corrigée le lendemain matin. »
+SENA: J'ai écrit la mauvaise période, et je l'ai corrigée le lendemain matin.
+DANIEL: « Qu'est-ce qu'on devrait faire autrement pour le prochain lancement ? »
+SENA: Qu'est-ce qu'on devrait faire autrement pour le prochain lancement ?
+DANIEL: Super. Maintenant, un résumé. En une trentaine de secondes, dis-moi les points principaux d'aujourd'hui avec tes propres mots.
+SENA: D'accord. La sécurité psychologique, c'est quand une équipe croit qu'il est sans danger de prendre des risques, comme poser des questions ou admettre des erreurs. Edmondson a trouvé que les équipes avec plus de sécurité apprenaient plus, et que l'apprentissage était lié à, euh, une meilleure performance. Owens et ses collègues ont trouvé que les dirigeants humbles, qui admettent leurs erreurs et apprennent des autres, avaient des équipes qui apprenaient plus. Donc quand une salle est silencieuse, quelqu'un doit passer en premier. Et ça peut être moi.
+DANIEL: C'était clair, et tu t'es corrigée sans t'arrêter. À vous maintenant. En quarante secondes, répondez à ceci : quelle petite erreur de votre semaine pourriez-vous partager avec votre équipe, et qu'en avez-vous appris ? Mettez l'audio en pause et parlez.
+SENA: C'est une question très personnelle.
+DANIEL: Oui. C'est pour ça que c'est un entraînement. Le défi d'aujourd'hui, c'est de partager d'abord une petite erreur à vous, aujourd'hui. En réunion, en tête-à-tête ou dans le chat de l'équipe. Une erreur petite et vraie, dites ce que vous en avez appris, puis invitez les autres. « Quelqu'un d'autre a déjà rencontré un truc comme ça ? »
+SENA: Kato-san a la réunion de planification de la région trois à seize heures. Je vais commencer par mon erreur de période, puis demander : « Quelqu'un d'autre a remarqué quelque chose lors du premier lancement ? » Et je vais regarder Kenta.
+DANIEL: Avec bienveillance.
+SENA: Avec bienveillance. Pas comme un détective.
+DANIEL: Parfait. Tu donnes une porte à Kenta, et c'est toi qui l'ouvres.
+SENA: Daniel, je peux te dire une dernière chose ? Ça me trotte dans la tête toute la journée.
+DANIEL: Bien sûr.
+SENA: Ryo est encore arrivé à sept heures ce matin. Et hier. Et je crois avant-hier aussi. Pas seulement le jour du lancement. Et sa partie du fichier de la région trois a deux jours de retard. Je n'ai rien dit. Je viens de le féliciter hier, donc ça fait bizarre de dire : « Ta partie est en retard. »
+DANIEL: C'est une vraie situation, et c'est exactement notre prochain sujet. Épisode quinze, le dernier de notre première saison. « La conversation difficile. » Comment dire ce que tu évites depuis un moment, en une phrase, et comment commencer en demandant : « Comment tu vas, vraiment ? »
+SENA: Je crois que j'ai besoin de cet épisode.
+DANIEL: Alors tu seras prête. Merci d'avoir écouté Human Curriculum. Je suis Daniel.
+SENA: Et moi, c'est Sena. Quelqu'un doit passer en premier. À la prochaine.

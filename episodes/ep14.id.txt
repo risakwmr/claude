@@ -1,0 +1,96 @@
+DANIEL: Selamat datang kembali di Human Curriculum. Saya Daniel Reed, People Manager di Seattle.
+SENA: Dan aku Sena Sato, Associate di Tokyo. Terakhir kali, kita membahas cara memberi feedback dengan SBI. Situasi, perilaku, dampak. Dan hari ini isinya hanya pujian, tanpa "tapi".
+DANIEL: Dan hari ini, kita membahas rasa aman psikologis. Tapi pertama, tantangannya. Kamu mau datang ke meja Ryo sebelum makan siang. Bagaimana hasilnya?
+SENA: Aku hampir tidak jadi. Aku berdiri dua kali lalu duduk lagi. Lalu aku berpikir, "Ini cuma tiga kalimat, Sena. Kamu pasti bisa tiga kalimat."
+DANIEL: Bicara pada diri sendiri dengan menyebut nama. Aku suka.
+SENA: Jadi aku datang dan mengatakannya dengan pelan. "Kemarin pagi sebelum peluncuran, kamu datang jam tujuh dan menjalankan script pengecekanmu. Kamu menemukan masalah di region dua dan memperbaikinya. Karena itu, dashboard diluncurkan tanpa satu pun angka yang salah, dan akhirnya aku bisa berhenti khawatir."
+DANIEL: Dan apa yang dilakukan Ryo?
+SENA: Awalnya, dia bersikap ala orang Jepang. "Ah, tidak, bukan apa-apa." Tapi lalu dia berhenti dan bertanya, "Kamu tahu soal region dua dari mana?" Aku jawab, "Aku baca commit message-mu." Dan dia tertawa dan bilang, "Tidak ada yang baca itu."
+DANIEL: Sekarang ada.
+SENA: Lalu aku kirim tiga kalimat yang sama lewat pesan. Sekitar satu jam kemudian, dia membalas. Katanya dia akan memasukkannya ke catatannya untuk evaluasi tengah tahun. Kemarin hanya jempol, dan hari ini balasan yang sungguhan.
+DANIEL: Itulah bedanya antara "kerja bagus" dan pujian yang spesifik. Dia bisa memakai pujianmu. Dan Sena, bagaimana rasanya bagimu?
+SENA: Boothby dan Bohns benar. Aku gugup sebelumnya, dan sesudahnya aku merasa senang sepanjang sisa pagi. Lebih dari yang kuduga.
+DANIEL: Bagus. Pegang perasaan itu. Karena topik hari ini juga butuh sedikit keberanian. Jadi, apa yang terjadi?
+SENA: Sore ini, Kato-san mengadakan review singkat soal peluncuran. Lima belas menit, seluruh tim. Dia mulai dengan bilang, "Peluncurannya berjalan baik. Apakah ada masalah, atau sesuatu yang sebaiknya kita lakukan berbeda untuk region berikutnya?"
+DANIEL: Pertanyaan yang bagus.
+SENA: Pertanyaan yang sangat bagus. Lalu hening. Mungkin sepuluh detik. Rasanya seperti semenit. Semua orang menatap laptop. Lalu Kato-san bilang, "Baik, sepertinya semuanya berjalan lancar," dan kami lanjut ke jadwal.
+DANIEL: Dan apakah semuanya berjalan lancar?
+SENA: Tidak. Tidak semuanya. Aku membuat kesalahan. Di catatan peluncuran yang kukirim ke Mark di Seattle, aku menulis rentang tanggal region dua yang salah. Aku menulis satu September, padahal datanya sebenarnya mulai delapan September. Aku sadar keesokan paginya dan memperbaiki dokumennya diam-diam. Kurasa tidak ada yang melihat.
+DANIEL: Jadi kamu punya kesalahan kecil, dan kamu punya momen yang sempurna untuk menyebutkannya. Dan kamu diam saja.
+SENA: Iya. Dan lebih parahnya, bukan hanya aku. Kenta, rekan tim yang mereview analisisku, membuka mulut seperti ingin mengatakan sesuatu. Lalu menutupnya lagi. Aku melihatnya. Dan setelah rapat, dia bilang padaku, "Ada yang aneh di filter region satu, tapi mungkin bukan apa-apa."
+DANIEL: Jadi ada setidaknya dua hal yang bisa dipelajari tim, dan rapat itu mendengar nol.
+SENA: Tepat. Dan aku terus memikirkan, kenapa? Kato-san tidak menakutkan. Tidak ada yang akan membentak kami. Tapi tidak ada yang bicara.
+DANIEL: Itu pertanyaan yang bagus, dan apa yang kurang di ruangan itu ada namanya. Rasa aman psikologis. Biar kuceritakan dua studi.
+SENA: Bukuku sudah siap.
+DANIEL: Yang pertama dari Amy Edmondson, profesor di Harvard Business School. Tahun 1999, dia menerbitkan makalah di Administrative Science Quarterly berjudul "Psychological Safety and Learning Behavior in Work Teams." Dia meneliti lima puluh satu tim kerja di sebuah perusahaan manufaktur.
+SENA: Rasa aman psikologis itu sebenarnya apa? Orang-orang sering memakai istilah itu.
+DANIEL: Edmondson menjelaskannya sebagai keyakinan bersama dalam sebuah tim bahwa aman untuk mengambil risiko antarpribadi. Risiko seperti bertanya hal yang mungkin terdengar bodoh, mengakui kesalahan, atau berkata, "Kurasa ada yang salah."
+SENA: Jadi ini bukan soal saling bersikap baik.
+DANIEL: Benar. Sebuah tim bisa sangat sopan dan tetap tidak aman. Timmu hari ini terdengar seperti itu. Orang-orang baik, tidak ada yang membentak, dan tetap hening.
+SENA: Apa yang dia temukan?
+DANIEL: Tim dengan rasa aman psikologis yang lebih tinggi menunjukkan lebih banyak perilaku belajar. Meminta feedback, membicarakan kesalahan, menguji asumsi mereka. Dan perilaku belajar itu berhubungan dengan kinerja tim yang lebih baik. Dia juga meneliti efikasi tim, yaitu keyakinan tim bahwa mereka mampu mengerjakan tugasnya. Setelah rasa aman psikologis diperhitungkan, rasa percaya diri saja tidak berhubungan dengan belajar.
+SENA: Jadi tim yang percaya diri tidak otomatis belajar. Tim yang aman, iya.
+DANIEL: Itulah idenya. Sekarang, catatannya. Ini hanya satu perusahaan, dan sebagian besar datanya dari survei pada satu waktu. Jadi ini menunjukkan hubungan yang kuat, bukan bukti bahwa rasa aman menyebabkan belajar. Tapi sejak itu, ini menjadi salah satu gagasan paling berpengaruh dalam penelitian kerja tim.
+SENA: Oke. Tapi bagaimana membuat sebuah tim jadi aman? Aku bukan manajernya. Aku tidak bisa mengubah budaya.
+DANIEL: Di situlah studi kedua masuk. Bradley Owens, Michael Johnson, dan Terence Mitchell menerbitkannya tahun 2013 di Organization Science. Judulnya "Expressed Humility in Organizations." Dalam salah satu studi mereka, tujuh ratus empat karyawan menilai dua ratus delapan belas pemimpin.
+SENA: Kerendahan hati. Seperti bersikap sederhana?
+DANIEL: Sedikit lebih spesifik dari itu. Mereka menjelaskan kerendahan hati yang diekspresikan sebagai tiga hal. Mau melihat diri sendiri secara akurat, termasuk mengakui keterbatasan dan kesalahan. Menghargai kekuatan orang lain. Dan mau diajari, terbuka untuk belajar dari orang lain.
+SENA: Dan apa yang didapat para pemimpin yang rendah hati?
+DANIEL: Tim mereka melaporkan orientasi belajar yang lebih kuat, dan melalui itu, keterlibatan yang lebih tinggi. Anak buah mereka juga lebih puas dengan pekerjaannya, dan lebih kecil kemungkinannya untuk resign. Sekali lagi, ini korelasi. Mereka tidak membuat sebagian pemimpin menjadi rendah hati secara acak. Tapi polanya jelas.
+SENA: Tapi Daniel, itu semua pemimpin. Aku Associate.
+DANIEL: Benar. Studinya tentang pemimpin, dan aku sedikit memperluasnya. Tapi pikirkan apa yang terjadi di rapatmu. Semua orang menunggu. Menunggu untuk melihat apakah benar-benar aman untuk bicara. Pada saat itu, orang pertama yang mengakui kesalahan mengubah suasana ruangan. Dan orang itu tidak butuh jabatan.
+SENA: Jadi harus ada yang maju lebih dulu.
+DANIEL: Harus ada yang maju lebih dulu. Dan sering kali, orang yang menyadari keheningan itulah orang yang tepat.
+SENA: Oke. Pertanyaan kita yang biasa. Kenapa AI tidak bisa melakukan ini? AI sangat pandai mengakui kesalahan. Dia minta maaf terus.
+DANIEL: Betul. Dan itu justru poinku. Saat AI berkata "saya membuat kesalahan", itu tidak membutuhkan biaya apa pun. Tidak ada yang di rapat berpikir buruk tentangnya, dan dia tidak merasa gugup. Saat kamu mengatakannya, ada biayanya. Sedikit gengsi, sedikit risiko. Dan itulah yang membuatnya berhasil. Rekan-rekanmu melihat kamu mengambil risiko dan baik-baik saja. Itu bukti bagi mereka bahwa ini aman.
+SENA: Jadi keberanian itulah pesannya.
+DANIEL: Tepat. Dan ada bagian kedua. AI tidak ada di ruangan itu. Dia tidak melihat Kenta membuka mulut lalu menutupnya lagi. Menyadari hal itu adalah kesadaran sosial. Itu membaca apa arti keheningan, bukan hanya mendengarnya.
+SENA: Kamu punya cerita kegagalan soal ini? Rasanya kamu punya.
+DANIEL: Punya, dan bukan momen yang paling kubanggakan. Di tahun pertamaku jadi manajer, aku bilang ke timku, "Pintuku selalu terbuka. Bawa masalah apa pun padaku." Aku mengatakannya di rapat tim yang paling pertama. Aku bangga dengan itu.
+SENA: Kedengarannya bagus.
+DANIEL: Kata-katanya bagus. Beberapa minggu kemudian, seorang engineer junior bernama Grace bilang padaku di rapat tim bahwa sebuah test sudah gagal selama seminggu, dan dia belum melaporkannya. Dan aku berkata, di depan semua orang, "Seminggu? Bagaimana ini bisa lolos dari review?"
+SENA: Aduh.
+DANIEL: Aku tidak berteriak. Aku hanya terdengar kaget dan sedikit kesal. Dan kupikir urusannya selesai. Tapi setelah itu, tidak ada yang membawa masalah kecil padaku. Selama tiga bulan, setiap laporan status berwarna hijau. Semuanya baik-baik saja.
+SENA: Sampai ternyata tidak.
+DANIEL: Sampai sebuah release gagal pada Jumat malam, karena masalah yang sudah disadari dua orang beberapa minggu sebelumnya. Salah satunya bilang padaku nanti, "Setelah apa yang terjadi pada Grace, aku tidak mau jadi yang berikutnya."
+SENA: Satu kalimat, dan seluruh tim belajar aturannya.
+DANIEL: Satu reaksi. Tim tidak belajar dari apa yang kamu katakan di slide. Mereka belajar dari apa yang terjadi pada orang pertama yang mengambil risiko. Pintuku terbuka, tapi wajahku tertutup.
+SENA: Apa yang kamu ubah?
+DANIEL: Dua hal. Aku minta maaf pada Grace, dan pada tim. Dan aku mulai setiap retrospektif dengan membagikan satu kesalahanku sendiri lebih dulu. Yang kecil-kecil. Rapat yang kujadwalkan di jam yang salah. Pesan yang kutulis terlalu terburu-buru. Dalam sebulan, orang-orang mulai menambahkan kesalahan mereka.
+SENA: Itu menarik sekali, karena kurasa di Jepang lebih sulit lagi. Boleh aku jelaskan?
+DANIEL: Silakan.
+SENA: Di banyak perusahaan Jepang, sebuah kesalahan bisa terasa seperti kita merepotkan seluruh kelompok. Kami menyebutnya meiwaku. Jadi kami sering sekali minta maaf. "Moushiwake gozaimasen." Tapi permintaan maaf yang besar berbeda dengan laporan yang berguna. Kadang, setelah kesalahan, orang minta maaf berkali-kali, tapi tidak ada yang membicarakan kenapa itu terjadi.
+DANIEL: Jadi permintaan maaf justru bisa mengakhiri percakapan.
+SENA: Iya. Dan di rapat, orang junior sering menunggu orang senior bicara dulu. Jadi saat manajer bertanya, "Ada masalah?", orang junior menunggu orang senior, dan orang senior menunggu manajer. Semua orang menunggu.
+DANIEL: Itulah sepuluh detik yang kamu rasakan.
+SENA: Tepat. Tapi kami juga punya tradisi kuat untuk refleksi setelah sebuah proyek. Hansei. Kalau dilakukan dengan baik, itu sangat ampuh.
+DANIEL: Di AS, menurutku kami punya masalah yang sebaliknya, dalam satu hal. Orang suka sekali bilang "fail fast" dan "kami merayakan kegagalan". Itu ada di poster. Tapi lalu tiba waktu penilaian kinerja, dan orang belajar menyembunyikan apa pun yang terlihat buruk. Jadi kata-katanya berani, dan perilakunya hati-hati.
+SENA: Jadi di Jepang, kami sering minta maaf. Di AS, kalian sering bilang "fail fast". Dan di dua tempat itu, orang menyembunyikan kesalahan kecil.
+DANIEL: Itu agak terlalu sederhana, dan setiap tim berbeda. Tapi kurasa itu cukup sering benar. Dan di dua tempat itu, solusinya sama. Seseorang maju lebih dulu, dengan sesuatu yang kecil dan nyata.
+SENA: Jadi ini keterampilan EQ yang mana? Rasanya bisa banyak.
+DANIEL: Hari ini, aku akan menyebutnya kesadaran sosial. Membaca suasana sebuah kelompok. Menyadari siapa yang diam, dan kenapa. Menyadari bahwa keheningan itu bukan "semuanya baik-baik saja", tapi "tidak ada yang mau maju lebih dulu". Lalu tindakanmu, maju lebih dulu, juga membangun sisi hubungan.
+SENA: Kesadaran sosial. Membaca keheningan, bukan hanya kata-kata.
+DANIEL: Diungkapkan dengan indah. Sekarang, Speaking Lab. Tiga kalimat untuk maju lebih dulu di rapat. Aku akan mengucapkan satu per satu, dan kamu mengulanginya. Pendengar, jeda dulu dan ucapkan dengan lantang bersama Sena.
+SENA: Siap.
+DANIEL: "Saya duluan. Ini satu kesalahan kecil yang saya buat minggu ini."
+SENA: Saya duluan. Ini satu kesalahan kecil yang saya buat minggu ini.
+DANIEL: "Saya salah menulis rentang tanggal, dan saya memperbaikinya keesokan paginya."
+SENA: Saya salah menulis rentang tanggal, dan saya memperbaikinya keesokan paginya.
+DANIEL: "Apa satu hal yang sebaiknya kita lakukan berbeda untuk peluncuran berikutnya?"
+SENA: Apa satu hal yang sebaiknya kita lakukan berbeda untuk peluncuran berikutnya?
+DANIEL: Bagus sekali. Sekarang, menceritakan ulang. Dalam sekitar tiga puluh detik, ceritakan poin utama hari ini dengan kata-katamu sendiri.
+SENA: Oke. Rasa aman psikologis berarti sebuah tim yakin bahwa aman untuk mengambil risiko, seperti bertanya atau mengakui kesalahan. Edmondson menemukan bahwa tim dengan rasa aman lebih tinggi belajar lebih banyak, dan belajar itu berhubungan dengan, eh, kinerja yang lebih baik. Owens dan rekan-rekannya menemukan bahwa pemimpin yang rendah hati, yang mengakui kesalahan dan belajar dari orang lain, punya tim yang belajar lebih banyak. Jadi saat sebuah ruangan hening, harus ada yang maju lebih dulu. Dan itu bisa aku.
+DANIEL: Itu jelas, dan kamu mengoreksi dirimu sendiri tanpa berhenti. Pendengar, sekarang giliran kalian. Dalam empat puluh detik, jawab ini. Apa satu kesalahan kecil dari minggu kalian yang bisa dibagikan ke tim, dan apa yang kalian pelajari darinya? Jeda audionya dan bicaralah.
+SENA: Itu pertanyaan yang sangat pribadi.
+DANIEL: Memang. Itulah kenapa ini latihan. Tantangan hari ini adalah membagikan satu kesalahan kecilmu sendiri lebih dulu, hari ini. Di rapat, di one-on-one, atau di chat tim. Buat kecil dan nyata, sebutkan apa yang kamu pelajari, lalu ajak yang lain. "Ada yang pernah mengalami hal seperti ini juga?"
+SENA: Kato-san ada rapat perencanaan region tiga jam empat. Aku akan mulai dengan kesalahan rentang tanggalku, lalu bertanya, "Ada yang melihat sesuatu di peluncuran pertama?" Dan aku akan menatap Kenta.
+DANIEL: Dengan ramah.
+SENA: Dengan ramah. Bukan seperti detektif.
+DANIEL: Sempurna. Kamu memberi Kenta sebuah pintu, dan kamulah yang membukanya.
+SENA: Daniel, boleh aku cerita satu hal lagi? Ini mengganjal pikiranku sepanjang hari.
+DANIEL: Tentu.
+SENA: Ryo datang jam tujuh lagi pagi ini. Dan kemarin. Dan kurasa kemarin lusa juga. Bukan hanya di hari peluncuran. Dan bagiannya di file region tiga terlambat dua hari. Aku belum bilang apa-apa. Aku baru memujinya kemarin, jadi rasanya aneh bilang, "Bagianmu terlambat."
+DANIEL: Itu situasi yang nyata, dan persis topik kita berikutnya. Episode lima belas, episode terakhir dari musim pertama kita. "Percakapan yang Sulit." Cara mengatakan hal yang selama ini kamu hindari, dalam satu kalimat, dan cara memulainya dengan bertanya, "Kamu sebenarnya bagaimana?"
+SENA: Kurasa aku butuh episode itu.
+DANIEL: Kalau begitu kamu akan siap. Terima kasih sudah mendengarkan Human Curriculum. Saya Daniel.
+SENA: Dan aku Sena. Harus ada yang maju lebih dulu. Sampai jumpa lagi.

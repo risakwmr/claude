@@ -1,0 +1,96 @@
+DANIEL: Bienvenidos de nuevo a Human Curriculum. Soy Daniel Reed, People Manager en Seattle.
+SENA: Y yo soy Sena Sato, asociada en Tokio. La última vez hablamos de cómo dar feedback con SBI. Situación, conducta, impacto. Y hoy fue solo elogio, sin "pero".
+DANIEL: Y hoy hablamos de seguridad psicológica. Pero primero, el reto. Ibas a ir al escritorio de Ryo antes del almuerzo. ¿Cómo te fue?
+SENA: Casi no lo hago. Me levanté dos veces y volví a sentarme. Luego pensé: "Son tres frases, Sena. Puedes decir tres frases."
+DANIEL: Hablarte a ti misma por tu nombre. Me gusta.
+SENA: Así que fui y se lo dije en voz baja. "Ayer por la mañana, antes del lanzamiento, llegaste a las siete y ejecutaste tu script de verificación. Encontraste el problema en la región dos y lo arreglaste. Gracias a eso, el dashboard se lanzó sin ningún número incorrecto, y por fin pude dejar de preocuparme."
+DANIEL: ¿Y qué hizo Ryo?
+SENA: Al principio hizo lo típico japonés. "No, no, no fue nada." Pero luego se detuvo y preguntó: "¿Cómo sabías lo de la región dos?" Le dije: "Leí tu mensaje de commit." Y se rio y dijo: "Nadie lee eso."
+DANIEL: Ahora alguien sí.
+SENA: Luego le mandé las mismas tres frases en un mensaje. Una hora después, respondió. Dijo que lo iba a poner en sus notas para su evaluación de mitad de año. Ayer un pulgar arriba, y hoy una respuesta de verdad.
+DANIEL: Esa es la diferencia entre "buen trabajo" y un elogio específico. Él puede usar el tuyo. Y Sena, ¿cómo te sentiste tú?
+SENA: Boothby y Bohns tenían razón. Antes estaba nerviosa, y después me sentí feliz el resto de la mañana. Más de lo que esperaba.
+DANIEL: Bien. Guarda esa sensación. Porque el tema de hoy también requiere un poco de valentía. Entonces, ¿qué pasó?
+SENA: Esta tarde, Kato-san hizo una revisión corta del lanzamiento. Quince minutos, todo el equipo. Empezó diciendo: "El lanzamiento salió bien. ¿Hubo algún problema, o algo que deberíamos hacer diferente en las próximas regiones?"
+DANIEL: Una buena pregunta.
+SENA: Muy buena pregunta. Y luego hubo silencio. Quizá diez segundos. Se sintió como un minuto. Todos miraban sus laptops. Entonces Kato-san dijo: "Bien, parece que todo salió sin problemas", y pasamos al cronograma.
+DANIEL: ¿Y todo salió sin problemas?
+SENA: No. No todo. Yo cometí un error. En las notas del lanzamiento que mandé a Mark, en Seattle, puse mal el rango de fechas de la región dos. Escribí el primero de septiembre, pero los datos en realidad empiezan el ocho de septiembre. Me di cuenta a la mañana siguiente y corregí el documento en silencio. Creo que nadie lo vio.
+DANIEL: O sea que tuviste un error pequeño y el momento perfecto para mencionarlo. Y te quedaste callada.
+SENA: Sí. Y es peor, porque no fui la única. Kenta, el compañero que revisa mis análisis, abrió la boca como si quisiera decir algo. Luego la cerró. Lo vi. Y después de la reunión me dijo: "Había algo raro en los filtros de la región uno, pero seguramente no es nada."
+DANIEL: Es decir, había al menos dos cosas de las que el equipo podía aprender, y la reunión escuchó cero.
+SENA: Exacto. Y no dejo de pensar: ¿por qué? Kato-san no da miedo. Nadie nos gritaría. Pero nadie habló.
+DANIEL: Es una gran pregunta, y lo que faltaba en esa sala tiene nombre. Seguridad psicológica. Déjame contarte dos estudios.
+SENA: Mi cuaderno está listo.
+DANIEL: El primero es de Amy Edmondson, profesora de Harvard Business School. En 1999 publicó un artículo en Administrative Science Quarterly llamado "Psychological Safety and Learning Behavior in Work Teams." Estudió cincuenta y un equipos de trabajo en una empresa de manufactura.
+SENA: ¿Qué es exactamente la seguridad psicológica? La gente usa mucho esa frase.
+DANIEL: Edmondson la describe como una creencia compartida en un equipo de que es seguro asumir riesgos interpersonales. Riesgos como hacer una pregunta que quizá suene tonta, admitir un error o decir: "Creo que algo está mal."
+SENA: O sea que no se trata de ser amables unos con otros.
+DANIEL: Correcto. Un equipo puede ser muy educado y aun así no ser seguro. Tu equipo de hoy suena así. Gente amable, nadie grita, y aun así, silencio.
+SENA: ¿Qué encontró ella?
+DANIEL: Los equipos con mayor seguridad psicológica mostraron más conductas de aprendizaje. Pedir feedback, hablar de los errores, poner a prueba sus supuestos. Y esas conductas de aprendizaje estaban relacionadas con un mejor desempeño del equipo. También estudió la autoeficacia del equipo, es decir, la confianza del equipo en que puede hacer el trabajo. Una vez que se tuvo en cuenta la seguridad psicológica, la confianza por sí sola no estaba relacionada con el aprendizaje.
+SENA: O sea que un equipo seguro de sí mismo no aprende automáticamente. Uno seguro psicológicamente, sí.
+DANIEL: Esa es la idea. Ahora, la precaución. Fue una sola empresa, y gran parte vino de encuestas en un solo momento. Así que muestra una conexión fuerte, no una prueba de que la seguridad cause el aprendizaje. Pero desde entonces ha sido una de las ideas más influyentes en la investigación sobre trabajo en equipo.
+SENA: Vale. Pero ¿cómo se hace seguro a un equipo? Yo no soy la jefa. No puedo cambiar la cultura.
+DANIEL: Ahí entra el segundo estudio. Bradley Owens, Michael Johnson y Terence Mitchell lo publicaron en 2013 en Organization Science. El título es "Expressed Humility in Organizations." En uno de sus estudios, setecientos cuatro empleados evaluaron a doscientos dieciocho líderes.
+SENA: Humildad. ¿Como ser modesto?
+DANIEL: Algo más específico. Describen la humildad expresada como tres cosas. Estar dispuesto a verse a uno mismo con precisión, lo que incluye admitir tus límites y errores. Valorar las fortalezas de los demás. Y ser receptivo a aprender, abierto a aprender de otros.
+SENA: ¿Y qué obtuvieron los líderes humildes?
+DANIEL: Sus equipos reportaron una orientación al aprendizaje más fuerte y, a través de ella, mayor compromiso. Su gente también estaba más satisfecha con su trabajo y tenía menos probabilidad de irse. Otra vez, es correlación. No hicieron humildes a algunos líderes al azar. Pero el patrón es claro.
+SENA: Pero Daniel, eran líderes. Yo soy asociada.
+DANIEL: Cierto. El estudio era sobre líderes, y lo estoy estirando un poco. Pero piensa en lo que pasó en tu reunión. Todos estaban esperando. Esperando a ver si de verdad era seguro decir algo. En ese momento, la primera persona que admite un error cambia la sala. Y esa persona no necesita un cargo.
+SENA: O sea que alguien tiene que ir primero.
+DANIEL: Alguien tiene que ir primero. Y muchas veces, quien nota el silencio es la persona indicada.
+SENA: Bien. Nuestra pregunta de siempre. ¿Por qué la IA no puede hacer esto? La IA es muy buena admitiendo errores. Se disculpa todo el tiempo.
+DANIEL: Sí. Y ese es justo mi punto. Cuando la IA dice "cometí un error", no le cuesta nada. Nadie en la reunión piensa peor de ella, y no se pone nerviosa. Cuando tú lo dices, cuesta algo. Un poco de orgullo, un poco de riesgo. Y por eso mismo funciona. Tus compañeros te ven correr el riesgo y salir bien. Eso es evidencia para ellos de que es seguro.
+SENA: O sea que el mensaje es la valentía.
+DANIEL: Exacto. Y hay una segunda parte. La IA no estaba en la sala. No vio a Kenta abrir la boca y cerrarla otra vez. Notar eso es conciencia social. Es leer lo que significa el silencio, no solo oírlo.
+SENA: ¿Tienes una historia de fracaso sobre esto? Siento que sí.
+DANIEL: Sí, y no es mi momento más orgulloso. En mi primer año como manager, le dije a mi equipo: "Mi puerta siempre está abierta. Tráiganme cualquier problema." Lo dije en mi primera reunión de equipo. Estaba orgulloso.
+SENA: Suena bien.
+DANIEL: Las palabras eran buenas. A las pocas semanas, una ingeniera junior llamada Grace me dijo en una reunión de equipo que una prueba llevaba una semana fallando y que no lo había reportado. Y yo dije, delante de todos: "¿Una semana? ¿Cómo pasó esto la revisión?"
+SENA: Ay, no.
+DANIEL: No grité. Solo sonaba sorprendido y un poco molesto. Y pensé que ahí terminaba todo. Pero después de eso, nadie me traía problemas pequeños. Durante tres meses, cada informe de estado estuvo en verde. Todo estaba bien.
+SENA: Hasta que no lo estuvo.
+DANIEL: Hasta que un viernes por la noche falló un release, por un problema que dos personas habían notado semanas antes. Una de ellas me dijo después: "Después de lo que le pasó a Grace, no quería ser la siguiente."
+SENA: Una frase, y todo el equipo aprendió la regla.
+DANIEL: Una reacción. Los equipos no aprenden de lo que dices en una diapositiva. Aprenden de lo que le pasa a la primera persona que se arriesga. Mi puerta estaba abierta, pero mi cara estaba cerrada.
+SENA: ¿Qué cambiaste?
+DANIEL: Dos cosas. Me disculpé con Grace y con el equipo. Y empecé cada retrospectiva compartiendo primero un error mío. Pequeños. Una reunión que programé a la hora equivocada. Un mensaje que escribí demasiado rápido. En un mes, la gente empezó a añadir los suyos.
+SENA: Qué interesante, porque creo que en Japón es todavía más difícil. ¿Puedo explicarlo?
+DANIEL: Por favor.
+SENA: En muchas empresas japonesas, un error puede sentirse como si causaras molestias a todo el grupo. Lo llamamos meiwaku. Por eso pedimos disculpas muchísimo. "Moushiwake gozaimasen." Pero una gran disculpa es distinto de un reporte útil. A veces, después de un error, la gente dice perdón muchas veces, pero nadie habla de por qué pasó.
+DANIEL: O sea que la disculpa puede terminar la conversación.
+SENA: Sí. Y en una reunión, la gente junior suele esperar a que hablen primero los senior. Así que cuando el manager pregunta: "¿Algún problema?", los junior esperan a los senior, y los senior esperan al manager. Todos están esperando.
+DANIEL: Esos son los diez segundos que sentiste.
+SENA: Exacto. Pero también tenemos una fuerte tradición de reflexión después de un proyecto. Hansei. Cuando se hace bien, es muy poderosa.
+DANIEL: En Estados Unidos, creo que tenemos el problema contrario, en cierto modo. A la gente le encanta decir "fail fast" y "celebramos el fracaso". Está en los carteles. Pero luego llegan las evaluaciones de desempeño, y la gente aprende a esconder todo lo que se vea mal. Así que las palabras son valientes y la conducta es cautelosa.
+SENA: O sea que en Japón pedimos perdón mucho. En Estados Unidos dicen "fail fast" mucho. Y en los dos lados, la gente esconde los errores pequeños.
+DANIEL: Es un poco simplista, y cada equipo es distinto. Pero creo que es cierto con bastante frecuencia. Y en ambos lugares, la solución es la misma. Alguien va primero, con algo pequeño y real.
+SENA: Entonces, ¿qué habilidad de EQ es esta? Siento que podrían ser varias.
+DANIEL: Hoy la llamaría conciencia social. Leer el clima de un grupo. Notar quién está en silencio, y por qué. Notar que ese silencio no significa "todo está bien", sino "nadie quiere ir primero". Y luego tu acción, ir primero, construye también el lado de la relación.
+SENA: Conciencia social. Leer el silencio, no solo las palabras.
+DANIEL: Muy bien dicho. Ahora, Speaking Lab. Tres frases para ir primero en una reunión. Yo digo cada una y tú la repites. Oyentes, pausen y díganla en voz alta con Sena.
+SENA: Lista.
+DANIEL: "Voy a empezar yo. Este es un pequeño error que cometí esta semana."
+SENA: Voy a empezar yo. Este es un pequeño error que cometí esta semana.
+DANIEL: "Escribí mal el rango de fechas y lo corregí a la mañana siguiente."
+SENA: Escribí mal el rango de fechas y lo corregí a la mañana siguiente.
+DANIEL: "¿Qué cosa deberíamos hacer diferente en el próximo lanzamiento?"
+SENA: ¿Qué cosa deberíamos hacer diferente en el próximo lanzamiento?
+DANIEL: Genial. Ahora, un resumen. En unos treinta segundos, cuéntame con tus propias palabras los puntos principales de hoy.
+SENA: Vale. La seguridad psicológica significa que un equipo cree que es seguro correr riesgos, como hacer preguntas o admitir errores. Edmondson encontró que los equipos con más seguridad aprendían más, y que el aprendizaje estaba relacionado con, eh, un mejor desempeño. Owens y sus colegas encontraron que los líderes humildes, que admiten errores y aprenden de otros, tenían equipos que aprendían más. Así que cuando una sala está en silencio, alguien tiene que ir primero. Y puedo ser yo.
+DANIEL: Fue claro, y te corregiste sin detenerte. Oyentes, ahora les toca a ustedes. En cuarenta segundos, respondan esto. ¿Qué pequeño error de su semana podrían compartir con su equipo, y qué aprendieron de él? Pausen el audio y hablen.
+SENA: Es una pregunta muy personal.
+DANIEL: Lo es. Por eso es práctica. El reto de hoy es compartir primero un pequeño error tuyo, hoy mismo. En una reunión, en un uno a uno o en el chat del equipo. Que sea pequeño y real, di lo que aprendiste y luego invita a otros. "¿Alguien más se ha encontrado con algo así?"
+SENA: Kato-san tiene la reunión de planificación de la región tres a las cuatro. Empezaré con mi error del rango de fechas, y luego preguntaré: "¿Alguien más notó algo en el primer lanzamiento?" Y miraré a Kenta.
+DANIEL: Con amabilidad.
+SENA: Con amabilidad. No como un detective.
+DANIEL: Perfecto. Le estás dando una puerta a Kenta, y tú eres quien la abre.
+SENA: Daniel, ¿puedo contarte una cosa más? Me ha estado dando vueltas todo el día.
+DANIEL: Claro.
+SENA: Ryo volvió a llegar a las siete esta mañana. Y ayer. Y creo que anteayer también. No solo el día del lanzamiento. Y su parte del archivo de la región tres lleva dos días de retraso. No he dicho nada. Ayer acabo de elogiarlo, así que se siente raro decirle: "Tu parte va tarde."
+DANIEL: Esa es una situación real, y es justo nuestro próximo tema. Episodio quince, el último de nuestra primera temporada. "La conversación difícil." Cómo decir eso que has estado evitando, en una sola frase, y cómo empezar preguntando: "¿Cómo estás, de verdad?"
+SENA: Creo que necesito ese episodio.
+DANIEL: Entonces estarás lista. Gracias por escuchar Human Curriculum. Soy Daniel.
+SENA: Y yo soy Sena. Alguien tiene que ir primero. Hasta la próxima.

@@ -1,0 +1,96 @@
+DANIEL: Bienvenidos de nuevo a Human Curriculum. Soy Daniel Reed, People Manager en Seattle.
+SENA: Y yo soy Sena Sato, Associate en Tokio. La última vez hablamos de lo que cambia cuando lideras. El trabajo cambia, así que tú también tienes que cambiar.
+DANIEL: Y hoy hablamos de feedback. No del tipo que da miedo. Empezamos con el elogio. Pero primero, el reto. Ibas a preguntarle a Kato-san qué fue lo que más lo sorprendió al convertirse en gerente. ¿Lo alcanzaste en la máquina de café?
+SENA: Sí. Compré dos latas de café caliente en la máquina expendedora y esperé después de su reunión de las tres. Me sentí un poco como una espía.
+DANIEL: Una espía muy amable. ¿Qué pasó?
+SENA: Hice la pregunta y él se me quedó mirando un segundo. Luego dijo: "Nadie me había preguntado eso antes." Y habló casi quince minutos.
+DANIEL: Quince minutos de un hombre con la agenda llena. Eso dice algo.
+SENA: Sí. Dijo que la mayor sorpresa fue que casi nunca termina nada él mismo. Cuando era analista, terminaba algo cada día. Ahora, a veces pasa un mes entero y no puede señalar una sola cosa que haya hecho.
+DANIEL: Es una sensación muy común. Los gerentes de Hill dijeron cosas parecidas. ¿Qué más?
+SENA: Luego me contó una historia. Hace quince años, su primer jefe le dejó una nota en el escritorio. Decía algo como: "Tu resumen de la página dos ayudó a la directora a decidir en cinco minutos." Dijo que todavía recuerda la página exacta.
+DANIEL: Quince años, y recuerda el número de página.
+SENA: Y dijo: "Ahí aprendí que una frase específica de un jefe puede quedarse con alguien mucho tiempo. Intento hacerlo, pero no soy muy bueno."
+DANIEL: ¿Qué anotaste? ¿Lo único que cambió tu forma de ver su trabajo?
+SENA: Que la mayor parte de su trabajo es invisible. No porque no esté trabajando, sino porque su trabajo es ayudar a otros a terminar. Y noté algo más. Mientras hablaba, se le bajaron los hombros. Se veía relajado por primera vez en toda la semana.
+DANIEL: Eso es muy buena conciencia social. Y creo que Kato-san acaba de darnos el tema de hoy. Entonces, ¿qué pasa hoy?
+SENA: Ayer fue nuestro primer lanzamiento. El panel salió en vivo en las dos primeras regiones. Y salió perfecto. Ni un solo número incorrecto.
+DANIEL: Felicidades. Es un gran logro después de tanta preocupación.
+SENA: Gracias. Pero no fue suerte. Ryo escribió la semana pasada un pequeño script que revisa automáticamente los datos de cada región. Y ayer llegó a las siete de la mañana para ejecutarlo una última vez antes del lanzamiento. Encontró un problema pequeño, lo arregló y nadie se dio cuenta.
+DANIEL: Nadie se dio cuenta. Ese es el mejor tipo de problema.
+SENA: Cierto. Así que en el chat del equipo escribí: "Gracias Ryo, ¡buen trabajo!" Y él respondió con un pulgar arriba. Nada más. Y en la reunión del equipo, Kato-san dijo: "Buen trabajo, todos."
+DANIEL: ¿Y cómo te sentiste?
+SENA: Vacía. Lo decía en serio. Estaba muy agradecida. Pero mi mensaje se veía igual que todos los demás que mando. "Buen trabajo" para algo grande, "buen trabajo" para algo pequeño. No creo que Ryo supiera lo que yo realmente vi.
+DANIEL: Qué agudo de tu parte notarlo. Y es justo por eso que quise empezar el feedback con el elogio. La mayoría piensa que el elogio es la parte fácil. En mi experiencia, es la parte que hacemos con más pereza. Voy a compartir dos estudios.
+SENA: Mi cuaderno está abierto.
+DANIEL: El primero es de Erica Boothby y Vanessa Bohns. Se publicó en 2021 en Personality and Social Psychology Bulletin. El título es "Why a Simple Act of Kindness Is Not as Simple as It Seems." Trata sobre los cumplidos.
+SENA: ¿Qué encontraron?
+DANIEL: En cinco estudios, las personas que hacían un cumplido subestimaban lo bien que se sentiría la otra persona. Y sobrestimaban lo incómoda o molesta que se sentiría. Así que se guardaban cumplidos que habrían podido dar.
+SENA: Esa soy yo. Me preocupa que sea incómodo.
+DANIEL: También encontraron eso. Quienes daban el cumplido estaban ansiosos por si lo dirían bien. Por si las palabras les saldrían mal. Pero hay un detalle interesante. Los observadores externos, gente que solo estaba mirando, predijeron con más precisión lo que sentiría quien lo recibía. El error estaba sobre todo en la cabeza de quien hablaba.
+SENA: O sea que la incomodidad es sobre todo mía, no de ellos.
+DANIEL: En estos estudios, sí. Y además, quienes daban el cumplido se sentían mejor después de darlo de lo que esperaban. Ahora bien, la mayoría eran cumplidos entre desconocidos o conocidos, no siempre en el trabajo. Así que no tomaría esto como cifras exactas para tu oficina. Pero la dirección es clara. Tu elogio probablemente importa más de lo que crees.
+SENA: Bien. ¿Y el segundo estudio?
+DANIEL: El segundo es una revisión de John Hattie y Helen Timperley, llamada "The Power of Feedback." Se publicó en 2007 en Review of Educational Research. Revisaron una gran cantidad de investigaciones sobre feedback, sobre todo en escuelas.
+SENA: Escuelas, no oficinas.
+DANIEL: Exacto, así que ten eso presente. Pero una idea de ahí es muy útil en el trabajo. Describen distintos niveles de feedback. Feedback sobre la tarea. Feedback sobre el proceso, es decir, cómo lo hiciste. Y feedback sobre la persona, como "Eres tan inteligente" o "Tienes talento natural."
+SENA: "Buen trabajo" es de este último tipo.
+DANIEL: Muy cerca. Y su conclusión fue que el elogio sobre la persona, por sí solo, suele ayudar poco al aprendizaje, porque no dice nada sobre el trabajo. El feedback sobre la tarea y, sobre todo, sobre el proceso, le dice a la gente qué repetir.
+SENA: O sea que "buen trabajo" se siente bien, pero no enseña nada.
+DANIEL: Exacto. "Buen trabajo" dice: "Estoy contento." El elogio específico dice: "Vi lo que hiciste, y esto es por qué importó." Ahí es donde entra SBI.
+SENA: Situación, comportamiento, impacto.
+DANIEL: Así es. Es un modelo de feedback del Center for Creative Leadership. Es una herramienta, no un estudio. La situación es cuándo y dónde. El comportamiento es lo que la persona hizo en realidad, algo que se pudo ver o escuchar. Y el impacto es lo que pasó gracias a eso. Para el equipo, para el cliente o para ti.
+SENA: Voy a probarlo con Ryo. Situación: "Ayer por la mañana, antes del lanzamiento." Comportamiento: "Llegaste a las siete, ejecutaste tu script de verificación y corregiste el error en la región dos." Impacto: "Gracias a eso, el panel salió con cero números incorrectos y yo pude dejar de preocuparme."
+DANIEL: Sena, eso es hermoso. Fíjate en lo distinto que es de "buen trabajo."
+SENA: Es más largo. Pero no es tan difícil.
+DANIEL: Son tres frases. Y ahora Ryo sabe exactamente qué parte valoras. La revisión temprana. Puede volver a hacerla y puede contárselo a su propio jefe.
+SENA: Bien. Nuestra pregunta de siempre. ¿Por qué no puede hacer esto la IA? La IA escribe mensajes de agradecimiento muy bonitos. Sinceramente, mejores que los míos.
+DANIEL: Es cierto. Pero mira el SBI que acabas de decir. ¿De dónde salió el comportamiento?
+SENA: De mí. Yo sabía que él llegó a las siete. Sabía lo de la región dos.
+DANIEL: Exacto. Lo más difícil de un buen elogio no es escribirlo. Es notarlo. Tienes que prestarle atención a la persona antes de poder decirle lo que viste. La IA no estaba en la oficina a las siete. Y esta es mi suposición, no un estudio. Si un cumplido está muy pulido pero no tiene detalles reales, la gente lo percibe. Lo que hace que un elogio llegue es la prueba de que una persona real los notó.
+SENA: O sea que los detalles son la prueba de que yo estaba prestando atención.
+DANIEL: Exacto. Usa la IA para corregir tu gramática, claro. Pero la situación y el comportamiento tienen que salir de tus propios ojos.
+SENA: ¿Tienes una historia de fracaso con el elogio? Supongo que sí.
+DANIEL: Me conoces bien. Hace unos años tenía en mi equipo a un ingeniero llamado Rafael. Muy callado, muy cuidadoso. En esa época yo estaba orgulloso de mi feedback. Cuando algo salía mal, yo era específico. Qué línea de código, cuál fue el impacto, qué cambiar.
+SENA: Suena bien.
+DANIEL: Para la crítica, lo era. Pero cuando hacía un gran trabajo, yo decía: "Buen trabajo, Rafael," o "Gracias, genial." Nada más. Luego recibió una oferta de otra empresa. En nuestra última reunión individual le pregunté qué podría haber hecho mejor. Y me dijo: "Siempre supe exactamente qué hice mal. Nunca supe qué hice bien."
+SENA: Ay, Daniel.
+DANIEL: Esa frase se me quedó grabada. Había gastado toda mi precisión en los errores. Mi elogio era genérico, así que era invisible. No se fue solo por eso. Pero fue parte del cuadro.
+SENA: ¿Qué cambiaste?
+DANIEL: Ahora pongo el mismo cuidado en el elogio que en la crítica. Si puedo escribir tres frases sobre un bug, puedo escribir tres frases sobre algo que salió bien.
+SENA: Es una buena regla. ¿Te puedo hablar de Japón? Porque aquí el elogio es un poco complicado.
+DANIEL: Por favor.
+SENA: En muchos lugares de trabajo japoneses, el elogio directo no es tan común, sobre todo de parte de un jefe. La gente puede pensar: "Si no hay ningún problema, es que está bien." Y cuando alguien te elogia, la reacción educada suele ser negarlo. "No, no, para nada." Aunque por dentro estés feliz.
+DANIEL: Lo he visto con mis colegas de Tokio. Yo digo "gran presentación" y ellos dicen: "No, fue terrible."
+SENA: ¡Sí! Y elogiar a alguien frente a todos puede avergonzarlo, porque lo hace destacar del grupo. Tenemos "otsukaresama", que significa algo como "gracias por tu esfuerzo". Lo decimos todo el día. Es cálido, pero no es específico.
+DANIEL: Interesante. En Estados Unidos, creo que tenemos el problema contrario. La gente dice "genial" e "increíble" todo el tiempo. Un sándwich es increíble. Una hoja de cálculo es increíble. Así que las palabras pierden valor.
+SENA: ¿Entonces en Japón hay muy poco elogio y en Estados Unidos hay demasiado elogio vacío?
+DANIEL: Eso es un poco un estereotipo, y cada equipo es distinto. Pero creo que la especificidad arregla ambas cosas. En Japón, el elogio específico se siente menos como adulación, porque trata del trabajo, no de la persona. En Estados Unidos, destaca entre todos los "geniales".
+SENA: Y si me preocupa avergonzar a Ryo, puedo decírselo primero en privado.
+DANIEL: Buena idea. Eso es leer el ambiente y aun así decirlo.
+SENA: Entonces, ¿qué habilidad de inteligencia emocional es esta? Creo que la gestión de relaciones.
+DANIEL: Gestión de relaciones. El elogio es una de las formas más sencillas de construir una relación, y una de las menos usadas. Y construye confianza para más adelante. Cuando das elogios específicos a menudo, a la gente le resulta mucho más fácil escuchar críticas específicas tuyas, porque saben que tú también ves lo bueno.
+SENA: Como ahorrar dinero en un banco antes de necesitar gastarlo.
+DANIEL: Me gusta eso. Ahora, Speaking Lab. Tres frases para dar un elogio específico en el trabajo. Yo digo cada una y tú la repites. Oyentes, pausen y díganla en voz alta con Sena.
+SENA: Lista.
+DANIEL: "Cuando ejecutaste la verificación de datos esta mañana, el lanzamiento salió sin problemas."
+SENA: Cuando ejecutaste la verificación de datos esta mañana, el lanzamiento salió sin problemas.
+DANIEL: "Quería decirte específicamente qué marcó la diferencia."
+SENA: Quería decirte específicamente qué marcó la diferencia.
+DANIEL: "Como compartiste tus notas temprano, el equipo ahorró un día entero."
+SENA: Como compartiste tus notas temprano, el equipo ahorró un día entero.
+DANIEL: Gran ritmo. Ahora, un resumen. En unos treinta segundos, cuéntame los puntos principales de hoy con tus propias palabras.
+SENA: Bien. Las personas que hacen cumplidos subestiman lo bien que se sentirá la otra persona, y se preocupan demasiado por la incomodidad. Eso es de Boothby y Bohns. Además, Hattie y Timperley encontraron que el elogio sobre la persona, como "eres inteligente", no ayuda mucho. El feedback sobre la tarea o el, eh, el proceso es mejor. Así que usamos SBI. Situación, comportamiento, impacto. Tres frases, con detalles reales.
+DANIEL: Eso fue claro y bien organizado. Oyentes, les toca a ustedes. En cuarenta segundos, respondan esto. ¿Quién es una persona que los ayudó recientemente y qué hizo exactamente? Pausen el audio y hablen.
+SENA: Esa me resulta fácil hoy.
+DANIEL: Pensé que sí. El reto de hoy es elogiar a una persona usando SBI. Situación, comportamiento, impacto, en tres frases. Díselo en persona o escríbelo en un mensaje, hoy. Y una regla. No agregues un "pero" al final. Nada de "buen trabajo, pero la próxima vez". Hoy es solo elogio.
+SENA: Iré al escritorio de Ryo antes del almuerzo y se lo diré en voz baja, y luego enviaré las mismas tres frases en un mensaje, para que pueda conservarlas.
+DANIEL: Perfecto. Primero en privado, y por escrito para que pueda usarlo después. Y Sena, ¿puedo darte uno a ti también?
+SENA: Ah. Bueno.
+DANIEL: En el último episodio, cuando Kato-san preguntó por qué recién se enteraba del problema de datos, le dijiste la verdad en vez de poner una excusa. Gracias a eso, él admitió que también había estado asintiendo, y tu equipo hizo un mejor plan.
+SENA: No, no, no fue...
+DANIEL: Sena.
+SENA: Perdón. Gracias. Solo gracias.
+DANIEL: Mucho mejor. La próxima vez pasamos a la conciencia social. Episodio catorce, "Building Psychological Safety." Por qué los equipos hablan más cuando alguien da el primer paso, y por qué a veces esa persona debes ser tú, con uno de tus propios pequeños errores.
+SENA: ¿Mis propios errores? Tengo muchísimos.
+DANIEL: Perfecto, entonces estás lista. Gracias por escuchar Human Curriculum. Soy Daniel.
+SENA: Y yo soy Sena. Obsérvalo, luego nómbralo. Hasta la próxima.

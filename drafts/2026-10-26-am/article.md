@@ -157,7 +157,7 @@
 
 ただ、この記事で「ADHDだから見積もりが甘い」とは書きません。
 
-大人のADHDの時間の感じ方の研究はありますが、2012〜2022年の大人の研究をまとめたレビューに入ったのは9本と少なく、どれも数秒から長くても数分の「いま経過している時間」を答える実験で、結果もそろっていません（Mette, 2023）。
+大人のADHDの時間の感じ方の研究はありますが、2012〜2022年の大人の研究をまとめたレビューに入ったのは9本と少なく、そのうち時間の見積もり・再現を調べた8本は、数秒から長くても数分の「いま経過している時間」を答える実験で、結果もそろっていません（Mette, 2023）。
 何時間・何日かかる仕事の見積もりとは、測っているものが違います。
 知能検査の処理速度と、日常の作業の見積もりのずれを結びつけた研究も、調べた範囲では見つかりませんでした（近いものとして、85秒の課題をあとから振り返って見積もる実験では、処理速度の検査とのはっきりした関係は出ていません。ADHDの研究ではありません。Ebaid & Crewther, 2018）。【🟡確認：知能検査で処理速度が低かったことは、この記事では書いていません。「処理速度」という言葉自体を出すかどうか、この段落の書き方で合うか確認してください。出したくなければ、この（ ）ごと削除して「知能検査の結果と〜」に直します】
 
@@ -525,7 +525,7 @@ Quick update: I'm about halfway through, and [Thursday] still looks realistic.
 - Newby-Clark, I. R., Ross, M., Buehler, R., Koehler, D. J., & Griffin, D. (2000). People focus on optimistic scenarios and disregard pessimistic scenarios while predicting task completion times. *Journal of Experimental Psychology: Applied, 6*(3), 171–182.
 - Roy, M. M., Christenfeld, N. J. S., & McKenzie, C. R. M. (2005). Underestimating the duration of future events: Memory incorrectly used or memory bias? *Psychological Bulletin, 131*(5), 738–756.
 - Griffin, D., & Buehler, R. (2005). Biases and fallacies, memories and predictions: Comment on Roy, Christenfeld, and McKenzie (2005). *Psychological Bulletin, 131*(5), 757–760.
-- Roy, M. M., Christenfeld, N. J. S., & McKenzie, C. R. M. (2005). Griffin & Buehler (2005) への再反論. *Psychological Bulletin, 131*(5), 761–762.
+- Roy, M. M., Christenfeld, N. J. S., & McKenzie, C. R. M. (2005). The broad applicability of memory bias and its coexistence with the planning fallacy: Reply to Griffin and Buehler (2005). *Psychological Bulletin, 131*(5), 761–762.
 - Roy, M. M., Mitten, S. T., & Christenfeld, N. J. S. (2008). Correcting memory improves accuracy of predicted task duration. *Journal of Experimental Psychology: Applied, 14*(3), 266–275.
 - Jørgensen, M., & Gruschke, T. M. (2009). The Impact of Lessons-Learned Sessions on Effort Estimation and Uncertainty Assessments. *IEEE Transactions on Software Engineering, 35*(3), 368–383.
 - Mette, C. (2023). Time Perception in Adult ADHD: Findings from a Decade—A Review. *International Journal of Environmental Research and Public Health, 20*(4), 3098.
@@ -557,7 +557,7 @@ Quick update: I'm about halfway through, and [Thursday] still looks realistic.
   - 倍率・2週間・件数はすべて「この記事の提案・目安」と明記。計算例の数字は架空と明記し、1.5倍は避けています
   - 「計画錯誤」の名前の由来（Kahneman & Tversky 1979）は原典未読のため書いていません
 - 公開前の確認：印なしで使ったSenaの事実は、ADHDの診断、知能検査の結果を記事に書いていること、苦手なことの一つが「コツコツ正確に続けること」、「ADHDでそれほど困っていない」という立場、毎日コンスタントな結果を求められていたことがあること、締切を自分で調整できる部署にいたことがあること（RULES.md の「Senaについて」）だけです。RULES.md では部署が「どちらの会社かは公開記事で書かれていない」ため、04では「前の会社」を外し、会社と部署を結びつけない書き方にしています（校閲の指摘で修正）
-- 参考文献：DOI は research.md で全件そろっていないため、すべて外して形式をそろえました。Roy ら 2005 の再反論は research.md に題名がないため、題名の代わりに「Griffin & Buehler (2005) への再反論」と書いています。公開前に題名を確かめられれば差し替えてください
+- 参考文献：DOI は research.md で全件そろっていないため、すべて外して形式をそろえました。Roy ら 2005 の再反論の題名は校閲で Crossref から確かめた正式な題名に差し替えました。
 - 関連記事の案内（`## 次に読むなら`）は note-related-guide が入れた（related.md）。終業前5分は本文からはリンクせず、記録のタイミングが違う「1日の終わりに閉じる」記事として案内だけに入れている。知能検査の記事は本文のリンクと重ねないよう案内に入れていない
 - 関連記事の案内は有料部分の最後にある。無料の読者にも見せたいときは【ここから有料】の直前に移す
 

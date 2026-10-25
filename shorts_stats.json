@@ -1,5 +1,5 @@
 {
-  "at": "2026-10-24T22:49:27Z",
+  "at": "2026-10-25T15:22:15Z",
   "shorts": {
     "1-ai": {
       "video_id": "IdbU6d1ox0Q",
@@ -195,7 +195,7 @@
       "title": "AI can fix your sentences, not your message #shorts",
       "public": true,
       "publish_at": "2026-10-22T19:00:00Z",
-      "views": 6,
+      "views": 7,
       "likes": 0,
       "comments": 0
     },
@@ -223,6 +223,15 @@
       "public": true,
       "publish_at": "2026-10-13T23:00:00Z",
       "views": 22,
+      "likes": 0,
+      "comments": 0
+    },
+    "8-ai": {
+      "video_id": "PUIsg5YxjEs",
+      "title": "Why AI can't make your work visible #shorts",
+      "public": false,
+      "publish_at": "2026-10-25T19:00:00Z",
+      "views": 0,
       "likes": 0,
       "comments": 0
     },
@@ -339,7 +348,7 @@
       "title": "Compliments land better than you expect #shorts",
       "public": true,
       "publish_at": "2026-10-24T19:00:00Z",
-      "views": 0,
+      "views": 2,
       "likes": 0,
       "comments": 0
     },

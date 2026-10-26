@@ -1,0 +1,84 @@
+DANIEL: Bienvenue de nouveau dans Human Curriculum. Je suis Daniel Reed, manager à Seattle.
+SENA: Et moi, c'est Sena Sato, Associate à Tokyo. La dernière fois, nous avons parlé de l'influence sans autorité. Comment obtenir de l'aide d'une équipe qu'on ne dirige pas.
+DANIEL: Et aujourd'hui, on se tourne de nouveau vers l'intérieur. Prendre la parole quand on n'est pas d'accord. Mais d'abord, la pratique. Avant de demander quelque chose à une autre équipe, tu devais d'abord leur demander ce dont ils ont besoin. Alors, as-tu écrit à Hannah ?
+SENA: Oui. J'ai demandé quinze minutes, et elle a dit oui le jour même. Et je n'ai pas commencé par mon ticket. J'ai demandé : « Sur quoi votre équipe travaille-t-elle ce trimestre ? »
+DANIEL: Et alors ?
+SENA: Il se trouve qu'ils migrent toutes les tables vers un nouveau système. Deux personnes sont en congé, et toutes les équipes de l'entreprise leur envoient des demandes. Elle m'a dit que mon ticket n'était pas ignoré. C'était juste un parmi quarante.
+DANIEL: Un parmi quarante. Ça change l'histoire, non ?
+SENA: Complètement. Je ne me suis plus sentie insultée. Ensuite, je lui ai parlé des trois valeurs manquantes que j'ai trouvées le mois dernier. Elle a été surprise. Elle a dit : « Personne ne nous dit ça. Peux-tu m'envoyer une liste chaque fois que tu en trouves une ? »
+DANIEL: Voilà. Ta monnaie d'échange.
+SENA: Et à la fin, elle a dit que le nouveau champ pourrait entrer dans leur prochain sprint. Deux semaines. Sans escalade, sans relances.
+DANIEL: C'est super, Sena. Qu'as-tu appris sur leur monde ?
+SENA: Trois choses. Ils manquent de personnel. On les blâme quand les données sont fausses, mais ils en entendent rarement parler tôt. Et un appel de quinze minutes a été plus rapide que trois semaines de tickets.
+DANIEL: Très bonnes notes. Alors, que se passe-t-il cette semaine ?
+SENA: Cette semaine, j'ai fait quelque chose dont je ne suis pas fière. Ou plutôt, je n'ai pas fait quelque chose.
+DANIEL: Raconte.
+SENA: Mardi, nous avons eu une réunion d'équipe sur le nouveau tableau de bord. Kato-san a proposé de le lancer dans toutes les régions en même temps, le mois prochain. Tout le monde a hoché la tête. Et moi, j'avais une inquiétude.
+DANIEL: Quelle était cette inquiétude ?
+SENA: Les données. Tu te souviens des valeurs manquantes que j'ai trouvées ? Certaines régions ont des trous. Si on lance partout en même temps, quelques régions risquent de voir des chiffres faux dès le premier jour. Je pensais qu'on devrait commencer par une région, vérifier les données, puis étendre.
+DANIEL: Ça ressemble à une vraie inquiétude.
+SENA: C'en était une. Mais je ne l'ai pas dite. J'avais la phrase en tête. Mon cœur battait vite. Et puis Kato-san a dit : « Bon, on dirait que nous sommes tous d'accord », et la réunion a continué.
+DANIEL: Comment t'es-tu sentie après ?
+SENA: Mal. Et un peu en colère contre moi-même. Plus tard, Ryo m'a dit qu'il avait la même crainte. Lui non plus n'avait rien dit.
+DANIEL: Deux personnes avec la même inquiétude, et la salle n'a entendu que du silence. Laisse-moi te présenter des recherches, parce que c'est très, très fréquent.
+SENA: Mon carnet est ouvert.
+DANIEL: La première étude est de Frances Milliken, Elizabeth Morrison et Patricia Hewlin, publiée en 2003 dans le Journal of Management Studies. Elles ont interrogé quarante salariés à temps plein dans différents secteurs. Et quatre-vingt-cinq pour cent d'entre eux ont dit qu'au moins une fois, ils s'étaient sentis incapables de soulever un problème auprès de leur chef, alors qu'ils le jugeaient important.
+SENA: Quatre-vingt-cinq pour cent. Donc presque tout le monde.
+DANIEL: Presque tout le monde. C'était une petite étude par entretiens, donc le chiffre exact n'est pas une règle. Mais la tendance est forte. Et la raison la plus courante du silence n'était pas que le problème n'avait pas d'importance. C'était la peur d'être mal vu. Être étiqueté comme quelqu'un qui se plaint, ou qui ne joue pas collectif, et abîmer des relations auxquelles on tient.
+SENA: C'est exactement ça. Je ne voulais pas être la personne qui ralentit tout. Surtout quand tout le monde hochait la tête.
+DANIEL: Et voici la partie délicate. Quand tout le monde hoche la tête, on a l'impression que c'est la preuve qu'on a tort. Mais peut-être que tout le monde hoche la tête pour la même raison que toi.
+SENA: Comme Ryo.
+DANIEL: Comme Ryo. Maintenant, la deuxième étude explique pourquoi ton désaccord peut avoir de la valeur, même si tu as tort au final. Charlan Nemeth et ses collègues de l'UC Berkeley l'ont publiée en 2001 dans le European Journal of Social Psychology. Le titre est « Devil's advocate versus authentic dissent ».
+SENA: Devil's advocate, l'avocat du diable. C'est quand quelqu'un défend exprès le point de vue opposé.
+DANIEL: Exactement. Certaines équipes désignent une personne pour le faire, afin d'éviter la pensée de groupe. Les chercheurs ont comparé des groupes où quelqu'un jouait l'avocat du diable, et des groupes où quelqu'un n'était vraiment pas d'accord. Un désaccord authentique. Et les groupes avec un vrai désaccord ont trouvé plus de solutions, et de meilleures, que toutes les versions avec avocat du diable.
+SENA: Donc une vraie opinion marche mieux qu'un rôle.
+DANIEL: C'était leur conclusion. Quand quelqu'un croit vraiment autre chose, le groupe réfléchit plus fort. L'argument plus large de Nemeth, c'est que le désaccord est utile même quand la personne qui s'oppose a tort, parce qu'il pousse tout le monde à regarder davantage d'informations. C'est une étude en laboratoire, donc le cadre est plus simple que celui d'une vraie entreprise. Mais je trouve l'idée puissante.
+SENA: Donc mon inquiétude n'était pas seulement une question d'avoir raison. La dire aurait aidé l'équipe à réfléchir.
+DANIEL: Exactement. Le silence ne cache pas seulement ton idée. Il retire à tous les autres une raison de réfléchir à nouveau.
+SENA: D'accord. Notre question habituelle. Pourquoi l'IA ne peut-elle pas le faire à ma place ? Honnêtement, je pourrais demander à l'IA de trouver tous les risques du plan de lancement. Elle est douée pour ça.
+DANIEL: C'est vrai. Et tu devrais l'utiliser pour vérifier ta réflexion. Mais regarde de nouveau l'étude de Nemeth. L'avocat du diable était un rôle. Quelqu'un à qui on demande de s'opposer. D'une certaine façon, une IA à qui on demande de lister des risques joue aussi ce rôle. Personne dans la salle n'a besoin de la prendre au sérieux, parce que personne n'y croit. Je ne connais pas de recherche qui teste cela avec l'IA. C'est juste mon hypothèse. Mais le vrai désaccord vient d'une personne qui a quelque chose en jeu.
+SENA: Comme ma réputation.
+DANIEL: Ta réputation, ta relation avec Kato-san, et ta connaissance de ces valeurs manquantes. Ce n'est pas l'IA qui a trouvé ces trous. C'est toi, en faisant le travail chaque mois. Et le plus dur n'est pas de trouver le risque. C'est ces quinze secondes où ton cœur bat vite et où tu décides d'ouvrir la bouche quand même. Aucun outil ne peut vivre ces quinze secondes à ta place.
+SENA: Donc l'IA peut m'aider à préparer ce que je vais dire. Mais c'est moi qui dois le dire.
+DANIEL: Exactement. Maintenant, mon histoire d'échec. Il y a quelques années, j'étais à une revue de lancement d'un nouvel outil interne. Le plan était de remplacer un ancien système pour tout le monde le même week-end. Je trouvais ça risqué. J'avais même écrit une note là-dessus sur mon ordinateur.
+SENA: Mais tu ne l'as pas dit.
+DANIEL: Le directeur était très enthousiaste, et la salle était pleine de personnes seniors. Je me suis dit : « Ils y ont sûrement réfléchi. » Le lancement s'est mal passé. Trois équipes n'ont pas pu travailler pendant deux jours.
+SENA: Oh non.
+DANIEL: Et plus tard, une ingénieure d'une autre équipe, une femme appelée Mei, m'a dit quelque chose dont je me souviens encore. Elle a dit : « J'avais la même inquiétude. Mais quand tu n'as rien dit, j'ai supposé que tout allait bien. Tu connaissais le système mieux que moi. »
+SENA: Donc ton silence l'a fait taire aussi.
+DANIEL: C'est ça qui a fait mal. Je pensais que rester silencieux était neutre. Ça ne l'était pas. C'était un signal.
+SENA: C'est ce qui s'est passé avec Ryo et moi. On attendait tous les deux que l'autre parle.
+DANIEL: Le silence se propage. Et la parole aussi, d'ailleurs. Quand une personne dit : « Je vois les choses un peu différemment », ça devient souvent plus facile pour la suivante.
+SENA: C'est un grand sujet au Japon. Nous avons une expression, « kuuki wo yomu ». Ça veut dire « lire l'air ».
+DANIEL: Lire l'air. J'aime bien.
+SENA: Ça veut dire comprendre l'ambiance de la salle sans que personne ne la dise. On y voit une bonne qualité. Et il y a un autre proverbe, « deru kugi wa utareru ». Le clou qui dépasse se fait enfoncer.
+DANIEL: C'est une image forte.
+SENA: Donc en réunion, si tout le monde semble d'accord, lire l'air dit en général de rester silencieux. Et souvent, la vraie discussion a lieu plus tard, une personne à la fois. Comme le nemawashi dont nous avons parlé la dernière fois.
+DANIEL: C'est intéressant, parce que beaucoup d'entreprises tech américaines disent l'inverse à voix haute. Certaines l'ont même dans leurs principes de leadership. Quelque chose comme : « Aie du caractère. Exprime ton désaccord, puis engage-toi. » Dire son désaccord ouvertement avant la décision. Puis, une fois la décision prise, la soutenir pleinement.
+SENA: Les gens le font vraiment ?
+DANIEL: Pas autant que le disent les affiches. Souviens-toi, quatre-vingt-cinq pour cent des personnes de cette étude s'étaient tues au moins une fois. La peur d'être étiqueté n'est pas seulement japonaise. Mais je pense que « lire l'air » est en fait utile ici. C'est une compétence. Tu peux lire l'air, puis choisir de le changer un peu.
+SENA: Lire l'air, puis le changer un peu. J'aime bien.
+DANIEL: Alors, de quelle compétence d'EQ s'agit-il ?
+SENA: Laisse-moi deviner. La maîtrise de soi ?
+DANIEL: La maîtrise de soi. Le désaccord naît dans ta tête. C'est ta réflexion. Mais ce qui t'a arrêtée, c'est l'émotion. Le cœur qui bat vite, la peur d'être étiquetée. La maîtrise de soi, c'est remarquer cette émotion, ne pas la laisser décider pour toi, et choisir comment parler.
+SENA: Comme la fenêtre de trente secondes de l'épisode deux.
+DANIEL: Exactement. Remarque, nomme, puis choisis. « Je suis nerveuse, et c'est normal. Je vais le dire en une phrase. »
+SENA: Mais comment le dire sans avoir l'air d'attaquer l'idée de Kato-san devant tout le monde ?
+DANIEL: Bonne question. Quelques choses simples. Commence par ce sur quoi tu es d'accord. Ensuite, sois en désaccord avec le plan, pas avec la personne. Et présente ton inquiétude comme une information, pas comme un verdict. Par exemple ?
+SENA: Peut-être : « J'aime beaucoup le tableau de bord, et je pense qu'il nous aidera énormément. Je vois un risque sur le calendrier. Certaines régions ont des données manquantes. Pourrait-on commencer par une seule région ? »
+DANIEL: Excellent. C'est précis, c'est court, et ça finit par une question. Kato-san peut dire non, et tu auras quand même fait ta part.
+SENA: Et si je n'arrive pas à le dire pendant la réunion ?
+DANIEL: Alors la deuxième meilleure option, c'est de le dire peu après, à la personne qui décide. Dans la journée, pas dans la semaine. Parler tard vaut mieux que ne jamais parler. Mais le mieux, c'est quand le groupe peut encore réfléchir ensemble.
+SENA: D'accord. Alors que dois-je faire maintenant ? La décision est déjà prise.
+DANIEL: Qu'en penses-tu ?
+SENA: Je pense que je parle à Kato-san demain. Je vais apporter la liste des valeurs manquantes, pour que ce ne soit pas juste mon impression. Et je demanderai à Ryo si je peux mentionner qu'il avait la même crainte.
+DANIEL: Bien. Demande-lui d'abord, oui. Et souviens-toi de la seconde moitié de « disagree and commit ». Si Kato-san t'écoute et décide quand même de lancer partout, alors tu aides à ce que ça marche.
+SENA: C'est juste. Alors, la pratique de cette semaine ?
+DANIEL: Cette semaine, quand tu n'es pas d'accord avec quelque chose en réunion, dis-le une fois, en une phrase. Commence par ce sur quoi tu es d'accord, puis présente ton inquiétude comme une information, et termine par une question. Quelque chose comme : « Je vois les choses un peu différemment. Voici une inquiétude. Qu'en pensez-vous ? » Si tu ne peux pas le dire dans la salle, dis-le à la personne qui décide dans les vingt-quatre heures. Ensuite, note ce que tu craignais qu'il arrive, et ce qui s'est vraiment passé.
+SENA: Accord, inquiétude, question. Et noter la peur et le résultat.
+DANIEL: Je pense que tu verras que le second est généralement plus petit que la première.
+SENA: Je l'espère. Je suis déjà un peu nerveuse pour demain.
+DANIEL: C'est normal. On peut être nerveux et courageux en même temps. La prochaine fois, on passe à la conscience de soi, et à ton objectif. Épisode douze, « What Changes When You Lead ». Ce qui change vraiment quand on devient manager, et ce qui m'a le plus surpris.
+SENA: J'ai tellement de questions là-dessus.
+DANIEL: Parfait. Apporte-les. Merci d'écouter Human Curriculum. Moi, c'est Daniel.
+SENA: Et moi, c'est Sena. Lis l'air, puis change-le un peu. À la prochaine.

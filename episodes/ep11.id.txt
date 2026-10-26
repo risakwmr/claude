@@ -1,0 +1,84 @@
+DANIEL: Selamat datang kembali di Human Curriculum. Saya Daniel Reed, People Manager di Seattle.
+SENA: Dan aku Sena Sato, Associate di Tokyo. Terakhir kali, kita membahas pengaruh tanpa otoritas. Bagaimana mendapat bantuan dari tim yang bukan di bawah kita.
+DANIEL: Hari ini, kita kembali melihat ke dalam diri. Berani bicara saat kamu tidak setuju. Tapi sebelumnya, latihannya. Sebelum meminta sesuatu dari tim lain, kamu akan menanyakan dulu apa yang mereka butuhkan. Jadi, apakah kamu sudah mengirim pesan ke Hannah?
+SENA: Sudah. Aku minta lima belas menit, dan dia setuju hari itu juga. Aku tidak mulai dari tiket-ku. Aku bertanya, "Tim kalian sedang mengejar apa kuartal ini?"
+DANIEL: Lalu?
+SENA: Ternyata mereka sedang memindahkan semua tabel ke sistem baru. Dua orang sedang cuti, dan semua tim di perusahaan mengirim permintaan ke mereka. Katanya tiket-ku tidak diabaikan. Hanya saja itu satu dari empat puluh.
+DANIEL: Satu dari empat puluh. Itu mengubah ceritanya, bukan?
+SENA: Sepenuhnya. Aku berhenti merasa tersinggung. Lalu aku cerita tentang tiga nilai kosong yang kutemukan bulan lalu. Dia kaget. Dia bilang, "Tidak ada yang memberi tahu kami soal itu. Bisa kirimkan daftarnya setiap kali kamu menemukan satu?"
+DANIEL: Nah, itu dia. Mata uangmu.
+SENA: Dan di akhir, dia bilang field baru itu bisa masuk ke sprint mereka berikutnya. Dua minggu. Tanpa eskalasi, tanpa pengingat.
+DANIEL: Hebat sekali, Sena. Apa yang kamu pelajari tentang dunia mereka?
+SENA: Tiga hal. Mereka kekurangan orang. Mereka disalahkan saat data salah, tapi jarang mendengarnya lebih awal. Dan telepon lima belas menit lebih cepat daripada tiga minggu tiket.
+DANIEL: Catatan yang bagus. Jadi, apa yang terjadi minggu ini?
+SENA: Minggu ini, aku melakukan sesuatu yang tidak kubanggakan. Atau lebih tepatnya, aku tidak melakukan sesuatu.
+DANIEL: Ceritakan.
+SENA: Hari Selasa, kami rapat tim tentang dashboard baru. Kato-san mengusulkan meluncurkannya ke semua wilayah sekaligus, bulan depan. Semua mengangguk. Dan aku punya kekhawatiran.
+DANIEL: Apa kekhawatirannya?
+SENA: Datanya. Ingat nilai kosong yang kutemukan? Beberapa wilayah punya celah. Kalau kita meluncurkan di semua tempat sekaligus, beberapa wilayah mungkin melihat angka yang salah di hari pertama. Menurutku kita sebaiknya mulai dari satu wilayah, cek datanya, lalu memperluas.
+DANIEL: Itu terdengar seperti kekhawatiran yang nyata.
+SENA: Memang. Tapi aku tidak mengatakannya. Kalimatnya sudah ada di kepalaku. Jantungku berdebar cepat. Lalu Kato-san bilang, "Baik, sepertinya kita semua setuju," dan rapat pun lanjut.
+DANIEL: Bagaimana perasaanmu setelahnya?
+SENA: Buruk. Dan sedikit marah pada diri sendiri. Belakangan, Ryo bilang dia juga punya kekhawatiran yang sama. Dia juga tidak bilang apa-apa.
+DANIEL: Dua orang dengan kekhawatiran yang sama, dan ruangan hanya mendengar keheningan. Saya akan berbagi beberapa penelitian, karena ini sangat, sangat umum.
+SENA: Buku catatanku sudah terbuka.
+DANIEL: Studi pertama oleh Frances Milliken, Elizabeth Morrison, dan Patricia Hewlin, terbit tahun 2003 di Journal of Management Studies. Mereka mewawancarai empat puluh karyawan penuh waktu dari berbagai industri. Dan delapan puluh lima persen dari mereka mengatakan bahwa setidaknya sekali, mereka merasa tidak bisa menyampaikan suatu masalah kepada atasan, padahal mereka menganggapnya penting.
+SENA: Delapan puluh lima persen. Jadi hampir semua orang.
+DANIEL: Hampir semua orang. Ini studi wawancara kecil, jadi angka persisnya bukan aturan. Tapi polanya kuat. Dan alasan paling umum untuk diam bukanlah karena masalahnya tidak penting. Melainkan takut dipandang negatif. Dicap sebagai pengeluh, atau bukan pemain tim, dan merusak hubungan yang mereka pedulikan.
+SENA: Persis itu. Aku tidak mau jadi orang yang memperlambat semuanya. Apalagi saat semua orang mengangguk.
+DANIEL: Dan ini bagian yang rumit. Saat semua orang mengangguk, rasanya seperti bukti bahwa kamu salah. Tapi mungkin semua orang mengangguk dengan alasan yang sama denganmu.
+SENA: Seperti Ryo.
+DANIEL: Seperti Ryo. Nah, studi kedua tentang mengapa ketidaksetujuanmu bisa berharga, bahkan kalau ternyata kamu salah. Charlan Nemeth dan rekan-rekannya di UC Berkeley menerbitkannya tahun 2001 di European Journal of Social Psychology. Judulnya "Devil's advocate versus authentic dissent."
+SENA: Devil's advocate. Itu saat seseorang sengaja membela sisi yang berlawanan.
+DANIEL: Benar. Beberapa tim menugaskan satu orang untuk melakukannya, untuk menghindari groupthink. Para peneliti membandingkan kelompok yang punya devil's advocate, dengan kelompok yang punya orang yang sungguh-sungguh tidak setuju. Perbedaan pendapat yang autentik. Dan kelompok dengan perbedaan pendapat yang nyata menghasilkan lebih banyak solusi yang lebih baik daripada semua versi devil's advocate.
+SENA: Jadi pendapat yang sungguhan lebih berhasil daripada peran.
+DANIEL: Itu kesimpulan mereka. Saat seseorang benar-benar meyakini hal yang berbeda, kelompok berpikir lebih keras. Argumen Nemeth yang lebih luas adalah bahwa perbedaan pendapat berguna bahkan ketika orang yang tidak setuju itu salah, karena membuat semua orang melihat lebih banyak informasi. Ini studi laboratorium, jadi situasinya lebih sederhana daripada perusahaan sungguhan. Tapi saya merasa idenya kuat.
+SENA: Jadi kekhawatiranku bukan hanya soal benar atau salah. Mengatakannya akan membantu tim berpikir.
+DANIEL: Tepat. Diam bukan hanya menyembunyikan idemu. Diam juga menghilangkan satu alasan bagi semua orang untuk berpikir ulang.
+SENA: Oke. Pertanyaan kita seperti biasa. Kenapa AI tidak bisa melakukan ini untukku? Jujur, aku bisa minta AI mencari semua risiko dalam rencana peluncuran. AI jago dalam hal itu.
+DANIEL: Memang. Dan kamu sebaiknya memakainya untuk memeriksa pemikiranmu. Tapi lihat lagi studi Nemeth. Devil's advocate adalah sebuah peran. Seseorang diminta untuk tidak setuju. Dalam arti tertentu, AI yang diminta mendaftar risiko juga memainkan peran itu. Tidak ada yang di ruangan itu perlu menanggapinya dengan serius, karena tidak ada yang meyakininya. Saya tidak tahu ada penelitian yang menguji ini dengan AI. Itu hanya dugaan saya. Tapi perbedaan pendapat yang nyata datang dari orang yang punya sesuatu yang dipertaruhkan.
+SENA: Seperti reputasiku.
+DANIEL: Reputasimu, hubunganmu dengan Kato-san, dan pengetahuanmu tentang nilai-nilai kosong itu. AI tidak menemukan celah-celah itu. Kamu yang menemukannya, dengan mengerjakan pekerjaan itu setiap bulan. Dan bagian tersulitnya bukan menemukan risikonya. Tapi lima belas detik saat jantungmu berdebar cepat, dan kamu memutuskan untuk tetap membuka mulut. Tidak ada alat yang bisa menjalani lima belas detik itu untukmu.
+SENA: Jadi AI bisa membantuku menyiapkan apa yang akan kukatakan. Tapi aku sendiri yang harus mengatakannya.
+DANIEL: Tepat. Sekarang, cerita kegagalan saya. Beberapa tahun lalu, saya ada di rapat peninjauan peluncuran sebuah alat internal baru. Rencananya mengganti sistem lama untuk semua orang pada akhir pekan yang sama. Saya pikir itu berisiko. Saya bahkan menulis catatan tentang itu di laptop.
+SENA: Tapi kamu tidak mengatakannya.
+DANIEL: Direkturnya sangat bersemangat, dan ruangan itu penuh orang senior. Saya bilang pada diri sendiri, "Mereka pasti sudah memikirkan ini." Peluncurannya berjalan buruk. Tiga tim tidak bisa bekerja selama dua hari.
+SENA: Aduh.
+DANIEL: Dan belakangan, salah satu insinyur di tim lain, seorang perempuan bernama Mei, mengatakan sesuatu yang masih saya ingat. Dia bilang, "Aku juga khawatir. Tapi saat kamu tidak bilang apa-apa, aku anggap semuanya baik-baik saja. Kamu lebih paham sistemnya daripada aku."
+SENA: Jadi diammu membuat dia ikut diam.
+DANIEL: Itu yang menyakitkan. Saya kira diam itu netral. Ternyata tidak. Itu sebuah sinyal.
+SENA: Itu yang terjadi antara aku dan Ryo. Kami berdua saling menunggu.
+DANIEL: Diam itu menular. Dan bicara juga, omong-omong. Begitu satu orang bilang, "Saya melihatnya sedikit berbeda," sering kali jadi lebih mudah bagi orang berikutnya.
+SENA: Ini topik besar di Jepang. Kami punya ungkapan, "kuuki wo yomu." Artinya "membaca suasana."
+DANIEL: Membaca suasana. Saya suka itu.
+SENA: Artinya kamu memahami suasana ruangan tanpa ada yang mengatakannya. Itu dianggap keterampilan yang baik. Dan ada pepatah lain, "deru kugi wa utareru." Paku yang menonjol akan dipalu.
+DANIEL: Gambaran yang kuat.
+SENA: Jadi dalam rapat, kalau semua orang tampak setuju, membaca suasana biasanya menyuruhmu diam. Dan sering kali, diskusi yang sebenarnya terjadi belakangan, satu per satu. Seperti nemawashi yang kita bahas terakhir kali.
+DANIEL: Itu menarik, karena banyak perusahaan teknologi AS mengatakan hal sebaliknya secara terbuka. Beberapa bahkan menuliskannya dalam prinsip kepemimpinan mereka. Kira-kira, "Have backbone. Disagree, and then commit." Tidak setuju secara terbuka sebelum keputusan. Lalu, setelah diputuskan, dukung sepenuhnya.
+SENA: Apa orang benar-benar melakukannya?
+DANIEL: Tidak sebanyak yang dikatakan poster-posternya. Ingat, delapan puluh lima persen orang dalam studi wawancara itu pernah diam setidaknya sekali. Takut dicap bukan hanya hal orang Jepang. Tapi menurut saya "membaca suasana" sebenarnya berguna di sini. Itu sebuah keterampilan. Kamu bisa membaca suasana, lalu memilih untuk mengubahnya sedikit.
+SENA: Baca suasana, lalu ubah sedikit. Aku suka itu.
+DANIEL: Jadi, ini keterampilan EQ yang mana?
+SENA: Biar kutebak. Manajemen diri?
+DANIEL: Manajemen diri. Ketidaksetujuan itu mulai di kepalamu. Itu pemikiranmu. Tapi yang menghentikanmu adalah perasaannya. Detak jantung cepat, takut dicap. Manajemen diri berarti kamu menyadari perasaan itu, tidak membiarkannya memutuskan untukmu, dan kamu memilih bagaimana berbicara.
+SENA: Seperti jeda tiga puluh detik dari episode dua.
+DANIEL: Persis seperti itu. Sadari, beri nama, lalu pilih. "Saya gugup, dan itu normal. Saya akan mengatakannya dalam satu kalimat."
+SENA: Tapi bagaimana cara mengatakannya tanpa terdengar menyerang ide Kato-san di depan semua orang?
+DANIEL: Pertanyaan bagus. Beberapa hal sederhana. Mulai dari hal yang kamu setujui. Lalu tidak setuju dengan rencananya, bukan orangnya. Dan sampaikan kekhawatiranmu sebagai informasi, bukan vonis. Misalnya?
+SENA: Mungkin, "Saya suka dashboard-nya, dan saya rasa ini akan sangat membantu. Saya melihat satu risiko soal waktunya. Beberapa wilayah punya data yang kosong. Bisakah kita mulai dari satu wilayah dulu?"
+DANIEL: Itu luar biasa. Spesifik, singkat, dan diakhiri dengan pertanyaan. Kato-san boleh bilang tidak, dan kamu tetap sudah melakukan bagianmu.
+SENA: Dan kalau aku tidak bisa mengatakannya di rapat?
+DANIEL: Maka yang terbaik berikutnya adalah mengatakannya segera setelahnya, kepada orang yang memutuskan. Dalam sehari, bukan seminggu. Bicara terlambat lebih baik daripada tidak sama sekali. Tapi paling baik kalau kelompok masih bisa berpikir bersama.
+SENA: Oke. Jadi apa yang harus kulakukan sekarang? Keputusannya sudah dibuat.
+DANIEL: Menurutmu bagaimana?
+SENA: Kurasa aku bicara dengan Kato-san besok. Aku akan membawa daftar nilai kosong, jadi bukan hanya perasaanku. Dan aku akan bertanya pada Ryo apakah aku boleh menyebut bahwa dia punya kekhawatiran yang sama.
+DANIEL: Bagus. Tanya dia dulu, ya. Dan ingat separuh kedua dari "disagree and commit." Kalau Kato-san mendengarkan dan tetap memutuskan meluncurkan di semua tempat, maka kamu membantu membuatnya berhasil.
+SENA: Itu adil. Jadi, latihan minggu ini?
+DANIEL: Minggu ini, saat kamu tidak setuju dengan sesuatu dalam rapat, katakan sekali, dalam satu kalimat. Mulai dari hal yang kamu setujui, lalu sampaikan kekhawatiranmu sebagai informasi, dan akhiri dengan pertanyaan. Sesuatu seperti, "Saya melihatnya sedikit berbeda. Ini satu kekhawatiran saya. Bagaimana menurut Anda?" Kalau kamu tidak bisa mengatakannya di ruangan, sampaikan kepada orang yang memutuskan dalam dua puluh empat jam. Setelahnya, tulis apa yang kamu takutkan akan terjadi, dan apa yang benar-benar terjadi.
+SENA: Setuju, kekhawatiran, pertanyaan. Dan tulis rasa takut dan hasilnya.
+DANIEL: Saya rasa kamu akan menemukan bahwa yang kedua biasanya lebih kecil daripada yang pertama.
+SENA: Semoga begitu. Aku sudah agak gugup soal besok.
+DANIEL: Itu normal. Gugup dan berani bisa terjadi bersamaan. Lain kali, kita beralih ke kesadaran diri, dan ke tujuanmu. Episode dua belas, "What Changes When You Lead." Apa yang benar-benar berubah saat kamu menjadi People Manager, dan apa yang paling mengejutkan saya.
+SENA: Aku punya banyak sekali pertanyaan soal itu.
+DANIEL: Bagus. Bawa saja. Terima kasih sudah mendengarkan Human Curriculum. Saya Daniel.
+SENA: Dan aku Sena. Baca suasana, lalu ubah sedikit. Sampai jumpa lain kali.

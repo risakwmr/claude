@@ -1,0 +1,84 @@
+DANIEL: Bem-vindos de volta ao Human Curriculum. Eu sou Daniel Reed, People Manager em Seattle.
+SENA: E eu sou Sena Sato, associada em Tóquio. Da última vez, falamos sobre influência sem autoridade. Como conseguir ajuda de uma equipe que você não gerencia.
+DANIEL: E hoje vamos olhar para dentro de novo. Falar quando você discorda. Mas antes, a prática. Antes de pedir algo a outra equipe, você ia perguntar primeiro do que eles precisam. Então, você mandou mensagem para a Hannah?
+SENA: Mandei. Pedi quinze minutos e ela aceitou no mesmo dia. E eu não comecei pelo meu ticket. Perguntei: "No que a sua equipe está trabalhando neste trimestre?"
+DANIEL: E aí?
+SENA: Descobri que eles estão migrando todas as tabelas para um sistema novo. Duas pessoas estão de licença, e todas as equipes da empresa estão mandando pedidos para eles. Ela disse que o meu ticket não foi ignorado. Era só um entre quarenta.
+DANIEL: Um entre quarenta. Isso muda a história, não muda?
+SENA: Totalmente. Eu parei de me sentir ofendida. Aí contei para ela sobre os três valores ausentes que encontrei no mês passado. Ela ficou surpresa. Disse: "Ninguém nos conta isso. Você pode me mandar uma lista toda vez que encontrar um?"
+DANIEL: Aí está. A sua moeda de troca.
+SENA: E no final, ela disse que o campo novo podia entrar no próximo sprint deles. Duas semanas. Sem escalar, sem lembretes.
+DANIEL: Que maravilha, Sena. O que você aprendeu sobre o mundo deles?
+SENA: Três coisas. Eles têm pouca gente. Levam a culpa quando os dados estão errados, mas raramente ficam sabendo cedo. E uma chamada de quinze minutos foi mais rápida do que três semanas de tickets.
+DANIEL: Ótimas anotações. Então, o que está acontecendo esta semana?
+SENA: Esta semana, eu fiz uma coisa de que não me orgulho. Ou melhor, eu deixei de fazer uma coisa.
+DANIEL: Conte.
+SENA: Na terça, tivemos uma reunião de equipe sobre o novo dashboard. O Kato-san propôs lançá-lo em todas as regiões ao mesmo tempo, no mês que vem. Todo mundo concordou com a cabeça. E eu tinha uma preocupação.
+DANIEL: Qual era a preocupação?
+SENA: Os dados. Lembra dos valores ausentes que eu encontrei? Algumas regiões têm lacunas. Se lançarmos em todo lugar de uma vez, algumas regiões podem ver números errados no primeiro dia. Eu achava que devíamos começar com uma região, conferir os dados e depois expandir.
+DANIEL: Isso parece uma preocupação de verdade.
+SENA: Era. Mas eu não falei. Eu tinha a frase pronta na cabeça. Meu coração estava acelerado. E então o Kato-san disse: "Certo, parece que estamos todos de acordo", e a reunião seguiu em frente.
+DANIEL: Como você se sentiu depois?
+SENA: Mal. E um pouco brava comigo mesma. Mais tarde, o Ryo me contou que tinha a mesma preocupação. Ele também não disse nada.
+DANIEL: Duas pessoas com a mesma preocupação, e a sala ouviu silêncio. Deixe-me compartilhar uma pesquisa, porque isso é muito, muito comum.
+SENA: Meu caderno está aberto.
+DANIEL: O primeiro estudo é de Frances Milliken, Elizabeth Morrison e Patricia Hewlin, publicado em 2003 no Journal of Management Studies. Eles entrevistaram quarenta funcionários em tempo integral de diferentes setores. E oitenta e cinco por cento deles disseram que, pelo menos uma vez, sentiram que não conseguiam levantar um problema com o chefe, mesmo achando que era importante.
+SENA: Oitenta e cinco por cento. Quase todo mundo.
+DANIEL: Quase todo mundo. Foi um estudo pequeno, com entrevistas, então o número exato não é uma regra. Mas o padrão é forte. E o motivo mais comum que as pessoas deram para ficar quietas não era que o problema não importava. Era o medo de serem vistas de forma negativa. De serem rotuladas como reclamonas, ou como alguém que não joga em equipe, e de prejudicar relações que importavam para elas.
+SENA: É exatamente isso. Eu não queria ser a pessoa que atrasa tudo. Principalmente com todo mundo concordando com a cabeça.
+DANIEL: E aqui está a parte complicada. Quando todo mundo concorda com a cabeça, parece uma prova de que você está errada. Mas talvez todo mundo esteja concordando pelo mesmo motivo que você.
+SENA: Como o Ryo.
+DANIEL: Como o Ryo. Agora, o segundo estudo é sobre por que a sua discordância pode ser valiosa, mesmo que você esteja errada. Charlan Nemeth e seus colegas da UC Berkeley publicaram em 2001 no European Journal of Social Psychology. O título é "Devil's advocate versus authentic dissent."
+SENA: Advogado do diabo. É quando alguém defende o outro lado de propósito.
+DANIEL: Isso. Algumas equipes escolhem uma pessoa para fazer isso, para evitar o pensamento de grupo. Os pesquisadores compararam grupos em que alguém fazia o advogado do diabo com grupos em que alguém realmente discordava. Dissenso autêntico. E os grupos com dissenso real criaram mais soluções, e melhores, do que qualquer uma das versões com advogado do diabo.
+SENA: Então uma opinião de verdade funciona melhor do que um papel.
+DANIEL: Foi a conclusão deles. Quando alguém realmente acredita em algo diferente, o grupo pensa com mais cuidado. O argumento mais amplo de Nemeth é que a discordância é útil mesmo quando quem discorda está errado, porque faz todo mundo olhar para mais informações. É um estudo de laboratório, então o cenário é mais simples do que o de uma empresa de verdade. Mas eu acho a ideia poderosa.
+SENA: Então a minha preocupação não era só sobre estar certa. Falar ajudaria a equipe a pensar.
+DANIEL: Exatamente. O silêncio não esconde só a sua ideia. Ele tira de todos os outros um motivo para pensar de novo.
+SENA: Certo. Nossa pergunta de sempre. Por que a IA não pode fazer isso por mim? Sinceramente, eu poderia pedir à IA que encontrasse todos os riscos do plano de lançamento. Ela é boa nisso.
+DANIEL: É mesmo. E você deve usá-la para checar o seu raciocínio. Mas olhe de novo o estudo de Nemeth. O advogado do diabo era um papel. Alguém a quem pediram para discordar. De certa forma, uma IA a quem pedem para listar riscos também está fazendo esse papel. Ninguém na sala precisa levar a sério, porque ninguém acredita naquilo. Não conheço pesquisas que testem isso com IA. É só um palpite meu. Mas o dissenso real vem de uma pessoa que tem algo em jogo.
+SENA: Como a minha reputação.
+DANIEL: Sua reputação, sua relação com o Kato-san e o seu conhecimento sobre aqueles valores ausentes. A IA não encontrou essas lacunas. Você encontrou, fazendo o trabalho todo mês. E a parte difícil não é achar o risco. São os quinze segundos em que o coração está acelerado e você decide abrir a boca mesmo assim. Nenhuma ferramenta faz esses quinze segundos por você.
+SENA: Então a IA pode me ajudar a preparar o que dizer. Mas eu tenho que dizer.
+DANIEL: Exatamente. Agora, a minha história de fracasso. Alguns anos atrás, eu estava numa revisão de lançamento de uma ferramenta interna nova. O plano era substituir um sistema antigo para todo mundo no mesmo fim de semana. Eu achava arriscado. Cheguei a escrever uma nota sobre isso no meu laptop.
+SENA: Mas você não falou.
+DANIEL: O diretor estava muito animado e a sala estava cheia de gente sênior. Eu disse a mim mesmo: "Eles com certeza já pensaram nisso." O lançamento foi mal. Três equipes não conseguiram trabalhar por dois dias.
+SENA: Ai, não.
+DANIEL: E mais tarde, uma das engenheiras de outra equipe, uma mulher chamada Mei, me disse uma coisa de que ainda me lembro. Ela disse: "Eu tinha a mesma preocupação. Mas quando você não disse nada, achei que estava tudo bem. Você conhecia o sistema melhor do que eu."
+SENA: Então o seu silêncio deixou ela em silêncio também.
+DANIEL: Foi isso que doeu. Eu achava que ficar quieto era neutro. Não era. Era um sinal.
+SENA: Foi o que aconteceu comigo e com o Ryo. Os dois esperando o outro.
+DANIEL: O silêncio se espalha. E a voz também, aliás. Quando uma pessoa diz "eu vejo isso de um jeito um pouco diferente", muitas vezes fica mais fácil para a próxima.
+SENA: Esse é um grande tema no Japão. Temos uma expressão, "kuuki wo yomu". Significa "ler o ar".
+DANIEL: Ler o ar. Gostei.
+SENA: Significa entender o clima da sala sem que ninguém diga. É visto como uma boa habilidade. E há outro ditado, "deru kugi wa utareru". O prego que se destaca leva martelada.
+DANIEL: Que imagem forte.
+SENA: Então, numa reunião, se todo mundo parece concordar, ler o ar normalmente diz para ficar quieta. E muitas vezes a discussão de verdade acontece depois, um a um. Como o nemawashi de que falamos da última vez.
+DANIEL: Isso é interessante, porque muitas empresas de tecnologia dos EUA dizem o contrário em voz alta. Algumas até colocam isso nos princípios de liderança. Algo como: "Tenha coragem. Discorde e depois se comprometa." Discorde abertamente antes da decisão. Depois, uma vez decidido, apoie totalmente.
+SENA: As pessoas fazem isso mesmo?
+DANIEL: Não tanto quanto os cartazes dizem. Lembre que oitenta e cinco por cento das pessoas daquele estudo de entrevistas ficaram quietas pelo menos uma vez. O medo de ser rotulado não é só coisa japonesa. Mas acho que "ler o ar" é útil aqui. É uma habilidade. Você pode ler o ar e depois escolher mudá-lo um pouco.
+SENA: Ler o ar e depois mudá-lo um pouco. Gostei.
+DANIEL: Então, qual habilidade de EQ é essa?
+SENA: Deixa eu adivinhar. Autogerenciamento?
+DANIEL: Autogerenciamento. A discordância começa na sua cabeça. Esse é o seu raciocínio. Mas o que te parou foi a emoção. Coração acelerado, medo de ser rotulada. Autogerenciamento é perceber essa emoção, não deixar que ela decida por você e escolher como falar.
+SENA: Como a janela de trinta segundos do episódio dois.
+DANIEL: Exatamente. Perceber, dar nome, depois escolher. "Estou nervosa, e isso é normal. Vou dizer em uma frase."
+SENA: Mas como eu digo sem parecer que estou atacando a ideia do Kato-san na frente de todo mundo?
+DANIEL: Boa pergunta. Algumas coisas simples. Comece pelo que você concorda. Depois discorde do plano, não da pessoa. E apresente a sua preocupação como informação, não como veredito. Por exemplo?
+SENA: Talvez: "Eu gosto do dashboard e acho que vai ajudar muito. Vejo um risco no prazo. Algumas regiões têm dados ausentes. Podemos começar com uma região primeiro?"
+DANIEL: Excelente. É específico, é curto e termina com uma pergunta. O Kato-san pode dizer não, e você ainda assim fez a sua parte.
+SENA: E se eu não conseguir falar na reunião?
+DANIEL: Então a segunda melhor opção é falar logo depois, com a pessoa que decide. Em um dia, não em uma semana. Falar tarde é melhor do que nunca. Mas o melhor é quando o grupo ainda pode pensar junto.
+SENA: Certo. E o que eu faço agora? A decisão já foi tomada.
+DANIEL: O que você acha?
+SENA: Acho que converso com o Kato-san amanhã. Vou levar a lista de valores ausentes, para não ser só uma sensação minha. E vou perguntar ao Ryo se posso mencionar que ele tinha a mesma preocupação.
+DANIEL: Bom. Pergunte a ele primeiro, sim. E lembre da segunda metade de "discordar e se comprometer". Se o Kato-san ouvir e mesmo assim decidir lançar em todo lugar, aí você ajuda a fazer dar certo.
+SENA: Justo. Então, qual é a prática desta semana?
+DANIEL: Esta semana, quando você discordar de algo numa reunião, diga uma vez, em uma frase. Comece pelo que você concorda, depois apresente a preocupação como informação e termine com uma pergunta. Algo como: "Eu vejo isso de um jeito um pouco diferente. Aqui está uma preocupação. O que você acha?" Se não conseguir dizer na sala, fale com quem decide em até vinte e quatro horas. Depois, anote do que você tinha medo que acontecesse e o que realmente aconteceu.
+SENA: Concordar, preocupação, pergunta. E anotar o medo e o resultado.
+DANIEL: Acho que você vai perceber que o segundo geralmente é menor que o primeiro.
+SENA: Espero que sim. Já estou um pouco nervosa com amanhã.
+DANIEL: É normal. Nervosa e corajosa podem acontecer ao mesmo tempo. Da próxima vez, vamos falar de autoconsciência e do seu objetivo. Episódio doze, "What Changes When You Lead". O que realmente muda quando você vira People Manager, e o que mais me surpreendeu.
+SENA: Tenho tantas perguntas sobre isso.
+DANIEL: Ótimo. Traga todas. Obrigado por ouvir o Human Curriculum. Eu sou o Daniel.
+SENA: E eu sou a Sena. Ler o ar e depois mudá-lo um pouco. Até a próxima.

@@ -61,5 +61,12 @@
     "due_at": "2026-10-25T11:00:00.000Z",
     "video_url": "https://cdn.jsdelivr.net/gh/risakwmr/claude@reels-media/ep03_reel_ai.mp4",
     "created_at": "2026-10-25T02:59:28Z"
+  },
+  "3-story": {
+    "buffer_post_id": "6adec27d3d5b27036b07583f",
+    "status": "scheduled",
+    "due_at": "2026-10-26T11:00:00.000Z",
+    "video_url": "https://cdn.jsdelivr.net/gh/risakwmr/claude@reels-media/ep03_reel_story.mp4",
+    "created_at": "2026-10-26T03:01:16Z"
   }
 }

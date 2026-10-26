@@ -214,5 +214,9 @@
   "8-ai": {
     "episode": 8,
     "reported": true
+  },
+  "12-lab": {
+    "episode": 12,
+    "reported": true
   }
 }

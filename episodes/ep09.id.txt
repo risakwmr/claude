@@ -1,0 +1,92 @@
+DANIEL: Selamat datang kembali di Human Curriculum. Saya Daniel Reed, People Manager di Seattle.
+SENA: Dan aku Sena Sato, Associate di Tokyo. Terakhir kali, kita membahas cara membuat pekerjaanmu terlihat. Kenapa pekerjaan yang bagus tidak selalu bisa berbicara sendiri.
+DANIEL: Dan hari ini kita membahas orang-orang di sampingmu. Rekan sejawatmu. Bagaimana kepercayaan dibangun, dan hilang, dalam momen-momen kecil sehari-hari. Tapi pertama, latihannya. Kamu berencana mengirim Kato-san update mingguan tiga baris pada hari Jumat.
+SENA: Sudah. Baris satu: "Laporan bulanan selesai. Pipeline baru berjalan sekitar satu jam, bukan dua hari secara manual. Ryo membantu mengujinya." Baris dua, rencana berikutnya. Baris tiga, satu risiko kecil soal sumber data.
+DANIEL: Kamu menyebut nama Ryo. Bagus. Bagaimana rasanya?
+SENA: Hazukashii, seperti yang kuduga. Tapi aku mengirimnya.
+DANIEL: Dan bagaimana tanggapan Kato-san?
+SENA: Cuma satu baris. "Terima kasih. Sangat mudah dibaca." Jujur, aku agak kecewa. Tapi lalu di sesi one-on-one hari Selasa, aku bertanya apakah dia bisa membantu membuat kerja pipeline itu terlihat oleh Laura.
+DANIEL: Kesimpulan dulu, tapi dengan ramah.
+SENA: Tepat sekali. Dia bilang, "Tentu. Seharusnya aku sudah melakukannya." Dia menambahkan dua kalimat tentang pipeline di ringkasan bulanannya untuk Laura. Laura belum bilang apa-apa. Tapi Kato-san juga menyebutnya di rapat tim kami.
+DANIEL: Itu hasil yang sederhana, tapi nyata. Informasinya sekarang ada di tempat yang tepat.
+SENA: Ya. Tapi masalahku minggu ini justru dimulai di rapat tim itu.
+DANIEL: Waduh. Ceritakan.
+SENA: Waktu Kato-san bilang, "Sena yang membangun pipeline baru," Ryo tersenyum dan bilang, "Iya, Sena yang mengerjakan semua bagian yang sulit." Tapi setelah rapat, dia jadi lebih pendiam denganku. Tidak kasar. Hanya sedikit menjauh.
+DANIEL: Mungkin dia merasa malu soal pengakuan itu.
+SENA: Kurasa begitu. Dan aku harus jujur soal bagianku. Sekitar tiga minggu lalu, Ryo bertanya bagaimana cara menjalankan pipeline sendiri, kalau-kalau aku sedang cuti. Aku bilang, "Tentu, nanti aku tulis catatan untukmu." Lalu aku lupa. Minggu lalu aku tidak masuk sehari karena sakit, pipeline perlu dijalankan ulang, dan Ryo tidak tahu caranya. Dia bertahan sampai jam sembilan malam memperbaikinya secara manual.
+DANIEL: Aduh. Kombinasi yang menyakitkan.
+SENA: Waktu aku kembali, dia bilang, "Tidak apa-apa." Tapi kurasa sebenarnya tidak begitu.
+DANIEL: Mungkin memang tidak. Dan ini yang aku perhatikan. Di pikiranmu, "nanti aku tulis catatan" cuma komentar santai. Di pikirannya, itu janji.
+SENA: Tidak ada tanggalnya, jadi aku tidak menganggapnya janji.
+DANIEL: Begitulah kebanyakan janji antar rekan sejawat terlanggar. Bukan pengkhianatan besar. Tapi komitmen kecil yang samar dan menghilang diam-diam. Aku bagikan beberapa penelitian ya.
+SENA: Buku catatanku sudah siap.
+DANIEL: Yang pertama oleh Ayelet Gneezy dari UC San Diego dan Nicholas Epley dari University of Chicago. Dipublikasikan tahun 2014 di jurnal Social Psychological and Personality Science. Judulnya sudah menjelaskan semuanya. "Worth keeping but not exceeding: Asymmetric consequences of breaking versus exceeding promises."
+SENA: Layak ditepati, tapi tidak perlu dilampaui. Hmm.
+DANIEL: Mereka mengajukan pertanyaan sederhana. Kita tahu mengingkari janji membuat orang menilai kita lebih rendah. Tapi kalau kita bekerja ekstra keras untuk melampaui janji, apakah orang menilai kita lebih tinggi?
+SENA: Kupikir iya.
+DANIEL: Kebanyakan orang berpikir begitu. Dalam satu eksperimen, orang membayangkan membeli tiket konser untuk baris sepuluh. Lalu mereka mendapat kursi yang lebih buruk, kursi yang persis sama, atau kursi yang lebih baik. Kursi yang lebih buruk membuat orang kecewa. Tapi kursi yang lebih baik tidak membuat orang lebih senang daripada kursi persis seperti yang dijanjikan.
+SENA: Benarkah?
+DANIEL: Benar. Dan mereka tidak hanya memakai situasi bayangan. Di eksperimen lain, orang bekerja berpasangan. Satu orang punya teka-teki untuk dipecahkan dan dibayar untuk tiap teka-teki. Pasangannya berjanji membantu sepuluh. Lalu pasangan itu benar-benar menyelesaikan lima, sepuluh, atau lima belas.
+SENA: Lima berarti mengingkari janji. Lima belas berarti melampaui harapan.
+DANIEL: Betul. Dan orang yang menerima lima belas tidak lebih menghargai daripada orang yang menerima tepat sepuluh. Hanya lima yang membuat perbedaan nyata, ke arah negatif. Mereka menemukan pola serupa ketika orang mengingat janji nyata dari kehidupan mereka sendiri.
+SENA: Jadi kalau aku ingin membangun kembali kepercayaan Ryo, aku tidak perlu melakukan hal yang besar.
+DANIEL: Tidak perlu. Aku tambahkan satu peringatan. Ini eksperimen singkat, dengan tugas kecil dan situasi bayangan, jadi tidak mencakup semua hal dalam hubungan kerja yang panjang. Tapi menurutku pesannya melegakan. Kepercayaan tidak butuh usaha heroik. Kepercayaan butuh konsistensi.
+SENA: Studi kedua tentang apa?
+DANIEL: Yang ini tentang memperbaiki kepercayaan setelah rusak. Maurice Schweitzer, John Hershey, dan Eric Bradlow, di Wharton School. Dipublikasikan tahun 2006 di Organizational Behavior and Human Decision Processes. Judulnya "Promises and lies: Restoring violated trust."
+SENA: Bagaimana mereka mengujinya?
+DANIEL: Rancangannya berupa permainan. Sekitar dua ratus enam puluh orang memainkan beberapa ronde permainan kepercayaan dengan seorang pasangan. Di tiap ronde, mereka bisa menyimpan sebagian uang, atau memberikannya ke pasangan, tempat uang itu bertambah. Lalu pasangan bisa mengirim sebagian kembali, atau menyimpan semuanya. Pasangan itu sebenarnya bagian dari eksperimen, jadi semua orang melihat perilaku yang sama. Di dua ronde pertama, pasangan tidak mengirim apa pun kembali. Lalu di ronde-ronde berikutnya, pasangan itu bersikap adil.
+SENA: Jadi awal yang buruk, lalu perilaku yang baik.
+DANIEL: Tepat. Setelah awal yang buruk, sebagian orang mendapat janji untuk berubah, sebagian mendapat permintaan maaf. Dan dalam beberapa kasus, pasangan itu sudah berbohong sebelumnya, berjanji akan mengirim uang kembali lalu tidak melakukannya.
+SENA: Apa yang terjadi?
+DANIEL: Tiga hal yang menurutku berguna. Pertama, kalau pasangan hanya berperilaku buruk, tanpa berbohong, kepercayaan pulih cukup baik begitu pasangan mulai berperilaku konsisten. Kedua, janji untuk berubah membantu kepercayaan pulih lebih cepat di awal. Tapi seiring waktu, tindakan yang konsisten yang paling banyak bekerja. Dan ketiga, kalau pasangan pernah berbohong, kepercayaan tidak pernah pulih sepenuhnya, bahkan dengan janji, permintaan maaf, dan beberapa ronde perilaku baik.
+SENA: Jadi tindakan memperbaiki kepercayaan. Dan ketidakjujuran yang benar-benar merusaknya.
+DANIEL: Begitulah aku membacanya. Ini permainan laboratorium dengan uang, bukan kantor, jadi jangan diartikan terlalu harfiah. Tapi ini cocok dengan yang pernah aku lihat. Orang memaafkan kesalahan. Mereka jauh lebih sulit memaafkan karena merasa dibohongi.
+SENA: Kalau begitu, dengan Ryo, hal terburuk adalah pura-pura tidak lupa.
+DANIEL: Tepat. Mengatakan "Aku lupa, dan aku minta maaf kamu sampai lembur" itu jujur. Mengatakan "Aku berencana mengirimnya minggu ini" padahal tidak, itulah hal yang meninggalkan bekas yang lama.
+SENA: Adakah cara untuk memikirkan kepercayaan itu terbuat dari apa?
+DANIEL: Ada. Makalah klasik oleh Roger Mayer, James Davis, dan David Schoorman, di Academy of Management Review tahun 1995. Ini makalah teori, bukan eksperimen, tapi sangat berpengaruh. Mereka menggambarkan kepercayaan sebagai kesediaan untuk rentan terhadap orang lain. Dan mereka bilang kita menilai apakah seseorang layak dipercaya dari tiga hal. Kemampuan, apakah dia bisa melakukannya. Niat baik, apakah dia peduli pada kepentinganku. Dan integritas, apakah dia memegang prinsip yang kuanggap pantas, seperti menepati kata-katanya.
+SENA: Kemampuan, niat baik, integritas. Ryo percaya pada kemampuanku. Itu bukan masalahnya.
+DANIEL: Betul. Catatanmu yang terlupakan menyentuh dua yang lain. Apakah dia peduli aku sampai lembur? Apakah dia melakukan apa yang dia katakan? Janji-janji kecil langsung menjawab pertanyaan-pertanyaan itu.
+SENA: Oke, ini pertanyaan kita yang biasa. Kenapa AI tidak bisa melakukan ini untukku? Asisten AI bisa melacak semua komitmenku dan mengingatkanku. Mungkin dia akan mengingatkanku soal catatan Ryo.
+DANIEL: Mungkin, dan aku akan memakai alat seperti itu. Tapi Ryo tidak percaya pada sistem pengingat. Dia percaya padamu. Saat kamu menepati janji, kamu memilih dia di antara seratus hal lain dalam harimu. Pilihan itulah yang dia rasakan.
+SENA: Jadi pengingat itu alat, tapi menepatinya bagianku.
+DANIEL: Ya. Dan AI tidak menyadari Ryo jadi lebih pendiam setelah rapat, atau tahu bahwa dia mungkin merasa malu soal pengakuan itu. Menyadari itu, lalu memutuskan apa yang dikatakan dan kapan, adalah penilaian manusia.
+SENA: Oke. Cerita kegagalanmu.
+DANIEL: Yang ini masih membuatku meringis. Beberapa tahun lalu, seorang manajer sejawat bernama Elena memintaku berbagi salah satu engineer-ku secara paruh waktu untuk proyeknya. Aku bilang, "Biar aku lihat dulu." Seminggu kemudian dia bertanya lagi. Aku bilang, "Ya, aku sedang melihatnya." Ini terjadi tiga kali.
+SENA: Dalam bahasa Jepang, kami punya ungkapan yang mirip. "Zensho shimasu." Kedengarannya seperti ya, tapi sering artinya tidak.
+DANIEL: Persis seperti itu. Aku tidak mau bilang tidak, jadi aku mengatakan sesuatu yang terdengar seperti ya. Dan setelah ketiga kalinya, Elena berhenti bertanya. Kukira masalahnya sudah hilang.
+SENA: Tapi ternyata tidak.
+DANIEL: Tidak. Berbulan-bulan kemudian, aku butuh bantuan dari timnya untuk sebuah tenggat. Dan dia berkata, dengan sangat sopan, "Nanti aku lihat apa yang bisa kulakukan." Dan tidak ada yang terjadi. Belakangan, seorang teman bercerita bahwa Elena pernah bilang, "Daniel itu baik, tapi jangan diandalkan."
+SENA: Aduh. Kalimat yang berat untuk didengar.
+DANIEL: Memang. Dengan timku sendiri, aku bisa diandalkan. Tapi dengan rekan sejawat, aku membuat janji-janji lemah yang tidak kuanggap serius. Bagi dia, janji-janji itu nyata.
+SENA: Apa yang kamu lakukan?
+DANIEL: Aku menemuinya dan bilang, "Maaf. Aku terus bilang akan melihatnya, padahal jawaban jujurnya adalah tidak. Seharusnya aku bilang di minggu pertama." Canggung, tapi dia berterima kasih. Dan aku membuat aturan untuk diriku sendiri. Aku tidak mengatakan "Aku lihat dulu" tanpa tanggal. Entah "Aku kabari hari Kamis," atau "Tidak, aku tidak bisa" dengan jujur.
+SENA: Tidak yang jujur lebih baik daripada ya yang samar.
+DANIEL: Jauh lebih baik. Tidak yang jelas bisa dijadikan dasar rencana. Ya yang samar pelan-pelan berubah jadi janji yang terlanggar.
+SENA: Kurasa ini terkait budaya. Di Jepang, kami sangat serius soal ketepatan waktu. Kereta, rapat, tenggat. Tapi dengan rekan sejawat, banyak kepercayaan dibangun seiring waktu. Bertahun-tahun di tim yang sama, minum bersama setelah kerja, saling membantu diam-diam. Begitu kepercayaan ada, sangat stabil.
+DANIEL: Di banyak tempat kerja di AS, rasanya bisa berbeda. Orang sering memulai dengan kepercayaan yang cukup terbuka, karena tidak ada waktu untuk menunggu bertahun-tahun. Tim berubah dengan cepat. Jadi kepercayaan diuji sejak awal, lewat apa yang kamu hasilkan. Kalau kamu melakukan yang kamu katakan tepat waktu, orang merasa tenang. Kalau tidak, mereka cepat menyadarinya.
+SENA: Jadi di AS, janji kecil mungkin lebih penting lagi di awal.
+DANIEL: Kurasa begitu. Dan bahasa Inggris Amerika punya jebakannya sendiri. "Let's grab coffee sometime," atau "I'll circle back." Sering kali tidak ada yang bermaksud itu sebagai janji.
+SENA: Jadi kedua budaya punya ya yang samar.
+DANIEL: Tepat. Dan ini pola yang luas, bukan aturan tentang individu. Ryo itu satu orang, bukan satu budaya. Keterampilannya sama di mana-mana. Buat komitmenmu jelas, dan tepati.
+SENA: Jadi ini keterampilan EQ yang mana?
+DANIEL: Ini manajemen hubungan. Itu ranah tentang bagaimana kamu membangun dan menjaga hubunganmu, dan bagaimana menanganinya saat ada yang salah. Minggu lalu atasanmu. Minggu ini rekan sejawat. Dan dengan rekan sejawat, kamu tidak punya wewenang. Kamu hanya punya kepercayaan. Manajemen hubungan dengan rekan sejawat sebagian besar tentang menjadi orang yang bisa diandalkan.
+SENA: Dan sedikit kesadaran diri juga. Menyadari saat aku hampir membuat janji yang samar hanya demi sopan santun.
+DANIEL: Ya. Saat kamu merasa dorongan untuk bilang "Oke, nanti aku kerjakan" tanpa berpikir. Sadari itu. Lalu entah buat jadi spesifik, atau jangan dibuat.
+SENA: Jadi apa yang harus kukatakan ke Ryo?
+DANIEL: Singkat dan jujur saja. Sesuatu seperti, "Maaf soal catatan pipeline. Aku bilang akan menulisnya, tapi tidak kulakukan, dan kamu jadi lembur karenanya." Lalu, daripada janji besar, satu janji kecil yang spesifik.
+SENA: Bukan, "Mulai sekarang aku akan selalu membantumu."
+DANIEL: Betul. Janji kecil yang benar-benar kamu tepati lebih berharga daripada janji besar yang tidak bisa kamu tepati.
+SENA: Oke, latihan minggu ini?
+DANIEL: Minggu ini, buat satu janji kecil yang spesifik kepada rekan sejawat. Apa yang akan kamu lakukan, dan kapan. Tulis di tempat yang akan kamu lihat. Lalu tepati, tepat waktu. Dan kalau terjadi sesuatu sehingga kamu tidak bisa, beri tahu mereka sebelum tenggat, bukan sesudahnya.
+SENA: Apa, kapan, ditulis, ditepati tepat waktu. Dan kalau tidak bisa, beri tahu sebelumnya.
+DANIEL: Bagian terakhir itu penting. "Aku akan terlambat sehari" pada Selasa pagi membangun kepercayaan. Diam pada Rabu sore merusaknya.
+SENA: Kalau begitu aku sudah tahu janjiku. Daftar periksa langkah demi langkah yang singkat untuk Ryo tentang cara menjalankan pipeline. Satu halaman. Aku akan mengirimnya sebelum Rabu siang.
+DANIEL: Itu spesifik. Di mana kamu akan menuliskannya?
+SENA: Di buku catatanku, dan di kalenderku untuk Selasa sore, supaya aku punya waktu menyelesaikannya.
+DANIEL: Sempurna. Dan mungkin minta dia mencobanya sekali dan memberitahumu apa yang kurang jelas. Dengan begitu itu jadi sesuatu yang kalian bangun bersama.
+SENA: Lalu dia juga jadi ahli pipeline. Itu mungkin membantu mengatasi kecanggungan soal pengakuan itu.
+DANIEL: Mungkin. Berbagi pengetahuan adalah cara yang murah hati untuk berbagi pengakuan. Lain kali, kita beralih ke kesadaran sosial. Episode sepuluh, "Influence Without Authority". Cara menyelesaikan sesuatu dengan tim lain saat kamu bukan atasan mereka.
+SENA: Itu keseharianku dengan Seattle. Dan sebelum itu, kamu akan menanyakan soal Rabu siang.
+DANIEL: Pasti. Terima kasih sudah mendengarkan Human Curriculum. Saya Daniel.
+SENA: Dan aku Sena. Buat satu janji kecil minggu ini, dan tepati. Sampai jumpa lain kali.

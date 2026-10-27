@@ -1,0 +1,92 @@
+DANIEL: Bienvenidos de nuevo a Human Curriculum. Soy Daniel Reed, People Manager en Seattle.
+SENA: Y yo soy Sena Sato, asociada en Tokio. La última vez hablamos de hacer visible tu trabajo. Por qué el buen trabajo no siempre habla por sí solo.
+DANIEL: Y hoy hablamos de las personas que tienes al lado. Tus compañeros. Cómo se construye y se pierde la confianza en los pequeños momentos de cada día. Pero primero, la práctica. Ibas a enviarle a Kato-san una actualización semanal de tres líneas el viernes.
+SENA: Lo hice. Línea uno: "Terminé el informe mensual. El nuevo pipeline se ejecutó en una hora, en lugar de dos días a mano. Ryo ayudó a probarlo." Línea dos, lo que sigue. Línea tres, un pequeño riesgo sobre una fuente de datos.
+DANIEL: Nombraste a Ryo. Muy bien. ¿Cómo te sentiste?
+SENA: Hazukashii, como esperaba. Pero lo envié.
+DANIEL: ¿Y cómo respondió Kato-san?
+SENA: Solo una línea. "Gracias. Muy fácil de leer." Estaba un poco decepcionada, la verdad. Pero luego, en nuestra reunión individual del martes, le pregunté si podía ayudar a que el trabajo del pipeline fuera visible para Laura.
+DANIEL: La conclusión primero, pero con amabilidad.
+SENA: Exacto. Dijo: "Claro. Debería haberlo hecho ya." Añadió dos frases sobre el pipeline en su resumen mensual para Laura. Laura todavía no ha dicho nada. Pero Kato-san también lo mencionó en la reunión del equipo.
+DANIEL: Es un resultado modesto, pero real. La información ya está en el lugar correcto.
+SENA: Sí. Pero mi problema de esta semana empezó justo en esa reunión del equipo.
+DANIEL: Uy. Cuéntame.
+SENA: Cuando Kato-san dijo: "Sena construyó el nuevo pipeline", Ryo sonrió y dijo: "Sí, Sena hizo todo el trabajo difícil." Pero después de la reunión, estuvo más callado conmigo. No fue grosero. Solo un poco distante.
+DANIEL: Quizá se sintió incómodo por el reconocimiento.
+SENA: Creo que sí. Y tengo que ser sincera sobre mi parte. Hace unas tres semanas, Ryo me preguntó cómo ejecutar el pipeline él mismo, por si yo estaba de vacaciones. Le dije: "Claro, te escribo unas notas." Y luego me olvidé. La semana pasada falté un día por enfermedad, el pipeline necesitó una nueva ejecución y Ryo no sabía cómo hacerla. Se quedó hasta las nueve de la noche arreglándolo a mano.
+DANIEL: Ay. Es una combinación dolorosa.
+SENA: Cuando volví, me dijo: "No te preocupes." Pero no creo que de verdad no fuera nada.
+DANIEL: Probablemente no. Y mira lo que noto. En tu mente, "te escribo unas notas" fue un comentario casual. En la suya, fue una promesa.
+SENA: No había fecha, así que no lo traté como una promesa.
+DANIEL: Así es como se rompen la mayoría de las promesas entre compañeros. No con grandes traiciones. Con compromisos pequeños y vagos que desaparecen en silencio. Déjame compartir algunas investigaciones.
+SENA: Mi cuaderno está listo.
+DANIEL: La primera es de Ayelet Gneezy, de la UC San Diego, y Nicholas Epley, de la Universidad de Chicago. Se publicó en 2014 en la revista Social Psychological and Personality Science. El título lo dice todo. "Worth keeping but not exceeding: Asymmetric consequences of breaking versus exceeding promises."
+SENA: Vale la pena cumplir, pero no superar. Mmm.
+DANIEL: Hicieron una pregunta sencilla. Sabemos que romper una promesa hace que la gente piense peor de nosotros. Pero si nos esforzamos extra para ir más allá de una promesa, ¿la gente piensa mejor de nosotros?
+SENA: Yo diría que sí.
+DANIEL: La mayoría diría lo mismo. En un experimento, la gente imaginaba que compraba entradas de concierto para la fila diez. Luego les tocaban peores asientos, los asientos exactos o mejores asientos. Los peores asientos hacían infeliz a la gente. Pero los mejores asientos no los hacían más felices que los asientos exactos que les habían prometido.
+SENA: ¿En serio?
+DANIEL: En serio. Y no usaron solo situaciones imaginadas. En otro experimento, la gente trabajaba en parejas. Una persona tenía rompecabezas por resolver y le pagaban por cada uno. Su compañero prometía ayudar con diez. Luego el compañero resolvía en realidad cinco, diez o quince.
+SENA: Cinco es romper la promesa. Quince es ir más allá de lo esperado.
+DANIEL: Exacto. Y quienes recibieron quince no lo agradecieron más que quienes recibieron exactamente diez. Solo cinco marcó una diferencia real, en sentido negativo. Encontraron un patrón parecido cuando la gente recordaba promesas reales de su propia vida.
+SENA: Entonces, si quiero reconstruir la confianza con Ryo, no necesito hacer algo enorme.
+DANIEL: No. Yo añadiría una advertencia. Son experimentos cortos, con tareas pequeñas y situaciones imaginadas, así que no captan todo lo que pasa en una relación laboral larga. Pero el mensaje me parece liberador. La confianza no necesita esfuerzos heroicos. Necesita fiabilidad.
+SENA: ¿Cuál es el segundo estudio?
+DANIEL: Este trata de reparar la confianza después de que se daña. Maurice Schweitzer, John Hershey y Eric Bradlow, de la Wharton School. Publicado en 2006 en Organizational Behavior and Human Decision Processes. El título es "Promises and lies: Restoring violated trust."
+SENA: ¿Cómo lo probaron?
+DANIEL: Es un juego. Unas doscientas sesenta personas jugaron varias rondas de un juego de confianza con un compañero. En cada ronda, podían quedarse con algo de dinero o pasárselo al compañero, donde crecía. Luego el compañero podía devolver una parte o quedarse con todo. El compañero en realidad era parte del experimento, así que todos vieron el mismo comportamiento. En las dos primeras rondas, el compañero no devolvió nada. Luego, en las rondas siguientes, el compañero se comportó con justicia.
+SENA: O sea, un mal comienzo y luego buen comportamiento.
+DANIEL: Exacto. Después del mal comienzo, algunos recibieron una promesa de cambio, otros una disculpa. Y en algunos casos, el compañero había mentido antes: prometía devolver dinero y luego no lo hacía.
+SENA: ¿Qué pasó?
+DANIEL: Tres cosas que me parecen útiles. Primero, cuando el compañero solo se había portado mal, sin mentir, la confianza se recuperó bastante bien en cuanto empezó a comportarse de forma constante. Segundo, una promesa de cambio ayudó a recuperar la confianza más rápido al principio. Pero con el tiempo, las acciones constantes hicieron la mayor parte del trabajo. Y tercero, cuando el compañero había mentido, la confianza nunca se recuperó del todo, ni con una promesa, ni con una disculpa, ni con varias rondas de buen comportamiento.
+SENA: O sea, las acciones reparan la confianza. Y la deshonestidad es lo que de verdad la rompe.
+DANIEL: Así lo leo yo. Es un juego de laboratorio con dinero, no una oficina, así que no lo tomaría al pie de la letra. Pero coincide con lo que he visto. La gente perdona los errores. Le cuesta mucho más perdonar que la hayan engañado.
+SENA: Entonces, con Ryo, lo peor sería fingir que no me olvidé.
+DANIEL: Exacto. Decir "Me olvidé, y lamento que te quedaras hasta tarde" es honesto. Decir "Pensaba enviártelo esta semana" cuando no era cierto, eso es lo que deja una marca duradera.
+SENA: ¿Hay una forma de pensar de qué está hecha la confianza?
+DANIEL: Sí. Un artículo clásico de Roger Mayer, James Davis y David Schoorman, en la Academy of Management Review en 1995. Es un artículo teórico, no un experimento, pero ha sido muy influyente. Describen la confianza como la disposición a ser vulnerable ante otra persona. Y dicen que juzgamos si alguien es digno de confianza según tres cosas. Capacidad: ¿puede hacerlo? Benevolencia: ¿le importan mis intereses? E integridad: ¿respeta principios que yo considero aceptables, como cumplir su palabra?
+SENA: Capacidad, benevolencia, integridad. Ryo confía en mi capacidad. Ese no es el problema.
+DANIEL: Exacto. Tus notas olvidadas tocaron las otras dos. ¿Le importó que me quedara hasta tarde? ¿Hace lo que dice? Las promesas pequeñas hablan directamente de esas preguntas.
+SENA: Bien, aquí va nuestra pregunta de siempre. ¿Por qué no puede hacer esto la IA por mí? Un asistente de IA podría llevar el registro de todos mis compromisos y recordármelos. Probablemente me habría recordado las notas de Ryo.
+DANIEL: Podría, y yo usaría una herramienta así. Pero Ryo no confía en un sistema de recordatorios. Confía en ti. Cuando cumples una promesa, lo eliges a él por encima de las otras cien cosas de tu día. Esa elección es lo que él siente.
+SENA: O sea, el recordatorio es una herramienta, pero cumplir es cosa mía.
+DANIEL: Sí. Y la IA no nota que Ryo se quedó más callado después de la reunión, ni sabe que quizá se sintió incómodo por el reconocimiento. Notar eso, y decidir qué decir y cuándo, es juicio humano.
+SENA: Bien. Tu historia de fracaso.
+DANIEL: Esta todavía me hace encogerme. Hace unos años, una compañera gerente llamada Elena me pidió compartir a uno de mis ingenieros a tiempo parcial para su proyecto. Yo dije: "Déjame verlo." Una semana después volvió a preguntar. Dije: "Sí, lo estoy viendo." Esto pasó tres veces.
+SENA: En japonés tenemos una frase parecida. "Zensho shimasu." Suena como un sí, pero muchas veces significa no.
+DANIEL: Eso fue exactamente lo que pasó. No quería decir que no, así que dije algo que sonaba a sí. Y después de la tercera vez, Elena dejó de preguntar. Yo pensé que el problema había desaparecido.
+SENA: Pero no había desaparecido.
+DANIEL: No. Meses después, necesité ayuda de su equipo para una fecha límite. Y ella dijo, muy educadamente: "Veré qué puedo hacer." Y no pasó nada. Más tarde, un amigo me contó que Elena había dicho: "Daniel es simpático, pero no cuentes con él."
+SENA: Uf. Es una frase dura de escuchar.
+DANIEL: Lo fue. Con mi propio equipo era confiable. Pero con mis compañeros, había estado haciendo promesas blandas que no me tomaba en serio. Para ella eran reales.
+SENA: ¿Qué hiciste?
+DANIEL: Fui a verla y le dije: "Lo siento. Seguí diciendo que lo vería, y la respuesta honesta era no. Debí decírtelo la primera semana." Fue incómodo, pero me dio las gracias. Y me puse una regla. No digo "Lo voy a ver" sin una fecha. O "Te aviso el jueves", o un "No, no puedo" honesto.
+SENA: Un no honesto es mejor que un sí vago.
+DANIEL: Mucho mejor. Con un no claro la gente puede planificar. Un sí vago poco a poco se convierte en una promesa rota.
+SENA: Creo que esto se conecta con la cultura. En Japón nos tomamos muy en serio la puntualidad. Trenes, reuniones, fechas límite. Pero con los compañeros, mucha confianza se construye con el tiempo. Años en el mismo equipo, beber juntos después del trabajo, ayudarse en silencio. Una vez que existe la confianza, es muy estable.
+DANIEL: En muchos lugares de trabajo de Estados Unidos puede sentirse distinto. La gente suele empezar con una confianza bastante abierta, porque no hay tiempo para esperar años. Los equipos cambian rápido. Así que la confianza se pone a prueba pronto, por lo que entregas. Si haces lo que dijiste para cuando lo dijiste, la gente se relaja. Si no, lo notan enseguida.
+SENA: O sea, en Estados Unidos las promesas pequeñas pueden importar todavía más al principio.
+DANIEL: Creo que sí. Y el inglés americano tiene su propia trampa. "Let's grab coffee sometime", o "I'll circle back". Muchas veces nadie lo dice como una promesa.
+SENA: O sea, las dos culturas tienen síes vagos.
+DANIEL: Exacto. Y estos son patrones generales, no reglas sobre individuos. Ryo es una persona, no una cultura. La habilidad es la misma en todas partes. Deja claros tus compromisos y cúmplelos.
+SENA: Entonces, ¿qué habilidad de inteligencia emocional es esta?
+DANIEL: Es la gestión de las relaciones. Ese es el dominio sobre cómo construyes y mantienes tus relaciones, y cómo las manejas cuando algo sale mal. La semana pasada fue tu jefe. Esta semana son los compañeros. Y con los compañeros no tienes autoridad. Solo tienes confianza. La gestión de las relaciones con los compañeros consiste sobre todo en ser alguien con quien se puede contar.
+SENA: Y también un poco de autoconciencia. Notar cuándo estoy a punto de hacer una promesa vaga solo por ser cortés.
+DANIEL: Sí. Ese momento en que sientes el impulso de decir "Claro, lo hago" sin pensar. Nótalo. Y entonces, o lo haces específico, o no lo prometas.
+SENA: ¿Y qué debería decirle a Ryo?
+DANIEL: Sé breve y honesta. Algo como: "Lamento lo de las notas del pipeline. Dije que las escribiría, no lo hice, y por eso te quedaste hasta tarde." Y luego, en vez de una gran promesa, una pequeña y específica.
+SENA: No "Siempre te voy a ayudar de ahora en adelante".
+DANIEL: Exacto. Una promesa pequeña que de verdad cumples vale más que una grande que no puedes cumplir.
+SENA: Bien, ¿y la práctica de esta semana?
+DANIEL: Esta semana, haz una promesa pequeña y específica a un compañero. Qué harás y para cuándo. Anótalo donde lo veas. Luego cúmplelo, a tiempo. Y si pasa algo y no puedes, díselo antes de la fecha límite, no después.
+SENA: Qué, para cuándo, anotado, cumplido a tiempo. Y si no puedo, avisar antes.
+DANIEL: Esa última parte importa. "Voy a llegar un día tarde" el martes por la mañana genera confianza. El silencio del miércoles por la tarde la rompe.
+SENA: Entonces ya sé cuál es mi promesa. Una lista breve de pasos para Ryo sobre cómo ejecutar el pipeline. Una página. Se la enviaré el miércoles a mediodía.
+DANIEL: Eso es específico. ¿Dónde lo vas a anotar?
+SENA: En mi cuaderno, y en mi calendario para el martes por la tarde, para tener tiempo de terminarla.
+DANIEL: Perfecto. Y quizá pídele que la pruebe una vez y te diga qué no queda claro. Así se convierte en algo que construyen juntos.
+SENA: Entonces él también se vuelve experto en el pipeline. Eso podría ayudar con la incomodidad del reconocimiento.
+DANIEL: Podría. Compartir conocimiento es una forma generosa de compartir el mérito. La próxima vez pasamos a la conciencia social. Episodio diez, "Influence Without Authority". Cómo lograr cosas con otros equipos cuando no eres su jefe.
+SENA: Eso es mi vida diaria con Seattle. Y antes, me vas a preguntar por el miércoles a mediodía.
+DANIEL: Claro que sí. Gracias por escuchar Human Curriculum. Soy Daniel.
+SENA: Y yo soy Sena. Haz una promesa pequeña esta semana, y cúmplela. Hasta la próxima.

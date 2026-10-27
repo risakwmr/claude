@@ -1,0 +1,92 @@
+DANIEL: Bienvenidos de nuevo a Human Curriculum. Soy Daniel Reed, People Manager en Seattle.
+SENA: Y yo soy Sena Sato, asociada en Tokio. La última vez hablamos de ganarse la confianza de los compañeros. Cómo la confianza crece en pequeños momentos cotidianos, y por qué importan las promesas pequeñas.
+DANIEL: Y hoy hablamos de algo con lo que toda carrera se topa tarde o temprano. Lograr cosas con personas a las que no diriges. Influencia sin autoridad. Pero primero, la práctica. Ibas a hacerle una promesa pequeña y concreta a un compañero, anotarla y cumplirla a tiempo.
+SENA: Mi promesa fue para Ryo. Una lista corta, paso a paso, para ejecutar el proceso del informe mensual, antes del miércoles al mediodía.
+DANIEL: ¿Y lo lograste?
+SENA: La envié el martes por la tarde. Ocho pasos, una página. Escribí la promesa en una nota adhesiva en mi monitor, para no poder fingir que se me olvidó. Pero hubo un pequeño problema. Ryo se atascó en el paso cuatro. No tenía acceso a una carpeta. Yo la configuré para mí hace meses y se me olvidó.
+DANIEL: El paso que no ves es el que ya hiciste.
+SENA: Así que arreglé el acceso y agregué un paso cero. "Comprueba que puedes abrir esta carpeta." Y luego, en la reunión del equipo el viernes, Ryo dijo: "La lista de Sena me ahorró medio día." Delante de Kato-san.
+DANIEL: Qué bien. Y fíjate, él hizo visible tu trabajo por ti. Entonces, ¿qué pasa esta semana?
+SENA: Esta semana estoy bloqueada. Y no es alguien de mi equipo. Es otro equipo.
+DANIEL: Cuéntame.
+SENA: Mark, el product manager, pidió un número nuevo en el informe mensual. Actividad de clientes por región. Para eso necesito que agreguen un campo a una tabla de datos. Pero esa tabla pertenece al equipo de plataforma de datos en Seattle. Su líder es una mujer llamada Hannah. Nunca la he conocido.
+DANIEL: O sea, necesitas algo de un equipo sobre el que no tienes ninguna autoridad.
+SENA: Sí. Hace tres semanas abrí un ticket. Solicitud clara, fecha límite clara, la conclusión primero. No pasó nada. Después de una semana, mandé un recordatorio. Luego otro. La semana pasada, el ticket pasó a su columna de "más adelante".
+DANIEL: Uf. ¿Cómo te sentiste?
+SENA: ¿Sinceramente? Un poco insultada. Para ellos es quizá una hora de trabajo. Y lo siguiente que pensé fue que quizá debería pedirle a Kato-san que le escriba al jefe de Hannah.
+DANIEL: Escalar.
+SENA: Escalar. Pero algo no me cuadraba. Así que quise hablar contigo primero.
+DANIEL: Me alegra que lo hicieras. Primero déjame compartir algo de investigación.
+SENA: Mi cuaderno está abierto.
+DANIEL: El primer estudio es en realidad una buena noticia. Es de Francis Flynn y Vanessa Lake, publicado en 2008 en el Journal of Personality and Social Psychology. El título es un consejo. "If you need help, just ask." En un experimento, unos estudiantes tenían que pedirles a desconocidos en el campus que llenaran un cuestionario corto. Antes de empezar, calcularon a cuántas personas tendrían que pedírselo hasta que suficientes aceptaran. En promedio, calcularon unas veinte. En realidad, necesitaron unas diez.
+SENA: O sea, la mitad.
+DANIEL: Más o menos la mitad. Se repitió en otras situaciones. Pedir prestado el teléfono a un desconocido. Incluso en recaudaciones de fondos benéficas reales. En todos los estudios, la gente subestimó cuántas veces los demás dirían que sí en cerca de un cincuenta por ciento.
+SENA: ¿Por qué calculamos tan mal?
+DANIEL: Los autores sugieren que pensamos en el costo de decir que sí. El tiempo, el esfuerzo. Pero olvidamos lo incómodo que es decirle que no a una persona real que te lo pide directamente. Decir que no en persona es difícil. Y este es el detalle que más me gusta. Cuando la solicitud era un folleto en vez de una persona, el efecto se invertía. La gente sobrestimaba. O sea, el poder no está en la solicitud. Está en el contacto humano.
+SENA: Y un ticket es básicamente un folleto.
+DANIEL: Eso es exactamente lo que estaba pensando. Un ticket en una cola es fácil de mover a "más adelante". Una persona en una videollamada es mucho más difícil de mover a "más adelante". Estos fueron sobre todo estudios con estudiantes y desconocidos, no con compañeros de trabajo. Así que los números no son una regla. Pero la dirección es útil. La gente está más dispuesta a ayudar de lo que esperamos, cuando realmente hablamos con ella.
+SENA: Eso anima. ¿Cuál es el segundo estudio?
+DANIEL: El segundo trata de cómo pides. Gary Yukl y Bruce Tracey lo publicaron en 1992 en el Journal of Applied Psychology. Estudiaron a ciento veintiocho gerentes en cinco empresas grandes. Y le preguntaron a más de mil de sus subordinados directos, compañeros y jefes cómo intentaba el gerente influir en ellos, y con qué frecuencia eso llevaba a un compromiso real.
+SENA: Compromiso real, o sea, no solo decir que sí.
+DANIEL: Exacto. Entusiasmo real y esfuerzo extra. Examinaron nueve tácticas de influencia. Con los compañeros, las tres más ligadas al compromiso fueron la persuasión racional, los llamados inspiradores y la consulta.
+SENA: ¿Qué es exactamente la consulta?
+DANIEL: Según su definición, es cuando invitas a la otra persona a ayudar a planear aquello para lo que quieres su apoyo. O estás dispuesto a cambiar tu solicitud para atender sus preocupaciones. La tratas como socia en el plan, no como un mostrador de servicio.
+SENA: ¿Y qué tácticas no funcionaron?
+DANIEL: La presión y la legitimación. Legitimar es decir: "Esto es política de la empresa", o "Mi jefe quiere esto". Y aquí viene la parte que te va a gustar. La definición de presión de los investigadores incluía exigencias, amenazas y recordatorios persistentes.
+SENA: Recordatorios persistentes. Ay no. Esa soy yo.
+DANIEL: Dos recordatorios educados no son un delito. Pero desde el lado de Hannah, pueden sentirse como presión de una desconocida. Una advertencia: este estudio es correlacional. La gente contó lo que recordaba, así que no prueba que la consulta cause compromiso. Pero el patrón es útil.
+SENA: Entonces mi plan de escalar es básicamente legitimación. "Mi jefe quiere esto."
+DANIEL: Puede que consigas el campo. También puede que pierdas a Hannah. Y vas a necesitar a su equipo otra vez. Y una idea más, de un clásico de los libros de negocios. Allan Cohen y David Bradford escribieron "Influence Without Authority", ahora en su tercera edición. Describen lo que la gente valora como "monedas". La influencia se vuelve posible cuando entiendes lo que valora la otra persona y puedes ofrecerle algo que le importa.
+SENA: ¿Monedas? ¿Como dinero?
+DANIEL: No dinero. Cosas como ayuda con una tarea difícil, reconocimiento, un sentido de propósito, una mejor relación, o simplemente sentirse comprendido. Y lo importante es que cada equipo tiene una moneda distinta. No puedes ofrecer la correcta si no sabes cuál es.
+SENA: Y yo no sé nada del equipo de Hannah. Solo sé lo que quiero de ellos. Bueno, nuestra pregunta de siempre. ¿Por qué la IA no puede hacer esto por mí? Una herramienta de IA podría escribir una solicitud preciosa.
+DANIEL: Podría escribir las palabras. Pero la influencia sin autoridad no es principalmente un problema de redacción. Tu ticket ya estaba bien escrito. El problema era que el equipo de Hannah no tenía ninguna razón para que le importara. Para encontrar esa razón, alguien tiene que sentarse con una persona real, preguntarle qué está enfrentando y escuchar. Quizá les faltan dos ingenieros. Quizá tu campo rompe algo que tú no puedes ver.
+SENA: Y quizá solo se lo cuenten a una persona en quien confían.
+DANIEL: La gente no comparte sus problemas reales con un formulario. Y la segunda parte es la relación a lo largo del tiempo. Si Hannah te ayuda, y tú después la ayudas a ella, eso se convierte en confianza entre dos equipos. La IA no puede ser quien recuerda, se presenta y devuelve el favor. Eso tienes que hacerlo tú.
+SENA: O sea, la IA puede ayudarme a escribir el mensaje. Pero la razón para decir que sí viene de la relación.
+DANIEL: Muy bien dicho. Ahora, mi historia de fracaso. En mi primer año como gerente, mi equipo necesitaba que el equipo de seguridad aprobara una herramienta nueva. Su revisión era lenta. Mandé un ticket, luego recordatorios, luego más recordatorios. ¿Te suena?
+SENA: Dolorosamente.
+DANIEL: Después de un mes, le pedí a mi director que hablara con el director de seguridad. La aprobación llegó en dos días.
+SENA: O sea, funcionó.
+DANIEL: Eso pensé yo. Pero el líder de seguridad, un hombre llamado Tom, se volvió muy formal conmigo después de eso. Cada solicitud de mi equipo recibió la revisión más lenta y más cuidadosa posible. Nada injusto, solo nada extra. Durante casi un año.
+SENA: Ah. Sintió que pasaste por encima de él.
+DANIEL: Así fue. Y mucho después, durante un almuerzo, me contó lo que había pasado ese mes. Su equipo estaba en plena auditoría externa, tres personas cubrían a cinco y trabajaban los fines de semana. Mi pequeña herramienta era lo último para lo que tenían tiempo. Y yo nunca pregunté. Solo le dije lo que necesitaba.
+SENA: Si lo hubieras sabido, ¿qué habrías hecho?
+DANIEL: Probablemente esperar dos semanas. U ofrecerme a llenar yo mismo sus documentos de revisión. Cosas pequeñas. En cambio, pasé un año reparando una relación. Ahora, antes de pedirle algo importante a otro equipo, tengo primero una conversación. No sobre mi solicitud. Sobre su mundo.
+SENA: Es una historia dura. Gracias por compartirla.
+DANIEL: Fui eficiente durante un mes y lento durante un año.
+SENA: Esto se conecta con Japón de una forma interesante. Tenemos una palabra, "nemawashi".
+DANIEL: Cuéntame más.
+SENA: Viene de la jardinería. Antes de mover un árbol grande, se cava con cuidado alrededor de las raíces. En una empresa, nemawashi significa hablar con cada persona, una por una, antes de la reunión oficial. Explicas tu idea, escuchas sus preocupaciones y ajustas. Así, cuando llega la reunión, la gente ya está de acuerdo.
+DANIEL: Eso se parece mucho a la consulta.
+SENA: Sí. Y también tenemos el "ringi". Un documento de propuesta que va pasando por cada departamento, y cada gerente le pone su sello. Es lento, pero cuando termina, todos sienten que también es su decisión.
+DANIEL: En muchas empresas de EE. UU., el estilo es mucho más rápido. Abres un ticket, mandas un mensaje directo o lo planteas en una reunión. Pero los mejores influyentes que conozco en Seattle hacen algo muy parecido al nemawashi. Solo que lo llaman "pre-wiring", o "socializing an idea". Hablan con las personas clave antes de la gran reunión.
+SENA: O sea, los estadounidenses también hacen nemawashi. Solo que no tienen una palabra para eso.
+DANIEL: Los buenos, sí. Y lo que me parece gracioso es esto. Tú creciste con el nemawashi. Pero cuando trabajaste con Seattle, cambiaste a un estilo puramente estadounidense. Un ticket y recordatorios.
+SENA: Tienes razón. Pensé que la forma estadounidense era simplemente pedir directamente. Así que me salté la parte en la que en realidad soy buena.
+DANIEL: Nadie quiere diez reuniones para un cambio de una hora. Pero una conversación corta sobre sus prioridades cabe en cualquier cultura.
+SENA: Entonces, ¿qué habilidad de inteligencia emocional es esta?
+DANIEL: Es conciencia social. El dominio de entender a los demás. Antes se trataba de una persona, como cuando Mark lee tu correo. Hoy es un nivel más amplio. Algunos modelos de inteligencia emocional lo llaman conciencia organizacional. Entender con qué está lidiando otro equipo. Sus presiones, sus prioridades, por qué existe su columna de "más adelante".
+SENA: O sea, la pregunta no es "¿Cómo hago que lo hagan?". Es "¿Cómo se ve su mundo ahora mismo?".
+DANIEL: Exacto. Y una vez que ves su mundo, la influencia suele volverse mucho más fácil. A veces encuentras un intercambio. A veces descubres que tu solicitud debe esperar, y eso también es útil.
+SENA: Bien. Entonces, ¿qué hago con Hannah?
+DANIEL: ¿Tú qué piensas?
+SENA: Un tercer recordatorio no. Y Kato-san tampoco, al menos todavía no. Quizá le pido a Hannah quince minutos. Y no empiezo con mi ticket. Empiezo preguntándole por su equipo.
+DANIEL: ¿Qué le preguntarías?
+SENA: Algo como: "¿Hacia qué está trabajando tu equipo este trimestre? ¿Y hay algo que haría más fáciles para ustedes solicitudes como la mía?"
+DANIEL: Excelente. ¿Y luego?
+SENA: Luego escucho. Y tomo notas, claro.
+DANIEL: Claro. Y una idea. Tu proceso usa sus tablas todos los meses. Probablemente notas los problemas de datos antes que nadie. Eso podría ser una moneda. Algo que ella valora y que tú sí puedes ofrecer.
+SENA: El mes pasado encontré tres valores faltantes en una de sus tablas. Los arreglé de mi lado y nunca se los dije.
+DANIEL: Puede que eso sea justo lo que ella necesita oír.
+SENA: Entonces, ¿la práctica de esta semana?
+DANIEL: Esta semana, antes de pedirle algo a otro equipo, primero pregúntales qué necesitan. Ten una conversación corta, una llamada, un café o un mensaje directo. Pregunta algo como: "¿Hacia qué están trabajando este trimestre y hay algo que les haría esto más fácil?" Luego escucha, y no saltes a tu solicitud. Después, anota dos o tres cosas que aprendiste sobre su mundo.
+SENA: Preguntar, escuchar y anotar. Antes de hacer mi solicitud.
+DANIEL: Y fíjate en las ganas de correr de vuelta a tu propia solicitud en medio de su respuesta. Déjalas pasar. Su respuesta es la parte más valiosa.
+SENA: Le escribiré a Hannah mañana por la mañana, hora de Seattle. Y si me ayuda, me aseguraré de que su equipo reciba el crédito en el informe.
+DANIEL: Eso sí es una moneda. Me encantaría saber qué dice.
+SENA: A mí también. Estoy un poco nerviosa.
+DANIEL: Recuerda, la gente está más dispuesta a ayudar de lo que esperamos. La próxima vez pasamos a la autogestión. Episodio once, "Speaking Up When You Disagree". Qué hacer cuando ves algo distinto en una reunión y tu instinto es quedarte callada.
+SENA: Esa soy yo en casi todas las reuniones.
+DANIEL: Entonces es el siguiente episodio justo. Gracias por escuchar Human Curriculum. Soy Daniel.
+SENA: Y yo soy Sena. Primero pregunta qué necesitan. Hasta la próxima.

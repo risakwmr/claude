@@ -348,13 +348,13 @@ My suggestion would be to push [the data cleanup] to [next month].
 ```
 〔月次レポート〕と〔アンケートのまとめ〕が、どちらも〔金曜〕締切になっています。
 両方を〔金曜〕に仕上げるのは難しそうです。
-〔アンケートのまとめ〕を〔来週火曜〕にずらせるか、相談させてください。
+〔アンケートのまとめ〕を〔来週水曜〕にずらせるか、相談させてください。
 ```
 
 ```
 [The monthly report] and [the survey summary] are both due on [Friday].
 I don't think I can finish both to a good standard by then.
-Would it be possible to move [the survey summary] to [next Tuesday]?
+Would it be possible to move [the survey summary] to [next Wednesday]?
 ```
 
 ### 3. 新しい依頼を受けるとき
@@ -367,13 +367,13 @@ Would it be possible to move [the survey summary] to [next Tuesday]?
 ```
 お引き受けしたいです。
 今の一覧だと、これを入れると〔勉強会の資料〕が〔11/4〕に間に合わなくなりそうです。
-〔勉強会の資料〕を後ろにする形でよければ、〔水曜〕から入れます。
+〔勉強会の資料〕を後ろにする形でよければ、〔明日（木曜）〕から入れます。
 ```
 
 ```
 Happy to take this on.
 Looking at my current list, adding it would put [the workshop deck] at risk for [Nov 4].
-If it's OK to push [the workshop deck], I can start on this from [Wednesday].
+If it's OK to push [the workshop deck], I can start on this from [tomorrow (Thursday)].
 ```
 
 依頼したのが上司以外（別チームの人など）のとき：
@@ -480,7 +480,7 @@ I've dropped my current list here in advance [link].
 
 ```
 今日の相談のメモです。
-・〔アンケートのまとめ〕：〔来週火曜〕に変更
+・〔アンケートのまとめ〕：〔来週水曜〕に変更
 ・〔過去データの整理〕：〔来月〕に回す
 ・〔月次レポート〕〔勉強会の資料〕：今の締切のまま
 〔2週間後〕の1on1で、もう一度一覧を見させてください。
@@ -488,7 +488,7 @@ I've dropped my current list here in advance [link].
 
 ```
 Quick recap of today's conversation:
-- [Survey summary]: moved to [next Tuesday]
+- [Survey summary]: moved to [next Wednesday]
 - [Data cleanup]: pushed to [next month]
 - [Monthly report] and [workshop deck]: no change
 I'll bring the updated list to our 1:1 in [two weeks].

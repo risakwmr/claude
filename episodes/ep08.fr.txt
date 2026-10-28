@@ -1,0 +1,78 @@
+DANIEL: Bienvenue de nouveau dans Human Curriculum. Je suis Daniel Reed, People Manager à Seattle.
+SENA: Et moi, c'est Sena Sato, associée à Tokyo. La dernière fois, nous avons parlé de la communication à faible contexte. Mettre la conclusion en premier.
+DANIEL: Et aujourd'hui, nous parlons de quelque chose qui met beaucoup de monde mal à l'aise. Rendre ton travail visible. Mais d'abord, la pratique. Tu devais réécrire un message. D'abord la conclusion, puis la demande avec une date, puis les détails. Et ensuite le relire comme le lecteur.
+SENA: Je l'ai fait avec Mark, le product manager de Seattle. Il y a eu un autre petit problème de données cette semaine, donc j'ai eu une vraie occasion de réessayer.
+DANIEL: Bon timing, d'une certaine façon. Qu'est-ce que tu as écrit ?
+SENA: Ma première ligne, c'était : « Bonjour Mark, une décision nécessaire d'ici jeudi. » Ensuite deux options, chacune en une phrase. Puis : « Détails ci-dessous, si besoin. » Et tout à la fin, une ligne de chaleur : « Merci de ta patience avec ce jeu de données. Il a été compliqué. »
+DANIEL: Et ?
+SENA: Il a répondu en onze minutes. « Option B. Merci de m'avoir rendu ça si facile. » J'ai ri toute seule à mon bureau.
+DANIEL: C'est un super résultat. Comment as-tu vécu l'écriture ?
+SENA: Mal à l'aise. Quand je l'ai lu comme moi-même, ça m'a paru presque impoli. Quand je l'ai lu comme Mark, sur son téléphone, ça m'a paru gentil. C'est ça, la surprise.
+DANIEL: C'est la conscience sociale en action. Le lire depuis son écran, pas depuis l'intérieur de ta tête. Tu as aussi essayé en japonais ?
+SENA: Un peu. Avec Kato-san, j'ai ajouté plus de coussin au début, comme tu l'avais dit. Mais j'ai mis la demande dans la deuxième phrase, pas dans le dernier paragraphe. Il a répondu le jour même, ce qui est rare.
+DANIEL: Deux expériences, deux bons résultats. Alors, quelle est ta situation cette semaine ?
+SENA: Celle-ci est plus difficile. Ça parle d'être invisible.
+DANIEL: Raconte-moi.
+SENA: Notre équipe a bientôt les entretiens de mi-année. Et il y a une directrice à Seattle, Laura, qui supervise plusieurs équipes, dont la mienne. La semaine dernière, elle a demandé à Kato-san sur quoi chacun de nous avait travaillé. Et Kato-san m'a raconté plus tard que, quand il est arrivé à mon nom, il a dit : « Sena est très fiable », puis qu'il n'a pas trouvé d'exemples précis.
+DANIEL: Oh. Ça pique.
+SENA: Et c'est devenu pire. Ce printemps, j'ai reconstruit le pipeline de données de notre rapport mensuel. Avant, ça prenait deux jours à la main. Maintenant, ça tourne en environ une heure. Mais en réunion d'équipe, c'est mon collègue Ryo qui présente le rapport chaque mois. Et Laura a dit à Kato-san : « Ryo a fait un excellent travail sur l'automatisation des rapports. »
+DANIEL: Donc quelqu'un d'autre a eu le mérite de ton travail.
+SENA: Pas exprès. Ryo est quelqu'un de gentil. Il présente simplement les résultats, et personne n'a demandé qui l'avait construit. Et moi, je n'ai jamais rien dit. Je pensais qu'un bon travail finirait par se remarquer. Et au Japon, parler de ses propres réussites peut passer pour de la vantardise. « Deru kui wa utareru. » Le clou qui dépasse se fait enfoncer.
+DANIEL: Je comprends tout à fait. Et je veux dire clairement que ton instinct de ne pas te vanter est un bon instinct. Mais « un bon travail parle de lui-même » est une croyance qui ne correspond pas toujours à la façon dont fonctionne l'attention des gens. Laisse-moi partager quelques recherches.
+SENA: Je t'en prie. Mon carnet est ouvert.
+DANIEL: La première ne parle pas directement du travail, mais je pense qu'elle explique beaucoup de choses. En 1998, Thomas Gilovich, Kenneth Savitsky et Victoria Husted Medvec ont publié un article dans le Journal of Personality and Social Psychology sur ce qu'ils ont appelé « l'illusion de transparence ». L'idée, c'est que nous surestimons à quel point les autres voient ce qui se passe à l'intérieur de nous.
+SENA: À l'intérieur de nous, comme nos émotions ?
+DANIEL: Oui. Dans une expérience, des étudiants de Cornell répondaient à des questions devant un petit groupe. On avait dit en secret à certains de mentir. Ensuite, les menteurs devaient deviner combien de personnes du groupe les avaient repérés. En gros, ils s'attendaient à ce que la moitié du public voie clair dans leur jeu. En réalité, seulement environ un quart l'avait fait.
+SENA: Donc ils pensaient être beaucoup plus transparents qu'ils ne l'étaient.
+DANIEL: Exactement. Leur nervosité paraissait énorme de l'intérieur, alors ils ont supposé que tout le monde la voyait. Maintenant, cette étude portait sur les émotions, pas sur le travail. Donc j'étire un peu. Mais je vois le même schéma tout le temps au travail. Tu sais à quel point tu as travaillé sur ce pipeline. Tu te souviens de chaque soirée tardive. Ça te paraît évident. Alors tu supposes que Kato-san et Laura le voient aussi.
+SENA: Mais ils ne voient que le rapport que Ryo présente.
+DANIEL: Voilà. Ton effort est visible pour toi, et presque invisible pour tout le monde, à moins que tu ne le rendes visible. Et voici la deuxième recherche. Teresa Amabile, professeure à la Harvard Business School, et Steven Kramer ont écrit en 2011 un livre intitulé « The Progress Principle ». Ils ont recueilli environ douze mille entrées de journal quotidien, de deux cent trente-huit personnes, dans vingt-six équipes projet, dans sept entreprises.
+SENA: Douze mille entrées de journal. Ça fait beaucoup à lire.
+DANIEL: Oui. Et ils ont trouvé que, parmi tout ce qui faisait que les journées de travail se passaient bien, le plus puissant était de progresser dans un travail qui a du sens. Même un petit progrès. Ils appellent ça le principe du progrès. Et voici le retournement. Ils ont aussi interrogé six cent soixante-neuf managers dans le monde et leur ont demandé de classer ce qui motive les employés. Le progrès est arrivé en dernier. Seulement environ cinq pour cent l'ont classé premier.
+SENA: Donc les managers ne se rendent pas compte à quel point le progrès compte pour les gens.
+DANIEL: C'est ce que suggérait l'enquête. Et je pense que cela rejoint la visibilité de deux façons. D'abord, si tu notes ton progrès chaque semaine, tu le remarques toi-même. Beaucoup de gens oublient leurs petites victoires dès le vendredi. Ensuite, quand ton manager voit ton progrès, il peut le reconnaître et le soutenir. S'il ne le voit jamais, il ne le peut pas.
+SENA: Ça me fait réfléchir. Peut-être que je ne suis plus fière du pipeline parce que je ne l'ai jamais regardé avec du recul.
+DANIEL: C'est très possible. Et encore une étude sur ce point. Giada Di Stefano, Francesca Gino, Gary Pisano et Bradley Staats ont écrit en 2014 un document de travail à la Harvard Business School intitulé « Learning by Thinking ». Dans une expérience de terrain dans une entreprise de centres d'appels en Inde, de nouveaux employés en formation passaient les quinze dernières minutes de chaque journée à écrire sur les leçons clés qu'ils avaient apprises. Au test final, ce groupe a obtenu environ vingt-trois pour cent de plus que la moyenne. Un autre groupe écrivait, puis expliquait aussi ses leçons à un collègue, et obtenait à peu près le même résultat.
+SENA: Donc écrire ce qu'on a fait aide à apprendre, pas seulement à se montrer.
+DANIEL: C'est l'idée. Mais je veux rester prudent. C'est un document de travail, donc prends-le comme un élément intéressant, pas comme une réponse définitive. Mais j'aime le message. Un point hebdomadaire, ce sont quinze minutes de réflexion qui aident aussi les autres.
+SENA: D'accord, voici notre question. Pourquoi l'IA ne peut-elle pas faire ça à ma place ? L'IA pourrait lire mon agenda et mes fichiers et écrire un résumé hebdomadaire parfait.
+DANIEL: Elle pourrait écrire un résumé d'activité. Mais la visibilité, ce n'est pas la liste de tout ce que tu as touché. C'est choisir ce qui compte. L'IA ne sait pas laquelle de tes dix tâches intéresse vraiment Laura ce trimestre. Elle ne sait pas que le pipeline est ce dont tu es fière, ni que tu veux faire plus de travail sur les données. Choisir ce qu'on met en avant, c'est un jugement sur tes objectifs et sur ton public.
+SENA: Et peut-être sur ce que je veux que soit ma carrière.
+DANIEL: Exactement. Et il y a une deuxième partie. Un point hebdomadaire, ce n'est pas seulement de l'information. C'est un petit signal, chaque semaine, que tu es fiable et réfléchie. Cela fait partie d'une relation. Si ton manager sent que c'est un outil qui l'a écrit, il perd cela. Les gens font confiance à ta voix, pas à un résumé générique.
+SENA: Donc le point est moins un rapport qu'une habitude de confiance.
+DANIEL: J'aime bien. Maintenant, mon histoire d'échec.
+SENA: Je l'attendais.
+DANIEL: Avant de devenir manager, j'ai été contributeur individuel pendant environ six ans. J'étais la personne qui réparait les choses en silence. Une année, j'ai dirigé une grosse migration de données. Trois mois de travail. Tout s'est bien passé. Pas de panne, pas de drame.
+SENA: Ça ressemble à une réussite.
+DANIEL: C'en était une. Et c'était justement le problème. Parce que tout s'est bien passé, personne n'a rien remarqué. Cette année-là, j'espérais une promotion. Je ne l'ai pas eue. Dans mon entretien, mon manager m'a dit : « J'aimerais te voir prendre un projet plus important l'an prochain. » Et j'ai répondu : « J'ai dirigé la migration. » Et il a dit, sincèrement surpris : « Attends, c'est toi qui as dirigé ça ? Je pensais que c'était l'équipe infrastructure. »
+SENA: Oh non. C'est exactement ma situation.
+DANIEL: C'est exactement ta situation. Et au début, j'étais en colère. Puis j'ai réalisé qu'il encadrait douze personnes et deux autres projets. Il ne m'ignorait pas. Il n'avait simplement pas l'information. Je ne lui avais jamais dit. Je pensais que le lui dire, ce serait me vanter.
+SENA: Qu'est-ce que tu as changé ?
+DANIEL: J'ai commencé à lui envoyer trois lignes chaque vendredi. Ce que j'avais terminé, la suite, et ce dont j'avais besoin. C'est tout. Et l'année suivante, il savait exactement ce que je faisais. Il a même commencé à transmettre des morceaux de mes points à son propre manager. C'est comme ça que j'ai eu la promotion l'année d'après. Pas parce que je travaillais plus dur. Parce que mon travail était devenu visible.
+SENA: C'est encourageant et un peu triste à la fois.
+DANIEL: Oui. Idéalement, les managers remarqueraient tout. Maintenant que je suis manager, j'essaie. Mais j'ai huit personnes, et je sais que je rate des choses. Un bon point m'aide à être un meilleur manager.
+SENA: C'est une autre façon de voir. Pas « regardez-moi », mais « voici de l'information pour vous aider ».
+DANIEL: Exactement. Maintenant, parle-moi du Japon. Je sais qu'il y a une culture du compte rendu.
+SENA: Oui. Dans les entreprises japonaises, les nouveaux employés apprennent le « hou-ren-sou ». Ça veut dire rapporter, informer, consulter. Nous rapportons constamment. Donc c'est intéressant. Les employés japonais sont très bons pour rapporter l'avancement. Surtout les problèmes et les retards. Mais nous rapportons rarement l'impact. Nous disons : « Le rapport est terminé. » Nous ne disons pas : « Le rapport prend maintenant une heure au lieu de deux jours. »
+DANIEL: C'est une distinction vraiment utile. L'état d'avancement contre l'impact.
+SENA: Et parler de l'impact, ça donne l'impression de se faire des compliments. Nous avons aussi la valeur du kenson, la modestie. Un bon membre d'équipe dit : « C'est grâce à tout le monde. »
+DANIEL: Dans beaucoup d'entreprises américaines, on attend que tu décrives ton propre impact. Si tu ne le fais pas, les gens peuvent supposer qu'il n'y en avait pas beaucoup. Et les évaluations de performance te demandent souvent d'écrire tes propres réalisations. Mais les Américains n'aiment pas non plus se vanter. Les meilleurs points sonnent factuels, pas prétentieux. « Le nouveau pipeline a ramené le rapport mensuel de deux jours à environ une heure. » Ce n'est pas se vanter. C'est un fait.
+SENA: Et je peux quand même dire « grâce à tout le monde » si c'est vrai. Par exemple : « Ryo a aidé à le tester. »
+DANIEL: Oui, et c'est important. Nommer la contribution des autres fait partie du fait de rendre le travail visible. C'est généreux, et ça montre que tu vois toute l'équipe. Les futurs managers font ça.
+SENA: Alors de quelle compétence d'intelligence émotionnelle s'agit-il ?
+DANIEL: Il s'agit de la gestion des relations. Rendre ton travail visible, c'est gérer la relation avec ton manager et les autres responsables, pour qu'ils aient des informations exactes et que la confiance grandisse. Mais il y a aussi un peu de conscience de soi là-dedans. Remarque l'émotion qui apparaît quand tu écris sur ta propre réussite. Pour beaucoup de gens, c'est la gêne, ou la peur de paraître arrogant. Nomme-la, puis décide si cette émotion doit t'arrêter.
+SENA: Pour moi, l'émotion, c'est « hazukashii ». La gêne. Un peu d'exposition.
+DANIEL: C'est honnête. Et tu peux être gênée et l'envoyer quand même. Ça devient généralement plus facile après trois ou quatre semaines.
+SENA: Et pour Ryo et le pipeline ? Je devrais corriger Laura ?
+DANIEL: Je n'en ferais pas une correction. Lors de ton prochain entretien individuel avec Kato-san, tu pourrais dire : « J'aimerais m'assurer que mon travail sur le pipeline soit visible pour mon évaluation. Pourriez-vous m'aider à le présenter à Laura ? » C'est clair, ça ne met pas Ryo en cause, et ça donne à Kato-san l'occasion de t'aider.
+SENA: Ça me paraît faisable. La conclusion d'abord, mais avec gentillesse.
+DANIEL: Tu es en train d'assembler les épisodes. Alors, la pratique de cette semaine ?
+SENA: Oui, s'il te plaît.
+DANIEL: Cette semaine, envoie à ton manager un point hebdomadaire en trois lignes. Ligne un, ce que tu as terminé, avec son impact si possible. Ligne deux, ce sur quoi tu travailleras ensuite. Ligne trois, ce dont tu as besoin, ou un risque qu'il devrait connaître. Garde-le assez court pour le lire sur un téléphone. Et si quelqu'un t'a aidée, nomme-le.
+SENA: Fait, suite, besoin. Trois lignes.
+DANIEL: Et avant de l'envoyer, remarque l'émotion. Si c'est de la gêne, ce n'est pas grave. Envoie-le quand même. Et si ton travail est stressant et que tu te sens vraiment débordée, cela vaut la peine d'en parler avec ton manager ou un professionnel, pas seulement en trois lignes.
+SENA: J'enverrai le premier à Kato-san vendredi. Et j'y mettrai les chiffres du pipeline.
+DANIEL: J'aimerais savoir comment il réagit. La prochaine fois, nous restons dans la gestion des relations. Épisode neuf, « Gagner la confiance de ses pairs ». Pas ton manager, cette fois, mais les personnes à côté de toi. Comment la confiance se construit dans les petits moments du quotidien.
+SENA: Ce sera bien pour moi et Ryo.
+DANIEL: Peut-être. Merci d'écouter Human Curriculum. Moi, c'est Daniel.
+SENA: Et moi, c'est Sena. Envoie tes trois lignes ce vendredi. À la prochaine.

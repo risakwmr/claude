@@ -1,0 +1,78 @@
+DANIEL: Selamat datang kembali di Human Curriculum. Saya Daniel Reed, People Manager di Seattle.
+SENA: Dan aku Sena Sato, Associate di Tokyo. Terakhir kali, kita membahas komunikasi berkonteks rendah. Menaruh kesimpulan di depan.
+DANIEL: Dan hari ini kita membahas sesuatu yang membuat banyak orang tidak nyaman. Membuat pekerjaanmu terlihat. Tapi pertama, latihannya. Kamu berencana menulis ulang satu pesan. Kesimpulan dulu, lalu permintaan dengan tanggal, lalu detailnya. Setelah itu bacalah sebagai si pembaca.
+SENA: Aku mencobanya dengan Mark, product manager di Seattle. Minggu ini ada masalah data kecil lagi, jadi aku punya kesempatan nyata untuk mencoba lagi.
+DANIEL: Waktunya pas, ya. Apa yang kamu tulis?
+SENA: Baris pertamaku: "Hai Mark, butuh satu keputusan paling lambat hari Kamis." Lalu dua opsi, masing-masing satu kalimat. Lalu: "Detail ada di bawah, kalau diperlukan." Dan di paling akhir, satu baris yang hangat: "Terima kasih atas kesabarannya soal dataset ini. Yang ini memang rumit."
+DANIEL: Lalu?
+SENA: Dia membalas dalam sebelas menit. "Opsi B. Terima kasih sudah membuatnya semudah ini." Aku sampai tertawa sendiri di mejaku.
+DANIEL: Hasil yang bagus. Bagaimana rasanya menulis itu?
+SENA: Tidak nyaman. Waktu kubaca sebagai diriku sendiri, rasanya hampir kasar. Waktu kubaca sebagai Mark, di ponselnya, rasanya baik. Itu kejutannya.
+DANIEL: Itu kesadaran sosial yang bekerja. Membacanya dari layar dia, bukan dari dalam kepalamu. Kamu coba juga dalam bahasa Jepang?
+SENA: Sedikit. Dengan Kato-san aku menambah lebih banyak basa-basi di awal, seperti katamu. Tapi aku menaruh permintaannya di kalimat kedua, bukan di paragraf terakhir. Dia menjawab di hari yang sama, yang jarang terjadi.
+DANIEL: Dua percobaan, dua hasil bagus. Jadi, bagaimana situasimu minggu ini?
+SENA: Yang ini lebih berat. Tentang menjadi tidak terlihat.
+DANIEL: Ceritakan.
+SENA: Tim kami sebentar lagi punya evaluasi tengah tahun. Dan ada seorang direktur di Seattle, Laura, yang mengawasi beberapa tim, termasuk timku. Minggu lalu, dia bertanya pada Kato-san apa yang sedang dikerjakan masing-masing dari kami. Dan Kato-san bercerita padaku kemudian bahwa saat sampai di namaku, dia bilang, "Sena sangat bisa diandalkan," lalu dia tidak bisa memikirkan contoh yang spesifik.
+DANIEL: Oh. Itu menyakitkan.
+SENA: Dan makin parah. Musim semi ini, aku membangun ulang pipeline data untuk laporan bulanan kami. Dulu butuh dua hari kalau dikerjakan manual. Sekarang jalan sekitar satu jam. Tapi di rapat tim, rekanku Ryo yang mempresentasikan laporannya setiap bulan. Dan Laura berkata pada Kato-san, "Ryo melakukan pekerjaan yang hebat untuk otomatisasi pelaporan."
+DANIEL: Jadi orang lain mendapat pujian untuk pekerjaanmu.
+SENA: Bukan sengaja. Ryo orang yang baik. Dia hanya mempresentasikan hasilnya, dan tidak ada yang bertanya siapa yang membangunnya. Dan aku tidak pernah bilang apa-apa. Aku pikir pekerjaan yang bagus akan diperhatikan. Dan di Jepang, membicarakan pencapaian sendiri bisa terasa seperti pamer. "Deru kui wa utareru." Paku yang menonjol akan dipalu.
+DANIEL: Aku sangat mengerti itu. Dan aku ingin bilang dengan jelas, nalurimu untuk tidak pamer itu naluri yang baik. Tapi "pekerjaan yang bagus akan berbicara sendiri" adalah keyakinan yang tidak selalu cocok dengan cara perhatian orang bekerja. Biar kubagikan beberapa penelitian.
+SENA: Silakan. Bukuku sudah terbuka.
+DANIEL: Yang pertama tidak langsung membahas pekerjaan, tapi menurutku itu menjelaskan banyak hal. Pada 1998, Thomas Gilovich, Kenneth Savitsky, dan Victoria Husted Medvec menerbitkan makalah di Journal of Personality and Social Psychology tentang apa yang mereka sebut "ilusi transparansi". Idenya, kita melebih-lebihkan seberapa banyak orang lain bisa melihat apa yang terjadi di dalam diri kita.
+SENA: Di dalam diri kita, seperti perasaan kita?
+DANIEL: Ya. Dalam satu eksperimen, mahasiswa Cornell menjawab pertanyaan di depan kelompok kecil. Sebagian secara rahasia diminta berbohong. Setelah itu, para pembohong menebak berapa orang di kelompok yang berhasil menangkap mereka. Kurang lebih, mereka mengira separuh penonton bisa menembus kebohongan mereka. Kenyataannya, hanya sekitar seperempat.
+SENA: Jadi mereka mengira diri mereka jauh lebih kelihatan daripada yang sebenarnya.
+DANIEL: Tepat. Rasa gugup mereka terasa sangat besar dari dalam, jadi mereka mengira semua orang bisa melihatnya. Nah, penelitian itu tentang emosi, bukan tentang pekerjaan. Jadi aku sedikit meregangkannya. Tapi aku melihat pola yang sama di tempat kerja sepanjang waktu. Kamu tahu seberapa keras kamu bekerja untuk pipeline itu. Kamu ingat setiap malam lembur. Rasanya jelas sekali. Jadi kamu mengira Kato-san dan Laura juga bisa melihatnya.
+SENA: Padahal mereka hanya melihat laporan yang dipresentasikan Ryo.
+DANIEL: Benar. Usahamu terlihat olehmu, dan hampir tak terlihat oleh semua orang lain, kecuali kamu membuatnya terlihat. Dan ini penelitian kedua. Teresa Amabile, profesor di Harvard Business School, dan Steven Kramer menulis buku pada 2011 berjudul "The Progress Principle". Mereka mengumpulkan sekitar dua belas ribu catatan harian dari dua ratus tiga puluh delapan orang, di dua puluh enam tim proyek, di tujuh perusahaan.
+SENA: Dua belas ribu catatan harian. Banyak sekali yang dibaca.
+DANIEL: Memang. Dan mereka menemukan bahwa dari semua hal yang membuat hari kerja orang terasa baik, yang paling kuat adalah membuat kemajuan dalam pekerjaan yang bermakna. Bahkan kemajuan kecil. Mereka menyebutnya prinsip kemajuan. Dan ini kejutannya. Mereka juga menyurvei enam ratus enam puluh sembilan manajer di seluruh dunia dan meminta mereka mengurutkan apa yang memotivasi karyawan. Kemajuan ada di urutan terakhir. Hanya sekitar lima persen yang menempatkannya di urutan pertama.
+SENA: Jadi para manajer tidak sadar betapa pentingnya kemajuan bagi orang.
+DANIEL: Itu yang disarankan oleh survei tersebut. Dan menurutku ini terhubung dengan keterlihatan dengan dua cara. Pertama, kalau kamu mencatat kemajuanmu setiap minggu, kamu sendiri akan menyadarinya. Banyak orang lupa kemenangan kecil mereka begitu hari Jumat tiba. Kedua, saat atasanmu melihat kemajuanmu, dia bisa mengakui dan mendukungnya. Kalau dia tidak pernah melihat, dia tidak bisa.
+SENA: Itu membuatku berpikir. Mungkin aku tidak lagi bangga pada pipeline itu karena aku tidak pernah menengok ke belakang.
+DANIEL: Sangat mungkin. Dan satu studi lagi soal itu. Giada Di Stefano, Francesca Gino, Gary Pisano, dan Bradley Staats menulis working paper di Harvard Business School pada 2014 berjudul "Learning by Thinking". Dalam eksperimen lapangan di sebuah perusahaan call center di India, karyawan baru yang sedang pelatihan menghabiskan lima belas menit terakhir setiap hari untuk menulis tentang pelajaran penting yang mereka dapat. Pada tes akhir, kelompok itu mendapat nilai sekitar dua puluh tiga persen lebih tinggi dari rata-rata. Kelompok lain menulis lalu juga menjelaskan pelajarannya kepada rekan kerja, dan hasilnya hampir sama.
+SENA: Jadi menuliskan apa yang kamu kerjakan membantu belajar, bukan hanya pamer.
+DANIEL: Itu idenya. Tapi aku ingin berhati-hati. Ini working paper, jadi anggap sebagai bukti yang menarik, bukan jawaban akhir. Meski begitu, aku suka pesannya. Update mingguan itu lima belas menit refleksi yang kebetulan juga membantu orang lain.
+SENA: Oke, ini pertanyaan kita. Kenapa AI tidak bisa melakukan ini untukku? AI bisa membaca kalenderku dan file-fileku lalu menulis ringkasan mingguan yang sempurna.
+DANIEL: Dia bisa menulis ringkasan aktivitas. Tapi keterlihatan bukan daftar semua yang kamu sentuh. Itu soal memilih apa yang penting. AI tidak tahu dari sepuluh tugasmu, mana yang benar-benar dipedulikan Laura kuartal ini. Dia tidak tahu bahwa pipeline itu yang kamu banggakan, atau bahwa kamu ingin lebih banyak pekerjaan data. Memilih apa yang disorot adalah penilaian tentang tujuanmu dan audiensmu.
+SENA: Dan mungkin tentang apa yang aku inginkan dari kariku.
+DANIEL: Tepat. Dan ada bagian kedua. Update bukan hanya informasi. Itu sinyal kecil, setiap minggu, bahwa kamu dapat diandalkan dan penuh pertimbangan. Itu bagian dari sebuah hubungan. Kalau atasanmu bisa tahu itu ditulis oleh alat, nilainya hilang. Orang percaya pada suaramu, bukan pada ringkasan generik.
+SENA: Jadi update itu lebih mirip kebiasaan membangun kepercayaan daripada laporan.
+DANIEL: Aku suka itu. Sekarang, cerita kegagalanku.
+SENA: Aku sudah menunggunya.
+DANIEL: Sebelum jadi manajer, aku individual contributor selama sekitar enam tahun. Akulah orang yang diam-diam memperbaiki berbagai hal. Suatu tahun, aku memimpin migrasi data besar. Tiga bulan kerja. Semuanya berjalan lancar. Tidak ada gangguan, tidak ada drama.
+SENA: Kedengarannya sukses.
+DANIEL: Memang. Dan itulah masalahnya. Karena lancar, tidak ada yang menyadarinya. Tahun itu, aku berharap dapat promosi. Aku tidak mendapatkannya. Dalam evaluasiku, atasanku bilang, "Saya ingin melihat kamu mengambil proyek yang lebih besar tahun depan." Dan aku bilang, "Saya yang memimpin migrasi itu." Dan dia, sungguh terkejut, bilang, "Tunggu, kamu yang memimpin itu? Saya kira tim infrastruktur."
+SENA: Oh tidak. Itu persis situasiku.
+DANIEL: Itu persis situasimu. Awalnya aku marah. Lalu aku sadar dia mengelola dua belas orang dan dua proyek lain. Dia tidak mengabaikanku. Dia hanya tidak punya informasinya. Aku tidak pernah memberitahunya. Aku pikir memberitahunya itu pamer.
+SENA: Apa yang kamu ubah?
+DANIEL: Aku mulai mengirim tiga baris setiap Jumat. Apa yang selesai, apa selanjutnya, dan apa yang kubutuhkan. Itu saja. Dan tahun berikutnya, dia tahu persis apa yang kukerjakan. Dia bahkan mulai meneruskan sebagian update-ku ke atasannya. Begitulah aku dapat promosi di tahun berikutnya. Bukan karena aku bekerja lebih keras. Tapi karena pekerjaanku menjadi terlihat.
+SENA: Itu menyemangati sekaligus agak menyedihkan.
+DANIEL: Memang. Idealnya, para manajer akan memperhatikan segalanya. Sebagai manajer sekarang, aku berusaha. Tapi aku punya delapan orang, dan aku tahu ada yang terlewat. Update yang baik membantuku menjadi manajer yang lebih baik.
+SENA: Itu cara pandang yang berbeda. Bukan "lihat aku", tapi "ini informasi untuk membantumu".
+DANIEL: Tepat. Sekarang, ceritakan tentang Jepang. Aku tahu di sana ada budaya melapor.
+SENA: Ya. Di perusahaan Jepang, karyawan baru belajar "hou-ren-sou". Artinya lapor, hubungi, dan konsultasi. Kami melapor terus-menerus. Jadi ini menarik. Pekerja Jepang sangat pandai melaporkan status. Terutama masalah dan keterlambatan. Tapi kami jarang melaporkan dampak. Kami bilang, "Laporannya sudah selesai." Kami tidak bilang, "Sekarang laporannya butuh satu jam, bukan dua hari."
+DANIEL: Itu perbedaan yang sangat berguna. Status versus dampak.
+SENA: Dan membicarakan dampak terasa seperti memuji diri sendiri. Kami juga punya nilai kenson, kerendahan hati. Anggota tim yang baik bilang, "Ini berkat semuanya."
+DANIEL: Di banyak tempat kerja di AS, orang berharap kamu menjelaskan dampakmu sendiri. Kalau tidak, orang bisa mengira tidak ada yang banyak. Dan evaluasi kinerja sering memintamu menulis pencapaianmu sendiri. Tapi orang Amerika juga tidak suka pamer. Update terbaik terdengar faktual, bukan membanggakan diri. "Pipeline baru memangkas laporan bulanan dari dua hari menjadi sekitar satu jam." Itu bukan pamer. Itu fakta.
+SENA: Dan aku tetap bisa bilang "berkat semuanya" kalau memang benar. Misalnya, "Ryo membantu mengujinya."
+DANIEL: Ya, dan itu penting. Menyebut kontribusi orang lain adalah bagian dari membuat pekerjaan terlihat. Itu murah hati, dan menunjukkan bahwa kamu melihat seluruh tim. Calon manajer masa depan melakukan itu.
+SENA: Jadi ini keterampilan EQ yang mana?
+DANIEL: Ini manajemen hubungan. Membuat pekerjaanmu terlihat berarti mengelola hubungan dengan atasanmu dan pemimpin lain, supaya mereka punya informasi yang akurat, dan kepercayaan bertumbuh. Tapi ada juga sedikit kesadaran diri di dalamnya. Perhatikan perasaan yang muncul saat kamu menulis tentang keberhasilanmu sendiri. Bagi banyak orang, itu rasa malu, atau takut terlihat sombong. Beri nama, lalu putuskan apakah perasaan itu harus menghentikanmu.
+SENA: Bagiku, perasaannya "hazukashii". Malu. Sedikit merasa terbuka.
+DANIEL: Itu jujur. Dan kamu boleh merasa malu dan tetap mengirimnya. Biasanya jadi lebih mudah setelah tiga atau empat minggu.
+SENA: Bagaimana dengan Ryo dan pipeline-nya? Haruskah aku mengoreksi Laura?
+DANIEL: Aku tidak akan menjadikannya koreksi. Di one-on-one berikutnya dengan Kato-san, kamu bisa bilang, "Saya ingin memastikan pekerjaan saya di pipeline terlihat untuk evaluasi saya. Bisakah Anda membantu membagikannya kepada Laura?" Itu jelas, tidak menyalahkan Ryo, dan memberi Kato-san kesempatan untuk membantumu.
+SENA: Itu terasa mungkin. Kesimpulan dulu, tapi dengan baik.
+DANIEL: Kamu mulai menyatukan episode-episodenya. Jadi, latihan minggu ini?
+SENA: Ya, tolong.
+DANIEL: Minggu ini, kirim atasanmu update mingguan tiga baris. Baris satu, apa yang kamu selesaikan, dengan dampaknya kalau bisa. Baris dua, apa yang akan kamu kerjakan selanjutnya. Baris tiga, apa pun yang kamu butuhkan, atau risiko yang perlu mereka ketahui. Buat cukup singkat untuk dibaca di ponsel. Dan kalau ada yang membantu, sebut namanya.
+SENA: Selesai, berikutnya, butuh. Tiga baris.
+DANIEL: Dan sebelum mengirim, perhatikan perasaannya. Kalau itu rasa malu, tidak apa-apa. Kirim saja. Dan kalau pekerjaanmu membuat stres dan kamu merasa benar-benar kewalahan, itu perlu dibicarakan dengan atasanmu atau seorang profesional, bukan hanya dalam tiga baris.
+SENA: Aku akan mengirim yang pertama ke Kato-san hari Jumat. Dan aku akan menyertakan angka-angka pipeline.
+DANIEL: Aku ingin sekali tahu bagaimana tanggapannya. Lain kali, kita tetap di manajemen hubungan. Episode sembilan, "Membangun Kepercayaan dengan Rekan Sejawat". Kali ini bukan atasanmu, tapi orang-orang di sampingmu. Bagaimana kepercayaan dibangun dalam momen-momen kecil sehari-hari.
+SENA: Itu akan bagus untukku dan Ryo.
+DANIEL: Mungkin. Terima kasih sudah mendengarkan Human Curriculum. Saya Daniel.
+SENA: Dan aku Sena. Kirim tiga barismu hari Jumat ini. Sampai jumpa lain kali.

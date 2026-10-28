@@ -1,0 +1,83 @@
+DANIEL: Bienvenidos de nuevo a Human Curriculum. Soy Daniel Reed, People Manager en Seattle.
+SENA: Y yo soy Sena Sato, asociada en Tokio. La última vez hablamos de las reuniones individuales, y de cómo lograr que esa reunión sea más que un informe de estado.
+DANIEL: Y hoy hablamos de algo que haces unas cincuenta veces al día. Escribir un mensaje. Cómo decir lo que quieres decir con claridad, sin perder la amabilidad. Pero primero, la práctica. Ibas a llevar una pregunta y un kinkyou a tu próxima reunión individual con Kato-san.
+SENA: Lo hice. Anoté las dos cosas en mi cuaderno la noche anterior. Mi pregunta fue: "¿Qué es lo único en lo que cree que debería concentrarme para crecer este año?" Y mi kinkyou fue que estoy disfrutando del trabajo con datos más de lo que esperaba.
+DANIEL: ¿Y las compartiste antes de que la lista de tareas se lo comiera todo?
+SENA: Sí. Dije: "Antes de repasar la lista, ¿puedo compartir una actualización rápida y hacerle una pregunta?" Se sorprendió un poco. Luego cerró su laptop.
+DANIEL: Cerró su laptop. Es buena señal.
+SENA: Yo también lo pensé. Dijo que no estaba seguro de si me gustaba el trabajo con datos o si solo estaba siendo cortés. Después respondió mi pregunta. Habló casi diez minutos.
+DANIEL: ¿Qué dijo?
+SENA: Dijo que mi análisis es sólido, pero que mi comunicación con el equipo de Seattle necesita mejorar. Dijo: "Sus correos son muy corteses, pero a veces no sé qué quiere que hagan." Y mi frase de una oración después fue: "Se sorprendió, luego se sintió aliviado, y me dio algo real."
+DANIEL: Es una frase preciosa. Y es el puente perfecto para hoy.
+SENA: De verdad. Porque esta semana tuve un problema justo con eso.
+DANIEL: Cuéntame qué pasó.
+SENA: Trabajo con un product manager de Seattle llamado Mark. El lunes encontré un problema en los datos de un informe que él necesita. Necesitaba dos días más para arreglarlo. Y necesitaba que él eligiera. O enviábamos el informe a tiempo con una advertencia sobre los datos, o lo enviábamos con dos días de retraso, pero correcto.
+DANIEL: Una decisión clara. ¿Y qué escribiste?
+SENA: Escribí un correo largo. Primero, me disculpé. Luego expliqué cómo encontré el problema. Luego expliqué la causa, con detalle, en tres viñetas. Luego me disculpé otra vez. Y en el último párrafo escribí: "Si fuera posible, le agradecería que me indicara qué opción podría preferir."
+DANIEL: ¿Y qué respondió Mark?
+SENA: "¡Gracias por la actualización, Sena! Aprecio el detalle." Nada más. Ninguna decisión. El miércoles me preguntó dónde estaba el informe. Pensaba que llegaría a tiempo.
+DANIEL: Uf.
+SENA: Estaba tan frustrada. La pregunta estaba ahí mismo.
+DANIEL: Estaba ahí. Pero estaba en el último párrafo, envuelta en cuatro palabras suaves. "Si fuera posible." "Podría." Desde tu lado, el mensaje era obvio. Desde el suyo, parecía una actualización, no una pregunta.
+SENA: Eso es lo que quería decir Kato-san, ¿verdad?
+DANIEL: Creo que sí. Y estás en muy buena compañía. Hay investigaciones que muestran que casi todo el mundo sobreestima qué tan claramente se comunica. Te cuento dos estudios.
+SENA: Por favor. Estoy tomando notas.
+DANIEL: El primero es de Boaz Keysar y Anne Henly, de la Universidad de Chicago, publicado en Psychological Science en 2002. Les dieron a los hablantes oraciones que podían significar dos cosas distintas. Por ejemplo, "Angela disparó al hombre con la pistola". ¿Tenía la pistola Angela, o el hombre?
+SENA: Ah, ya veo. Podría ser cualquiera de los dos.
+DANIEL: Exacto. El hablante sabía qué significado pretendía, y le leía la oración a un oyente, intentando que el significado quedara claro. Luego el hablante adivinaba si el oyente había entendido. En los casos en que los hablantes creían haber sido entendidos, en realidad no los habían entendido alrededor del cuarenta y seis por ciento de las veces.
+SENA: Casi la mitad.
+DANIEL: Casi la mitad. Y el error iba sobre todo en una dirección. Los hablantes rara vez pensaban que no los habían entendido cuando sí los habían entendido. Eran demasiado confiados. Fue un estudio pequeño, unas cuarenta parejas, pero la idea es potente. Cuando sabes lo que quieres decir, es muy difícil imaginar que no lo sepas.
+SENA: Es justo lo que sentí con mi correo. Claro que la pregunta era clara. Yo sabía cuál era.
+DANIEL: Esa es la trampa. El segundo estudio trata sobre la escritura. Justin Kruger, Nicholas Epley, Jason Parker y Zhi-Wen Ng lo publicaron en 2005 en el Journal of Personality and Social Psychology. El título es una gran pregunta. "Egocentrism over e-mail: Can we communicate as well as we think?"
+SENA: Y la respuesta es que no, supongo.
+DANIEL: Casi siempre no. En un experimento, las personas escribían frases que eran serias o sarcásticas, y las enviaban por correo o por grabación de voz. Luego predecían si la otra persona entendería bien el tono. La gente confiaba igual con el correo que con la voz. Pero por voz, los oyentes acertaban el tono alrededor de tres cuartos de las veces. Por correo, cerca de la mitad. Básicamente, cara o cruz.
+SENA: Cara o cruz. O sea que cuando escribo un mensaje, el tono que tengo en la cabeza no viaja con él.
+DANIEL: Exacto. Cuando relees tu propio correo, oyes tu propia voz. Oyes la urgencia, la preocupación, la pregunta. El lector solo recibe las palabras en la pantalla. Eran sobre todo estudios con estudiantes, así que no tomaría las cifras exactas como una regla para todas las oficinas. Pero la dirección se ha sostenido. Creemos que somos más claros de lo que somos.
+SENA: Bien, aquí está nuestra pregunta de siempre. ¿Por qué no puede hacer esto la IA por mí? Podría pegar mi correo en una herramienta de IA y decirle: "Hazlo más claro." Probablemente pondría la pregunta arriba.
+DANIEL: Probablemente sí, y eso puede ayudar. Pero piensa en qué faltaba de verdad en tu correo. No era la gramática. Era una decisión sobre lo que estabas pidiendo. La IA puede mover frases de lugar. No puede decidir qué necesitas de verdad, ni para cuándo, ni qué estás dispuesta a aceptar. Eso es tu criterio.
+SENA: O sea que la parte difícil ocurre antes de escribir.
+DANIEL: Sí. Y la segunda parte es conocer a tu lector. La IA no sabe que Mark lee el correo en el teléfono entre reuniones, ni que está estresado por este lanzamiento. La comunicación clara no es una versión perfecta. Es el mensaje correcto para esta persona, hoy. Eso exige prestar atención a un ser humano real.
+SENA: Las palabras se pueden pedir prestadas. La comprensión no.
+DANIEL: Bien dicho. Ahora, una confesión, y va en la dirección contraria.
+SENA: ¿La contraria?
+DANIEL: Sí. Cuando empecé a trabajar con un equipo en Tokio, hace años, me enorgullecía de ser directo. Mensajes cortos, sin palabras de más. Una ingeniera de allí, Yuki, me envió un documento de diseño. Lo leí y respondí con una sola línea. "Este enfoque no escalará. Rehaz la sección tres, por favor."
+SENA: Uy. Puedo sentir esa.
+DANIEL: En mi cabeza, eso era eficiente y respetuoso. Estaba respetando su tiempo. Pero Yuki no respondió durante dos días. Más tarde, su jefe me dijo que ella pensó que yo estaba enojado, y que quizás la sacarían del proyecto.
+SENA: Esa también sería mi primera idea. En Japón, un mensaje de una línea de una persona de mayor rango puede sentirse muy frío.
+DANIEL: Y yo no estaba enojado en absoluto. De hecho, me gustaba la mayor parte del documento. Simplemente no escribí eso, porque para mí era obvio. Recuerda el estudio del correo. Mi tono en mi cabeza tampoco viajó.
+SENA: O sea que fuiste claro sobre el problema, pero no sobre la relación.
+DANIEL: Es una gran forma de decirlo. Desde entonces pienso en la claridad como dos cosas. Claro sobre el punto, y claro sobre lo que siento por la persona. Hoy escribiría: "Gracias, Yuki. Gran parte de esto es sólido. Una preocupación: la sección tres quizá no escale, por este motivo. ¿Podrías revisarla otra vez para el viernes? Con gusto lo hablamos." Sigue siendo directo. Pero no queda nada importante para que ella adivine.
+SENA: Es más largo, pero cada frase tiene una función.
+DANIEL: Exacto. Corto no es lo mismo que claro.
+SENA: Esto se conecta con una gran diferencia cultural. En Japón tenemos la expresión "kuuki wo yomu". Leer el aire. Un buen comunicador entiende lo que no se dice. Si lo explicas todo, incluso puede parecer un poco infantil, o que no confías en la otra persona.
+DANIEL: Es un ejemplo perfecto de lo que los investigadores llaman comunicación de alto contexto. El término viene del antropólogo Edward T. Hall. Y la autora de negocios Erin Meyer, profesora del INSEAD, lo popularizó en su libro de 2014, "The Culture Map". Ella describe las culturas de bajo contexto, donde la buena comunicación es simple, explícita y clara, y las de alto contexto, donde los mensajes suelen ser implícitos y hay que leer entre líneas.
+SENA: Y adivino dónde están Japón y Estados Unidos.
+DANIEL: Probablemente puedes. En su marco, Estados Unidos es de lo más bajo en contexto que existe, y Japón es una de las culturas de más alto contexto. Así que cuando tú y Mark se escriben, están en extremos opuestos.
+SENA: Eso explica mucho. Mi correo fue cortés a la manera de alto contexto. Di todos los antecedentes para que entendiera la situación, e hice la petición suave para que no se sintiera como presión.
+DANIEL: Y en una cultura de bajo contexto, esa suavidad puede hacer que la petición desaparezca. El consejo de Meyer para equipos que mezclan culturas es que lo predeterminado sea el bajo contexto. Decir las cosas explícitamente y poner por escrito lo importante. No porque un estilo sea mejor, sino porque lo explícito es más fácil para todos cuando las personas no comparten el mismo trasfondo.
+SENA: En realidad es un alivio. No es que mi estilo esté mal. Es que no viaja bien.
+DANIEL: Así es. Y son patrones generales, no reglas sobre individuos. Aquí hay un giro curioso. Meyer también señala que bajo contexto no siempre significa directo con las críticas. Muchos estadounidenses son muy explícitos con los hechos, pero suavizan mucho los comentarios negativos. Así que "Es una idea interesante" en una reunión estadounidense puede significar "No me gusta".
+SENA: O sea que los estadounidenses también leen el aire, a veces.
+DANIEL: Más de lo que creen. Por eso esto es una habilidad, no una nacionalidad.
+SENA: Entonces, ¿qué habilidad de inteligencia emocional es esta?
+DANIEL: Esta pertenece a la conciencia social. Ese es el dominio de entender a los demás. Lo que saben, lo que necesitan y cómo es probable que lean tus palabras. Al escribir, la conciencia social significa imaginar tu mensaje llegando a la pantalla de la otra persona. No cómo suena en tu cabeza, sino cómo se lee en la suya.
+SENA: Así que la habilidad es leer mi propio mensaje como lo leería Mark.
+DANIEL: Exacto. Imagina que tiene otros treinta mensajes y va camino a una reunión. ¿Qué necesita saber en las primeras dos líneas? ¿Qué necesita hacer? ¿Para cuándo?
+SENA: En mi caso: "Necesito que decida para el martes. Opción A, a tiempo con una advertencia. Opción B, con dos días de retraso, pero correcto."
+DANIEL: Eso es. Ese es todo el correo. Todo lo demás, la causa, las tres viñetas, puede ir debajo. Quien quiera los detalles puede leerlos. Quien no, igual sabe qué hacer.
+SENA: Pero me preocupa que suene grosero. Sin disculpa al principio.
+DANIEL: Puedes ser cálida en una línea corta. "Hola, Mark, necesito una decisión rápida sobre el informe." Luego las opciones. Luego, "Perdón por avisar tan tarde." La calidez y la claridad no son enemigas. El problema es solo cuando la calidez esconde el punto.
+SENA: ¿Y las palabras suaves? "Si fuera posible." "Podría."
+DANIEL: Usa una, no cuatro. "¿Podría avisarme para el martes?" es cortés y claro. "Si fuera posible, le agradecería que me indicara qué opción podría preferir" obliga al lector a hacer un esfuerzo extra para encontrar la petición.
+SENA: Voy a tener que pelear contra mis hábitos con esto.
+DANIEL: Todos lo hacemos. Algunos llaman a esto "la conclusión primero". Conclusión, luego la petición, luego los detalles.
+SENA: Bien, ¿y la práctica de esta semana?
+DANIEL: Esta semana, elige un mensaje que tengas que enviar. Un correo, un mensaje de chat, cualquier cosa que importe un poco. Antes de enviarlo, reescríbelo en este orden. Primera línea, la conclusión o la decisión. Segunda, lo que necesitas del lector, y para cuándo. Luego los detalles. Y antes de pulsar enviar, léelo una vez como la otra persona. Pregúntate: "Si solo leyera las dos primeras líneas, ¿sabría qué hacer?"
+SENA: Conclusión, petición con fecha, detalles. Luego leerlo como el lector.
+DANIEL: Y una cosa más. Añade una línea corta de calidez que sea verdadera. No diez disculpas. Una frase real.
+SENA: Lo probaré con Mark. De todos modos le debo un mejor correo. Y quizás lo pruebe en japonés, con Kato-san, a ver qué pasa.
+DANIEL: Me encantaría saber ambos resultados. Solo recuerda que en un contexto japonés quizás necesites un poco más de colchón. La conciencia social significa adaptarte al lector, no usar una sola regla en todas partes.
+DANIEL: La próxima vez volvemos a la gestión de las relaciones. Episodio ocho, "Hacer visible tu trabajo". Por qué el buen trabajo no siempre habla por sí solo, y cómo compartir lo que haces sin sentir que estás presumiendo.
+SENA: Ay, ese me costará. En Japón decimos que al clavo que sobresale se le golpea.
+DANIEL: Entonces es justo el episodio siguiente que hace falta. Gracias por escuchar Human Curriculum. Soy Daniel.
+SENA: Y yo soy Sena. Pon la conclusión primero esta semana. Hasta la próxima.

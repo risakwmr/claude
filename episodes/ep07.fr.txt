@@ -1,0 +1,83 @@
+DANIEL: Bienvenue de nouveau dans Human Curriculum. Je suis Daniel Reed, People Manager à Seattle.
+SENA: Et moi, c'est Sena Sato, associée à Tokyo. La dernière fois, nous avons parlé des entretiens individuels, et de la façon d'en faire plus qu'un simple point d'avancement.
+DANIEL: Et aujourd'hui, nous parlons de quelque chose que tu fais peut-être cinquante fois par jour. Écrire un message. Comment dire ce que tu veux dire clairement, sans perdre ta gentillesse. Mais d'abord, la pratique. Tu devais apporter une question et un kinkyou à ton prochain entretien individuel avec Kato-san.
+SENA: Je l'ai fait. J'ai écrit les deux dans mon carnet la veille au soir. Ma question était : « Quelle est la chose sur laquelle vous pensez que je devrais me concentrer pour progresser cette année ? » Et mon kinkyou, c'était que j'aime le travail sur les données plus que prévu.
+DANIEL: Et tu les as partagés avant que la liste de tâches ne prenne toute la place ?
+SENA: Oui. J'ai dit : « Avant de passer en revue la liste, puis-je partager un petit point et poser une question ? » Il a eu l'air un peu surpris. Puis il a fermé son ordinateur.
+DANIEL: Il a fermé son ordinateur. C'est bon signe.
+SENA: Je me suis dit pareil. Il a dit qu'il ne savait pas si j'aimais le travail sur les données ou si j'étais juste polie. Ensuite, il a répondu à ma question. Il a parlé presque dix minutes.
+DANIEL: Qu'est-ce qu'il a dit ?
+SENA: Il a dit que mon analyse est solide, mais que ma communication avec l'équipe de Seattle doit progresser. Il a dit : « Vos e-mails sont très polis, mais parfois je ne sais pas ce que vous voulez qu'on fasse. » Et ma phrase d'une ligne après coup, c'était : « Il a été surpris, puis soulagé, et il m'a donné quelque chose de concret. »
+DANIEL: C'est une belle phrase. Et c'est le pont parfait vers aujourd'hui.
+SENA: Vraiment. Parce que cette semaine, j'ai eu un problème exactement là-dessus.
+DANIEL: Raconte-moi ce qui s'est passé.
+SENA: Je travaille avec un product manager de Seattle qui s'appelle Mark. Lundi, j'ai trouvé un problème dans les données d'un rapport dont il a besoin. Il me fallait deux jours de plus pour le corriger. Et j'avais besoin qu'il choisisse. Soit on envoyait le rapport à temps avec un avertissement sur les données, soit on l'envoyait avec deux jours de retard, mais correct.
+DANIEL: Une décision claire. Alors, qu'est-ce que tu as écrit ?
+SENA: J'ai écrit un long e-mail. D'abord, je me suis excusée. Ensuite, j'ai expliqué comment j'avais trouvé le problème. Puis j'ai expliqué la cause, en détail, en trois points. Ensuite, je me suis excusée de nouveau. Et dans le dernier paragraphe, j'ai écrit : « Si possible, je vous serais reconnaissante de bien vouloir m'indiquer quelle option vous préféreriez peut-être. »
+DANIEL: Et qu'est-ce que Mark a répondu ?
+SENA: « Merci pour le point, Sena ! J'apprécie le détail. » C'est tout. Aucune décision. Mercredi, il m'a demandé où était le rapport. Il pensait qu'il arriverait à temps.
+DANIEL: Aïe.
+SENA: J'étais tellement frustrée. La question était là, juste sous ses yeux.
+DANIEL: Elle était là. Mais dans le dernier paragraphe, enveloppée dans quatre mots doux. « Si possible. » « Peut-être. » De ton côté, le message était évident. Du sien, ça ressemblait à une information, pas à une question.
+SENA: C'est ce que voulait dire Kato-san, non ?
+DANIEL: Je crois. Et tu es en très bonne compagnie. Des recherches montrent que presque tout le monde surestime la clarté de sa communication. Laisse-moi te parler de deux études.
+SENA: Je t'en prie. Je prends des notes.
+DANIEL: La première est de Boaz Keysar et Anne Henly, de l'Université de Chicago, publiée dans Psychological Science en 2002. Ils ont donné à des locuteurs des phrases qui pouvaient avoir deux sens différents. Par exemple, « Angela a tiré sur l'homme avec le pistolet. » Est-ce Angela qui avait le pistolet, ou l'homme ?
+SENA: Ah, je vois. Ça pourrait être l'un ou l'autre.
+DANIEL: Exactement. Le locuteur savait quel sens était voulu, et lisait la phrase à un auditeur en essayant de rendre le sens clair. Ensuite, le locuteur devinait si l'auditeur avait compris. Dans les cas où les locuteurs pensaient avoir été compris, ils ne l'avaient en fait pas été environ quarante-six pour cent du temps.
+SENA: Presque la moitié.
+DANIEL: Presque la moitié. Et l'erreur allait surtout dans un seul sens. Les locuteurs pensaient rarement ne pas avoir été compris alors qu'ils l'avaient été. Ils étaient trop sûrs d'eux. C'était une petite étude, une quarantaine de paires de personnes, mais l'idée est puissante. Quand tu sais ce que tu veux dire, il est très difficile d'imaginer que tu ne le saches pas.
+SENA: C'est exactement ce que j'ai ressenti pour mon e-mail. Bien sûr que la question était claire. Je savais ce que c'était.
+DANIEL: C'est le piège. La deuxième étude concerne l'écriture. Justin Kruger, Nicholas Epley, Jason Parker et Zhi-Wen Ng l'ont publiée en 2005 dans le Journal of Personality and Social Psychology. Le titre est une excellente question. « Egocentrism over e-mail: Can we communicate as well as we think? »
+SENA: Et la réponse est non, je suppose.
+DANIEL: Le plus souvent, non. Dans une expérience, des personnes écrivaient des phrases sérieuses ou sarcastiques, et les envoyaient par e-mail ou par enregistrement vocal. Ensuite, elles prédisaient si l'autre personne saisirait bien le ton. Elles étaient aussi sûres d'elles avec l'e-mail qu'avec la voix. Mais à l'oral, les auditeurs saisissaient le ton environ trois fois sur quatre. Par e-mail, environ une fois sur deux. En gros, pile ou face.
+SENA: Pile ou face. Donc quand j'écris un message, le ton que j'ai en tête ne voyage pas avec.
+DANIEL: Exactement. Quand tu relis ton propre e-mail, tu entends ta propre voix. Tu entends l'urgence, l'inquiétude, la question. Le lecteur ne reçoit que les mots à l'écran. C'étaient surtout des études sur des étudiants, donc je ne prendrais pas les chiffres exacts comme une règle pour tous les bureaux. Mais la tendance s'est confirmée. Nous pensons être plus clairs que nous ne le sommes.
+SENA: D'accord, voici notre question habituelle. Pourquoi l'IA ne peut-elle pas faire ça à ma place ? Je pourrais coller mon e-mail dans un outil d'IA et dire : « Rends ça plus clair. » Il mettrait probablement la question en haut.
+DANIEL: Probablement, et ça peut aider. Mais pense à ce qui manquait vraiment à ton e-mail. Ce n'était pas la grammaire. C'était une décision sur ce que tu demandais. L'IA peut déplacer des phrases. Elle ne peut pas décider de ce dont tu as vraiment besoin, pour quand, ou de ce que tu es prête à accepter. C'est ton jugement.
+SENA: Donc la partie difficile se passe avant l'écriture.
+DANIEL: Oui. Et la deuxième partie, c'est de connaître ton lecteur. L'IA ne sait pas que Mark lit ses e-mails sur son téléphone entre deux réunions, ni qu'il est stressé par ce lancement. Une communication claire, ce n'est pas une version parfaite. C'est le bon message pour cette personne, aujourd'hui. Cela demande de prêter attention à un vrai être humain.
+SENA: Les mots, on peut les emprunter. La compréhension, non.
+DANIEL: Joliment dit. Maintenant, une confession, qui va dans la direction opposée.
+SENA: L'opposée ?
+DANIEL: Oui. Quand j'ai commencé à travailler avec une équipe à Tokyo, il y a des années, j'étais fier d'être direct. Des messages courts, aucun mot en trop. Une ingénieure là-bas, Yuki, m'a envoyé un document de conception. Je l'ai lu et j'ai répondu en une ligne. « Cette approche ne passera pas à l'échelle. Refais la section trois, s'il te plaît. »
+SENA: Oh. Je ressens celle-là.
+DANIEL: Dans ma tête, c'était efficace et respectueux. Je respectais son temps. Mais Yuki n'a pas répondu pendant deux jours. Plus tard, son manager m'a dit qu'elle pensait que j'étais en colère, et qu'on allait peut-être la retirer du projet.
+SENA: Ça aurait été ma première pensée aussi. Au Japon, un message d'une ligne d'une personne plus senior peut paraître très froid.
+DANIEL: Et je n'étais pas du tout en colère. En fait, j'aimais la plupart du document. Je n'ai simplement pas écrit cette partie, parce que pour moi c'était évident. Souviens-toi de l'étude sur l'e-mail. Mon ton dans ma tête n'a pas voyagé non plus.
+SENA: Donc tu étais clair sur le problème, mais pas sur la relation.
+DANIEL: C'est une excellente façon de le dire. Depuis, je vois la clarté comme deux choses. Être clair sur le fond, et clair sur ce que je ressens envers la personne. Aujourd'hui, j'écrirais : « Merci, Yuki. La plus grande partie est solide. Une inquiétude : la section trois risque de ne pas passer à l'échelle, pour cette raison. Pourrais-tu y jeter un autre coup d'œil d'ici vendredi ? Je suis ravi d'en parler avec toi. » C'est toujours direct. Mais rien d'important n'est laissé à deviner.
+SENA: C'est plus long, mais chaque phrase a un rôle.
+DANIEL: Exactement. Court ne veut pas dire clair.
+SENA: Cela rejoint une grande différence culturelle. Au Japon, nous avons l'expression « kuuki wo yomu ». Lire l'atmosphère. Un bon communicant comprend ce qui n'est pas dit. Si tu expliques tout, ça peut même sembler un peu enfantin, ou comme si tu ne faisais pas confiance à l'autre.
+DANIEL: C'est un exemple parfait de ce que les chercheurs appellent la communication à fort contexte. Le terme remonte à l'anthropologue Edward T. Hall. Et l'autrice Erin Meyer, professeure à l'INSEAD, l'a popularisé dans son livre de 2014, « The Culture Map ». Elle décrit des cultures à faible contexte, où une bonne communication est simple, explicite et claire, et des cultures à fort contexte, où les messages sont souvent implicites et où il faut lire entre les lignes.
+SENA: Et laisse-moi deviner où se trouvent le Japon et les États-Unis.
+DANIEL: Tu peux probablement le deviner. Dans son modèle, les États-Unis sont à peu près aussi faible contexte qu'on puisse l'être, et le Japon est l'une des cultures à plus fort contexte. Donc quand toi et Mark vous écrivez, vous êtes aux deux extrémités.
+SENA: Ça explique beaucoup de choses. Mon e-mail était poli à la manière d'un fort contexte. J'ai donné tout le contexte pour qu'il comprenne la situation, et j'ai adouci la demande pour que ça ne ressemble pas à de la pression.
+DANIEL: Et dans une culture à faible contexte, cette douceur peut faire disparaître la demande. Le conseil de Meyer pour les équipes qui mélangent les cultures, c'est que le réglage par défaut soit le faible contexte. Dire les choses explicitement, et mettre l'important par écrit. Pas parce qu'un style est meilleur, mais parce que l'explicite est plus simple pour tous quand les gens ne partagent pas le même bagage.
+SENA: En fait, c'est un soulagement. Ce n'est pas que mon style soit mauvais. C'est qu'il voyage mal.
+DANIEL: Voilà. Et ce sont de grandes tendances, pas des règles sur les individus. Voici un retournement amusant. Meyer souligne aussi que faible contexte ne veut pas toujours dire direct dans la critique. Beaucoup d'Américains sont très explicites sur les faits, mais adoucissent beaucoup les retours négatifs. Donc « That's an interesting idea » dans une réunion américaine peut vouloir dire « Je n'aime pas ».
+SENA: Donc les Américains lisent aussi l'atmosphère, parfois.
+DANIEL: Plus qu'ils ne le pensent. C'est pourquoi c'est une compétence, pas une nationalité.
+SENA: Alors de quelle compétence d'intelligence émotionnelle s'agit-il ?
+DANIEL: Celle-ci relève de la conscience sociale. C'est le domaine de la compréhension des autres. Ce qu'ils savent, ce dont ils ont besoin, et comment ils vont probablement lire tes mots. À l'écrit, la conscience sociale, c'est imaginer ton message qui arrive sur l'écran de l'autre. Pas comment il sonne dans ta tête, mais comment il se lit dans la sienne.
+SENA: Donc la compétence, c'est de lire mon propre message comme Mark le lirait.
+DANIEL: Exactement. Imagine qu'il a trente autres messages et qu'il marche vers une réunion. Qu'a-t-il besoin de savoir dans les deux premières lignes ? Que doit-il faire ? Pour quand ?
+SENA: Dans mon cas : « J'ai besoin que vous décidiez d'ici mardi. Option A, à temps avec un avertissement. Option B, deux jours de retard, mais correct. »
+DANIEL: Voilà. C'est tout l'e-mail. Tout le reste, la cause, les trois points, peut aller en dessous. Ceux qui veulent les détails peuvent les lire. Ceux qui n'en veulent pas savent quand même quoi faire.
+SENA: Mais j'ai peur que ça paraisse impoli. Sans excuse au début.
+DANIEL: Tu peux être chaleureuse en une courte ligne. « Bonjour Mark, une décision rapide est nécessaire sur le rapport. » Puis les options. Puis : « Désolée de prévenir si tard. » Chaleur et clarté ne sont pas ennemies. Le problème, c'est seulement quand la chaleur cache le fond.
+SENA: Et les mots doux ? « Si possible. » « Peut-être. »
+DANIEL: Garde-en un, pas quatre. « Pourriez-vous me dire d'ici mardi ? » est poli et clair. « Si possible, je vous serais reconnaissante de bien vouloir m'indiquer quelle option vous préféreriez peut-être » oblige le lecteur à faire un effort de plus pour trouver la demande.
+SENA: Je vais devoir lutter contre mes habitudes sur ce point.
+DANIEL: Tout le monde le fait. Certains appellent ça « bottom line up front ». La conclusion d'abord, puis la demande, puis les détails.
+SENA: D'accord, la pratique de cette semaine ?
+DANIEL: Cette semaine, choisis un message que tu dois envoyer. Un e-mail, un message de chat, tout ce qui compte un peu. Avant de l'envoyer, réécris-le dans cet ordre. Première ligne, la conclusion ou la décision. Deuxième, ce dont tu as besoin de la part du lecteur, et pour quand. Puis les détails. Et avant d'appuyer sur envoyer, relis-le une fois comme l'autre personne. Demande-toi : « Si je ne lisais que les deux premières lignes, saurais-je quoi faire ? »
+SENA: Conclusion, demande avec une date, détails. Puis le lire comme le lecteur.
+DANIEL: Et une dernière chose. Ajoute une courte ligne de chaleur qui soit sincère. Pas dix excuses. Une vraie phrase.
+SENA: Je vais essayer avec Mark. Je lui dois un meilleur e-mail de toute façon. Et peut-être que j'essaierai en japonais, avec Kato-san, pour voir ce qui se passe.
+DANIEL: J'aimerais beaucoup connaître les deux résultats. Souviens-toi seulement que, dans un contexte japonais, il te faudra peut-être un peu plus de coussin. La conscience sociale, c'est s'adapter au lecteur, pas appliquer une seule règle partout.
+DANIEL: La prochaine fois, nous revenons à la gestion des relations. Épisode huit, « Rendre ton travail visible ». Pourquoi un bon travail ne parle pas toujours de lui-même, et comment partager ce que tu fais sans avoir l'impression de te vanter.
+SENA: Oh, celui-là sera difficile pour moi. Au Japon, on dit que le clou qui dépasse se fait enfoncer.
+DANIEL: Alors c'est exactement le bon épisode suivant. Merci d'écouter Human Curriculum. Moi, c'est Daniel.
+SENA: Et moi, c'est Sena. Mets ta conclusion en premier cette semaine. À la prochaine.

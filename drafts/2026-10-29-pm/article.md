@@ -296,7 +296,7 @@ Is the gap more about things I haven't done yet, or things I'm doing that aren't
 - 「具体的で難しい目標」は「ベストを尽くせ」より成績が高くなる、という結果が繰り返し報告されています。理論の提唱者の総説では、その差の効果量は .42〜.80 とされています（Locke & Latham, 2002）
 - ただし、仕事が複雑になるほど効果は小さくなります。同じ総説で紹介されているメタ分析では、最も複雑な課題で .41、最も複雑でない課題で .77 でした（Wood ら, 1987。数値は Locke & Latham, 2002 の記述で確認）
 - 新しく複雑な仕事では、「〇〇を達成する」という成果の目標より、「やり方を身につける」学びの目標のほうがよい場合がある、とも書かれています。目標がうまく働くには、進み具合が分かるフィードバックが必要、とも
-- 目標を上司と一緒に決めても、目標の難しさが同じなら、割り当てられた目標と成績はあまり変わらない、とされています。意思決定への参加が客観的な成績に与える効果を調べたメタ分析の値も .11 と小さいものでした（Wagner & Gooding, 1987。原論文は開けておらず、Locke & Latham, 2002 の記述で確認）。ただし、理由を説明せずに目標を渡すと、一緒に決めた目標より成績が低い、とも書かれています
+- 目標を上司と一緒に決めても、目標の難しさが同じなら、割り当てられた目標と成績はあまり変わらない、とされています（Locke & Latham, 2002）。意思決定への参加が客観的な成績に与える効果を調べたメタ分析の値も .11 と小さいものでした（Wagner & Gooding, 1987。原論文は開けておらず、Locke & Latham, 2002 の記述で確認）。ただし、理由を説明せずに目標を渡すと、一緒に決めた目標より成績が低い、とも書かれています（Locke & Latham, 2002）
 - 目標の進み具合を見直すことについて、138の研究（19,951人）をまとめたメタ分析では、見直しを増やす働きかけで目標の達成が高まり（d = 0.40）、記録したり、人に報告したりすると効果が大きかった、とされています（Harkin ら, 2016。主に健康の目標の研究です）
 - 一方で、目標の立てすぎには、目標以外を軽く見る・内発的な動機が下がる、などの副作用がある、という論考もあり（Ordóñez ら, 2009）、提唱者側との論争になっています
 
@@ -546,7 +546,7 @@ AIに練習相手をしてもらうと上手く切り出せる、という研究
 - Higgins, C. A., Judge, T. A., & Ferris, G. R. (2003). Influence tactics and work outcomes: A meta-analysis. *Journal of Organizational Behavior, 24*(1), 89–106. https://doi.org/10.1002/job.181
 - Liu, C. X., Blair, B. A., & Tenney, E. R. (2026). Registered report: Can agentic Black women get ahead? An experiment revisited. *Psychological Science, 37*(5), 347–364. https://doi.org/10.1177/09567976261436988
 - Locke, E. A., & Latham, G. P. (2002). Building a practically useful theory of goal setting and task motivation: A 35-year odyssey. *American Psychologist, 57*(9), 705–717. https://doi.org/10.1037/0003-066X.57.9.705
-- Ordóñez, L. D., Schweitzer, M. E., Galinsky, A. D., & Bazerman, M. H. (2009). Goals gone wild: The systematic side effects of overprescribing goal setting. *Academy of Management Perspectives, 23*(1), 6–16. https://doi.org/10.5465/amp.2009.37007999 （論考。DOIは未確認。公開前に一度開いて確かめ、確かめられたらこの注記を消す）
+- Ordóñez, L. D., Schweitzer, M. E., Galinsky, A. D., & Bazerman, M. H. (2009). Goals gone wild: The systematic side effects of overprescribing goal setting. *Academy of Management Perspectives, 23*(1), 6–16. https://doi.org/10.5465/amp.2009.37007999 （論考）
 - Peck, J. A., & Levashina, J. (2017). Impression management and interview and job performance ratings: A meta-analysis of research design with tactics in mind. *Frontiers in Psychology, 8*, 201. https://doi.org/10.3389/fpsyg.2017.00201
 - Rudman, L. A. (1998). Self-promotion as a risk factor for women: The costs and benefits of counterstereotypical impression management. *Journal of Personality and Social Psychology, 74*(3), 629–645. https://doi.org/10.1037/0022-3514.74.3.629
 - Seibert, S. E., Kraimer, M. L., & Crant, J. M. (2001). What do proactive people do? A longitudinal model linking proactive personality and career success. *Personnel Psychology, 54*(4), 845–874. https://doi.org/10.1111/j.1744-6570.2001.tb00234.x

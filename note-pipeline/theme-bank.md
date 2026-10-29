@@ -181,7 +181,7 @@ Senaの申告（2026-10-15）：Antigravityを仕事でよく使っている。�
 | 56 | https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11325543376 （AIに集計させると合計が合わない質問） | AIツールのファイル読み込み・計算機能 | 不要 | なし。重複は🟢 | 使用済み（drafts/2026-10-29-am） |
 | 57 | https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11298949011 （ChatGPTを使って上司に怒られた質問） | 会社ごとのAIの方針 | 不要 | 社内情報をAIに入れてよいか（drafts/2026-10-19-am）。上司・チームへの伝え方に絞れば重複は🟡（例文の重なりに注意） | 未使用 |
 | 58 | https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q11161094451 （LinkedInで転職活動が会社にばれない方法の質問） | サービスの公開範囲の仕様（執筆時に公式ヘルプで確かめる） | 不要（在籍中の会社名・在籍状況は書かない） | なし。重複は🟢 | 未使用 |
-| 59 | https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q12288119477 （昇進したいと上司に伝えてよいかの質問。外資向けの需要は一部推測） | 会社ごとの昇進の仕組み | 不要（アピールし続けるやり方が合わないことは公開済み） | 評価（drafts/2026-10-03-pm）、自己評価（drafts/2026-10-09-pm）。重複は🟡 | 未使用 |
+| 59 | https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q12288119477 （昇進したいと上司に伝えてよいかの質問。外資向けの需要は一部推測） | 会社ごとの昇進の仕組み | 不要（アピールし続けるやり方が合わないことは公開済み） | 評価（drafts/2026-10-03-pm）、自己評価（drafts/2026-10-09-pm）。重複は🟡 | 使用済み（drafts/2026-10-29-pm） |
 | 60 | https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q12180956737 （人事評価のコメントが書きにくい質問。英語のピアフィードバックのまとめは見当たらず） | 会社ごとの評価制度 | 不要（同僚の具体は書かない） | 外資テック解剖 #01（drafts/2026-10-02-pm2）は受ける側。重複は🟢 | 使用済み（drafts/2026-10-27-pm） |
 | 61 | https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q12223600807 （外国人の教授への英語メールの書き出しの質問） | 大学ごとの連絡手段 | 不要 | オフィスアワー（drafts/2026-10-18-am）は対面。メールに絞れば重複は🟡 | 未使用 |
 | 62 | https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10314594475 （AIの要約が短くなる質問。「英語の資料」に絞った部分は一部推測） | AIツールの読み込める長さ・機能 | 不要 | drafts/2026-10-23-pm は話す側。読む側に絞れば重複は🟡 | 未使用 |

@@ -230,5 +230,13 @@
   "9-ai": {
     "episode": 9,
     "reported": true
+  },
+  "10-story": {
+    "episode": 10,
+    "reported": true
+  },
+  "13-lab": {
+    "episode": 13,
+    "reported": true
   }
 }

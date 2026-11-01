@@ -96,5 +96,12 @@
     "due_at": "2026-10-31T11:00:00.000Z",
     "video_url": "https://cdn.jsdelivr.net/gh/risakwmr/claude@reels-media/ep04_reel_story.mp4",
     "created_at": "2026-10-31T03:01:49Z"
+  },
+  "5-culture": {
+    "buffer_post_id": "6ae6abbacf3a3112f3d80ef1",
+    "status": "scheduled",
+    "due_at": "2026-11-01T11:00:00.000Z",
+    "video_url": "https://cdn.jsdelivr.net/gh/risakwmr/claude@reels-media/ep05_reel_culture.mp4",
+    "created_at": "2026-11-01T03:02:18Z"
   }
 }

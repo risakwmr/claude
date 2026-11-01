@@ -238,5 +238,9 @@
   "13-lab": {
     "episode": 13,
     "reported": true
+  },
+  "14-culture": {
+    "episode": 14,
+    "reported": true
   }
 }

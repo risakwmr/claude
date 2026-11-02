@@ -1,5 +1,5 @@
 {
-  "at": "2026-11-02T00:05:57Z",
+  "at": "2026-11-02T21:14:06Z",
   "shorts": {
     "1-ai": {
       "video_id": "IdbU6d1ox0Q",
@@ -411,7 +411,16 @@
       "title": "Mistakes at work: Japan vs the US #shorts",
       "public": true,
       "publish_at": "2026-11-01T19:00:00Z",
-      "views": 9,
+      "views": 11,
+      "likes": 0,
+      "comments": 0
+    },
+    "15-highlight": {
+      "video_id": "G-6zu4oSfxo",
+      "title": "Hard conversations go better than you fear #shorts",
+      "public": false,
+      "publish_at": "2026-11-02T23:00:00Z",
+      "views": 0,
       "likes": 0,
       "comments": 0
     },
@@ -977,7 +986,7 @@
     "33": {
       "video_id": "_K79ZNWGwlg",
       "title": "Put on the Spot in a Meeting? What to Say Before You Answer | Human Curriculum EP33",
-      "views": 16,
+      "views": 17,
       "likes": 0,
       "comments": 0
     }

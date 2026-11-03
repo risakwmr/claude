@@ -1,5 +1,5 @@
 {
-  "at": "2026-11-02T21:14:06Z",
+  "at": "2026-11-03T18:56:19Z",
   "shorts": {
     "1-ai": {
       "video_id": "IdbU6d1ox0Q",
@@ -298,6 +298,15 @@
       "likes": 0,
       "comments": 0
     },
+    "10-ai": {
+      "video_id": "L8DtDHeyJpI",
+      "title": "Influence without authority: what AI can't do #shorts",
+      "public": false,
+      "publish_at": "2026-11-03T23:00:00Z",
+      "views": 0,
+      "likes": 0,
+      "comments": 0
+    },
     "10-highlight": {
       "video_id": "4bemmHVX0UY",
       "title": "People say yes more often than you think #shorts",
@@ -418,9 +427,9 @@
     "15-highlight": {
       "video_id": "G-6zu4oSfxo",
       "title": "Hard conversations go better than you fear #shorts",
-      "public": false,
+      "public": true,
       "publish_at": "2026-11-02T23:00:00Z",
-      "views": 0,
+      "views": 4,
       "likes": 0,
       "comments": 0
     },

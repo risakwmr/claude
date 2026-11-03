@@ -110,5 +110,12 @@
     "due_at": "2026-11-02T11:00:00.000Z",
     "video_url": "https://cdn.jsdelivr.net/gh/risakwmr/claude@reels-media/ep05_reel_highlight.mp4",
     "created_at": "2026-11-02T03:02:03Z"
+  },
+  "5-ai": {
+    "buffer_post_id": "6ae94e6d94b13c6dd78fed59",
+    "status": "scheduled",
+    "due_at": "2026-11-03T11:00:00.000Z",
+    "video_url": "https://cdn.jsdelivr.net/gh/risakwmr/claude@reels-media/ep05_reel_ai.mp4",
+    "created_at": "2026-11-03T03:01:01Z"
   }
 }

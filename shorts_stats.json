@@ -1,5 +1,5 @@
 {
-  "at": "2026-11-04T00:59:40Z",
+  "at": "2026-11-04T19:12:30Z",
   "shorts": {
     "1-ai": {
       "video_id": "IdbU6d1ox0Q",
@@ -303,7 +303,7 @@
       "title": "Influence without authority: what AI can't do #shorts",
       "public": true,
       "publish_at": "2026-11-03T23:00:00Z",
-      "views": 0,
+      "views": 1,
       "likes": 0,
       "comments": 0
     },
@@ -349,6 +349,15 @@
       "public": true,
       "publish_at": "2026-10-20T19:00:00Z",
       "views": 3,
+      "likes": 0,
+      "comments": 0
+    },
+    "11-story": {
+      "video_id": "qbPo4zHJQoo",
+      "title": "Your silence is not neutral #shorts",
+      "public": false,
+      "publish_at": "2026-11-04T23:00:00Z",
+      "views": 0,
       "likes": 0,
       "comments": 0
     },
@@ -946,7 +955,7 @@
     "26": {
       "video_id": "xDKO5T0UcWE",
       "title": "Self-Compassion at Work: Talk to Yourself Like a Friend | Business English Podcast EP26",
-      "views": 11,
+      "views": 12,
       "likes": 1,
       "comments": 1
     },

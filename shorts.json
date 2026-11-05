@@ -338,6 +338,16 @@
     "uploaded_at": "2026-11-02T21:14:05+00:00",
     "publish_at": "2026-11-02T23:00:00Z"
   },
+  "15-culture": {
+    "video_id": "dt0dzmajsMs",
+    "uploaded_at": "2026-11-05T19:45:08+00:00",
+    "publish_at": "2026-11-05T23:00:00Z",
+    "localized": [
+      "fr",
+      "ko",
+      "zh-TW"
+    ]
+  },
   "16-ai": {
     "video_id": "wpHzHItUs9A",
     "uploaded_at": "2026-10-08T05:15:48+00:00",

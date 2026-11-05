@@ -1,5 +1,5 @@
 {
-  "at": "2026-11-05T01:14:46Z",
+  "at": "2026-11-05T19:45:09Z",
   "shorts": {
     "1-ai": {
       "video_id": "IdbU6d1ox0Q",
@@ -213,7 +213,7 @@
       "title": "High-context vs low-context: Japan and the US at work #shorts",
       "public": true,
       "publish_at": "2026-10-16T09:00:00Z",
-      "views": 17,
+      "views": 18,
       "likes": 0,
       "comments": 0
     },
@@ -436,9 +436,9 @@
     "14-lab": {
       "video_id": "TXifh3BnvSA",
       "title": "3 English phrases to go first in a meeting (repeat after me) #shorts",
-      "public": false,
+      "public": true,
       "publish_at": "2026-11-05T13:00:00Z",
-      "views": 0,
+      "views": 4,
       "likes": 0,
       "comments": 0
     },
@@ -448,6 +448,15 @@
       "public": true,
       "publish_at": "2026-11-02T23:00:00Z",
       "views": 4,
+      "likes": 0,
+      "comments": 0
+    },
+    "15-culture": {
+      "video_id": "dt0dzmajsMs",
+      "title": "Japan hides the message in silence. The US hides it in compliments. #shorts",
+      "public": false,
+      "publish_at": "2026-11-05T23:00:00Z",
+      "views": 0,
       "likes": 0,
       "comments": 0
     },
@@ -582,7 +591,7 @@
       "title": "I undersold myself to my VP. Here's what I changed #shorts",
       "public": true,
       "publish_at": "2026-10-13T03:24:16Z",
-      "views": 14,
+      "views": 15,
       "likes": 1,
       "comments": 0
     },
@@ -894,7 +903,7 @@
     "16": {
       "video_id": "D-JtMP9s8jY",
       "title": "How to Report a Mistake at Work (Without Panicking) | Business English Podcast EP16",
-      "views": 10,
+      "views": 11,
       "likes": 0,
       "comments": 0
     },

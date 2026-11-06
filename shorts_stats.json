@@ -1,5 +1,5 @@
 {
-  "at": "2026-11-06T01:46:51Z",
+  "at": "2026-11-06T19:19:21Z",
   "shorts": {
     "1-ai": {
       "video_id": "IdbU6d1ox0Q",
@@ -337,7 +337,7 @@
     "11-ai": {
       "video_id": "qNv-c2rZo-g",
       "title": "Why AI disagreeing with you doesn't count #shorts",
-      "public": false,
+      "public": true,
       "publish_at": "2026-11-06T13:00:00Z",
       "views": 0,
       "likes": 0,
@@ -397,6 +397,15 @@
       "likes": 0,
       "comments": 0
     },
+    "12-story": {
+      "video_id": "S8xayPa7E2g",
+      "title": "What I got wrong managing my best friend #shorts",
+      "public": false,
+      "publish_at": "2026-11-06T23:00:00Z",
+      "views": 0,
+      "likes": 0,
+      "comments": 0
+    },
     "13-highlight": {
       "video_id": "J8bkVWT_s08",
       "title": "Compliments land better than you expect #shorts",
@@ -447,7 +456,7 @@
       "title": "3 English phrases to go first in a meeting (repeat after me) #shorts",
       "public": true,
       "publish_at": "2026-11-05T13:00:00Z",
-      "views": 4,
+      "views": 7,
       "likes": 0,
       "comments": 0
     },

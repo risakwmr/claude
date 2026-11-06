@@ -1,5 +1,5 @@
 {
-  "at": "2026-11-05T19:45:09Z",
+  "at": "2026-11-06T01:46:51Z",
   "shorts": {
     "1-ai": {
       "video_id": "IdbU6d1ox0Q",
@@ -334,6 +334,15 @@
       "likes": 0,
       "comments": 0
     },
+    "11-ai": {
+      "video_id": "qNv-c2rZo-g",
+      "title": "Why AI disagreeing with you doesn't count #shorts",
+      "public": false,
+      "publish_at": "2026-11-06T13:00:00Z",
+      "views": 0,
+      "likes": 0,
+      "comments": 0
+    },
     "11-highlight": {
       "video_id": "LyWknyo0J78",
       "title": "Why 85% of people stay quiet at work #shorts",
@@ -454,7 +463,7 @@
     "15-culture": {
       "video_id": "dt0dzmajsMs",
       "title": "Japan hides the message in silence. The US hides it in compliments. #shorts",
-      "public": false,
+      "public": true,
       "publish_at": "2026-11-05T23:00:00Z",
       "views": 0,
       "likes": 0,

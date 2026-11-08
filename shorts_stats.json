@@ -1,5 +1,5 @@
 {
-  "at": "2026-11-08T00:07:26Z",
+  "at": "2026-11-08T17:28:14Z",
   "shorts": {
     "1-ai": {
       "video_id": "IdbU6d1ox0Q",
@@ -105,7 +105,7 @@
       "title": "Name the feeling: the tarantula experiment #shorts",
       "public": true,
       "publish_at": "2026-10-07T09:00:00Z",
-      "views": 1,
+      "views": 2,
       "likes": 0,
       "comments": 1
     },
@@ -303,7 +303,7 @@
       "title": "Influence without authority: what AI can't do #shorts",
       "public": true,
       "publish_at": "2026-11-03T23:00:00Z",
-      "views": 1,
+      "views": 2,
       "likes": 0,
       "comments": 0
     },
@@ -366,6 +366,15 @@
       "title": "Your silence is not neutral #shorts",
       "public": true,
       "publish_at": "2026-11-04T23:00:00Z",
+      "views": 0,
+      "likes": 0,
+      "comments": 0
+    },
+    "12-ai": {
+      "video_id": "O6i7EM0FmNE",
+      "title": "AI can describe the job. It can't do the change. #shorts",
+      "public": false,
+      "publish_at": "2026-11-08T19:00:00Z",
       "views": 0,
       "likes": 0,
       "comments": 0

@@ -421,6 +421,16 @@
     "publish_at": "2026-10-08T18:25:32Z",
     "commented": true
   },
+  "17-culture": {
+    "video_id": "qscEnXF3w2M",
+    "uploaded_at": "2026-11-10T19:10:05+00:00",
+    "publish_at": "2026-11-10T23:00:00Z",
+    "localized": [
+      "fr",
+      "ko",
+      "zh-TW"
+    ]
+  },
   "19-highlight": {
     "video_id": "GBcp7xYiAG4",
     "uploaded_at": "2026-10-10T03:34:22+00:00",

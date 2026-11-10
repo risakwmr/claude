@@ -1,5 +1,5 @@
 {
-  "at": "2026-11-09T21:49:56Z",
+  "at": "2026-11-10T19:10:06Z",
   "shorts": {
     "1-ai": {
       "video_id": "IdbU6d1ox0Q",
@@ -445,9 +445,9 @@
     "13-story": {
       "video_id": "Lq1gFvcaBzc",
       "title": "Why generic praise is invisible #shorts",
-      "public": false,
+      "public": true,
       "publish_at": "2026-11-09T23:00:00Z",
-      "views": 0,
+      "views": 2,
       "likes": 0,
       "comments": 0
     },
@@ -501,7 +501,7 @@
       "title": "3 English phrases to start a hard conversation (repeat after me) #shorts",
       "public": true,
       "publish_at": "2026-11-07T19:00:00Z",
-      "views": 15,
+      "views": 16,
       "likes": 0,
       "comments": 0
     },
@@ -567,6 +567,15 @@
       "views": 131,
       "likes": 0,
       "comments": 1
+    },
+    "17-culture": {
+      "video_id": "qscEnXF3w2M",
+      "title": "Stress at work: Japan vs the US #shorts",
+      "public": false,
+      "publish_at": "2026-11-10T23:00:00Z",
+      "views": 0,
+      "likes": 0,
+      "comments": 0
     },
     "19-highlight": {
       "video_id": "GBcp7xYiAG4",

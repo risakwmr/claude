@@ -1,5 +1,5 @@
 {
-  "at": "2026-11-12T02:05:34Z",
+  "at": "2026-11-12T19:24:45Z",
   "shorts": {
     "1-ai": {
       "video_id": "IdbU6d1ox0Q",
@@ -418,9 +418,9 @@
     "13-ai": {
       "video_id": "WxOb5oJ4dSY",
       "title": "Why AI-written praise falls flat #shorts",
-      "public": false,
+      "public": true,
       "publish_at": "2026-11-12T13:00:00Z",
-      "views": 0,
+      "views": 37,
       "likes": 0,
       "comments": 0
     },
@@ -484,6 +484,15 @@
       "public": true,
       "publish_at": "2026-11-05T13:00:00Z",
       "views": 9,
+      "likes": 0,
+      "comments": 0
+    },
+    "14-story": {
+      "video_id": "w-kxyV90b80",
+      "title": "My door was open, but my face was closed #shorts",
+      "public": false,
+      "publish_at": "2026-11-12T23:00:00Z",
+      "views": 0,
       "likes": 0,
       "comments": 0
     },
@@ -591,7 +600,7 @@
       "title": "Say \"I'm excited,\" not \"calm down\": the karaoke study #shorts",
       "public": true,
       "publish_at": "2026-11-11T23:00:00Z",
-      "views": 44,
+      "views": 52,
       "likes": 0,
       "comments": 0
     },

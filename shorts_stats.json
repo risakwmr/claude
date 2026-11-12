@@ -1,5 +1,5 @@
 {
-  "at": "2026-11-11T19:07:05Z",
+  "at": "2026-11-12T02:05:34Z",
   "shorts": {
     "1-ai": {
       "video_id": "IdbU6d1ox0Q",
@@ -415,6 +415,15 @@
       "likes": 0,
       "comments": 0
     },
+    "13-ai": {
+      "video_id": "WxOb5oJ4dSY",
+      "title": "Why AI-written praise falls flat #shorts",
+      "public": false,
+      "publish_at": "2026-11-12T13:00:00Z",
+      "views": 0,
+      "likes": 0,
+      "comments": 0
+    },
     "13-highlight": {
       "video_id": "J8bkVWT_s08",
       "title": "Compliments land better than you expect #shorts",
@@ -580,9 +589,9 @@
     "18-highlight": {
       "video_id": "r8qLpYDR2Q0",
       "title": "Say \"I'm excited,\" not \"calm down\": the karaoke study #shorts",
-      "public": false,
+      "public": true,
       "publish_at": "2026-11-11T23:00:00Z",
-      "views": 0,
+      "views": 44,
       "likes": 0,
       "comments": 0
     },
@@ -1078,7 +1087,7 @@
     "32": {
       "video_id": "rYwhDug1Hio",
       "title": "Experts Can't Explain Things Simply. Here's a One-Minute Fix | Human Curriculum EP32",
-      "views": 4,
+      "views": 5,
       "likes": 0,
       "comments": 1
     },

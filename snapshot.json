@@ -1,5 +1,5 @@
 {
-  "at": "2026-11-11 11:00 JST",
+  "at": "2026-11-12 12:10 JST",
   "audience": {
     "channel_id": "UCSaZaQp7Ao--E-UrkQ4RnXg",
     "new": []
@@ -197,7 +197,7 @@
         "likes": 0,
         "title": "Experts Can't Explain Things Simply. Here's a One-Minute Fix | Human Curriculum EP32",
         "video_id": "rYwhDug1Hio",
-        "views": 4
+        "views": 5
       },
       "33": {
         "comments": 0,
@@ -917,6 +917,14 @@
         "episode": 13,
         "episode_public": true,
         "episode_title": "Giving Feedback with SBI",
+        "short": "13-ai",
+        "studio_link": "https://studio.youtube.com/video/WxOb5oJ4dSY/edit",
+        "uploaded_at": "2026-11-12T02:05:33+00:00"
+      },
+      {
+        "episode": 13,
+        "episode_public": true,
+        "episode_title": "Giving Feedback with SBI",
         "short": "13-highlight",
         "studio_link": "https://studio.youtube.com/video/J8bkVWT_s08/edit",
         "uploaded_at": "2026-10-24T15:11:06+00:00"
@@ -1056,6 +1064,14 @@
         "short": "17-culture",
         "studio_link": "https://studio.youtube.com/video/qscEnXF3w2M/edit",
         "uploaded_at": "2026-11-10T19:10:05+00:00"
+      },
+      {
+        "episode": 18,
+        "episode_public": true,
+        "episode_title": "Nerves Before You Speak",
+        "short": "18-highlight",
+        "studio_link": "https://studio.youtube.com/video/r8qLpYDR2Q0/edit",
+        "uploaded_at": "2026-11-11T19:07:04+00:00"
       },
       {
         "episode": 19,
@@ -1435,6 +1451,15 @@
         "video_id": "S8xayPa7E2g",
         "views": 3
       },
+      "13-ai": {
+        "comments": 0,
+        "likes": 0,
+        "public": false,
+        "publish_at": "2026-11-12T13:00:00Z",
+        "title": "Why AI-written praise falls flat #shorts",
+        "video_id": "WxOb5oJ4dSY",
+        "views": 0
+      },
       "13-culture": {
         "comments": 0,
         "likes": 0,
@@ -1586,7 +1611,7 @@
         "publish_at": "2026-11-10T23:00:00Z",
         "title": "Stress at work: Japan vs the US #shorts",
         "video_id": "qscEnXF3w2M",
-        "views": 76
+        "views": 77
       },
       "17-highlight": {
         "comments": 1,
@@ -1596,6 +1621,15 @@
         "title": "Can seeing stress as useful help? What one study found #shorts",
         "video_id": "HlcnzW_eV2s",
         "views": 131
+      },
+      "18-highlight": {
+        "comments": 0,
+        "likes": 0,
+        "public": true,
+        "publish_at": "2026-11-11T23:00:00Z",
+        "title": "Say \"I'm excited,\" not \"calm down\": the karaoke study #shorts",
+        "video_id": "r8qLpYDR2Q0",
+        "views": 44
       },
       "19-highlight": {
         "comments": 0,
@@ -2148,11 +2182,17 @@
       }
     },
     "shorts": {
-      "public": 95,
-      "scheduled": []
+      "public": 96,
+      "scheduled": [
+        {
+          "publish_at": "11/12 22:00 JST",
+          "short": "13-ai",
+          "state": "scheduled"
+        }
+      ]
     },
     "show": "Human Curriculum",
-    "stats_at": "11/11 09:58 JST",
+    "stats_at": "11/12 11:05 JST",
     "thumbnail_references": [
       "https://github.com/risakwmr/claude/blob/episodes/episodes/ep14_thumbnail.png",
       "https://github.com/risakwmr/claude/blob/episodes/episodes/ep18_thumbnail.png"
@@ -2178,8 +2218,8 @@
         },
         "episode": 34,
         "file": "episodes/ep34_thumbnail.png",
-        "hours_left": -2,
-        "needed_by": "11/11 09:00 JST",
+        "hours_left": 9,
+        "needed_by": "11/12 21:00 JST",
         "title": "Asking Clarifying Questions",
         "upload_link": "https://github.com/risakwmr/claude/upload/episodes/episodes"
       },
@@ -2204,8 +2244,8 @@
         },
         "episode": 35,
         "file": "episodes/ep35_thumbnail.png",
-        "hours_left": 10,
-        "needed_by": "11/11 21:00 JST",
+        "hours_left": 21,
+        "needed_by": "11/13 09:00 JST",
         "title": "Interrupting Politely",
         "upload_link": "https://github.com/risakwmr/claude/upload/episodes/episodes"
       },
@@ -2229,8 +2269,8 @@
         },
         "episode": 36,
         "file": "episodes/ep36_thumbnail.png",
-        "hours_left": 22,
-        "needed_by": "11/12 09:00 JST",
+        "hours_left": 33,
+        "needed_by": "11/13 21:00 JST",
         "title": "Listen, Summarize, Then Speak",
         "upload_link": "https://github.com/risakwmr/claude/upload/episodes/episodes"
       },
@@ -2254,8 +2294,8 @@
         },
         "episode": 37,
         "file": "episodes/ep37_thumbnail.png",
-        "hours_left": 34,
-        "needed_by": "11/12 21:00 JST",
+        "hours_left": 45,
+        "needed_by": "11/14 09:00 JST",
         "title": "Retell in 30 Seconds",
         "upload_link": "https://github.com/risakwmr/claude/upload/episodes/episodes"
       },
@@ -2280,8 +2320,8 @@
         },
         "episode": 38,
         "file": "episodes/ep38_thumbnail.png",
-        "hours_left": 46,
-        "needed_by": "11/13 09:00 JST",
+        "hours_left": 57,
+        "needed_by": "11/14 21:00 JST",
         "title": "Speaking Before You Feel Ready",
         "upload_link": "https://github.com/risakwmr/claude/upload/episodes/episodes"
       },
@@ -2305,8 +2345,8 @@
         },
         "episode": 39,
         "file": "episodes/ep39_thumbnail.png",
-        "hours_left": 58,
-        "needed_by": "11/13 21:00 JST",
+        "hours_left": 69,
+        "needed_by": "11/15 09:00 JST",
         "title": "Presenting with a Story",
         "upload_link": "https://github.com/risakwmr/claude/upload/episodes/episodes"
       },
@@ -2330,8 +2370,8 @@
         },
         "episode": 40,
         "file": "episodes/ep40_thumbnail.png",
-        "hours_left": 70,
-        "needed_by": "11/14 09:00 JST",
+        "hours_left": 81,
+        "needed_by": "11/15 21:00 JST",
         "title": "Pushing Back on Deadlines",
         "upload_link": "https://github.com/risakwmr/claude/upload/episodes/episodes"
       },
@@ -2356,8 +2396,8 @@
         },
         "episode": 41,
         "file": "episodes/ep41_thumbnail.png",
-        "hours_left": 82,
-        "needed_by": "11/14 21:00 JST",
+        "hours_left": 93,
+        "needed_by": "11/16 09:00 JST",
         "title": "Saying \"I Don't Know\"",
         "upload_link": "https://github.com/risakwmr/claude/upload/episodes/episodes"
       },
@@ -2382,8 +2422,8 @@
         },
         "episode": 42,
         "file": "episodes/ep42_thumbnail.png",
-        "hours_left": 94,
-        "needed_by": "11/15 09:00 JST",
+        "hours_left": 105,
+        "needed_by": "11/16 21:00 JST",
         "title": "Running a Short Meeting",
         "upload_link": "https://github.com/risakwmr/claude/upload/episodes/episodes"
       },
@@ -2408,8 +2448,8 @@
         },
         "episode": 43,
         "file": "episodes/ep43_thumbnail.png",
-        "hours_left": 106,
-        "needed_by": "11/15 21:00 JST",
+        "hours_left": 117,
+        "needed_by": "11/17 09:00 JST",
         "title": "Learning from Your Own Recording",
         "upload_link": "https://github.com/risakwmr/claude/upload/episodes/episodes"
       }
@@ -2433,6 +2473,30 @@
     "runs": [
       {
         "result": "success",
+        "started": "11/12 11:04 JST",
+        "status": "completed",
+        "trigger": "schedule",
+        "url": "https://github.com/risakwmr/claude/actions/runs/43138815812",
+        "workflow": "Make and upload episodes"
+      },
+      {
+        "result": "success",
+        "started": "11/12 04:05 JST",
+        "status": "completed",
+        "trigger": "schedule",
+        "url": "https://github.com/risakwmr/claude/actions/runs/43083872298",
+        "workflow": "Make and upload episodes"
+      },
+      {
+        "result": "success",
+        "started": "11/11 16:57 JST",
+        "status": "completed",
+        "trigger": "schedule",
+        "url": "https://github.com/risakwmr/claude/actions/runs/42983270141",
+        "workflow": "Make Instagram Reels"
+      },
+      {
+        "result": "success",
         "started": "11/11 09:57 JST",
         "status": "completed",
         "trigger": "schedule",
@@ -2445,22 +2509,6 @@
         "status": "completed",
         "trigger": "schedule",
         "url": "https://github.com/risakwmr/claude/actions/runs/42882262871",
-        "workflow": "Make and upload episodes"
-      },
-      {
-        "result": "success",
-        "started": "11/10 17:37 JST",
-        "status": "completed",
-        "trigger": "schedule",
-        "url": "https://github.com/risakwmr/claude/actions/runs/42784107424",
-        "workflow": "Make Instagram Reels"
-      },
-      {
-        "result": "success",
-        "started": "11/10 06:48 JST",
-        "status": "completed",
-        "trigger": "schedule",
-        "url": "https://github.com/risakwmr/claude/actions/runs/42705940615",
         "workflow": "Make and upload episodes"
       }
     ]

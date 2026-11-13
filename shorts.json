@@ -451,6 +451,16 @@
     "uploaded_at": "2026-11-11T19:07:04+00:00",
     "publish_at": "2026-11-11T23:00:00Z"
   },
+  "18-culture": {
+    "video_id": "8OBKOsLfnrY",
+    "uploaded_at": "2026-11-13T19:01:53+00:00",
+    "publish_at": "2026-11-13T23:00:00Z",
+    "localized": [
+      "fr",
+      "ko",
+      "zh-TW"
+    ]
+  },
   "19-highlight": {
     "video_id": "GBcp7xYiAG4",
     "uploaded_at": "2026-10-10T03:34:22+00:00",

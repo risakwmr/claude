@@ -1,5 +1,5 @@
 {
-  "at": "2026-11-13T01:37:15Z",
+  "at": "2026-11-13T19:01:54Z",
   "shorts": {
     "1-ai": {
       "video_id": "IdbU6d1ox0Q",
@@ -519,7 +519,7 @@
       "title": "3 English phrases to start a hard conversation (repeat after me) #shorts",
       "public": true,
       "publish_at": "2026-11-07T19:00:00Z",
-      "views": 16,
+      "views": 17,
       "likes": 0,
       "comments": 0
     },
@@ -598,9 +598,9 @@
     "17-lab": {
       "video_id": "L8B5qzg1Ypg",
       "title": "Say it out loud: 3 phrases for when you're stressed at work and need to say so clearly #shorts",
-      "public": false,
+      "public": true,
       "publish_at": "2026-11-13T13:00:00Z",
-      "views": 0,
+      "views": 2,
       "likes": 0,
       "comments": 0
     },
@@ -610,6 +610,15 @@
       "public": true,
       "publish_at": "2026-11-11T23:00:00Z",
       "views": 52,
+      "likes": 0,
+      "comments": 0
+    },
+    "18-culture": {
+      "video_id": "8OBKOsLfnrY",
+      "title": "Before a speech: Japan vs the US #shorts",
+      "public": false,
+      "publish_at": "2026-11-13T23:00:00Z",
+      "views": 0,
       "likes": 0,
       "comments": 0
     },
@@ -1098,7 +1107,7 @@
     "31": {
       "video_id": "7iadEpodP6Y",
       "title": "Small Talk Is Not Small: Two Questions and One Follow-Up | Human Curriculum EP31",
-      "views": 2,
+      "views": 3,
       "likes": 0,
       "comments": 1
     },

@@ -1,5 +1,5 @@
 {
-  "at": "2026-11-13T19:01:54Z",
+  "at": "2026-11-14T01:11:05Z",
   "shorts": {
     "1-ai": {
       "video_id": "IdbU6d1ox0Q",
@@ -460,6 +460,15 @@
       "likes": 0,
       "comments": 0
     },
+    "14-ai": {
+      "video_id": "_Fsfd-cVi8A",
+      "title": "When AI says sorry, it costs nothing. That's the point. #shorts",
+      "public": false,
+      "publish_at": "2026-11-14T13:00:00Z",
+      "views": 0,
+      "likes": 0,
+      "comments": 0
+    },
     "14-highlight": {
       "video_id": "H5ATb72NfDE",
       "title": "Polite isn't the same as psychologically safe #shorts",
@@ -616,9 +625,9 @@
     "18-culture": {
       "video_id": "8OBKOsLfnrY",
       "title": "Before a speech: Japan vs the US #shorts",
-      "public": false,
+      "public": true,
       "publish_at": "2026-11-13T23:00:00Z",
-      "views": 0,
+      "views": 1,
       "likes": 0,
       "comments": 0
     },
@@ -780,7 +789,7 @@
       "title": "Reading the air: Japan vs the US #shorts",
       "public": true,
       "publish_at": "2026-10-17T14:50:42Z",
-      "views": 16,
+      "views": 17,
       "likes": 0,
       "comments": 0
     },

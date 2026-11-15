@@ -1,5 +1,5 @@
 {
-  "at": "2026-11-15T00:36:42Z",
+  "at": "2026-11-15T18:20:07Z",
   "shorts": {
     "1-ai": {
       "video_id": "IdbU6d1ox0Q",
@@ -537,7 +537,7 @@
       "title": "I joked instead of giving feedback. Big mistake. #shorts",
       "public": true,
       "publish_at": "2026-11-14T19:00:00Z",
-      "views": 1,
+      "views": 7,
       "likes": 0,
       "comments": 0
     },
@@ -609,8 +609,8 @@
       "title": "Stress at work: Japan vs the US #shorts",
       "public": true,
       "publish_at": "2026-11-10T23:00:00Z",
-      "views": 76,
-      "likes": 0,
+      "views": 77,
+      "likes": 1,
       "comments": 0
     },
     "17-lab": {
@@ -619,7 +619,7 @@
       "public": true,
       "publish_at": "2026-11-13T13:00:00Z",
       "views": 2,
-      "likes": 0,
+      "likes": 1,
       "comments": 0
     },
     "18-highlight": {
@@ -627,7 +627,7 @@
       "title": "Say \"I'm excited,\" not \"calm down\": the karaoke study #shorts",
       "public": true,
       "publish_at": "2026-11-11T23:00:00Z",
-      "views": 52,
+      "views": 46,
       "likes": 0,
       "comments": 0
     },
@@ -637,6 +637,15 @@
       "public": true,
       "publish_at": "2026-11-13T23:00:00Z",
       "views": 2,
+      "likes": 0,
+      "comments": 0
+    },
+    "18-lab": {
+      "video_id": "wo8CdV5ddgQ",
+      "title": "Say it out loud: 3 phrases for opening a short update at work #shorts",
+      "public": false,
+      "publish_at": "2026-11-15T19:00:00Z",
+      "views": 0,
       "likes": 0,
       "comments": 0
     },

@@ -138,5 +138,12 @@
     "due_at": "2026-11-15T11:00:00.000Z",
     "video_url": "https://cdn.jsdelivr.net/gh/risakwmr/claude@reels-media/ep06_reel_highlight.mp4",
     "created_at": "2026-11-15T03:01:45Z"
+  },
+  "6-story": {
+    "buffer_post_id": "6afa720160a910801c648e8a",
+    "status": "scheduled",
+    "due_at": "2026-11-16T11:00:00.000Z",
+    "video_url": "https://cdn.jsdelivr.net/gh/risakwmr/claude@reels-media/ep06_reel_story.mp4",
+    "created_at": "2026-11-16T03:01:20Z"
   }
 }

@@ -481,6 +481,16 @@
     "uploaded_at": "2026-10-10T03:34:22+00:00",
     "publish_at": "2026-10-10T03:34:22Z"
   },
+  "19-culture": {
+    "video_id": "i3pUw8deFcw",
+    "uploaded_at": "2026-11-16T21:30:38+00:00",
+    "publish_at": "2026-11-16T23:00:00Z",
+    "localized": [
+      "fr",
+      "ko",
+      "zh-TW"
+    ]
+  },
   "19-story": {
     "video_id": "gUgbqVXafzE",
     "uploaded_at": "2026-10-10T03:34:24+00:00",

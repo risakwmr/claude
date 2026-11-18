@@ -68,7 +68,7 @@
     "result": "ok"
   },
   "channel": {
-    "at": "2026-11-17T20:19:42Z",
+    "at": "2026-11-18T02:41:19Z",
     "result": "Human Curriculum | Work Skills AI Can't Do (UCSaZaQp7Ao--E-UrkQ4RnXg)"
   },
   "captions:hj8EgYR2ORo": {
@@ -1474,5 +1474,25 @@
   "short:15-ai": {
     "at": "2026-11-17T20:20:23Z",
     "result": "ok G2eS4Uy9r3Q"
+  },
+  "short:19-lab": {
+    "at": "2026-11-18T02:41:43Z",
+    "result": "ok IcEz3ubVVZ8"
+  },
+  "captions-zh-TW:Rs-Wr1nrYHo": {
+    "at": "2026-11-18T02:48:03Z",
+    "result": "ok"
+  },
+  "captions-zh-TW:D-JtMP9s8jY": {
+    "at": "2026-11-18T02:48:04Z",
+    "result": "ok"
+  },
+  "captions-zh-TW:wlikzFZjDJw": {
+    "at": "2026-11-18T02:48:04Z",
+    "result": "ok"
+  },
+  "captions-ko:Icd67lS9zds": {
+    "at": "2026-11-18T02:48:05Z",
+    "result": "ok"
   }
 }

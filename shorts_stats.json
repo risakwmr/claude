@@ -1,5 +1,5 @@
 {
-  "at": "2026-11-18T02:41:44Z",
+  "at": "2026-11-18T20:04:09Z",
   "shorts": {
     "1-ai": {
       "video_id": "IdbU6d1ox0Q",
@@ -510,7 +510,7 @@
       "title": "AI can write the words. It can't stay in the room. #shorts",
       "public": true,
       "publish_at": "2026-11-17T23:00:00Z",
-      "views": 7,
+      "views": 8,
       "likes": 0,
       "comments": 0
     },
@@ -546,7 +546,7 @@
       "title": "I joked instead of giving feedback. Big mistake. #shorts",
       "public": true,
       "publish_at": "2026-11-14T19:00:00Z",
-      "views": 7,
+      "views": 6,
       "likes": 0,
       "comments": 0
     },
@@ -672,16 +672,16 @@
       "title": "Anger at work: Japan vs the US #shorts",
       "public": true,
       "publish_at": "2026-11-16T23:00:00Z",
-      "views": 13,
+      "views": 14,
       "likes": 0,
       "comments": 0
     },
     "19-lab": {
       "video_id": "IcEz3ubVVZ8",
       "title": "Say it out loud: 3 phrases for when someone frustrates you at work #shorts",
-      "public": false,
+      "public": true,
       "publish_at": "2026-11-18T13:00:00Z",
-      "views": 0,
+      "views": 30,
       "likes": 0,
       "comments": 0
     },
@@ -701,6 +701,15 @@
       "publish_at": "2026-10-10T16:49:15Z",
       "views": 46,
       "likes": 1,
+      "comments": 0
+    },
+    "20-culture": {
+      "video_id": "XUhq_NnAx20",
+      "title": "Disappointment at work: Japan vs the US #shorts",
+      "public": false,
+      "publish_at": "2026-11-18T23:00:00Z",
+      "views": 0,
+      "likes": 0,
       "comments": 0
     },
     "20-story": {

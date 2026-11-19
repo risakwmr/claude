@@ -1,5 +1,5 @@
 {
-  "at": "2026-11-19T02:11:24Z",
+  "at": "2026-11-19T19:50:15Z",
   "shorts": {
     "1-ai": {
       "video_id": "IdbU6d1ox0Q",
@@ -510,7 +510,7 @@
       "title": "AI can write the words. It can't stay in the room. #shorts",
       "public": true,
       "publish_at": "2026-11-17T23:00:00Z",
-      "views": 9,
+      "views": 10,
       "likes": 0,
       "comments": 0
     },
@@ -634,9 +634,9 @@
     "17-story": {
       "video_id": "ErkbH8nuP0k",
       "title": "I ignored my stress signals. My team paid for it. #shorts",
-      "public": false,
+      "public": true,
       "publish_at": "2026-11-19T13:00:00Z",
-      "views": 0,
+      "views": 11,
       "likes": 0,
       "comments": 0
     },
@@ -663,7 +663,7 @@
       "title": "Say it out loud: 3 phrases for opening a short update at work #shorts",
       "public": true,
       "publish_at": "2026-11-15T19:00:00Z",
-      "views": 18,
+      "views": 17,
       "likes": 0,
       "comments": 0
     },
@@ -690,7 +690,7 @@
       "title": "Say it out loud: 3 phrases for when someone frustrates you at work #shorts",
       "public": true,
       "publish_at": "2026-11-18T13:00:00Z",
-      "views": 32,
+      "views": 91,
       "likes": 1,
       "comments": 0
     },
@@ -717,7 +717,16 @@
       "title": "Disappointment at work: Japan vs the US #shorts",
       "public": true,
       "publish_at": "2026-11-18T23:00:00Z",
-      "views": 2,
+      "views": 13,
+      "likes": 0,
+      "comments": 0
+    },
+    "20-lab": {
+      "video_id": "WluweYtHWj0",
+      "title": "Say it out loud: 3 phrases for when a decision doesn't go your way #shorts",
+      "public": false,
+      "publish_at": "2026-11-19T23:00:00Z",
+      "views": 0,
       "likes": 0,
       "comments": 0
     },
@@ -1074,7 +1083,7 @@
     "16": {
       "video_id": "D-JtMP9s8jY",
       "title": "How to Report a Mistake at Work (Without Panicking) | Business English Podcast EP16",
-      "views": 11,
+      "views": 12,
       "likes": 0,
       "comments": 0
     },

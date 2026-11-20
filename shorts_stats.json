@@ -1,5 +1,5 @@
 {
-  "at": "2026-11-19T19:50:15Z",
+  "at": "2026-11-20T01:59:19Z",
   "shorts": {
     "1-ai": {
       "video_id": "IdbU6d1ox0Q",
@@ -636,7 +636,7 @@
       "title": "I ignored my stress signals. My team paid for it. #shorts",
       "public": true,
       "publish_at": "2026-11-19T13:00:00Z",
-      "views": 11,
+      "views": 13,
       "likes": 0,
       "comments": 0
     },
@@ -690,7 +690,7 @@
       "title": "Say it out loud: 3 phrases for when someone frustrates you at work #shorts",
       "public": true,
       "publish_at": "2026-11-18T13:00:00Z",
-      "views": 91,
+      "views": 93,
       "likes": 1,
       "comments": 0
     },
@@ -717,16 +717,16 @@
       "title": "Disappointment at work: Japan vs the US #shorts",
       "public": true,
       "publish_at": "2026-11-18T23:00:00Z",
-      "views": 13,
+      "views": 17,
       "likes": 0,
       "comments": 0
     },
     "20-lab": {
       "video_id": "WluweYtHWj0",
       "title": "Say it out loud: 3 phrases for when a decision doesn't go your way #shorts",
-      "public": false,
+      "public": true,
       "publish_at": "2026-11-19T23:00:00Z",
-      "views": 0,
+      "views": 7,
       "likes": 0,
       "comments": 0
     },
@@ -746,6 +746,15 @@
       "publish_at": "2026-10-11T17:20:25Z",
       "views": 10,
       "likes": 1,
+      "comments": 0
+    },
+    "21-culture": {
+      "video_id": "hozw28mS6Zs",
+      "title": "Envy at work: Japan vs the US #shorts",
+      "public": false,
+      "publish_at": "2026-11-20T13:00:00Z",
+      "views": 0,
+      "likes": 0,
       "comments": 0
     },
     "21-story": {

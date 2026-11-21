@@ -1,5 +1,5 @@
 {
-  "at": "2026-11-20T19:30:21Z",
+  "at": "2026-11-21T01:55:21Z",
   "shorts": {
     "1-ai": {
       "video_id": "IdbU6d1ox0Q",
@@ -636,7 +636,7 @@
       "title": "I ignored my stress signals. My team paid for it. #shorts",
       "public": true,
       "publish_at": "2026-11-19T13:00:00Z",
-      "views": 13,
+      "views": 15,
       "likes": 0,
       "comments": 0
     },
@@ -654,7 +654,7 @@
       "title": "Before a speech: Japan vs the US #shorts",
       "public": true,
       "publish_at": "2026-11-13T23:00:00Z",
-      "views": 2,
+      "views": 3,
       "likes": 0,
       "comments": 0
     },
@@ -670,7 +670,7 @@
     "18-story": {
       "video_id": "3H5sZTLuEyE",
       "title": "I told myself to calm down. My talk fell flat. #shorts",
-      "public": false,
+      "public": true,
       "publish_at": "2026-11-20T23:00:00Z",
       "views": 0,
       "likes": 0,
@@ -726,7 +726,7 @@
       "title": "Disappointment at work: Japan vs the US #shorts",
       "public": true,
       "publish_at": "2026-11-18T23:00:00Z",
-      "views": 24,
+      "views": 25,
       "likes": 0,
       "comments": 0
     },
@@ -735,7 +735,7 @@
       "title": "Say it out loud: 3 phrases for when a decision doesn't go your way #shorts",
       "public": true,
       "publish_at": "2026-11-19T23:00:00Z",
-      "views": 35,
+      "views": 43,
       "likes": 0,
       "comments": 0
     },
@@ -762,7 +762,16 @@
       "title": "Envy at work: Japan vs the US #shorts",
       "public": true,
       "publish_at": "2026-11-20T13:00:00Z",
-      "views": 13,
+      "views": 17,
+      "likes": 0,
+      "comments": 0
+    },
+    "21-lab": {
+      "video_id": "DYtPeawUBTY",
+      "title": "Say it out loud: 3 phrases for turning envy into something useful #shorts",
+      "public": false,
+      "publish_at": "2026-11-21T13:00:00Z",
+      "views": 0,
       "likes": 0,
       "comments": 0
     },
@@ -1108,7 +1117,7 @@
     "17": {
       "video_id": "wlikzFZjDJw",
       "title": "Stress at Work Is a Signal: How to Read It | Business English Podcast EP17",
-      "views": 2,
+      "views": 3,
       "likes": 0,
       "comments": 1
     },

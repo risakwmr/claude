@@ -1,5 +1,5 @@
 {
-  "at": "2026-11-21T01:55:21Z",
+  "at": "2026-11-21T18:32:23Z",
   "shorts": {
     "1-ai": {
       "video_id": "IdbU6d1ox0Q",
@@ -636,9 +636,9 @@
       "title": "I ignored my stress signals. My team paid for it. #shorts",
       "public": true,
       "publish_at": "2026-11-19T13:00:00Z",
-      "views": 15,
-      "likes": 0,
-      "comments": 0
+      "views": 17,
+      "likes": 1,
+      "comments": 1
     },
     "18-highlight": {
       "video_id": "r8qLpYDR2Q0",
@@ -672,7 +672,7 @@
       "title": "I told myself to calm down. My talk fell flat. #shorts",
       "public": true,
       "publish_at": "2026-11-20T23:00:00Z",
-      "views": 0,
+      "views": 2,
       "likes": 0,
       "comments": 0
     },
@@ -699,7 +699,7 @@
       "title": "Say it out loud: 3 phrases for when someone frustrates you at work #shorts",
       "public": true,
       "publish_at": "2026-11-18T13:00:00Z",
-      "views": 102,
+      "views": 101,
       "likes": 1,
       "comments": 0
     },
@@ -735,7 +735,7 @@
       "title": "Say it out loud: 3 phrases for when a decision doesn't go your way #shorts",
       "public": true,
       "publish_at": "2026-11-19T23:00:00Z",
-      "views": 43,
+      "views": 55,
       "likes": 0,
       "comments": 0
     },
@@ -762,16 +762,16 @@
       "title": "Envy at work: Japan vs the US #shorts",
       "public": true,
       "publish_at": "2026-11-20T13:00:00Z",
-      "views": 17,
+      "views": 38,
       "likes": 0,
       "comments": 0
     },
     "21-lab": {
       "video_id": "DYtPeawUBTY",
       "title": "Say it out loud: 3 phrases for turning envy into something useful #shorts",
-      "public": false,
+      "public": true,
       "publish_at": "2026-11-21T13:00:00Z",
-      "views": 0,
+      "views": 17,
       "likes": 0,
       "comments": 0
     },
@@ -791,6 +791,15 @@
       "publish_at": "2026-10-13T03:24:14Z",
       "views": 60,
       "likes": 1,
+      "comments": 0
+    },
+    "22-culture": {
+      "video_id": "RArKc-1hspY",
+      "title": "Modesty at work: Japan vs the US #shorts",
+      "public": false,
+      "publish_at": "2026-11-21T19:00:00Z",
+      "views": 0,
+      "likes": 0,
       "comments": 0
     },
     "22-story": {

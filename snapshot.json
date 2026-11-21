@@ -1,5 +1,5 @@
 {
-  "at": "2026-11-20 12:35 JST",
+  "at": "2026-11-21 12:18 JST",
   "audience": {
     "channel_id": "UCSaZaQp7Ao--E-UrkQ4RnXg",
     "new": []
@@ -78,7 +78,7 @@
         "likes": 0,
         "title": "Stress at Work Is a Signal: How to Read It | Business English Podcast EP17",
         "video_id": "wlikzFZjDJw",
-        "views": 2
+        "views": 3
       },
       "18": {
         "comments": 1,
@@ -1138,6 +1138,14 @@
         "uploaded_at": "2026-11-15T18:20:06+00:00"
       },
       {
+        "episode": 18,
+        "episode_public": true,
+        "episode_title": "Nerves Before You Speak",
+        "short": "18-story",
+        "studio_link": "https://studio.youtube.com/video/3H5sZTLuEyE/edit",
+        "uploaded_at": "2026-11-20T19:30:21+00:00"
+      },
+      {
         "episode": 19,
         "episode_public": true,
         "episode_title": "Anger Without Damage",
@@ -1216,6 +1224,14 @@
         "short": "21-culture",
         "studio_link": "https://studio.youtube.com/video/hozw28mS6Zs/edit",
         "uploaded_at": "2026-11-20T01:59:18+00:00"
+      },
+      {
+        "episode": 21,
+        "episode_public": true,
+        "episode_title": "Envy as Information",
+        "short": "21-lab",
+        "studio_link": "https://studio.youtube.com/video/DYtPeawUBTY/edit",
+        "uploaded_at": "2026-11-21T01:55:20+00:00"
       },
       {
         "episode": 21,
@@ -1769,7 +1785,7 @@
         "publish_at": "2026-11-13T13:00:00Z",
         "title": "Say it out loud: 3 phrases for when you're stressed at work and need to say so clearly #shorts",
         "video_id": "L8B5qzg1Ypg",
-        "views": 2
+        "views": 3
       },
       "17-story": {
         "comments": 0,
@@ -1778,7 +1794,7 @@
         "publish_at": "2026-11-19T13:00:00Z",
         "title": "I ignored my stress signals. My team paid for it. #shorts",
         "video_id": "ErkbH8nuP0k",
-        "views": 13
+        "views": 15
       },
       "18-culture": {
         "comments": 0,
@@ -1787,7 +1803,7 @@
         "publish_at": "2026-11-13T23:00:00Z",
         "title": "Before a speech: Japan vs the US #shorts",
         "video_id": "8OBKOsLfnrY",
-        "views": 2
+        "views": 3
       },
       "18-highlight": {
         "comments": 0,
@@ -1807,6 +1823,15 @@
         "video_id": "wo8CdV5ddgQ",
         "views": 17
       },
+      "18-story": {
+        "comments": 0,
+        "likes": 0,
+        "public": true,
+        "publish_at": "2026-11-20T23:00:00Z",
+        "title": "I told myself to calm down. My talk fell flat. #shorts",
+        "video_id": "3H5sZTLuEyE",
+        "views": 0
+      },
       "19-culture": {
         "comments": 0,
         "likes": 0,
@@ -1814,7 +1839,7 @@
         "publish_at": "2026-11-16T23:00:00Z",
         "title": "Anger at work: Japan vs the US #shorts",
         "video_id": "i3pUw8deFcw",
-        "views": 15
+        "views": 17
       },
       "19-highlight": {
         "comments": 0,
@@ -1832,7 +1857,7 @@
         "publish_at": "2026-11-18T13:00:00Z",
         "title": "Say it out loud: 3 phrases for when someone frustrates you at work #shorts",
         "video_id": "IcEz3ubVVZ8",
-        "views": 93
+        "views": 102
       },
       "19-story": {
         "comments": 0,
@@ -1886,7 +1911,7 @@
         "publish_at": "2026-11-18T23:00:00Z",
         "title": "Disappointment at work: Japan vs the US #shorts",
         "video_id": "XUhq_NnAx20",
-        "views": 17
+        "views": 25
       },
       "20-highlight": {
         "comments": 0,
@@ -1904,7 +1929,7 @@
         "publish_at": "2026-11-19T23:00:00Z",
         "title": "Say it out loud: 3 phrases for when a decision doesn't go your way #shorts",
         "video_id": "WluweYtHWj0",
-        "views": 7
+        "views": 43
       },
       "20-story": {
         "comments": 0,
@@ -1918,11 +1943,11 @@
       "21-culture": {
         "comments": 0,
         "likes": 0,
-        "public": false,
+        "public": true,
         "publish_at": "2026-11-20T13:00:00Z",
         "title": "Envy at work: Japan vs the US #shorts",
         "video_id": "hozw28mS6Zs",
-        "views": 0
+        "views": 17
       },
       "21-highlight": {
         "comments": 0,
@@ -1932,6 +1957,15 @@
         "title": "Envy made marathon runners set higher goals #shorts",
         "video_id": "sW9FJJUKPY4",
         "views": 10
+      },
+      "21-lab": {
+        "comments": 0,
+        "likes": 0,
+        "public": false,
+        "publish_at": "2026-11-21T13:00:00Z",
+        "title": "Say it out loud: 3 phrases for turning envy into something useful #shorts",
+        "video_id": "DYtPeawUBTY",
+        "views": 0
       },
       "21-story": {
         "comments": 0,
@@ -2403,17 +2437,17 @@
       }
     },
     "shorts": {
-      "public": 109,
+      "public": 111,
       "scheduled": [
         {
-          "publish_at": "11/20 22:00 JST",
-          "short": "21-culture",
+          "publish_at": "11/21 22:00 JST",
+          "short": "21-lab",
           "state": "scheduled"
         }
       ]
     },
     "show": "Human Curriculum",
-    "stats_at": "11/20 10:59 JST",
+    "stats_at": "11/21 10:55 JST",
     "thumbnail_references": [
       "https://github.com/risakwmr/claude/blob/episodes/episodes/ep14_thumbnail.png",
       "https://github.com/risakwmr/claude/blob/episodes/episodes/ep18_thumbnail.png"
@@ -2439,8 +2473,8 @@
         },
         "episode": 34,
         "file": "episodes/ep34_thumbnail.png",
-        "hours_left": 8,
-        "needed_by": "11/20 21:00 JST",
+        "hours_left": 9,
+        "needed_by": "11/21 21:00 JST",
         "title": "Asking Clarifying Questions",
         "upload_link": "https://github.com/risakwmr/claude/upload/episodes/episodes"
       },
@@ -2465,8 +2499,8 @@
         },
         "episode": 35,
         "file": "episodes/ep35_thumbnail.png",
-        "hours_left": 20,
-        "needed_by": "11/21 09:00 JST",
+        "hours_left": 21,
+        "needed_by": "11/22 09:00 JST",
         "title": "Interrupting Politely",
         "upload_link": "https://github.com/risakwmr/claude/upload/episodes/episodes"
       },
@@ -2490,8 +2524,8 @@
         },
         "episode": 36,
         "file": "episodes/ep36_thumbnail.png",
-        "hours_left": 32,
-        "needed_by": "11/21 21:00 JST",
+        "hours_left": 33,
+        "needed_by": "11/22 21:00 JST",
         "title": "Listen, Summarize, Then Speak",
         "upload_link": "https://github.com/risakwmr/claude/upload/episodes/episodes"
       },
@@ -2515,8 +2549,8 @@
         },
         "episode": 37,
         "file": "episodes/ep37_thumbnail.png",
-        "hours_left": 44,
-        "needed_by": "11/22 09:00 JST",
+        "hours_left": 45,
+        "needed_by": "11/23 09:00 JST",
         "title": "Retell in 30 Seconds",
         "upload_link": "https://github.com/risakwmr/claude/upload/episodes/episodes"
       },
@@ -2541,8 +2575,8 @@
         },
         "episode": 38,
         "file": "episodes/ep38_thumbnail.png",
-        "hours_left": 56,
-        "needed_by": "11/22 21:00 JST",
+        "hours_left": 57,
+        "needed_by": "11/23 21:00 JST",
         "title": "Speaking Before You Feel Ready",
         "upload_link": "https://github.com/risakwmr/claude/upload/episodes/episodes"
       },
@@ -2566,8 +2600,8 @@
         },
         "episode": 39,
         "file": "episodes/ep39_thumbnail.png",
-        "hours_left": 68,
-        "needed_by": "11/23 09:00 JST",
+        "hours_left": 69,
+        "needed_by": "11/24 09:00 JST",
         "title": "Presenting with a Story",
         "upload_link": "https://github.com/risakwmr/claude/upload/episodes/episodes"
       },
@@ -2591,8 +2625,8 @@
         },
         "episode": 40,
         "file": "episodes/ep40_thumbnail.png",
-        "hours_left": 80,
-        "needed_by": "11/23 21:00 JST",
+        "hours_left": 81,
+        "needed_by": "11/24 21:00 JST",
         "title": "Pushing Back on Deadlines",
         "upload_link": "https://github.com/risakwmr/claude/upload/episodes/episodes"
       },
@@ -2617,8 +2651,8 @@
         },
         "episode": 41,
         "file": "episodes/ep41_thumbnail.png",
-        "hours_left": 92,
-        "needed_by": "11/24 09:00 JST",
+        "hours_left": 93,
+        "needed_by": "11/25 09:00 JST",
         "title": "Saying \"I Don't Know\"",
         "upload_link": "https://github.com/risakwmr/claude/upload/episodes/episodes"
       },
@@ -2643,8 +2677,8 @@
         },
         "episode": 42,
         "file": "episodes/ep42_thumbnail.png",
-        "hours_left": 104,
-        "needed_by": "11/24 21:00 JST",
+        "hours_left": 105,
+        "needed_by": "11/25 21:00 JST",
         "title": "Running a Short Meeting",
         "upload_link": "https://github.com/risakwmr/claude/upload/episodes/episodes"
       },
@@ -2669,8 +2703,8 @@
         },
         "episode": 43,
         "file": "episodes/ep43_thumbnail.png",
-        "hours_left": 116,
-        "needed_by": "11/25 09:00 JST",
+        "hours_left": 117,
+        "needed_by": "11/26 09:00 JST",
         "title": "Learning from Your Own Recording",
         "upload_link": "https://github.com/risakwmr/claude/upload/episodes/episodes"
       }
@@ -2694,6 +2728,30 @@
     "runs": [
       {
         "result": "success",
+        "started": "11/21 10:54 JST",
+        "status": "completed",
+        "trigger": "schedule",
+        "url": "https://github.com/risakwmr/claude/actions/runs/44852845828",
+        "workflow": "Make and upload episodes"
+      },
+      {
+        "result": "success",
+        "started": "11/21 04:28 JST",
+        "status": "completed",
+        "trigger": "schedule",
+        "url": "https://github.com/risakwmr/claude/actions/runs/44802491697",
+        "workflow": "Make and upload episodes"
+      },
+      {
+        "result": "success",
+        "started": "11/20 17:49 JST",
+        "status": "completed",
+        "trigger": "schedule",
+        "url": "https://github.com/risakwmr/claude/actions/runs/44705615200",
+        "workflow": "Make Instagram Reels"
+      },
+      {
+        "result": "success",
         "started": "11/20 10:57 JST",
         "status": "completed",
         "trigger": "schedule",
@@ -2706,30 +2764,6 @@
         "status": "completed",
         "trigger": "schedule",
         "url": "https://github.com/risakwmr/claude/actions/runs/44602227118",
-        "workflow": "Make and upload episodes"
-      },
-      {
-        "result": "success",
-        "started": "11/19 18:02 JST",
-        "status": "completed",
-        "trigger": "schedule",
-        "url": "https://github.com/risakwmr/claude/actions/runs/44492698671",
-        "workflow": "Make Instagram Reels"
-      },
-      {
-        "result": "success",
-        "started": "11/19 11:09 JST",
-        "status": "completed",
-        "trigger": "schedule",
-        "url": "https://github.com/risakwmr/claude/actions/runs/44442261487",
-        "workflow": "Make and upload episodes"
-      },
-      {
-        "result": "success",
-        "started": "11/19 04:48 JST",
-        "status": "completed",
-        "trigger": "schedule",
-        "url": "https://github.com/risakwmr/claude/actions/runs/44384097720",
         "workflow": "Make and upload episodes"
       }
     ]

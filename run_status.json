@@ -68,7 +68,7 @@
     "result": "ok"
   },
   "channel": {
-    "at": "2026-11-22T18:54:03Z",
+    "at": "2026-11-23T01:18:53Z",
     "result": "Human Curriculum | Work Skills AI Can't Do (UCSaZaQp7Ao--E-UrkQ4RnXg)"
   },
   "captions:hj8EgYR2ORo": {
@@ -1582,5 +1582,9 @@
   "short:18-ai": {
     "at": "2026-11-22T18:54:42Z",
     "result": "ok Y7zgBXxZxhY"
+  },
+  "short:22-lab": {
+    "at": "2026-11-23T01:19:24Z",
+    "result": "ok XZJCMnBQng0"
   }
 }

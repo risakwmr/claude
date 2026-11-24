@@ -1,5 +1,5 @@
 {
-  "at": "2026-11-23T23:12:26Z",
+  "at": "2026-11-24T21:48:47Z",
   "shorts": {
     "1-ai": {
       "video_id": "IdbU6d1ox0Q",
@@ -645,7 +645,7 @@
       "title": "AI can write your speech, not calm your heart #shorts",
       "public": true,
       "publish_at": "2026-11-22T23:00:00Z",
-      "views": 10,
+      "views": 13,
       "likes": 0,
       "comments": 0
     },
@@ -816,8 +816,8 @@
       "title": "Say it out loud: 3 phrases for owning your work #shorts",
       "public": true,
       "publish_at": "2026-11-23T13:00:00Z",
-      "views": 51,
-      "likes": 0,
+      "views": 84,
+      "likes": 1,
       "comments": 0
     },
     "22-story": {
@@ -835,6 +835,15 @@
       "public": true,
       "publish_at": "2026-10-13T18:58:29Z",
       "views": 25,
+      "likes": 0,
+      "comments": 0
+    },
+    "23-culture": {
+      "video_id": "0zzxHXEYKXA",
+      "title": "Saying no at work: Japan vs the US #shorts",
+      "public": false,
+      "publish_at": "2026-11-24T23:00:00Z",
+      "views": 0,
       "likes": 0,
       "comments": 0
     },

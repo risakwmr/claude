@@ -1,5 +1,5 @@
 {
-  "at": "2026-11-26T03:20:31Z",
+  "at": "2026-11-26T20:47:12Z",
   "shorts": {
     "1-ai": {
       "video_id": "IdbU6d1ox0Q",
@@ -717,7 +717,7 @@
       "title": "Say it out loud: 3 phrases for when someone frustrates you at work #shorts",
       "public": true,
       "publish_at": "2026-11-18T13:00:00Z",
-      "views": 100,
+      "views": 102,
       "likes": 1,
       "comments": 0
     },
@@ -859,10 +859,10 @@
     "23-lab": {
       "video_id": "a0LDBvJ7Mao",
       "title": "Say it out loud: 3 phrases for saying no without burning bridges #shorts",
-      "public": false,
+      "public": true,
       "publish_at": "2026-11-26T13:00:00Z",
-      "views": 0,
-      "likes": 0,
+      "views": 32,
+      "likes": 1,
       "comments": 0
     },
     "23-story": {
@@ -880,6 +880,15 @@
       "public": true,
       "publish_at": "2026-10-14T16:28:54Z",
       "views": 3,
+      "likes": 0,
+      "comments": 0
+    },
+    "24-culture": {
+      "video_id": "bV9jKyn6Xbg",
+      "title": "Leaving work on time: Japan vs the US #shorts",
+      "public": false,
+      "publish_at": "2026-11-26T23:00:00Z",
+      "views": 0,
       "likes": 0,
       "comments": 0
     },

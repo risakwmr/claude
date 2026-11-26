@@ -1,5 +1,5 @@
 {
-  "at": "2026-11-25T20:55:44Z",
+  "at": "2026-11-26T03:20:31Z",
   "shorts": {
     "1-ai": {
       "video_id": "IdbU6d1ox0Q",
@@ -688,7 +688,7 @@
     "19-ai": {
       "video_id": "E0uY_PkEdNI",
       "title": "AI can fix your angry email, not your timing #shorts",
-      "public": false,
+      "public": true,
       "publish_at": "2026-11-25T23:00:00Z",
       "views": 0,
       "likes": 0,
@@ -852,7 +852,16 @@
       "title": "Saying no at work: Japan vs the US #shorts",
       "public": true,
       "publish_at": "2026-11-24T23:00:00Z",
-      "views": 27,
+      "views": 39,
+      "likes": 0,
+      "comments": 0
+    },
+    "23-lab": {
+      "video_id": "a0LDBvJ7Mao",
+      "title": "Say it out loud: 3 phrases for saying no without burning bridges #shorts",
+      "public": false,
+      "publish_at": "2026-11-26T13:00:00Z",
+      "views": 0,
       "likes": 0,
       "comments": 0
     },

@@ -1,5 +1,5 @@
 {
-  "at": "2026-11-27T03:26:15Z",
+  "at": "2026-11-27T20:32:19Z",
   "shorts": {
     "1-ai": {
       "video_id": "IdbU6d1ox0Q",
@@ -690,7 +690,7 @@
       "title": "AI can fix your angry email, not your timing #shorts",
       "public": true,
       "publish_at": "2026-11-25T23:00:00Z",
-      "views": 0,
+      "views": 1,
       "likes": 0,
       "comments": 0
     },
@@ -733,7 +733,7 @@
     "20-ai": {
       "video_id": "2dFBtUVIrRA",
       "title": "AI can format lessons. Only you can choose to look #shorts",
-      "public": false,
+      "public": true,
       "publish_at": "2026-11-27T13:00:00Z",
       "views": 0,
       "likes": 0,
@@ -898,6 +898,15 @@
       "public": true,
       "publish_at": "2026-11-26T23:00:00Z",
       "views": 1,
+      "likes": 0,
+      "comments": 0
+    },
+    "24-lab": {
+      "video_id": "MmPEq7Xkmro",
+      "title": "Say it out loud: 3 phrases for ending your workday #shorts",
+      "public": false,
+      "publish_at": "2026-11-27T23:00:00Z",
+      "views": 0,
       "likes": 0,
       "comments": 0
     },

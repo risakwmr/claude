@@ -222,5 +222,12 @@
     "due_at": "2026-11-27T11:00:00.000Z",
     "video_url": "https://cdn.jsdelivr.net/gh/risakwmr/claude@reels-media/ep09_reel_ai.mp4",
     "created_at": "2026-11-27T03:00:20Z"
+  },
+  "9-story": {
+    "buffer_post_id": "6b0a43c1eab081a3f51a5caf",
+    "status": "scheduled",
+    "due_at": "2026-11-28T11:00:00.000Z",
+    "video_url": "https://cdn.jsdelivr.net/gh/risakwmr/claude@reels-media/ep09_reel_story.mp4",
+    "created_at": "2026-11-28T03:00:16Z"
   }
 }

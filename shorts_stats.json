@@ -1,5 +1,5 @@
 {
-  "at": "2026-11-27T20:32:19Z",
+  "at": "2026-11-28T03:02:27Z",
   "shorts": {
     "1-ai": {
       "video_id": "IdbU6d1ox0Q",
@@ -105,7 +105,7 @@
       "title": "Name the feeling: the tarantula experiment #shorts",
       "public": true,
       "publish_at": "2026-10-07T09:00:00Z",
-      "views": 2,
+      "views": 3,
       "likes": 0,
       "comments": 1
     },
@@ -904,9 +904,9 @@
     "24-lab": {
       "video_id": "MmPEq7Xkmro",
       "title": "Say it out loud: 3 phrases for ending your workday #shorts",
-      "public": false,
+      "public": true,
       "publish_at": "2026-11-27T23:00:00Z",
-      "views": 0,
+      "views": 19,
       "likes": 0,
       "comments": 0
     },
@@ -925,6 +925,15 @@
       "public": true,
       "publish_at": "2026-10-15T16:10:39Z",
       "views": 5,
+      "likes": 0,
+      "comments": 0
+    },
+    "25-culture": {
+      "video_id": "9M6xv1uZauU",
+      "title": "Perfectionism at work: Japan vs the US #shorts",
+      "public": false,
+      "publish_at": "2026-11-28T13:00:00Z",
+      "views": 0,
       "likes": 0,
       "comments": 0
     },
